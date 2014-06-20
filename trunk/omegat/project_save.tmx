@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T145945Z" creationid="Administrator" creationdate="20140620T145945Z">
+        <seg>DEUTSCH/ENGLISH</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
