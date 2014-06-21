@@ -148,6 +148,22 @@
         <seg>• 此裝置設計不適用於身體、感官或精神狀態異常之人員（包含幼童），或不具有充足經驗及知識之人員，除非有能負責其安全之人員在旁協助或指導使用裝置。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• do not treat any parts of the body that have swellings, burns, inflammation, peeling skin, wounds or other sensitive points,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042532Z" creationid="Administrator" creationdate="20140621T042532Z">
+        <seg>• 請勿用於身體上任何腫脹、燒傷、發炎、脫皮、傷口或其他敏感的部份，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• on children,&lt;t0/&gt; &lt;t1/&gt;• on animals,&lt;t2/&gt; &lt;t3/&gt;• you are pregnant, • on the head&lt;t4/&gt; &lt;t5/&gt;and the throat,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042403Z" creationid="Administrator" creationdate="20140621T042403Z">
+        <seg>• 幼童， • 動物， • 孕婦， • 頭部及咽喉，</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
