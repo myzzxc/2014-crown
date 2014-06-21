@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;Safety Information!</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040219Z" creationid="Administrator" creationdate="20140621T040219Z">
-        <seg>1 Safety Information!</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z" creationid="Administrator" creationdate="20140621T040219Z">
+        <seg>1 安全資訊 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040446Z" creationid="Administrator" creationdate="20140621T035810Z">
         <seg>使用此裝置前仔細閱讀使用說明，特別是安全說明，並保留說明手冊供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should&lt;t0/&gt; &lt;t1/&gt;you&lt;t2/&gt; &lt;t3/&gt;give&lt;t4/&gt; &lt;t5/&gt;this device to another person, it is vital that&lt;t6/&gt; &lt;t7/&gt;you&lt;t8/&gt; &lt;t9/&gt;also&lt;t10/&gt; &lt;t11/&gt;pass&lt;t12/&gt; &lt;t13/&gt;on these instructions for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040647Z" creationid="Administrator" creationdate="20140621T040647Z">
+        <seg>若將此裝置轉送他人，需連同此說明手冊一併附上以供使用。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
