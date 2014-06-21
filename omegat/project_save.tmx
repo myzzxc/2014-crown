@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only have repairs carried out by an authorized specialist dealer or suitably qualified personnel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092429Z" creationid="Administrator" creationdate="20140621T092429Z">
+        <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only use the heating blanket indoors!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084618Z" creationid="Administrator" creationdate="20140621T084618Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Do not repair the heating blanket yourself in the event of damage or malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092345Z" creationid="Administrator" creationdate="20140621T092345Z">
+        <seg>• 當電熱毯故障或異常時請勿自行修理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Do not use any electrical equipment&lt;t0/&gt; &lt;t1/&gt;while in the bath or shower.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052258Z" creationid="Administrator" creationdate="20140621T052258Z">
@@ -1090,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053805Z" creationid="Administrator" creationdate="20140621T053805Z">
         <seg>• 請勿以電源線移動、拉扯或旋轉裝置，且勿使其他物體夾住或撞擊電源線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Never carry, pull or twist the heating blanket by the mains lead and do not allow the lead to become tangled or snagged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092304Z" creationid="Administrator" creationdate="20140621T092304Z">
+        <seg>• 請勿以電源線移動、拉扯或旋轉電熱毯，且勿使電線糾纏或受其他物品勾住。</seg>
       </tuv>
     </tu>
     <tu>
