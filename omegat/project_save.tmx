@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it becomes damp it must be air-dried.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151025Z" creationid="Administrator" creationdate="20140621T151025Z">
+        <seg>若其潮濕時，必須進行風乾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the power supply cable is damaged, the whole foot warmer must be disposed of.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z" creationid="Administrator" creationdate="20140621T143108Z">
@@ -1366,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small marks can be removed with a cloth or a slightly damp sponge, using a mild liquid cleaner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150930Z" creationid="Administrator" creationdate="20140621T150930Z">
+        <seg>微小的痕跡可使用抹布或微濕海綿，搭配溫和的液體清潔劑清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snuggle up under the extra-soft heating blanket for a pleasant, cosy well-being.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T095323Z">
@@ -1506,6 +1522,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074318Z" creationid="Administrator" creationdate="20140621T074318Z">
         <seg>以下為保固適用條款：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The foot warmer can be cleaned dry with a soft brush.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150820Z" creationid="Administrator" creationdate="20140621T150820Z">
+        <seg>暖腳機可使用軟刷乾刷清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The foot warmer may not become wet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150956Z" creationid="Administrator" creationdate="20140621T150956Z">
+        <seg>請勿弄濕暖腳機，</seg>
       </tuv>
     </tu>
     <tu>
