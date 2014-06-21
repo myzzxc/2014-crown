@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Always pull the mains adapter out of the socket in the case of an electrical unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T071745Z" creationid="Administrator" creationdate="20140621T071745Z">
+        <seg>• 請將電源由插座上拔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Before connecting the device to your power&lt;t0/&gt; &lt;t1/&gt;supply, please ensure&lt;t2/&gt; &lt;t3/&gt;that&lt;t4/&gt; &lt;t5/&gt;the supply voltage stated&lt;t6/&gt; &lt;t7/&gt;on the rating plate is compatible&lt;t8/&gt; &lt;t9/&gt;with your mains supply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041133Z" creationid="Administrator" creationdate="20140621T041133Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053805Z" creationid="Administrator" creationdate="20140621T053805Z">
         <seg>• 請勿以電源線移動、拉扯或旋轉裝置，且勿使其他物體夾住或撞擊電源線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Never use strong&lt;t0/&gt; &lt;t1/&gt;cleaning agents&lt;t2/&gt; &lt;t3/&gt;or stiff brushes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T071816Z" creationid="Administrator" creationdate="20140621T071816Z">
+        <seg>• 請勿使用強力清潔劑或硬刷。</seg>
       </tuv>
     </tu>
     <tu>
