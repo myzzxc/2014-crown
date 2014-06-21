@@ -190,6 +190,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Safet&lt;/f2&gt;&lt;f3&gt;y&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Information&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115127Z" creationid="Administrator" creationdate="20140621T115127Z">
+        <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;安全&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;資訊&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;2&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Operating&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115141Z" creationid="Administrator" creationdate="20140621T115141Z">
+        <seg>&lt;f0&gt;2&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;操作&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;3&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Miscellaneous&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115156Z" creationid="Administrator" creationdate="20140621T115156Z">
+        <seg>&lt;f0&gt;3&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;其他事項&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;4&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;W&lt;/f2&gt;&lt;f3&gt;arranty&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115210Z" creationid="Administrator" creationdate="20140621T115210Z">
+        <seg>&lt;f0&gt;4&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;保固&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;If you require a higher temperature setting, move the switch to the next positions, &lt;/f0&gt;&lt;f1&gt;2 &lt;/f1&gt;&lt;f2&gt;or &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt;, or to the maximum heat setting, position &lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111021Z" creationid="Administrator" creationdate="20140621T111021Z">
@@ -200,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Internet: &lt;/f0&gt;&lt;a1&gt;www.medisana.de&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115011Z" creationid="Administrator" creationdate="20140621T115011Z">
-        <seg>&lt;f0&gt;網址：&lt;/f0&gt;&lt;a1&gt;www.medisana&lt;/a1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115036Z" creationid="Administrator" creationdate="20140621T115011Z">
+        <seg>&lt;f0&gt;網址：&lt;/f0&gt;&lt;a1&gt;www.medisana.de&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115058Z" creationid="Administrator" creationdate="20140621T115058Z">
+        <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gymnastics, sport, a balanced&lt;t0/&gt; &lt;t1/&gt;diet and massages&lt;t2/&gt; &lt;t3/&gt;to encourage better&lt;t4/&gt; &lt;t5/&gt;circulation do,&lt;t6/&gt; &lt;t7/&gt;however,&lt;t8/&gt; &lt;t9/&gt;make&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;fat deposits&lt;t14/&gt; &lt;t15/&gt;melt away.&lt;t16/&gt; &lt;t17/&gt;They stimulate&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;metabolism, boost&lt;t22/&gt; &lt;t23/&gt;the lymphatic circulation and have a positive effect on the connective&lt;t24/&gt; &lt;t25/&gt;tissue.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063900Z" creationid="Administrator" creationdate="20140621T063900Z">
@@ -712,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>Internet:&lt;t0/&gt; &lt;t1/&gt;www.medisana.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075614Z" creationid="Administrator" creationdate="20140621T075614Z">
-        <seg>網址：&lt;t0/&gt; &lt;t1/&gt;www.medisana.</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115041Z" creationid="Administrator" creationdate="20140621T075614Z">
+        <seg>網址：&lt;t0/&gt; &lt;t1/&gt;www.medisana.de</seg>
       </tuv>
     </tu>
     <tu>
@@ -1233,6 +1273,14 @@
         <seg>The service &lt;t0/&gt;center &lt;t1/&gt;address&lt;t2/&gt; &lt;t3/&gt;is shown&lt;t4/&gt; &lt;t5/&gt;on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z" creationid="Administrator" creationdate="20140621T075733Z">
+        <seg>服務中心地址另行附上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The service centre address is shown on the attached leaflet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115048Z" creationid="Administrator" creationdate="20140621T115048Z">
         <seg>服務中心地址另行附上。</seg>
       </tuv>
     </tu>
