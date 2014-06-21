@@ -128,16 +128,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;• Do &lt;/f0&gt;&lt;f1&gt;not &lt;/f1&gt;&lt;f2&gt;use if you notice wear, damage or signs of improper use on the electric blanket, the switch or the cables.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083301Z" creationid="Administrator" creationdate="20140621T083145Z">
-        <seg>• Do not use if you notice wear, damage or signs of improper use on the electric blanket, the switch or the cables.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085408Z" creationid="Administrator" creationdate="20140621T083145Z">
+        <seg>&lt;f0&gt;• 若您發現磨損、損壞或有不當使用電熱毯、交換器或電線的跡象時&lt;/f0&gt;&lt;f1&gt;請勿&lt;/f1&gt;&lt;f2&gt;使用，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;• If the power supply cable is damaged, it may only be replaced by &lt;/f0&gt;&lt;f1&gt;MEDISANA&lt;/f1&gt;&lt;f2&gt;, an authorized dealer or by qualified personnel to avoid any risk of danger.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083301Z" creationid="Administrator" creationdate="20140621T083153Z">
-        <seg>• If the power supply cable is damaged, it may only be replaced by MEDISANA, an authorized dealer or by qualified personnel to avoid any risk of danger.&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085506Z" creationid="Administrator" creationdate="20140621T083153Z">
+        <seg>&lt;f0&gt;• 若電源線或變壓器損壞，僅能由&lt;/f0&gt;&lt;f1&gt; MEDISANA &lt;/f1&gt;&lt;f2&gt;授權經銷商或合格人員更換。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return it to the supplier.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085432Z" creationid="Administrator" creationdate="20140621T085432Z">
+        <seg>請退回至供應商。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should you give this device to another person, it is vital that you also pass on these instructions for use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083058Z" creationid="Administrator" creationdate="20140621T083058Z">
@@ -880,8 +888,8 @@
       <tuv lang="EN-US">
         <seg>• Check the heating blanket carefully before each use, if you notice wear or damage</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085130Z" creationid="Administrator" creationdate="20140621T085130Z">
-        <seg>• 每次使用前仔細檢查電熱毯是否磨損或損壞</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085402Z" creationid="Administrator" creationdate="20140621T085130Z">
+        <seg>• 使用前仔細檢查電熱毯是否磨損或損壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1042,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060609Z" creationid="Administrator" creationdate="20140621T060609Z">
         <seg>• 當裝置以關機且不使用時、或需更換或清潔時拔除插頭，拔除插頭時請保持手部乾燥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Only use the heating blanket for its intended use as in the instruction manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085543Z" creationid="Administrator" creationdate="20140621T085543Z">
+        <seg>•僅依電熱毯設計之功能使用，並遵循說明手冊之指示。</seg>
       </tuv>
     </tu>
     <tu>
