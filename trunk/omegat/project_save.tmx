@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z" creationid="Administrator" creationdate="20140621T150020Z">
+        <seg>手感受稍微暖和的溫度可能使雙腳感覺溫度高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few minutes you will be able to feel the heating blanket getting noticeably warmer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T110657Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063900Z" creationid="Administrator" creationdate="20140621T063900Z">
         <seg>健身、運動、均衡飲食和按摩以促進循環，可使脂肪沈積融解，刺激代謝、促進淋巴循環，對於結締組織有正面的幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hands are considerably less sensitive towards heat than the rest of the body’s surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z" creationid="Administrator" creationdate="20140621T145850Z">
+        <seg>手較身體的其它部分對於溫度不敏感，</seg>
       </tuv>
     </tu>
     <tu>
