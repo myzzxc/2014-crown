@@ -94,6 +94,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;All damage which&lt;t1/&gt; &lt;t2/&gt;has&lt;t3/&gt; &lt;t4/&gt;arisen&lt;t5/&gt; &lt;t6/&gt;due&lt;t7/&gt; &lt;t8/&gt;to&lt;t9/&gt; &lt;t10/&gt;improper&lt;t11/&gt; &lt;t12/&gt;treatment, e.g.&lt;t13/&gt; &lt;t14/&gt;non-observance of&lt;t15/&gt; &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;user instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074911Z" creationid="Administrator" creationdate="20140621T074911Z">
+        <seg>所有不當使用造成之損壞，例如不遵守使用說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Defects in material or workmanship will be removed&lt;t1/&gt; &lt;t2/&gt;free of charge&lt;t3/&gt; &lt;t4/&gt;within the warranty&lt;t5/&gt; &lt;t6/&gt;period.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074626Z" creationid="Administrator" creationdate="20140621T074626Z">
+        <seg>保固期內材料或加工缺陷將免費維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Repairs under warranty do not extend the warranty period either for the unit or for the replacement parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074722Z" creationid="Administrator" creationdate="20140621T074722Z">
+        <seg>保固期間內維修或更換零件並不延長保固期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;The following is excluded under&lt;t1/&gt; &lt;t2/&gt;the warranty:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074800Z" creationid="Administrator" creationdate="20140621T074753Z">
+        <seg>以下為非保固範圍：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The warranty&lt;t1/&gt; &lt;t2/&gt;period&lt;t3/&gt; &lt;t4/&gt;for &lt;t5/&gt;MEDISANA &lt;t6/&gt;products&lt;t7/&gt; &lt;t8/&gt;is three&lt;t9/&gt; &lt;t10/&gt;years from date&lt;t11/&gt; &lt;t12/&gt;of purchase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074423Z" creationid="Administrator" creationdate="20140621T074423Z">
