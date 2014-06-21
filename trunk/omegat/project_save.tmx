@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not puncture the foot warmer!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125846Z" creationid="Administrator" creationdate="20140621T125846Z">
+        <seg>請勿刺破暖腳機！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not puncture the heating blanket!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114059Z" creationid="Administrator" creationdate="20140621T084356Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052411Z" creationid="Administrator" creationdate="20140621T052411Z">
         <seg>請勿將電器設備置於可能掉落浴缸或洗臉盆處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use the foot warmer when it is folded!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125857Z" creationid="Administrator" creationdate="20140621T125857Z">
+        <seg>暖腳機請勿於折疊時使用 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084554Z" creationid="Administrator" creationdate="20140621T084539Z">
         <seg>禁止幼童（0 - 3 歲）使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not to be used by very young children (0-3 years)!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125922Z" creationid="Administrator" creationdate="20140621T125922Z">
+        <seg>禁止幼童（0 - 3 歲）使用！</seg>
       </tuv>
     </tu>
     <tu>
