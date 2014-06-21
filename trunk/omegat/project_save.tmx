@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please contact&lt;t0/&gt; &lt;t1/&gt;your dealer&lt;t2/&gt; &lt;t3/&gt;or the service &lt;t4/&gt;center &lt;t5/&gt;in case of a claim under&lt;t6/&gt; &lt;t7/&gt;the warranty.&lt;t8/&gt; &lt;t9/&gt;If you have to return&lt;t10/&gt; &lt;t11/&gt;the unit, please enclose a copy of your receipt and state&lt;t12/&gt; &lt;t13/&gt;what&lt;t14/&gt; &lt;t15/&gt;the defect&lt;t16/&gt; &lt;t17/&gt;is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074240Z" creationid="Administrator" creationdate="20140621T074240Z">
+        <seg>任何保固內維修請聯繫您的經銷商或服務中心。若需退貨，請附上收據並說明損壞處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please dispose properly of any packaging&lt;t2/&gt; &lt;t3/&gt;material no longer required.&lt;t4/&gt; &lt;t5/&gt;If you notice&lt;t6/&gt; &lt;t7/&gt;any transport damage during&lt;t8/&gt; &lt;t9/&gt;unpacking, please&lt;t10/&gt; &lt;t11/&gt;contact&lt;t12/&gt; &lt;t13/&gt;your dealer&lt;t14/&gt; &lt;t15/&gt;without delay.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063001Z" creationid="Administrator" creationdate="20140621T063001Z">
