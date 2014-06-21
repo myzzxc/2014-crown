@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z" creationid="Administrator" creationdate="20140621T041950Z">
+        <seg>此舉將使保固失效且可能造成嚴重危險（火災、觸電、受傷）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042028Z" creationid="Administrator" creationdate="20140621T042028Z">
+        <seg>僅由授權服務句點進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RETAIN FOR FUTURE USE!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040506Z" creationid="Administrator" creationdate="20140621T040309Z">
@@ -66,6 +82,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040927Z" creationid="Administrator" creationdate="20140621T040927Z">
         <seg>此裝置非用於商業用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use of the&lt;t0/&gt; &lt;t1/&gt;massage device is prohibited in the&lt;t2/&gt; &lt;t3/&gt;following cases:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042302Z" creationid="Administrator" creationdate="20140621T042219Z">
+        <seg>以下人員及情況下禁止使用按摩裝置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042039Z" creationid="Administrator" creationdate="20140621T042039Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
