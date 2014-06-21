@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;If you require a higher temperature setting, move the switch to the next positions, &lt;/f0&gt;&lt;f1&gt;2 &lt;/f1&gt;&lt;f2&gt;or &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt;, or to the maximum heat setting, position &lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111021Z" creationid="Administrator" creationdate="20140621T111021Z">
+        <seg>&lt;f0&gt;如果您需要設置更高的溫度，移動開關到下一個位置 &lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt; 或 &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt;，或最高溫度於位置 &lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;&lt;f6&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Plug the unit into the mains outlet and move the slider control from position &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;to position &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110328Z" creationid="Administrator" creationdate="20140621T110056Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111118Z" creationid="Administrator" creationdate="20140621T111118Z">
+        <seg>每次切換開關時亮綠燈，然後閃著紅光在其中設置了開關 （兩個、 三個或四個閃爍） 的水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explanation of symbols</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081601Z" creationid="Administrator" creationdate="20140621T081601Z">
@@ -632,8 +648,8 @@
       <tuv lang="EN-US">
         <seg>Operation indicator lamp initially lights up green, then it flashes red and subsequently it lights up red for the remainder of the warm- up phase.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110617Z" creationid="Administrator" creationdate="20140621T110617Z">
-        <seg>操作指示燈最初為綠色，接著閃爍紅光代表加熱階段。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111151Z" creationid="Administrator" creationdate="20140621T110617Z">
+        <seg>操作指示燈最初為綠色，接著閃爍紅光然後紅光恆亮代表加熱階段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1096,8 @@
       <tuv lang="EN-US">
         <seg>When the next warm-up phase begins, operation indicator lamp lights up red again.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110734Z" creationid="Administrator" creationdate="20140621T110734Z">
-        <seg>在接下來的熱身階段開始時，操作指示燈燈亮起紅再次。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z" creationid="Administrator" creationdate="20140621T110734Z">
+        <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
