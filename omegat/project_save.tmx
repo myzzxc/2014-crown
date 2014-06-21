@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073055Z" creationid="Administrator" creationdate="20140621T072955Z">
-        <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保丟棄符合環保。關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080314Z" creationid="Administrator" creationdate="20140621T072955Z">
+        <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保處置符合環保。關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T145945Z" creationid="Administrator" creationdate="20140620T145945Z">
-        <seg>DEUTSCH/ENGLISH</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080336Z" creationid="Administrator" creationdate="20140620T145945Z">
+        <seg>中文</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075602Z" creationid="Administrator" creationdate="20140621T075602Z">
         <seg>電子郵件：&lt;t0/&gt; &lt;t1/&gt;info@medisana.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ENGLISH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z" creationid="Administrator" creationdate="20140621T080321Z">
+        <seg>中文</seg>
       </tuv>
     </tu>
     <tu>
