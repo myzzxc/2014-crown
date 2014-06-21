@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Name and model: &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket &lt;/f2&gt;&lt;f3&gt;HDW&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113627Z" creationid="Administrator" creationdate="20140621T113627Z">
+        <seg>&lt;f0&gt;名稱及型號：&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;ㄏ舒適電熱毯 &lt;/f2&gt;&lt;f3&gt;HDW&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Plug the unit into the mains outlet and move the slider control from position &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;to position &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110328Z" creationid="Administrator" creationdate="20140621T110056Z">
@@ -160,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;With the &lt;/f0&gt;&lt;f1&gt;HDW &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket you have purchased a &lt;/f2&gt;&lt;f3&gt;MEDISANA &lt;/f3&gt;&lt;f4&gt;quality product&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094341Z" creationid="Administrator" creationdate="20140621T094341Z">
-        <seg>&lt;f0&gt;您購買了&lt;/f0&gt;&lt;f1&gt; MEDISANA &lt;/f1&gt;&lt;f2&gt;的優質產品&lt;/f2&gt;&lt;f3&gt; HDW Cosy &lt;/f3&gt;&lt;f4&gt;電熱毯&lt;/f4&gt;&lt;f5&gt;。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113651Z" creationid="Administrator" creationdate="20140621T094341Z">
+        <seg>ㄏ&lt;f0&gt;您購買了&lt;/f0&gt;&lt;f1&gt; MEDISANA &lt;/f1&gt;&lt;f2&gt;的優質產品&lt;/f2&gt;&lt;f3&gt; HDW &lt;/f3&gt;&lt;f4&gt;舒適電熱毯&lt;/f4&gt;&lt;f5&gt;。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All users are obliged to hand in all electrical or electronic devices, regardless of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can be disposed of in an environmentally acceptable manner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113519Z" creationid="Administrator" creationdate="20140621T113519Z">
+        <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保處置符合環保。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080314Z" creationid="Administrator" creationdate="20140621T072955Z">
@@ -314,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z" creationid="Administrator" creationdate="20140621T100325Z">
         <seg>清潔和維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z" creationid="Administrator" creationdate="20140621T113529Z">
+        <seg>關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Store the heating blanket in a clean and dry place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113433Z" creationid="Administrator" creationdate="20140621T113433Z">
+        <seg>將按摩器放置於乾燥、涼爽處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z" creationid="Administrator" creationdate="20140621T100346Z">
@@ -938,6 +970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095743Z" creationid="Administrator" creationdate="20140621T095743Z">
         <seg>電熱毯的電動溫度控制可根據所選的設置（1-2-3-4）精確地調節溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The heating blanket may only be operated with its special control unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113421Z" creationid="Administrator" creationdate="20140621T113421Z">
+        <seg>電熱毯僅能使用其專用控制器進行操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z" creationid="Administrator" creationdate="20140621T081638Z">
         <seg>本使用說明書屬於此裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product must not be disposed of together with domestic waste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113442Z" creationid="Administrator" creationdate="20140621T113442Z">
+        <seg>此產品不得作為一般垃圾丟棄。</seg>
       </tuv>
     </tu>
     <tu>
