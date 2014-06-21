@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not rely on your hands to test the heat of the foot warmer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145723Z" creationid="Administrator" creationdate="20140621T145723Z">
+        <seg>請勿用手測試暖腳機的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not store or keep any electrical equipment&lt;t2/&gt; &lt;t3/&gt;in places where it could fall into the bathtub&lt;t4/&gt; &lt;t5/&gt;or washbasin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052411Z" creationid="Administrator" creationdate="20140621T052411Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081601Z" creationid="Administrator" creationdate="20140621T081601Z">
         <seg>符號說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this reason, the control unit must not be covered or placed on the foot warmer while the appliance is switched on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145639Z" creationid="Administrator" creationdate="20140621T145639Z">
+        <seg>因此，裝置開啟時控制器不得被覆蓋或放置在暖腳機上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T110723Z">
         <seg>當保溫電毯達到設定溫度時，再次照亮起綠燈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the foot warmer is in operation, the control unit may warm up slightly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145510Z" creationid="Administrator" creationdate="20140621T145510Z">
+        <seg>使用暖腳機時，控制器會些微發熱，</seg>
       </tuv>
     </tu>
     <tu>
