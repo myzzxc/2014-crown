@@ -110,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then let the appliance&lt;t2/&gt; &lt;t3/&gt;cool down&lt;t4/&gt; &lt;t5/&gt;for at least 30 minutes&lt;t6/&gt; &lt;t7/&gt;before&lt;t8/&gt; &lt;t9/&gt;using it again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z" creationid="Administrator" creationdate="20140621T054311Z">
+        <seg>於下次使用前需使裝置至少冷卻 30 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then switch off the unit for at least half an hour and allow it to cool down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054100Z" creationid="Administrator" creationdate="20140621T054100Z">
+        <seg>並於使用至少關閉裝置半小時以冷卻裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use of the&lt;t0/&gt; &lt;t1/&gt;massage device is prohibited in the&lt;t2/&gt; &lt;t3/&gt;following cases:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042302Z" creationid="Administrator" creationdate="20140621T042219Z">
@@ -194,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053425Z" creationid="Administrator" creationdate="20140621T053425Z">
         <seg>• 若電源線或變壓器損壞，僅能由 MEDISANA 授權經銷商或合格人員更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you place too much strain on the appliance,&lt;t0/&gt; &lt;t1/&gt;it will be switched off by a thermal fuse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054211Z" creationid="Administrator" creationdate="20140621T054211Z">
+        <seg>• 若施加於裝置之壓力過大，其溫度保險絲將切斷裝置運行。</seg>
       </tuv>
     </tu>
     <tu>
