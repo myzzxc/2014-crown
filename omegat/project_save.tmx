@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have acquired a quality product&lt;t0/&gt; &lt;t1/&gt;with your purchase&lt;t2/&gt; &lt;t3/&gt;of the cellulite manager unit from &lt;t4/&gt;MEDISANA&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062050Z" creationid="Administrator" creationdate="20140621T062050Z">
+        <seg>當您向 MEDISANA 購買脂肪按摩器，您獲得了高品質的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• &lt;t0/&gt;Only&lt;t1/&gt; &lt;t2/&gt;use&lt;t3/&gt; &lt;t4/&gt;this&lt;t5/&gt; &lt;t6/&gt;unit&lt;t7/&gt; &lt;t8/&gt;according&lt;t9/&gt; &lt;t10/&gt;to&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;intended purpose&lt;t15/&gt; &lt;t16/&gt;and&lt;t17/&gt; &lt;t18/&gt;as&lt;t19/&gt; &lt;t20/&gt;directed&lt;t21/&gt; &lt;t22/&gt;in&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;instruction manual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040851Z" creationid="Administrator" creationdate="20140621T040851Z">
@@ -264,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>• Massages&lt;t0/&gt; &lt;t1/&gt;using the&lt;t2/&gt; &lt;t3/&gt;cellulite massager&lt;t4/&gt; &lt;t5/&gt;are not&lt;t6/&gt; &lt;t7/&gt;a substitute for treatments administered by doctors or physiotherapists.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061710Z" creationid="Administrator" creationdate="20140621T061710Z">
-        <seg>• 使用脂肪按摩器按摩並不能取代醫師或物理治療師所進行之療程。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062123Z" creationid="Administrator" creationdate="20140621T061710Z">
+        <seg>• 使用橘皮組織按摩器按摩並不能取代醫師或物理治療師所進行之療程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>• The treatment should be pleasant.&lt;t0/&gt; &lt;t1/&gt;Stop at once and consult your doctor if you feel pain or the treatment seems unpleasant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061428Z" creationid="Administrator" creationdate="20140621T061428Z">
-        <seg>• 按摩過程應相當舒適，若您感覺疼痛或有任何不適請立即停止使用並向醫師諮詢。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062134Z" creationid="Administrator" creationdate="20140621T061428Z">
+        <seg>• 療程應相當舒適，若您感覺疼痛或有任何不適請立即停止使用並向醫師諮詢。</seg>
       </tuv>
     </tu>
     <tu>
