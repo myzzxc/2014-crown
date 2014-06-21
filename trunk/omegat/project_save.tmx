@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;• Do &lt;/f0&gt;&lt;f1&gt;not &lt;/f1&gt;&lt;f2&gt;use if you notice wear, damage or signs of improper use on the foot warmer, the switch or the cables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130431Z" creationid="Administrator" creationdate="20140621T130431Z">
+        <seg>&lt;f0&gt;• 若您發現磨損、損壞或有不當使用暖腳機、交換器或電線的跡象時&lt;/f0&gt;&lt;f1&gt;請勿&lt;/f1&gt;&lt;f2&gt;使用，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;• If the power supply cable is damaged, it may only be replaced by &lt;/f0&gt;&lt;f1&gt;MEDISANA&lt;/f1&gt;&lt;f2&gt;, an authorized dealer or by qualified personnel to avoid any risk of danger.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085506Z" creationid="Administrator" creationdate="20140621T083153Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T084832Z">
         <seg>請勿使用轉筒式乾燥機乾燥保溫電毯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not iron the foot warmer!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130315Z" creationid="Administrator" creationdate="20140621T130315Z">
+        <seg>請勿熨燙暖腳機！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cover can be dried in a drier!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130306Z" creationid="Administrator" creationdate="20140621T130306Z">
+        <seg>外層可使用乾燥機烘乾！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cover can be ironed at a low temperature!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130337Z" creationid="Administrator" creationdate="20140621T130337Z">
+        <seg>外層可低溫熨燙！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover can be washed in a normal wash at max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130117Z" creationid="Administrator" creationdate="20140621T130117Z">
@@ -1654,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Before connecting the device to your power supply, please ensure that the supply voltage stated on the rating plate is compatible with your mains supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130437Z" creationid="Administrator" creationdate="20140621T130437Z">
+        <seg>• 將裝置連接電源前，請先確認供應電壓與額定電壓相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Before connecting the device to your power&lt;t0/&gt; &lt;t1/&gt;supply, please ensure&lt;t2/&gt; &lt;t3/&gt;that&lt;t4/&gt; &lt;t5/&gt;the supply voltage stated&lt;t6/&gt; &lt;t7/&gt;on the rating plate is compatible&lt;t8/&gt; &lt;t9/&gt;with your mains supply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041133Z" creationid="Administrator" creationdate="20140621T041133Z">
@@ -1666,6 +1706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T112717Z">
         <seg>•清洗保溫電毯前，將插頭由從電源插座上拔下，並使其冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Carefully check the foot warmer before each use for signs of wear and/or damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130348Z" creationid="Administrator" creationdate="20140621T130348Z">
+        <seg>• 使用前仔細檢查暖腳機是否磨損或損壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• The appliance may not be switched on using a clock timer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130524Z" creationid="Administrator" creationdate="20140621T130524Z">
+        <seg>• 裝置不得使用定時開關開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• The cellulite massager&lt;t0/&gt; &lt;t1/&gt;provides&lt;t2/&gt; &lt;t3/&gt;a&lt;t4/&gt; &lt;t5/&gt;way&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;massage&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;buttocks,&lt;t14/&gt; &lt;t15/&gt;upper&lt;t16/&gt; &lt;t17/&gt;thighs,&lt;t18/&gt; &lt;t19/&gt;upper&lt;t20/&gt; &lt;t21/&gt;arms&lt;t22/&gt; &lt;t23/&gt;and hips to stimulate&lt;t24/&gt; &lt;t25/&gt;circulation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113855Z" creationid="Administrator" creationdate="20140621T064126Z">
@@ -2026,6 +2082,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T113001Z">
         <seg>•保溫電毯可依據標籤上的說明進行手洗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The foot warmer may not be operated while folded or creased.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130603Z" creationid="Administrator" creationdate="20140621T130603Z">
+        <seg>•暖腳機請勿於折疊或皺摺時使用。</seg>
       </tuv>
     </tu>
     <tu>
