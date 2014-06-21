@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the plug from the mains socket when you are not using the foot warmer.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145331Z" creationid="Administrator" creationdate="20140621T145331Z">
+        <seg>不使用暖腳機時請將電源線由插座中拔除。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100341Z" creationid="Administrator" creationdate="20140621T100341Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144823Z" creationid="Administrator" creationdate="20140621T144823Z">
         <seg>此時您的雙腳能開始享受舒適的溫暖。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can stop using the appliance at any time by moving the sliding switch to position &lt;/f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145231Z" creationid="Administrator" creationdate="20140621T145231Z">
+        <seg>可隨時將開關切換至位置 &lt;/f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;f10&gt; 以停止使用。</seg>
       </tuv>
     </tu>
     <tu>
