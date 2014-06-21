@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Should the heating blanket get too warm for you, slide the switch back to a lower setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111523Z" creationid="Administrator" creationdate="20140621T111523Z">
+        <seg>&lt;f0&gt;若您感覺電熱毯溫度過高，切換滑動開關到較低的設置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To ensure the best results and long-term satisfaction with your &lt;/f0&gt;&lt;f1&gt;MEDISANA HDW &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket, we recommend that you read the following operating and maintenance instructions carefully.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094536Z" creationid="Administrator" creationdate="20140621T094536Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111718Z" creationid="Administrator" creationdate="20140621T111718Z">
+        <seg>此時可由電源插座拔下電熱毯插頭。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z" creationid="Administrator" creationdate="20140621T042028Z">
@@ -934,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z" creationid="Administrator" creationdate="20140621T111631Z">
+        <seg>紅色電源指示燈將熄滅，代表已關機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service &lt;t0/&gt;center &lt;t1/&gt;address&lt;t2/&gt; &lt;t3/&gt;is shown&lt;t4/&gt; &lt;t5/&gt;on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z" creationid="Administrator" creationdate="20140621T075733Z">
@@ -1010,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062457Z" creationid="Administrator" creationdate="20140621T062457Z">
         <seg>為確保您的 MEDISANA AC 850 能長久正使用，建議仔細閱讀以下使用及維護之注意事項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To switch off the device, return the switch to position &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111559Z" creationid="Administrator" creationdate="20140621T111559Z">
+        <seg>若要關閉裝置，切換開關回到位置 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
