@@ -20,6 +20,14 @@
         <seg>DEUTSCH/ENGLISH</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read the&lt;t0/&gt; &lt;t1/&gt;instruction manual&lt;t2/&gt; &lt;t3/&gt;carefully&lt;t4/&gt; &lt;t5/&gt;before using&lt;t6/&gt; &lt;t7/&gt;this device, especially the&lt;t8/&gt; &lt;t9/&gt;safety instructions, and keep&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;instruction manual&lt;t14/&gt; &lt;t15/&gt;for future&lt;t16/&gt; &lt;t17/&gt;use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T035810Z" creationid="Administrator" creationdate="20140621T035810Z">
+        <seg>Read the instruction manual carefully before using this device, especially the safety instructions, and keep the instruction manual for future use.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
