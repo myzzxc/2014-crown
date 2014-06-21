@@ -102,6 +102,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/s0&gt;&lt;s2&gt;These notes must be observed to prevent any damage to the device.&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T082046Z" creationid="Administrator" creationdate="20140621T082046Z">
+        <seg>必須遵守此說明，以避免造成任何裝置損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;CAUTION &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T082010Z" creationid="Administrator" creationdate="20140621T082010Z">
+        <seg>謹慎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0&gt;NOTE &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T082051Z" creationid="Administrator" creationdate="20140621T082051Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z" creationid="Administrator" creationdate="20140621T075311Z">
@@ -526,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These warning notes must be observed to prevent any injury to the user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081907Z" creationid="Administrator" creationdate="20140621T081907Z">
+        <seg>必須遵守此警告說明，以避免造成任何使用者傷害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This instruction manual belongs to this device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z" creationid="Administrator" creationdate="20140621T081638Z">
@@ -577,6 +609,14 @@
         <seg>WARNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042039Z" creationid="Administrator" creationdate="20140621T042039Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081817Z" creationid="Administrator" creationdate="20140621T081817Z">
         <seg>警告</seg>
       </tuv>
     </tu>
