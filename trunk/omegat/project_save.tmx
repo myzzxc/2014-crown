@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may only use it again once it is completely dry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091954Z" creationid="Administrator" creationdate="20140621T091954Z">
+        <seg>僅能於充分乾燥後進行使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c.&lt;t0/&gt; &lt;t1/&gt;Damage&lt;t2/&gt; &lt;t3/&gt;which has arisen during&lt;t4/&gt; &lt;t5/&gt;transport from the&lt;t6/&gt; &lt;t7/&gt;manufacturer to the&lt;t8/&gt; &lt;t9/&gt;consumer&lt;t10/&gt; &lt;t11/&gt;or during transport to the service &lt;t12/&gt;center&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075240Z" creationid="Administrator" creationdate="20140621T075240Z">
@@ -998,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Do not use the heating blanket in a damp or humid environment or if the heating blanket itself is damp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091935Z" creationid="Administrator" creationdate="20140621T091935Z">
+        <seg>• 請勿於潮濕的環境中或電熱毯本身潮濕時使用電熱毯，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• During use, the control switch and lead must not be placed on or under the heating blanket or be otherwise covered in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091344Z" creationid="Administrator" creationdate="20140621T091344Z">
@@ -1040,8 +1056,16 @@
       <tuv lang="EN-US">
         <seg>• Keep the mains cable away from hot surfaces and naked flames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052953Z" creationid="Administrator" creationdate="20140621T052953Z">
-        <seg>• 使主電源線遠離熱源或火焰。.</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092120Z" creationid="Administrator" creationdate="20140621T052953Z">
+        <seg>• 使主電源線遠離熱源或火焰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Keep the mains lead away from hot surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092113Z" creationid="Administrator" creationdate="20140621T092113Z">
+        <seg>• 使主電源線遠離熱源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1090,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053805Z" creationid="Administrator" creationdate="20140621T053805Z">
         <seg>• 請勿以電源線移動、拉扯或旋轉裝置，且勿使其他物體夾住或撞擊電源線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Never expose the control switch or leads to moisture of any kind.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092045Z" creationid="Administrator" creationdate="20140621T092045Z">
+        <seg>•請勿將控制開關或電線暴露於水氣中。</seg>
       </tuv>
     </tu>
     <tu>
