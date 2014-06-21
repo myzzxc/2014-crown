@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never immerse the control switch unit in water as moisture must not be allowed to get into the unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113132Z" creationid="Administrator" creationdate="20140621T113132Z">
+        <seg>請勿將控制開關浸入水中，因為控制器不具防水功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-observance of these instructions can result in serious injury or damage to the device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081811Z" creationid="Administrator" creationdate="20140621T081811Z">
@@ -1182,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the heating blanket is completely dry, it should be reconnected to the control switch unit in the correct manner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113411Z" creationid="Administrator" creationdate="20140621T113411Z">
+        <seg>當電熱毯完全乾燥後應使用正確方式重新連接控制開關單元，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the next warm-up phase begins, operation indicator lamp lights up red again.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z" creationid="Administrator" creationdate="20140621T110734Z">
@@ -1690,6 +1706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041610Z" creationid="Administrator" creationdate="20140621T041610Z">
         <seg>• 此裝置設計不適用於身體、感官或精神狀態異常之人員（包含幼童），或不具有充足經驗及知識之人員，除非有能負責其安全之人員在旁協助或指導使用裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• To dry, lay the heating blanket flat on a moisture-absorbent towel or mat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113259Z" creationid="Administrator" creationdate="20140621T113259Z">
+        <seg>•乾燥電熱毯時，將毯子平放於吸水毛巾或墊子上。</seg>
       </tuv>
     </tu>
     <tu>
