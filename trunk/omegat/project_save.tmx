@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;with control unit&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T083159Z">
-        <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy 保溫電毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;含控制器&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T123750Z" creationid="Administrator" creationdate="20140621T083159Z">
+        <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;保溫電毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;含控制器&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="EN-US">
         <seg>Unplug the heating blanket from the mains outlet when it is no longer in use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T112243Z" creationid="Administrator" creationdate="20140621T112243Z">
-        <seg>不再使用時，請於電源插座拔下加熱毯插頭。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T123800Z" creationid="Administrator" creationdate="20140621T112243Z">
+        <seg>不再使用時，請於電源插座拔下保溫電毯插頭。</seg>
       </tuv>
     </tu>
     <tu>
