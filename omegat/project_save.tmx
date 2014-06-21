@@ -164,6 +164,14 @@
         <seg>• 幼童， • 動物， • 孕婦， • 頭部及咽喉，</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• people&lt;t0/&gt; &lt;t1/&gt;fitted with a pacemaker, artificial joints or electronic implants should in all cases consult a doctor before using the device,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042756Z" creationid="Administrator" creationdate="20140621T042756Z">
+        <seg>• 裝有心律調整器、人工關節或電子式植入裝置之人員使用裝置前需向醫生諮詢，</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
