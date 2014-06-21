@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100239Z" creationid="Administrator" creationdate="20140621T100239Z">
+        <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z" creationid="Administrator" creationdate="20140621T073319Z">
@@ -774,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The easy-care material and the detachable operating element make the blanket hand-washable up to 30°.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100235Z" creationid="Administrator" creationdate="20140621T100235Z">
+        <seg>易清理材質且操作元件可拆下，電熱毯可於最高 30° 下進行手洗。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The electric blanket may be washed by hand according to the instructions on the label!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084701Z" creationid="Administrator" creationdate="20140621T084701Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z" creationid="Administrator" creationdate="20140621T075733Z">
         <seg>服務中心地址另行附上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two outer layers of the three-layer blanket are made of fluffy microfibre fleece.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100020Z" creationid="Administrator" creationdate="20140621T100020Z">
+        <seg>電毯三層設計包含外部兩層蓬鬆超細纖絨。</seg>
       </tuv>
     </tu>
     <tu>
