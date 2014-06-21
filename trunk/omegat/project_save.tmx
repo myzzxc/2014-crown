@@ -84,6 +84,14 @@
         <seg>• 將裝置連接電源前，請先確認供應電壓與額定電壓相符。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The warranty is null and void if it is not used for the intended&lt;t0/&gt; &lt;t1/&gt;purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041215Z" creationid="Administrator" creationdate="20140621T041215Z">
+        <seg>• 不正確使用裝置將使保固失效。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
