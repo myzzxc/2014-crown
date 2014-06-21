@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;220-240 &lt;/f0&gt;&lt;f1&gt;V&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;AC 50&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Hz max.&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;100&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;W&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151558Z" creationid="Administrator" creationdate="20140621T151558Z">
+        <seg>&lt;f0&gt;220-240 &lt;/f0&gt;&lt;f1&gt;V&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;AC 50&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Hz 最高 &lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;100&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;W&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;2&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Operating&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115141Z" creationid="Administrator" creationdate="20140621T115141Z">
@@ -254,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Automatic&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;switch&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;off :&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151626Z" creationid="Administrator" creationdate="20140621T151626Z">
+        <seg>&lt;f0&gt;自動&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;關機&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;：&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;During switch level &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;the indicator light is illuminated, showing the adjusted level number contemporaneously.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144717Z" creationid="Administrator" creationdate="20140621T144709Z">
         <seg>&lt;f0&gt;切換設置至 &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt; 及 &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;時，指示燈亮起並顯示調整後之設置編號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Heat&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;output &lt;/f2&gt;&lt;f3&gt;:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151527Z" creationid="Administrator" creationdate="20140621T151527Z">
+        <seg>&lt;f0&gt;加熱輸出&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +302,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;MEDISANA&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;foot&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;warmer &lt;/f4&gt;&lt;f5&gt;FWS&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151543Z" creationid="Administrator" creationdate="20140621T151543Z">
+        <seg>&lt;f0&gt;MEDISANA&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;暖腳機&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;FWS&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Name and model: &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket &lt;/f2&gt;&lt;f3&gt;HDW&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114203Z" creationid="Administrator" creationdate="20140621T113627Z">
         <seg>&lt;f0&gt;名稱及型號：&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;保溫電毯 &lt;/f2&gt;&lt;f3&gt;HDW&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Name and&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;model : Power supply : &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151456Z" creationid="Administrator" creationdate="20140621T151456Z">
+        <seg>&lt;f0&gt;名稱及&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;型號：電源供應：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Switching&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;levels :&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151707Z" creationid="Administrator" creationdate="20140621T151707Z">
+        <seg>開關設置：&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The current version of this instruction manual can be found under &lt;/f0&gt;&lt;a1&gt;www.medisana.com&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114647Z" creationid="Administrator" creationdate="20140621T114623Z">
@@ -378,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143526Z" creationid="Administrator" creationdate="20140621T143501Z">
         <seg>&lt;f0&gt;您已購買 &lt;/f0&gt;&lt;f1&gt;MEDISANA&lt;/f1&gt;&lt;f2&gt; 的優質產品，暖腳機 &lt;/f2&gt;&lt;f3&gt;FWS。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;after&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;approx.&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;90&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;min&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151650Z" creationid="Administrator" creationdate="20140621T151650Z">
+        <seg>約 90 分鐘&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only use the foot warmer again once it and the cover are completely dry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151412Z" creationid="Administrator" creationdate="20140621T151412Z">
+        <seg>僅能於外套層充分乾燥後使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only use the foot warmer indoors!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125958Z" creationid="Administrator" creationdate="20140621T125958Z">
@@ -1402,6 +1466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T095323Z">
         <seg>幸福地依偎在舒適的超軟保溫電毯上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z" creationid="Administrator" creationdate="20140621T151421Z">
+        <seg>技術規格</seg>
       </tuv>
     </tu>
     <tu>
