@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleaning and maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z" creationid="Administrator" creationdate="20140621T100325Z">
+        <seg>清潔和維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correct</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100337Z" creationid="Administrator" creationdate="20140621T100337Z">
+        <seg>正確</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current&lt;t0/&gt; supply:&lt;t1/&gt; Mains adapter type:&lt;t2/&gt; &lt;t3/&gt;YJS 020D -1201200G</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073231Z" creationid="Administrator" creationdate="20140621T073231Z">
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052610Z" creationid="Administrator" creationdate="20140621T052610Z">
         <seg>立即將電源連線由插座中拔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disposal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100341Z" creationid="Administrator" creationdate="20140621T100341Z">
+        <seg>廢棄處置</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095323Z" creationid="Administrator" creationdate="20140621T095323Z">
         <seg>幸福地依偎在舒適的超軟電熱毯上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z" creationid="Administrator" creationdate="20140621T100346Z">
+        <seg>技術規格</seg>
       </tuv>
     </tu>
     <tu>
