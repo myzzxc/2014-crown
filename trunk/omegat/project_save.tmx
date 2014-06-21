@@ -60,6 +60,30 @@
         <seg>若將此裝置轉送他人，需連同此說明手冊一併附上以供使用。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The device is not&lt;t27/&gt; &lt;t28/&gt;intended for commercial&lt;t29/&gt; &lt;t30/&gt;use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040927Z" creationid="Administrator" creationdate="20140621T040927Z">
+        <seg>此裝置非用於商業用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• &lt;t0/&gt;Only&lt;t1/&gt; &lt;t2/&gt;use&lt;t3/&gt; &lt;t4/&gt;this&lt;t5/&gt; &lt;t6/&gt;unit&lt;t7/&gt; &lt;t8/&gt;according&lt;t9/&gt; &lt;t10/&gt;to&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;intended purpose&lt;t15/&gt; &lt;t16/&gt;and&lt;t17/&gt; &lt;t18/&gt;as&lt;t19/&gt; &lt;t20/&gt;directed&lt;t21/&gt; &lt;t22/&gt;in&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;instruction manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040851Z" creationid="Administrator" creationdate="20140621T040851Z">
+        <seg>•僅依此裝置設計之功能使用，並遵循說明手冊之指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Before connecting the device to your power&lt;t0/&gt; &lt;t1/&gt;supply, please ensure&lt;t2/&gt; &lt;t3/&gt;that&lt;t4/&gt; &lt;t5/&gt;the supply voltage stated&lt;t6/&gt; &lt;t7/&gt;on the rating plate is compatible&lt;t8/&gt; &lt;t9/&gt;with your mains supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041133Z" creationid="Administrator" creationdate="20140621T041133Z">
+        <seg>• 將裝置連接電源前，請先確認供應電壓與額定電壓相符。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
