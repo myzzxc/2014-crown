@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Children below the age of 3 years are not allowed to use this device, because they are not able to react on overheating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085837Z" creationid="Administrator" creationdate="20140621T085837Z">
+        <seg>• 3 歲以下又童不得使用此裝置，因為他們無法在過熱時反應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Children must be supervised to ensure&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;they do not play with the device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041720Z" creationid="Administrator" creationdate="20140621T041720Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052752Z" creationid="Administrator" creationdate="20140621T052752Z">
         <seg>• 請勿於接近蒸氣處或與氧氣裝置同時使用設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Do not use the device on children or persons who are disabled, asleep or insensitive to heat (persons who cannot react on overheating).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085759Z" creationid="Administrator" creationdate="20140621T085759Z">
+        <seg>•請勿使用於兒童或具有殘疾、熟睡或對熱不敏感 (無法對過熱反應的人）之人士。</seg>
       </tuv>
     </tu>
     <tu>
