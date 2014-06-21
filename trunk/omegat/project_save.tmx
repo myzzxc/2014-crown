@@ -180,6 +180,14 @@
         <seg>• 裝有心律調整器、人工關節或電子式植入裝置之人員使用裝置前需向醫生諮詢，</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• you should not use this device if you are affected&lt;t0/&gt; &lt;t1/&gt;by one or more of the following illnesses and conditions:&lt;t2/&gt; &lt;t3/&gt;Circulation disorders,&lt;t4/&gt; &lt;t5/&gt;varicose veins, open&lt;t6/&gt; &lt;t7/&gt;wounds, bruises, broken&lt;t8/&gt; &lt;t9/&gt;skin, inflammation&lt;t10/&gt; &lt;t11/&gt;of the veins or thrombosis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T043958Z" creationid="Administrator" creationdate="20140621T043958Z">
+        <seg>•若有以下一種或多種疾病時請勿使用裝置：循環系統疾病、靜脈曲張、開放性傷口、瘀傷、皮膚炎、 靜脈炎或血管栓塞。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
