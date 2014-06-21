@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the mains adapter from the mains socket immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052610Z" creationid="Administrator" creationdate="20140621T052610Z">
+        <seg>立即將電源連線由插座中拔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not store or keep any electrical equipment&lt;t2/&gt; &lt;t3/&gt;in places where it could fall into the bathtub&lt;t4/&gt; &lt;t5/&gt;or washbasin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052411Z" creationid="Administrator" creationdate="20140621T052411Z">
+        <seg>請勿將電器設備置於可能掉落浴缸或洗臉盆處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IMPORTANT INFORMATION!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z" creationid="Administrator" creationdate="20140621T040229Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041822Z" creationid="Administrator" creationdate="20140621T041822Z">
         <seg>• 當裝置故障時請勿嘗試自行修理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Do not reach for the unit if it has fallen into water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052448Z" creationid="Administrator" creationdate="20140621T052448Z">
+        <seg>• 若設備掉落水中請勿觸摸，</seg>
       </tuv>
     </tu>
     <tu>
