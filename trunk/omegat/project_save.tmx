@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Safet&lt;/f2&gt;&lt;f3&gt;y&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Informati&lt;/f5&gt;&lt;f6&gt;o&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;/&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;2&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Operating&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151948Z" creationid="Administrator" creationdate="20140621T151948Z">
+        <seg>1 安全資訊 / 2 操作&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Safet&lt;/f2&gt;&lt;f3&gt;y&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Information&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115127Z" creationid="Administrator" creationdate="20140621T115127Z">
@@ -262,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Article&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151821Z" creationid="Administrator" creationdate="20140621T151821Z">
+        <seg>貨號：&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Automatic&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;switch&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;off :&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151626Z" creationid="Administrator" creationdate="20140621T151626Z">
@@ -274,6 +290,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144717Z" creationid="Administrator" creationdate="20140621T144709Z">
         <seg>&lt;f0&gt;切換設置至 &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt; 及 &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;時，指示燈亮起並顯示調整後之設置編號，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;E-Mail: &lt;/f0&gt;&lt;a1&gt;info@medisana.de&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151904Z" creationid="Administrator" creationdate="20140621T151904Z">
+        <seg>&lt;f0&gt;電子郵件：&lt;/f0&gt;&lt;a1&gt;info@medisana.de&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;EAN&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Code :&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151834Z" creationid="Administrator" creationdate="20140621T151834Z">
+        <seg>歐洲商品編號：&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151543Z" creationid="Administrator" creationdate="20140621T151543Z">
         <seg>&lt;f0&gt;MEDISANA&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;暖腳機&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;FWS&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Mains&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;lead&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;length :&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151759Z" creationid="Administrator" creationdate="20140621T151759Z">
+        <seg>電源線長度：&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +474,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151650Z" creationid="Administrator" creationdate="20140621T151650Z">
         <seg>約 90 分鐘&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;approx.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;2&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;m&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151811Z" creationid="Administrator" creationdate="20140621T151811Z">
+        <seg>&lt;f0&gt;約 &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;2&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;m&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;approx.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;(l)&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;x&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;30&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;(w) x&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;23&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;(h)&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;cm&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151738Z" creationid="Administrator" creationdate="20140621T151738Z">
+        <seg>&lt;f0&gt;約 &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;(長)&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;x&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;30&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;(寬) x&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;23&lt;/f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;(高)&lt;/f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;cm&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;approx.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;580&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;g&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151749Z" creationid="Administrator" creationdate="20140621T151749Z">
+        <seg>&lt;f0&gt;約 &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;580&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;g&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080336Z" creationid="Administrator" creationdate="20140620T145945Z">
         <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dimensions :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z" creationid="Administrator" creationdate="20140621T151714Z">
+        <seg>尺寸：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The service center address is shown on the attached leaflet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151908Z" creationid="Administrator" creationdate="20140621T151908Z">
+        <seg>服務中心地址另行附上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service centre address is shown on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115048Z" creationid="Administrator" creationdate="20140621T115048Z">
@@ -1970,6 +2050,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z" creationid="Administrator" creationdate="20140621T114652Z">
         <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151742Z" creationid="Administrator" creationdate="20140621T151742Z">
+        <seg>重量：</seg>
       </tuv>
     </tu>
     <tu>
