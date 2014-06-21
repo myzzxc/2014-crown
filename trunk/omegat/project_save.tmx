@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111118Z" creationid="Administrator" creationdate="20140621T111118Z">
-        <seg>每次切換開關時亮綠燈，然後閃著紅光在其中設置了開關 （兩個、 三個或四個閃爍） 的水準。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z" creationid="Administrator" creationdate="20140621T111118Z">
+        <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095743Z" creationid="Administrator" creationdate="20140621T095743Z">
         <seg>電熱毯的電動溫度控制可根據所選的設置（1-2-3-4）精確地調節溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lamp then lights up again constantly in red for the remainder of the warm-up phase.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111415Z" creationid="Administrator" creationdate="20140621T111415Z">
+        <seg>接著紅燈恆亮代表加熱階段。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
