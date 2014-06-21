@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z" creationid="Administrator" creationdate="20140621T075311Z">
+        <seg>屬於正常磨損和斷裂之配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;All damage which is due to repairs or tampering by the customer&lt;t1/&gt; &lt;t2/&gt;or un-&lt;t3/&gt;authorized&lt;t4/&gt; third parties.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075046Z" creationid="Administrator" creationdate="20140621T075046Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074626Z" creationid="Administrator" creationdate="20140621T074626Z">
         <seg>保固期內材料或加工缺陷將免費維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Liability for&lt;t1/&gt; &lt;t2/&gt;direct&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;indirect&lt;t7/&gt; &lt;t8/&gt;consequential losses&lt;t9/&gt; &lt;t10/&gt;caused&lt;t11/&gt; &lt;t12/&gt;by the&lt;t13/&gt; &lt;t14/&gt;unit&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;excluded&lt;t19/&gt; &lt;t20/&gt;even&lt;t21/&gt; &lt;t22/&gt;if the damage to the unit is accepted as a warranty&lt;t23/&gt; &lt;t24/&gt;claim.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z" creationid="Administrator" creationdate="20140621T075549Z">
+        <seg>即使裝置本身損壞包含於保固中，裝置直接或間接造成之損失責任不包含於保固範圍內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062050Z" creationid="Administrator" creationdate="20140621T062050Z">
         <seg>當您向 MEDISANA 購買脂肪按摩器，您獲得了高品質的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c.&lt;t0/&gt; &lt;t1/&gt;Damage&lt;t2/&gt; &lt;t3/&gt;which has arisen during&lt;t4/&gt; &lt;t5/&gt;transport from the&lt;t6/&gt; &lt;t7/&gt;manufacturer to the&lt;t8/&gt; &lt;t9/&gt;consumer&lt;t10/&gt; &lt;t11/&gt;or during transport to the service &lt;t12/&gt;center&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075240Z" creationid="Administrator" creationdate="20140621T075240Z">
+        <seg>c. 由製造商運送至客戶途中或運送至服務中心時所造成之損壞。</seg>
       </tuv>
     </tu>
     <tu>
