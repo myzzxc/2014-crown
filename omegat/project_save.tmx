@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repairs must only be carried out by an authorized specialist dealer or other suitably qualified personnel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142823Z" creationid="Administrator" creationdate="20140621T142823Z">
+        <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return it to the supplier.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085432Z" creationid="Administrator" creationdate="20140621T085432Z">
@@ -2022,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Never carry, pull or turn the foot warmer using the power cable and do not clamp the cable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142644Z" creationid="Administrator" creationdate="20140621T142644Z">
+        <seg>• 請勿以電源線移動、拉扯或旋轉暖腳機，且勿夾住電源線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Never carry, pull or twist the heating blanket by the mains lead and do not allow the lead to become tangled or snagged.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T092304Z">
@@ -2346,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092633Z" creationid="Administrator" creationdate="20140621T092633Z">
         <seg>•收納裝置時，請先冷卻再折疊。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• When the appliance is not in use, disconnect the plug from the mains.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142718Z" creationid="Administrator" creationdate="20140621T142718Z">
+        <seg>•當裝置不使用時，拔下電源插頭。</seg>
       </tuv>
     </tu>
     <tu>
