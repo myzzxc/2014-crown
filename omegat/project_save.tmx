@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important recommendations concerning your&lt;t0/&gt; &lt;t1/&gt;health</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z" creationid="Administrator" creationdate="20140621T060703Z">
+        <seg>關於你健康之重要建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z" creationid="Administrator" creationdate="20140621T041950Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Consult your doctor first before using this unit if you have diabetes or other related illnesses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060759Z" creationid="Administrator" creationdate="20140621T060759Z">
+        <seg>• 糖尿病或相關疾病患者使用前請先諮詢醫師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Do not attempt&lt;t0/&gt; &lt;t1/&gt;to repair the unit yourself in the event of any defects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041822Z" creationid="Administrator" creationdate="20140621T041822Z">
@@ -254,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Only pull the plug out of the socket when you have dry hands, when the unit has been switched off and is not being used any longer, and also do this when you have to replace or clean the heads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060609Z" creationid="Administrator" creationdate="20140621T060609Z">
+        <seg>• 當裝置以關機且不使用時、或需更換或清潔時拔除插頭，拔除插頭時請保持手部乾燥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Only use the unit in enclosed&lt;t0/&gt; &lt;t1/&gt;spaces!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052125Z" creationid="Administrator" creationdate="20140621T052125Z">
@@ -312,8 +336,8 @@
       <tuv lang="EN-US">
         <seg>• people&lt;t0/&gt; &lt;t1/&gt;fitted with a pacemaker, artificial joints or electronic implants should in all cases consult a doctor before using the device,</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042756Z" creationid="Administrator" creationdate="20140621T042756Z">
-        <seg>• 裝有心律調整器、人工關節或電子式植入裝置之人員使用裝置前需向醫生諮詢，</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060808Z" creationid="Administrator" creationdate="20140621T042756Z">
+        <seg>• 裝有心律調整器、人工關節或電子式植入裝置之人員使用裝置前需向醫師諮詢，</seg>
       </tuv>
     </tu>
     <tu>
