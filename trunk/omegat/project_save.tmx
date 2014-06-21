@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you&lt;t0/&gt; &lt;t1/&gt;for your confidence in us and congratulations!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z" creationid="Administrator" creationdate="20140621T061807Z">
+        <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The device is not&lt;t27/&gt; &lt;t28/&gt;intended for commercial&lt;t29/&gt; &lt;t30/&gt;use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040927Z" creationid="Administrator" creationdate="20140621T040927Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053856Z" creationid="Administrator" creationdate="20140621T053856Z">
         <seg>• 使電源線遠離旋轉按摩滾輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Massages&lt;t0/&gt; &lt;t1/&gt;using the&lt;t2/&gt; &lt;t3/&gt;cellulite massager&lt;t4/&gt; &lt;t5/&gt;are not&lt;t6/&gt; &lt;t7/&gt;a substitute for treatments administered by doctors or physiotherapists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061710Z" creationid="Administrator" creationdate="20140621T061710Z">
+        <seg>• 使用脂肪按摩器按摩並不能取代醫師或物理治療師所進行之療程。</seg>
       </tuv>
     </tu>
     <tu>
