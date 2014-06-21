@@ -86,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Children must be supervised to ensure&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;they do not play with the device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041720Z" creationid="Administrator" creationdate="20140621T041720Z">
+        <seg>• 請確保不讓幼童操作裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Do not attempt&lt;t0/&gt; &lt;t1/&gt;to repair the unit yourself in the event of any defects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041822Z" creationid="Administrator" creationdate="20140621T041822Z">
+        <seg>• 當裝置故障時請勿嘗試自行修理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• The warranty is null and void if it is not used for the intended&lt;t0/&gt; &lt;t1/&gt;purpose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041215Z" creationid="Administrator" creationdate="20140621T041215Z">
         <seg>• 不正確使用裝置將使保固失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• This device is not designed&lt;t0/&gt; &lt;t1/&gt;to be used by persons (including children) with limited physical, sensory or mental&lt;t2/&gt; &lt;t3/&gt;abilities,&lt;t4/&gt; &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;by&lt;t8/&gt; &lt;t9/&gt;persons&lt;t10/&gt; &lt;t11/&gt;with&lt;t12/&gt; &lt;t13/&gt;insufficient&lt;t14/&gt; &lt;t15/&gt;experience&lt;t16/&gt; &lt;t17/&gt;and/or&lt;t18/&gt; &lt;t19/&gt;knowledge,&lt;t20/&gt; &lt;t21/&gt;unless&lt;t22/&gt; &lt;t23/&gt;under observation&lt;t24/&gt; &lt;t25/&gt;by a person&lt;t26/&gt; &lt;t27/&gt;responsible&lt;t28/&gt; &lt;t29/&gt;for their safety, or unless they have been&lt;t30/&gt; &lt;t31/&gt;instructed&lt;t32/&gt; &lt;t33/&gt;in the use of the device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041610Z" creationid="Administrator" creationdate="20140621T041610Z">
+        <seg>• 此裝置設計不適用於身體、感官或精神狀態異常之人員（包含幼童），或不具有充足經驗及知識之人員，除非有能負責其安全之人員在旁協助或指導使用裝置。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
