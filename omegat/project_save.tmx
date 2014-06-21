@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8&lt;t0/&gt; &lt;t1/&gt;Warranty and repair terms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073816Z" creationid="Administrator" creationdate="20140621T073816Z">
+        <seg>8 保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073055Z" creationid="Administrator" creationdate="20140621T072955Z">
         <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保丟棄符合環保。關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Article no.&lt;t0/&gt; &lt;t1/&gt;: 88540&lt;t2/&gt; &lt;t3/&gt;EAN-&lt;t4/&gt;Number:&lt;t5/&gt; 40 15588&lt;t6/&gt; &lt;t7/&gt;88540&lt;t8/&gt; &lt;t9/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073628Z" creationid="Administrator" creationdate="20140621T073628Z">
+        <seg>貨號： 88540 歐洲商品編號：  40 15588 88540 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z" creationid="Administrator" creationdate="20140621T060703Z">
         <seg>關於你健康之重要建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In accordance with&lt;t0/&gt; &lt;t1/&gt;our policy&lt;t2/&gt; &lt;t3/&gt;of continual product&lt;t4/&gt; &lt;t5/&gt;improvement, we reserve the&lt;t6/&gt; &lt;t7/&gt;right to make&lt;t8/&gt; &lt;t9/&gt;technical and optical&lt;t10/&gt; &lt;t11/&gt;changes without notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073758Z" creationid="Administrator" creationdate="20140621T073758Z">
+        <seg>根據我們的產品持續改進政策，我們保留規格更改權，恕不另行通知。</seg>
       </tuv>
     </tu>
     <tu>
