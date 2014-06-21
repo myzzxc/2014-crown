@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Operating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143330Z" creationid="Administrator" creationdate="20140621T143330Z">
+        <seg>2 操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z" creationid="Administrator" creationdate="20140621T073402Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T094958Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt; 保溫電毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;可舒適地溫暖並放鬆您的全身，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You have purchased the Foot Warmer &lt;/f0&gt;&lt;f1&gt;FWS&lt;/f1&gt;&lt;f2&gt;, a quality product by &lt;/f2&gt;&lt;f3&gt;MEDISANA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143501Z" creationid="Administrator" creationdate="20140621T143501Z">
+        <seg>&lt;f0&gt;您已購買 &lt;/f0&gt;&lt;f1&gt;MEDISANA&lt;/f1&gt;&lt;f2&gt; 的優質產品，暖腳機&lt;/f2&gt;&lt;f3&gt;FWS。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To prevent creases, do not place any objects on the foot warmer when storing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143208Z" creationid="Administrator" creationdate="20140621T143208Z">
+        <seg>且勿放置任何物品於暖腳機上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To switch it back on, first move the switch back to position &lt;/f8&gt;&lt;f9&gt;0 &lt;/f9&gt;&lt;f10&gt;then back to the desired heat setting.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T112148Z" creationid="Administrator" creationdate="20140621T112148Z">
@@ -1918,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Do not use the foot warmer if your feet are swollen, inflamed or injured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143320Z" creationid="Administrator" creationdate="20140621T143320Z">
+        <seg>•當腳部腫脹、發炎或受傷時請勿使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Do not use the foot warmer in bed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T131227Z" creationid="Administrator" creationdate="20140621T131227Z">
@@ -1986,6 +2018,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093835Z" creationid="Administrator" creationdate="20140621T093835Z">
         <seg>•如果使用裝置期間您有任何疼痛或不適，必須立即停止使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you have any health concerns, consult your doctor before using the foot warmer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143220Z" creationid="Administrator" creationdate="20140621T143220Z">
+        <seg>• 如果您有任何健康上的疑問，在使用暖腳機前請諮詢您的醫師。</seg>
       </tuv>
     </tu>
     <tu>
