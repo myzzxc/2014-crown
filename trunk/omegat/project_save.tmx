@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;Items supplied&lt;t2/&gt; &lt;t3/&gt;and packaging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062523Z" creationid="Administrator" creationdate="20140621T062523Z">
+        <seg>2 隨機附件及包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T145945Z" creationid="Administrator" creationdate="20140620T145945Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of doubt, do not use it and contact&lt;t4/&gt; &lt;t5/&gt;your dealer or your service &lt;t6/&gt;center&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062709Z" creationid="Administrator" creationdate="20140621T062709Z">
+        <seg>若有任何疑問，請勿使用裝置，並聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z" creationid="Administrator" creationdate="20140621T041950Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042028Z" creationid="Administrator" creationdate="20140621T042028Z">
         <seg>僅由授權服務句點進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check first of all that&lt;t0/&gt; &lt;t1/&gt;the device is complete&lt;t2/&gt; &lt;t3/&gt;and is not damaged in any way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062605Z" creationid="Administrator" creationdate="20140621T062605Z">
+        <seg>請先檢查裝置完整無受損，</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following parts are included:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z" creationid="Administrator" creationdate="20140621T062736Z">
+        <seg>以下為包含之元件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then let the appliance&lt;t2/&gt; &lt;t3/&gt;cool down&lt;t4/&gt; &lt;t5/&gt;for at least 30 minutes&lt;t6/&gt; &lt;t7/&gt;before&lt;t8/&gt; &lt;t9/&gt;using it again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z" creationid="Administrator" creationdate="20140621T054311Z">
@@ -170,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062050Z" creationid="Administrator" creationdate="20140621T062050Z">
         <seg>當您向 MEDISANA 購買脂肪按摩器，您獲得了高品質的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• &lt;t0/&gt;AC 850 &lt;t1/&gt;-device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062752Z" creationid="Administrator" creationdate="20140621T062752Z">
+        <seg>• AC 850 - 裝置</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +394,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042532Z" creationid="Administrator" creationdate="20140621T042532Z">
         <seg>• 請勿用於身體上任何腫脹、燒傷、發炎、脫皮、傷口或其他敏感的部份，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• instruction&lt;t0/&gt; &lt;t1/&gt;manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062805Z" creationid="Administrator" creationdate="20140621T062805Z">
+        <seg>• 說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• mains adapter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062759Z" creationid="Administrator" creationdate="20140621T062759Z">
+        <seg>• 變壓器</seg>
       </tuv>
     </tu>
     <tu>
