@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please dispose properly of any packaging&lt;t2/&gt; &lt;t3/&gt;material no longer required.&lt;t4/&gt; &lt;t5/&gt;If you notice&lt;t6/&gt; &lt;t7/&gt;any transport damage during&lt;t8/&gt; &lt;t9/&gt;unpacking, please&lt;t10/&gt; &lt;t11/&gt;contact&lt;t12/&gt; &lt;t13/&gt;your dealer&lt;t14/&gt; &lt;t15/&gt;without delay.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063001Z" creationid="Administrator" creationdate="20140621T063001Z">
+        <seg>請妥善處理任何不再需要之包裝材料。若開箱時發現任何運輸過程中的損壞，請立即聯繫您的轉銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please note the&lt;t0/&gt; &lt;t1/&gt;following in particular&lt;t2/&gt; &lt;t3/&gt;concerning electrical&lt;t4/&gt; &lt;t5/&gt;equipment:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052056Z" creationid="Administrator" creationdate="20140621T052056Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z" creationid="Administrator" creationdate="20140621T062736Z">
         <seg>以下為包含之元件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The packaging&lt;t0/&gt; &lt;t1/&gt;can be reused or recycled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062832Z" creationid="Administrator" creationdate="20140621T062832Z">
+        <seg>包裝可重複使用或回收。</seg>
       </tuv>
     </tu>
     <tu>
