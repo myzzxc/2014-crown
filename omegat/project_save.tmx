@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To switch it back on, first move the switch back to position &lt;/f8&gt;&lt;f9&gt;0 &lt;/f9&gt;&lt;f10&gt;then back to the desired heat setting.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T112148Z" creationid="Administrator" creationdate="20140621T112148Z">
+        <seg>若要重新開啟，先切換開關回到位置 &lt;/f8&gt;&lt;f9&gt;0 &lt;/f9&gt;&lt;f10&gt;之後切換至所需的溫度設置。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To switch off the device, return the switch to position &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111559Z" creationid="Administrator" creationdate="20140621T111559Z">
@@ -1098,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084742Z" creationid="Administrator" creationdate="20140621T084742Z">
         <seg>由電熱毯上拔下控制開關單元！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unplug the heating blanket from the mains outlet when it is no longer in use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T112243Z" creationid="Administrator" creationdate="20140621T112243Z">
+        <seg>不再使用時，請於電源插座拔下加熱毯插頭。</seg>
       </tuv>
     </tu>
     <tu>
