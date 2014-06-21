@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To ensure the best results and long-term satisfaction with your &lt;/f0&gt;&lt;f1&gt;MEDISANA HDW &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket, we recommend that you read the following operating and maintenance instructions carefully.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094536Z" creationid="Administrator" creationdate="20140621T094536Z">
+        <seg>&lt;f0&gt;為確保您的 &lt;/f0&gt;&lt;f1&gt;MEDISANA HDW &lt;/f1&gt;&lt;f2&gt;Cosy 電熱毯能長久正使用，建議仔細閱讀以下使用及維護之注意事項。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;With the &lt;/f0&gt;&lt;f1&gt;HDW &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket you have purchased a &lt;/f2&gt;&lt;f3&gt;MEDISANA &lt;/f3&gt;&lt;f4&gt;quality product&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094341Z" creationid="Administrator" creationdate="20140621T094341Z">
@@ -128,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;with control unit&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083301Z" creationid="Administrator" creationdate="20140621T083159Z">
-        <seg>• 1 MEDISANA Cosy heating blanket HDW with control unit</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094714Z" creationid="Administrator" creationdate="20140621T083159Z">
+        <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy 電熱毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;含控制器&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of doubt, do not use the appliance and contact your dealer or your service center.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094602Z" creationid="Administrator" creationdate="20140621T094602Z">
+        <seg>若有任何疑問，請勿使用裝置，並聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z" creationid="Administrator" creationdate="20140621T073247Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093751Z" creationid="Administrator" creationdate="20140621T093751Z">
         <seg>持續性疼痛可能為嚴重疾病的症狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check first of all that the device is complete and is not damaged in any way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094548Z" creationid="Administrator" creationdate="20140621T094548Z">
+        <seg>請先檢查裝置完整無受損，</seg>
       </tuv>
     </tu>
     <tu>
