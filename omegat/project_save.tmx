@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;foot warmer &lt;/f2&gt;&lt;f3&gt;FWS &lt;/f3&gt;&lt;f4&gt;with insert cover&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143925Z" creationid="Administrator" creationdate="20140621T143925Z">
+        <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;暖腳機 &lt;/f2&gt;&lt;f3&gt;FWS &lt;/f3&gt;&lt;f4&gt; 及插入式外套層&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;• Do &lt;/f0&gt;&lt;f1&gt;not &lt;/f1&gt;&lt;f2&gt;use if you notice wear, damage or signs of improper use on the electric blanket, the switch or the cables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T083145Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080314Z" creationid="Administrator" creationdate="20140621T072955Z">
         <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保處置符合環保。關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always make sure that the foot warmer is not creased or folded while it is in use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144130Z" creationid="Administrator" creationdate="20140621T144130Z">
+        <seg>請隨時確認暖腳機使用時無皺摺或折疊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,24 +1304,24 @@
       <tuv lang="EN-US">
         <seg>The cover can be dried in a drier!</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130306Z" creationid="Administrator" creationdate="20140621T130306Z">
-        <seg>外層可使用乾燥機烘乾！</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143936Z" creationid="Administrator" creationdate="20140621T130306Z">
+        <seg>外套層可使用乾燥機烘乾！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The cover can be ironed at a low temperature!</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130337Z" creationid="Administrator" creationdate="20140621T130337Z">
-        <seg>外層可低溫熨燙！</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143959Z" creationid="Administrator" creationdate="20140621T130337Z">
+        <seg>外套層可低溫熨燙！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The cover can be washed in a normal wash at max.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130117Z" creationid="Administrator" creationdate="20140621T130117Z">
-        <seg>外層可正常洗滌，最高洗滌溫度 </seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143931Z" creationid="Administrator" creationdate="20140621T130117Z">
+        <seg>外套層可正常洗滌，最高洗滌溫度 </seg>
       </tuv>
     </tu>
     <tu>
