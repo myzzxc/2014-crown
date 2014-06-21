@@ -110,6 +110,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Accessories which are subject to normal wear and tear.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114924Z" creationid="Administrator" creationdate="20140621T114924Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;屬於正常磨損和斷裂之配件。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;All damage which has arisen due to improper treatment, e.g. non-observance of the user instructions.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114853Z" creationid="Administrator" creationdate="20140621T114853Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;所有不當使用造成之損壞，例如不遵守使用說明。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;All damage which is due to repairs or tampering by the customer or unauthorized third parties.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114858Z" creationid="Administrator" creationdate="20140621T114858Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;所有由客戶本身或非授權第三方進行維修或改裝所造成之損壞。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Damage which has arisen during transport from the manufacturer to the consumer or during transport to the service center.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114917Z" creationid="Administrator" creationdate="20140621T114917Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;由製造商運送至客戶途中或運送至服務中心時所造成之損壞。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Defects in material or workmanship will be removed free of charge within the warranty period.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114815Z" creationid="Administrator" creationdate="20140621T114815Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;保固期內材料或加工缺陷將免費維修。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Liability for direct or indirect consequential losses caused by the unit is excluded even if the damage to the unit is accepted as a warranty claim.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114934Z" creationid="Administrator" creationdate="20140621T114934Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;即使裝置本身損壞包含於保固中，裝置直接或間接造成之損失責任不包含於保固範圍內。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;Repairs under warranty do not extend the warranty period either for the unit or for the replacement parts.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114838Z" creationid="Administrator" creationdate="20140621T114838Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;保固期間內維修或更換零件並不延長保固期。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;The following is excluded under the warranty:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114843Z" creationid="Administrator" creationdate="20140621T114843Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;以下為非保固範圍：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;f1&gt;The warranty period for &lt;/f1&gt;&lt;f2&gt;MEDISANA &lt;/f2&gt;&lt;f3&gt;products is three years from date of purchase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114750Z" creationid="Administrator" creationdate="20140621T114750Z">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;MEDISANA &lt;/f2&gt;&lt;f3&gt;產品保固期為自購買日起三年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/s0&gt;&lt;s2&gt;These notes must be observed to prevent any damage to the device.&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T082046Z" creationid="Administrator" creationdate="20140621T082046Z">
@@ -122,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111021Z" creationid="Administrator" creationdate="20140621T111021Z">
         <seg>&lt;f0&gt;如果您需要設置更高的溫度，移動開關到下一個位置 &lt;/f0&gt;&lt;f1&gt;2&lt;/f1&gt;&lt;f2&gt; 或 &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt;，或最高溫度於位置 &lt;/f4&gt;&lt;f5&gt;4&lt;/f5&gt;&lt;f6&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Internet: &lt;/f0&gt;&lt;a1&gt;www.medisana.de&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115011Z" creationid="Administrator" creationdate="20140621T115011Z">
+        <seg>&lt;f0&gt;網址：&lt;/f0&gt;&lt;a1&gt;www.medisana&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T094958Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt; 保溫電毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;可舒適地溫暖並放鬆您的全身，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;eMail: &lt;/f0&gt;&lt;a1&gt;info@medisana.de&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114955Z" creationid="Administrator" creationdate="20140621T114955Z">
+        <seg>&lt;f0&gt;電子郵件：&lt;/f0&gt;&lt;a1&gt;info@medisana.de&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have to return the unit, please enclose a copy of your receipt and state what the defect is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114708Z" creationid="Administrator" creationdate="20140621T114708Z">
+        <seg>若需退貨，請附上收據並說明損壞處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you notice any transport damage during unpacking, please contact your dealer without delay.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094758Z" creationid="Administrator" creationdate="20140621T094758Z">
@@ -570,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073758Z" creationid="Administrator" creationdate="20140621T073758Z">
         <seg>根據我們的產品持續改進政策，我們保留規格更改權，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a warranty claim, the date of purchase has to be proven by means of the sales receipt or invoice.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114800Z" creationid="Administrator" creationdate="20140621T114800Z">
+        <seg>保固期間若需維修請出示收據或發票以證明購買日期。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please contact your dealer or the service center in case of a claim under the warranty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114702Z" creationid="Administrator" creationdate="20140621T114702Z">
+        <seg>任何保固內維修請聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please contact&lt;t0/&gt; &lt;t1/&gt;your dealer&lt;t2/&gt; &lt;t3/&gt;or the service &lt;t4/&gt;center &lt;t5/&gt;in case of a claim under&lt;t6/&gt; &lt;t7/&gt;the warranty.&lt;t8/&gt; &lt;t9/&gt;If you have to return&lt;t10/&gt; &lt;t11/&gt;the unit, please enclose a copy of your receipt and state&lt;t12/&gt; &lt;t13/&gt;what&lt;t14/&gt; &lt;t15/&gt;the defect&lt;t16/&gt; &lt;t17/&gt;is.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074240Z" creationid="Administrator" creationdate="20140621T074240Z">
@@ -1026,6 +1138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z" creationid="Administrator" creationdate="20140621T062736Z">
         <seg>以下為包含之元件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following warranty terms apply:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114712Z" creationid="Administrator" creationdate="20140621T114712Z">
+        <seg>以下為保固適用條款：</seg>
       </tuv>
     </tu>
     <tu>
