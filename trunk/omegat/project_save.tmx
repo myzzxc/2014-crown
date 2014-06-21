@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a few minutes you will be able to feel the heating blanket getting noticeably warmer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110657Z" creationid="Administrator" creationdate="20140621T110657Z">
+        <seg>幾分鐘後，將能明顯感覺到電熱毯變熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080314Z" creationid="Administrator" creationdate="20140621T072955Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100239Z" creationid="Administrator" creationdate="20140621T100239Z">
         <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation indicator lamp initially lights up green, then it flashes red and subsequently it lights up red for the remainder of the warm- up phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110617Z" creationid="Administrator" creationdate="20140621T110617Z">
+        <seg>操作指示燈最初為綠色，接著閃爍紅光代表加熱階段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1066,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092754Z" creationid="Administrator" creationdate="20140621T092754Z">
         <seg>收納裝置時，請勿放置任何物品於電熱毯尚以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the electric blanket reaches the set temperature, the lamp lights up green again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110723Z" creationid="Administrator" creationdate="20140621T110723Z">
+        <seg>當電熱毯達到設定溫度時，再次照亮起綠燈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the next warm-up phase begins, operation indicator lamp lights up red again.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110734Z" creationid="Administrator" creationdate="20140621T110734Z">
+        <seg>在接下來的熱身階段開始時，操作指示燈燈亮起紅再次。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
