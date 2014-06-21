@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items supplied and packaging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093940Z" creationid="Administrator" creationdate="20140621T093940Z">
+        <seg>隨機附件及包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lot number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z" creationid="Administrator" creationdate="20140621T084333Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Persistent pains can be a symptom of serious illness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093751Z" creationid="Administrator" creationdate="20140621T093751Z">
+        <seg>持續性疼痛可能為嚴重疾病的症狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that&lt;t0/&gt; &lt;t1/&gt;the device is complete&lt;t2/&gt; &lt;t3/&gt;and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062605Z" creationid="Administrator" creationdate="20140621T062605Z">
@@ -642,6 +658,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040647Z" creationid="Administrator" creationdate="20140621T040647Z">
         <seg>若將此裝置轉送他人，需連同此說明手冊一併附上以供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for your confidence in us and congratulations!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z" creationid="Administrator" creationdate="20140621T094038Z">
+        <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you very much</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093916Z" creationid="Administrator" creationdate="20140621T093916Z">
+        <seg>感謝您</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084742Z" creationid="Administrator" creationdate="20140621T084742Z">
         <seg>由電熱毯上拔下控制開關單元！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093956Z" creationid="Administrator" creationdate="20140621T093956Z">
+        <seg>使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053425Z" creationid="Administrator" creationdate="20140621T053425Z">
         <seg>• 若電源線或變壓器損壞，僅能由 MEDISANA 授權經銷商或合格人員更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• If you experience any pain or discomfort while using the unit, stop using it immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093835Z" creationid="Administrator" creationdate="20140621T093835Z">
+        <seg>•如果使用裝置期間您有任何疼痛或不適，必須立即停止使用。</seg>
       </tuv>
     </tu>
     <tu>
