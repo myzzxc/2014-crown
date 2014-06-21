@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please note the&lt;t0/&gt; &lt;t1/&gt;following in particular&lt;t2/&gt; &lt;t3/&gt;concerning electrical&lt;t4/&gt; &lt;t5/&gt;equipment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052056Z" creationid="Administrator" creationdate="20140621T052056Z">
+        <seg>請特別注意以下關於電氣設備之事項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RETAIN FOR FUTURE USE!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040506Z" creationid="Administrator" creationdate="20140621T040309Z">
@@ -130,6 +138,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041822Z" creationid="Administrator" creationdate="20140621T041822Z">
         <seg>• 當裝置故障時請勿嘗試自行修理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Do not use any electrical equipment&lt;t0/&gt; &lt;t1/&gt;while in the bath or shower.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052258Z" creationid="Administrator" creationdate="20140621T052258Z">
+        <seg>• 請勿於沐浴或淋浴時使用任何電氣設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Only use the unit in enclosed&lt;t0/&gt; &lt;t1/&gt;spaces!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052125Z" creationid="Administrator" creationdate="20140621T052125Z">
+        <seg>• 裝置僅適用於室內！</seg>
       </tuv>
     </tu>
     <tu>
