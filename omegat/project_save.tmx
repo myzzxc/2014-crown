@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;After approx. 90 minutes the foot warmer automatically switches off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144859Z" creationid="Administrator" creationdate="20140621T144859Z">
+        <seg>&lt;f0&gt;約 90 分鐘後暖腳機將自動關閉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;During switch level &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;the indicator light is illuminated, showing the adjusted level number contemporaneously.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144717Z" creationid="Administrator" creationdate="20140621T144709Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T110657Z">
         <seg>幾分鐘後，將能明顯感覺到保溫電毯變熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After approx. 5 seconds you can switch the foot warmer back on by sliding the switch to level &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;2 &lt;/f5&gt;&lt;f6&gt;or &lt;/f6&gt;&lt;f7&gt;3&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145105Z" creationid="Administrator" creationdate="20140621T145105Z">
+        <seg>約 5 秒鐘後，可以切換滑動開關至設置 &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;2 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;3&lt;/f7&gt;&lt;f8&gt;開啟暖腳機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To switch the foot warmer on again, you must first move the sliding switch to position &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144951Z" creationid="Administrator" creationdate="20140621T144951Z">
+        <seg>若要重新開啟暖腳機，必須先將滑動開關切換至 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unplug it from the mains outlet immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091734Z" creationid="Administrator" creationdate="20140621T091734Z">
@@ -1762,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z" creationid="Administrator" creationdate="20140621T110734Z">
         <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now enjoy the pleasant warmth at your feet.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144823Z" creationid="Administrator" creationdate="20140621T144823Z">
+        <seg>此時您的雙腳能開始享受舒適的溫暖。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
