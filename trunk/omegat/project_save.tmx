@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Do not fall asleep while the foot warmer is switched on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T131028Z" creationid="Administrator" creationdate="20140621T131028Z">
+        <seg>•請勿於暖腳機仍開啟時睡著。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Do not reach for the unit if it has fallen into water.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052448Z" creationid="Administrator" creationdate="20140621T052448Z">
@@ -1846,10 +1854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Do not use the foot warmer in bed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T131227Z" creationid="Administrator" creationdate="20140621T131227Z">
+        <seg>•請勿於床上使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Do not use the heating blanket in a damp or humid environment or if the heating blanket itself is damp.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T091935Z">
         <seg>• 請勿於潮濕的環境中或保溫電毯本身潮濕時使用保溫電毯，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Do not wear shoes when using the foot warmer because this will lower your heat-sensitivity and will cause the foot warmer to become dirty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T131125Z" creationid="Administrator" creationdate="20140621T131125Z">
+        <seg>•請勿於穿鞋時使用暖腳機，因為會降低對熱的敏感性並弄髒暖腳機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Never leave the foot warmer unattended during operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130935Z" creationid="Administrator" creationdate="20140621T130935Z">
+        <seg>•請勿於無人看管時運作暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Never leave the heating blanket on when unattended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091614Z" creationid="Administrator" creationdate="20140621T091614Z">
@@ -2042,6 +2074,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113910Z" creationid="Administrator" creationdate="20140621T064802Z">
         <seg>• 插上變壓器至按摩機 （3）處並連接電源插座。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Prolonged use of the foot warmer at a high setting could lead to skin burns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T131205Z" creationid="Administrator" creationdate="20140621T131205Z">
+        <seg>•長時間高溫使用暖腳機可能會導致皮膚燒傷。</seg>
       </tuv>
     </tu>
     <tu>
