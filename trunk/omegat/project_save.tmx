@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Plug the unit into the mains outlet and move the slider control from position &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;to position &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110056Z" creationid="Administrator" creationdate="20140621T110056Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt; 插上變壓器至並連接電源插座。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110328Z" creationid="Administrator" creationdate="20140621T110056Z">
+        <seg>&lt;f0&gt;插上變壓器至並將滑動開關由位置 &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;切換至位置&lt;/f2&gt;&lt;f3&gt; 1 &lt;/f3&gt;&lt;f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
