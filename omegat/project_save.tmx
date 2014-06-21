@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;With the &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;heating blanket &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;you can gently warm and relax your whole body.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095015Z" creationid="Administrator" creationdate="20140621T094958Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy 電熱毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;可舒適地溫暖並放鬆您的全身。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095116Z" creationid="Administrator" creationdate="20140621T094958Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt; 電熱毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;可舒適地溫暖並放鬆您的全身，</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +730,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040647Z" creationid="Administrator" creationdate="20140621T040647Z">
         <seg>若將此裝置轉送他人，需連同此說明手冊一併附上以供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snuggle up under the extra-soft heating blanket for a pleasant, cosy well-being.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095323Z" creationid="Administrator" creationdate="20140621T095323Z">
+        <seg>幸福地依偎在舒適的超軟電熱毯上。</seg>
       </tuv>
     </tu>
     <tu>
