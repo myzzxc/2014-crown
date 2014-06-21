@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>130 x 110 x 85 mm (L x W x H)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073334Z" creationid="Administrator" creationdate="20140621T073334Z">
+        <seg>130 x 110 x 85 mm (長 x 寬 x 高)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z" creationid="Administrator" creationdate="20140621T040219Z">
         <seg>1 安全資訊 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z" creationid="Administrator" creationdate="20140621T073402Z">
+        <seg>220 g (不含變壓器)</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z" creationid="Administrator" creationdate="20140621T073319Z">
+        <seg>輸出：&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA 尺寸： 約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that&lt;t0/&gt; &lt;t1/&gt;the device is complete&lt;t2/&gt; &lt;t3/&gt;and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062605Z" creationid="Administrator" creationdate="20140621T062605Z">
@@ -362,6 +386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042039Z" creationid="Administrator" creationdate="20140621T042039Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight:&lt;t0/&gt; appr.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073342Z" creationid="Administrator" creationdate="20140621T073342Z">
+        <seg>重量：約 </seg>
       </tuv>
     </tu>
     <tu>
