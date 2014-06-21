@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unplug it from the mains outlet immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091734Z" creationid="Administrator" creationdate="20140621T091734Z">
+        <seg>立即將電源連線由插座中拔除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unplug the control switch unit from the heating blanket!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084742Z" creationid="Administrator" creationdate="20140621T084742Z">
@@ -1062,6 +1070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Never handle a heating blanket that has fallen into water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091728Z" creationid="Administrator" creationdate="20140621T091728Z">
+        <seg>• 若電熱毯掉落水中請勿觸摸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Never leave the heating blanket on when unattended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091614Z" creationid="Administrator" creationdate="20140621T091614Z">
+        <seg>•請勿於無人看管時加熱電毯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Never use strong&lt;t0/&gt; &lt;t1/&gt;cleaning agents&lt;t2/&gt; &lt;t3/&gt;or stiff brushes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T071816Z" creationid="Administrator" creationdate="20140621T071816Z">
@@ -1074,6 +1098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053139Z" creationid="Administrator" creationdate="20140621T053139Z">
         <seg>• 當電源線受損、變壓器故障、裝置不正常運作、裝置掉落水中或受損時請勿使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• No safety pins or other pointed or sharp objects should be attached to the heating blanket or stuck into it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091535Z" creationid="Administrator" creationdate="20140621T091535Z">
+        <seg>•請勿於電熱毯上使用或塞入安全別針或其他尖銳的物體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064126Z" creationid="Administrator" creationdate="20140621T064126Z">
         <seg>• 橘皮組織按摩器可按摩臀部、大腿、上臂以促進血液循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• The device is only for private use and is not to be used in hospitals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091652Z" creationid="Administrator" creationdate="20140621T091652Z">
+        <seg>• 設備僅供私人使用，不適用於醫院中。</seg>
       </tuv>
     </tu>
     <tu>
