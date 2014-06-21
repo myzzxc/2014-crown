@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f3&gt;&lt;f4&gt;To ensure the best results and long-term satisfaction with your &lt;/f4&gt;&lt;f5&gt;MEDISANA &lt;/f5&gt;&lt;f6&gt;Foot Warmer &lt;/f6&gt;&lt;f7&gt;FWS&lt;/f7&gt;&lt;f8&gt;, we recommend that you read the following operating and maintenance instructions carefully.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143647Z" creationid="Administrator" creationdate="20140621T143521Z">
-        <seg>&lt;/f3&gt;&lt;f4&gt;為確保您的 &lt;/f4&gt;&lt;f5&gt;MEDISANA&lt;/f5&gt;&lt;f6&gt; 暖腳機&lt;/f6&gt;&lt;f7&gt; FWS&lt;/f7&gt;&lt;f8&gt; 能長久正常使用，建議仔細閱讀以下使用及維護之注意事項。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144516Z" creationid="Administrator" creationdate="20140621T143521Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;為確保您的 &lt;/f4&gt;&lt;f5&gt;MEDISANA&lt;/f5&gt;&lt;f6&gt; 暖腳機&lt;/f6&gt;&lt;f7&gt; FWS&lt;/f7&gt;&lt;f8&gt; 能長久正常使用，建議仔細閱讀以下使用及維護之注意事項。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115210Z" creationid="Administrator" creationdate="20140621T115210Z">
         <seg>&lt;f0&gt;4&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;保固&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;During switch level &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt;and &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;the indicator light is illuminated, showing the adjusted level number contemporaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144717Z" creationid="Administrator" creationdate="20140621T144709Z">
+        <seg>&lt;f0&gt;切換設置至 &lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt; 及 &lt;/f4&gt;&lt;f5&gt;3 &lt;/f5&gt;&lt;f6&gt;時，指示燈亮起並顯示調整後之設置編號，</seg>
       </tuv>
     </tu>
     <tu>
