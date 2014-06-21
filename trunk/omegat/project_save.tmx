@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To switch the appliance off, push the sliding switch&lt;t18/&gt; &lt;t19/&gt;to position &lt;t20/&gt;0&lt;t21/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065737Z" creationid="Administrator" creationdate="20140621T065737Z">
+        <seg>將開關切至位置 0 以關閉按摩器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use of the&lt;t0/&gt; &lt;t1/&gt;massage device is prohibited in the&lt;t2/&gt; &lt;t3/&gt;following cases:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042302Z" creationid="Administrator" creationdate="20140621T042219Z">
@@ -448,8 +456,8 @@
       <tuv lang="EN-US">
         <seg>• Plug the mains adapter into the socket&lt;t0/&gt; &lt;t1/&gt;of the appliance&lt;t2/&gt; &lt;t3/&gt;and then plug the mains adapter into the power&lt;t4/&gt; &lt;t5/&gt;socket.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064802Z" creationid="Administrator" creationdate="20140621T064802Z">
-        <seg>• 插上變壓器至按摩器並連接電源插座。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065559Z" creationid="Administrator" creationdate="20140621T064802Z">
+        <seg>• 插上變壓器至按摩器 （3）處並連接電源插座。</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053956Z" creationid="Administrator" creationdate="20140621T053940Z">
         <seg>• 連續使用勿超過 15 分鐘，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Using the sliding switch&lt;t0/&gt; &lt;t1/&gt;to activate the appliance.&lt;t2/&gt; &lt;t3/&gt;As soon as you push the switch to position &lt;t4/&gt;1&lt;t5/&gt;, the massage&lt;t6/&gt; &lt;t7/&gt;rollers&lt;t8/&gt; &lt;t9/&gt;start to rotate&lt;t10/&gt; &lt;t11/&gt;at a gentle&lt;t12/&gt; &lt;t13/&gt;speed.&lt;t14/&gt; &lt;t15/&gt;Select position &lt;t16/&gt;2&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065705Z" creationid="Administrator" creationdate="20140621T065539Z">
+        <seg>• 使用滑動開關（4）啟動按摩器，當切換開關至位置 1 時，按摩器滾輪（2）立即開始慢速轉動，切換位置 2 。</seg>
       </tuv>
     </tu>
     <tu>
