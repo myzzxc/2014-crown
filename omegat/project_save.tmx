@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;The warranty&lt;t1/&gt; &lt;t2/&gt;period&lt;t3/&gt; &lt;t4/&gt;for &lt;t5/&gt;MEDISANA &lt;t6/&gt;products&lt;t7/&gt; &lt;t8/&gt;is three&lt;t9/&gt; &lt;t10/&gt;years from date&lt;t11/&gt; &lt;t12/&gt;of purchase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074423Z" creationid="Administrator" creationdate="20140621T074423Z">
+        <seg> MEDISANA 產品保固期為自購買日起三年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073055Z" creationid="Administrator" creationdate="20140621T072955Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073758Z" creationid="Administrator" creationdate="20140621T073758Z">
         <seg>根據我們的產品持續改進政策，我們保留規格更改權，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of a warranty&lt;t13/&gt; &lt;t14/&gt;claim, the date&lt;t15/&gt; &lt;t16/&gt;of purchase&lt;t17/&gt; &lt;t18/&gt;has to be proven by means&lt;t19/&gt; &lt;t20/&gt;of the sales receipt or invoice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074537Z" creationid="Administrator" creationdate="20140621T074537Z">
+        <seg>保固期間若需維修請出示收據或發票以證明購買日期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z" creationid="Administrator" creationdate="20140621T062736Z">
         <seg>以下為包含之元件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following warranty&lt;t0/&gt; &lt;t1/&gt;terms apply:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074318Z" creationid="Administrator" creationdate="20140621T074318Z">
+        <seg>以下為保固適用條款：</seg>
       </tuv>
     </tu>
     <tu>
