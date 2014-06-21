@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The current version of this instruction manual can be found under &lt;/f0&gt;&lt;a1&gt;www.medisana.com&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114647Z" creationid="Administrator" creationdate="20140621T114623Z">
+        <seg>&lt;f0&gt;可於網站查詢本使用說明書的最新版本 &lt;/f0&gt;&lt;a1&gt;www.medisana.com&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The heating blanket is designed in such a way that settings &lt;/f0&gt;&lt;f1&gt;1 &lt;/f1&gt;&lt;f2&gt;and &lt;/f2&gt;&lt;f3&gt;2 &lt;/f3&gt;&lt;f4&gt;are suitable for continuous use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T111814Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z" creationid="Administrator" creationdate="20140621T114425Z">
+        <seg>自動關機：約 3 小時後 開關設置： 0 - 1 - 2 - 3 - 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z" creationid="Administrator" creationdate="20140621T083043Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080336Z" creationid="Administrator" creationdate="20140620T145945Z">
         <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dimensions: approx. 180 x 130 cm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114446Z" creationid="Administrator" creationdate="20140621T114432Z">
+        <seg>尺寸：約 180 x 130 cm</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EAN number: 40 15588 60227 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114534Z" creationid="Administrator" creationdate="20140621T114534Z">
+        <seg>歐洲商品編號：40 15588 60227 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z" creationid="Administrator" creationdate="20140621T080321Z">
@@ -526,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z" creationid="Administrator" creationdate="20140621T114546Z">
+        <seg>根據我們的產品持續改進政策，我們保留規格更改權，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with&lt;t0/&gt; &lt;t1/&gt;our policy&lt;t2/&gt; &lt;t3/&gt;of continual product&lt;t4/&gt; &lt;t5/&gt;improvement, we reserve the&lt;t6/&gt; &lt;t7/&gt;right to make&lt;t8/&gt; &lt;t9/&gt;technical and optical&lt;t10/&gt; &lt;t11/&gt;changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073758Z" creationid="Administrator" creationdate="20140621T073758Z">
@@ -582,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item number: 60227</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114522Z" creationid="Administrator" creationdate="20140621T114522Z">
+        <seg>貨號：60227</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items supplied and packaging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093940Z" creationid="Administrator" creationdate="20140621T093940Z">
@@ -594,6 +642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z" creationid="Administrator" creationdate="20140621T084333Z">
         <seg>批號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mains lead length: approx. 2.3 m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114509Z" creationid="Administrator" creationdate="20140621T114509Z">
+        <seg>電源線長度：約 2.3 m</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1282,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081817Z" creationid="Administrator" creationdate="20140621T081817Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warranty and repair terms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z" creationid="Administrator" creationdate="20140621T114652Z">
+        <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight: approx. 1.7 kg</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114455Z" creationid="Administrator" creationdate="20140621T114455Z">
+        <seg>重量：約 1.7 kg</seg>
       </tuv>
     </tu>
     <tu>
