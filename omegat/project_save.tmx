@@ -286,6 +286,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Switch level &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;= Appliance switched off&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144406Z" creationid="Administrator" creationdate="20140621T144406Z">
+        <seg>&lt;f0&gt;開關設置 &lt;/f0&gt;&lt;f1&gt;0 &lt;/f1&gt;&lt;f2&gt;= 裝置關閉&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Switch level &lt;/f0&gt;&lt;f1&gt;1 &lt;/f1&gt;&lt;f2&gt;= Heat low &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144428Z" creationid="Administrator" creationdate="20140621T144428Z">
+        <seg>&lt;f0&gt;開關設置 &lt;/f0&gt;&lt;f1&gt;1 &lt;/f1&gt;&lt;f2&gt;= 低溫 &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Switch level &lt;/f0&gt;&lt;f1&gt;2 &lt;/f1&gt;&lt;f2&gt;= Heat medium &lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144438Z" creationid="Administrator" creationdate="20140621T144438Z">
+        <seg>&lt;f0&gt;開關設置 &lt;/f0&gt;&lt;f1&gt;2 &lt;/f1&gt;&lt;f2&gt;= 中溫 &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Switch level &lt;/f0&gt;&lt;f1&gt;3 &lt;/f1&gt;&lt;f2&gt;= Heat high&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144448Z" creationid="Administrator" creationdate="20140621T144448Z">
+        <seg>&lt;f0&gt;開關設置 &lt;/f0&gt;&lt;f1&gt;3 &lt;/f1&gt;&lt;f2&gt;= 高溫 &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The current version of this instruction manual can be found under &lt;/f0&gt;&lt;a1&gt;www.medisana.com&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114647Z" creationid="Administrator" creationdate="20140621T114623Z">
@@ -966,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never use a clock timer!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144323Z" creationid="Administrator" creationdate="20140621T144323Z">
+        <seg>請勿使用定時開關！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-observance of these instructions can result in serious injury or damage to the device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081811Z" creationid="Administrator" creationdate="20140621T081811Z">
@@ -1258,6 +1298,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113959Z" creationid="Administrator" creationdate="20140621T113433Z">
         <seg>將按摩機放置於乾燥、涼爽處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch the appliance on with the sliding switch on the control unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144303Z" creationid="Administrator" creationdate="20140621T144303Z">
+        <seg>將滑動開關打開以開啟裝置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091954Z" creationid="Administrator" creationdate="20140621T091954Z">
         <seg>僅能於充分乾燥後進行使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must always use the foot warmer with the cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144202Z" creationid="Administrator" creationdate="20140621T144202Z">
+        <seg>必須搭配外套層使用暖腳機。</seg>
       </tuv>
     </tu>
     <tu>
