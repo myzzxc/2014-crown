@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not dry clean!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084906Z" creationid="Administrator" creationdate="20140621T084906Z">
+        <seg>請勿乾洗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not dry the heating blanket in a tumble drier!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084832Z" creationid="Administrator" creationdate="20140621T084832Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Before connecting the appliance to your power supply, please ensure that the supply voltage stated on the rating plate is compatible with your mains supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085045Z" creationid="Administrator" creationdate="20140621T085045Z">
+        <seg>• 將裝置連接電源前，請先確認供應電壓與額定電壓相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Before connecting the device to your power&lt;t0/&gt; &lt;t1/&gt;supply, please ensure&lt;t2/&gt; &lt;t3/&gt;that&lt;t4/&gt; &lt;t5/&gt;the supply voltage stated&lt;t6/&gt; &lt;t7/&gt;on the rating plate is compatible&lt;t8/&gt; &lt;t9/&gt;with your mains supply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041133Z" creationid="Administrator" creationdate="20140621T041133Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063510Z" creationid="Administrator" creationdate="20140621T063510Z">
         <seg>• 橘皮組織為皮膚的凹凸紋理，其由皮下脂肪、結締組織壓力分配不均和血液循環不順暢所造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• Check the heating blanket carefully before each use, if you notice wear or damage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085130Z" creationid="Administrator" creationdate="20140621T085130Z">
+        <seg>• 每次使用前仔細檢查電熱毯是否磨損或損壞</seg>
       </tuv>
     </tu>
     <tu>
