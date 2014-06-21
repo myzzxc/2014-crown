@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;With the &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;heating blanket &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;you can gently warm and relax your whole body.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T095015Z" creationid="Administrator" creationdate="20140621T094958Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy 電熱毯 &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;可舒適地溫暖並放鬆您的全身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;• 1 &lt;/f0&gt;&lt;f1&gt;MEDISANA &lt;/f1&gt;&lt;f2&gt;Cosy heating blanket &lt;/f2&gt;&lt;f3&gt;HDW &lt;/f3&gt;&lt;f4&gt;with control unit&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094714Z" creationid="Administrator" creationdate="20140621T083159Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you notice any transport damage during unpacking, please contact your dealer without delay.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094758Z" creationid="Administrator" creationdate="20140621T094758Z">
+        <seg>若開箱時發現任何運輸過程中的損壞，請立即聯繫您的轉銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important recommendations concerning your&lt;t0/&gt; &lt;t1/&gt;health</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z" creationid="Administrator" creationdate="20140621T060703Z">
@@ -606,10 +622,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please dispose properly of any packaging material no longer required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094747Z" creationid="Administrator" creationdate="20140621T094747Z">
+        <seg>請妥善處理任何不再需要之包裝材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please dispose properly of any packaging&lt;t2/&gt; &lt;t3/&gt;material no longer required.&lt;t4/&gt; &lt;t5/&gt;If you notice&lt;t6/&gt; &lt;t7/&gt;any transport damage during&lt;t8/&gt; &lt;t9/&gt;unpacking, please&lt;t10/&gt; &lt;t11/&gt;contact&lt;t12/&gt; &lt;t13/&gt;your dealer&lt;t14/&gt; &lt;t15/&gt;without delay.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063001Z" creationid="Administrator" creationdate="20140621T063001Z">
         <seg>請妥善處理任何不再需要之包裝材料。若開箱時發現任何運輸過程中的損壞，請立即聯繫您的轉銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please ensure that the polythene packing is kept away from the reach of children!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094811Z" creationid="Administrator" creationdate="20140621T094811Z">
+        <seg>請確保塑膠包裝遠離幼童可接觸之處！</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085432Z" creationid="Administrator" creationdate="20140621T085432Z">
         <seg>請退回至供應商。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Risk of suffocation!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z" creationid="Administrator" creationdate="20140621T094815Z">
+        <seg>具有窒息危險 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064255Z" creationid="Administrator" creationdate="20140621T064255Z">
         <seg>按摩對於加速及刺激循環有良好效果 — 有助加速代謝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The packaging can be reused or recycled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094735Z" creationid="Administrator" creationdate="20140621T094735Z">
+        <seg>包裝可重複使用或回收。</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075240Z" creationid="Administrator" creationdate="20140621T075240Z">
         <seg>c. 由製造商運送至客戶途中或運送至服務中心時所造成之損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• 1 Instruction manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094723Z" creationid="Administrator" creationdate="20140621T094723Z">
+        <seg>• 1 說明手冊</seg>
       </tuv>
     </tu>
     <tu>
