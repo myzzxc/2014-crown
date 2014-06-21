@@ -270,6 +270,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not bleach!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084751Z" creationid="Administrator" creationdate="20140621T084751Z">
+        <seg>請勿漂白！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not dry the heating blanket in a tumble drier!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084832Z" creationid="Administrator" creationdate="20140621T084832Z">
+        <seg>請勿使用轉筒式乾燥機乾燥電熱毯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not iron the heating blanket!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084854Z" creationid="Administrator" creationdate="20140621T084854Z">
+        <seg>請勿熨燙電熱毯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not puncture the heating blanket!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084356Z" creationid="Administrator" creationdate="20140621T084356Z">
@@ -456,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>Not to be used by very young children</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084539Z" creationid="Administrator" creationdate="20140621T084539Z">
-        <seg>禁止幼童使用</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084554Z" creationid="Administrator" creationdate="20140621T084539Z">
+        <seg>禁止幼童（0 - 3 歲）使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z" creationid="Administrator" creationdate="20140621T042028Z">
         <seg>僅由授權服務據點進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only use the heating blanket indoors!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084618Z" creationid="Administrator" creationdate="20140621T084618Z">
+        <seg>僅於室內使用電熱毯！</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electric blanket may be washed by hand according to the instructions on the label!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084701Z" creationid="Administrator" creationdate="20140621T084701Z">
+        <seg>電熱毯可根據標籤上的說明手洗！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following parts are included:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z" creationid="Administrator" creationdate="20140621T062736Z">
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065737Z" creationid="Administrator" creationdate="20140621T065737Z">
         <seg>將開關切至位置 0 以關閉按摩器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unplug the control switch unit from the heating blanket!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084742Z" creationid="Administrator" creationdate="20140621T084742Z">
+        <seg>由電熱毯上拔下控制開關單元！</seg>
       </tuv>
     </tu>
     <tu>
