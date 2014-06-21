@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All users are obliged to hand&lt;t0/&gt; &lt;t1/&gt;in all electrical or electronic devices, regardless&lt;t2/&gt; &lt;t3/&gt;of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can&lt;t4/&gt; &lt;t5/&gt;be&lt;t6/&gt; &lt;t7/&gt;disposed&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;an&lt;t14/&gt; &lt;t15/&gt;environmentally&lt;t16/&gt; &lt;t17/&gt;acceptable manner.&lt;t18/&gt; &lt;t19/&gt;Consult&lt;t20/&gt; &lt;t21/&gt;your&lt;t22/&gt; &lt;t23/&gt;municipal authority&lt;t24/&gt; &lt;t25/&gt;or your dealer for information&lt;t26/&gt; &lt;t27/&gt;about&lt;t28/&gt; &lt;t29/&gt;disposal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072955Z" creationid="Administrator" creationdate="20140621T072955Z">
+        <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保丟棄符合環保。  諮詢   您   市政當局   或您的轉銷商資訊   關於廢棄物處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T145945Z" creationid="Administrator" creationdate="20140620T145945Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054100Z" creationid="Administrator" creationdate="20140621T054100Z">
         <seg>並於使用至少關閉裝置半小時以冷卻裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product&lt;t0/&gt; &lt;t1/&gt;must not be disposed&lt;t2/&gt; &lt;t3/&gt;of together with domestic&lt;t4/&gt; &lt;t5/&gt;waste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z" creationid="Administrator" creationdate="20140621T072713Z">
+        <seg>此產品不得作為一般垃圾丟棄。</seg>
       </tuv>
     </tu>
     <tu>
