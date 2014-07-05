@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z" creationid="YCC" creationdate="20140705T044717Z">
+        <seg>說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z" creationid="Administrator" creationdate="20140621T151714Z">
@@ -1174,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z" creationid="YCC" creationdate="20140705T044715Z">
+        <seg>馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mains lead length: approx. 2.3 m</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114509Z" creationid="Administrator" creationdate="20140621T114509Z">
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144323Z" creationid="Administrator" creationdate="20140621T144323Z">
         <seg>請勿使用定時開關！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No.: 15170-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044653Z" creationid="YCC" creationdate="20140705T044653Z">
+        <seg>編號：15170-1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1370,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z" creationid="Administrator" creationdate="20140621T073319Z">
         <seg>輸出：&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA 尺寸： 約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PART 1 – GENERAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z" creationid="YCC" creationdate="20140705T044716Z">
+        <seg>第一部分 —  總論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PSC FAB II 12 INCH WAFER FAB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044709Z" creationid="YCC" creationdate="20140705T044709Z">
+        <seg>力晶二廠 12 吋晶圓廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 1 / 10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044657Z" creationid="YCC" creationdate="20140705T044657Z">
+        <seg>頁碼：1 / 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page: 2 / 10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044713Z" creationid="YCC" creationdate="20140705T044713Z">
+        <seg>頁碼：2 / 10</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144303Z" creationid="Administrator" creationdate="20140621T144303Z">
         <seg>將滑動開關打開以開啟裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TECHNICAL SPECIFICATION OF MOTOR FOR POWERCHIP SEMICONDUCTOR CORP.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044706Z" creationid="YCC" creationdate="20140705T044706Z">
+        <seg>力晶半導體股份有限公司馬達技術規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Section specifies the requirements for supply, installation, connection and testing of motors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z" creationid="YCC" creationdate="20140705T044719Z">
+        <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This instruction manual belongs to this device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z" creationid="Administrator" creationdate="20140621T081638Z">
@@ -1914,6 +1986,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z" creationid="Administrator" creationdate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title: Technical Specification of Motor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044701Z" creationid="YCC" creationdate="20140705T044701Z">
+        <seg>標題：馬達技術規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065953Z" creationid="Administrator" creationdate="20140621T065953Z">
         <seg>過度使用可能造成過度刺激肌肉並產生緊繃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version: 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044655Z" creationid="YCC" creationdate="20140705T044655Z">
+        <seg>版本：1</seg>
       </tuv>
     </tu>
     <tu>
