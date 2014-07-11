@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EVALUATION SUBJECT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132521Z" creationid="CCYU" creationdate="20140711T132521Z">
+        <seg>評估主題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z" creationid="Administrator" creationdate="20140621T111118Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111911Z" creationid="Administrator" creationdate="20140621T111911Z">
         <seg>如果您想要連續使用則推動開關至位置 &lt;/f4&gt; &lt;f5&gt;1 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;2 &lt;/f7&gt;&lt;f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REPORT HOLDER:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132534Z" creationid="CCYU" creationdate="20140711T132447Z">
+        <seg>報告所屬機構：</seg>
       </tuv>
     </tu>
     <tu>
