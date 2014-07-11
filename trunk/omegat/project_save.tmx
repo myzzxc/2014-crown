@@ -3212,6 +3212,30 @@
         <seg>&lt;t0/&gt;&lt;t1/&gt;2009、 2006 以及 2003 &lt;t2/&gt;國際住宅規範&lt;t3/&gt;® &lt;t4/&gt;(IBC)</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Adhesive mixing and dispensing equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T154016Z" creationid="CCYU" creationdate="20140711T154016Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;黏著劑混合及點膠設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Equipment for hole cleaning and adhesive injection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T154107Z" creationid="CCYU" creationdate="20140711T154107Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;孔洞清潔及黏著劑注入設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;fischer FIS EM 390 S or fischer FIS EM 585 S adhesive packaged in cartridges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T153931Z" creationid="CCYU" creationdate="20140711T153931Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;fischer FIS EM 390 S 或 fischer FIS EM 585 S 黏著劑匣</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
