@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Property evaluated:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133152Z" creationid="CCYU" creationdate="20140711T133118Z">
+        <seg>評估屬性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection category II</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084330Z" creationid="Administrator" creationdate="20140621T084330Z">
@@ -1674,6 +1682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113959Z" creationid="Administrator" creationdate="20140621T113433Z">
         <seg>將按摩機放置於乾燥、涼爽處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structural</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133157Z" creationid="CCYU" creationdate="20140711T133157Z">
+        <seg>結構</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133216Z" creationid="CCYU" creationdate="20140711T133216Z">
+        <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unplug it from the mains outlet immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091734Z" creationid="Administrator" creationdate="20140621T091734Z">
@@ -2312,8 +2336,8 @@
       <tuv lang="EN-US">
         <seg>fischer FIS EM ADHESIVE ANCHORING SYSTEM FOR CRACKED AND UNCRACKED CONCRETE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132701Z" creationid="CCYU" creationdate="20140711T132701Z">
-        <seg>用於破裂和無裂紋混凝土之 fischer FIS EM 黏結結錨固系統</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133238Z" creationid="CCYU" creationdate="20140711T132701Z">
+        <seg>用於破裂和無裂紋混凝土之 fischer FIS EM 黏結錨固系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132959Z" creationid="CCYU" creationdate="20140711T132959Z">
         <seg>&lt;t0/&gt;&lt;t1/&gt;2009、 2006 以及 2003 &lt;t2/&gt;國際建築規範&lt;t3/&gt;® &lt;t4/&gt;(IBC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;2009, 2006 and, 2003 &lt;t2/&gt;International Residential Code&lt;t3/&gt;® &lt;t4/&gt;(IRC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133038Z" creationid="CCYU" creationdate="20140711T133038Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;2009、 2006 以及 2003 &lt;t2/&gt;國際住宅規範&lt;t3/&gt;® &lt;t4/&gt;(IBC)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
