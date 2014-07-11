@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;A Subsidiary of the International Code Council&lt;t2/&gt;®</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z" creationid="CCYU" creationdate="20140711T131754Z">
+        <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• 1 Instruction manual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094723Z" creationid="Administrator" creationdate="20140621T094723Z">
