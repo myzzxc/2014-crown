@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor elements:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135548Z" creationid="CCYU" creationdate="20140712T135538Z">
+        <seg>錨固元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article no.&lt;t0/&gt; &lt;t1/&gt;: 88540&lt;t2/&gt; &lt;t3/&gt;EAN-&lt;t4/&gt;Number:&lt;t5/&gt; 40 15588&lt;t6/&gt; &lt;t7/&gt;88540&lt;t8/&gt; &lt;t9/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073628Z" creationid="Administrator" creationdate="20140621T073628Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145331Z" creationid="Administrator" creationdate="20140621T145331Z">
         <seg>不使用暖腳機時請將電源線由插座中拔除。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dispensers:&lt;t0/&gt; fischer FIS EM adhesive must be dispensed with manual dispensers, cordless electric dispensers or pneumatic dispensers provided by fischerwerke.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135518Z" creationid="CCYU" creationdate="20140712T135518Z">
+        <seg>點膠器：&lt;t0/&gt; fischer FIS EM 黏著劑需使用fischerwerke所提供之手動點膠器、無線電動點膠器或氣動點膠器進行點膠。</seg>
       </tuv>
     </tu>
     <tu>
