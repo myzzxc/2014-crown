@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z" creationid="CCYU" creationdate="20140712T134001Z">
+        <seg>此報告中，兩種系統皆為 fischer FIS EM。卡匣上標示黏著劑有效日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z" creationid="Administrator" creationdate="20140621T073247Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115048Z" creationid="Administrator" creationdate="20140621T115048Z">
         <seg>服務中心地址另行附上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shelf life, as indicated by the expiration date, corresponds to an unopened pack stored in a dry, dark environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134217Z" creationid="CCYU" creationdate="20140712T134217Z">
+        <seg>有校日期為未開封之包裝儲存在乾燥、黑暗的環境中之保質期，</seg>
       </tuv>
     </tu>
     <tu>
