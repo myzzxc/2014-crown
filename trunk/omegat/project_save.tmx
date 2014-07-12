@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Materials:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z" creationid="CCYU" creationdate="20140712T130855Z">
+        <seg>材料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z" creationid="Administrator" creationdate="20140621T083115Z">
@@ -1754,6 +1762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z" creationid="Administrator" creationdate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The adhesive is also referred to as “mortar” in the installation instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130842Z" creationid="CCYU" creationdate="20140712T130842Z">
+        <seg>膠著劑於安裝說明中也稱作 "砂漿 (mortar)"。</seg>
       </tuv>
     </tu>
     <tu>
