@@ -2056,8 +2056,16 @@
       <tuv lang="EN-US">
         <seg>The two components are kept separate in a dual-chambered cartridge.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T131736Z" creationid="CCYU" creationdate="20140712T131736Z">
-        <seg>雙墓室墨水匣中，這兩個元件都是分開的。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133459Z" creationid="CCYU" creationdate="20140712T131736Z">
+        <seg>兩種材料分別裝於雙槽卡匣中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two components combine and react when dispensed through a static mixing nozzle attached to the manifold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133342Z" creationid="CCYU" creationdate="20140712T133342Z">
+        <seg>這兩個元件相結合，通過附加的歧管靜態混合噴嘴配藥的時候，反應。</seg>
       </tuv>
     </tu>
     <tu>
