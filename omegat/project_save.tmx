@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The system is labeled fischer FIS EM 390 S</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z" creationid="CCYU" creationdate="20140712T133739Z">
+        <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The two components are kept separate in a dual-chambered cartridge.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133459Z" creationid="CCYU" creationdate="20140712T131736Z">
@@ -2064,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>The two components combine and react when dispensed through a static mixing nozzle attached to the manifold.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133342Z" creationid="CCYU" creationdate="20140712T133342Z">
-        <seg>這兩個元件相結合，通過附加的歧管靜態混合噴嘴配藥的時候，反應。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133714Z" creationid="CCYU" creationdate="20140712T133342Z">
+        <seg>當兩種材料經過連接至岐管的靜態混合嘴相互結合並反應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144202Z" creationid="Administrator" creationdate="20140621T144202Z">
         <seg>必須搭配外套層使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[13.2 oz (390 mL)], or fischer FIS EM 585 S [19.8 oz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133751Z" creationid="CCYU" creationdate="20140712T133751Z">
+        <seg>[13.2 oz (390 mL)]，或 fischer FIS EM 585 S [19.8 oz.</seg>
       </tuv>
     </tu>
     <tu>
