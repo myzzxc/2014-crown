@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short-term (less than 48-hour) temperature variations during adhesive storage are permitted as long as the temperature remains between 41°F and 104°F (5°C and 40°C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134319Z" creationid="CCYU" creationdate="20140712T134319Z">
+        <seg>短期 (不超過 48 小時)） 溫度變化膠粘劑貯藏期間允許，只要溫度仍然 41 ° F 至 104 ° F （5 ° C 和 40 ° C）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should you give this device to another person, it is vital that you also pass on these instructions for use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083058Z" creationid="Administrator" creationdate="20140621T083058Z">
@@ -1706,6 +1714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z" creationid="Administrator" creationdate="20140621T151421Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage temperature of the adhesive is 41°F to 86°F (5°C to 30°C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134259Z" creationid="CCYU" creationdate="20140712T134259Z">
+        <seg>黏著劑保存溫度為 41°F 至 86°F (5°C 至 30°C)。</seg>
       </tuv>
     </tu>
     <tu>
