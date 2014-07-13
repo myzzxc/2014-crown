@@ -2352,8 +2352,8 @@
       <tuv lang="EN-US">
         <seg>The basic concrete breakout strength of a single anchor in tension, &lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071631Z" creationid="CCYU" creationdate="20140713T071631Z">
-        <seg>單一錨固在張力下的基本&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071847Z" creationid="CCYU" creationdate="20140713T071631Z">
+        <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值依照 ACI 318 D.5.2.2 計算。</seg>
       </tuv>
     </tu>
     <tu>
