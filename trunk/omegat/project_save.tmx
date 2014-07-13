@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exceptions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101857Z" creationid="CCYU" creationdate="20140713T101857Z">
+        <seg>例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explanation of symbols</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081601Z" creationid="Administrator" creationdate="20140621T081601Z">
@@ -1426,6 +1434,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z" creationid="CCYU" creationdate="20140713T072139Z">
         <seg>輕質混凝土錨固請參閱 ACI 318-11 D.3.6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the calculation of the in-plane shear strength of anchor bolts attaching wood sill plates of bearing or non-bearing walls of light-frame wood structures to foundations or foundation stem walls, the in-plane shear strength in accordance with D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T102041Z" creationid="CCYU" creationdate="20140713T102041Z">
+        <seg>計算面內 D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,16 +2576,16 @@
       <tuv lang="EN-US">
         <seg>The anchor design shear strength for resisting earthquake forces shall be determined in accordance with&lt;t1/&gt; &lt;t2/&gt;D.6.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101821Z" creationid="CCYU" creationdate="20140713T101821Z">
-        <seg>描固設計剪力強度應根據 D.3.3.4.4 決定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101854Z" creationid="CCYU" creationdate="20140713T101821Z">
+        <seg>描固設計剪力強度應根據 D.6 決定。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The anchor design tensile strength shall be calculated from &lt;t2/&gt;D.3.3.4.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101506Z" creationid="CCYU" creationdate="20140713T101451Z">
-        <seg>描固設計抗拉強度應根據 D.3.3.4.4 決定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101842Z" creationid="CCYU" creationdate="20140713T101451Z">
+        <seg>描固設計張力強度應根據 D.3.3.4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
