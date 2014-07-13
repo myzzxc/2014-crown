@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design Strength in Seismic Design Categories C, D, E and F:&lt;t0/&gt; In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, design anchors in accordance with ACI 318 Section D.3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094807Z" creationid="CCYU" creationdate="20140713T094807Z">
+        <seg>抗震設計類別 C、D、E 或 F 的設計強度：&lt;t0/&gt;IBC 或 IRC 的抗震設計類別 C、D、E 或 F 的結構，設計錨固需遵照 ACI 318 章節 D.3.3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051001Z" creationid="CCYU" creationdate="20140713T050821Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nominal steel shear strength, &lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;, must be adjusted by &lt;t4/&gt;α&lt;t5/&gt;V,seis &lt;t6/&gt;as given in Tables 5 and 8 for the anchor element types included in this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095009Z" creationid="CCYU" creationdate="20140713T095009Z">
+        <seg>標稱鋼剪力強度，&lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;，必須依照本報告表 5 和表 8 中錨固元件類型，以 &lt;t4/&gt;α&lt;t5/&gt;V,seis &lt;t6/&gt;進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The packaging can be reused or recycled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094735Z" creationid="Administrator" creationdate="20140621T094735Z">
@@ -3434,6 +3450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z" creationid="CCYU" creationdate="20140711T131754Z">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>τ&lt;t0/&gt;uncr&lt;t1/&gt; = characteristic bond strength stated in the table of this report where by &lt;t2/&gt;τ&lt;t3/&gt;uncr &lt;t4/&gt;need not be taken as larger than:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094402Z" creationid="CCYU" creationdate="20140713T094402Z">
+        <seg>τ&lt;t0/&gt;uncr&lt;t1/&gt; = 本報告表中所述的特稱黏合強度，&lt;t2/&gt;τ&lt;t3/&gt;uncr &lt;t4/&gt;不可超過：</seg>
       </tuv>
     </tu>
     <tu>
