@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -986,6 +986,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051001Z" creationid="CCYU" creationdate="20140713T050821Z">
         <seg>本報告章節 4.1.1 4.1.至 4.1.11 若無註明，設計參數應遵照 2009、2006 和 2003 IBC 使用的 ACI 318-11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design parameters are provided in Tables 5 through 10 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051445Z" creationid="CCYU" creationdate="20140713T051445Z">
+        <seg>本報告表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134217Z" creationid="CCYU" creationdate="20140712T134217Z">
         <seg>有校日期為未開封之包裝儲存在乾燥、黑暗的環境中之保質期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z" creationid="CCYU" creationdate="20140713T051151Z">
+        <seg>除了 ACI 318 D.3.3 的需求外，錨固設計強度必須符合 ACI 318 D.4.1。</seg>
       </tuv>
     </tu>
     <tu>
