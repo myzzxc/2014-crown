@@ -2064,16 +2064,16 @@
       <tuv lang="EN-US">
         <seg>Static Concrete Breakout Strength in Tension:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T070934Z" creationid="CCYU" creationdate="20140713T070934Z">
-        <seg>張力下靜態</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071141Z" creationid="CCYU" creationdate="20140713T070934Z">
+        <seg>張力下靜態混凝土斷裂強度：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Static Steel Strength in Tension: &lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053433Z" creationid="CCYU" creationdate="20140713T052823Z">
-        <seg>張力下的靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的得標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071003Z" creationid="CCYU" creationdate="20140713T052823Z">
+        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
