@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fischer FIS EM adhesive is identified by packaging labeled with the manufacturer’s name (fischerwerke) and address, product name, lot number, expiration date, and the evaluation report number (ESR-1990).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044654Z" creationid="CCYU" creationdate="20140713T044654Z">
+        <seg>fischer FIS EM 黏著劑包裝上標有製造商名稱 (fischerwerke)、地址、產品名稱、批號、有效期限以及評估報告編號 (ESR-1990)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fischer FIS EM adhesive may only be used with continuously threaded steel rods or deformed steel reinforcing bars described in Tables 2, 3, and 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T022746Z" creationid="CCYU" creationdate="20140712T022746Z">
