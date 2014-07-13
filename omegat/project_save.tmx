@@ -1192,8 +1192,8 @@
       <tuv lang="EN-US">
         <seg>Ductility: &lt;t0/&gt;In accordance with ACI 318 D.1, in order for a steel element to be considered ductile, the tested elongation must be at least 14 percent and reduction of area must be at least 30 percent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070508Z" creationid="Judy" creationdate="20140713T070508Z">
-        <seg>延展性：&lt;t0/&gt;根據 ACI 318 D.1，為了要滿足鋼材之韌性，測試伸長率必須至少為 14% 且面積減少必須至少為 30%。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070643Z" creationid="Judy" creationdate="20140713T070508Z">
+        <seg>延展性：&lt;t0/&gt;根據 ACI 318 D.1，為了要滿足鋼材之韌性，測試伸長率必須至少為 14% 且面積減少必須至少為 30%，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel elements with a tested elongation of less than 14 percent or a reduction of area of less than 30 percent, or both, are considered brittle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070639Z" creationid="Judy" creationdate="20140713T070639Z">
+        <seg>鋼材測試伸長量小於 14% 或面積減少低於 30%，或滿足以上兩個條件則視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage temperature of the adhesive is 41°F to 86°F (5°C to 30°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134259Z" creationid="CCYU" creationdate="20140712T134259Z">
@@ -2890,6 +2898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065953Z" creationid="Administrator" creationdate="20140621T065953Z">
         <seg>過度使用可能造成過度刺激肌肉並產生緊繃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values for various steel materials are provided in Table 2 and Table 3 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z" creationid="Judy" creationdate="20140713T070752Z">
+        <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
       </tuv>
     </tu>
     <tu>
