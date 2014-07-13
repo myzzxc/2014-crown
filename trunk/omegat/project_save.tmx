@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>5.17 &lt;t0/&gt;Periodic special inspection must be provided in accordance with Section 4.3 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042729Z" creationid="CCYU" creationdate="20140713T042729Z">
-        <seg>5.17 &lt;t0/&gt;必須根據本報告章節 4.3 進行</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042754Z" creationid="CCYU" creationdate="20140713T042729Z">
+        <seg>5.17 &lt;t0/&gt;必須根據本報告章節 4.3 提供定期專項檢查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z" creationid="Administrator" creationdate="20140621T113529Z">
         <seg>關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuous special inspection for anchors installed in horizontal or upwardly inclined orientations resist sustained tension loads must be provided in accordance with Section &lt;t1/&gt;4.3 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043047Z" creationid="CCYU" creationdate="20140713T043047Z">
+        <seg>必須根據本報告章節 4.3，針對安裝於水平或向上傾斜持續抵抗張力負荷的錨固進行連續專項檢查。</seg>
       </tuv>
     </tu>
     <tu>
