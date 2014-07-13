@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 8 summarizes reinforcing bar size ranges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065511Z" creationid="Judy" creationdate="20140713T065511Z">
+        <seg>表 8 列出鋼筋尺寸範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 9</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045640Z" creationid="CCYU" creationdate="20140713T045640Z">
@@ -2362,6 +2370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150630Z" creationid="Administrator" creationdate="20140621T150630Z">
         <seg>電動暖腳機應保持清潔，因為其無法水洗或乾洗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The embedded portions of reinforcing bars must be straight, and free of mill scale, rust, mud, oil and other coatings that impair the bond with the adhesive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065848Z" creationid="Judy" creationdate="20140713T065831Z">
+        <seg>強化鋼筋之嵌入部分必須是為鉛直且無加工刻痕、銹蝕、污泥、油漬以及其他損害黏著結合處之表面物質。</seg>
       </tuv>
     </tu>
     <tu>
