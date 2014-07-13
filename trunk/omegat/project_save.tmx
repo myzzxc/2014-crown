@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ASSOCIATED STRENGTH REDUCTION FACTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074409Z" creationid="CCYU" creationdate="20140713T074409Z">
+        <seg>相關強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information for the determination of nominal bond strength in tension is given in Section 4.1.4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072444Z" creationid="CCYU" creationdate="20140713T072444Z">
@@ -822,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOND STRENGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z" creationid="CCYU" creationdate="20140713T074352Z">
+        <seg>黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before cleaning the foot warmer, always disconnect the plug from the mains and allow it to cool down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150717Z" creationid="Administrator" creationdate="20140621T150717Z">
@@ -866,6 +882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z" creationid="Administrator" creationdate="20140621T083043Z">
         <seg>謹慎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONCRETE TYPE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074340Z" creationid="CCYU" creationdate="20140713T074340Z">
+        <seg>混凝土種類</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100337Z" creationid="Administrator" creationdate="20140621T100337Z">
         <seg>正確</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cracked</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074539Z" creationid="CCYU" creationdate="20140713T074539Z">
+        <seg>龜裂</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074435Z" creationid="CCYU" creationdate="20140713T074435Z">
+        <seg>乾硬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dry off the rollers and place the appliance&lt;t14/&gt; &lt;t15/&gt;back on the base unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072130Z" creationid="Administrator" creationdate="20140621T072130Z">
@@ -1290,6 +1330,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044951Z" creationid="CCYU" creationdate="20140713T044951Z">
         <seg>圖 1— 流程圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074549Z" creationid="CCYU" creationdate="20140713T074549Z">
+        <seg>本告告</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +1866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z" creationid="YCC" creationdate="20140705T044716Z">
         <seg>第一部分 —  總論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PERMISSIBLE INSTALLATION CONDITIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074346Z" creationid="CCYU" creationdate="20140713T074346Z">
+        <seg>允許安裝條件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The resulting characteristic bond strength shall be multiplied by the associated strength reduction factor &lt;t7/&gt;&lt;t8/&gt;nn &lt;t9/&gt;as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074333Z" creationid="CCYU" creationdate="20140713T074333Z">
+        <seg>由此而得的特徵黏結強度應乘上相關的強度縮減因數 &lt;t7/&gt;&lt;t8/&gt;nn &lt;t9/&gt;，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service &lt;t0/&gt;center &lt;t1/&gt;address&lt;t2/&gt; &lt;t3/&gt;is shown&lt;t4/&gt; &lt;t5/&gt;on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z" creationid="Administrator" creationdate="20140621T075733Z">
@@ -2926,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncracked</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074413Z" creationid="CCYU" creationdate="20140713T074413Z">
+        <seg>未龜裂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unplug it from the mains outlet immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091734Z" creationid="Administrator" creationdate="20140621T091734Z">
@@ -3026,6 +3098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z" creationid="Administrator" creationdate="20140621T114652Z">
         <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water-saturated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074534Z" creationid="CCYU" creationdate="20140713T074534Z">
+        <seg>水飽和</seg>
       </tuv>
     </tu>
     <tu>
