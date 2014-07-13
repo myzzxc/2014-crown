@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1720,8 +1720,8 @@
       <tuv lang="EN-US">
         <seg>Minimum Member Thickness, &lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;, Anchor Spacing, &lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;,&lt;t6/&gt; and Edge Distance, &lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;: &lt;t10/&gt;In lieu of ACI 318 D.8.1 and D.8.3, values of &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;and &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; described in &lt;t17/&gt;this report (Tables 6 and 9) must be observed for anchor design and installation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T082738Z" creationid="CCYU" creationdate="20140713T081811Z">
-        <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告所述 (表 6 和表 9 ) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T084347Z" creationid="CCYU" creationdate="20140713T081811Z">
+        <seg>錨固設計和安裝的最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值，</seg>
       </tuv>
     </tu>
     <tu>
