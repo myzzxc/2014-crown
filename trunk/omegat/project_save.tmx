@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.12 &lt;t0/&gt;The fischer FIS EM Adhesive Anchoring System is not permitted to support fire-resistive construction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035509Z" creationid="CCYU" creationdate="20140713T035509Z">
+        <seg>5.12 &lt;t0/&gt; fischer FIS EM 黏結錨固系統並不支援防結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3 &lt;t0/&gt;The values of &lt;t1/&gt;f&lt;t2/&gt;′&lt;t3/&gt;c&lt;t4/&gt; used for calculation purposes must not exceed 8,000 psi (55 MPa).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031834Z" creationid="CCYU" creationdate="20140713T031834Z">
@@ -1928,8 +1936,8 @@
       <tuv lang="EN-US">
         <seg>The calculations and &lt;t0/&gt;details must be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035127Z" creationid="CCYU" creationdate="20140713T035127Z">
-        <seg>計算和詳細資料應由合格設計專家準備，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035329Z" creationid="CCYU" creationdate="20140713T035127Z">
+        <seg>計算和詳細資料應按計畫進行當地的法規所需，由合格設計專家準備。</seg>
       </tuv>
     </tu>
     <tu>
