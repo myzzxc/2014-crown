@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In lieu of ACI 318 D.8.5, the minimum member thickness, &lt;t18/&gt;h&lt;t19/&gt;min&lt;t20/&gt;, described in this report (Tables 6 and 9) must be observed for anchor design and installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093221Z" creationid="CCYU" creationdate="20140713T093051Z">
+        <seg>取代 ACI 318 D.8.1 和 D.8.5，本報告 (表 6 和表 9) 中的最小構件厚度，&lt;t18/&gt;h&lt;t19/&gt;min&lt;t20/&gt;，必須遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In no case shall &lt;t26/&gt;ℓ&lt;t27/&gt;e &lt;t28/&gt;exceed 8&lt;t29/&gt;d&lt;t30/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080328Z" creationid="CCYU" creationdate="20140713T080328Z">
@@ -1720,8 +1728,8 @@
       <tuv lang="EN-US">
         <seg>Minimum Member Thickness, &lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;, Anchor Spacing, &lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;,&lt;t6/&gt; and Edge Distance, &lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;: &lt;t10/&gt;In lieu of ACI 318 D.8.1 and D.8.3, values of &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;and &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; described in &lt;t17/&gt;this report (Tables 6 and 9) must be observed for anchor design and installation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T084347Z" creationid="CCYU" creationdate="20140713T081811Z">
-        <seg>錨固設計和安裝的最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093025Z" creationid="CCYU" creationdate="20140713T081811Z">
+        <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值需遵照錨固設計和安裝。</seg>
       </tuv>
     </tu>
     <tu>
