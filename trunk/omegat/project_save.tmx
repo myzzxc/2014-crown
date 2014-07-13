@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loads applied to the anchors must be adjusted in accordance with Section 1605.2 of the IBC for strength design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T032802Z" creationid="CCYU" creationdate="20140713T032802Z">
+        <seg>錨固負荷必須根據 IBC 章節 1605.2 的強度設計進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lot number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z" creationid="Administrator" creationdate="20140621T084333Z">
