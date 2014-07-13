@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchors designed to resist wall out-of-plane forces with design strengths equal to or greater than the force determined in accordance with ASCE 7 Equation 12.11-1 or 12.14-10 shall be deemed to satisfy Section D.3.3.4.3(d).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100946Z" creationid="CCYU" creationdate="20140713T100946Z">
+        <seg>設計用於抵抗牆體平面外力的錨固，若等於或大於 ASCE 7 方程式 12.11-1 或 12.14-10ASCE 7 所決定的外力，則應視為滿足章節 D.3.3.4.3(d)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchors must be installed in concrete base materials in holes predrilled in accordance with the instructions provided in Figure 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T032458Z" creationid="CCYU" creationdate="20140713T032458Z">
