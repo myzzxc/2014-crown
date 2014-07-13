@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concrete:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071349Z" creationid="Judy" creationdate="20140713T071349Z">
+        <seg>混凝土：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z" creationid="Administrator" creationdate="20140621T113529Z">
@@ -1666,6 +1674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081811Z" creationid="Administrator" creationdate="20140621T081811Z">
         <seg>未遵守使用說明可能導致身體嚴重傷害或對裝置的損害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal-weight concrete must comply with Sections 1903 and 1905 of the IBC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z" creationid="Judy" creationdate="20140713T071553Z">
+        <seg>混凝土必須遵守各節 1903 年和 1905 中型散貨箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T040029Z" creationid="CCYU" creationdate="20140713T035644Z">
         <seg>若無法規禁止，且至少滿足下列條件之一，fischer FIS EM 黏結錨固系統便可安裝於防火結構：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where values are nonconforming or unstated, the steel must be considered brittle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z" creationid="Judy" creationdate="20140713T070912Z">
+        <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
       </tuv>
     </tu>
     <tu>
