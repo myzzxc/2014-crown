@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN-US">
         <seg>Continuous special inspection of adhesive anchors installed in horizontal or upwardly inclined orientations to resist sustained tension loads shall be performed in accordance with ACI 318 D.9.2.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132356Z" creationid="Judy" creationdate="20140713T132356Z">
-        <seg>水平或向上傾斜安裝在的方向來抵抗持續的張力荷載之黏著錨固應根據 ACI 318 D.9.2.4 進行連續特別檢查。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132441Z" creationid="Judy" creationdate="20140713T132356Z">
+        <seg>水平或向上傾斜安裝以抵抗持續的張力負載之黏著錨固應根據 ACI 318 D.9.2.4 進行連續特別檢查，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3387,6 +3387,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074413Z" creationid="CCYU" creationdate="20140713T074413Z">
         <seg>未龜裂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under the IBC, additional requirements as set forth in &lt;t0/&gt;Sections 1705, 1706, or 1707 must be observed, where applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132835Z" creationid="Judy" creationdate="20140713T132835Z">
+        <seg>需根據 IBC 章節 1705、1706、或1707 於適用情況下符合額外要求。</seg>
       </tuv>
     </tu>
     <tu>
