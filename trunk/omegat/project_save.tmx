@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed as an endorsement of the subject of the report or a recommendation for its use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051930Z" creationid="Judy" creationdate="20140713T051930Z">
-        <seg>ICC-ES 評估報告既不將被解釋為代表美學或任何其他屬性沒有具體涉及，也不應將它們解釋為贊同的報告或建議供其使用的主題。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T052501Z" creationid="Judy" creationdate="20140713T051930Z">
+        <seg>ICC-ES 評估報告不用於解釋任何其他未明確說明之項目，也不為報告所涉及之物品背書或推薦使用。</seg>
       </tuv>
     </tu>
     <tu>
