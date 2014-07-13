@@ -800,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Allowable in-plane shear strength of exempt anchors, parallel to the edge of concrete shall be permitted to be determined in accordance with AISI S100 Section E3.3.1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110643Z" creationid="CCYU" creationdate="20140713T110643Z">
-        <seg>錨固可允許的平面剪力強度依照 AISI S100 章節 E3.3.1，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T111148Z" creationid="CCYU" creationdate="20140713T110643Z">
+        <seg>無須使用錨固之平行混凝土邊緣平面剪力強度，應依照 AISI S100 章節 E3.3.1 規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,8 +2641,8 @@
       <tuv lang="EN-US">
         <seg>The allowable in-plane shear strength of the anchor is determined in accordance with AF&amp;PA NDS Table 11E for lateral design values parallel to grain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104436Z" creationid="CCYU" creationdate="20140713T104436Z">
-        <seg>錨固可允許的平面剪力強度依照 AF&amp;PA NDS 表 11E 決定平行的橫向設計值。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T111217Z" creationid="CCYU" creationdate="20140713T104436Z">
+        <seg>錨固的平面剪力強度應依照 AF&amp;PA NDS 表 11E 決定平行的橫向設計值。</seg>
       </tuv>
     </tu>
     <tu>
