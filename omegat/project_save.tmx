@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z" creationid="Judy" creationdate="20140713T131724Z">
+        <seg>任何已安裝之錨固產品或執行安裝的人員更換皆需進行初始檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article no.&lt;t0/&gt; &lt;t1/&gt;: 88540&lt;t2/&gt; &lt;t3/&gt;EAN-&lt;t4/&gt;Number:&lt;t5/&gt; 40 15588&lt;t6/&gt; &lt;t7/&gt;88540&lt;t8/&gt; &lt;t9/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073628Z" creationid="Administrator" creationdate="20140621T073628Z">
@@ -2535,6 +2543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subsequent installations of the same anchor type and size by the same construction personnel are permitted to be performed in the absence of the special inspector.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131530Z" creationid="Judy" creationdate="20140713T131530Z">
+        <seg>後續由同一施工人員安裝之相同錨固類型及尺寸可於特別檢查人員不在場時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch the appliance on with the sliding switch on the control unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144303Z" creationid="Administrator" creationdate="20140621T144303Z">
@@ -3097,8 +3113,8 @@
       <tuv lang="EN-US">
         <seg>The special inspector must verify the initial installations of each type and size of adhesive anchor by construction personnel on site.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131340Z" creationid="Judy" creationdate="20140713T131056Z">
-        <seg>特別檢查人員必須於施工現場驗證施工人員所安裝之各種類型及尺寸之錨固黏著。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131532Z" creationid="Judy" creationdate="20140713T131056Z">
+        <seg>特別檢查人員必須於施工現場驗證施工人員所安裝之各種類型及尺寸之錨固黏著，</seg>
       </tuv>
     </tu>
     <tu>
