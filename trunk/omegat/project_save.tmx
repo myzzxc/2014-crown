@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor locations must comply with this report and the plans and specifications approved by the code official.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150914Z" creationid="CCYU" creationdate="20140713T150914Z">
+        <seg>錨固位置必須遵守此報告和計畫以及批准之官方規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchors are embedded into concrete a minimum of 7 inches (178 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105641Z" creationid="CCYU" creationdate="20140713T105641Z">
