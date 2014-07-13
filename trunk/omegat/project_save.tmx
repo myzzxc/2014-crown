@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.3 &lt;t0/&gt;The values of &lt;t1/&gt;f&lt;t2/&gt;′&lt;t3/&gt;c&lt;t4/&gt; used for calculation purposes must not exceed 8,000 psi (55 MPa).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031834Z" creationid="CCYU" creationdate="20140713T031834Z">
+        <seg>5.3 &lt;t0/&gt;用於計算之 &lt;t1/&gt;f&lt;t2/&gt;′&lt;t3/&gt;c&lt;t4/&gt; 數值不得超過 8,000 psi (55 MPa)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5&lt;t0/&gt; &lt;t1/&gt;Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T070009Z" creationid="Administrator" creationdate="20140621T070009Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135548Z" creationid="CCYU" creationdate="20140712T135538Z">
         <seg>錨固元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchors must be installed in concrete base materials in holes predrilled in accordance with the instructions provided in Figure 4 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T032458Z" creationid="CCYU" creationdate="20140713T032458Z">
+        <seg>錨固必須依照本報告圖 4 指示，安裝在以預先鑽孔的混凝土基座材料上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,8 +2560,8 @@
       <tuv lang="EN-US">
         <seg>fischer FIS EM adhesive anchors must be installed in accordance with this report and the manufacturer’s printed installation instructions included in the adhesive packaging and described in Figure 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031516Z" creationid="CCYU" creationdate="20140713T031324Z">
-        <seg>fischer FIS EM 黏結錨固系統必須遵照本報告、黏著劑包裝所附的製造商安裝和本報告圖 4 之說明進行安裝。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T032530Z" creationid="CCYU" creationdate="20140713T031324Z">
+        <seg>fischer FIS EM 黏結錨固系統必須遵照本報告、黏著劑包裝所附的製造商安裝說明以及本報告圖 4 之指示進行安裝。</seg>
       </tuv>
     </tu>
     <tu>
