@@ -2544,8 +2544,8 @@
       <tuv lang="EN-US">
         <seg>Where not otherwise prohibited by the code, the fischer FIS EM Adhesive Anchoring System is permitted for installation in fire-resistive construction provided that at least one of the following conditions is fulfilled:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035901Z" creationid="CCYU" creationdate="20140713T035644Z">
-        <seg>若無法規禁止，且至少滿足下列條件之一，fischer FIS EM 黏結錨固系統可安裝於防火結構：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T040029Z" creationid="CCYU" creationdate="20140713T035644Z">
+        <seg>若無法規禁止，且至少滿足下列條件之一，fischer FIS EM 黏結錨固系統便可安裝於防火結構：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,6 +3482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T154016Z" creationid="CCYU" creationdate="20140711T154016Z">
         <seg>&lt;t0/&gt;&lt;t1/&gt;黏著劑混合及點膠設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Anchors are used to resist wind or seismic forces only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035938Z" creationid="CCYU" creationdate="20140713T035938Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;錨固僅用於抵抗風或地震。</seg>
       </tuv>
     </tu>
     <tu>
