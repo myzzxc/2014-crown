@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.13 &lt;t0/&gt;Since an ICC-ES acceptance criteria for evaluating data to determine the performance of adhesive anchors subjected to fatigue or shock loading is unavailable at this time, the use of these anchors under such conditions is beyond the scope of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T041802Z" creationid="CCYU" creationdate="20140713T041802Z">
+        <seg>5.13 &lt;t0/&gt;由於無法使用 ICC-ES 驗收標準評估黏合錨固在疲勞或衝擊負荷下的性能，因此在這些情況下使用錨固便超出了本報告的範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.14 &lt;t0/&gt;Use of zinc-plated carbon steel threaded rods or steel reinforcing bars is limited to dry, interior locations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T041938Z" creationid="CCYU" creationdate="20140713T041917Z">
+        <seg>5.14 &lt;t0/&gt;僅可在乾燥的室內使用鍍鋅碳鋼螺紋桿或鋼筋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.3 &lt;t0/&gt;The values of &lt;t1/&gt;f&lt;t2/&gt;′&lt;t3/&gt;c&lt;t4/&gt; used for calculation purposes must not exceed 8,000 psi (55 MPa).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031834Z" creationid="CCYU" creationdate="20140713T031834Z">
