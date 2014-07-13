@@ -1336,8 +1336,8 @@
       <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074549Z" creationid="CCYU" creationdate="20140713T074549Z">
-        <seg>本告告</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z" creationid="CCYU" creationdate="20140713T074549Z">
+        <seg>本報告圖 1 為黏結強度設計選擇流程圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034338Z" creationid="CCYU" creationdate="20140713T034338Z">
         <seg>強度設計值是根據本報告章節 4.1 所決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factors for determination of the bond strength are given in Tables 7 and 10 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074715Z" creationid="CCYU" creationdate="20140713T074715Z">
+        <seg>決定黏結強度的強度縮減因數位於本報告表 7 和表 10。</seg>
       </tuv>
     </tu>
     <tu>
