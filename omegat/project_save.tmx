@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="EN-US">
         <seg>Bond strength values are a function of the concrete compressive strength, whether the concrete is cracked or uncracked, the concrete temperature range, and the installation conditions (dry or water-saturated concrete).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072935Z" creationid="CCYU" creationdate="20140713T072935Z">
-        <seg>無論混凝土是否龜裂、溫度範圍為何以及安裝情況，黏合強度值即為混凝土壓縮強度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T073602Z" creationid="CCYU" creationdate="20140713T072935Z">
+        <seg>無論混凝土是否龜裂、溫度範圍為何以及安裝情況 (乾硬性混凝土或)，黏合強度值即為混凝土壓縮強度。</seg>
       </tuv>
     </tu>
     <tu>
