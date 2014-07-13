@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prior to installation, calculations and details demonstrating compliance with this report must be submitted to the code official.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034943Z" creationid="CCYU" creationdate="20140713T034829Z">
+        <seg>安裝前，必須將符合本報告之計算和詳細資訊提交給有關當局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property evaluated:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133152Z" creationid="CCYU" creationdate="20140711T133118Z">
@@ -1914,6 +1922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z" creationid="Administrator" creationdate="20140621T111937Z">
         <seg>此裝置設有防過度加熱裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The calculations and &lt;t0/&gt;details must be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035127Z" creationid="CCYU" creationdate="20140713T035127Z">
+        <seg>計算和詳細資料應由合格設計專家準備，</seg>
       </tuv>
     </tu>
     <tu>
