@@ -1584,8 +1584,8 @@
       <tuv lang="EN-US">
         <seg>In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, anchor strength must be adjusted in accordance with Section 4.1.11 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033314Z" creationid="CCYU" creationdate="20140713T033314Z">
-        <seg>在 IBC 或 IRC 的抗震設計類別 C、D、E 或 F 的結構下，錨固強度必須根據本報告章節 4.1.11 進行調整。 </seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081420Z" creationid="CCYU" creationdate="20140713T033314Z">
+        <seg>在 IBC 或 IRC 的抗震設計類別 C、D、E 或 F 的結構下，錨固強度必須依照本報告章節 4.1.11 進行調整。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@
       <tuv lang="EN-US">
         <seg>Interaction of Tensile and Shear Forces: &lt;t0/&gt;For designs that include combined tension and shear, the interaction of tension and shear must be calculated in accordance with ACI 318 D.7</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081131Z" creationid="CCYU" creationdate="20140713T081131Z">
-        <seg>拉伸和簡歷的ㄐ</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081229Z" creationid="CCYU" creationdate="20140713T081131Z">
+        <seg>張力和剪力的相互作用： &lt;t0/&gt;結合張力和剪力的設計，必須按照 ACI 318  D.7 計算張力和剪力的相互作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,8 +1664,8 @@
       <tuv lang="EN-US">
         <seg>Loads applied to the anchors must be adjusted in accordance with Section 1605.2 of the IBC for strength design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T032802Z" creationid="CCYU" creationdate="20140713T032802Z">
-        <seg>錨固負荷必須根據 IBC 章節 1605.2 的強度設計進行調整。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081406Z" creationid="CCYU" creationdate="20140713T032802Z">
+        <seg>錨固負荷必須依照 IBC 章節 1605.2 的強度設計進行調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,16 +2192,16 @@
       <tuv lang="EN-US">
         <seg>Static Bond Strength in Tension: &lt;t0/&gt;The nominal static bond strength of a single adhesive anchor or group of adhesive anchors in tension, &lt;t1/&gt;N&lt;t2/&gt;a&lt;t3/&gt; or &lt;t4/&gt;N&lt;t5/&gt;ag&lt;t6/&gt;, must be calculated in accordance with ACI 318-11 D.5.5.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072705Z" creationid="CCYU" creationdate="20140713T072632Z">
-        <seg>張力下靜態黏合強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態黏合強度，&lt;t1/&gt;N&lt;t2/&gt;a&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;ag&lt;t6/&gt;，必須根據 ACI 318-11 D.5.5 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081338Z" creationid="CCYU" creationdate="20140713T072632Z">
+        <seg>張力下靜態黏合強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態黏合強度，&lt;t1/&gt;N&lt;t2/&gt;a&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;ag&lt;t6/&gt;，必須依照 ACI 318-11 D.5.5 計算。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Static Concrete Breakout Strength in Shear: &lt;t0/&gt;The nominal static concrete breakout strength of a single anchor or group of anchors in shear, &lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt;, or &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;,&lt;t7/&gt; must be calculated in accordance with ACI 318 D.6.2 based on information given in Tables 6 and 9 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080903Z" creationid="CCYU" creationdate="20140713T075846Z">
-        <seg>剪力下靜態斷裂強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態斷裂強度，&lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;，&lt;t7/&gt;必須根據 ACI 318 D.6.2 使用本報告表 6 和表 9 提供的資訊計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081349Z" creationid="CCYU" creationdate="20140713T075846Z">
+        <seg>剪力下靜態斷裂強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態斷裂強度，&lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;，&lt;t7/&gt;必須依照 ACI 318 D.6.2 使用本報告表 6 和表 9 提供的資訊計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2216,24 +2216,24 @@
       <tuv lang="EN-US">
         <seg>Static Concrete Pryout Strength in Shear:&lt;t0/&gt; The nominal static pryout strength of a single anchor or group of anchors in shear, &lt;t1/&gt;V&lt;t2/&gt;cp&lt;t3/&gt; or &lt;t4/&gt;V&lt;t5/&gt;cpg&lt;t6/&gt;,&lt;t7/&gt; shall be calculated in accordance with ACI 318 D.6.3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081009Z" creationid="CCYU" creationdate="20140713T080847Z">
-        <seg>剪力下靜態翹破強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態翹破強度，&lt;t1/&gt;V&lt;t2/&gt;cp&lt;t3/&gt; or &lt;t4/&gt;V&lt;t5/&gt;cpg&lt;t6/&gt;，&lt;t7/&gt;必須根據 ACI 318 D.6.3 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081403Z" creationid="CCYU" creationdate="20140713T080847Z">
+        <seg>剪力下靜態翹破強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態翹破強度，&lt;t1/&gt;V&lt;t2/&gt;cp&lt;t3/&gt; or &lt;t4/&gt;V&lt;t5/&gt;cpg&lt;t6/&gt;，&lt;t7/&gt;必須依照 ACI 318 D.6.3 計算。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Static Steel Strength in Shear: &lt;t0/&gt;The nominal static strength of a single anchor in shear as governed by the steel, &lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;, in accordance with ACI 318 D.6.1.2 and the strength reduction factor, &lt;t4/&gt;, in accordance with ACI 318 &lt;t5/&gt;D.4.3 are given in Tables 5 and 8 for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075727Z" creationid="CCYU" creationdate="20140713T075432Z">
-        <seg>剪力下靜態鋼強度：&lt;t0/&gt;單一錨固在剪力下的標稱鋼強度，&lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.6.1.2 計算，強度縮減因數， &lt;t4/&gt;，則根據  ACI 318&lt;t5/&gt;D.4.3 使用本報告表 5 和表 8 中相應的錨固元件類型計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081345Z" creationid="CCYU" creationdate="20140713T075432Z">
+        <seg>剪力下靜態鋼強度：&lt;t0/&gt;單一錨固在剪力下的標稱鋼強度，&lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;，應依照 ACI 318 D.6.1.2 計算，強度縮減因數， &lt;t4/&gt;，則依照  ACI 318&lt;t5/&gt;D.4.3 使用本報告表 5 和表 8 中相應的錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Static Steel Strength in Tension: &lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075718Z" creationid="CCYU" creationdate="20140713T052823Z">
-        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則根據 ACI 318 D.4.3 使用本報告表 5 和表 8 中相應的錨固元件類型計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081315Z" creationid="CCYU" creationdate="20140713T052823Z">
+        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應依照 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則依照 ACI 318 D.4.3 使用本報告表 5 和表 8 中相應的錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,16 +2504,16 @@
       <tuv lang="EN-US">
         <seg>The basic concrete breakout strength of a single anchor in shear, &lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;, must be calculated in accordance with ACI 318 D.6.2.2 using the values of &lt;t11/&gt;d&lt;t12/&gt; given in Tables 5 and 8 for the corresponding anchor steel in lieu of &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) and &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080225Z" creationid="CCYU" creationdate="20140713T080000Z">
-        <seg>單一錨固在剪力下的基本混凝土斷裂強度，&lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;，必須根據 ACI 318 D.6.2.2 使用本報告表 5 和表 8 對應的錨固鋼 &lt;t11/&gt;d&lt;t12/&gt; 值代替 &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) 和 &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC) 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081353Z" creationid="CCYU" creationdate="20140713T080000Z">
+        <seg>單一錨固在剪力下的基本混凝土斷裂強度，&lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;，必須依照 ACI 318 D.6.2.2 使用本報告表 5 和表 8 對應的錨固鋼 &lt;t11/&gt;d&lt;t12/&gt; 值代替 &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) 和 &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC) 計算。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The basic concrete breakout strength of a single anchor in tension, &lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080017Z" creationid="CCYU" creationdate="20140713T071631Z">
-        <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須根據 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081325Z" creationid="CCYU" creationdate="20140713T071631Z">
+        <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須依照 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,8 +2752,8 @@
       <tuv lang="EN-US">
         <seg>The nominal static concrete breakout strength in tension &lt;t0/&gt;of a single anchor of group of anchors, &lt;t1/&gt;N&lt;t2/&gt;cb&lt;t3/&gt; or &lt;t4/&gt;N&lt;t5/&gt;cbg&lt;t6/&gt;, must be calculated in accordance with ACI 318 D.5.2, with the following addition:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071512Z" creationid="CCYU" creationdate="20140713T071324Z">
-        <seg>整組錨固中的單一錨固在張力下的標稱靜態混凝土斷裂強度， &lt;t1/&gt;N&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;cbg&lt;t6/&gt;，必須根據 ACI 318 D.5.2 計算，其補充如下：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081319Z" creationid="CCYU" creationdate="20140713T071324Z">
+        <seg>整組錨固中的單一錨固在張力下的標稱靜態混凝土斷裂強度， &lt;t1/&gt;N&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;cbg&lt;t6/&gt;，必須依照 ACI 318 D.5.2 計算，其補充如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2888,8 +2888,8 @@
       <tuv lang="EN-US">
         <seg>The value of &lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; shall be limited to a maximum of 8,000 psi (55 MPa) in accordance with ACI 318 D.3.7.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080407Z" creationid="CCYU" creationdate="20140713T080407Z">
-        <seg>根據 ACI 318 D.3.7，&lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; 值應限制在 8,000 psi (55 MPa) 內。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081356Z" creationid="CCYU" creationdate="20140713T080407Z">
+        <seg>依照 ACI 318 D.3.7，&lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; 值應限制在 8,000 psi (55 MPa) 內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,8 +3256,8 @@
       <tuv lang="EN-US">
         <seg>Where analysis &lt;t10/&gt;indicates no cracking in accordance with ACI 318 D.5.2.6, &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; must be calculated using &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; and &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072050Z" creationid="CCYU" creationdate="20140713T072050Z">
-        <seg>若根據 ACI 318 D.5.2.6 分析顯示無龜裂，則 &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; 必須使用 &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; 和 &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081333Z" creationid="CCYU" creationdate="20140713T072050Z">
+        <seg>若依照 ACI 318 D.5.2.6 分析顯示無龜裂，則 &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; 必須使用 &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; 和 &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0 計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,7 +3360,7 @@
       <tuv lang="EN-US">
         <seg>fischer FIS EM adhesive anchors are recognized for use to resist short- and long-term loads, including wind and earthquake loads, subject to the conditions of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033042Z" creationid="CCYU" creationdate="20140713T033042Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081430Z" creationid="CCYU" creationdate="20140713T033042Z">
         <seg>根據本報告的條件，fischer FIS EM 黏結錨固已公認可承受短時間和長時間的負荷，包括風力和地震負荷。</seg>
       </tuv>
     </tu>
