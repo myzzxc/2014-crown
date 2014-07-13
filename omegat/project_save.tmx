@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The anchors must be installed in cracked or uncracked normal-weight concrete having a specified compressive strength &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;= 2,500 psi to 8,500 psi &lt;t4/&gt;(17.2 MPa to 58.6 MPa).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031745Z" creationid="CCYU" creationdate="20140713T031745Z">
+        <seg>錨固必須安裝在龜裂及無龜裂之一般重量上混凝土 ，其壓應力強度 &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;介於 2,500 psi 至 8,500 psi &lt;t4/&gt;(17.2 MPa 至 58.6 MPa) 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The appliance is equipped with an anti-over- heating device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z" creationid="Administrator" creationdate="20140621T111937Z">
@@ -2536,8 +2544,8 @@
       <tuv lang="EN-US">
         <seg>fischer FIS EM adhesive anchors must be installed in accordance with this report and the manufacturer’s printed installation instructions included in the adhesive packaging and described in Figure 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031324Z" creationid="CCYU" creationdate="20140713T031324Z">
-        <seg>fischer FIS EM 黏結錨固必須遵照本報告、黏著劑包裝所附的製造商安裝和本報告圖 4 之說明進行安裝。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031516Z" creationid="CCYU" creationdate="20140713T031324Z">
+        <seg>fischer FIS EM 黏結錨固系統必須遵照本報告、黏著劑包裝所附的製造商安裝和本報告圖 4 之說明進行安裝。</seg>
       </tuv>
     </tu>
     <tu>
