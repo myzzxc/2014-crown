@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D.3.3.4.3(d) – The anchor or group of anchors shall be designed for the maximum tension obtained from design load combinations that include E, with E increased by Ω&lt;t0/&gt;0&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101310Z" creationid="CCYU" creationdate="20140713T101251Z">
+        <seg>D.3.3.4.3(d) – 單一錨固或整組錨固應依照包含 E 的負載組合所得最大張力進行設計，其中 E 隨 Ω&lt;t0/&gt;0&lt;t1/&gt; 增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z" creationid="CCYU" creationdate="20140711T135027Z">
@@ -2542,10 +2550,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The anchor design tensile strength shall be calculated from &lt;t2/&gt;D.3.3.4.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101506Z" creationid="CCYU" creationdate="20140713T101451Z">
+        <seg>描固設計抗拉強度應根據 D.3.3.4.4 決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The anchor design tensile strength shall be determined in accordance with D.3.3.4.4</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100355Z" creationid="CCYU" creationdate="20140713T100355Z">
-        <seg>描固設計拉伸強度應根據 D.3.3.4.4 決定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101459Z" creationid="CCYU" creationdate="20140713T100355Z">
+        <seg>描固設計抗拉強度應根據 D.3.3.4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
