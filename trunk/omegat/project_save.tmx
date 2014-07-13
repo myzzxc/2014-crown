@@ -3494,10 +3494,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Anchors are used to support nonstructural elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T041321Z" creationid="CCYU" creationdate="20140713T041321Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;錨固用於支持非結構性元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;&lt;t1/&gt;Anchors that support gravity load–bearing structural elements are within a fire-resistive envelope or a fire-resistive membrane, are protected by approved fire-resistive materials, or have been evaluated for resistance to fire exposure in accordance with recognized standards.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T040622Z" creationid="CCYU" creationdate="20140713T040622Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;支撐重力負載軸承結構元件之錨固位於防火殼或防火膜內， or a fire-resistive membrane, are protected by approved fire-resistive materials, or have been evaluated for resistance to fire exposure in accordance with recognized standards.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T041235Z" creationid="CCYU" creationdate="20140713T040622Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;支撐重力負載軸承結構元件之錨固位於防火殼或防火膜內，由合格防火材料保護，或經過評估符合公認的防火標準。</seg>
       </tuv>
     </tu>
     <tu>
