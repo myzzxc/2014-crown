@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -906,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043047Z" creationid="CCYU" creationdate="20140713T043047Z">
         <seg>必須根據本報告章節 4.3，針對安裝於水平或向上傾斜持續抵抗張力負荷的錨固進行連續專項檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright © 2014 &lt;t0/&gt;Page 1 of 16</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T053005Z" creationid="Judy" creationdate="20140713T053005Z">
+        <seg>版權所有 Copyright © 2014 &lt;t0/&gt;頁碼 16 之 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054100Z" creationid="Administrator" creationdate="20140621T054100Z">
         <seg>並於使用至少關閉裝置半小時以冷卻裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no warranty by ICC Evaluation Service, LLC, express or implied, as to any finding or other matter in this report, or as to any product covered by the report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T052908Z" creationid="Judy" creationdate="20140713T052908Z">
+        <seg>ICC 評估服務 LLC 於本報告中所述或提及之任何發現或其他事項、或對其任何報告所涵蓋之產品不提供保固。</seg>
       </tuv>
     </tu>
     <tu>
