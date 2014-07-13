@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064620Z" creationid="Administrator" creationdate="20140621T064620Z">
         <seg>4 操作裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.10 &lt;t0/&gt;Minimum anchor spacing and edge distance, as well as minimum member thickness, must comply with the values given in this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034419Z" creationid="CCYU" creationdate="20140713T034419Z">
+        <seg>5.10 &lt;t0/&gt;最小錨固間距和</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113959Z" creationid="Administrator" creationdate="20140621T113433Z">
         <seg>將按摩機放置於乾燥、涼爽處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength design values are established in accordance with Section 4.1 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034338Z" creationid="CCYU" creationdate="20140713T034338Z">
+        <seg>強度設計值是根據本報告章節 4.1 所決定。</seg>
       </tuv>
     </tu>
     <tu>
