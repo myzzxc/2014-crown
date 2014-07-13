@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -154,6 +154,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042754Z" creationid="CCYU" creationdate="20140713T042729Z">
         <seg>5.17 &lt;t0/&gt;必須根據本報告章節 4.3 提供定期專項檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.18 &lt;t0/&gt;Installation of anchors in horizontal or upwardly inclined orientations to resist sustained tension loads shall be performed by personnel certified by an applicable certification program in accordance with ACI 318 D.9.2.2 or D.9.2.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043340Z" creationid="CCYU" creationdate="20140713T043340Z">
+        <seg>5.18 &lt;t0/&gt;水平或向上傾斜持續抵抗張力負荷的錨固，應根據 ACI 318 D.9.2.2 或 D.9.2.3，由通過適用認證計畫的人員進行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5.19 &lt;t0/&gt;fischer FIS EM adhesive is manufactured by fischerwerke GmbH &amp; Co.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043429Z" creationid="CCYU" creationdate="20140713T043429Z">
+        <seg>5.19 &lt;t0/&gt;fischer FIS EM 黏著劑 事由fischerwerke GmbH &amp; Co.</seg>
       </tuv>
     </tu>
     <tu>
