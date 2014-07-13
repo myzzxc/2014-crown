@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For adhesive anchors that will remain untorqued, ACI 318 D.8.4 applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093526Z" creationid="CCYU" creationdate="20140713T093526Z">
+        <seg>維持未扭轉 (untorqued) 的黏合錨固則適用 ACI 318 D.8.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For anchors in lightweight concrete see ACI 318-11 D.3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z" creationid="CCYU" creationdate="20140713T072139Z">
