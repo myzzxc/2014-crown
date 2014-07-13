@@ -2575,6 +2575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The allowable in-plane shear strength of the anchor is determined in accordance with AF&amp;PA NDS Table 11E for lateral design values parallel to grain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104436Z" creationid="CCYU" creationdate="20140713T104436Z">
+        <seg>錨固可允許的平面剪力強度依照 AF&amp;PA NDS 表 11E 決定平行的橫向設計值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The anchor design shear strength for resisting earthquake forces shall be determined in accordance with&lt;t1/&gt; &lt;t2/&gt;D.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101854Z" creationid="CCYU" creationdate="20140713T101821Z">
@@ -2867,6 +2875,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064255Z" creationid="Administrator" creationdate="20140621T064255Z">
         <seg>按摩對於加速及刺激循環有良好效果 — 有助加速代謝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum anchor nominal diameter is &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;8&lt;t3/&gt; inch (16 mm).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104524Z" creationid="CCYU" creationdate="20140713T104524Z">
+        <seg>最大錨固標稱直徑為 &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;8&lt;t3/&gt; 英吋 (16 毫米)。</seg>
       </tuv>
     </tu>
     <tu>
