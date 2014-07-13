@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3083,6 +3083,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110039Z" creationid="CCYU" creationdate="20140713T105426Z">
         <seg>窗台板的標稱厚度為 2 英吋或 3 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The special inspector must be on the jobsite initially during anchor installation to verify anchor type, anchor dimensions, concrete type, concrete compressive strength, adhesive identification and expiration &lt;t0/&gt;date, hole dimensions, hole cleaning procedures, anchor spacing, edge distances, concrete thickness, anchor embedment, tightening torque and adherence to the manufacturer’s published installation instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131038Z" creationid="Judy" creationdate="20140713T131038Z">
+        <seg>特別檢查人員需於最初錨固安裝期間在工地現場驗證錨固類型、錨固尺寸、混凝土類型、混凝土抗壓強度、黏著劑檢驗與有效日期檢驗、&lt;t0/&gt;孔洞尺寸、孔洞清潔程序、錨固間距、邊緣距離、混凝土厚度、錨固埋設、扭力矩皆遵守製造商發佈之安裝說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The special inspector must verify the initial installations of each type and size of adhesive anchor by construction personnel on site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131056Z" creationid="Judy" creationdate="20140713T131056Z">
+        <seg>特別ㄐㄧㄢ員必須驗證初始安裝的每種類型和大小的膠粘劑錨固的施工人員在網站上。</seg>
       </tuv>
     </tu>
     <tu>
