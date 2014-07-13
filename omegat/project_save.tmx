@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2674,6 +2674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134217Z" creationid="CCYU" creationdate="20140712T134217Z">
         <seg>有校日期為未開封之包裝儲存在乾燥、黑暗的環境中之保質期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified compressive strength of the concrete must be from 2,500 psi to 8,500 psi &lt;t0/&gt;(17.2 MPa to 58.6 MPa).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T072404Z" creationid="Judy" creationdate="20140713T072349Z">
+        <seg>指定之混凝土抗壓強度必須為 2,500 psi 至 8,500 psi&lt;t0/&gt; ( 58.6 MPa 至 17.2 MPa)。</seg>
       </tuv>
     </tu>
     <tu>
