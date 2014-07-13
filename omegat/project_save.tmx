@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critical Edge Distance &lt;t0/&gt;c&lt;t1/&gt;ac&lt;t2/&gt;: &lt;t3/&gt;In lieu of ACI 318 D.8.6, &lt;t4/&gt;c&lt;t5/&gt;ac&lt;t6/&gt; must be determined as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094058Z" creationid="CCYU" creationdate="20140713T094058Z">
+        <seg>臨界邊距 &lt;t0/&gt;c&lt;t1/&gt;ac&lt;t2/&gt;：&lt;t3/&gt;代替 ACI 318 D.8.6，&lt;t4/&gt;c&lt;t5/&gt;ac&lt;t6/&gt; 必須由以下決定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current&lt;t0/&gt; supply:&lt;t1/&gt; Mains adapter type:&lt;t2/&gt; &lt;t3/&gt;YJS 020D -1201200G</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073231Z" creationid="Administrator" creationdate="20140621T073231Z">
@@ -3414,10 +3422,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>where</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z" creationid="CCYU" creationdate="20140713T094206Z">
+        <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;A Subsidiary of the International Code Council&lt;t2/&gt;®</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z" creationid="CCYU" creationdate="20140711T131754Z">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>൤&lt;t0/&gt;௛&lt;t1/&gt;௛&lt;t2/&gt;೐೑&lt;t3/&gt;൨&lt;t4/&gt; need not be taken as larger than 2.4; and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094249Z" creationid="CCYU" creationdate="20140713T094249Z">
+        <seg>൤&lt;t0/&gt;௛&lt;t1/&gt;௛&lt;t2/&gt;೐೑&lt;t3/&gt;൨&lt;t4/&gt; 不可超過 2.4；以及</seg>
       </tuv>
     </tu>
     <tu>
