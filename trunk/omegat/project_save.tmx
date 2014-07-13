@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D.3.3.5.2 – Where the shear component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor shear force associated with the same load combination, anchors and their attachments shall be designed in accordance with &lt;t0/&gt;D.3.3.5.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101735Z" creationid="CCYU" creationdate="20140713T101735Z">
+        <seg>D.3.3.5.2 - 若作用錨固的強度地震剪力組成，超過 20 ％ 使用相同負載組合的總錨固剪力，則錨固和配件應依照 &lt;t0/&gt;D.3.3.5.3 進行設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z" creationid="CCYU" creationdate="20140711T135027Z">
@@ -2550,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The anchor design shear strength for resisting earthquake forces shall be determined in accordance with&lt;t1/&gt; &lt;t2/&gt;D.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101821Z" creationid="CCYU" creationdate="20140713T101821Z">
+        <seg>描固設計剪力強度應根據 D.3.3.4.4 決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The anchor design tensile strength shall be calculated from &lt;t2/&gt;D.3.3.4.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101506Z" creationid="CCYU" creationdate="20140713T101451Z">
@@ -2560,8 +2576,8 @@
       <tuv lang="EN-US">
         <seg>The anchor design tensile strength shall be determined in accordance with D.3.3.4.4</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101459Z" creationid="CCYU" creationdate="20140713T100355Z">
-        <seg>描固設計抗拉強度應根據 D.3.3.4.4 決定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101830Z" creationid="CCYU" creationdate="20140713T100355Z">
+        <seg>描固設計張力強度應根據 D.3.3.4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
