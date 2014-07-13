@@ -2182,10 +2182,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Static Steel Strength in Shear: &lt;t0/&gt;The nominal static strength of a single anchor in shear as governed by the steel, &lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;, in accordance with ACI 318 D.6.1.2 and the strength reduction factor, &lt;t4/&gt;, in accordance with ACI 318 &lt;t5/&gt;D.4.3 are given in Tables 5 and 8 for the anchor element types included in this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075432Z" creationid="CCYU" creationdate="20140713T075432Z">
+        <seg>剪力下靜態鋼強度：&lt;t0/&gt;單一錨固在剪力下的標稱鋼強度，&lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.6.1.2 計算，強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和表 8 中 ACI 318&lt;t5/&gt;D.4.3 的錨固元件類型計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static Steel Strength in Tension: &lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071420Z" creationid="CCYU" creationdate="20140713T052823Z">
-        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075453Z" creationid="CCYU" creationdate="20140713T052823Z">
+        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和表 8 中 ACI 318 D.4.3 錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
