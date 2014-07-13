@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ductility: &lt;t0/&gt;In accordance with ACI 318 D.1, in order for a steel element to be considered ductile, the tested elongation must be at least 14 percent and reduction of area must be at least 30 percent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070508Z" creationid="Judy" creationdate="20140713T070508Z">
+        <seg>延展性：&lt;t0/&gt;根據 ACI 318 D.1，為了要滿足鋼材之韌性，測試伸長率必須至少為 14% 且面積減少必須至少為 30%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E-Mail:&lt;t0/&gt; &lt;t1/&gt;info@medisana.de</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075602Z" creationid="Administrator" creationdate="20140621T075602Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040446Z" creationid="Administrator" creationdate="20140621T035810Z">
         <seg>使用此裝置前仔細閱讀使用說明，特別是安全說明，並保留說明手冊供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reinforcing bars must not be bent after installation, except as set forth in Section 7.3.2 of ACI 318, with the additional condition that the bars must be bent cold, and heating of reinforcing bars to facilitate field bending is not permitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070255Z" creationid="Judy" creationdate="20140713T070255Z">
+        <seg>鋼筋安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋必須冷彎，不得加熱鋼筋以進行彎折。</seg>
       </tuv>
     </tu>
     <tu>
