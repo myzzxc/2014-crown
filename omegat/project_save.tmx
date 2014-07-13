@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIGURE 1—FLOWCHART.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044951Z" creationid="CCYU" creationdate="20140713T044951Z">
+        <seg>圖 1— 流程圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foot warmer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150456Z" creationid="Administrator" creationdate="20140621T150456Z">
@@ -1854,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STRENGTH REDUCTION FACTORS FOR DETERMINATION OF THE BOND STRENGTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045337Z" creationid="CCYU" creationdate="20140713T045337Z">
+        <seg>決定黏結強度的強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short-term (less than 48-hour) temperature variations during adhesive storage are permitted as long as the temperature remains between 41°F and 104°F (5°C and 40°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134734Z" creationid="CCYU" creationdate="20140712T134319Z">
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144303Z" creationid="Administrator" creationdate="20140621T144303Z">
         <seg>將滑動開關打開以開啟裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TABLE 1—DESIGN TABLE INDEX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045344Z" creationid="CCYU" creationdate="20140713T045344Z">
+        <seg>ㄅ 1—DESIGN TABLE INDEX</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z" creationid="Administrator" creationdate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threaded rods, nuts, washers and deformed reinforcing bars are standard elements and must conform to applicable national or international specifications as set forth in Tables 2, 3, and 4 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044937Z" creationid="CCYU" creationdate="20140713T044937Z">
+        <seg>螺紋桿、螺母、墊圈和變形鋼筋為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
       </tuv>
     </tu>
     <tu>
