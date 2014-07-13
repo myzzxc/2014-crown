@@ -1437,11 +1437,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>？</note>
       <tuv lang="EN-US">
         <seg>For the calculation of the in-plane shear strength of anchor bolts attaching wood sill plates of bearing or non-bearing walls of light-frame wood structures to foundations or foundation stem walls, the in-plane shear strength in accordance with D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T103117Z" creationid="CCYU" creationdate="20140713T102041Z">
-        <seg>計算連接木質窗台承重的錨固螺栓平面剪力強度，或輕型框架木結構的非承重牆， D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104047Z" creationid="CCYU" creationdate="20140713T102041Z">
+        <seg>計算連接木質窗台承重的錨固螺栓、輕型框架木結構的非承重牆或基礎牆的平面剪力強度，依照 D.6.2 和 D.6.3 無須計算平面剪力強度，依照 D.3.3.5.3 無須滿足以下所有條件：</seg>
       </tuv>
     </tu>
     <tu>
