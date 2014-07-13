@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, anchor strength must be adjusted in accordance with Section 4.1.11 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033314Z" creationid="CCYU" creationdate="20140713T033314Z">
+        <seg>在 IBC 或 IRC 的抗震設計類別 C、D、E 或 F 的結構下，錨固強度必須根據本報告章節 4.1.11 進行調整。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z" creationid="CCYU" creationdate="20140712T134001Z">
@@ -1880,8 +1888,8 @@
       <tuv lang="EN-US">
         <seg>The anchors must be installed in cracked or uncracked normal-weight concrete having a specified compressive strength &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;= 2,500 psi to 8,500 psi &lt;t4/&gt;(17.2 MPa to 58.6 MPa).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T031745Z" creationid="CCYU" creationdate="20140713T031745Z">
-        <seg>錨固必須安裝在龜裂及無龜裂之一般重量上混凝土 ，其壓應力強度 &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;介於 2,500 psi 至 8,500 psi &lt;t4/&gt;(17.2 MPa 至 58.6 MPa) 之間。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033629Z" creationid="CCYU" creationdate="20140713T031745Z">
+        <seg>錨固必須安裝在龜裂及無龜裂之一般重量混凝土 ，其壓應力強度 &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;介於 2,500 psi 至 8,500 psi &lt;t4/&gt;(17.2 MPa 至 58.6 MPa) 之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T134512Z" creationid="CCYU" creationdate="20140711T134113Z">
         <seg>fischer FIS EM 黏結錨固用於龜裂及無龜裂之一般重量混凝土以抵抗靜力、風以及地震 (抗震設計類別 A 至 F) 產生之張力及剪力負荷，其壓應力強度 &lt;t0/&gt;f′ &lt;t1/&gt;c&lt;t2/&gt; 介於 2,500 psi 至 8,500 psi &lt;t3/&gt;(17.2 MPa 至 58.6 MPa) 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fischer FIS EM adhesive anchors are permitted to be installed in concrete that is cracked or that may be expected to crack during the service life of the anchor, subject to the conditions of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033654Z" creationid="CCYU" creationdate="20140713T033626Z">
+        <seg>fischer FIS EM 黏合錨固可安裝在龜裂或預期使用會龜裂之一般混凝土</seg>
       </tuv>
     </tu>
     <tu>
