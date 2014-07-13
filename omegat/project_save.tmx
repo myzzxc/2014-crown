@@ -976,8 +976,8 @@
       <tuv lang="EN-US">
         <seg>Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050821Z" creationid="CCYU" creationdate="20140713T050821Z">
-        <seg>本報告章節 4.1.1 至Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051001Z" creationid="CCYU" creationdate="20140713T050821Z">
+        <seg>本報告章節 4.1.1 4.1.至 4.1.11 若無註明，設計參數應遵照 2009、2006 和 2003 IBC 使用的 ACI 318-11。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,6 +2082,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044706Z" creationid="YCC" creationdate="20140705T044706Z">
         <seg>力晶半導體股份有限公司馬達技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 1 provides an index to the design strengths.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051018Z" creationid="CCYU" creationdate="20140713T051018Z">
+        <seg>表 1 提供了設計強度索引。</seg>
       </tuv>
     </tu>
     <tu>
