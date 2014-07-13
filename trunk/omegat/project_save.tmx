@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information for the determination of nominal bond strength in tension is given in Section 4.1.4 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072444Z" creationid="CCYU" creationdate="20140713T072444Z">
+        <seg>決定張力下標稱黏合強度的附加資訊位於本報告章節 4.1.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few minutes you will be able to feel the heating blanket getting noticeably warmer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T110657Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100020Z" creationid="Administrator" creationdate="20140621T100020Z">
         <seg>電毯三層設計包含外部兩層蓬鬆超細纖絨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt;used for calculation must&lt;t23/&gt; &lt;t24/&gt;be limited to 8,000 psi (55 MPa) in accordance with ACI 318 &lt;t25/&gt;D.3.7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072311Z" creationid="CCYU" creationdate="20140713T072311Z">
+        <seg>用於計算 &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt; 的值必須遵照 ACI 318 &lt;t25/&gt;D.3.7.&lt;t23/&gt; &lt;t24/&gt;，不得超過 8,000 psi (55 MPa)。 </seg>
       </tuv>
     </tu>
     <tu>
