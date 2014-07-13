@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3490,6 +3490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035938Z" creationid="CCYU" creationdate="20140713T035938Z">
         <seg>&lt;t0/&gt;&lt;t1/&gt;錨固僅用於抵抗風或地震。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Anchors that support gravity load–bearing structural elements are within a fire-resistive envelope or a fire-resistive membrane, are protected by approved fire-resistive materials, or have been evaluated for resistance to fire exposure in accordance with recognized standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T040622Z" creationid="CCYU" creationdate="20140713T040622Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;支撐重力負載軸承結構元件之錨固位於防火殼或防火膜內， or a fire-resistive membrane, are protected by approved fire-resistive materials, or have been evaluated for resistance to fire exposure in accordance with recognized standards.</seg>
       </tuv>
     </tu>
     <tu>
