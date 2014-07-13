@@ -2176,8 +2176,8 @@
       <tuv lang="EN-US">
         <seg>Static Concrete Breakout Strength in Shear: &lt;t0/&gt;The nominal static concrete breakout strength of a single anchor or group of anchors in shear, &lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt;, or &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;,&lt;t7/&gt; must be calculated in accordance with ACI 318 D.6.2 based on information given in Tables 6 and 9 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075846Z" creationid="CCYU" creationdate="20140713T075846Z">
-        <seg>剪力下靜態黏合強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態黏合強度，&lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;，&lt;t7/&gt;必須根據 ACI 318 D.6.2 使用本報告表 6 和表 9 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075914Z" creationid="CCYU" creationdate="20140713T075846Z">
+        <seg>剪力下靜態黏合強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態黏合強度，&lt;t1/&gt;V&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;V&lt;t5/&gt;cbg&lt;t6/&gt;，&lt;t7/&gt;必須根據 ACI 318 D.6.2 使用本報告表 6 和表 9 提供的資訊計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2470,10 +2470,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic concrete breakout strength of a single anchor in shear, &lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;, must be calculated in accordance with ACI 318 D.6.2.2 using the values of &lt;t11/&gt;d&lt;t12/&gt; given in Tables 5 and 8 for the corresponding anchor steel in lieu of &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) and &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080000Z" creationid="CCYU" creationdate="20140713T080000Z">
+        <seg>單一錨固在剪力下的基本混凝土斷裂強度，&lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;，必須使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值依照 ACI 318 D.6.2.2 計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The basic concrete breakout strength of a single anchor in tension, &lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071847Z" creationid="CCYU" creationdate="20140713T071631Z">
-        <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值依照 ACI 318 D.5.2.2 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080017Z" creationid="CCYU" creationdate="20140713T071631Z">
+        <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須根據 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
       </tuv>
     </tu>
     <tu>
