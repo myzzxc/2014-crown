@@ -848,8 +848,8 @@
       <tuv lang="EN-US">
         <seg>Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105915Z" creationid="CCYU" creationdate="20140713T105915Z">
-        <seg>錨固螺栓距離垂直木質窗台板長邊的混凝土邊緣至少 15 錨桿直徑。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105953Z" creationid="CCYU" creationdate="20140713T105915Z">
+        <seg>錨固螺栓距離垂直軌道長邊的混凝土邊緣至少 15 錨桿直徑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,8 +3049,8 @@
       <tuv lang="EN-US">
         <seg>The sill plate is 2-inch or 3-inch nominal thickness.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105426Z" creationid="CCYU" creationdate="20140713T105426Z">
-        <seg>窗台板為 2 英吋或 3 英吋的標稱厚度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110039Z" creationid="CCYU" creationdate="20140713T105426Z">
+        <seg>窗台板的標稱厚度為 2 英吋或 3 英吋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3075,6 +3075,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z" creationid="CCYU" creationdate="20140712T133739Z">
         <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The track is 33 to 68 mil designation thickness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110108Z" creationid="CCYU" creationdate="20140713T110031Z">
+        <seg>軌道指定厚度為 33 至 68 毫米。</seg>
       </tuv>
     </tu>
     <tu>
