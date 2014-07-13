@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data in accordance with the ICC-ES Acceptance Criteria for Post-Installed Adhesive Anchors in Concrete Elements AC308, dated February 2013.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044411Z" creationid="CCYU" creationdate="20140713T044222Z">
+        <seg>於 2013 年 2 月提交符合 ICC-ES 混凝土元件黏合錨固安裝後驗收標準 AC308 的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z" creationid="YCC" creationdate="20140705T044717Z">
@@ -1126,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EVIDENCE SUBMITTED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043753Z" creationid="CCYU" creationdate="20140713T043753Z">
+        <seg>提交證據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z" creationid="Administrator" creationdate="20140621T111118Z">
@@ -1218,6 +1234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T024534Z" creationid="CCYU" creationdate="20140711T131628Z">
         <seg>ICC-ES 評估報告 ESR-1990&lt;t0/&gt;* &lt;t1/&gt; 2013 年八月一日重新發行 此報告需於 2015 年九月一日更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044500Z" creationid="CCYU" creationdate="20140713T044500Z">
+        <seg>識別</seg>
       </tuv>
     </tu>
     <tu>
