@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For anchors in lightweight concrete see ACI 318-11 D.3.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z" creationid="CCYU" creationdate="20140713T072139Z">
+        <seg>輕質混凝土錨固請參閱 ACI 318-11 D.3.6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this reason, the control unit must not be covered or placed on the foot warmer while the appliance is switched on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145639Z" creationid="Administrator" creationdate="20140621T145639Z">
@@ -3042,6 +3050,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z" creationid="Administrator" creationdate="20140621T110734Z">
         <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where analysis &lt;t10/&gt;indicates no cracking in accordance with ACI 318 D.5.2.6, &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; must be calculated using &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; and &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072050Z" creationid="CCYU" creationdate="20140713T072050Z">
+        <seg>若根據 ACI 318 D.5.2.6 分析顯示無龜裂，則 &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; 必須使用 &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; 和 &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0 計算。</seg>
       </tuv>
     </tu>
     <tu>
