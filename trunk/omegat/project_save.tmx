@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -850,6 +850,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030437Z" creationid="CCYU" creationdate="20140713T030437Z">
         <seg>使用條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carbon steel threaded rods are furnished with a 0.0002-inch-thick (0.005 mm) zinc electroplated coating in accordance with ASTM B633 SC 1, or must be hot-dipped galvanized in accordance with ASTM A153, Class C or D. Threaded steel rods must be straight and free of &lt;t1/&gt;indentations or other defects along their length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051127Z" creationid="Judy" creationdate="20140713T050954Z">
+        <seg>高碳鋼螺紋柱皆按照 ASTM B633 SC 1 標準鍍上 0.0002 英寸厚 (0.005 mm) 鋅電鍍層，或必須按照 ASTM A153 C 類或 D 類進行熱浸鍍，螺紋鋼柱必須為鉛直且沿其長度無凹痕或其他缺陷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150630Z" creationid="Administrator" creationdate="20140621T150630Z">
         <seg>電動暖腳機應保持清潔，因為其無法水洗或乾洗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The end may be stamped with identifying marks and the embedded end may be blunt cut or cut on the bias (chisel point).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051304Z" creationid="Judy" creationdate="20140713T051304Z">
+        <seg>尾端印上識別標記且嵌入端可能是鈍切或切開的偏見 （鑿子點）。</seg>
       </tuv>
     </tu>
     <tu>
