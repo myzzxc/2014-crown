@@ -1799,6 +1799,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation must be in accordance with ACI 318-11 &lt;t0/&gt;D.9.1 and D.9.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150752Z" creationid="CCYU" creationdate="20140713T150752Z">
+        <seg>安裝需符合 ACI 318-11 &lt;t0/&gt;D.9.1 及 D.9.2 規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation parameters are illustrated in Figure 2 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150622Z" creationid="CCYU" creationdate="20140713T150622Z">
+        <seg>安裝參數如本報告圖 2 所示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150429Z" creationid="CCYU" creationdate="20140713T150429Z">
