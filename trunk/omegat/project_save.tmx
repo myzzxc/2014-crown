@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>5.12 &lt;t0/&gt;The fischer FIS EM Adhesive Anchoring System is not permitted to support fire-resistive construction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035509Z" creationid="CCYU" creationdate="20140713T035509Z">
-        <seg>5.12 &lt;t0/&gt; fischer FIS EM 黏結錨固系統並不支援防結構。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035734Z" creationid="CCYU" creationdate="20140713T035509Z">
+        <seg>5.12 &lt;t0/&gt; fischer FIS EM 黏結錨固系統不可支援防火結構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z" creationid="Administrator" creationdate="20140621T110734Z">
         <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where not otherwise prohibited by the code, the fischer FIS EM Adhesive Anchoring System is permitted for installation in fire-resistive construction provided that at least one of the following conditions is fulfilled:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035901Z" creationid="CCYU" creationdate="20140713T035644Z">
+        <seg>若無法規禁止，且至少滿足下列條件之一，fischer FIS EM 黏結錨固系統可安裝於防火結構：</seg>
       </tuv>
     </tu>
     <tu>
