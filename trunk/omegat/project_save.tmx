@@ -816,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>Anchor bolts are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the wood sill plate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105312Z" creationid="CCYU" creationdate="20140713T105054Z">
-        <seg>錨固螺栓距離垂直木質窗台板長邊的混凝土邊緣至少 15 錨固直徑。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105925Z" creationid="CCYU" creationdate="20140713T105054Z">
+        <seg>錨固螺栓距離垂直木質窗台板長邊的混凝土邊緣至少 15 錨桿直徑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +834,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135548Z" creationid="CCYU" creationdate="20140712T135538Z">
         <seg>錨固元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchors are embedded into concrete a minimum of 7 inches (178 mm).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105641Z" creationid="CCYU" creationdate="20140713T105641Z">
+        <seg>錨固螺栓嵌入混凝土 7 英吋 (178 毫米)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchors are located a minimum of 15 anchor diameters from the edge of the concrete perpendicular to the length of the track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105915Z" creationid="CCYU" creationdate="20140713T105915Z">
+        <seg>錨固螺栓距離垂直木質窗台板長邊的混凝土邊緣至少 15 錨桿直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchors are located a minimum of 1&lt;t0/&gt;3&lt;t1/&gt;/&lt;t2/&gt;4&lt;t3/&gt; inches (45 mm) from the edge of the concrete parallel to the length of the track.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105806Z" creationid="CCYU" creationdate="20140713T105806Z">
+        <seg>錨固距離平行軌道長邊的混凝土邊緣至少 1&lt;t0/&gt;3&lt;t1/&gt;/&lt;t2/&gt;4&lt;t3/&gt;英吋 (45 毫米)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z" creationid="CCYU" creationdate="20140713T072139Z">
         <seg>輕質混凝土錨固請參閱 ACI 318-11 D.3.6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or non-bearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105630Z" creationid="CCYU" creationdate="20140713T105630Z">
+        <seg>計算連接冷彎型鋼軌道承重的錨固螺栓、輕型框架地基結構的非承重牆或基礎牆的平面剪力強度，依照 D.6.2 和 D.6.3 無須計算平面剪力強度，依照 D.3.3.5.3 無須滿足以下所有條件：</seg>
       </tuv>
     </tu>
     <tu>
