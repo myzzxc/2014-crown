@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify ACI 318 Sections D.3.3.4.2, D.3.3.4.3(d) and &lt;t0/&gt;D.3.3.5.2 to read as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z" creationid="CCYU" creationdate="20140713T095158Z">
+        <seg>修改 ACI 318 章節 D.3.3.4.2、D.3.3.4.3(d) 和 &lt;t0/&gt; D.3.3.5.2，內容如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z" creationid="Administrator" creationdate="20140621T083115Z">
@@ -2786,6 +2794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042703Z" creationid="CCYU" creationdate="20140713T042703Z">
         <seg>鍍鋅鋼塗層的最小重量必須符合 ASTM A153。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nominal bond strength &lt;t7/&gt;&lt;t8/&gt;cr &lt;t9/&gt;must be adjusted by &lt;t10/&gt;α&lt;t11/&gt;N,seis &lt;t12/&gt;as noted in Tables 7 and 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095122Z" creationid="CCYU" creationdate="20140713T095122Z">
+        <seg>標稱黏合強度 &lt;t7/&gt;&lt;t8/&gt;cr &lt;t9/&gt; 必須如表 7 和表 10 所示，以 &lt;t10/&gt;α&lt;t11/&gt;N,seis &lt;t12/&gt; 進行調整。</seg>
       </tuv>
     </tu>
     <tu>
