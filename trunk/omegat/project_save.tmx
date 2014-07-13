@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel Reinforcing bars: &lt;t0/&gt;Steel reinforcing bars are deformed reinforcing bars as described in Table 4 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065414Z" creationid="Judy" creationdate="20140713T065414Z">
+        <seg>強化鋼筋：&lt;t0/&gt;強化鋼筋為變形之強化鋼筋，如本報告中表 4 中所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050430Z" creationid="Judy" creationdate="20140713T050430Z">
