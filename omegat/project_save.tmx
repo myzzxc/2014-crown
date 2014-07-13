@@ -1815,6 +1815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation of the fischer FIS EM Adhesive Anchor System must conform to the manufacturer’s printed installation instructions included in each unit package as described in Figure 4 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T151435Z" creationid="CCYU" creationdate="20140713T151435Z">
+        <seg>fischer FIS EM 黏結錨固系統之安裝必須遵照黏著劑包裝所附的製造商安裝說明以及本報告圖 4 之指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation parameters are illustrated in Figure 2 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150622Z" creationid="CCYU" creationdate="20140713T150622Z">
@@ -2123,6 +2131,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z" creationid="Administrator" creationdate="20140621T073319Z">
         <seg>輸出：&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA 尺寸： 約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overhead installations are limited to threaded rods less than or equal to M24 (1-inch).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T151203Z" creationid="CCYU" creationdate="20140713T151203Z">
+        <seg>懸空安裝僅限於小於或等於 M24 (1 英寸) 之螺紋柱。</seg>
       </tuv>
     </tu>
     <tu>
