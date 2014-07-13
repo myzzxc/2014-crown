@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Table 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z" creationid="CCYU" creationdate="20140713T053445Z">
+        <seg>請參閱表 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short-term (less than 48-hour) temperature variations during adhesive storage are permitted as long as the temperature remains between 41°F and 104°F (5°C and 40°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134734Z" creationid="CCYU" creationdate="20140712T134319Z">
@@ -2040,8 +2048,8 @@
       <tuv lang="EN-US">
         <seg>Static Steel Strength in Tension: &lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T052823Z" creationid="CCYU" creationdate="20140713T052823Z">
-        <seg>張力下的靜態鋼強度：&lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053433Z" creationid="CCYU" creationdate="20140713T052823Z">
+        <seg>張力下的靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的得標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
