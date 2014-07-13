@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z" creationid="Administrator" creationdate="20140621T040219Z">
         <seg>1 安全資訊 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Design strengths are as set forth in ACI 318-11 D.4.1.1.&lt;t1/&gt;2&lt;t2/&gt;See Section 4.1 of this report for bond strength information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050137Z" creationid="CCYU" creationdate="20140713T050137Z">
+        <seg>1&lt;t0/&gt;設計強度根據 ACI 318-11 D.4.1.1。&lt;t1/&gt;2&lt;t2/&gt;請參閱本報告章節 4.1 的黏結資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +822,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bond reduction factors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045901Z" creationid="CCYU" creationdate="20140713T045901Z">
+        <seg>黏結縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bond2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045654Z" creationid="CCYU" creationdate="20140713T045654Z">
+        <seg>黏結2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z" creationid="Administrator" creationdate="20140621T083043Z">
@@ -842,6 +866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z" creationid="CCYU" creationdate="20140711T132748Z">
         <seg>依據下列規範：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045636Z" creationid="CCYU" creationdate="20140713T045636Z">
+        <seg>混凝土</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESIGN AND INSTALLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050544Z" creationid="CCYU" creationdate="20140713T050544Z">
+        <seg>設計和安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140622T080735Z" creationid="Administrator" creationdate="20140620T145945Z">
@@ -918,10 +958,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deformed reinforcement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045556Z" creationid="CCYU" creationdate="20140713T045556Z">
+        <seg>變形鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z" creationid="YCC" creationdate="20140705T044717Z">
         <seg>說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050821Z" creationid="CCYU" creationdate="20140713T050821Z">
+        <seg>本報告章節 4.1.1 至Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design strength&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045501Z" creationid="CCYU" creationdate="20140713T045421Z">
+        <seg>設計強度&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135041Z" creationid="CCYU" creationdate="20140711T135041Z">
         <seg>總論：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General: &lt;t0/&gt;The design strength of anchors under the 2009, 2006 and 2003 IBC, as well as the 2009, 2006 and 2003 IRC, must be determined in accordance with ACI 318-11 (ACI 318) and this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050748Z" creationid="CCYU" creationdate="20140713T050748Z">
+        <seg>總論：&lt;t0/&gt;2009、2006 和 2003 IBC，以及 2009、2006 和 2003 IRC 的錨固設計強度必須根據 ACI 318-11 (ACI 318) 和本報告決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z" creationid="CCYU" creationdate="20140712T130855Z">
         <seg>材料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Metric</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045611Z" creationid="CCYU" creationdate="20140713T045611Z">
+        <seg>公制</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045626Z" creationid="CCYU" creationdate="20140713T045626Z">
+        <seg>鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050430Z" creationid="Judy" creationdate="20140713T050430Z">
@@ -1950,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength Design:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050547Z" creationid="CCYU" creationdate="20140713T050547Z">
+        <seg>強度設計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength design values are established in accordance with Section 4.1 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034338Z" creationid="CCYU" creationdate="20140713T034338Z">
@@ -1976,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>TABLE 1—DESIGN TABLE INDEX</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045344Z" creationid="CCYU" creationdate="20140713T045344Z">
-        <seg>ㄅ 1—DESIGN TABLE INDEX</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045411Z" creationid="CCYU" creationdate="20140713T045344Z">
+        <seg>表 1— 設計表索引</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2082,54 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044706Z" creationid="YCC" creationdate="20140705T044706Z">
         <seg>力晶半導體股份有限公司馬達技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 10</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045658Z" creationid="CCYU" creationdate="20140713T045658Z">
+        <seg>表 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045630Z" creationid="CCYU" creationdate="20140713T045630Z">
+        <seg>表 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045639Z" creationid="CCYU" creationdate="20140713T045639Z">
+        <seg>表 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045656Z" creationid="CCYU" creationdate="20140713T045656Z">
+        <seg>表 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045634Z" creationid="CCYU" creationdate="20140713T045634Z">
+        <seg>表 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045640Z" creationid="CCYU" creationdate="20140713T045640Z">
+        <seg>表 9</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z" creationid="Administrator" creationdate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threaded rod</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045515Z" creationid="CCYU" creationdate="20140713T045515Z">
+        <seg>螺紋桿</seg>
       </tuv>
     </tu>
     <tu>
