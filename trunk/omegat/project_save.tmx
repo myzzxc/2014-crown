@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allowable in-plane shear strength of exempt anchors, parallel to the edge of concrete shall be permitted to be determined in accordance with AISI S100 Section E3.3.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110643Z" creationid="CCYU" creationdate="20140713T110643Z">
+        <seg>錨固可允許的平面剪力強度依照 AISI S100 章節 E3.3.1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always make sure that the foot warmer is not creased or folded while it is in use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144130Z" creationid="Administrator" creationdate="20140621T144130Z">
@@ -3081,8 +3089,8 @@
       <tuv lang="EN-US">
         <seg>The track is 33 to 68 mil designation thickness.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110108Z" creationid="CCYU" creationdate="20140713T110031Z">
-        <seg>軌道指定厚度為 33 至 68 毫米。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110806Z" creationid="CCYU" creationdate="20140713T110031Z">
+        <seg>軌道指定厚度為 33 至 68 毫吋。</seg>
       </tuv>
     </tu>
     <tu>
