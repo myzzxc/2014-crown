@@ -806,6 +806,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104702Z" creationid="CCYU" creationdate="20140713T104702Z">
+        <seg>錨固螺栓嵌入混凝土 7 英吋 (178 毫米)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchor bolts are located a minimum of 1&lt;t0/&gt;3&lt;t1/&gt;/&lt;t2/&gt;4&lt;t3/&gt; inches (45 mm) from the edge of the concrete parallel to the length of the wood sill plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104935Z" creationid="CCYU" creationdate="20140713T104935Z">
+        <seg>錨固螺栓位於平行木質窗台長邊緣至少 1&lt;t0/&gt;3&lt;t1/&gt;/&lt;t2/&gt;4&lt;t3/&gt;英吋 (45 毫米) 之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchor elements:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135548Z" creationid="CCYU" creationdate="20140712T135538Z">
