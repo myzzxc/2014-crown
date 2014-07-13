@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -842,6 +842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045901Z" creationid="CCYU" creationdate="20140713T045901Z">
         <seg>黏結縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bond strength values are a function of the concrete compressive strength, whether the concrete is cracked or uncracked, the concrete temperature range, and the installation conditions (dry or water-saturated concrete).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072935Z" creationid="CCYU" creationdate="20140713T072935Z">
+        <seg>無論混凝土是否龜裂、溫度範圍為何以及安裝情況，黏合強度值即為混凝土壓縮強度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z" creationid="Administrator" creationdate="20140621T151421Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Bond Strength in Tension: &lt;t0/&gt;The nominal static bond strength of a single adhesive anchor or group of adhesive anchors in tension, &lt;t1/&gt;N&lt;t2/&gt;a&lt;t3/&gt; or &lt;t4/&gt;N&lt;t5/&gt;ag&lt;t6/&gt;, must be calculated in accordance with ACI 318-11 D.5.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072705Z" creationid="CCYU" creationdate="20140713T072632Z">
+        <seg>張力下靜態黏合強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態黏合強度，&lt;t1/&gt;N&lt;t2/&gt;a&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;ag&lt;t6/&gt;，必須根據 ACI 318-11 D.5.5 計算。</seg>
       </tuv>
     </tu>
     <tu>
