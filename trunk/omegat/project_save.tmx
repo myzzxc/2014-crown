@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, &lt;t19/&gt;h&lt;t20/&gt;ef&lt;t21/&gt; must be &lt;t22/&gt;substituted for &lt;t23/&gt;ℓ&lt;t24/&gt;e&lt;t25/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080300Z" creationid="CCYU" creationdate="20140713T080300Z">
+        <seg>此外，&lt;t19/&gt;h&lt;t20/&gt;ef&lt;t21/&gt; 必須取代&lt;t22/&gt;&lt;t23/&gt;ℓ&lt;t24/&gt;e&lt;t25/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of a warranty claim, the date of purchase has to be proven by means of the sales receipt or invoice.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114800Z" creationid="Administrator" creationdate="20140621T114800Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094602Z" creationid="Administrator" creationdate="20140621T094602Z">
         <seg>若有任何疑問，請勿使用裝置，並聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In no case shall &lt;t26/&gt;ℓ&lt;t27/&gt;e &lt;t28/&gt;exceed 8&lt;t29/&gt;d&lt;t30/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080328Z" creationid="CCYU" creationdate="20140713T080328Z">
+        <seg>任何情況下 &lt;t26/&gt;ℓ&lt;t27/&gt;e &lt;t28/&gt; 不得超過 8&lt;t29/&gt;d&lt;t30/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2472,8 +2488,8 @@
       <tuv lang="EN-US">
         <seg>The basic concrete breakout strength of a single anchor in shear, &lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;, must be calculated in accordance with ACI 318 D.6.2.2 using the values of &lt;t11/&gt;d&lt;t12/&gt; given in Tables 5 and 8 for the corresponding anchor steel in lieu of &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) and &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080000Z" creationid="CCYU" creationdate="20140713T080000Z">
-        <seg>單一錨固在剪力下的基本混凝土斷裂強度，&lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;，必須使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值依照 ACI 318 D.6.2.2 計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080225Z" creationid="CCYU" creationdate="20140713T080000Z">
+        <seg>單一錨固在剪力下的基本混凝土斷裂強度，&lt;t8/&gt;V&lt;t9/&gt;b&lt;t10/&gt;，必須根據 ACI 318 D.6.2.2 使用本報告表 5 和表 8 對應的錨固鋼 &lt;t11/&gt;d&lt;t12/&gt; 值代替 &lt;t13/&gt;d&lt;t14/&gt;a &lt;t15/&gt;(2009 IBC) 和 &lt;t16/&gt;d&lt;t17/&gt;o&lt;t18/&gt; (2006 IBC) 計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072311Z" creationid="CCYU" creationdate="20140713T072311Z">
         <seg>用於計算 &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt; 的值必須遵照 ACI 318 &lt;t25/&gt;D.3.7.&lt;t23/&gt; &lt;t24/&gt;，不得超過 8,000 psi (55 MPa)。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of &lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; shall be limited to a maximum of 8,000 psi (55 MPa) in accordance with ACI 318 D.3.7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080407Z" creationid="CCYU" creationdate="20140713T080407Z">
+        <seg>根據 ACI 318 D.3.7，&lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; 值應限制在 8,000 psi (55 MPa) 內。</seg>
       </tuv>
     </tu>
     <tu>
