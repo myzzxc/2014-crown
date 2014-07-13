@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D.3.3.4.2 - Where the tensile component of the strength-level earthquake force applied to anchors exceeds 20 percent of the total factored anchor tensile force associated with the same load combination, anchors and their attachments shall be designed in accordance with &lt;t0/&gt;D.3.3.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100139Z" creationid="CCYU" creationdate="20140713T100139Z">
+        <seg>D.3.3.4.2 - 若作用錨固的強度地震張力組成，超過 20 ％ 使用相同負載組合的總錨固張力，則錨固和配件應依照 &lt;t0/&gt;D.3.3.4.3 進行設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z" creationid="CCYU" creationdate="20140711T135027Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z" creationid="Administrator" creationdate="20140621T111118Z">
         <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z" creationid="CCYU" creationdate="20140713T100404Z">
+        <seg>例外：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2530,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130842Z" creationid="CCYU" creationdate="20140712T130842Z">
         <seg>膠著劑於安裝說明中也稱作 "砂漿 (mortar)"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The anchor design tensile strength shall be determined in accordance with D.3.3.4.4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100355Z" creationid="CCYU" creationdate="20140713T100355Z">
+        <seg>描固設計拉伸強度應根據 D.3.3.4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
