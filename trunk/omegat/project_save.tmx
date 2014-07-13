@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2088,8 +2088,8 @@
       <tuv lang="EN-US">
         <seg>Static Steel Strength in Tension: &lt;t0/&gt;The nominal steel strength of a single anchor in tension, &lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;, shall be calculated in accordance with ACI 318 D.5.1.2 and the associated strength reduction factors, &lt;t4/&gt;, in accordance with ACI 318 D.4.3 are given in Tables 5 and 8 of this report for the anchor element types included in this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071003Z" creationid="CCYU" creationdate="20140713T052823Z">
-        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071420Z" creationid="CCYU" creationdate="20140713T052823Z">
+        <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應根據 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則根據本報告中表 5 和 表 8 ACI 318 D.4.3 其他錨固元件類型計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic concrete breakout strength of a single anchor in tension, &lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071631Z" creationid="CCYU" creationdate="20140713T071631Z">
+        <seg>單一錨固在張力下的基本&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;, must be calculated in accordance with ACI 318 D.5.2.2 using the values of &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;,&lt;t6/&gt; and &lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; as described in the tables of this report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The calculations and &lt;t0/&gt;details must be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035329Z" creationid="CCYU" creationdate="20140713T035127Z">
@@ -2578,6 +2586,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042703Z" creationid="CCYU" creationdate="20140713T042703Z">
         <seg>鍍鋅鋼塗層的最小重量必須符合 ASTM A153。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nominal static concrete breakout strength in tension &lt;t0/&gt;of a single anchor of group of anchors, &lt;t1/&gt;N&lt;t2/&gt;cb&lt;t3/&gt; or &lt;t4/&gt;N&lt;t5/&gt;cbg&lt;t6/&gt;, must be calculated in accordance with ACI 318 D.5.2, with the following addition:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T071512Z" creationid="CCYU" creationdate="20140713T071324Z">
+        <seg>整組錨固中的單一錨固在張力下的標稱靜態混凝土斷裂強度， &lt;t1/&gt;N&lt;t2/&gt;cb&lt;t3/&gt; 或 &lt;t4/&gt;N&lt;t5/&gt;cbg&lt;t6/&gt;，必須根據 ACI 318 D.5.2 計算，其補充如下：</seg>
       </tuv>
     </tu>
     <tu>
