@@ -168,8 +168,8 @@
       <tuv lang="EN-US">
         <seg>5.19 &lt;t0/&gt;fischer FIS EM adhesive is manufactured by fischerwerke GmbH &amp; Co.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043429Z" creationid="CCYU" creationdate="20140713T043429Z">
-        <seg>5.19 &lt;t0/&gt;fischer FIS EM 黏著劑 事由fischerwerke GmbH &amp; Co.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043615Z" creationid="CCYU" creationdate="20140713T043429Z">
+        <seg>5.19 &lt;t0/&gt;fischer FIS EM 黏著劑是由德國 Denzlingen、KG 的 fischerwerke GmbH &amp; Co. 所製造，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093940Z" creationid="Administrator" creationdate="20140621T093940Z">
         <seg>隨機附件及包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>KG, Denzlingen, Germany, under a quality control program with inspections by ICC-ES.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043718Z" creationid="CCYU" creationdate="20140713T043718Z">
+        <seg>並通過 ICC-ES 的品質控制計畫檢查。</seg>
       </tuv>
     </tu>
     <tu>
