@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1723,6 +1723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093221Z" creationid="CCYU" creationdate="20140713T093051Z">
         <seg>取代 ACI 318 D.8.1 和 D.8.5，本報告 (表 6 和表 9) 中的最小構件厚度，&lt;t18/&gt;h&lt;t19/&gt;min&lt;t20/&gt;，必須遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In light-frame construction, bearing or nonbearing walls, shear strength of concrete anchors less than or equal to 1 inch [25 mm] in diameter attaching a sill plate or track to foundation or foundation stem wall need not satisfy D.3.3.5.3(a) through (c) when the design strength of the anchors is determined in accordance with D.6.2.1(c).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T112810Z" creationid="CCYU" creationdate="20140713T112810Z">
+        <seg>輕型窗架結構、承重或非承重牆、混凝土錨固的剪力強度少於或等於 1 英吋 [25 毫米] .3.3.5.3(a) through (c) when the design strength of the anchors is determined in accordance with D.6.2.1(c).</seg>
       </tuv>
     </tu>
     <tu>
