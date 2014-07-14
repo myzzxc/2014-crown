@@ -2271,6 +2271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum specified ultimate strength (&lt;t0/&gt;f&lt;t1/&gt;uta&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102548Z">
+        <seg>最小指定極限強度 (&lt;t0/&gt;f&lt;t1/&gt;uta&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modify ACI 318 Sections D.3.3.4.2, D.3.3.4.3(d) and &lt;t0/&gt;D.3.3.5.2 to read as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z">
@@ -3051,6 +3059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044706Z">
         <seg>力晶半導體股份有限公司馬達技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THREADED ROD SPECIFICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102444Z">
+        <seg>螺紋桿規格</seg>
       </tuv>
     </tu>
     <tu>
