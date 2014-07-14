@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(percent)&lt;t0/&gt;3,5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102844Z">
+        <seg>(％)&lt;t0/&gt;3,5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Revised January 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051833Z">
@@ -1598,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elongation, min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
+        <seg>最小伸長量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z">
@@ -2275,6 +2291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102548Z">
         <seg>最小指定極限強度 (&lt;t0/&gt;f&lt;t1/&gt;uta&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum specified yield strength 0.2% offset (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102711Z">
+        <seg>最小指定降伏強度 0.2% 偏移量 (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
