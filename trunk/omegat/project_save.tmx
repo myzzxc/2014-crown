@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;fischer FIS EM may be used with continuously threaded stainless steel rod (all-thread) with thread characteristics comparable with ANSI B1.1 UNC Coarse Thread Series or ANSI B1.13M M Profile Metric Thread Series.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103517Z">
+        <seg>1&lt;t0/&gt;fischer FIS EM 應使用連續螺紋不鏽鋼柱 (全螺紋)，螺紋特性須符合 ANSI B1.1 UNC 粗螺紋系列或 ANSI B1.13M M 型公制螺紋系列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;fischer FIS EM must be used with continuously threaded carbon steel rod (all-thread) that have thread characteristics comparable with ANSI B1.1 UNC Coarse Thread Series or ANSI B1.13M M Profile Metric Thread Series.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095407Z">
@@ -848,8 +856,8 @@
       <tuv lang="EN-US">
         <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (equivalent to ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103228Z">
-        <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; 5.8 類 (同 ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt; 5.8 類)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103341Z">
+        <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (同 ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,6 +2915,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T130040Z">
         <seg>特別檢查：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification for nuts&lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103408Z">
+        <seg>螺母規格&lt;t0/&gt;3</seg>
       </tuv>
     </tu>
     <tu>
