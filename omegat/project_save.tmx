@@ -774,10 +774,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;Mechanical properties of fasteners made of carbon steel and alloy steel – Part 1: Bolts, screws and studs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095826Z">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;碳鋼和合金鋼製緊固件的機械特性 – 第 1 部分：螺栓、螺釘和螺柱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;持續負荷之特徵黏結強度包含固定及活動負荷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095907Z">
+        <seg>&lt;t3/&gt;3&lt;t4/&gt;根據 2 英吋</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>Carbon steel threaded rods are furnished with a 0.0002-inch-thick (0.005 mm) zinc electroplated coating in accordance with ASTM B633 SC 1, or must be hot-dipped galvanized in accordance with ASTM A153, Class C or D. Threaded steel rods must be straight and free of &lt;t1/&gt;indentations or other defects along their length.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051127Z">
-        <seg>高碳鋼螺紋柱皆按照 ASTM B633 SC 1 標準鍍上 0.0002 英寸厚 (0.005 mm) 鋅電鍍層，或必須按照 ASTM A153 C 類或 D 類進行熱浸鍍，螺紋鋼柱必須為鉛直且沿其長度無凹痕或其他缺陷。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095913Z">
+        <seg>高碳鋼螺紋柱皆按照 ASTM B633 SC 1 標準鍍上 0.0002 英寸厚 (0.005 毫米) 鋅電鍍層，或必須按照 ASTM A153 C 類或 D 類進行熱浸鍍，螺紋鋼柱必須為鉛直且沿其長度無凹痕或其他缺陷。</seg>
       </tuv>
     </tu>
     <tu>
