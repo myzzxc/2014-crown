@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Characteristic bond strength values correspond to concrete compressive strength in the range 2,500 psi &lt;t1/&gt; f&lt;t2/&gt;´&lt;t3/&gt;c &lt;t4/&gt; 4,500 psi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024959Z" creationid="Judy" creationdate="20140714T024959Z">
+        <seg>1&lt;t0/&gt;混凝土抗壓強度範圍 2,500 psi &lt;t1/&gt; f&lt;t2/&gt;´&lt;t3/&gt;c &lt;t4/&gt; 4,500 psi. 對應之特徵黏結強度值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;Design strengths are as set forth in ACI 318-11 D.4.1.1.&lt;t1/&gt;2&lt;t2/&gt;See Section 4.1 of this report for bond strength information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050137Z" creationid="CCYU" creationdate="20140713T050137Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Values provided for post-installed anchors with category as determined from ACI 355.4 given for Condition B. Condition B applies without supplementary reinforcement or where pullout (bond) or pryout govern, as set forth in ACI 318 D.4.3, while condition A requires supplemental reinforcement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040417Z" creationid="Judy" creationdate="20140714T040147Z">
+        <seg>1&lt;t0/&gt;後安裝錨固所列出之數值依據 ACI 355.4 之條件 B 決定，應用條件 B 無需輔助強化或受拉出 (黏結) 或翹破所控制，如 ACI 318 D.4.3 之應力，然而條件 A 需輔助強化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Operating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143330Z" creationid="Administrator" creationdate="20140621T143330Z">
         <seg>2 操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012004Z" creationid="Judy" creationdate="20140714T012004Z">
+        <seg>2、</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113845Z" creationid="Administrator" creationdate="20140621T063325Z">
         <seg>3 纖體按摩機 AC 850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>41°F-+86°F +5°C-+30°C Store mortar in a cool dry place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023839Z" creationid="Judy" creationdate="20140714T023839Z">
+        <seg>41°F-+86°F +5°C-+30°C 儲存泥漿於乾燥陰涼處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +766,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z" creationid="Judy" creationdate="20140714T025307Z">
+        <seg>&lt;t11/&gt;2&lt;t12/&gt;持續負荷之特徵黏結強度包含固定及活動負荷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Preparing the cartridge 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z" creationid="Judy" creationdate="20140714T011909Z">
+        <seg>A 準備卡匣 1、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z" creationid="Administrator" creationdate="20140621T150020Z">
@@ -778,6 +826,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145105Z" creationid="Administrator" creationdate="20140621T145105Z">
         <seg>約 5 秒鐘後，可以切換滑動開關至設置 &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;2 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;3&lt;/f7&gt;&lt;f8&gt;開啟暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After finishing work, leave the static mixer attached to the cartridge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T013511Z" creationid="Judy" creationdate="20140714T013511Z">
+        <seg>施工完成後，將靜態混合器留置於卡匣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After insert the anchoring element excess mortar must emerge from the mouth of the hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022537Z" creationid="Judy" creationdate="20140714T022537Z">
+        <seg>注入錨固原料完成後需將孔洞口之多餘泥漿去除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +914,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150914Z" creationid="CCYU" creationdate="20140713T150914Z">
         <seg>錨固位置必須遵守此報告和計畫以及批准之官方規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchoring element must be straight and free of oil and other contaminants.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022130Z" creationid="Judy" creationdate="20140714T022130Z">
+        <seg>錨固原料須未經使用且無油漬以及其他污染。</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051127Z" creationid="Judy" creationdate="20140713T050954Z">
         <seg>高碳鋼螺紋柱皆按照 ASTM B633 SC 1 標準鍍上 0.0002 英寸厚 (0.005 mm) 鋅電鍍層，或必須按照 ASTM A153 C 類或 D 類進行熱浸鍍，螺紋鋼柱必須為鉛直且沿其長度無凹痕或其他缺陷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check brushes for wear with brush gauge (brush 0 z drill hole 0).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021503Z" creationid="Judy" creationdate="20140714T021422Z">
+        <seg>使用鋼刷量尺檢查鋼刷磨耗 (鋼刷 phi &gt; 孔洞 phi)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1240,8 @@
       <tuv lang="EN-US">
         <seg>Data in accordance with the ICC-ES Acceptance Criteria for Post-Installed Adhesive Anchors in Concrete Elements AC308, dated February 2013.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044411Z" creationid="CCYU" creationdate="20140713T044222Z">
-        <seg>於 2013 年 2 月提交符合 ICC-ES 混凝土元件黏合錨固安裝後驗收標準 AC308 的資料。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T035800Z" creationid="CCYU" creationdate="20140713T044222Z">
+        <seg>於 2013 年 2 月提交符合 ICC-ES 混凝土元件黏合後安裝錨固驗收標準 AC308 的資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,10 +1342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not apply load or installation torque moment to the anchor until the prescribed curing times are elapsed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023718Z" creationid="Judy" creationdate="20140714T023540Z">
+        <seg>到達指定之固化時間前請勿施加負荷或安裝扭矩於錨固點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not bleach!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084751Z" creationid="Administrator" creationdate="20140621T084751Z">
         <seg>請勿漂白！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not disturb the anchoring element until cure time has elapsed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023329Z" creationid="Judy" creationdate="20140714T023329Z">
+        <seg>未達錨固原料固化時間前請勿觸摸移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not use expired adhesive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011835Z" creationid="Judy" creationdate="20140714T011835Z">
+        <seg>請勿使用過期黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not use the foot warmer when it is folded!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125857Z" creationid="Administrator" creationdate="20140621T125857Z">
@@ -1362,6 +1466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130017Z" creationid="Administrator" creationdate="20140621T130017Z">
         <seg>請勿清洗暖腳機！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drill hole with a hammer drill set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015256Z" creationid="Judy" creationdate="20140714T015256Z">
+        <seg>使用衝擊鑽頭組鑽出孔洞，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1598,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FIGURE 2—INSTALLATION PARAMETERS FOR THREADED ROADS AND REINFORCING BARS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024223Z" creationid="Judy" creationdate="20140714T024223Z">
+        <seg>圖 2— 螺紋柱及強化鋼筋之安裝參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIGURE 3—FIS EM ANCHORING SYSTEM &amp; STEEL ELEMENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024316Z" creationid="Judy" creationdate="20140714T024316Z">
+        <seg>圖 3—FIS EM 錨固系統 &amp; 鋼質原料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIGURE 4—FIS EM INSTALLATION INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024328Z" creationid="Judy" creationdate="20140714T024328Z">
+        <seg>圖 4—FIS EM 安裝資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIGURE 4—FIS EM INSTALLATION INFORMATION (Continued)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024353Z" creationid="Judy" creationdate="20140714T024342Z">
+        <seg>圖 4—FIS EM 安裝資訊 (續)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z" creationid="CCYU" creationdate="20140713T074549Z">
@@ -1494,10 +1638,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill approx. 2/3 of the hole with mortar starting from the bottom of the hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021656Z" creationid="Judy" creationdate="20140714T021656Z">
+        <seg>由孔洞底部開始填充泥漿至填滿約 2/3 的孔洞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foot warmer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150456Z" creationid="Administrator" creationdate="20140621T150456Z">
         <seg>暖腳機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;t0/&gt;SI: &lt;t1/&gt;1 inch = 25.4 mm, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024531Z" creationid="Judy" creationdate="20140714T024531Z">
+        <seg>&lt;t0/&gt;公制：&lt;t1/&gt;1 inch = 25.4 mm, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,10 +1678,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For any applications not covered by this document, or by any problems with installation contact fischer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015151Z" creationid="Judy" creationdate="20140714T015151Z">
+        <seg>任何位包含於此文件內之應用，或有任何安裝問題請與 fischer 聯繫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For drill hole depth &gt; 150 mm use an extention tube.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021819Z" creationid="Judy" creationdate="20140714T021729Z">
+        <seg>鑽孔深度 &gt; 150 mm 需使用延長管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For drill hole diameter , 40 mm use an fischer injection adapter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021910Z" creationid="Judy" creationdate="20140714T021810Z">
+        <seg>鑽孔直徑 &gt;= 40 mm 需使用 fischer 注膠轉接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ongoing installations over an extended period, the special inspector must make regular inspections to confirm correct handling and installation of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132117Z" creationid="Judy" creationdate="20140713T132117Z">
         <seg>對於正在進行之長期安裝，需定期進行特別檢查以確保產品正確處理及安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead installations (limited to size s M24) use wedges to support the anchor (cartridge temperature s 77°F (25°C)).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023007Z" creationid="Judy" creationdate="20140714T023007Z">
+        <seg>懸空安裝 (尺寸限制 &lt;= M24) 需使用契角支撐錨固 (卡匣溫度 &lt;= 77°F (25°C))。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead installations, drill hole depth &gt; 250 mm or drill hole diameter do, 40 mm use an injection adapter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023122Z" creationid="Judy" creationdate="20140714T023122Z">
+        <seg>懸空安裝且鑽孔深度 &gt; 250 mm 或鑽孔直徑 &gt;= 40 mm 需使用注膠轉接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For pound-inch units: 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024544Z" creationid="Judy" creationdate="20140714T024544Z">
+        <seg>英制： 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For short-term loads including wind, bond strength may be increased 9 percent for temperature range A and 39 percent for temperature range B. &lt;t13/&gt;3&lt;t14/&gt;Temperature range A: Maximum short term temperature = 140°F (60°C), Maximum long term Temperature = 95°F (35°C)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025810Z" creationid="Judy" creationdate="20140714T025810Z">
+        <seg>短期負荷包含風力，若處於溫度範圍 A 其黏結強度將增加百分之九；若處於溫度範圍 B 其黏結強度將增加百分之三十九。 &lt;t13/&gt;3&lt;t14/&gt;溫度範圍 A：短期最高溫度 = 140°F (60°C)，長期最高溫度 = 95°F (35°C)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1539,6 +1755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105338Z" creationid="CCYU" creationdate="20140713T102041Z">
         <seg>計算連接木質窗台板承重的錨固螺栓、輕型框架木結構的非承重牆或基礎牆的平面剪力強度，依照 D.6.2 和 D.6.3 無須計算平面剪力強度，依照 D.3.3.5.3 無須滿足以下所有條件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the range 4,500 psi &lt; f&lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi may be increased by 6% and range 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c&lt;t10/&gt; 8,000 psi tabulated characteristic bond strength may be increased by 10%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025144Z" creationid="Judy" creationdate="20140714T025144Z">
+        <seg>抗壓強度範圍 4,500 psi &lt; f&lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi 將增加 6%，而抗壓強度範圍 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c&lt;t10/&gt; 8,000 psi 表列特徵黏結強度將增加 10%。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1879,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If required use brush extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z" creationid="Judy" creationdate="20140714T021459Z">
+        <seg>若有需要則進行更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the load combinations of ACI 318 Appendix C are used, the appropriate value of&lt;t1/&gt; must be determined in accordance with ACI 318 D.4.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040655Z" creationid="Judy" creationdate="20140714T040655Z">
+        <seg>若 ACI 318 附錄 C are used, the appropriate value of&lt;t1/&gt; must be determined in accordance with ACI 318 D.4.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the power supply cable is damaged, the whole foot warmer must be disposed of.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z" creationid="Administrator" creationdate="20140621T143108Z">
@@ -1683,6 +1923,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z" creationid="Administrator" creationdate="20140621T060703Z">
         <seg>關於你健康之重要建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: Before use, read and review the installation instructions and the SDS (safety data sheet).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011817Z" creationid="Judy" creationdate="20140714T011817Z">
+        <seg>重要：使用前請先閱讀並了解安裝說明以及 SDS (安全資料表)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: If the processing time is exceeded, use a new static mixer and if necessary remove encrusted material in the cartridge mouth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T013757Z" creationid="Judy" creationdate="20140714T013737Z">
+        <seg>重要：若超過加工時間，使用新的靜態混合器，若有需要則將卡匣嘴上擠出之原料清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: Installation instructions - follow the pictograms 1-7 for the sequence of operating and refer to Tables I—Ill for setting details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014255Z" creationid="Judy" creationdate="20140714T014051Z">
+        <seg>重要：安裝說明 - 遵照圖示 1-7 順序進行操作並參閱表 I—III 之詳細資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert the static mixer and lock it in place (turn to the right).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014946Z" creationid="Judy" creationdate="20140714T012129Z">
+        <seg>插入靜態混合器並將其固定 (向右轉)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation must be in accordance with ACI 318-11 &lt;t0/&gt;D.9.1 and D.9.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150752Z" creationid="CCYU" creationdate="20140713T150752Z">
@@ -1895,6 +2167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Long term concrete temperatures are roughly constant over significant periods of time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T030755Z" creationid="Judy" creationdate="20140714T030755Z">
+        <seg>長期混凝土升溫為溫度在一段顯著之長時間之間接近定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lot number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z" creationid="Administrator" creationdate="20140621T084333Z">
@@ -1927,6 +2207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark the anchor with correct embedment depth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022229Z" creationid="Judy" creationdate="20140714T022229Z">
+        <seg>將錨固標示正確埋設深度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Materials:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z" creationid="CCYU" creationdate="20140712T130855Z">
@@ -1955,6 +2243,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z" creationid="CCYU" creationdate="20140713T095158Z">
         <seg>修改 ACI 318 章節 D.3.3.4.2、D.3.3.4.3(d) 和 &lt;t0/&gt; D.3.3.5.2，內容如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mortar which is not grey colour will not cure and must be disposed off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012855Z" creationid="Judy" creationdate="20140714T012855Z">
+        <seg>非灰色的砂漿無法膠合應此必須丟棄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,6 +2299,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144323Z" creationid="Administrator" creationdate="20140621T144323Z">
         <seg>請勿使用定時開關！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never use without the static mixer!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012423Z" creationid="Judy" creationdate="20140714T012423Z">
+        <seg>請勿於無靜態混合器的情況下使用！</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2363,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z" creationid="Administrator" creationdate="20140621T111718Z">
         <seg>此時可由電源插座拔下保溫電毯插頭。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Observe processing time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021932Z" creationid="Judy" creationdate="20140714T021932Z">
+        <seg>檢查加工時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Observe the correct hole diameter and depth according to Table I, Table II and Table III.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T020317Z" creationid="Judy" creationdate="20140714T020317Z">
+        <seg>檢查孔洞直徑及深度符合表 I、表 II 以及表 III 之規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2199,6 +2519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cartridge in the application gun.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012522Z" creationid="Judy" creationdate="20140714T012522Z">
+        <seg>將卡匣放入點膠槍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that the device is complete and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094548Z" creationid="Administrator" creationdate="20140621T094548Z">
@@ -2279,6 +2607,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press approx. 10 cm of material out until the resin mortar comes out evenly grey in colour.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012813Z" creationid="Judy" creationdate="20140714T012704Z">
+        <seg>壓出約 10 公分的原料直到擠出之樹脂砂漿為均勻的灰色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the anchoring element down to the bottom of the hole, turning it slightly while so doing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022348Z" creationid="Judy" creationdate="20140714T022348Z">
+        <seg>擠壓錨固原料至孔洞底部並於擠壓同時慢慢旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prior to installation, calculations and details demonstrating compliance with this report must be submitted to the code official.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034943Z" creationid="CCYU" creationdate="20140713T034829Z">
@@ -2355,6 +2699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070255Z" creationid="Judy" creationdate="20140713T070255Z">
         <seg>鋼筋安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋必須冷彎，不得加熱鋼筋以進行彎折。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the cap by turning and pulling it off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z" creationid="Judy" creationdate="20140714T011954Z">
+        <seg>旋轉並拉出外蓋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,6 +2803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z" creationid="Administrator" creationdate="20140621T151421Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standing water in bore holes must be completely removed by blowing out before cleaning the bore hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T020643Z" creationid="Judy" creationdate="20140714T020618Z">
+        <seg>清潔鑽鑿孔洞前必須使用氣槍完全吹除孔洞內之水氣，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2703,10 +3063,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table IV Processing and curing times Temper ture range Working time/ processing M Curing Me rime +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z" creationid="Judy" creationdate="20140714T024018Z">
+        <seg>表 IV 施工及固化時間 溫度範圍 施工時間/處理時間  固化時間 +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z" creationid="Administrator" creationdate="20140621T100346Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range B: Maximum short term temperature = 162°F (72°C), Maximum long term Temperature = 122°F (50°C) Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a result of diurnal cycling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T030150Z" creationid="Judy" creationdate="20140714T030150Z">
+        <seg>溫度範圍 B：短期最高溫度 = 162°F (72°C)，長期最高溫度 = 122°F (50°C)。短期混凝土升溫為發生在短時間之內之升溫，例如一天之內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,8 +3113,8 @@
       <tuv lang="EN-US">
         <seg>The adhesive is also referred to as “mortar” in the installation instructions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130842Z" creationid="CCYU" creationdate="20140712T130842Z">
-        <seg>膠著劑於安裝說明中也稱作 "砂漿 (mortar)"。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012723Z" creationid="CCYU" creationdate="20140712T130842Z">
+        <seg>黏著劑於安裝說明中也稱作 "砂漿 (mortar)"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2747,6 +3123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T111217Z" creationid="CCYU" creationdate="20140713T104436Z">
         <seg>錨固的平面剪力強度應依照 AF&amp;PA NDS 表 11E 決定平行的橫向設計值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allowable working time and the minimum curing time are given in Table IV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023631Z" creationid="Judy" creationdate="20140714T023631Z">
+        <seg>允許施工時間以及最低固化時間列於表 IV。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,6 +3215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The construction drawings must be adhered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015037Z" creationid="Judy" creationdate="20140714T015037Z">
+        <seg>必須貼上施工圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover can be cleaned with a damp cloth or according to the care instructions on the labels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151309Z" creationid="Administrator" creationdate="20140621T151309Z">
@@ -2867,6 +3259,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040927Z" creationid="Administrator" creationdate="20140621T040927Z">
         <seg>此裝置非用於商業用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The diameters of the brushes are given in Table I. Clean dirty brushes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021147Z" creationid="Judy" creationdate="20140714T021147Z">
+        <seg>鋼刷直徑列於表 I，髒污清潔鋼刷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The drill hole must blown out twice with compressed air (oil•free , 87 psi (6 bar)), brushed two times (minimal by hand) starting from the bottom of the hole and then again blown out twice with compressed air (oil.free Z 87psi (6bar)).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021035Z" creationid="Judy" creationdate="20140714T021035Z">
+        <seg>鑽鑿之孔洞必須使用壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次、由孔洞內部向外刷淨兩次 (徒手) 後再以壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3011,6 +3419,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150416Z" creationid="Administrator" creationdate="20140621T150342Z">
         <seg>若安全裝置因故障關閉暖腳機時，指示器將燈熄滅，即使暖腳機開關仍開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The installation torque moments are given in Table II.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023714Z" creationid="Judy" creationdate="20140714T023714Z">
+        <seg>安裝扭矩列於表 II。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3191,6 +3607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spiral element mixer in the static mixer must be clearly visible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012238Z" creationid="Judy" creationdate="20140714T012238Z">
+        <seg>靜態混合器內之旋轉原料混合器必須清晰可見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z" creationid="CCYU" creationdate="20140713T051151Z">
@@ -3203,6 +3627,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z" creationid="CCYU" creationdate="20140712T133739Z">
         <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature of the cartridge must be at least t4 - 41 °F (5°C►.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T013354Z" creationid="Judy" creationdate="20140714T013354Z">
+        <seg>卡匣溫度必須高於 Q = 41 °F (5°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature of the concrete must be at least 50 °F (10°C) and at most 104°F (40°C► (see Table IV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014318Z" creationid="Judy" creationdate="20140714T013037Z">
+        <seg>水泥溫度必須高於 50 °F (10°C) 且低於 104°F (40°C) (見表 IV)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,6 +3951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Values are for use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2 as set forth in ACI 318 D.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040634Z" creationid="Judy" creationdate="20140714T040634Z">
+        <seg>數值需與 IBC 章節 1605.2 或 ACI 318 章節 9.2 所列之負荷組合使用，其應力依照 ACI 318 D.4.3 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Values for various steel materials are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z" creationid="Judy" creationdate="20140713T070752Z">
@@ -3755,6 +4203,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T022746Z" creationid="CCYU" creationdate="20140712T022746Z">
         <seg>fischer FIS EM 黏著劑只能用於本報告之表 2、3 以及 4 中所述之連續螺紋鋼柱或變形之鋼筋強化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fischer adhesive anchoring system FIS EM Fischer FIS EM is an epoxy adhesive anchoring system for fastenings in normal weight concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z" creationid="Judy" creationdate="20140714T014526Z">
+        <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
       </tuv>
     </tu>
     <tu>
