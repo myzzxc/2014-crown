@@ -2921,8 +2921,8 @@
       <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050430Z">
-        <seg>常見的螺紋鋼柱和相關的螺母設計資訊收錄於本報告表 2 和表 3。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102058Z">
+        <seg>通用螺紋鋼柱和相關的螺母設計資訊收錄於本報告表 2 和表 3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,8 +3033,16 @@
       <tuv lang="EN-US">
         <seg>TABLE 2—SPECIFICATIONS AND PHYSICAL PROPERTIES OF COMMON CARBON STEEL THREADED ROD MATERIALS&lt;t0/&gt;1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T094451Z">
-        <seg>表 2— 常用碳鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102132Z">
+        <seg>表 2— 通用碳鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TABLE 3—SPECIFICATIONS AND PHYSICAL PROPERTIES OF COMMON STAINLESS STEEL THREADED ROD MATERIALS&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102145Z">
+        <seg>表 3—通用不鏽鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
