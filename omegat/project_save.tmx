@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;fischer FIS EM must be used with continuously threaded carbon steel rod (all-thread) that have thread characteristics comparable with ANSI B1.1 UNC Coarse Thread Series or ANSI B1.13M M Profile Metric Thread Series.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095407Z">
+        <seg>1&lt;t0/&gt;fischer FIS EM 必須使用連續螺紋鋼碳柱 (全螺紋)，螺紋特性須符合 ANSI B1.1 UNC 粗螺紋系列或 ANSI B1.13M M 型公制螺紋系列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Operating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143330Z">
