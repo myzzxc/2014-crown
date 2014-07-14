@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(percent)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103038Z">
+        <seg>(％)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(percent)&lt;t0/&gt;3,5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102844Z">
@@ -838,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (equivalent to ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103228Z">
+        <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; 5.8 類 (同 ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt; 5.8 類)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information for the determination of nominal bond strength in tension is given in Section 4.1.4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072444Z">
@@ -1258,6 +1274,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140622T080735Z">
         <seg>DEUTSCH/ENGLISH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIN 934 (8-A2K) (Metric)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103237Z">
+        <seg>DIN 934 (8-A2K) (公制)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,6 +1939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z">
         <seg>重要資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO 898-1&lt;t0/&gt;2&lt;t1/&gt; Class 8.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103325Z">
+        <seg>ISO 898-1&lt;t0/&gt;2&lt;t1/&gt; 8.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -2767,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduction of Area, min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103033Z">
+        <seg>最小縮減面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reinforcing bars must not be bent after installation, except as set forth in Section 7.3.2 of ACI 318, with the additional condition that the bars must be bent cold, and heating of reinforcing bars to facilitate field bending is not permitted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070255Z">
@@ -2867,6 +2907,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T130040Z">
         <seg>特別檢查：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification for nuts&lt;t0/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103049Z">
+        <seg>螺母規格&lt;t0/&gt;4</seg>
       </tuv>
     </tu>
     <tu>
