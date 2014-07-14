@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(50 mm) gauge length except ISO 898, which is based on 5d.&lt;t5/&gt;4&lt;t6/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100130Z">
+        <seg>(50 毫米) 標距長度 which is based on 5d.&lt;t5/&gt;4&lt;t6/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Revised January 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051833Z">
@@ -792,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095907Z">
-        <seg>&lt;t3/&gt;3&lt;t4/&gt;根據 2 英吋</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
+        <seg>&lt;t3/&gt;3&lt;t4/&gt;除了 ISO 898 符合 2 英吋</seg>
       </tuv>
     </tu>
     <tu>
