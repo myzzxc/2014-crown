@@ -3783,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These rods are brittle steel elements in accordance with Section 3.2.4.3 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101733Z">
+        <seg>為符合本報告章節 3.2.4.3 的脆鋼元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These warning notes must be observed to prevent any injury to the user.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081907Z">
