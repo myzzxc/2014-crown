@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt;d&lt;t1/&gt;0 &lt;t2/&gt;= drill hole diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020730Z">
+        <seg>2&lt;t0/&gt;d&lt;t1/&gt;0 &lt;t2/&gt;= 鑽孔直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.2.1 fischer FIS EM Adhesive:&lt;t0/&gt; fischer FIS EM Adhesive is an injectable, epoxy adhesive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T131131Z">
@@ -2082,8 +2090,8 @@
       <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318 Appendix C are used, the appropriate value of&lt;t1/&gt; must be determined in accordance with ACI 318 D.4.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040655Z">
-        <seg>若 ACI 318 附錄 C are used, the appropriate value of&lt;t1/&gt; must be determined in accordance with ACI 318 D.4.4.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020723Z">
+        <seg>若使用 ACI 318 附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3072,6 +3080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Section 4.1.10 of this report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020518Z">
+        <seg>請參閱本報告章節 4.1.10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Table 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z">
@@ -3316,6 +3332,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013505Z">
         <seg>張力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor for shear, concrete failure modes, Condition B&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020624Z">
+        <seg>剪力下的強度縮減因數、混凝土破壞模式、條件 B&lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor for tension, concrete failure modes, Condition B&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020615Z">
+        <seg>張力下的強度縮減因數、混凝土破壞模式、條件 B&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
