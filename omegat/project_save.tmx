@@ -2570,8 +2570,8 @@
       <tuv lang="EN-US">
         <seg>Nuts and washers must be appropriated for the rod strength and type.&lt;t1/&gt;2&lt;t2/&gt;For use with load combinations of IBC Section 1605.2 or ACI 318 9.2 as set forth in ACI 318 D.4.3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014044Z">
-        <seg>&lt;t1/&gt;2&lt;t2/&gt;對於使用 IBC 章節 1605.2 或 ACI 318 章節 9.2 ２７負荷組合，其應力依照 ACI 318 D.4.3 所示。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014135Z">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;使用 IBC 章節 1605.2 或 ACI 318 章節 9.2 ２的負荷組合，其應力依照 ACI 318 D.4.3 所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,8 +4330,8 @@
       <tuv lang="EN-US">
         <seg>Values are for use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2 as set forth in ACI 318 D.4.3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040634Z">
-        <seg>數值需與 IBC 章節 1605.2 或 ACI 318 章節 9.2 所列之負荷組合使用，其應力依照 ACI 318 D.4.3 所示。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014320Z">
+        <seg>用於 IBC 章節 1605.2 或 ACI 318 章節 9.2 負荷組合，其應力依照 ACI 318 D.4.3 所示。</seg>
       </tuv>
     </tu>
     <tu>
