@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>5.14 &lt;t0/&gt;Use of zinc-plated carbon steel threaded rods or steel reinforcing bars is limited to dry, interior locations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T041938Z">
-        <seg>5.14 &lt;t0/&gt;僅可在乾燥的室內使用鍍鋅碳鋼螺紋桿或鋼筋。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002334Z">
+        <seg>5.14 &lt;t0/&gt;僅可在乾燥的室內使用鍍鋅碳鋼螺紋桿或鋼筋柱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,8 +2866,8 @@
       <tuv lang="EN-US">
         <seg>Reinforcing bars must not be bent after installation, except as set forth in Section 7.3.2 of ACI 318, with the additional condition that the bars must be bent cold, and heating of reinforcing bars to facilitate field bending is not permitted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070255Z">
-        <seg>鋼筋安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋必須冷彎，不得加熱鋼筋以進行彎折。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002343Z">
+        <seg>鋼筋柱安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋柱必須冷彎，不得加熱鋼筋柱以進行彎折。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,8 +3194,8 @@
       <tuv lang="EN-US">
         <seg>TABLE 4—SPECIFICATIONS AND PHYSICAL PROPERTIES OF COMMON STEEL REINFORCING BARS&lt;t0/&gt;1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001718Z">
-        <seg>表 2— 常用鋼筋的規格和物理特性&lt;t0/&gt;1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002458Z">
+        <seg>表 ４— 常用鋼筋柱的規格和物理特性&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,8 +3266,8 @@
       <tuv lang="EN-US">
         <seg>Table 8 summarizes reinforcing bar size ranges.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065511Z">
-        <seg>表 8 列出鋼筋尺寸範圍。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002213Z">
+        <seg>表 8 列出鋼筋柱尺寸範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,8 +3522,8 @@
       <tuv lang="EN-US">
         <seg>The embedded portions of reinforcing bars must be straight, and free of mill scale, rust, mud, oil and other coatings that impair the bond with the adhesive.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065848Z">
-        <seg>強化鋼筋之嵌入部分必須是為鉛直且無加工刻痕、銹蝕、污泥、油漬以及其他損害黏著結合處之表面物質。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002259Z">
+        <seg>強化鋼筋柱之嵌入部分必須是為鉛直且無加工刻痕、銹蝕、污泥、油漬以及其他損害黏著結合處之表面物質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,8 +4018,8 @@
       <tuv lang="EN-US">
         <seg>Threaded rods, nuts, washers and deformed reinforcing bars are standard elements and must conform to applicable national or international specifications as set forth in Tables 2, 3, and 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044937Z">
-        <seg>螺紋桿、螺母、墊圈和變形鋼筋為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002449Z">
+        <seg>螺紋桿、螺母、墊圈和變形鋼筋柱為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
       </tuv>
     </tu>
     <tu>
