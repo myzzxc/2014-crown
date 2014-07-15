@@ -224,16 +224,16 @@
       <tuv lang="EN-US">
         <seg>5.14 &lt;t0/&gt;Use of zinc-plated carbon steel threaded rods or steel reinforcing bars is limited to dry, interior locations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002334Z">
-        <seg>5.14 &lt;t0/&gt;僅可在乾燥的室內使用鍍鋅碳鋼螺紋桿或鋼筋柱。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004853Z">
+        <seg>5.14 &lt;t0/&gt;僅可在乾燥的室內使用鍍鋅碳鋼螺紋柱或鋼筋柱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>5.15 &lt;t0/&gt;Use of hot-dipped galvanized carbon steel and stainless steel rods is permitted for exterior exposure or damp environments.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042430Z">
-        <seg>5.15 &lt;t0/&gt;室外或潮濕環境則可使用熱鍍鋅碳鋼和不鏽鋼桿。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004907Z">
+        <seg>5.15 &lt;t0/&gt;室外或潮濕環境則可使用熱鍍鋅碳鋼和不鏽鋼柱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nominal rod diameter (mm)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004845Z">
+        <seg>標稱柱直徑 (毫米)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-observance of these instructions can result in serious injury or damage to the device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081811Z">
@@ -4026,16 +4034,16 @@
       <tuv lang="EN-US">
         <seg>Threaded rod</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045515Z">
-        <seg>螺紋桿</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004932Z">
+        <seg>螺紋柱</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Threaded rods, nuts, washers and deformed reinforcing bars are standard elements and must conform to applicable national or international specifications as set forth in Tables 2, 3, and 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002449Z">
-        <seg>螺紋桿、螺母、墊圈和變形鋼筋柱為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004928Z">
+        <seg>螺紋柱、螺母、墊圈和變形鋼筋柱為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
       </tuv>
     </tu>
     <tu>
