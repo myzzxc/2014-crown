@@ -1201,7 +1201,7 @@
       <tuv lang="EN-US">
         <seg>Characteristic bond</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021054Z">
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021239Z">
         <seg>龜裂混凝土的特徵黏結強度</seg>
       </tuv>
     </tu>
@@ -1655,6 +1655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021339Z">
+        <seg>乾硬性混凝土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dry off the rollers and place the appliance&lt;t14/&gt; &lt;t15/&gt;back on the base unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072130Z">
@@ -1919,6 +1927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For short-term loads including wind, bond strength may be increased 9 percent for temperature range A and 39 percent for temperature range B. &lt;t13/&gt;3&lt;t14/&gt;Temperature range A: Maximum short term temperature = 140&lt;t15/&gt;°&lt;t16/&gt;F (60°C), Maximum long term Temperature = 95°F (35°C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021444Z">
+        <seg>短期負荷包含風力，若處於溫度範圍 A 其黏結強度將增加百分之九；若處於溫度範圍 B 其黏結強度將增加百分之三十九。 &lt;t13/&gt;3&lt;t14/&gt;溫度範圍 A：短期最高溫度 = 140°F (60°C)，長期最高溫度 = 95°F (35°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For short-term loads including wind, bond strength may be increased 9 percent for temperature range A and 39 percent for temperature range B. &lt;t13/&gt;3&lt;t14/&gt;Temperature range A: Maximum short term temperature = 140°F (60°C), Maximum long term Temperature = 95°F (35°C)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025810Z">
@@ -1940,6 +1956,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105338Z">
         <seg>計算連接木質窗台板承重的錨固螺栓、輕型框架木結構的非承重牆或基礎牆的平面剪力強度，依照 D.6.2 和 D.6.3 無須計算平面剪力強度，依照 D.3.3.5.3 無須滿足以下所有條件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the range 4,500 psi &lt; f &lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi may be increased by 6% and range 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c &lt;t10/&gt; 8,000 psi tabulated characteristic bond strength may be increased by 10%.&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021439Z">
+        <seg>抗壓強度範圍 4,500 psi &lt; f&lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi 將增加 6%，而抗壓強度範圍 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c&lt;t10/&gt; 8,000 psi 表列特徵黏結強度將增加 10%。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,6 +3056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduction for seismic tension</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021258Z">
+        <seg>縮減地震剪力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction of Area, min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103033Z">
@@ -3344,6 +3376,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength reduction factor for permissible installation conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021330Z">
+        <seg>可安裝條件的強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength reduction factor for shear, concrete failure modes, Condition B&lt;t0/&gt;1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020624Z">
@@ -3548,6 +3588,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T030150Z">
         <seg>溫度範圍 B：短期最高溫度 = 162°F (72°C)，長期最高溫度 = 122°F (50°C)。短期混凝土升溫為發生在短時間之內之升溫，例如一天之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range B: Maximum short term temperature = 162°F (72°C), Maximum long term Temperature = 122°F (50°C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021455Z">
+        <seg>溫度範圍 B：短期最高溫度 = 162°F (72°C)，長期最高溫度 = 122°F (50°C)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,6 +4536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Water saturated concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021415Z">
+        <seg>水飽和混凝土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water-saturated</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074534Z">
@@ -4752,9 +4808,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>range B&lt;t0/&gt;3&lt;t1/&gt;emperatur</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
+        <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>strength in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020955Z">
+        <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strength in uncracked concrete&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021155Z">
         <seg>&lt;t0/&gt;2</seg>
       </tuv>
     </tu>
@@ -5655,6 +5727,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">M009120214 EM390 ICC 2013-2015--解( 7152).docx</prop>
+      <prop type="prev">(725)</prop>
+      <prop type="next">N/mm²</prop>
+      <tuv lang="EN-US">
+        <seg>Characteristic bond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021249Z">
+        <seg>未龜裂混凝土的特徵黏結強度</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">M009120214 EM390 ICC 2013-2015--解( 7152).docx</prop>
       <prop type="prev">(972)</prop>
