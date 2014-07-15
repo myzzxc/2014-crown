@@ -1239,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bond strength</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022112Z">
+        <seg>特徵黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check brushes for wear with brush gauge (brush 0 z drill hole 0).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021503Z">
@@ -1387,6 +1395,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050544Z">
         <seg>設計和安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DESIGN INFORAMTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022052Z">
+        <seg>設計資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -1727,6 +1743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EMBEDMENT DEPTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
+        <seg>埋設深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z">
@@ -1767,9 +1791,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effectiveness factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021932Z">
+        <seg>有效因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effectiveness factor for cracked</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015513Z">
+        <seg>龜裂混凝土有效因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effectiveness factor for cracked concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021853Z">
         <seg>龜裂混凝土有效因數</seg>
       </tuv>
     </tu>
@@ -1961,8 +2001,8 @@
       <tuv lang="EN-US">
         <seg>For pound-inch units: 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 150.0 psi.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021710Z">
-        <seg>英制： 1 毫米 = 0.03937 英吋, 1 N = 0.2248 lbf, 1MPa = 150.0 psi.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022036Z">
+        <seg>英制： 1 毫米 = 0.03937 英吋, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,6 +2196,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
         <seg>若使用 ACI 318</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the load combinations of ACI 318 Appendix C are used, the appropriate value of &lt;t3/&gt; must be determined in accordance with ACI 318 D.4.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021827Z">
+        <seg>若使用 ACI 318 附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3656,6 +3704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperaturerange A&lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022117Z">
+        <seg>溫度範圍 A&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your confidence in us and congratulations!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z">
@@ -4844,6 +4900,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015220Z">
         <seg>h&lt;t0/&gt;ef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in cracked concrete&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022140Z">
+        <seg>&lt;t0/&gt;2</seg>
       </tuv>
     </tu>
     <tu>
