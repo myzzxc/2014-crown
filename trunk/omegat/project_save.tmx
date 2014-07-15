@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Reinforcing steel; reinforcing steel bars; dimensions and masses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002059Z">
+        <seg>1 &lt;t0/&gt; 鋼筋; 鋼筋柱; 尺寸和質量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;Values provided for post-installed anchors with category as determined from ACI 355.4 given for Condition B. Condition B applies without supplementary reinforcement or where pullout (bond) or pryout govern, as set forth in ACI 318 D.4.3, while condition A requires supplemental reinforcement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T040417Z">
@@ -3050,8 +3058,8 @@
       <tuv lang="EN-US">
         <seg>Steel Reinforcing bars: &lt;t0/&gt;Steel reinforcing bars are deformed reinforcing bars as described in Table 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T065414Z">
-        <seg>強化鋼筋：&lt;t0/&gt;強化鋼筋為變形之強化鋼筋，如本報告中表 4 中所述。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002157Z">
+        <seg>強化鋼筋柱：&lt;t0/&gt;強化鋼筋柱為變形之強化鋼筋柱，如本報告中表 4 中所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4418,8 +4426,8 @@
       <tuv lang="EN-US">
         <seg>fischer FIS EM adhesive may only be used with continuously threaded steel rods or deformed steel reinforcing bars described in Tables 2, 3, and 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T022746Z">
-        <seg>fischer FIS EM 黏著劑只能用於本報告之表 2、3 以及 4 中所述之連續螺紋鋼柱或變形之鋼筋強化。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002106Z">
+        <seg>fischer FIS EM 黏著劑只能用於本報告之表 2、3 以及 4 中所述之連續螺紋鋼柱或變形之鋼筋柱強化。</seg>
       </tuv>
     </tu>
     <tu>
