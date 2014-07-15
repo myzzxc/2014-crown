@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Values provided for common reinforcing bar based on specified strength and calculated in accordance with ACI 318-11 Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021755Z">
+        <seg>1&lt;t0/&gt;常見鋼筋的數值為根據指定強度以 ACI 318-11 方程式 (D-2) 和 (D-29) 計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;Values provided for common rod material types are based on specified strength and calculated in accordance with ACI 318-11 Eq.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013900Z">
@@ -854,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;For use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2, as set forth in ACI 318 D.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021820Z">
+        <seg>用於 IBC 章節 1605.2 或 ACI 318 章節 9.2 負荷組合的數值，應符合 ACI 318 D.4.3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;2&lt;t2/&gt;Mechanical properties of corrosion resistant stainless steel fasteners – Part 1: Bolts, screws and studs &lt;t3/&gt;3&lt;t4/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001051Z">
@@ -1123,6 +1139,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z">
         <seg>黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bar effective cross-sectional area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021524Z">
+        <seg>柱有效截面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bar size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021509Z">
+        <seg>柱尺寸</seg>
       </tuv>
     </tu>
     <tu>
@@ -1927,6 +1959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For pound-inch units: 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 150.0 psi.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021710Z">
+        <seg>英制： 1 毫米 = 0.03937 英吋, 1 N = 0.2248 lbf, 1MPa = 150.0 psi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For short-term loads including wind, bond strength may be increased 9 percent for temperature range A and 39 percent for temperature range B. &lt;t13/&gt;3&lt;t14/&gt;Temperature range A: Maximum short term temperature = 140&lt;t15/&gt;°&lt;t16/&gt;F (60°C), Maximum long term Temperature = 95°F (35°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021444Z">
@@ -2608,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nominal bar diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021517Z">
+        <seg>標稱柱直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nominal rod diameter (mm)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004845Z">
@@ -2618,8 +2666,8 @@
       <tuv lang="EN-US">
         <seg>Nominal strength as governed by steel strength</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013327Z">
-        <seg>由鋼強度定義標稱強度</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021629Z">
+        <seg>受限於鋼強度的標稱強度</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,6 +3180,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z">
         <seg>請參閱表 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a results of diurnal cycling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
+        <seg>短期混凝土升溫為發生在短時間之內之升溫，例如一天之內。</seg>
       </tuv>
     </tu>
     <tu>
