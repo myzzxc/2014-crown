@@ -1089,8 +1089,8 @@
       <tuv lang="EN-US">
         <seg>Appendix C are used, the appropriate value of &lt;t0/&gt; &lt;t1/&gt;must be determined in accordance with ACI 318 D4.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014747Z">
-        <seg>附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
+        <seg>附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,8 +4178,8 @@
       <tuv lang="EN-US">
         <seg>Threaded rods, nuts, washers and deformed reinforcing bars are standard elements and must conform to applicable national or international specifications as set forth in Tables 2, 3, and 4 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004928Z">
-        <seg>螺紋柱、螺母、墊圈和變形鋼筋柱為必要元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015003Z">
+        <seg>螺紋柱、螺母、墊圈和變形鋼筋柱為標準元件，必須符合適用的國家或國際規格，如本報告表 2、3、4 所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4348,6 +4348,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014446Z">
         <seg>用於 IBC 章節 1605.2 或 ACI 318 章節 9.2 負荷組合的數值，應符合 ACI 318 D.4.3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values correspond to a brittle steel element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014954Z">
+        <seg>數值對應脆性鋼材。</seg>
       </tuv>
     </tu>
     <tu>
