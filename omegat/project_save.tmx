@@ -1705,8 +1705,16 @@
       <tuv lang="EN-US">
         <seg>Effectiveness factor for cracked</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015444Z">
-        <seg>混凝土龜裂有效因數</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015513Z">
+        <seg>龜裂混凝土有效因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effectiveness factor for uncracked concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015518Z">
+        <seg>無龜裂混凝土有效因數</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +2436,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093025Z">
         <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值需遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum member thinckness</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015557Z">
+        <seg>最小構件厚度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,10 +4584,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>anchor spacing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015530Z">
+        <seg>錨固間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c.&lt;t0/&gt; &lt;t1/&gt;Damage&lt;t2/&gt; &lt;t3/&gt;which has arisen during&lt;t4/&gt; &lt;t5/&gt;transport from the&lt;t6/&gt; &lt;t7/&gt;manufacturer to the&lt;t8/&gt; &lt;t9/&gt;consumer&lt;t10/&gt; &lt;t11/&gt;or during transport to the service &lt;t12/&gt;center&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075240Z">
         <seg>c. 由製造商運送至客戶途中或運送至服務中心時所造成之損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>edge distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015544Z">
+        <seg>邊距</seg>
       </tuv>
     </tu>
     <tu>
