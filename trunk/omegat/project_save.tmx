@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(D-2) and Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013902Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(D-29).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013904Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(in.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012909Z">
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002059Z">
         <seg>1 &lt;t0/&gt; 鋼筋; 鋼筋柱; 尺寸和質量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;Values provided for common rod material types are based on specified strength and calculated in accordance with ACI 318-11 Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013900Z">
+        <seg>1&lt;t0/&gt;常見柱材料類型的數值為根據指定強度以 ACI 318-11 方程式 (D-2) 和 (D-29) 計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>此時可由電源插座拔下保溫電毯插頭。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuts and washers must be appropriated for the rod strength and type.&lt;t1/&gt;2&lt;t2/&gt;For use with load combinations of IBC Section 1605.2 or ACI 318 9.2 as set forth in ACI 318 D.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014044Z">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;對於使用 IBC 章節 1605.2 或 ACI 318 章節 9.2 ２７負荷組合，其應力依照 ACI 318 D.4.3 所示。</seg>
       </tuv>
     </tu>
     <tu>
