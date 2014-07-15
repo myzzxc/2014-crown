@@ -1769,8 +1769,8 @@
       <tuv lang="EN-US">
         <seg>For &lt;t0/&gt;SI: &lt;t1/&gt;1 inch = 25.4 mm, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024531Z">
-        <seg>&lt;t0/&gt;公制：&lt;t1/&gt;1 inch = 25.4 mm, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013644Z">
+        <seg>&lt;t0/&gt;公制：&lt;t1/&gt;1 英吋 = 25.4 毫米, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1841,8 +1841,8 @@
       <tuv lang="EN-US">
         <seg>For pound-inch units: 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024544Z">
-        <seg>英制： 1 mm = 0.03937 inch, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013651Z">
+        <seg>英制： 1 毫米 = 0.03937 英吋, 1 N = 0.2248 lbf, 1MPa = 145.0 psi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1980,6 +1980,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z">
         <seg>重要資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO 3506-1Class A4 Stainless</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013516Z">
+        <seg>ISO 3506-1Class A4 不鏽鋼</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,9 +3184,41 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength reduction factor &lt;t0/&gt; &lt;t1/&gt;f&lt;t2/&gt;or shear&lt;t3/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013605Z">
+        <seg>剪力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor &lt;t0/&gt; &lt;t1/&gt;for shear&lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013508Z">
+        <seg>剪力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength reduction factor &lt;t0/&gt; &lt;t1/&gt;for tension&lt;t2/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013439Z">
+        <seg>張力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor &lt;t0/&gt;&lt;t1/&gt; for shear&lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013449Z">
+        <seg>剪力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor &lt;t0/&gt;&lt;t1/&gt; for tension&lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013505Z">
         <seg>張力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
       </tuv>
     </tu>
