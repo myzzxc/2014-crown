@@ -1199,6 +1199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021054Z">
+        <seg>龜裂混凝土的特徵黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check brushes for wear with brush gauge (brush 0 z drill hole 0).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021503Z">
@@ -4736,6 +4744,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>range A&lt;t0/&gt;3&lt;t1/&gt;emperatur</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020952Z">
+        <seg>溫度範圍 A&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>strength in cracked concrete&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020955Z">
+        <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z">
@@ -5631,5 +5655,17 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">M009120214 EM390 ICC 2013-2015--解( 7152).docx</prop>
+      <prop type="prev">(972)</prop>
+      <prop type="next">N/mm²</prop>
+      <tuv lang="EN-US">
+        <seg>Characteristic bond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021124Z">
+        <seg>未龜裂混凝土的特徵黏結強度
+</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
