@@ -1287,6 +1287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critical edge distance for splitting failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020454Z">
+        <seg>劈裂破壞的臨界邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current&lt;t0/&gt; supply:&lt;t1/&gt; Mains adapter type:&lt;t2/&gt; &lt;t3/&gt;YJS 020D -1201200G</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073231Z">
