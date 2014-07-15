@@ -1703,6 +1703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effectiveness factor for cracked</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015444Z">
+        <seg>混凝土龜裂有效因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elongation, min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
@@ -2392,10 +2400,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015231Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045611Z">
         <seg>公制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015159Z">
+        <seg>最小</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,8 +4378,8 @@
       <tuv lang="EN-US">
         <seg>Values correspond to a brittle steel element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014954Z">
-        <seg>數值對應脆性鋼材。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015152Z">
+        <seg>並對應脆性鋼材。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,6 +4576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>embedment depth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015206Z">
+        <seg>埋設深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fischer FIS EM ADHESIVE ANCHORING SYSTEM FOR CRACKED AND UNCRACKED CONCRETE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T134134Z">
@@ -4612,6 +4644,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z">
         <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>h&lt;t0/&gt;ef,min</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015220Z">
+        <seg>h&lt;t0/&gt;ef</seg>
       </tuv>
     </tu>
     <tu>
