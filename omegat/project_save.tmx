@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DESIGN INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004753Z">
+        <seg>設計資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DEUTSCH&lt;t0/&gt; &lt;t1/&gt;/&lt;t2/&gt; &lt;t3/&gt;ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140622T080735Z">
@@ -3168,6 +3176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
+        <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TABLE 1—DESIGN TABLE INDEX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045411Z">
@@ -4108,6 +4124,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132835Z">
         <seg>需根據 IBC 章節 1705、1706、或1707 於適用情況下符合額外要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Units</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004808Z">
+        <seg>單位</seg>
       </tuv>
     </tu>
     <tu>
