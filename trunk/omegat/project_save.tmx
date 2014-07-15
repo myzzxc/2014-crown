@@ -2480,6 +2480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nuts must have specified proof load stresses equal or greater than the minimum tensile strength of the specific threaded rods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001251Z">
+        <seg>螺母必須具有指定保證負荷應力，等於或大於指定螺紋柱的最小拉伸強度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nuts must have specified proof load stresses equal or greater than the minimum tensile strength of the specific threaded rods.&lt;t7/&gt;5&lt;t8/&gt;Standard specification for Carbon and Alloy Steel Externally Threaded Metric Fasteners.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101623Z">
