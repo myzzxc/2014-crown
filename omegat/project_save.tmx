@@ -1241,7 +1241,7 @@
       <tuv lang="EN-US">
         <seg>Characteristic bond strength</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022112Z">
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022223Z">
         <seg>特徵黏結強度</seg>
       </tuv>
     </tu>
@@ -3712,6 +3712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperaturerange B&lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022243Z">
+        <seg>溫度範圍 B&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your confidence in us and congratulations!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z">
@@ -4907,6 +4915,14 @@
         <seg>in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022140Z">
+        <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in uncracked concrete&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022231Z">
         <seg>&lt;t0/&gt;2</seg>
       </tuv>
     </tu>
