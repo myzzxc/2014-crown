@@ -2480,6 +2480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nominal strength as governed by steel strength</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013327Z">
+        <seg>由鋼強度定義標稱強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-observance of these instructions can result in serious injury or damage to the device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081811Z">
@@ -2896,6 +2904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduction for seismic shear</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013350Z">
+        <seg>縮減地震剪力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction of Area, min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103033Z">
@@ -3156,6 +3172,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081442Z">
         <seg>強度設計值是依照本報告章節 4.1 所決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength reduction factor &lt;t0/&gt; &lt;t1/&gt;for tension&lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013439Z">
+        <seg>張力下的強度縮減因數&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;2</seg>
       </tuv>
     </tu>
     <tu>
