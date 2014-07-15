@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(50 mm) gauge length except ISO 898, which is based on 5d.&lt;t5/&gt;4&lt;t6/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101059Z">
-        <seg>(50 毫米) 標距長度外，其他則符合 5d。&lt;t5/&gt;4&lt;t6/&gt;其他等級和樣式的螺母，若具有大於指定等級和樣式的保證負荷應力，也可適用。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001121Z">
+        <seg>(50 毫米) 標距長度外，其他則符合 5d。&lt;t5/&gt;4&lt;t6/&gt;其他等級和樣式的螺母，若保證負荷應力大於指定等級和樣式，也可適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +802,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074423Z">
         <seg> MEDISANA 產品保固期為自購買日起三年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;Mechanical properties of corrosion resistant stainless steel fasteners – Part 1: Bolts, screws and studs &lt;t3/&gt;3&lt;t4/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001051Z">
+        <seg>&lt;t1/&gt;2&lt;t2/&gt;耐腐蝕不鏽鋼緊固件的機械特性 – 第 1 部分：螺栓、螺釘和螺柱。
+&lt;t3/&gt;3&lt;t4/&gt;其他等級和樣式的螺母，若保證負荷應力大於指定等級和樣式，也可適用。</seg>
       </tuv>
     </tu>
     <tu>
