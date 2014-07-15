@@ -2344,6 +2344,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum specified ultimate strength&lt;t0/&gt; (f&lt;t1/&gt;uta&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001825Z">
+        <seg>最小指定極限強度 (&lt;t0/&gt;f&lt;t1/&gt;uta&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum specified yield strength (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001834Z">
+        <seg>最小指定降伏強度 (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum specified yield strength 0.2% offset (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102711Z">
@@ -2784,6 +2800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REINFORCING BAR SPECIFICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001821Z">
+        <seg>鋼筋規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REPORT HOLDER:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132534Z">
@@ -3034,8 +3058,8 @@
       <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102058Z">
-        <seg>通用螺紋鋼柱和相關的螺母設計資訊收錄於本報告表 2 和表 3。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001725Z">
+        <seg>常用螺紋鋼柱和相關的螺母設計資訊收錄於本報告表 2 和表 3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,8 +3170,8 @@
       <tuv lang="EN-US">
         <seg>TABLE 2—SPECIFICATIONS AND PHYSICAL PROPERTIES OF COMMON CARBON STEEL THREADED ROD MATERIALS&lt;t0/&gt;1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102132Z">
-        <seg>表 2— 通用碳鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001729Z">
+        <seg>表 2— 常用碳鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3156,6 +3180,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102145Z">
         <seg>表 3—通用不鏽鋼螺紋柱材料的規格和物理特性&lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TABLE 4—SPECIFICATIONS AND PHYSICAL PROPERTIES OF COMMON STEEL REINFORCING BARS&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001718Z">
+        <seg>表 2— 常用鋼筋的規格和物理特性&lt;t0/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
