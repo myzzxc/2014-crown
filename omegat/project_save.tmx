@@ -3450,8 +3450,8 @@
       <tuv lang="EN-US">
         <seg>Specification of the intended use in accordance with the applicable European&lt;t0/&gt; &lt;t1/&gt;Assessment Document</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T105922Z">
-        <seg>依據適用歐洲評估文件的用途說明。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T110054Z">
+        <seg>符合適當歐洲評估文件的用途規格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,6 +4324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062832Z">
         <seg>包裝可重複使用或回收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The performances given in Section 3 are only valid if the rebar connection is used in compliance&lt;t0/&gt; &lt;t1/&gt;with the specifications and conditions given in Annex B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T110242Z">
+        <seg>第 3 部分所描述的性能僅適用於滿足附件 B 規格條件的情況。</seg>
       </tuv>
     </tu>
     <tu>
