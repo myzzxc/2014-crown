@@ -1175,6 +1175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II &lt;t0/&gt;SINGAPORE 738960</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100010Z">
+        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II &lt;t0/&gt;新加坡 738960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bond reduction factors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045901Z">
@@ -2552,6 +2560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturing plant</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100022Z">
+        <seg>製造廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the anchor with correct embedment depth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022229Z">
@@ -2658,8 +2674,16 @@
       <tuv lang="EN-US">
         <seg>Multi-Fix Fasteners &lt;t0/&gt;Pte&lt;t1/&gt; Ltd</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095852Z">
-        <seg>Multi-Fix Fasteners &lt;t0/&gt;私人股份有限公司d</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095934Z">
+        <seg>Multi-Fix Fasteners &lt;t0/&gt;私人股份有限公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-Fix Fasteners &lt;t0/&gt;Pte&lt;t1/&gt; Ltd Plant 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100121Z">
+        <seg>Multi-Fix Fasteners &lt;t0/&gt;私人股份有限公司 2 廠</seg>
       </tuv>
     </tu>
     <tu>
@@ -3260,6 +3284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
         <seg>具有窒息危險 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SINGAPURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100017Z">
+        <seg>新加坡</seg>
       </tuv>
     </tu>
     <tu>
