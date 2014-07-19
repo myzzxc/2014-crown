@@ -1127,6 +1127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
+        <seg>任何部分轉載均需如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix C are used, the appropriate value of &lt;t0/&gt; &lt;t1/&gt;must be determined in accordance with ACI 318 D4.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
@@ -3882,8 +3890,8 @@
       <tuv lang="EN-US">
         <seg>The European Technical Assessment is issued by the Technical Assessment&lt;t0/&gt; Body in its official language.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102221Z">
-        <seg>本歐洲技術評估乃根據技術評估機構的官方語言頒佈&gt;</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103248Z">
+        <seg>本歐洲技術評估乃根據技術評估機構的官方語言頒佈。</seg>
       </tuv>
     </tu>
     <tu>
