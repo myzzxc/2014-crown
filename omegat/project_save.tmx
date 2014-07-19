@@ -2224,6 +2224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hygiene, health and the environment (BWR 3&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T113006Z">
+        <seg>衛生、健康和環境  (BWR 3&lt;t0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC-ES Evaluation Report ESR-1990&lt;t0/&gt;* &lt;t1/&gt;Reissued August 1, 2013 This report is subject to renewal September 1, 2015.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T024534Z">
@@ -2820,6 +2828,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012423Z">
         <seg>請勿於無靜態混合器的情況下使用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No performance determined (NPD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
+        <seg>性能未確定 (NPD)</seg>
       </tuv>
     </tu>
     <tu>
