@@ -3824,6 +3824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical description of the product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T104252Z">
+        <seg>產品技術說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z">
@@ -4548,6 +4556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101815Z">
         <seg>本歐洲技術評估乃遵照 (歐盟) 法規 No 305/2011 所頒佈，並依據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This European Technical Assessment may be withdrawn by the issuing Technical&lt;t0/&gt; Assessment Body, in &lt;t1/&gt;particular pursuant to information by the Commission according to Artic&lt;t2/&gt;le 25 Paragraph 3 of Regulation &lt;t3/&gt;(EU) No 305/2011.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T104247Z">
+        <seg>技術評估機構可由委員會特別根據 (歐盟) 法規 No 305/2011 第 3 段 25 條之資訊，撤回本歐洲技術評估。</seg>
       </tuv>
     </tu>
     <tu>
