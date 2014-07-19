@@ -1543,6 +1543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design values of the ultimate bond resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112441Z">
+        <seg>最大黏結阻力的設計值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z">
@@ -1875,6 +1883,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
         <seg>最小伸長量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Essential characteristic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
+        <seg>重要特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,6 +3064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Performance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112303Z">
+        <seg>性能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Performance of the product and references to the methods used for its assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T111314Z">
@@ -3372,6 +3396,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045337Z">
         <seg>決定黏結強度的強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety in case of fire (BWR 2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112513Z">
+        <seg>火災安全性 (BWR 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Annex C 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112449Z">
+        <seg>請參閱附件 C 1</seg>
       </tuv>
     </tu>
     <tu>
