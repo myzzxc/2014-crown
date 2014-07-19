@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Translations of this European Technical Assessment in other language&lt;t2/&gt;s shall fully correspond to the &lt;t3/&gt;original issued document a&lt;t4/&gt;nd shall be identified as such.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102600Z">
+        <seg>本歐洲技術評估若翻譯為其他語言，則應與原始頒布文件完全一致，並且應被視為原始頒佈文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z">
@@ -1275,6 +1283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z">
         <seg>清潔和維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication of this European Technical Assessment, including tr&lt;t0/&gt;ansmission by electronic means, &lt;t1/&gt;shall be in full.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102813Z">
+        <seg>應完整傳遞本歐洲技術規格，包括使用電子傳送。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,6 +3868,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The European Technical Assessment is issued by the Technical Assessment&lt;t0/&gt; Body in its official language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102221Z">
+        <seg>本歐洲技術評估乃根據技術評估機構的官方語言頒佈&gt;</seg>
       </tuv>
     </tu>
     <tu>
