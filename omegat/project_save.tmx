@@ -1151,6 +1151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T142727Z">
+        <seg>性能穩定性評估與審核 (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
