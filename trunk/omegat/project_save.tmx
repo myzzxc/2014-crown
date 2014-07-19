@@ -1785,8 +1785,8 @@
       <tuv lang="EN-US">
         <seg>Durability is only&lt;t1/&gt; &lt;t2/&gt;ensured if the specifications of intended use according to Annex B are taken into account.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123921Z">
-        <seg>唯有</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T143618Z">
+        <seg>唯有符合附件 B 用途規範才可視為合格的耐久性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,8 +3618,8 @@
       <tuv lang="EN-US">
         <seg>Specification of the intended use in accordance with the applicable European&lt;t0/&gt; &lt;t1/&gt;Assessment Document</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123938Z">
-        <seg>符合適當歐洲評估文件用途的規格。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T143440Z">
+        <seg>符合適當歐洲評估文件的用途規範。</seg>
       </tuv>
     </tu>
     <tu>
