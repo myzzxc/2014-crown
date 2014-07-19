@@ -3704,6 +3704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical Assessment Body issuing the &lt;t0/&gt;European Technical Assessment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094820Z">
+        <seg>發表歐洲技術評估的技術評估機構：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z">
@@ -4524,6 +4532,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144951Z">
         <seg>若要重新開啟暖腳機，必須先將滑動開關切換至 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade name of the construction product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094738Z">
+        <seg>建設產品的商標名稱</seg>
       </tuv>
     </tu>
     <tu>
