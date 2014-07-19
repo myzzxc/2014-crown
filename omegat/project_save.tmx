@@ -2624,6 +2624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Issued in Berlin on 26 June 2014 by &lt;t0/&gt;Deutsches&lt;t1/&gt; &lt;t2/&gt;Institut&lt;t3/&gt; &lt;t4/&gt;für&lt;t5/&gt; &lt;t6/&gt;Bautechnik</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T151619Z">
+        <seg>Deutsches Institut für Bautechnik 於 2014 年 6 月 26 日柏林發行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains important information about starting up and operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081700Z">
@@ -4090,8 +4098,8 @@
       <tuv lang="EN-US">
         <seg>Technical details necessary for the implementation of the AVCP system are laid down in the&lt;t0/&gt; &lt;t1/&gt;control plan deposited at &lt;t2/&gt;Deutsches&lt;t3/&gt; &lt;t4/&gt;Institut&lt;t5/&gt; &lt;t6/&gt;für&lt;t7/&gt; &lt;t8/&gt;Bautechnik&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T150305Z">
-        <seg>實行 AVCP 系統必要的技術細節，列於適用的歐洲評估文件</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T151450Z">
+        <seg>實行 AVCP 系統必要的技術細節，由 Deutsches Institu für Bautechnik 控制計劃所制定。 </seg>
       </tuv>
     </tu>
     <tu>
