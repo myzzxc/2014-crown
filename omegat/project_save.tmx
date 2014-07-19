@@ -3448,6 +3448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specification of the intended use in accordance with the applicable European&lt;t0/&gt; &lt;t1/&gt;Assessment Document</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T105922Z">
+        <seg>依據適用歐洲評估文件的用途說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z">
@@ -4328,10 +4336,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The product description is given in Annex A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T105716Z">
+        <seg>產品說明位於附件 Ａ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
         <seg>紅色電源指示燈將熄滅，代表已關機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reinforcing bar is placed into a drilled hole&lt;t5/&gt; &lt;t6/&gt;filled with injection mortar and is anchored via the bond between embedded element, injection&lt;t7/&gt; &lt;t8/&gt;mortar and concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T105703Z">
+        <seg>將鋼筋至於鑽孔內，並填入注射砂漿，經由嵌入元件、注射砂漿和混凝土之間的黏結錨固。</seg>
       </tuv>
     </tu>
     <tu>
