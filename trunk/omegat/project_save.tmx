@@ -3778,8 +3778,8 @@
       <tuv lang="EN-US">
         <seg>Technical Assessment Body issuing the &lt;t0/&gt;European Technical Assessment:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094820Z">
-        <seg>發表歐洲技術評估的技術評估機構：</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101001Z">
+        <seg>頒佈歐洲技術評估的技術評估機構：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,6 +4492,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100428Z">
         <seg>本歐洲技術評估內容包含</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This E&lt;t0/&gt;uropean Technical Assessment is &lt;t1/&gt;issued in accordance with Regulation (EU)&lt;t2/&gt; No 305/2011, on the basis of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101057Z">
+        <seg>本歐洲技術評估乃根據 (歐盟) 法規&lt;t2/&gt; No 305/2011&lt;on the basis of</seg>
       </tuv>
     </tu>
     <tu>
