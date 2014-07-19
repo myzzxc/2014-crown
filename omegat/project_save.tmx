@@ -3288,6 +3288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reaction to fire</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112613Z">
+        <seg>火災反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the instruction manual carefully before using this device, especially the safety instructions, and keep the instruction manual for future use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083054Z">
@@ -3308,6 +3316,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040446Z">
         <seg>使用此裝置前仔細閱讀使用說明，特別是安全說明，並保留說明手冊供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rebar connections satisfy requirements for Class A1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112742Z">
+        <seg>鋼筋連接滿足等級 A1 的要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,6 +3380,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142823Z">
         <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistance to fire</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112804Z">
+        <seg>防火</seg>
       </tuv>
     </tu>
     <tu>
