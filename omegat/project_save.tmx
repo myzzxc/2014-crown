@@ -4416,6 +4416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The subject of this European Technical Assessment is the post-installed connection, by&lt;t0/&gt; &lt;t1/&gt;anchoring or overlap connection joint, of reinforcing bars (&lt;t2/&gt;rebars&lt;t3/&gt;) in existing structures made of&lt;t4/&gt; &lt;t5/&gt;normal weight concrete, using the "&lt;t6/&gt;Multifix&lt;t7/&gt; Injection System MF-EX1 for rebar connection" in&lt;t8/&gt; &lt;t9/&gt;accordance with the regulations for reinforced concrete construction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T105037Z">
+        <seg>本歐洲技術評估的主題為遵照鋼筋混凝土施工法規，使用 "連接鋼筋的 Multifix 注膠系統 MF-EX1"，經由錨固或重疊連接接頭，將鋼筋安裝後連接於現有的正常混凝土結構中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system is labeled fischer FIS EM 390 S</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z">
