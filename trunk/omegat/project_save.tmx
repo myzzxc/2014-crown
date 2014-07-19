@@ -1887,6 +1887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy economy and heat retention (BWR 6&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123455Z">
+        <seg>能源經濟性和保溫性 (BWR 6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Essential characteristic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
@@ -2226,8 +2234,8 @@
       <tuv lang="EN-US">
         <seg>Hygiene, health and the environment (BWR 3&lt;t0/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T113006Z">
-        <seg>衛生、健康和環境  (BWR 3&lt;t0/&gt;)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123355Z">
+        <seg>衛生、健康和環境  (BWR 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,6 +2904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123404Z">
+        <seg>不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z">
@@ -3256,6 +3272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protection against noise (BWR 5&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123403Z">
+        <seg>噪音防護 (BWR 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection category II</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084330Z">
@@ -3466,8 +3490,8 @@
       <tuv lang="EN-US">
         <seg>Safety in use (BWR 4&lt;t0/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T122919Z">
-        <seg>使用安全 (BWR 4&lt;t0/&gt;)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123359Z">
+        <seg>使用安全 (BWR 4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3836,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131530Z">
         <seg>後續由同一施工人員安裝之相同錨固類型及尺寸可於特別檢查人員不在場時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sustainable use of natural resources (BWR 7&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123537Z">
+        <seg>自然資源的持續使用 (BWR 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,6 +4276,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051810Z">
         <seg>尾端印上識別標記且嵌入端為鈍切或切開於斜角上 (鑿點)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The essential characteristics regarding Safety in use are included under the Basic Works&lt;t0/&gt; &lt;t1/&gt;Requirement Mechanical resistance and stability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123338Z">
+        <seg>關於使用安全的重要特性屬於基本工程要求之機械阻力和穩定性。</seg>
       </tuv>
     </tu>
     <tu>
