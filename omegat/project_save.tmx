@@ -2640,6 +2640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mechanical resistance and stability (BWR 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
+        <seg>機械阻力和穩定性 (BWR 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045611Z">
