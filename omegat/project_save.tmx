@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>62-65), the system of assessment and verification of constancy of performance (see Annex V&lt;t2/&gt; &lt;t3/&gt;and Article 65 Paragraph 2 to Regulation (EU) No 305/2011) given in the following table applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144240Z">
+        <seg>62-65)，採用下表的適用性能穩定性評估與審核 (請參閱附件 V 和 (歐盟) 法規第 2 段 65 條 No 305/2011)。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6&lt;t0/&gt; &lt;t1/&gt;Disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073006Z">
@@ -1161,8 +1169,8 @@
       <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T143809Z">
-        <seg>適用性能穩定性評估與審核 (AVCP) 系統，並參照其法律基礎</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144221Z">
+        <seg>採用適用性能穩定性評估與審核 (AVCP) 系統，並參照其法律基礎</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intended use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144247Z">
+        <seg>用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction of Tensile and Shear Forces: &lt;t0/&gt;For designs that include combined tension and shear, the interaction of tension and shear must be calculated in accordance with ACI 318 D.7</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081229Z">
@@ -2628,6 +2644,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043718Z">
         <seg>並通過 ICC-ES 的品質控制計畫檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level or class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144300Z">
+        <seg>程度或等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144243Z">
+        <seg>產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product family &lt;t0/&gt;to which t&lt;t1/&gt;he construction product belongs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095152Z">
@@ -3892,6 +3924,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
         <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144304Z">
+        <seg>系統</seg>
       </tuv>
     </tu>
     <tu>
