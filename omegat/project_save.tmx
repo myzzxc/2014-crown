@@ -2160,6 +2160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General aspects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123712Z">
+        <seg>一般方面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135041Z">
@@ -3842,8 +3850,8 @@
       <tuv lang="EN-US">
         <seg>Sustainable use of natural resources (BWR 7&lt;t0/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123537Z">
-        <seg>自然資源的持續使用 (BWR 7)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123605Z">
+        <seg>自然資源的永續使用 (BWR 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,6 +4632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sustainable use of natural resources was not investigated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123631Z">
+        <seg>未研究自然資源的永續使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The system is labeled fischer FIS EM 390 S</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z">
@@ -4700,6 +4716,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T111026Z">
         <seg>本歐洲技術評估的審核與評估方法，假設鋼筋連接至少有 50 年的工作壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; verification of durability is part of testing the essential characteristics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123818Z">
+        <seg>耐久性審核為重要特性測試的一部分。</seg>
       </tuv>
     </tu>
     <tu>
