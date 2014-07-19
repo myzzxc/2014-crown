@@ -3056,6 +3056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Post-&lt;t0/&gt;installed rebar connection with &lt;t1/&gt;Multifix&lt;t2/&gt; injection System MF-EX1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095526Z">
+        <seg>用於安裝後鋼筋連接的 &lt;t1/&gt;Multifix&lt;t2/&gt; 注膠系統 MF-EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power supply: 220 - 240 V~ 50 Hz</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114314Z">
