@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to Decision of the Commission of 24 June 1996 (96/582/EC) (OJ L 254 of 08.10.96&lt;t0/&gt; &lt;t1/&gt;p.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T143909Z">
+        <seg>根據委員會在 1996 年 6 月 24 日的決定 (96/582/EC)  (OJ L 254 的 08.10.96 p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information for the determination of nominal bond strength in tension is given in Section 4.1.4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072444Z">
@@ -1153,8 +1161,8 @@
       <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T142727Z">
-        <seg>性能穩定性評估與審核 (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T143809Z">
+        <seg>適用性能穩定性評估與審核 (AVCP) 系統，並參照其法律基礎</seg>
       </tuv>
     </tu>
     <tu>
