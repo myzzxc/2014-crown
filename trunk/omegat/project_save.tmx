@@ -4480,6 +4480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thi&lt;t0/&gt;s European Technical Assessment contains</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100428Z">
+        <seg>本歐洲技術評估內容包含</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Section specifies the requirements for supply, installation, connection and testing of motors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
