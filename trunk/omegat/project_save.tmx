@@ -1143,6 +1143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z" creationid="CCYU" creationdate="20140720T072016Z">
+        <seg>附件 C 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -3780,6 +3788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081403Z">
         <seg>剪力下靜態翹破強度：&lt;t0/&gt;單一黏合錨固或整組黏合錨固在張力下的標稱靜態翹破強度，&lt;t1/&gt;V&lt;t2/&gt;cp&lt;t3/&gt; or &lt;t4/&gt;V&lt;t5/&gt;cpg&lt;t6/&gt;，&lt;t7/&gt;必須依照 ACI 318 D.6.3 計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Mixer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T071915Z" creationid="CCYU" creationdate="20140720T071915Z">
+        <seg>靜態混合器</seg>
       </tuv>
     </tu>
     <tu>
