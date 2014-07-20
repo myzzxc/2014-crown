@@ -3010,8 +3010,8 @@
       <tuv lang="EN-US">
         <seg>Multifix&lt;t0/&gt; Injection &lt;t1/&gt;system MF-EX1 for rebar&lt;t2/&gt; connection</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233642Z">
-        <seg>用於連接鋼筋的 Multifix 注膠系統 MF-EX1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234017Z">
+        <seg>Multifix 注膠系統 MF-EX1 鋼筋連接型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,8 +3338,8 @@
       <tuv lang="EN-US">
         <seg>Page &lt;t0/&gt;4&lt;t1/&gt; of 27 | 4 July 2014</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145051Z">
-        <seg>頁碼 &lt;t0/&gt;4&lt;t1/&gt;  | 2014 年 7 月 4 日</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233932Z">
+        <seg>頁碼 27 之 &lt;t0/&gt;4&lt;t1/&gt;  | 2014 年 7 月 4 日</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,8 +3482,8 @@
       <tuv lang="EN-US">
         <seg>Post-installed rebar connection with &lt;t0/&gt;Multifix&lt;t1/&gt; injection System MF-EX1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T142958Z">
-        <seg>後安裝與鋼筋連接 &lt;t0/&gt; Multifix &lt;t1/&gt; 注射系統 MF EX1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233834Z">
+        <seg>&lt;t0/&gt; Multifix &lt;t1/&gt; 注射系統 MF EX1 後安裝與鋼筋連接型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,6 +3524,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034943Z">
         <seg>安裝前，必須將符合本報告之計算和詳細資訊提交給有關當局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produ&lt;t0/&gt;ct description Installed condition and examples of use fo&lt;t1/&gt;r &lt;t2/&gt;rebars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234052Z">
+        <seg>產品說明
+安裝條件和鋼筋使用範例</seg>
       </tuv>
     </tu>
     <tu>
