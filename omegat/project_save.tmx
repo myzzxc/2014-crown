@@ -3008,6 +3008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multifix&lt;t0/&gt; Injection &lt;t1/&gt;system MF-EX1 for rebar&lt;t2/&gt; connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233642Z">
+        <seg>用於連接鋼筋的 Multifix 注膠系統 MF-EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multifix&lt;t0/&gt; Injection system MF-EX1 for concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070306Z">
@@ -3026,8 +3034,8 @@
       <tuv lang="EN-US">
         <seg>Multifix&lt;t0/&gt; injection system MF-EX1 for rebar connection</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095105Z">
-        <seg>連接鋼筋的 Multifix&lt;t0/&gt; 注膠系統 MF-EX1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233749Z">
+        <seg>Multifix&lt;t0/&gt; 注膠系統 MF-EX1 鋼筋連接型</seg>
       </tuv>
     </tu>
     <tu>
