@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -200,7 +200,7 @@
       <tuv lang="EN-US">
         <seg>27 pages including 3 annexes which form an integral part of this assessment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070418Z" creationid="CCYU" creationdate="20140720T070418Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070418Z">
         <seg>3 章附件共 27 頁</seg>
       </tuv>
     </tu>
@@ -1145,7 +1145,7 @@
       <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z" creationid="CCYU" creationdate="20140720T072016Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
         <seg>附件 C 1</seg>
       </tuv>
     </tu>
@@ -2562,7 +2562,7 @@
       <tuv lang="EN-US">
         <seg>Injection &lt;t0/&gt;mortar: &lt;t1/&gt;Multifix&lt;t2/&gt; MF-EX1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070820Z" creationid="CCYU" creationdate="20140720T070820Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070820Z">
         <seg>注射砂漿：Multifix MF EX1</seg>
       </tuv>
     </tu>
@@ -2570,7 +2570,7 @@
       <tuv lang="EN-US">
         <seg>Injection mortar: &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T134935Z" creationid="CCYU" creationdate="20140720T134935Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T134935Z">
         <seg>注射砂漿：Multifix MF EX1</seg>
       </tuv>
     </tu>
@@ -2898,7 +2898,7 @@
       <tuv lang="EN-US">
         <seg>Multifix&lt;t0/&gt; Injection system MF-EX1 for concrete</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070306Z" creationid="CCYU" creationdate="20140720T070306Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070306Z">
         <seg>連接鋼筋之 Multifix&lt;t0/&gt; 注膠系統 MF-EX1</seg>
       </tuv>
     </tu>
@@ -2906,7 +2906,7 @@
       <tuv lang="EN-US">
         <seg>Multifix&lt;t0/&gt; Injection system MF-EX1:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070501Z" creationid="CCYU" creationdate="20140720T070501Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070501Z">
         <seg>Multifix 注膠系統 MF-EX1：</seg>
       </tuv>
     </tu>
@@ -3410,7 +3410,7 @@
       <tuv lang="EN-US">
         <seg>Product family to which the construction product belongs</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070328Z" creationid="CCYU" creationdate="20140720T070328Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070328Z">
         <seg>建築產品所屬之產品系列</seg>
       </tuv>
     </tu>
@@ -3802,7 +3802,7 @@
       <tuv lang="EN-US">
         <seg>Static Mixer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T071915Z" creationid="CCYU" creationdate="20140720T071915Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T071915Z">
         <seg>靜態混合器</seg>
       </tuv>
     </tu>
@@ -4162,7 +4162,7 @@
       <tuv lang="EN-US">
         <seg>Technical Assessment Body issuing the European Technical Assessment:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070312Z" creationid="CCYU" creationdate="20140720T070151Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070312Z">
         <seg>頒佈歐洲技術評估之技術評估機構：</seg>
       </tuv>
     </tu>
@@ -5130,7 +5130,7 @@
       <tuv lang="EN-US">
         <seg>Type "side-by-side":</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z" creationid="CCYU" creationdate="20140720T070917Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
         <seg>"雙槽"式：</seg>
       </tuv>
     </tu>
