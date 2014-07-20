@@ -1175,6 +1175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any partial reproduction has to be identified as such.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143058Z">
+        <seg>任何部分轉載均需如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix C are used, the appropriate value of &lt;t0/&gt; &lt;t1/&gt;must be determined in accordance with ACI 318 D4.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
@@ -1249,8 +1257,8 @@
       <tuv lang="EN-US">
         <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II &lt;t0/&gt;SINGAPORE 738960</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100010Z">
-        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II &lt;t0/&gt;新加坡 738960</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143012Z">
+        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II 新加坡 738960</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1354,14 @@
         <seg>Communication of this European Technical Assessment, including tr&lt;t0/&gt;ansmission by electronic means, &lt;t1/&gt;shall be in full.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102813Z">
+        <seg>應完整傳遞本歐洲技術規格，包括使用電子傳送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Communication of this European Technical Assessment, including transmission by electronic means, shall be in full.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143056Z">
         <seg>應完整傳遞本歐洲技術規格，包括使用電子傳送。</seg>
       </tuv>
     </tu>
@@ -1863,6 +1879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ETA-14/0202 of 26 June 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T142946Z">
+        <seg>ETA-14/0202 的 2014 年 6 月 26 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ETA-14/0202&lt;t0/&gt; &lt;t1/&gt;of 26 June 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094318Z">
@@ -1955,6 +1979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
         <seg>重要特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>European Technical Assessment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T142942Z">
+        <seg>歐洲的技術評估</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guideline for European technical approval of "Metal anchors for use in concrete", ETAG 001 Part 5: "Bonded anchors", April 2013, used as European Assessment Document (EAD) according to Article 66 Paragraph 3 of Regulation (EU) No 305/2011.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143046Z">
+        <seg>"用於混凝土的金屬錨固" 歐洲技術認證 準則，ETAG 001 第 5 部分："黏結錨固"，2013 年 4 月，根據 (歐盟) 法規 No 305/2011 第 3 段 66 條作為歐洲評估文件 (EAD)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gymnastics, sport, a balanced&lt;t0/&gt; &lt;t1/&gt;diet and massages&lt;t2/&gt; &lt;t3/&gt;to encourage better&lt;t4/&gt; &lt;t5/&gt;circulation do,&lt;t6/&gt; &lt;t7/&gt;however,&lt;t8/&gt; &lt;t9/&gt;make&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;fat deposits&lt;t14/&gt; &lt;t15/&gt;melt away.&lt;t16/&gt; &lt;t17/&gt;They stimulate&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;metabolism, boost&lt;t22/&gt; &lt;t23/&gt;the lymphatic circulation and have a positive effect on the connective&lt;t24/&gt; &lt;t25/&gt;tissue.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063900Z">
@@ -2292,6 +2332,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135213Z">
         <seg>孔洞清潔設備：&lt;t0/&gt; 孔洞清潔設備包含鋼刷和空氣噴嘴，必須按照此報告圖 4 使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, partial reproduction may only be made with the written consent of the issuing Technical Assessment Body.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143057Z">
+        <seg>然而，僅允許經由技術評估機構發佈書面聲明的部分轉載。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2672,14 +2720,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Issued in Berlin on 26 June 2014 by &lt;t0/&gt;Deutsches&lt;t1/&gt; &lt;t2/&gt;Institut&lt;t3/&gt; &lt;t4/&gt;für&lt;t5/&gt; &lt;t6/&gt;Bautechnik</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T151619Z">
-        <seg>Deutsches Institut für Bautechnik 於 2014 年 6 月 26 日柏林發行</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>It contains important information about starting up and operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081700Z">
@@ -2898,16 +2938,16 @@
       <tuv lang="EN-US">
         <seg>Multi-Fix Fasteners &lt;t0/&gt;Pte&lt;t1/&gt; Ltd</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095934Z">
-        <seg>Multi-Fix Fasteners &lt;t0/&gt;私人股份有限公司</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143005Z">
+        <seg>Multi-Fix Fasteners 私人股份有限公司</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multi-Fix Fasteners &lt;t0/&gt;Pte&lt;t1/&gt; Ltd Plant 2</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100121Z">
-        <seg>Multi-Fix Fasteners &lt;t0/&gt;私人股份有限公司 2 廠</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143018Z">
+        <seg>Multi-Fix Fasteners 私人股份有限公司 2 廠</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,6 +3404,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095526Z">
         <seg>用於安裝後鋼筋連接的 &lt;t1/&gt;Multifix&lt;t2/&gt; 注膠系統 MF-EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Post-installed rebar connection with &lt;t0/&gt;Multifix&lt;t1/&gt; injection System MF-EX1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T142958Z">
+        <seg>後安裝與鋼筋連接 &lt;t0/&gt; Multifix &lt;t1/&gt; 注射系統 MF EX1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,6 +4248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical details necessary for the implementation of the AVCP system, as provided for in the applicable European Assessment &lt;t0/&gt;Document</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143115Z">
+        <seg>由適用歐洲評估文件提供實行 AVCP 系統的必要技術細節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical details necessary for the implementation of the AVCP system, as provided for&lt;t0/&gt; &lt;t1/&gt;in the applicable European Assessment &lt;t2/&gt;Document</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T151735Z">
@@ -4268,6 +4324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The European Technical Assessment is issued by the Technical Assessment Body in its official language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143042Z">
+        <seg>本歐洲技術評估乃根據技術評估機構的官方語言頒佈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5008,6 +5072,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This European Technical Assessment is issued in accordance with Regulation (EU) No 305/2011, on the basis of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143050Z">
+        <seg>本歐洲技術評估乃遵照 (歐盟) 法規 No 305/2011 所頒佈，並依據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This European Technical Assessment may be withdrawn by the issuing Technical Assessment Body, in particular pursuant to information by the Commission according to Article 25 Paragraph 3 of Regulation (EU) No 305/2011.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143059Z">
+        <seg>技術評估機構可由委員會特別根據 (歐盟) 法規 No 305/2011 第 3 段 25 條之資訊，撤回本歐洲技術評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This European Technical Assessment may be withdrawn by the issuing Technical&lt;t0/&gt; Assessment Body, in &lt;t1/&gt;particular pursuant to information by the Commission according to Artic&lt;t2/&gt;le 25 Paragraph 3 of Regulation &lt;t3/&gt;(EU) No 305/2011.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T104247Z">
@@ -5140,6 +5220,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070317Z">
         <seg>建設產品之商標名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translations of this European Technical Assessment in other languages shall fully correspond to the original issued document and shall be identified as such.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143053Z">
+        <seg>本歐洲技術評估若翻譯為其他語言，則應與原始頒布文件完全一致，並且應被視為原始頒佈文件。</seg>
       </tuv>
     </tu>
     <tu>
