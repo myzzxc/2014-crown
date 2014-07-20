@@ -3184,6 +3184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note to Figure A1 to A5&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234146Z">
+        <seg>圖 A1 至 A5 註解：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
