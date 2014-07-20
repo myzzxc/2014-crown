@@ -4096,6 +4096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical Assessment Body issuing the European Technical Assessment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070151Z" creationid="CCYU" creationdate="20140720T070151Z">
+        <seg>頒佈歐洲技術評估的技術評估機構：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical description of the product</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T104252Z">
