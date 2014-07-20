@@ -5104,6 +5104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type "side-by-side":</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z" creationid="CCYU" creationdate="20140720T070917Z">
+        <seg>"雙槽"式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>USES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133216Z">
