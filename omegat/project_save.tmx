@@ -2456,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Imprint: processing hazard-code, (depending without &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1, notes, charge-code, shelf life, curing- and processing time on the temperature), with as well travel scale</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T141016Z">
+        <seg>刻印； processing hazard-code, (depending without &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1, notes, charge-code, shelf life, curing- and processing time on the temperature), with as well travel scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
