@@ -1239,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex B 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044416Z">
+        <seg>附件 B3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
@@ -1427,6 +1435,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095913Z">
         <seg>高碳鋼螺紋柱皆按照 ASTM B633 SC 1 標準鍍上 0.0002 英寸厚 (0.005 毫米) 鋅電鍍層，或必須按照 ASTM A153 C 類或 D 類進行熱浸鍍，螺紋鋼柱必須為鉛直且沿其長度無凹痕或其他缺陷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cartridge type/size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044529Z">
+        <seg>卡匣類型/大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -3193,6 +3209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum embedment depth / working time and curing times</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044410Z">
+        <seg>最大埋設深度/工作時間和固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical resistance and stability (BWR 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
@@ -4750,6 +4774,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T043631Z">
         <seg>表 B3：基材溫度、凝膠時間和固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B4: Dispensing tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044434Z">
+        <seg>表 B4：點膠工具</seg>
       </tuv>
     </tu>
     <tu>
