@@ -2272,6 +2272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E) Inserting the rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082946Z">
+        <seg>E) 插入鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E-Mail:&lt;t0/&gt; &lt;t1/&gt;info@medisana.de</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075602Z">
@@ -4370,6 +4378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Push the reinforcing bar into the anchor hole while turning slightly to ensure positive distribution of the adhesive until the embedment depth is reached.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083210Z">
+        <seg>將鋼筋推入錨孔，同時稍微轉動直到達到埋設深度，以確保黏著劑均勻分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Push the switch to position &lt;/f4&gt;&lt;f5&gt;1 &lt;/f5&gt;&lt;f6&gt;or &lt;/f6&gt;&lt;f7&gt;2 &lt;/f7&gt;&lt;f8&gt;if you want to use it in continuous operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111911Z">
@@ -5502,6 +5518,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z">
         <seg>此裝置設有防過度加熱裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bar should be free of dirt, grease, oil or other foreign material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083239Z">
+        <seg>鋼筋不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
       </tuv>
     </tu>
     <tu>
