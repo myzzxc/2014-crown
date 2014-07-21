@@ -3225,6 +3225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum curing time in dry concrete2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044154Z">
+        <seg>乾混凝土的最小固化時間2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum member thinckness</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015557Z">
@@ -6358,6 +6366,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021155Z">
         <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to: maximum time from start ng of mortar injection to completing of rebar setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044231Z">
+        <seg>tgel：開始注入砂漿到完成鋼筋設置的最大時間。</seg>
       </tuv>
     </tu>
     <tu>
