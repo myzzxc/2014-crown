@@ -6041,6 +6041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c1 	concrete cover at end-face of existing rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040604Z">
+        <seg>c1 	現存鋼筋端面的混凝土保護層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>edge distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015544Z">
@@ -6145,6 +6153,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>l0 	lap length, according to EN 1992-1-1:2004+AC:2010, Section 8.7.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040825Z">
+        <seg>l0 	遵照 EN 1992-1-1:2004+AC:2010 章節 8.7.3 的搭接長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>min c 	minimum concrete cover according to Table B1 and to EN 1992-1-1:2004+AC:2010, Section 4.4.1.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040844Z">
+        <seg>min c 	最小混凝土保護層，根據表 B1 和 EN 1992-1-1:2004+AC:2010 章節 4.4.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012902Z">
@@ -6213,6 +6237,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094402Z">
         <seg>τ&lt;t0/&gt;uncr&lt;t1/&gt; = 本報告表中所述的特稱黏合強度，&lt;t2/&gt;τ&lt;t3/&gt;uncr &lt;t4/&gt;不可超過：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ϕ &lt;t0/&gt;	&lt;t1/&gt;diameter of post-installed rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040745Z">
+        <seg>ϕ 	安裝後鋼筋的直徑</seg>
       </tuv>
     </tu>
     <tu>
