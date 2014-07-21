@@ -3480,6 +3480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only tension forces in the axis of the rebar may be transmitted</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T034904Z">
+        <seg>僅傳遞鋼筋的軸向張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only use the foot warmer again once it and the cover are completely dry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151412Z">
@@ -5349,6 +5357,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110806Z">
         <seg>軌道指定厚度為 33 至 68 毫吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transfer of shear forces between new concrete and existing structure shall be designed additionally according to EN 1992-1-1:2004+AC:2010.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T035113Z">
+        <seg>新混凝土和現存結構中的剪力轉移，應另外根據 EN 1992-1-1:2004+AC:2010 設計。</seg>
       </tuv>
     </tu>
     <tu>
