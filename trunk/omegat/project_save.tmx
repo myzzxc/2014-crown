@@ -2672,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For overhead installation fix embedded part (e.g. wedges).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083841Z">
+        <seg>架空安裝固定埋設部分 (例如楔型體)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For overhead installations (limited to size s M24) use wedges to support the anchor (cartridge temperature s 77°F (25°C)).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023007Z">
@@ -3051,8 +3059,8 @@
       <tuv lang="EN-US">
         <seg>If these requirements are not maintained, the application has to be renewed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083616Z">
-        <seg>若無法達到上述要求，則必須重新使用。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083656Z">
+        <seg>若無法達到上述要求，則必須更新該應用。</seg>
       </tuv>
     </tu>
     <tu>
