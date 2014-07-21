@@ -6545,6 +6545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Static and quasi-static loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021515Z">
+        <seg>• 靜態和準靜態負載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Store the device in a dry, cool place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113947Z">
