@@ -1391,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attach the supplied static-mixing nozzle to the cartridge and load the cartridge into the correct dispensing tool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064522Z">
+        <seg>將靜態混合噴嘴裝至卡匣，並將卡匣置入適當的點膠工具中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -2548,6 +2556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021910Z">
         <seg>鑽孔直徑 &gt;= 40 mm 需使用 fischer 注膠轉接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For every working interruption longer than the recommended working time (Table B3) as well as for every new cartridges, a new static-mixer shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064702Z">
+        <seg>若工作間斷時間超過建議工作時間 (表 B3)，則應使用全新83</seg>
       </tuv>
     </tu>
     <tu>
