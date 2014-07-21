@@ -406,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.6 and Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085532Z">
+        <seg> 8.6 和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.7 and (l0,min) acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085558Z">
+        <seg>8.7，l0,min 則根據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8&lt;t0/&gt; &lt;t1/&gt;Warranty and repair terms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073816Z">
@@ -1355,6 +1371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082930Z">
         <seg>附件 B7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex B 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085332Z">
+        <seg>附件 B8</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,6 +3401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation instruction: Inserting rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085328Z">
+        <seg>安裝說明：插入鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation must be in accordance with ACI 318-11 &lt;t0/&gt;D.9.1 and D.9.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150752Z">
@@ -3653,6 +3685,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093025Z">
         <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值需遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum anchorage length and minimum lap length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085343Z">
+        <seg>最小錨固長度和最小搭接長度</seg>
       </tuv>
     </tu>
     <tu>
@@ -5914,6 +5954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum anchorage length (&lt;t0/&gt;lb,min&lt;t1/&gt;) and the minimum lap length (l0,min) according to EN 1992-1-1:2004+AC:2010 , (&lt;t2/&gt;lb,min&lt;t3/&gt;) acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085515Z">
+        <seg>最小錨固長度 (&lt;t0/&gt;lb,min&lt;t1/&gt;) 和最小搭接長度 (l0,min) 遵照 EN 1992-1-1:2004+AC:2010 , &lt;t2/&gt;lb,min&lt;t3/&gt; 根據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum coating weights for zinc-coated steel must comply with ASTM A153.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042703Z">
@@ -7054,6 +7102,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021155Z">
         <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085522Z">
+        <seg>方程式</seg>
       </tuv>
     </tu>
     <tu>
