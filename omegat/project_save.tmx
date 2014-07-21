@@ -2576,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For embedment larger than 190 mm an extension nozzle shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073258Z">
+        <seg>若埋設深度超過 190 mm，則應使用延伸噴嘴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every working interruption longer than the recommended working time (Table B3) as well as for every new cartridges, a new static-mixer shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064807Z">
@@ -4610,6 +4618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slowly withdraw the static mixing nozzle as the hole fills to avoid creating air pockets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073216Z">
+        <seg>慢慢地以靜態混合噴嘴填入，以避免產生氣孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small marks can be removed with a cloth or a slightly damp sponge, using a mild liquid cleaner.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150930Z">
@@ -4678,6 +4694,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T020643Z">
         <seg>清潔鑽鑿孔洞前必須使用氣槍完全吹除孔洞內之水氣，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting from the bottom or back of the cleaned anchor hole fill the hole up to approximately two-thirds with adhesive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073111Z">
+        <seg>由已清潔錨孔的底部或後方開始，填入黏著劑約 2 至 3 次。</seg>
       </tuv>
     </tu>
     <tu>
