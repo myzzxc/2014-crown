@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 bar) or a hand pump a minimum of two times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T060930Z">
+        <seg>(最小 6 bar) or a hand pump a minimum of two times.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>62-65), the system of assessment and verification of constancy of performance (see Annex V&lt;t2/&gt; &lt;t3/&gt;and Article 65 Paragraph 2 to Regulation (EU) No 305/2011) given in the following table applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144240Z">
@@ -1433,8 +1441,8 @@
       <tuv lang="EN-US">
         <seg>Bore hole cleaning &lt;t0/&gt;Starting from the bottom or back of the bore hole, blow the hole clean with compressed air (min.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T060734Z">
-        <seg>鑽孔清潔 &lt;t0/&gt;Starting from the bottom or back of the bore hole, blow the hole clean with compressed air (min.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T060935Z">
+        <seg>鑽孔清潔 &lt;t0/&gt;由鑽孔的底部或後方開始，使用壓縮空氣</seg>
       </tuv>
     </tu>
     <tu>
