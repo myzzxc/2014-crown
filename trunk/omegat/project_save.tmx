@@ -1511,6 +1511,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concrete temperature Gelling- / working time1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T043814Z">
+        <seg>混凝土溫度
+凝膠時間/工作時間1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concrete:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071349Z">
@@ -4709,6 +4718,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042241Z">
         <seg>表 B2：最大埋設深度 &lt;t0/&gt;lv,max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B3: Base material temperature, gelling time and curing time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T043631Z">
+        <seg>表 B3：基材溫度、凝膠時間和固化時間</seg>
       </tuv>
     </tu>
     <tu>
