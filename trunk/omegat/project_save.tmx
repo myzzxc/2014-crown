@@ -2921,6 +2921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In wet concrete the curing time &lt;t0/&gt;tcure,dry&lt;t1/&gt; has to be doubled up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044336Z">
+        <seg>濕混凝土的固化時間 &lt;t0/&gt;tcure,dry&lt;t1/&gt; 則須加倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection &lt;t0/&gt;mortar: &lt;t1/&gt;Multifix&lt;t2/&gt; MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070820Z">
@@ -3221,6 +3229,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093025Z">
         <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值需遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum concrete cover</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044351Z">
+        <seg>最小混凝土保護層</seg>
       </tuv>
     </tu>
     <tu>
