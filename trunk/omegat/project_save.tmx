@@ -1063,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All cartridges could also be extruded by a battery tool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053908Z">
+        <seg>所有卡匣均可使用電池工具擠出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All users are obliged to hand in all electrical or electronic devices, regardless of whether or not they contain toxic substances, at a municipal or commercial collection point so that they can be disposed of in an environmentally acceptable manner.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113519Z">
@@ -1836,6 +1844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135518Z">
         <seg>點膠器：&lt;t0/&gt; fischer FIS EM 黏著劑需使用fischerwerke所提供之手動點膠器、無線電動點膠器或氣動點膠器進行點膠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dispensing tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053917Z">
+        <seg>點膠工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,6 +3045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150429Z">
         <seg>安裝方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intended Use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053914Z">
+        <seg>用途</seg>
       </tuv>
     </tu>
     <tu>
