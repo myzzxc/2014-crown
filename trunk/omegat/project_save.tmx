@@ -6284,8 +6284,8 @@
       <tuv lang="EN-US">
         <seg>e.g. SA 2960585 IIMP</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053229Z">
-        <seg>例如 SA 2960585 IIMP</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053454Z">
+        <seg>例如：SA 2960585 IIMP</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,6 +6310,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053350Z">
         <seg>例如：型號 TS 444 KX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. Type TS 471</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053514Z">
+        <seg>例如：型號 TS 471</seg>
       </tuv>
     </tu>
     <tu>
