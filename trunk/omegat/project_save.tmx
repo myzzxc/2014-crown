@@ -1607,6 +1607,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cartridge: side-by-side (385, 444, 585 999, 1400 ml)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074036Z">
+        <seg>卡匣：雙槽 (385、444、585、999、1400 ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cartridge: side-by-side (999, 1400 ml)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074044Z">
+        <seg>卡匣：雙槽 (999、1400 ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bond</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021239Z">
@@ -2793,6 +2809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand or battery tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074102Z">
+        <seg>手動或電動工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hand pump (volume 750 ml)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063526Z">
@@ -2803,8 +2827,8 @@
       <tuv lang="EN-US">
         <seg>Hand tool</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053118Z">
-        <seg>手工具</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074126Z">
+        <seg>手動工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -3581,6 +3605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102711Z">
         <seg>最小指定降伏強度 0.2% 偏移量 (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mixer extension</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074229Z">
+        <seg>混合器延伸器</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +6838,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040934Z">
         <seg>l0 	搭接長度，根據 EN 1992-1-1:2004+AC:2010 章節 8.7.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>level mark</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074248Z">
+        <seg>深度標記</seg>
       </tuv>
     </tu>
     <tu>
