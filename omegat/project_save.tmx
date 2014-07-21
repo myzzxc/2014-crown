@@ -3241,6 +3241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Injection tool must be marked by mortar level mark 1m and anchorage depth 4 resp. &lt;t0/&gt;le,ges&lt;t1/&gt; with tape or marker.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082547Z">
+        <seg>注膠工具必須使用膠帶或奇異筆標記砂漿高度 lm 和錨固深度 lv、le,ges。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z">
@@ -6844,8 +6852,8 @@
       <tuv lang="EN-US">
         <seg>level mark</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074248Z">
-        <seg>深度標記</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082552Z">
+        <seg>高度標記</seg>
       </tuv>
     </tu>
     <tu>
