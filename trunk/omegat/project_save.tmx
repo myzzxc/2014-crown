@@ -406,10 +406,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.11) shall be multiply  by a factor according to Table C1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085742Z">
+        <seg>8.11 而定)，應根據表 C1 與因數相乘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8.6 and Eq.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085532Z">
-        <seg> 8.6 和</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085640Z">
+        <seg> 8.6 和 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1623,6 +1631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C12/15 to C50/60</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085913Z">
+        <seg>C12/15 至 C50/60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&lt;t0/&gt;) Preparation of bar and cartridge</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064024Z">
@@ -1763,6 +1779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045636Z">
         <seg>混凝土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concrete class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085844Z">
+        <seg>混凝土等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,6 +2592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
+        <seg>因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
@@ -2901,6 +2933,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041853Z">
         <seg>錘鑽鑽孔 (HD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hammer drilling and compressed air drilling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085943Z">
+        <seg>錘鑽鑽孔和氣動鑽鑽孔</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C1: Factor related to concrete class and drilling method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085836Z">
+        <seg>表 C1：與混凝土等級和鑽孔方式相關之因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table IV Processing and curing times Temper ture range Working time/ processing M Curing Me rime +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z">
@@ -5956,8 +6004,8 @@
       <tuv lang="EN-US">
         <seg>The minimum anchorage length (&lt;t0/&gt;lb,min&lt;t1/&gt;) and the minimum lap length (l0,min) according to EN 1992-1-1:2004+AC:2010 , (&lt;t2/&gt;lb,min&lt;t3/&gt;) acc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085515Z">
-        <seg>最小錨固長度 (&lt;t0/&gt;lb,min&lt;t1/&gt;) 和最小搭接長度 (l0,min) 遵照 EN 1992-1-1:2004+AC:2010 , &lt;t2/&gt;lb,min&lt;t3/&gt; 根據</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085633Z">
+        <seg>最小錨固長度 (&lt;t0/&gt;lb,min&lt;t1/&gt;) 和最小搭接長度 (l0,min) 遵照 EN 1992-1-1:2004+AC:2010 (&lt;t2/&gt;lb,min&lt;t3/&gt; 根據</seg>
       </tuv>
     </tu>
     <tu>
