@@ -366,10 +366,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 bar) must be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061256Z">
+        <seg>則必須使用壓縮空氣 (最小 6 bar)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 bar) or a hand pump a minimum of two times.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T060930Z">
-        <seg>(最小 6 bar) or a hand pump a minimum of two times.</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061108Z">
+        <seg>(最小 6 bar) 或手搖泵清潔鑽孔至少兩次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095826Z">
         <seg>&lt;t1/&gt;2&lt;t2/&gt;碳鋼和合金鋼製緊固件的機械特性 – 第 1 部分：螺栓、螺釘和螺柱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;For bore holes deeper then 240 mm, compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061224Z">
+        <seg>若鑽孔深達 240 mm，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2773,6 +2789,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z">
         <seg>若有需要則進行更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the bore hole ground is not reached an extension shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061151Z">
+        <seg>若無法觸及鑽孔底部，則應使用延伸器。</seg>
       </tuv>
     </tu>
     <tu>
