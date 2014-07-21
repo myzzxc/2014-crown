@@ -5290,6 +5290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The anchor should be free of dirt, grease, oil or other foreign material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T070639Z">
+        <seg>錨固孔不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The anchor system is an alternative to cast-in-place anchors described in Sections 1911 and 1912 of the 2009 and 2006 IBC, and Sections 1912 and 1913 of the 2003 IBC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T134825Z">
