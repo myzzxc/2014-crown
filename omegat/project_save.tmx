@@ -3857,6 +3857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pneumatic tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053138Z">
+        <seg>氣動工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Post-&lt;t0/&gt;installed rebar connection with &lt;t1/&gt;Multifix&lt;t2/&gt; injection System MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095526Z">
@@ -4294,6 +4302,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040647Z">
         <seg>若將此裝置轉送他人，需連同此說明手冊一併附上以供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by-side cartridge 1400 ml</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053440Z">
+        <seg>雙槽卡匣 999 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by-side cartridge 999 ml</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053359Z">
+        <seg>雙槽卡匣 999 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Side-by-side cartridges 385, 444, 585 ml</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053221Z">
+        <seg>雙槽卡匣 385、444、585 ml</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,6 +6278,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041119Z">
         <seg>d0 	鑽頭標稱直徑，請參閱附件 B6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. SA 2960585 IIMP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053229Z">
+        <seg>例如 SA 2960585 IIMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. Type H 244 C 11.1111)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053342Z">
+        <seg>例如：型號 H 244 C 11.1111)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. Type TS 4104</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053411Z">
+        <seg>例如：型號 TS 4104</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>e.g. Type TS 444 KX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053350Z">
+        <seg>例如：型號 TS 444 KX</seg>
       </tuv>
     </tu>
     <tu>
