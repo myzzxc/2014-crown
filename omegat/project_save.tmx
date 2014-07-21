@@ -1225,8 +1225,16 @@
       <tuv lang="EN-US">
         <seg>Annex B 1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033735Z">
-        <seg>附件 B 1</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041154Z">
+        <seg>附件 B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex B 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041148Z">
+        <seg>附件 B2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General construction rules for post-installed &lt;t0/&gt;rebars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041140Z">
+        <seg>安裝後鋼筋的一般施工規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135041Z">
@@ -3036,6 +3052,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
         <seg>批號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lv&lt;t0/&gt;	effective embedment depth, ≥ l0+ ci</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040955Z">
+        <seg>Lv&lt;t0/&gt;	有效鰻設深度， ≥ l0+ ci</seg>
       </tuv>
     </tu>
     <tu>
@@ -6049,6 +6073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>d0 	nominal drill bit diameter, see Annex B 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041119Z">
+        <seg>d0 	鑽頭標稱直徑，請參閱附件 B6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>edge distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015544Z">
@@ -6155,8 +6187,8 @@
       <tuv lang="EN-US">
         <seg>l0 	lap length, according to EN 1992-1-1:2004+AC:2010, Section 8.7.3</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040825Z">
-        <seg>l0 	遵照 EN 1992-1-1:2004+AC:2010 章節 8.7.3 的搭接長度</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040934Z">
+        <seg>l0 	搭接長度，根據 EN 1992-1-1:2004+AC:2010 章節 8.7.3</seg>
       </tuv>
     </tu>
     <tu>
