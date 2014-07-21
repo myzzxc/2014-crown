@@ -1119,6 +1119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchorages subject to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021411Z">
+        <seg>錨固範圍依據：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchoring element must be straight and free of oil and other contaminants.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022130Z">
