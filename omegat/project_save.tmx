@@ -1111,6 +1111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After full curing time &lt;t4/&gt;tcure&lt;t5/&gt; has elapsed, the add-on part can be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085233Z">
+        <seg>度過充分固化時間&lt;t4/&gt;tcure&lt;t5/&gt;，便可安裝附加部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After insert the anchoring element excess mortar must emerge from the mouth of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022537Z">
@@ -1139,6 +1147,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080314Z">
         <seg>無論是否含有有毒物質，所有使用者有都義務將所有的電氣或電子設備送至政府或私營的回收點，以確保處置符合環保。關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow the adhesive to cure to the specified time prior to applying any load.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085008Z">
+        <seg>黏著劑在承受任何附載前可於指定時間固化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2132,6 +2148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>請勿熨燙保溫電毯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not move or load the bar until it is fully cured (attend Table B3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085131Z">
+        <seg>在充分固化前，請勿移動或加載 (請參閱表 B3)。</seg>
       </tuv>
     </tu>
     <tu>
