@@ -1167,6 +1167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex A2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020940Z">
+        <seg>附件 A2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A&lt;t0/&gt;1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T152315Z">
@@ -2744,6 +2752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Injection mortar / Static mixer / Rebar Materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021032Z">
+        <seg>注射砂漿/靜態混合器/鋼筋材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection mortar: &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T134935Z">
@@ -3092,6 +3108,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070306Z">
         <seg>連接鋼筋之 Multifix&lt;t0/&gt; 注膠系統 MF-EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multifix&lt;t0/&gt; Injection system MF-EX1 for rebar connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020936Z">
+        <seg>Multifix 注膠系統 MF-EX1 鋼筋連接型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3641,6 +3665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product description</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021001Z">
+        <seg>產品說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product family &lt;t0/&gt;to which t&lt;t1/&gt;he construction product belongs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095152Z">
@@ -4013,6 +4045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151421Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specifications of intended use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021041Z">
+        <seg>用途規格</seg>
       </tuv>
     </tu>
     <tu>
