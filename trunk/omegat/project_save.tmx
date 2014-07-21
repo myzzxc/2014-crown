@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A4: Rebar conn&lt;t0/&gt;ection for components stressed primarily in compression.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T000349Z">
+        <seg>圖 A4：主要承受壓縮力元件的鋼筋連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A5: Anchoring of &lt;t0/&gt;reinforcemend&lt;t1/&gt; to cover the line of acting tensile force</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T235852Z">
@@ -4437,6 +4445,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t1/&gt;rebars&lt;t2/&gt; &lt;t3/&gt;sre&lt;t4/&gt; stressed in compression</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T000353Z">
+        <seg>鋼筋承受壓縮力</seg>
       </tuv>
     </tu>
     <tu>
