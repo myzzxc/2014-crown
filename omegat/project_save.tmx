@@ -1015,6 +1015,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;Finally blow the hole clean again with compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062319Z">
+        <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;For bore holes deeper than 240 mm, compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062332Z">
+        <seg>若鑽孔深達 240 mm，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Preparing the cartridge 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z">
@@ -1473,8 +1489,16 @@
       <tuv lang="EN-US">
         <seg>Bore hole drilling&lt;t0/&gt;Drill a hole into the base material to the size and embedment depth required by the selected reinforcing bar with carbide hammer drill (HD) or a compressed air drill (CD).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T060738Z">
-        <seg>進行鑽孔&lt;t0/&gt;使用碳化錘鑽 (HD) 或氣動鑽 (CD)，依照所選鋼筋所需的大小和埋設深度在基材上鑽孔。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062350Z">
+        <seg>鑽孔&lt;t0/&gt;使用碳化錘鑽 (HD) 或氣動鑽 (CD)，依照所選鋼筋所需的大小和埋設深度在基材上鑽孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brush the hole with an appropriate sized wire brush &gt; (Table B5) a minimum of two times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062211Z">
+        <seg>使用適當大小的鋼刷 &gt; db,min (表 B5)清潔鑽孔至少兩次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2805,6 +2829,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061151Z">
         <seg>若無法觸及鑽孔底部，則應使用延伸器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the bore hole ground is not reached with the brush, a brush extension shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062244Z">
+        <seg>若鋼刷無法觸及鑽孔底部，則應使用鋼刷延伸器。</seg>
       </tuv>
     </tu>
     <tu>
