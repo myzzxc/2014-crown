@@ -376,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>6 bar) or a hand pump a minimum of two times.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061108Z">
-        <seg>(最小 6 bar) 或手搖泵清潔鑽孔至少兩次。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063318Z">
+        <seg>(最小 6 bar) 或手動泵浦清潔鑽孔至少兩次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1503,6 +1503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brush - &lt;t0/&gt;ϕ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063411Z">
+        <seg>鋼刷 - &lt;t0/&gt;ϕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush extension:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062558Z">
@@ -2100,6 +2108,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130017Z">
         <seg>請勿清洗暖腳機！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drill bit - &lt;t0/&gt;ϕ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063404Z">
+        <seg>鑽頭 - &lt;t0/&gt;ϕ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4260,8 +4276,8 @@
       <tuv lang="EN-US">
         <seg>Rebar -&lt;t0/&gt; ϕ</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063059Z">
-        <seg>Rebar -&lt;t0/&gt; ϕRebar -&lt;t0/&gt; ϕ</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063349Z">
+        <seg>鋼筋 -&lt;t0/&gt; ϕ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6078,6 +6094,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144951Z">
         <seg>若要重新開啟暖腳機，必須先將滑動開關切換至 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total length</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063415Z">
+        <seg>總長度</seg>
       </tuv>
     </tu>
     <tu>
