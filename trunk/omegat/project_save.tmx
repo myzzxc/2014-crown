@@ -1535,6 +1535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;) Preparation of bar and cartridge</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064024Z">
+        <seg>C&lt;t0/&gt;) 鋼筋和卡匣製備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
@@ -4314,6 +4322,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rec.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063801Z">
+        <seg>建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction for seismic shear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013350Z">
@@ -6494,6 +6510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040604Z">
         <seg>c1 	現存鋼筋端面的混凝土保護層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>compressed air tool hand slide valve (min 6 bar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
+        <seg>壓縮空氣工具手滑閥 (至少 6 bar)</seg>
       </tuv>
     </tu>
     <tu>
