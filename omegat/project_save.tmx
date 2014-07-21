@@ -1471,6 +1471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be sure that the bar is inserted in the bore hole until the embedment mark is at the concrete surface and that excess mortar is visible at the top of the hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083517Z">
+        <seg>確認鋼筋插入錨孔直到埋設標記位於混凝土表面，而多餘的砂漿出現在錨孔頂部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before cleaning the foot warmer, always disconnect the plug from the mains and allow it to cool down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150717Z">
@@ -3037,6 +3045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z">
         <seg>若電源線損壞，整組暖腳機必須丟棄處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these requirements are not maintained, the application has to be renewed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083616Z">
+        <seg>若無法達到上述要求，則必須重新使用。</seg>
       </tuv>
     </tu>
     <tu>
