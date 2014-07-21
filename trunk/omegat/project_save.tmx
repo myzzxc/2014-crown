@@ -3857,6 +3857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reinforced or unreinforced normal weight concrete according to EN 206-1:2000.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T023448Z">
+        <seg>鋼筋或無鋼筋混凝土遵照 EN 206-1:2000。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reinforcing bar (rebar): &lt;t0/&gt;ϕ&lt;t1/&gt;8, &lt;t2/&gt;ϕ&lt;t3/&gt;10, &lt;t4/&gt;ϕ &lt;t5/&gt;12, &lt;t6/&gt;ϕ &lt;t7/&gt;14, &lt;t8/&gt;ϕ &lt;t9/&gt;16, &lt;t10/&gt;ϕ &lt;t11/&gt;20, &lt;t12/&gt;ϕ &lt;t13/&gt;22, &lt;t14/&gt;ϕ &lt;t15/&gt;24, &lt;t16/&gt;ϕ &lt;t17/&gt;25</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T012709Z">
@@ -4197,6 +4205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050547Z">
         <seg>強度設計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength classes C12/15 to C50/60 according to EN 206-1:2000.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T023507Z">
+        <seg>強度等級 C12/15 to C50/60 遵照 EN 206-1:2000。</seg>
       </tuv>
     </tu>
     <tu>
