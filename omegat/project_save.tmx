@@ -991,6 +991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Check brush diameter (Table B5) and attach the brush to a drilling machine or a battery screwdriver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061529Z">
+        <seg>檢查鋼刷直徑 (表 B5) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;The foregoing may be neglected if building components are new and not carbonated and if building components are in dry conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030822Z">
@@ -1097,8 +1105,8 @@
       <tuv lang="EN-US">
         <seg>All cartridges could also be extruded by a battery tool.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053908Z">
-        <seg>所有卡匣均可使用電池工具擠出。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061535Z">
+        <seg>所有卡匣均可使用電動工具取出。</seg>
       </tuv>
     </tu>
     <tu>
