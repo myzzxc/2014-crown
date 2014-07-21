@@ -4145,6 +4145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prior to dispensing into the anchor hole, squeeze out separately the mortar until it shows a consistent grey &lt;t0/&gt;colour&lt;t1/&gt;, but a minimum of three full strokes, and discard non-uniformly mixed adhesive components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T071211Z">
+        <seg>在毛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prior to inserting the reinforcing bar into the filled bore hole, the position of the embedment depth shall be marked (e.g. with tape) on the reinforcing bar and insert bar in empty hole to verify hole and depth 4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T065829Z">
@@ -5292,8 +5300,8 @@
       <tuv lang="EN-US">
         <seg>The anchor should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T070639Z">
-        <seg>錨固孔不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T071213Z">
+        <seg>錨孔不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
       </tuv>
     </tu>
     <tu>
