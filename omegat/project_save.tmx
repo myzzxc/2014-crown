@@ -4009,6 +4009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T043519Z">
+        <seg>鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebar EN 1992-1-1:2004+AC:2010, Annex C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015457Z">
