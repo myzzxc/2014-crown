@@ -1439,6 +1439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bar size &lt;t0/&gt;ϕ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073934Z">
+        <seg>鋼筋尺寸 &lt;t0/&gt;ϕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bars and de-coiled rods class B or C &lt;t0/&gt;fyk&lt;t1/&gt; and k according to NDP or NCL of EN 1992-1-1/NA:2013 &lt;t2/&gt;fuk&lt;t3/&gt; = &lt;t4/&gt;ftk&lt;t5/&gt; = &lt;t6/&gt;k•fyk</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020037Z">
@@ -2604,6 +2612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132117Z">
         <seg>對於正在進行之長期安裝，需定期進行特別檢查以確保產品正確處理及安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead and horizontal installation and bore holes deeper than 240 mm a piston plug and the appropriate mixer extension must be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073702Z">
+        <seg>對於鑽孔深度超過 240 mm 的架空或水平安裝，應使用活塞蓋和合適的混合器延伸器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3849,6 +3865,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Observe the gel-/ working times given in Table B3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073828Z">
+        <seg>請見表 B3 的凝膠時間和工作時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -4013,6 +4037,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093751Z">
         <seg>持續性疼痛可能為嚴重疾病的症狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piston plug</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073945Z">
+        <seg>活塞蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5166,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062545Z">
         <seg>表 B5：清潔工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B6: Piston plugs, max anchorage depth and mixer extension</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073925Z">
+        <seg>表 B6：活塞蓋、最大錨固深度和混合器延伸器</seg>
       </tuv>
     </tu>
     <tu>
