@@ -1223,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex B 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033735Z">
+        <seg>附件 B 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
@@ -1441,8 +1449,8 @@
       <tuv lang="EN-US">
         <seg>Check the position of the existing &lt;t0/&gt;rebars&lt;t1/&gt; (if the position of existing &lt;t2/&gt;rebars&lt;t3/&gt; is not known, it shall be determined using a rebar detector suitable for this purpose as well as on the basis of the construction documentation and then marked on the building component for the overlap joint).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033430Z">
-        <seg>檢查現存的鋼筋位置 (若現存鋼筋的位置未知，則應使用鋼筋檢測儀以及施工文件)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033729Z">
+        <seg>檢查現存的鋼筋位置 (若現存鋼筋的位置未知，則應使用鋼筋檢測儀根據施工文件進行檢測，並於建築構件上標示重疊接頭)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2251,6 +2259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T235852Z">
         <seg>圖 A5：覆蓋作用張力線的鋼筋錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B1: General construction rules for post-installed &lt;t0/&gt;rebars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033812Z">
+        <seg>圖 B1：安裝後鋼筋的一般施工規則</seg>
       </tuv>
     </tu>
     <tu>
