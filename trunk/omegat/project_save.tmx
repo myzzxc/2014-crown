@@ -1495,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compressed air drilling (CD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041858Z">
+        <seg>氣動鑽鑽孔 (CD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045636Z">
@@ -1955,6 +1963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041624Z">
         <seg>鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drilling method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041632Z">
+        <seg>鑽孔方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,6 +2540,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T063900Z">
         <seg>健身、運動、均衡飲食和按摩以促進循環，可使脂肪沈積融解，刺激代謝、促進淋巴循環，對於結締組織有正面的幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hammer drilling (HD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041853Z">
+        <seg>錘鑽鑽孔 (HD)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3989,6 +4013,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112742Z">
         <seg>鋼筋連接滿足等級 A1 的要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rebar diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041635Z">
+        <seg>鋼筋直徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -6005,6 +6037,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
         <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With drilling aid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041652Z">
+        <seg>鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without drilling aid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041644Z">
+        <seg>無鑽孔輔助架</seg>
       </tuv>
     </tu>
     <tu>
