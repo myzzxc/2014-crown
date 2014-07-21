@@ -2632,6 +2632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the clear distance between lapped bars exceeds 44), then the lap length shall be increased by the difference between the clear bar distance and 4&lt;t0/&gt; ϕ&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040033Z">
+        <seg>若搭接鋼筋間的淨距超過 4 ϕ，則應根據淨鋼筋距離和 4 ϕ 之差距增加搭接長度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -5001,6 +5009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following applies to Figure B1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040050Z">
+        <seg>以下內容適用於圖 B1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following parts are included:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z">
@@ -6005,6 +6021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015530Z">
         <seg>錨固間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c 	concrete cover of post-installed rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040108Z">
+        <seg>c 	安裝後e; rup 的混凝土</seg>
       </tuv>
     </tu>
     <tu>
