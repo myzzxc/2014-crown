@@ -937,8 +937,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t1/&gt;The depth of concrete to be removed shall correspond to at least the minimum concrete cover in accordance with EN 1992-1-1:2004+AC:2010.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030325Z">
-        <seg>混凝土移除深度應遵照 EN 1992-1-1:2004+AC:2010，至少為混凝土最小覆蓋深度。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040353Z">
+        <seg>混凝土移除深度應遵照 EN 1992-1-1:2004+AC:2010，至少為混凝土保護層的最小深度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,8 +2257,8 @@
       <tuv lang="EN-US">
         <seg>Figure A5: Anchoring of &lt;t0/&gt;reinforcemend&lt;t1/&gt; to cover the line of acting tensile force</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T235852Z">
-        <seg>圖 A5：覆蓋作用張力線的鋼筋錨固</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040312Z">
+        <seg>圖 A5：保護作用張力線的鋼筋錨固</seg>
       </tuv>
     </tu>
     <tu>
@@ -6027,8 +6027,8 @@
       <tuv lang="EN-US">
         <seg>c 	concrete cover of post-installed rebar</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040108Z">
-        <seg>c 	安裝後e; rup 的混凝土</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040241Z">
+        <seg>c 	安裝後鋼筋的混凝土保護層</seg>
       </tuv>
     </tu>
     <tu>
