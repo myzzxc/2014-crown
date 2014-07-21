@@ -1679,6 +1679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design according to EN 1992-1-1:2004+AC:2010 and Annex B 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031950Z">
+        <seg>設計遵照 EN 1992-1-1:2004+AC:2010 和附件 B 2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design parameters are based on ACI 318-11 for use with the 2009, 2006, and 2003 IBC unless noted otherwise in Sections 4.1.1 through 4.1.11 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051001Z">
@@ -1947,6 +1955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072130Z">
         <seg>請待滾輪乾燥後再裝回基座上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dry or wet concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032124Z">
+        <seg>乾混凝土或濕混凝土。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2916,6 +2932,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081700Z">
         <seg>其包含關於啟動和運行的重要資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It must not be installed in flooded holes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032143Z">
+        <seg>不可安裝於積水孔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4689,6 +4713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The actual position of the reinforcement in the existing structure shall be determined on the basis of the construction documentation and taken into account when designing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032054Z">
+        <seg>現有結構中的鋼筋實際位置應根據施工文件決定，並於設計時納入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The adhesive is also referred to as “mortar” in the installation instructions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012723Z">
@@ -5701,6 +5733,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z">
         <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verifiable calculation notes and drawings are prepared taking account of the forces to be transmitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031923Z">
+        <seg>具備考量力傳遞的可驗證計算之註解和設計圖。</seg>
       </tuv>
     </tu>
     <tu>
