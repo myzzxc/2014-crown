@@ -2585,6 +2585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053118Z">
+        <seg>手工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hands are considerably less sensitive towards heat than the rest of the body’s surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
