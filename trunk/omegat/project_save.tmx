@@ -959,6 +959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;The foregoing may be neglected if building components are new and not carbonated and if building components are in dry conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030822Z">
+        <seg>若建築構件為全新、非碳酸以及在乾燥條件下，則可忽略上述條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
@@ -4577,6 +4585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature Range:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030825Z">
+        <seg>溫度範圍：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature range B: Maximum short term temperature = 162°F (72°C), Maximum long term Temperature = 122°F (50°C) Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a result of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T030150Z">
@@ -6045,6 +6061,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094249Z">
         <seg>൤&lt;t0/&gt;௛&lt;t1/&gt;௛&lt;t2/&gt;೐೑&lt;t3/&gt;൨&lt;t4/&gt; 不可超過 2.4；以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• - 40°C to +80°C (max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030837Z">
+        <seg>• - 40°C 至 +80°C</seg>
       </tuv>
     </tu>
     <tu>
