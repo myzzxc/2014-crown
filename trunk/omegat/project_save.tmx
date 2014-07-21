@@ -4258,6 +4258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rebar -&lt;t0/&gt; ϕ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063059Z">
+        <seg>Rebar -&lt;t0/&gt; ϕRebar -&lt;t0/&gt; ϕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebar EN 1992-1-1:2004+AC:2010, Annex C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015457Z">
@@ -4382,6 +4390,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
         <seg>具有窒息危險 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SDS Plus Adapter:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062930Z">
+        <seg>SDS 轉接器：</seg>
       </tuv>
     </tu>
     <tu>
