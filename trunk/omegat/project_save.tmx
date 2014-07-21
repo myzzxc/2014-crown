@@ -6281,6 +6281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>• Minimum value of related rip area &lt;t0/&gt;fR,min&lt;t1/&gt; according to EN 1992-1-1:2004+AC:2010</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T013325Z">
+        <seg>• 根據 EN 1992-1-1:2004+AC:2010　&lt;t0/&gt;fR,min&lt;t1/&gt; according to </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>• Never carry, pull or rotate the unit by the mains cable and never pinch or crush the cable between&lt;t0/&gt; &lt;t1/&gt;other objects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T053805Z">
