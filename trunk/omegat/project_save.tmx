@@ -1951,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drilling aid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041624Z">
+        <seg>鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drip-proof!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125945Z">
@@ -4637,6 +4645,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015359Z">
         <seg>表 A1：材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B1: Minimum concrete cover min c1) of post-installed rebar depending of drilling method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041544Z">
+        <seg>表 B1：安裝後鋼筋的最小混凝土保護層 min c1) 視鑽孔方式而定</seg>
       </tuv>
     </tu>
     <tu>
