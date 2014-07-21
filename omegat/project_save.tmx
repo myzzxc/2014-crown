@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Note: In case of a carbonated surface of the existing concrete structure the carbonated layer shall be removed in the area of the post-installed rebar connection with a diameter of 4) + 60 mm prior to the installation of the new rebar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030128Z">
+        <seg>註：若現有混凝土結構為碳酸表面，在安裝新鋼筋前，應移除安裝後鋼筋連接直徑為 ϕ + 60 mm 區域的碳酸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Repairs under warranty do not extend the warranty period either for the unit or for the replacement parts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074722Z">
