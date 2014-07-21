@@ -1439,6 +1439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the position of the existing &lt;t0/&gt;rebars&lt;t1/&gt; (if the position of existing &lt;t2/&gt;rebars&lt;t3/&gt; is not known, it shall be determined using a rebar detector suitable for this purpose as well as on the basis of the construction documentation and then marked on the building component for the overlap joint).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033430Z">
+        <seg>檢查現存的鋼筋位置 (若現存鋼筋的位置未知，則應使用鋼筋檢測儀以及施工文件)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z">
@@ -5611,8 +5619,8 @@
       <tuv lang="EN-US">
         <seg>Trade name of the construction product</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070317Z">
-        <seg>建設產品之商標名稱</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033438Z">
+        <seg>建築產品之商標名稱</seg>
       </tuv>
     </tu>
     <tu>
