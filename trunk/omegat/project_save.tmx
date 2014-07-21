@@ -1319,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex B 5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062537Z">
+        <seg>附件 B5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
@@ -1495,10 +1503,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brush extension:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062558Z">
+        <seg>鋼刷延伸器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush the hole with an appropriate sized wire brush &gt; (Table B5) a minimum of two times.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062211Z">
         <seg>使用適當大小的鋼刷 &gt; db,min (表 B5)清潔鑽孔至少兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brush:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062551Z">
+        <seg>鋼刷：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3125,6 +3149,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014946Z">
         <seg>插入靜態混合器並將其固定 (向右轉)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation instruction: Bore hole drilling and Bore hole cleaning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062531Z">
+        <seg>安裝說明：鑽孔和鑽孔清潔</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,6 +4990,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044434Z">
         <seg>表 B4：點膠工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B5: Cleaning tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062545Z">
+        <seg>表 B5：清潔工具</seg>
       </tuv>
     </tu>
     <tu>
