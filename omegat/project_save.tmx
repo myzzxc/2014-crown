@@ -1335,6 +1335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex B 7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082930Z">
+        <seg>附件 B7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
@@ -1724,6 +1732,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
         <seg>關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue injection until the mortar level mark 1m becomes visible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082842Z">
+        <seg>持續注膠直到出現砂漿水平標記。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,8 +3259,8 @@
       <tuv lang="EN-US">
         <seg>Injection tool must be marked by mortar level mark 1m and anchorage depth 4 resp. &lt;t0/&gt;le,ges&lt;t1/&gt; with tape or marker.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082547Z">
-        <seg>注膠工具必須使用膠帶或奇異筆標記砂漿高度 lm 和錨固深度 lv、le,ges。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082634Z">
+        <seg>注膠工具必須使用膠帶或奇異筆標記砂漿水平 lm 和錨固深度 lv、le,ges。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,6 +3301,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072446Z">
         <seg>安裝說明：清潔工具及鋼筋和卡匣製備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation instruction: Filling the bore hole</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082923Z">
+        <seg>安裝說明：填入鑽孔</seg>
       </tuv>
     </tu>
     <tu>
@@ -3985,6 +4009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optimum mortar volume:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
+        <seg>最佳砂漿容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
@@ -4342,6 +4374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111911Z">
         <seg>如果您想要連續使用則推動開關至位置 &lt;/f4&gt; &lt;f5&gt;1 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;2 &lt;/f7&gt;&lt;f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick estimation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082640Z">
+        <seg>快速估算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6852,8 +6892,8 @@
       <tuv lang="EN-US">
         <seg>level mark</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082552Z">
-        <seg>高度標記</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082618Z">
+        <seg>水平標記</seg>
       </tuv>
     </tu>
     <tu>
