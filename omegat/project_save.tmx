@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;ϕ &lt;t1/&gt;: Nominal diameter of the bar; h: Rip height of the bar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015344Z">
+        <seg>(&lt;t0/&gt;ϕ &lt;t1/&gt;：鋼筋標稱直徑；h：鋼筋裂口高度)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(D-2) and Eq.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013902Z">
@@ -1647,6 +1655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Designation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015410Z">
+        <seg>名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z">
@@ -2920,6 +2936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Material</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015435Z">
+        <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Materials:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z">
@@ -3729,6 +3753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rebar EN 1992-1-1:2004+AC:2010, Annex C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015457Z">
+        <seg>鋼筋 EN 1992-1-1:2004+AC:2010，附件 C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebar connections satisfy requirements for Class A1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112742Z">
@@ -4357,6 +4389,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045640Z">
         <seg>表 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table A1: Materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015359Z">
+        <seg>表 A1：材料</seg>
       </tuv>
     </tu>
     <tu>
