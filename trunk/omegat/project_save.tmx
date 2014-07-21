@@ -1145,8 +1145,8 @@
       <tuv lang="EN-US">
         <seg>Anchorages subject to:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021833Z">
-        <seg>錨固範圍須根據：</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031212Z">
+        <seg>錨固須根據：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1699,6 +1699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112441Z">
         <seg>最大黏結阻力的設計值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030932Z">
+        <seg>設計：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6013,6 +6021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
         <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>short term temperature +80°C and max long term temperature +50°C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
+        <seg>(短期最高溫度 +80°C，長期最高溫度 +50°C)。</seg>
       </tuv>
     </tu>
     <tu>
