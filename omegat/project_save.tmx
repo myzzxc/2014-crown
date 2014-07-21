@@ -1327,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex B 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072454Z">
+        <seg>附件 B6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T072016Z">
@@ -1756,6 +1764,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073231Z">
         <seg>電源供應：主變壓器類型： YJS 020D -1201200G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D) Filling the bore hole</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072511Z">
+        <seg>D) 填入鑽孔</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,6 +3225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation instruction: Cleaning tools and Preparation of bar and cartridge</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072446Z">
+        <seg>安裝說明：清潔工具及鋼筋和卡匣製備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation must be in accordance with ACI 318-11 &lt;t0/&gt;D.9.1 and D.9.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150752Z">
@@ -4147,8 +4171,8 @@
       <tuv lang="EN-US">
         <seg>Prior to dispensing into the anchor hole, squeeze out separately the mortar until it shows a consistent grey &lt;t0/&gt;colour&lt;t1/&gt;, but a minimum of three full strokes, and discard non-uniformly mixed adhesive components.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T071211Z">
-        <seg>在毛</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072420Z">
+        <seg>在錨孔進行注膠前，先將砂漿擠出，直到顏色呈現均勻的灰色，至少可擠出三條完整的砂漿，並丟棄未均勻混合的黏結成分。</seg>
       </tuv>
     </tu>
     <tu>
