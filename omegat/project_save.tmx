@@ -2055,6 +2055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EN 1992-1-1:2004+AC:2010 must be observed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042204Z">
+        <seg>必須遵照 EN 1992-1-1:2004+AC:2010 的最小混凝土保護層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z">
@@ -4689,6 +4697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table B2: maximum embedment depth &lt;t0/&gt;lv,max</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042241Z">
+        <seg>表 B2：最大埋設深度 &lt;t0/&gt;lv,max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table IV Processing and curing times Temper ture range Working time/ processing M Curing Me rime +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z">
@@ -6285,6 +6301,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
         <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>see Annexes B2, Figures B1 &lt;t0/&gt;Comments: The minimum concrete cover acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042059Z">
+        <seg>請參閱附件 B2、圖 B1 &lt;t0/&gt;註解：</seg>
       </tuv>
     </tu>
     <tu>
