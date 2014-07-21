@@ -3433,6 +3433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not allowed to move the bar after &lt;t2/&gt;geling&lt;t3/&gt; time to has elapsed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084754Z">
+        <seg>若膠合時間 tgel 已過，則不可移動鋼筋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must not be installed in flooded holes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032143Z">
