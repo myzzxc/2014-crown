@@ -2119,6 +2119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A3: End anchoring of slabs or beams (e.g. designed as simply supported)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T000655Z">
+        <seg>圖 A3：板材或梁的終端錨固 (例如設計作為簡支)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A4: Rebar conn&lt;t0/&gt;ection for components stressed primarily in compression.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T000349Z">
