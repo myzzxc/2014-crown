@@ -1415,6 +1415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attend that the gelling time can vary according to the base material temperature (see Table B3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084214Z">
+        <seg>注意凝膠時間會隨基材溫度而不同 (請參閱表 B3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -3941,6 +3949,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101623Z">
         <seg>螺母必須具有指定保證負荷應力，等於或大於指定螺紋柱的最小拉伸強度。&lt;t7/&gt;5&lt;t8/&gt;碳鋼和合金鋼外螺紋公制緊固件的標準規格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Observe gelling time &lt;t0/&gt;tgel&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084127Z">
+        <seg>觀察凝膠時間 &lt;t0/&gt;tgel&lt;t1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
