@@ -1121,8 +1121,8 @@
       <tuv lang="EN-US">
         <seg>Anchorages subject to:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021411Z">
-        <seg>錨固範圍依據：</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021833Z">
+        <seg>錨固範圍須根據：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,6 +1291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020037Z">
         <seg>等級 B 或 C 的鋼筋或去螺旋桿 &lt;t0/&gt;fyk&lt;t1/&gt; 和 k 遵照 EN 1992-1-1/NA:2013 NDP 或 NCL  &lt;t2/&gt;fuk&lt;t3/&gt; = &lt;t4/&gt;ftk&lt;t5/&gt; = &lt;t6/&gt;k•fyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base materials:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021842Z">
+        <seg>基本材料：</seg>
       </tuv>
     </tu>
     <tu>
