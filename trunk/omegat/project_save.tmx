@@ -3131,8 +3131,8 @@
       <tuv lang="EN-US">
         <seg>If the clear distance between lapped bars exceeds 44), then the lap length shall be increased by the difference between the clear bar distance and 4&lt;t0/&gt; ϕ&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040033Z">
-        <seg>若搭接鋼筋間的淨距超過 4 ϕ，則應根據淨鋼筋距離和 4 ϕ 之差距增加搭接長度。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043202Z">
+        <seg>若搭接鋼筋間的淨距超過 4 ϕ，則應根據鋼筋淨距和 4 ϕ 之差距增加搭接長度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5980,8 +5980,8 @@
       <tuv lang="EN-US">
         <seg>The installation of post-installed rebar shall be done only by suitable trained installer and under supervision on site; the conditions under which an installer may be considered as suitable trained and the conditions for supervision on site are up to the Member States in which the installation is done.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032835Z">
-        <seg>僅可由訓練有素的安裝人員進行安裝後鋼筋的安裝，以及現場監督；安裝人員是否訓練有素和現場監督的條件由安裝進行的會員國決定。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043038Z">
+        <seg>僅可由訓練有素的安裝人員進行安裝後鋼筋的安裝，以及現場監督；安裝人員是否訓練有素和現場監督的條件，由安裝進行的會員國決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5996,8 +5996,8 @@
       <tuv lang="EN-US">
         <seg>The joints for concreting must be roughened to at least such an extent that aggregate protrude.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T035600Z">
-        <seg>固化接頭需粗糙，至少達到混凝料突出的程度。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043110Z">
+        <seg>固化接頭應為粗糙，至少達到混凝料突出的程度。</seg>
       </tuv>
     </tu>
     <tu>
