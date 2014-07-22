@@ -3171,8 +3171,8 @@
       <tuv lang="EN-US">
         <seg>If these requirements are not maintained, the application has to be renewed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083656Z">
-        <seg>若無法達到上述要求，則必須更新該應用。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045233Z">
+        <seg>若無法達到上述要求，則必須重新安裝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5684,8 +5684,8 @@
       <tuv lang="EN-US">
         <seg>The anchor should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T071213Z">
-        <seg>錨孔不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045058Z">
+        <seg>錨孔不可有汙垢、潤滑劑、油脂或其他外來物質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5724,8 +5724,8 @@
       <tuv lang="EN-US">
         <seg>The bar should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083239Z">
-        <seg>鋼筋不應有汙垢、潤滑劑、油脂或其他外來物質。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045209Z">
+        <seg>鋼筋不可有汙垢、潤滑劑、油脂或其他外來物質。</seg>
       </tuv>
     </tu>
     <tu>
