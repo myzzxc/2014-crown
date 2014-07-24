@@ -3337,6 +3337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Imprint: &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1, processing notes, charge-code, shelf life, hazard-code, curing- and processing time (depending on the temperature), with as well as without travel scale</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124548Z">
+        <seg>刻印：Multifix MF-EX1、處理注意事項、費用代碼、儲架壽命、固化和處理時間 (視溫度而定)，以及無移動尺度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Imprint: processing hazard-code, (depending without &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1, notes, charge-code, shelf life, curing- and processing time on the temperature), with as well travel scale</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T141415Z">
