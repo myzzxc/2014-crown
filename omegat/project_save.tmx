@@ -3153,6 +3153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hexagon nut, EN ISO 4032:2012</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131212Z">
+        <seg>六角螺母，EN ISO 4032:2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hole cleaning equipment: &lt;t0/&gt;Hole cleaning equipment comprised of steel wire brushes and air nozzles must be used in accordance with Figure 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135213Z">
@@ -5434,6 +5442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131221Z">
+        <seg>鋼遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001725Z">
@@ -7202,6 +7218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Washer, EN ISO 887:2006,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131515Z">
+        <seg>墊圈，EN ISO 887:2006、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water saturated concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021415Z">
@@ -7686,6 +7710,17 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123507Z">
         <seg>夾具厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to EN 10087:1998 or EN 10263:2001 Property class 4 (for class 4.6 rod) EN ISO 898-2:2012, Property class 5 (for class 5.8 rod) EN ISO 898-2:2012, Property class 8 (for class 8.8 rod) EN ISO 898-2:2012</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131437Z">
+        <seg> EN 10087:1998 或 EN 10263:2001 
+屬性等級 4 (用於等級 4.6 錨桿) EN ISO 898-2:2012、
+屬性等級 5 (用於等級 5.8 錨桿) EN ISO 898-2:2012、
+屬性等級 8 (用於等級 8.8 錨桿) EN ISO 898-2:2012</seg>
       </tuv>
     </tu>
     <tu>
