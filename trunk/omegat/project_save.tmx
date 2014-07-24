@@ -1937,6 +1937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleaning and setting tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142750Z">
+        <seg>清潔和設置工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Communication of this European Technical Assessment, including tr&lt;t0/&gt;ansmission by electronic means, &lt;t1/&gt;shall be in full.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102813Z">
@@ -2542,6 +2550,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142453Z">
         <seg>鑽頭直徑 (d&lt;t0/&gt;0&lt;t1/&gt;)：24 mm 至 40 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drill bit diameter (d&lt;t0/&gt;o&lt;t1/&gt;): 10 mm to 40&lt;t2/&gt; &lt;t3/&gt;mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142738Z">
+        <seg>鑽頭直徑 (d&lt;t1/&gt;o&lt;t2/&gt;)：10 mm 至 40 mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3863,6 +3879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085328Z">
         <seg>安裝說明：插入鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation instructions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142754Z">
+        <seg>安裝方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,6 +5408,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063801Z">
         <seg>建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended compressed&lt;t0/&gt; &lt;t1/&gt;air tool (min 6 bar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142721Z">
+        <seg>建議氣動工具 (至少 6 bar)</seg>
       </tuv>
     </tu>
     <tu>
