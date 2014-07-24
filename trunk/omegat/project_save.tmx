@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1609,6 +1609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143112Z">
+        <seg>注意！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -2566,6 +2574,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015256Z">
         <seg>使用衝擊鑽頭組鑽出孔洞，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drill with hammer drill a hole into &lt;t0/&gt;the base material to the size and embedment &lt;t1/&gt;depth required by the selected anchor (Table B1 or Table B2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143059Z">
+        <seg>使用錘鑽，依照所選錨固需要的大小和埋設深度在基材上鑽孔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3687,6 +3703,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074537Z">
         <seg>保固期間若需維修請出示收據或發票以證明購買日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of aborted drill hole: the drill hole shall be filled with mortar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143105Z">
+        <seg>中止鑽孔：應使用砂漿填滿鑽孔。</seg>
       </tuv>
     </tu>
     <tu>
