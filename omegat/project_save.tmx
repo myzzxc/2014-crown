@@ -1343,6 +1343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex A 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124704Z">
+        <seg>附件 A２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020940Z">
@@ -1851,6 +1859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124129Z">
         <seg>構件 A：注射砂漿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component B: &lt;t0/&gt;Hardener</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124642Z">
+        <seg>構件 Ｂ：固化劑</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product description &lt;t0/&gt;Injection system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124656Z">
+        <seg>產品說明   &lt;t0/&gt;注膠系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product description &lt;t0/&gt;Installed condition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123152Z">
@@ -5286,6 +5310,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081315Z">
         <seg>張力下靜態鋼強度：&lt;t0/&gt;單一錨固在張力下的標稱鋼強度，&lt;t1/&gt;N&lt;t2/&gt;sa&lt;t3/&gt;，應依照 ACI 318 D.5.1.2 計算，相關強度縮減因數， &lt;t4/&gt;，則依照 ACI 318 D.4.3 使用本報告表 5 和表 8 中相應的錨固元件類型計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static mixer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124646Z">
+        <seg>靜態混合器</seg>
       </tuv>
     </tu>
     <tu>
