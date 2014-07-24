@@ -1447,6 +1447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approval body for construction products&lt;t0/&gt; and types of construction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122220Z">
+        <seg>建築產品和建築類型之審核機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article no.&lt;t0/&gt; &lt;t1/&gt;: 88540&lt;t2/&gt; &lt;t3/&gt;EAN-&lt;t4/&gt;Number:&lt;t5/&gt; 40 15588&lt;t6/&gt; &lt;t7/&gt;88540&lt;t8/&gt; &lt;t9/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073628Z">
@@ -3041,6 +3049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Head of Department</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122210Z">
+        <seg>部門主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health tips and recommendations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093404Z">
@@ -3581,6 +3597,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145149Z">
         <seg>Deutsches Institut für Bautechnik 於柏林 2014 年 6 月 26 日頒佈: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Issued in Berlin on 4 July 2014 by &lt;t0/&gt;Deutsches&lt;t1/&gt; &lt;t2/&gt;Institut&lt;t3/&gt; &lt;t4/&gt;für&lt;t5/&gt; &lt;t6/&gt;Bautechnik</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122037Z">
+        <seg>Deutsches Institut für Bautechnik 於柏林 2014 年 7 月 4 日頒佈: </seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,6 +4305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page &lt;t0/&gt;2&lt;t1/&gt; of 27 | 4 July 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122233Z">
+        <seg>頁碼 27 之 &lt;t0/&gt;2&lt;t1/&gt;  | 2014 年 7 月 4 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page &lt;t0/&gt;4&lt;t1/&gt; of 27 | 4 July 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233932Z">
@@ -4781,6 +4813,14 @@
         <seg>Regarding dangerous substances there may be requirements (e.g. transposed &lt;t0/&gt;Europeanlegislation&lt;t1/&gt; and national laws, regulations and administrative provisions) applicable to the&lt;t2/&gt; &lt;t3/&gt;products falling within the scope of this European Technical Assessment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020914Z">
+        <seg>符合本歐洲技術評估的產品，可能會有關於危險物質的要求 (例如歐洲法規和國家法律、法規以及行政規定)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regarding dangerous substances there may be requirements (e.g. transposed European&lt;t0/&gt; &lt;t1/&gt;legislation and national laws, regulations and administrative provisions) applicable to the&lt;t2/&gt; &lt;t3/&gt;products falling within the scope of this European Technical Assessment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122019Z">
         <seg>符合本歐洲技術評估的產品，可能會有關於危險物質的要求 (例如歐洲法規和國家法律、法規以及行政規定)。</seg>
       </tuv>
     </tu>
