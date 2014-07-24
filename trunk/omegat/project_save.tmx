@@ -1096,6 +1096,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; M24: Property class 50 EN ISO 3506-1:2009 M24: Property class 70 EN ISO 3506-1:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132234Z">
+        <seg>&gt; M24：屬性等級 50  EN ISO 3506-2:2009 
+≤ M24：屬性等級 70  EN ISO 3506-2:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Preparing the cartridge 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z">
@@ -2553,6 +2562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EN 1992-1-1:2004+AC:2010, Annex C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132331Z">
+        <seg>EN 1992-1-1:2004+AC:2010, 附錄 C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EN ISO 7089:2000, EN ISO 7093:2000 or EN ISO 7094:2000</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131524Z">
@@ -3922,6 +3939,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Material 1.4529 / 1.4565 EN 10088-1:2005,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132244Z">
+        <seg>材料 1.4529 / 1.4565 EN 10088-1:2005,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material 1.4529 / 1.4565, EN 10088-1:2005</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132319Z">
+        <seg>材料 1.4529 / 1.4565, EN 10088-1:2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Material 1.4529 / 1.4565, EN 10088-1:2005,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132157Z">
@@ -5103,6 +5136,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125657Z">
         <seg>鋼筋 ϕ8、ϕ10、ϕ12、ϕ14、ϕ16、ϕ20、ϕ25、ϕ28、ϕ32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reinforcing bars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132324Z">
+        <seg>鋼筋</seg>
       </tuv>
     </tu>
     <tu>
