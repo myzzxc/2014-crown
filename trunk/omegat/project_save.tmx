@@ -5434,6 +5434,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel, &lt;t0/&gt;zinc &lt;t1/&gt;plated ?&lt;t2/&gt; 5 pm acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130227Z">
+        <seg>鋼、鍍鋅 ≥ 5 pm 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel&lt;t0/&gt;, &lt;t1/&gt;hot-dip &lt;t2/&gt;galvanised&lt;t3/&gt; &lt;t4/&gt;≥&lt;t5/&gt; 40 pm acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130459Z">
+        <seg>鋼、熱鍍鋅 ≥&lt;t5/&gt; 40 pm 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage temperature of the adhesive is 41°F to 86°F (5°C to 30°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134259Z">
@@ -7654,6 +7670,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125223Z">
         <seg> EN 10204:2004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to EN ISO 1461:2009 and EN ISO 10684:2004+AC:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130508Z">
+        <seg> EN ISO 1461:2009 和 EN ISO 10684:2004+AC:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to EN ISO 4042:1999 or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130244Z">
+        <seg> EN ISO 4042:1999 或</seg>
       </tuv>
     </tu>
     <tu>
