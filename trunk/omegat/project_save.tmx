@@ -2930,6 +2930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flooded holes (not sea water): M8 to M30, Rebar 08 to 032.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141112Z">
+        <seg>積水孔 (非海水)：M8 至 M30，鋼筋 Φ8 至 Φ32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foot warmer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150456Z">
@@ -3294,6 +3302,14 @@
         <seg>Hole drilling by hammer drill or compressed air drill mode.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032342Z">
+        <seg>使用錘鑽或氣動鑽鑽孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hole&lt;t0/&gt; drilling by hammer or compressed air drill mode.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141147Z">
         <seg>使用錘鑽或氣動鑽鑽孔。</seg>
       </tuv>
     </tu>
@@ -4647,6 +4663,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
         <seg>輸出：&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA 尺寸： 約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overhead installation allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141214Z">
+        <seg>允許架空安裝。</seg>
       </tuv>
     </tu>
     <tu>
