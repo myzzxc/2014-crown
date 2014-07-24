@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1289,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor installation carried out by appropriately qualified personnel and under the supervision of the person responsible for technical matters of the site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141407Z">
+        <seg>由適當合格人員在現場負責技術問題的人員監督下進行錨固安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchor locations must comply with this report and the plans and specifications approved by the code official.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150914Z">
@@ -1301,6 +1309,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130521Z">
         <seg>錨桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchor size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141432Z">
+        <seg>錨固大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2298,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diameter of clearance hole in the fixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141509Z">
+        <seg>夾具間隙孔直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diameter of steel brush</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141548Z">
+        <seg>鋼刷直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z">
@@ -2710,6 +2742,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
         <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effective anchorage depth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141449Z">
+        <seg>有效錨固深度</seg>
       </tuv>
     </tu>
     <tu>
@@ -3819,6 +3859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation parameters for threaded rod</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141423Z">
+        <seg>螺牙桿的安裝參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation reinforcing bar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123202Z">
@@ -4211,10 +4259,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum edge distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141716Z">
+        <seg>最小邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum member thinckness</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015557Z">
         <seg>最小構件厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum spacing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141702Z">
+        <seg>最小間距</seg>
       </tuv>
     </tu>
     <tu>
@@ -4247,6 +4311,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102711Z">
         <seg>最小指定降伏強度 0.2% 偏移量 (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum thickness of member</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141642Z">
+        <seg>最小構件厚度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4423,6 +4495,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021517Z">
         <seg>標稱柱直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nominal drill hole diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141440Z">
+        <seg>標稱鑽孔直徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,10 +6188,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table B1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141413Z">
+        <seg>表 B1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table B1: Minimum concrete cover min c1) of post-installed rebar depending of drilling method</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041544Z">
         <seg>表 B1：安裝後鋼筋的最小混凝土保護層 min c1) 視鑽孔方式而定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B2:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141722Z">
+        <seg>表 B2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7164,6 +7260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thickness of fixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141635Z">
+        <seg>夾具厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This E&lt;t0/&gt;uropean Technical Assessment is &lt;t1/&gt;issued in accordance with Regulation (EU)&lt;t2/&gt; No 305/2011, on the basis of</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101815Z">
@@ -7328,6 +7432,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144951Z">
         <seg>若要重新開啟暖腳機，必須先將滑動開關切換至 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torque moment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141630Z">
+        <seg>扭矩</seg>
       </tuv>
     </tu>
     <tu>
