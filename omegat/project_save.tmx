@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>385&lt;t0/&gt;ml&lt;t1/&gt;, 444&lt;t2/&gt;ml&lt;t3/&gt;, 585&lt;t4/&gt;ml&lt;t5/&gt;, 999&lt;t6/&gt;ml&lt;t7/&gt; and 1400&lt;t8/&gt;ml&lt;t9/&gt; injection mortar cartridge (Type: "side-by-side")</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123931Z">
+        <seg>385&lt;t0/&gt;ml&lt;t1/&gt;、444&lt;t2/&gt;ml&lt;t3/&gt;、585&lt;t4/&gt;ml&lt;t5/&gt;、999&lt;t6/&gt;ml&lt;t7/&gt; 和 1400&lt;t8/&gt;ml&lt;t9/&gt; 注射砂漿卡匣 (類型："雙槽式")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3&lt;t0/&gt; &lt;t1/&gt;Cellulite massager AC 850</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113845Z">
@@ -1835,6 +1843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
         <seg>依據下列規範：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component A: &lt;t0/&gt;Injection mortar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124129Z">
+        <seg>構件 A：注射砂漿</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5014,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123359Z">
         <seg>使用安全 (BWR 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sealing / &lt;t0/&gt;Screw cap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
+        <seg>封口/螺帽</seg>
       </tuv>
     </tu>
     <tu>
