@@ -1393,6 +1393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex A 4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132947Z">
+        <seg>附件 A4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020940Z">
@@ -1597,6 +1605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073934Z">
         <seg>鋼筋尺寸 &lt;t0/&gt;ϕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bars and de-coiled rods class B or C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132909Z">
+        <seg>等級 B 或 C 的鋼筋或去螺旋桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,6 +3747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intended Use &lt;t0/&gt;Specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133045Z">
+        <seg>用途　規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intended use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144247Z">
@@ -4872,6 +4896,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123152Z">
         <seg>產品說明   &lt;t0/&gt;安裝條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product description &lt;t0/&gt;Materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133010Z">
+        <seg>產品說明   &lt;t0/&gt;材料</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,6 +7744,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z">
         <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fyk&lt;t0/&gt; &lt;t1/&gt;and k according to NDP or NCL of EN 1992-1-1/NA:2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132941Z">
+        <seg>fyk&lt;t0/&gt;&lt;t1/&gt; 和 k 遵照 EN 1992-1-1/NA:2013 NDP 或 NCL</seg>
       </tuv>
     </tu>
     <tu>
