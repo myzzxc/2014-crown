@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(d: Nominal diameter of the bar; h: Rip height of the bar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125835Z">
+        <seg>(&lt;t0/&gt;d &lt;t1/&gt;：鋼筋標稱直徑；h：鋼筋裂口高度)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(in.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012909Z">
@@ -3993,6 +4001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum value of related rip area &lt;t0/&gt;fR,min&lt;t1/&gt; according to EN 1992-1-1:2004+AC:2010</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125708Z">
+        <seg>• 相關裂口區最小值&lt;t0/&gt;fR,min&lt;t1/&gt; 遵照 EN 1992-1-1:2004+AC:2010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mixer extension</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074229Z">
@@ -4980,8 +4996,8 @@
       <tuv lang="EN-US">
         <seg>Reinforcing bar 0 8, 0 10, 0 12, 0 14, 0 16, 0 20, 0 25, 0 28, 0 32</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125312Z">
-        <seg>鋼筋 0 8, 0 10, 0 12, 0 14, 0 16, 0 20, 0 25, 0 28, 0 32</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125657Z">
+        <seg>鋼筋 ϕ8、ϕ10、ϕ12、ϕ14、ϕ16、ϕ20、ϕ25、ϕ28、ϕ32</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,6 +5046,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T085432Z">
         <seg>請退回至供應商。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rib height of the bar shall be in the range 0,05d h 0,07d</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125724Z">
+        <seg>• 鋼筋裂口高度應介於範圍 0,05 &lt;t0/&gt;ϕ &lt;t1/&gt;≤ h ≤ 0,07&lt;t2/&gt; ϕ</seg>
       </tuv>
     </tu>
     <tu>
