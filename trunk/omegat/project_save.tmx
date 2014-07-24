@@ -2544,6 +2544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EN ISO 7089:2000, EN ISO 7093:2000 or EN ISO 7094:2000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131524Z">
+        <seg>EN ISO 7089:2000、EN ISO 7093:2000 或 EN ISO 7094:2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ENGLISH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z">
@@ -3817,6 +3825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>M24: Property class 70 EN ISO 3506-1:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131753Z">
+        <seg>≤ M24：屬性等級 70 EN ISO 3506-1:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
@@ -3869,6 +3885,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015435Z">
         <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material 1.4401 / 1.4404 / 1.4571 EN 10088:2005,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131837Z">
+        <seg>Material 1.4401 / 1.4404 / 1.4571 EN 10088:2005，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material 1.4401 / 1.4404 / 1.4571, EN 10088-1:2005, &gt; M24: Property class 50 EN ISO 3506-1:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131711Z">
+        <seg>材料 1.4401 1.4404 / 1.4571，EN 10088-1: 2005，&gt; M24： 屬性等級 50 EN ISO 3506-1:2009</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stainless steel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131556Z">
+        <seg>不鏽鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standing water in bore holes must be completely removed by blowing out before cleaning the bore hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T020643Z">
@@ -5478,6 +5518,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130602Z">
         <seg>鋼，EN 10087:1998 或 EN 10263:2001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel, zinc plated or hot-dip &lt;t0/&gt;galvanized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131545Z">
+        <seg>鋼、鍍鋅或熱鍍鋅</seg>
       </tuv>
     </tu>
     <tu>
