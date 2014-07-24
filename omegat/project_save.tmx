@@ -1321,6 +1321,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchorages under seismic actions (cracked concrete) are designed in accordance with:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135442Z">
+        <seg>地震作用下 (龜裂混凝土) 的錨固設計遵照：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchorages under static or quasi-static actions are designed in accordance with:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135259Z">
+        <seg>靜態或准靜態作用下的錨固設計遵照：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchoring element must be straight and free of oil and other contaminants.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022130Z">
@@ -2606,6 +2622,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T080321Z">
         <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EOTA Technical Report TR 029 "Design of bonded anchors", Edition September 2010 or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135349Z">
+        <seg>EOTA 技術報告 TR 029 "黏結錨固設計"，2010 年 9 月版或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EOTA Technical Report TR 045 "Design of Metal Anchors under Seismic Action", Edition February 2013</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135522Z">
+        <seg>EOTA 技術報告 TR 045 "地震作用下的金屬錨固設計"，2013 年 2 月版</seg>
       </tuv>
     </tu>
     <tu>
@@ -7920,6 +7952,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012902Z">
         <seg>毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>position of the anchor relative to reinforcement or to supports, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135234Z">
+        <seg>錨固相對於加固或支撐的位置)。</seg>
       </tuv>
     </tu>
     <tu>
