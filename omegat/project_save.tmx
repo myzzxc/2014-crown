@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2554,6 +2554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry or wet concrete: M8 to M30, Rebar 08 to 032.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141028Z">
+        <seg>乾混凝土或濕混凝土：M8 至 M30，鋼筋 Φ8 至 Φ32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ductility: &lt;t0/&gt;In accordance with ACI 318 D.1, in order for a steel element to be considered ductile, the tested elongation must be at least 14 percent and reduction of area must be at least 30 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070643Z">
@@ -2846,6 +2854,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
         <seg>因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fastenings in stand-off installation or with a grout layer are not allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140923Z">
+        <seg>緊固件不可偏離安裝位置或置於灌漿層。</seg>
       </tuv>
     </tu>
     <tu>
