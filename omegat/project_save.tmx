@@ -1063,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>= diameter of clearance hole in the fixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123458Z">
+        <seg>= 夾具間隙孔的直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Preparing the cartridge 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z">
@@ -7186,6 +7194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>depth of drill hole</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123524Z">
+        <seg>鑽洞深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e.g. SA 2960585 IIMP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053454Z">
@@ -7314,6 +7330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>h&lt;t0/&gt;ef&lt;t1/&gt; = effective anchorage depth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123516Z">
+        <seg>h&lt;t0/&gt;ef&lt;t1/&gt; = 有效錨固深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022140Z">
@@ -7406,6 +7430,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021155Z">
         <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thickness of fixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123507Z">
+        <seg>夾具厚度</seg>
       </tuv>
     </tu>
     <tu>
