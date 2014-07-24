@@ -3269,8 +3269,8 @@
       <tuv lang="EN-US">
         <seg>I: - &lt;t0/&gt;40 °C to +40 °C (max long term temperature +24 °C and max short term temperature +40 °C)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133809Z">
-        <seg>I: - &lt;t0/&gt;40 °C to +40 °C (短期最高溫度 +24 °C 和短期最高溫度 +40 °C)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133846Z">
+        <seg>I: - &lt;t0/&gt;40 °C 至 +40 °C (長期最高溫度 +24 °C 和短期最高溫度 +40 °C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3301,16 +3301,16 @@
       <tuv lang="EN-US">
         <seg>II: - 40 °C to +60 °C (max long term temperature +43 °C and max short term temperature +60 °C)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133816Z">
-        <seg>II: - 40 °C to +60 °C (max long term temperature +43 °C 和短期最高溫度 +60 °C)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133853Z">
+        <seg>II: - 40 °C 至 +60 °C (長期最高溫度 +43 °C 和短期最高溫度 +60 °C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>III: - 40 °C to +72 °C (max long term temperature +43 °C and max short term temperature +72 °C)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133824Z">
-        <seg>III: - 40 °C to +72 °C (max long term temperature +43 °C 和短期最高溫度 +72 °C)</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133906Z">
+        <seg>III: - 40 °C 至 +72 °C (長期最高溫度 +43 °C 和短期最高溫度 +72 °C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7344,6 +7344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093956Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use conditions (Environmental conditions):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133920Z">
+        <seg>使用條件 (環境條件)：</seg>
       </tuv>
     </tu>
     <tu>
