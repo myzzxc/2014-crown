@@ -1743,6 +1743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic resist&lt;t0/&gt;ance for shear loads in cracked &lt;t1/&gt;and non-cracked concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121848Z">
+        <seg>龜裂混凝土和未龜裂混凝土在剪力負荷下的特徵抗力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic resistan&lt;t0/&gt;ce for tension loads in cracked &lt;t1/&gt;concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121443Z">
@@ -2164,6 +2172,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053917Z">
         <seg>點膠工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displacements under tension and shear loads</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121957Z">
+        <seg>張力和剪力負荷下之位移</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,10 +4922,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Annex C 13 / C 14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122008Z">
+        <seg>請參閱附件 C13/C14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Annex C 2 / C 5 / C 8 / C 11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121458Z">
         <seg>請參閱附件 C2/C5/C8/C11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Annex C 3 / C 6 / C 9 / C 12</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121905Z">
+        <seg>請參閱附件 C3/C6/C9/C12</seg>
       </tuv>
     </tu>
     <tu>
