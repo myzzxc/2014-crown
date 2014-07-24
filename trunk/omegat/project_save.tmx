@@ -6002,6 +6002,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The indications given on the working life cannot be interpreted as a guarantee given by the producer, but are to be regarded only as a means for choosing the right products in relation to the expected economically reasonable working life of the works&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120644Z">
+        <seg>此工作壽命不可視為生產者的保證，但可用於選擇符合預期經濟合理工作壽命的合適產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The indicator light goes out if the safety system switches off the foot warmer due to a fault, even if the foot warmer is still switched on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150416Z">
@@ -6126,6 +6134,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062832Z">
         <seg>包裝可重複使用或回收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The performances given in Section 3 are only valid if the anchor is used in compliance with the specifications and conditions given in Annex B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120620Z">
+        <seg>第 3 部分所描述的性能，僅在鋼筋連接符合附件 B 規格條件時適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6258,6 +6274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The steel element is placed into a drilled hole filled with injection mortar and is anchored via the bond between metal part, injection mortar and concrete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120415Z">
+        <seg>將鋼構件置入鑽孔內，並填入注射砂漿，經由金屬零件、注射砂漿和混凝土之間的黏結錨固。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z">
@@ -6358,6 +6382,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081356Z">
         <seg>依照 ACI 318 D.3.7，&lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; 值應限制在 8,000 psi (55 MPa) 內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The verifications and assessment methods on which this European Technical Assessment is based lead to the assumption of a working life of the anchor of at least 50 years.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120637Z">
+        <seg>本歐洲技術評估的審核與評估方法，假設錨固至少有 50 年的工作壽命。</seg>
       </tuv>
     </tu>
     <tu>
