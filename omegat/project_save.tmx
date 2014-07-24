@@ -2538,6 +2538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drill bit diameter (d&lt;t0/&gt;0&lt;t1/&gt;): 24 mm to 40 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142453Z">
+        <seg>鑽頭直徑 (d&lt;t0/&gt;0&lt;t1/&gt;)：24 mm 至 40 mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill hole with a hammer drill set.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015256Z">
@@ -4935,6 +4943,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T012611Z">
         <seg>活塞蓋和混合器延伸器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piston plug for overhead or horizontal installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142439Z">
+        <seg>架空或水平安裝用活塞蓋</seg>
       </tuv>
     </tu>
     <tu>
