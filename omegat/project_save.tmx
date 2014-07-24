@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1309,6 +1309,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031633Z">
         <seg>根據經驗豐富工程師在錨固和混凝土工程中的職責設計錨固。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anchorages shall be positioned outside of critical regions (e.g. plastic hinges) of the concrete structure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140355Z">
+        <seg>錨固應置於混凝土結構的關鍵區域 (例如：塑性鉸) 以外。 </seg>
       </tuv>
     </tu>
     <tu>
