@@ -1727,6 +1727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cartridge: &lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123809Z">
+        <seg>卡匣：&lt;t0/&gt;Multifix&lt;t1/&gt; MF-EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cartridge: side-by-side (385, 444, 585 999, 1400 ml)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074036Z">
@@ -3957,6 +3965,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234017Z">
         <seg>Multifix 注膠系統 MF-EX1 鋼筋連接型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multifix&lt;t0/&gt; Injection System MF-EX1 for Concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123735Z">
+        <seg>Multifix 注膠系統 MF-EX1 混凝土型</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,6 +7350,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123516Z">
         <seg>h&lt;t0/&gt;ef&lt;t1/&gt; = 有效錨固深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hmin&lt;t0/&gt; = minimum thickness of member</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123632Z">
+        <seg>hmin&lt;t0/&gt; = 最小構件厚度</seg>
       </tuv>
     </tu>
     <tu>
