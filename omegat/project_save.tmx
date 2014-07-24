@@ -1087,6 +1087,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; M24: Property class 50 (for class 50 rod) EN ISO 3506-2:2009 M24: Property class 70 (for class 70 rod) EN ISO 3506-2:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132013Z">
+        <seg>&gt; M24：屬性等級 50 (用於等級 50 錨桿) EN ISO 3506-2:2009 
+≤ M24：屬性等級 70 (用於等級 70 錨桿) EN ISO 3506-2:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Preparing the cartridge 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z">
@@ -3169,6 +3178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High corrosion resistance steel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132151Z">
+        <seg>高抗腐蝕性鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hole cleaning equipment: &lt;t0/&gt;Hole cleaning equipment comprised of steel wire brushes and air nozzles must be used in accordance with Figure 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135213Z">
@@ -3901,6 +3918,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131711Z">
         <seg>材料 1.4401 1.4404 / 1.4571，EN 10088-1: 2005，&gt; M24： 屬性等級 50 EN ISO 3506-1:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material 1.4529 / 1.4565, EN 10088-1:2005,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132157Z">
+        <seg>材料 1.4529 / 1.4565, EN 10088-1:2005,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Material &lt;t0/&gt;-&lt;t1/&gt;1.4401, &lt;t2/&gt;-&lt;t3/&gt;1.4'404 or 1.4'571, EN 10088-1:200;5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132057Z">
+        <seg>材料 &lt;t0/&gt;-&lt;t1/&gt;1.4401, &lt;t2/&gt;-&lt;t3/&gt;1.4'404 或 1.4'571, EN 10088-1:200;5</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z">
         <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Washer, &lt;t0/&gt;EN ISO 887:2006,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132026Z">
+        <seg>墊圈，EN ISO 887:2006，</seg>
       </tuv>
     </tu>
     <tu>
