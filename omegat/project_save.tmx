@@ -6250,6 +6250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The steel element consist of a commercial threaded rod with washer and hexagon nut in the range of M8 to M30 or a reinforcing bar in the range of diameter 8 to 32 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120045Z">
+        <seg>鋼構件由附有墊圈的商用螺牙桿和 M8 至 M30 的六角螺母所組成，或是直徑為 8 至 32 mm 的鋼筋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z">
