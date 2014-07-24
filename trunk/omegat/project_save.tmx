@@ -1315,8 +1315,8 @@
       <tuv lang="EN-US">
         <seg>Anchor size</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141432Z">
-        <seg>錨固大小</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141900Z">
+        <seg>錨固尺寸</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation parameters for rebar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141829Z">
+        <seg>鋼筋安裝參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation parameters for threaded rod</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141423Z">
@@ -3895,6 +3903,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053914Z">
         <seg>用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intended Use &lt;t0/&gt;Installation parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141945Z">
+        <seg>用途　 &lt;t0/&gt; 安裝參數</seg>
       </tuv>
     </tu>
     <tu>
@@ -4819,6 +4835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142025Z">
+        <seg>參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Part</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125927Z">
@@ -5296,6 +5320,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041635Z">
         <seg>鋼筋直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rebar size</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141916Z">
+        <seg>鋼筋尺寸</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +5844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel brush</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142018Z">
+        <seg>鋼刷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel design information for common grades of threaded rod and associated nuts are provided in Table 2 and Table 3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001725Z">
@@ -6216,6 +6256,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042241Z">
         <seg>表 B2：最大埋設深度 &lt;t0/&gt;lv,max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B3:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142022Z">
+        <seg>表 B3:</seg>
       </tuv>
     </tu>
     <tu>
