@@ -1319,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex A 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123154Z">
+        <seg>附件 A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020940Z">
@@ -3553,6 +3561,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation reinforcing bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123202Z">
+        <seg>安裝鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation threaded rod</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123119Z">
+        <seg>安裝螺牙桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T150429Z">
@@ -4590,6 +4614,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T021001Z">
         <seg>產品說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product description &lt;t0/&gt;Installed condition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123152Z">
+        <seg>產品說明   &lt;t0/&gt;安裝條件</seg>
       </tuv>
     </tu>
     <tu>
