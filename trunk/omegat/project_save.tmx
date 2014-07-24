@@ -1351,6 +1351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex A 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125056Z">
+        <seg>附件 A3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T020940Z">
@@ -3561,6 +3569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspection certificate 3.1 acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125217Z">
+        <seg>檢驗證明書 3.1 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation instruction: Bore hole drilling and Bore hole cleaning</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062531Z">
@@ -3817,10 +3833,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marking of embedment depth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125241Z">
+        <seg>埋設深度標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Material</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015435Z">
         <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Materials, dimensions and mec&lt;t0/&gt;hanical properties acc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125153Z">
+        <seg>材料、尺寸和機械性質遵照</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table A1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125158Z">
+        <seg>表 A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table A1: Materials</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015359Z">
@@ -6492,8 +6532,8 @@
       <tuv lang="EN-US">
         <seg>The steel element consist of a commercial threaded rod with washer and hexagon nut in the range of M8 to M30 or a reinforcing bar in the range of diameter 8 to 32 mm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120045Z">
-        <seg>鋼構件由附有墊圈的商用螺牙桿和 M8 至 M30 的六角螺母所組成，或是直徑為 8 至 32 mm 的鋼筋。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124956Z">
+        <seg>鋼構件由附有墊圈和六角螺母的M8 至 M30 商用螺牙桿所組成，或是直徑為 8 至 32 mm 的鋼筋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6782,6 +6822,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004932Z">
         <seg>螺紋柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threaded rod M8, M10, M12, M16, M20, M24, M27, M30 with washer and hexagon nut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124941Z">
+        <seg>螺牙桿 M8、M10、M12、M16、M20、M24、M27、M30 附帶墊圈和六角螺母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threaded rod and reinforcing bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125046Z">
+        <seg>螺牙桿和鋼筋</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c&lt;t0/&gt;ommercial&lt;t1/&gt; &lt;t2/&gt;standard threaded rod with:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125131Z">
+        <seg>商用標準螺牙桿：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>compressed air tool hand slide valve (min 6 bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
@@ -7526,6 +7590,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123507Z">
         <seg>夾具厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to EN 10204:2004</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125223Z">
+        <seg> EN 10204:2004</seg>
       </tuv>
     </tu>
     <tu>
