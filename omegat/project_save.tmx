@@ -4786,6 +4786,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Property class 4.6, 5.8, 8.8, EN 1993-1-8:2005+AC:2009</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131113Z">
+        <seg>屬性等級 4.6, 5.8, 8.8, EN 1993-1-8:2005+AC:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property evaluated:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133152Z">
