@@ -1559,6 +1559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115009Z">
+        <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II 新加坡 738960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II &lt;t0/&gt;SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143012Z">
@@ -1587,6 +1595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045654Z">
         <seg>黏結2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bonded anchor with anchor rod for use in concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T114958Z">
+        <seg>用於混凝土之黏結錨固和錨桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,6 +2452,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094318Z">
         <seg>ETA-14/0202&lt;t0/&gt; &lt;t1/&gt;2014 年 6 月 26 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ETA-14/0205 of 4 July 2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T114748Z">
+        <seg>ETA-14/0202  2014 年 7 月 4 日</seg>
       </tuv>
     </tu>
     <tu>
