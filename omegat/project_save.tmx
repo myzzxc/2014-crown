@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 bar) or a hand pump (Annex B 3) a minimum of two times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143400Z">
+        <seg>(至少 6 bar) 或手壓泵 (附件 B3) 清潔鑽孔至少兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 bar) or a hand pump a minimum of two times.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063514Z">
@@ -5848,6 +5856,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T020643Z">
         <seg>清潔鑽鑿孔洞前必須使用氣槍完全吹除孔洞內之水氣，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standing water in the bore hole must be removed before cleaning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143201Z">
+        <seg>清潔孔洞前必須清除孔洞內積水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting from &lt;t0/&gt;the bottom or back of the bore hole, blow the hole clean with compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143213Z">
+        <seg>由鑽孔的底部或後方開始，使用壓縮空氣</seg>
       </tuv>
     </tu>
     <tu>
