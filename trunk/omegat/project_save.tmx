@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1753,6 +1753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brush - &lt;t0/&gt;Φ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142315Z">
+        <seg>鋼刷 - &lt;t0/&gt;Φ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush - &lt;t0/&gt;ϕ</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063411Z">
@@ -2514,6 +2522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drill bit - &lt;t0/&gt;Φ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142306Z">
+        <seg>鑽頭 - &lt;t0/&gt;Φ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill bit - &lt;t0/&gt;ϕ</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063404Z">
@@ -2526,6 +2542,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015256Z">
         <seg>使用衝擊鑽頭組鑽出孔洞，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drill&lt;t0/&gt; bit diameter (d&lt;t1/&gt;o&lt;t2/&gt;): 10 mm to 20 mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142412Z">
+        <seg>鑽頭直徑 (d&lt;t1/&gt;o&lt;t2/&gt;)：10 mm 至 20 mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4491,6 +4515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No &lt;t0/&gt;piston plug &lt;t1/&gt;required</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142342Z">
+        <seg>無須活塞蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No performance determined (NPD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
@@ -5472,6 +5504,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
         <seg>具有窒息危險 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rod</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142259Z">
+        <seg>桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -7388,6 +7428,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threaded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142254Z">
+        <seg>螺牙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threaded rod</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004932Z">
@@ -8152,6 +8200,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040844Z">
         <seg>min c 	最小混凝土保護層，根據表 B1 和 EN 1992-1-1:2004+AC:2010 章節 4.4.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>min&lt;t0/&gt;.&lt;t1/&gt; Brush - &lt;t2/&gt;Φ</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142328Z">
+        <seg>最小鋼刷 - &lt;t2/&gt;Φ</seg>
       </tuv>
     </tu>
     <tu>
