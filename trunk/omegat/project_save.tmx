@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_10" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6184,6 +6184,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133157Z">
         <seg>結構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structures subject to dry internal conditions&lt;t0/&gt; &lt;t1/&gt;(zinc coated steel, stainless steel or high corrosion resistant steel).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T231712Z">
+        <seg>適用室內乾燥環境之結構 (鍍鋅鋼、不鏽鋼或耐高腐蝕鋼)。</seg>
       </tuv>
     </tu>
     <tu>
