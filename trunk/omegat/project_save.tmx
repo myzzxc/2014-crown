@@ -6190,8 +6190,24 @@
       <tuv lang="EN-US">
         <seg>Structures subject to dry internal conditions&lt;t0/&gt; &lt;t1/&gt;(zinc coated steel, stainless steel or high corrosion resistant steel).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T231712Z">
-        <seg>適用室內乾燥環境之結構 (鍍鋅鋼、不鏽鋼或耐高腐蝕鋼)。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232101Z">
+        <seg>適用室內乾燥環境之結構 (鍍鋅鋼、不鏽鋼或高抗腐蝕鋼)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structures subject to external atmospheric exposure (including industrial and marine environment) and to permanently damp internal condition, if no particular aggressive conditions exist&lt;t0/&gt; &lt;t1/&gt;(stainless steel or high corrosion resistant steel).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232147Z">
+        <seg>若在無特別侵略性的環境下，適用室外暴露 (包括工業和海洋環境) 以及永久潮濕室內環境之結構 (不鏽鋼或高抗腐蝕鋼)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Structures subject to external atmospheric exposure and to permanently damp internal condition, if other particular aggressive conditions exist&lt;t0/&gt; &lt;t1/&gt;(high corrosion resistant steel).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232201Z">
+        <seg>若在特別侵略性的環境下，適用室外暴露以及永久潮濕室內環境之結構 (高抗腐蝕鋼)。</seg>
       </tuv>
     </tu>
     <tu>
