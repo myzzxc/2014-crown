@@ -4707,6 +4707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Particular &lt;t0/&gt;aggressive conditions are e.g. permanent, alternating immersion in seawater or the splash zone of seawater, chloride atmosphere of indoor swimming pools or atmosphere with extreme chemical pollution&lt;t1/&gt; &lt;t2/&gt;(e.g. in desulphurization plants or road tunnels where de-icing materials are used).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232657Z">
+        <seg>註：特別侵略性環境，像是：永久交替性的浸泡在海水或位在海水飛濺區內、接觸室內游泳池的氯或嚴重化學汙染環境 (如：使用除冰材料的脫硫設備或公路隧道)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -6198,8 +6206,8 @@
       <tuv lang="EN-US">
         <seg>Structures subject to external atmospheric exposure (including industrial and marine environment) and to permanently damp internal condition, if no particular aggressive conditions exist&lt;t0/&gt; &lt;t1/&gt;(stainless steel or high corrosion resistant steel).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232147Z">
-        <seg>若在無特別侵略性的環境下，適用室外暴露 (包括工業和海洋環境) 以及永久潮濕室內環境之結構 (不鏽鋼或高抗腐蝕鋼)。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232601Z">
+        <seg>若在無特別侵略性的環境下，適用室外暴露環境 (包括工業和海洋環境) 以及永久潮濕室內環境之結構 (不鏽鋼或高抗腐蝕鋼)。</seg>
       </tuv>
     </tu>
     <tu>
