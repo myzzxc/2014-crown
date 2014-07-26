@@ -6964,6 +6964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hand-pump can be used for anchor sizes up to bore &lt;t0/&gt;hole&lt;t1/&gt; diameter 20 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T233806Z">
+        <seg>手壓泵可用於錨固鑽孔直徑大小最大 20 mm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heating blanket features an electric temperature control that regulates precisely the warmth-supply according to the chosen setting (1-2-3-4).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
