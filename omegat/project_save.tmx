@@ -2001,6 +2001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic &lt;t0/&gt;bending moment&lt;t1/&gt;, Stainless steel A4 and HCR, property class 50 (&gt;M24) and 70 (≤ M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050527Z" creationid="MAE" creationdate="20140727T050527Z">
+        <seg>彎矩特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic &lt;t0/&gt;resistance for tension loads in &lt;t1/&gt;non-cracked concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121412Z">
@@ -2021,6 +2029,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050405Z" creationid="MAE" creationdate="20140727T050206Z">
         <seg>彎矩特徵值，鋼材，屬性類別 4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic bending moment, Steel, property class 5.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050504Z" creationid="MAE" creationdate="20140727T050504Z">
+        <seg>彎矩特徵值，鋼材，屬性類別 5.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic bending moment, Steel, property class 8.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050512Z" creationid="MAE" creationdate="20140727T050512Z">
+        <seg>彎矩特徵值，鋼材，屬性類別 8.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,6 +5063,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142342Z">
         <seg>無須活塞蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Performance Determined (NPD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050456Z" creationid="MAE" creationdate="20140727T050456Z">
+        <seg>無確定性能 (NPD)</seg>
       </tuv>
     </tu>
     <tu>
