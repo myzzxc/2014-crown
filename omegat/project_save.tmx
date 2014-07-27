@@ -2201,6 +2201,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under tension loads in cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051919Z" creationid="MAE" creationdate="20140727T051919Z">
+        <seg>龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under tension loads in non-cracked concrete (Design according to TR 029)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051654Z" creationid="MAE" creationdate="20140727T051654Z">
+        <seg>未龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 TR 029 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under tension loads in&lt;t0/&gt; &lt;t1/&gt;cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051730Z" creationid="MAE" creationdate="20140727T051730Z">
+        <seg>龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for rebar under tension loads in&lt;t0/&gt; &lt;t1/&gt;non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051418Z" creationid="MAE" creationdate="20140727T051418Z">
@@ -4303,6 +4327,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045327Z" creationid="MAE" creationdate="20140727T045327Z">
         <seg>混凝土增加因子 (僅有靜態或半靜態作用力)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increasing factors for concrete (only static or quasi-static actions) &lt;t0/&gt;lVc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051851Z" creationid="MAE" creationdate="20140727T051851Z">
+        <seg>混凝土增加因子 (僅有靜態或半靜態作用力) </seg>
       </tuv>
     </tu>
     <tu>
@@ -7172,6 +7204,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C5:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051708Z" creationid="MAE" creationdate="20140727T051703Z">
+        <seg>表 C5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C6:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051928Z" creationid="MAE" creationdate="20140727T051928Z">
+        <seg>表 C6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table IV Processing and curing times Temper ture range Working time/ processing M Curing Me rime +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z">
@@ -9016,6 +9064,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z">
         <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flooded bore hol&lt;t0/&gt;e</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051750Z" creationid="MAE" creationdate="20140727T051750Z">
+        <seg>灌注之鑽孔</seg>
       </tuv>
     </tu>
     <tu>
