@@ -1809,6 +1809,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brush the hole with an appropriate sized wire brush &gt; &lt;t4/&gt;db&lt;t5/&gt;,m.n&lt;t6/&gt; (Table B3) a minimum of two times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002517Z">
+        <seg>使用適當大小的鋼刷 &gt; db,min (表 B3) 清潔鑽孔至少兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062551Z">
@@ -1933,6 +1941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121443Z">
         <seg>龜裂混凝土在張力負荷下的特徵抗力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check brush &lt;t0/&gt;diameter (Table 83) and attach the brush to a &lt;t1/&gt;drilling &lt;t2/&gt;machine &lt;t3/&gt;or a battery screwdriver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002443Z">
+        <seg>確認鋼刷直徑 (表 B3)，並將鋼刷與鑽孔機或電動起子連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally blow the hole clean again with compressed air &lt;t0/&gt;(min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
+        <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flooded holes (not sea water): M8 to M30, Rebar 08 to 032.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141112Z">
@@ -3559,6 +3583,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061151Z">
         <seg>若無法觸及鑽孔底部，則應使用延伸器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the bore hole ground is not reached with the brush, a brush extension shall be used (Table B3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002518Z">
+        <seg>若鋼刷無法觸及鑽孔底部，則應使用鋼刷延伸器。</seg>
       </tuv>
     </tu>
     <tu>
