@@ -4083,6 +4083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increasing factors for concrete &lt;t0/&gt;Vc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043840Z" creationid="MAE" creationdate="20140727T043840Z">
+        <seg>混凝土增加因子 Vc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection &lt;t0/&gt;mortar: &lt;t1/&gt;Multifix&lt;t2/&gt; MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070820Z">
@@ -6928,6 +6936,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043610Z" creationid="MAE" creationdate="20140727T043610Z">
         <seg>溫度範圍 II：60°C/43°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range III: 72°C/43°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043628Z" creationid="MAE" creationdate="20140727T043628Z">
+        <seg>溫度範圍 III：72°C/43°C</seg>
       </tuv>
     </tu>
     <tu>
