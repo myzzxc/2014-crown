@@ -2762,6 +2762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;isplacements under tension load&lt;t1/&gt;1&lt;t2/&gt;)&lt;t3/&gt; (threaded rod)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054800Z" creationid="MAE" creationdate="20140727T054800Z">
+        <seg>處於張力負荷下之位移&lt;t1/&gt;1&lt;t2/&gt;)&lt;t3/&gt; (螺紋柱)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z">
@@ -5555,6 +5563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non&lt;t0/&gt;-&lt;t1/&gt;cracked concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054855Z" creationid="MAE" creationdate="20140727T054855Z">
+        <seg>未龜裂混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal-weight concrete must comply with Sections 1903 and 1905 of the IBC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z">
@@ -7468,6 +7484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C13:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054656Z" creationid="MAE" creationdate="20140727T054656Z">
+        <seg>表 C13：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table C1:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042335Z" creationid="MAE" creationdate="20140727T042335Z">
@@ -7640,6 +7664,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021455Z">
         <seg>溫度範圍 B：短期最高溫度 = 162°F (72°C)，長期最高溫度 = 122°F (50°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range I:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054900Z" creationid="MAE" creationdate="20140727T054900Z">
+        <seg>溫度範圍 I：</seg>
       </tuv>
     </tu>
     <tu>
