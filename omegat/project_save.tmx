@@ -1273,6 +1273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow the adhesive to cure to the specified time prior to applying any load or torque.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004810Z">
+        <seg>黏著劑在承受任何附載前可於指定時間固化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow the adhesive to cure to the specified time prior to applying any load.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085008Z">
@@ -2550,6 +2558,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>請勿熨燙保溫電毯！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not move or load the anchor until it is fully cured (attend Table B4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004816Z">
+        <seg>在充分固化前，請勿移動或加載 (請參閱表 B4)。</seg>
       </tuv>
     </tu>
     <tu>
