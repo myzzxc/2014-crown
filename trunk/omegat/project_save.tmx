@@ -2009,6 +2009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic &lt;t0/&gt;shear&lt;t1/&gt; resistance,&lt;t2/&gt; &lt;t3/&gt;Stainless steel A4 and HCR,&lt;t4/&gt; property class 50 (&gt;M24) and 70 (&lt;t5/&gt;≤&lt;t6/&gt; &lt;t7/&gt;M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045752Z" creationid="MAE" creationdate="20140727T045752Z">
+        <seg>抗剪力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bond</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021239Z">
@@ -2057,6 +2065,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic shear resistance, Steel, property class 4.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045656Z" creationid="MAE" creationdate="20140727T045656Z">
+        <seg>抗剪力特性，鋼材，屬性類別 4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic shear resistance, Steel, property class 5.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045708Z" creationid="MAE" creationdate="20140727T045708Z">
+        <seg>抗剪力特性，鋼材，屬性類別 5.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic shear resistance, Steel, property class 8.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045718Z" creationid="MAE" creationdate="20140727T045718Z">
+        <seg>抗剪力特性，鋼材，屬性類別 8.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042951Z" creationid="MAE" creationdate="20140727T042951Z">
@@ -2093,6 +2125,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043123Z" creationid="MAE" creationdate="20140727T043123Z">
         <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under shear loads in&lt;t0/&gt; &lt;t1/&gt;cracked and non-cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045559Z" creationid="MAE" creationdate="20140727T045559Z">
+        <seg>龜裂或未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6464,6 +6504,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044329Z" creationid="MAE" creationdate="20140727T042838Z">
         <seg>鋼材破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel failure without lever arm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045634Z" creationid="MAE" creationdate="20140727T045634Z">
+        <seg>無力臂之鋼材破壞</seg>
       </tuv>
     </tu>
     <tu>
