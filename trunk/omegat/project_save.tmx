@@ -3234,10 +3234,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For foil tube cartridges is must be discarded a minimum of six full strokes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003526Z">
+        <seg>鋁箔館卡匣則必須丟棄至少六條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ongoing installations over an extended period, the special inspector must make regular inspections to confirm correct handling and installation of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132117Z">
         <seg>對於正在進行之長期安裝，需定期進行特別檢查以確保產品正確處理及安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead and horizontal installation a piston plug (Annex B 3) and extension nozzle shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003705Z">
+        <seg>架空或水平安裝，應使用活塞蓋 (附錄 B3) 和延伸噴嘴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4011,6 +4027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installation &lt;t0/&gt;instructions (continuation)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003553Z">
+        <seg>安裝說明 (續)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation instruction: Bore hole drilling and Bore hole cleaning</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062531Z">
@@ -4119,6 +4143,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053914Z">
         <seg>用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intended Use &lt;t0/&gt;Installation instructions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003545Z">
+        <seg>目的　 &lt;t0/&gt;安裝說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -6016,6 +6048,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143213Z">
         <seg>由鑽孔的底部或後方開始，使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting from the bottom or back of the cleaned anchor &lt;t0/&gt;hole&lt;t1/&gt; fill the hole up to approximately two-thirds with adhesive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003558Z">
+        <seg>由已清潔錨孔的底部或後方開始，填入黏著劑約 2 至 3 次。</seg>
       </tuv>
     </tu>
     <tu>
