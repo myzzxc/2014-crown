@@ -2033,6 +2033,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic tension resistance, Steel, property class 5.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043003Z" creationid="MAE" creationdate="20140727T043003Z">
+        <seg>抗張力特性，鋼材，屬性類別 5.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic tension resistance, Steel, property class 8.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043023Z" creationid="MAE" creationdate="20140727T043023Z">
+        <seg>抗張力特性，鋼材，屬性類別 8.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic tension resistance,&lt;t0/&gt; &lt;t1/&gt;Stainless steel A4 and HCR,&lt;t2/&gt; property class 50 (&gt;M24) and 70 (&lt;t3/&gt;≤&lt;t4/&gt;M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043123Z" creationid="MAE" creationdate="20140727T043123Z">
+        <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042658Z" creationid="MAE" creationdate="20140727T042642Z">
@@ -2077,6 +2101,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142750Z">
         <seg>清潔和設置工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combined pull-out and concrete cone failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043150Z" creationid="MAE" creationdate="20140727T043150Z">
+        <seg>結合拉出和混凝土錐體失效</seg>
       </tuv>
     </tu>
     <tu>
