@@ -1737,6 +1737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be sure that the anchor is fully seated at the bottom of the hole and that excess&lt;t0/&gt; &lt;t1/&gt;mortar is visible at the top of the hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004730Z">
+        <seg>確認錨桿完全固定在錨孔底部，而多餘的砂漿出現在錨孔頂部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be sure that the bar is inserted in the bore hole until the embedment mark is at the concrete surface and that excess mortar is visible at the top of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083517Z">
@@ -3262,6 +3270,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073702Z">
         <seg>對於鑽孔深度超過 240 mm 的架空或水平安裝，應使用活塞蓋和合適的混合器延伸器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For overhead application the anchor rod should be fixed (e.g. wedges).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004803Z">
+        <seg>錨桿架空安裝必須固定 (例如楔型體)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4939,6 +4955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Observe the gel-i working times given in Table B4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004534Z">
+        <seg>請見表 B4 的凝膠時間和工作時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -5472,6 +5496,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111911Z">
         <seg>如果您想要連續使用則推動開關至位置 &lt;/f4&gt; &lt;f5&gt;1 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;2 &lt;/f7&gt;&lt;f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push the threaded rod or reinforcing bar into the anchor hole while turning slightly 10 ensure positive distribution of the adhesive until the embedment depth is reached&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004538Z">
+        <seg>將鋼筋推入錨孔，同時稍微轉動直到達到埋設深度，以確保黏著劑均勻分布。</seg>
       </tuv>
     </tu>
     <tu>
