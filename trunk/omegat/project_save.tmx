@@ -1649,6 +1649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052622Z" creationid="MAE" creationdate="20140727T052622Z">
+        <seg>附件 C 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2305,10 +2313,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads in non-cracked concrete (Design according to CEN/TS 1992-4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052746Z" creationid="MAE" creationdate="20140727T052701Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044850Z" creationid="MAE" creationdate="20140727T044757Z">
         <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 TR 029 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads in&lt;t0/&gt; &lt;t1/&gt;cracked concrete (Design according to CEN/TS 1992-4 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052835Z" creationid="MAE" creationdate="20140727T052835Z">
+        <seg>龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2323,8 +2347,8 @@
       <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to CEN/TS 1992-4)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052332Z" creationid="MAE" creationdate="20140727T052332Z">
-        <seg>未龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 設計)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052716Z" creationid="MAE" creationdate="20140727T052332Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,6 +7344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052249Z" creationid="MAE" creationdate="20140727T052249Z">
         <seg>表 C7：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C8:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052754Z" creationid="MAE" creationdate="20140727T052754Z">
+        <seg>表 C 8：</seg>
       </tuv>
     </tu>
     <tu>
