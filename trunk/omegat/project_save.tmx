@@ -2009,6 +2009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bond resistance in cracked concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045022Z" creationid="MAE" creationdate="20140727T045022Z">
+        <seg>龜裂混凝土 C20/25 中之特徵黏結抗力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bond resistance in non-cracked concrete C20/25</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043319Z" creationid="MAE" creationdate="20140727T043319Z">
@@ -2065,6 +2073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic tension resistance,&lt;t0/&gt; &lt;t1/&gt;Stainless steel A4 and HCR,&lt;t2/&gt; property class 50 (&gt;M24) and 70 (&lt;t3/&gt;≤&lt;t4/&gt; &lt;t5/&gt;M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045005Z" creationid="MAE" creationdate="20140727T045005Z">
+        <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic tension resistance,&lt;t0/&gt; &lt;t1/&gt;Stainless steel A4 and HCR,&lt;t2/&gt; property class 50 (&gt;M24) and 70 (&lt;t3/&gt;≤&lt;t4/&gt;M24)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043123Z" creationid="MAE" creationdate="20140727T043123Z">
@@ -2075,8 +2091,16 @@
       <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044757Z" creationid="MAE" creationdate="20140727T044757Z">
-        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044850Z" creationid="MAE" creationdate="20140727T044757Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 TR 029 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044950Z" creationid="MAE" creationdate="20140727T044950Z">
+        <seg>龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6884,6 +6908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C2:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044859Z" creationid="MAE" creationdate="20140727T044859Z">
+        <seg>表 C2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table C2: Design values of the ultimate bond resistance &lt;t0/&gt;fbd&lt;t1/&gt; in N/mm2 for all drilling methods for good conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090203Z">
@@ -6980,10 +7012,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature range I: 40°C/24°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045027Z" creationid="MAE" creationdate="20140727T045027Z">
+        <seg>溫度範圍 I：40°C/24°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature range I: &lt;t0/&gt;40°C/24°C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043346Z" creationid="MAE" creationdate="20140727T043346Z">
         <seg>溫度範圍 I：40°C/24°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range II: 60°C/43°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045036Z" creationid="MAE" creationdate="20140727T045036Z">
+        <seg>溫度範圍 II：60°C/43°C</seg>
       </tuv>
     </tu>
     <tu>
@@ -8576,6 +8624,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123524Z">
         <seg>鑽洞深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dry and &lt;t0/&gt;wet concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045042Z" creationid="MAE" creationdate="20140727T045042Z">
+        <seg>乾混凝土及濕混凝土。</seg>
       </tuv>
     </tu>
     <tu>
