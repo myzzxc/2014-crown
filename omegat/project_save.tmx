@@ -2073,10 +2073,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads in non-cracked concrete (Design according to TR 029)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044757Z" creationid="MAE" creationdate="20140727T044757Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042658Z" creationid="MAE" creationdate="20140727T042642Z">
-        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044838Z" creationid="MAE" creationdate="20140727T042642Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 TR 029 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4171,6 +4179,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install safety factor (dry and wet concrete)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044608Z" creationid="MAE" creationdate="20140727T044608Z">
+        <seg>安裝安全因子 (乾混凝土及濕混凝土)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install safety factor (flooded bore hole)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044633Z" creationid="MAE" creationdate="20140727T044633Z">
+        <seg>安裝安全因子 (灌注之鑽孔)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installation &lt;t0/&gt;instructions (continuation)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003553Z">
@@ -4783,6 +4807,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015055Z">
         <seg>Multi-Fix Fasteners Pte Ltd 2 廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multifix&lt;t0/&gt; Injection &lt;t1/&gt;System MF-EX1 for Concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044717Z" creationid="MAE" creationdate="20140727T044717Z">
+        <seg>Multifix 注膠系統 MF-EX1 混凝土型</seg>
       </tuv>
     </tu>
     <tu>
