@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1)&lt;t0/&gt; Calculation of the displacement &lt;t1/&gt;6&lt;t2/&gt;N0 &lt;t3/&gt;= &lt;t4/&gt;ANO-&lt;t5/&gt;fnrtnr&lt;t6/&gt; &lt;t7/&gt;.&lt;t8/&gt; &lt;t9/&gt;T;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055143Z" creationid="MAE" creationdate="20140727T055143Z">
+        <seg>1)計算之位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>130 x 110 x 85 mm (L x W x H)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073334Z">
@@ -446,6 +454,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6N6-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055058Z" creationid="MAE" creationdate="20140727T055058Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6N_-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055039Z" creationid="MAE" creationdate="20140727T055039Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6No-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055024Z" creationid="MAE" creationdate="20140727T055024Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6No&lt;t0/&gt;..&lt;t1/&gt;-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055010Z" creationid="MAE" creationdate="20140727T054958Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7&lt;t0/&gt; &lt;t1/&gt;Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073102Z">
@@ -490,6 +530,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073816Z">
         <seg>8 保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8N&lt;t0/&gt;o&lt;t1/&gt;.&lt;t2/&gt;o&lt;t3/&gt;-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055028Z" creationid="MAE" creationdate="20140727T055028Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8No-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055013Z" creationid="MAE" creationdate="20140727T054944Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8No&lt;t0/&gt;-&lt;t1/&gt;factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055059Z" creationid="MAE" creationdate="20140727T055059Z">
+        <seg>係數</seg>
       </tuv>
     </tu>
     <tu>
@@ -1261,6 +1325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061535Z">
         <seg>所有卡匣均可使用電動工具取出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All temperature ranges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055236Z" creationid="MAE" creationdate="20140727T055236Z">
+        <seg>所有溫度範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cracked concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055046Z" creationid="MAE" creationdate="20140727T055046Z">
+        <seg>龜裂混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cracked concrete: M12 to M30, Rebar &lt;t0/&gt;Φ&lt;t1/&gt; &lt;t2/&gt;12 to &lt;t3/&gt;Φ&lt;t4/&gt; &lt;t5/&gt;32.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133727Z">
@@ -2998,6 +3078,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053917Z">
         <seg>點膠工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displacements under shear load&lt;t0/&gt;1)&lt;t1/&gt; (threaded rod)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055223Z" creationid="MAE" creationdate="20140727T055223Z">
+        <seg>處於剪力負荷下之位移&lt;t0/&gt;1)&lt;t1/&gt; (螺紋柱)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002049Z">
         <seg>鑽孔直徑大於 20 mm 或深達 240 mm，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055231Z" creationid="MAE" creationdate="20140727T055231Z">
+        <seg>混凝土 C20/25</seg>
       </tuv>
     </tu>
     <tu>
@@ -6572,6 +6668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SNo&lt;t0/&gt;-factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STRENGTH REDUCTION FACTORS FOR DETERMINATION OF THE BOND STRENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045337Z">
@@ -7492,6 +7596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C14:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055154Z" creationid="MAE" creationdate="20140727T055154Z">
+        <seg>表 C14：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table C1:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042335Z" creationid="MAE" creationdate="20140727T042335Z">
@@ -7692,6 +7804,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature range II:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055020Z" creationid="MAE" creationdate="20140727T055020Z">
+        <seg>溫度範圍 II：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature range II: 60°C/43°C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045036Z" creationid="MAE" creationdate="20140727T045036Z">
@@ -7704,6 +7824,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043610Z" creationid="MAE" creationdate="20140727T043610Z">
         <seg>溫度範圍 II：60°C/43°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range III:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055034Z" creationid="MAE" creationdate="20140727T055034Z">
+        <seg>溫度範圍 III：</seg>
       </tuv>
     </tu>
     <tu>
