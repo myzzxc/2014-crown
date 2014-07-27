@@ -1641,6 +1641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052146Z" creationid="MAE" creationdate="20140727T052146Z">
+        <seg>附件 C 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2049,6 +2057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bending moment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052116Z" creationid="MAE" creationdate="20140727T052116Z">
+        <seg>彎矩特徵值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bending moment, Steel, property class 4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050405Z" creationid="MAE" creationdate="20140727T050206Z">
@@ -2129,6 +2145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic shear resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052108Z" creationid="MAE" creationdate="20140727T052108Z">
+        <seg>抗剪力特徵值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic shear resistance, Steel, property class 4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050206Z" creationid="MAE" creationdate="20140727T045656Z">
@@ -2201,6 +2225,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under shear loads in cracked and non-cracked concrete, (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052239Z" creationid="MAE" creationdate="20140727T052239Z">
+        <seg>龜裂及未龜裂混凝土中之鋼筋處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under shear loads in cracked&lt;t0/&gt; &lt;t1/&gt;and non-cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052054Z" creationid="MAE" creationdate="20140727T052008Z">
+        <seg>龜裂及未龜裂混凝土中之鋼筋處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for rebar under tension loads in cracked concrete (Design according to TR 029 or TR 045)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051919Z" creationid="MAE" creationdate="20140727T051919Z">
@@ -2235,16 +2275,16 @@
       <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in cracked and non-cracked concrete, (Design according to TR 029 or TR 045)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051306Z" creationid="MAE" creationdate="20140727T051306Z">
-        <seg>龜裂或未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052035Z" creationid="MAE" creationdate="20140727T051306Z">
+        <seg>龜裂及未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in&lt;t0/&gt; &lt;t1/&gt;cracked and non-cracked concrete (Design according to TR 029 or TR 045)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045559Z" creationid="MAE" creationdate="20140727T045559Z">
-        <seg>龜裂或未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052014Z" creationid="MAE" creationdate="20140727T045559Z">
+        <seg>龜裂及未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3381,6 +3421,14 @@
         <seg>Factor k in equation (5.7) of Technical Report TR 029 for the design of Bonded Anchors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051232Z" creationid="MAE" creationdate="20140727T051232Z">
+        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor k in equation (5.7) of Technical Report TR 029 for the design of bonded anchors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052139Z" creationid="MAE" creationdate="20140727T052139Z">
         <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 因子</seg>
       </tuv>
     </tu>
@@ -7216,6 +7264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051928Z" creationid="MAE" creationdate="20140727T051928Z">
         <seg>表 C6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C7:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052249Z" creationid="MAE" creationdate="20140727T052249Z">
+        <seg>表 C7：</seg>
       </tuv>
     </tu>
     <tu>
