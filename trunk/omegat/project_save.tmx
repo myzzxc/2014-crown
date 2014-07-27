@@ -2313,6 +2313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concrete pry-out failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050858Z" creationid="MAE" creationdate="20140727T050858Z">
+        <seg>混凝土撬離破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concrete temperature Gelling- / working time1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T043814Z">
