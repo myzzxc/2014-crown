@@ -2185,6 +2185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic tension resistance, Stainless steel A4 and HCR, property class 50 (&gt;M24) and 70 (≤ M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052356Z" creationid="MAE" creationdate="20140727T052356Z">
+        <seg>抗張力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T042951Z">
@@ -2313,6 +2321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to CEN/TS 1992-4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052332Z" creationid="MAE" creationdate="20140727T052332Z">
+        <seg>未龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044838Z" creationid="MAE" creationdate="20140727T042642Z">
@@ -2365,6 +2381,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044402Z" creationid="MAE" creationdate="20140727T043150Z">
         <seg>結合拉出和混凝土錐體破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combined pull-out and concrete failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052416Z" creationid="MAE" creationdate="20140727T052416Z">
+        <seg>結合拉出和混凝土破壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -2429,6 +2453,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085844Z">
         <seg>混凝土等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concrete cone failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052554Z" creationid="MAE" creationdate="20140727T052554Z">
+        <seg>混凝土錐體破壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -3414,6 +3446,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
         <seg>因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor according to&lt;t0/&gt; &lt;t1/&gt;CEN/TS 1992-4-5 Section 6.2.2.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052548Z" creationid="MAE" creationdate="20140727T052548Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.2.2.3 之因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor according to&lt;t0/&gt; &lt;t1/&gt;CEN/TS 1992-4-5 Section 6.2.3.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052611Z" creationid="MAE" creationdate="20140727T052611Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.2.3.1 之因子</seg>
       </tuv>
     </tu>
     <tu>
@@ -7399,6 +7447,14 @@
         <seg>Temperature range III: 72°C/43°C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043628Z" creationid="MAE" creationdate="20140727T043628Z">
+        <seg>溫度範圍 III：72°C/43°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range III: &lt;t0/&gt;72°&lt;t1/&gt;C/&lt;t2/&gt;43°&lt;t3/&gt;C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052429Z" creationid="MAE" creationdate="20140727T052429Z">
         <seg>溫度範圍 III：72°C/43°C</seg>
       </tuv>
     </tu>
