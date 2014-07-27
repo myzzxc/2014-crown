@@ -1713,6 +1713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Axial distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044515Z" creationid="MAE" creationdate="20140727T044515Z">
+        <seg>軸距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOND STRENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z">
@@ -2115,8 +2123,8 @@
       <tuv lang="EN-US">
         <seg>Combined pull-out and concrete cone failure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043150Z" creationid="MAE" creationdate="20140727T043150Z">
-        <seg>結合拉出和混凝土錐體失效</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044402Z" creationid="MAE" creationdate="20140727T043150Z">
+        <seg>結合拉出和混凝土錐體破壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +2998,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
         <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edge distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044506Z" creationid="MAE" creationdate="20140727T044506Z">
+        <seg>邊距</seg>
       </tuv>
     </tu>
     <tu>
@@ -6172,6 +6188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Splitting failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044317Z" creationid="MAE" creationdate="20140727T044317Z">
+        <seg>劈裂破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stainless steel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131556Z">
@@ -6342,8 +6366,8 @@
       <tuv lang="EN-US">
         <seg>Steel failure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042838Z" creationid="MAE" creationdate="20140727T042838Z">
-        <seg>鋼材失效</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044329Z" creationid="MAE" creationdate="20140727T042838Z">
+        <seg>鋼材破壞</seg>
       </tuv>
     </tu>
     <tu>
