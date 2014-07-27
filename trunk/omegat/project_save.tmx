@@ -1241,6 +1241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After full curing, the add-on part can be installed with the max torque (Table 32) by using a calibrated torque wrench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T041845Z" creationid="MAE" creationdate="20140727T041845Z">
+        <seg>充分固化後可安裝附加零件，需使用校準之扭力扳手且不超出最大扭矩值 (表 32) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After insert the anchoring element excess mortar must emerge from the mouth of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022537Z">
@@ -4103,6 +4111,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142754Z">
         <seg>安裝方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation instructions (continuation) &lt;t0/&gt;Curing time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042018Z" creationid="MAE" creationdate="20140727T042018Z">
+        <seg>安裝說明 (續) 固化時間</seg>
       </tuv>
     </tu>
     <tu>
