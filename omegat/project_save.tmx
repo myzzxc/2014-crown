@@ -2065,6 +2065,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic &lt;t0/&gt;shear&lt;t1/&gt; resistance, Stainless steel A4 and HCR, property class 50 (&gt;M24) and 70 (≤ M24)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053238Z" creationid="MAE" creationdate="20140727T053238Z">
+        <seg>抗剪力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic &lt;t0/&gt;shear&lt;t1/&gt; resistance,&lt;t2/&gt; &lt;t3/&gt;Stainless steel A4 and HCR,&lt;t4/&gt; property class 50 (&gt;M24) and 70 (&lt;t5/&gt;≤&lt;t6/&gt; &lt;t7/&gt;M24)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T045752Z">
@@ -3186,6 +3194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ductility factor according to CEN/TS 1992-4-5 Section 6.3.2.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T053424Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.2.3.1 之延性係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ductility: &lt;t0/&gt;In accordance with ACI 318 D.1, in order for a steel element to be considered ductile, the tested elongation must be at least 14 percent and reduction of area must be at least 30 percent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070643Z">
@@ -3500,32 +3516,32 @@
       <tuv lang="EN-US">
         <seg>Factor according to&lt;t0/&gt; &lt;t1/&gt;CEN/TS 1992-4-5 Section 6.2.2.3</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052548Z" creationid="MAE" creationdate="20140727T052548Z">
-        <seg>依據 CEN/TS 1992-4-5 章節 6.2.2.3 之因子</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T052548Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.2.2.3 之係數</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Factor according to&lt;t0/&gt; &lt;t1/&gt;CEN/TS 1992-4-5 Section 6.2.3.1</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052611Z" creationid="MAE" creationdate="20140727T052611Z">
-        <seg>依據 CEN/TS 1992-4-5 章節 6.2.3.1 之因子</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T052611Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.2.3.1 之係數</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Factor k in equation (5.7) of Technical Report TR 029 for the design of Bonded Anchors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051232Z" creationid="MAE" creationdate="20140727T051232Z">
-        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 因子</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051232Z">
+        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 係數</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Factor k in equation (5.7) of Technical Report TR 029 for the design of bonded anchors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052139Z" creationid="MAE" creationdate="20140727T052139Z">
-        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 因子</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053533Z" creationid="MAE" creationdate="20140727T052139Z">
+        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的係數 k</seg>
       </tuv>
     </tu>
     <tu>
@@ -4469,40 +4485,40 @@
       <tuv lang="EN-US">
         <seg>Increasing factors for concrete (only static or quasi-static actions)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045327Z" creationid="MAE" creationdate="20140727T045327Z">
-        <seg>混凝土增加因子 (僅有靜態或半靜態作用力)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T045327Z">
+        <seg>混凝土增加係數 (僅有靜態或半靜態作用力)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increasing factors for concrete (only static or quasi-static actions) &lt;t0/&gt;lVc</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051851Z" creationid="MAE" creationdate="20140727T051851Z">
-        <seg>混凝土增加因子 (僅有靜態或半靜態作用力) </seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051851Z">
+        <seg>混凝土增加係數 (僅有靜態或半靜態作用力) </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increasing factors for concrete (only static or quasi-static actions) c</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053047Z" creationid="MAE" creationdate="20140727T053047Z">
-        <seg>混凝土增加因子 (僅有靜態或半靜態作用力) </seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T053047Z">
+        <seg>混凝土增加係數 (僅有靜態或半靜態作用力) </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increasing factors for concrete &lt;t0/&gt;Vc</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043840Z" creationid="MAE" creationdate="20140727T043840Z">
-        <seg>混凝土增加因子 Vc</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T043840Z">
+        <seg>混凝土增加係數 Vc</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increasing factors for concrete We</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051612Z" creationid="MAE" creationdate="20140727T051612Z">
-        <seg>混凝土增加因子 We</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051612Z">
+        <seg>混凝土增加係數 We</seg>
       </tuv>
     </tu>
     <tu>
@@ -4573,16 +4589,16 @@
       <tuv lang="EN-US">
         <seg>Install safety factor (dry and wet concrete)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044608Z" creationid="MAE" creationdate="20140727T044608Z">
-        <seg>安裝安全因子 (乾混凝土及濕混凝土)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T044608Z">
+        <seg>安裝安全係數 (乾混凝土及濕混凝土)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Install safety factor (flooded bore hole)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044633Z" creationid="MAE" creationdate="20140727T044633Z">
-        <seg>安裝安全因子 (灌注之鑽孔)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T044633Z">
+        <seg>安裝安全係數 (灌注之鑽孔)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4693,32 +4709,32 @@
       <tuv lang="EN-US">
         <seg>Installation safety fa&lt;t0/&gt;ctor&lt;t1/&gt; (&lt;t2/&gt;flooded bore&lt;t3/&gt; hole)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053105Z" creationid="MAE" creationdate="20140727T053105Z">
-        <seg>安裝安全因子 (灌注之鑽孔)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053441Z" creationid="MAE" creationdate="20140727T053105Z">
+        <seg>安裝安全係數 (灌注之鑽孔)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Installation safety factor</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051236Z" creationid="MAE" creationdate="20140727T051236Z">
-        <seg>安裝安全因子</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051236Z">
+        <seg>安裝安全係數</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Installation safety factor (dry and wet concrete)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045337Z" creationid="MAE" creationdate="20140727T045337Z">
-        <seg>安裝安全因子 (乾混凝土及濕混凝土)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T045337Z">
+        <seg>安裝安全係數 (乾混凝土及濕混凝土)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Installation safety factor (flooded bore hole)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045340Z" creationid="MAE" creationdate="20140727T045340Z">
-        <seg>安裝安全因子 (灌注之鑽孔)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T045340Z">
+        <seg>安裝安全係數 (灌注之鑽孔)</seg>
       </tuv>
     </tu>
     <tu>
