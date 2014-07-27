@@ -382,10 +382,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 bar) &lt;t1/&gt;must &lt;t2/&gt;be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002102Z">
+        <seg>則必須使用壓縮空氣 (至少 6 bar)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 bar) must be used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061256Z">
-        <seg>則必須使用壓縮空氣 (最小 6 bar)。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002112Z">
+        <seg>則必須使用壓縮空氣 (至少 6 bar)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3094,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T015151Z">
         <seg>任何位包含於此文件內之應用，或有任何安裝問題請與 fischer 聯繫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For bore holes larger &lt;t0/&gt;than 20 mm or deeper 240 mm, compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002049Z">
+        <seg>鑽孔直徑大於 20 mm 或深達 240 mm，</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,8 +6982,8 @@
       <tuv lang="EN-US">
         <seg>The hand-pump can be used for anchor sizes up to bore &lt;t0/&gt;hole&lt;t1/&gt; diameter 20 mm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T233806Z">
-        <seg>手壓泵可用於錨固鑽孔直徑大小最大 20 mm。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002001Z">
+        <seg>手壓泵適用於錨固鑽孔直徑最大 20 mm。</seg>
       </tuv>
     </tu>
     <tu>
