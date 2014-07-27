@@ -6508,6 +6508,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel failure with lever arm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045818Z" creationid="MAE" creationdate="20140727T045818Z">
+        <seg>有力臂之鋼材破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel failure without lever arm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045634Z" creationid="MAE" creationdate="20140727T045634Z">
