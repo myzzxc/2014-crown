@@ -1657,6 +1657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053110Z" creationid="MAE" creationdate="20140727T053110Z">
+        <seg>附件 C 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2297,10 +2305,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under shear loads in cracked&lt;t0/&gt; &lt;t1/&gt;and non-cracked concrete (Design according to CEN/TS 1992-4 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053217Z" creationid="MAE" creationdate="20140727T053217Z">
+        <seg>龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in&lt;t0/&gt; &lt;t1/&gt;cracked and non-cracked concrete (Design according to TR 029 or TR 045)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052014Z" creationid="MAE" creationdate="20140727T045559Z">
         <seg>龜裂及未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads in cracked concrete (Design according to CEN/TS 1992-4 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053129Z" creationid="MAE" creationdate="20140727T053129Z">
+        <seg>龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,6 +4483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increasing factors for concrete (only static or quasi-static actions) c</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053047Z" creationid="MAE" creationdate="20140727T053047Z">
+        <seg>混凝土增加因子 (僅有靜態或半靜態作用力) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increasing factors for concrete &lt;t0/&gt;Vc</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043840Z" creationid="MAE" creationdate="20140727T043840Z">
@@ -4655,6 +4687,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123202Z">
         <seg>安裝鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation safety fa&lt;t0/&gt;ctor&lt;t1/&gt; (&lt;t2/&gt;flooded bore&lt;t3/&gt; hole)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053105Z" creationid="MAE" creationdate="20140727T053105Z">
+        <seg>安裝安全因子 (灌注之鑽孔)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,6 +7392,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052754Z" creationid="MAE" creationdate="20140727T052754Z">
         <seg>表 C 8：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C9:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053138Z" creationid="MAE" creationdate="20140727T053138Z">
+        <seg>表 C9：</seg>
       </tuv>
     </tu>
     <tu>
