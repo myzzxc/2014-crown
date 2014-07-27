@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.&lt;t0/&gt; Prior to dispensing into the anchor hole, squeeze out separately a minimum of three&lt;t1/&gt; &lt;t2/&gt;full strokes and discard non-uniformly mixed adhesive components &lt;t3/&gt;until the&lt;t4/&gt; mortar shows a consistent grey &lt;t5/&gt;colour&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003231Z">
+        <seg>在錨孔進行注膠前，先將砂漿擠出，直到顏色呈現均勻的灰色，至少可擠出三條完整的砂漿，並丟棄未均勻混合的黏結成分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5&lt;t0/&gt; &lt;t1/&gt;Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T070009Z">
@@ -2188,8 +2196,8 @@
       <tuv lang="EN-US">
         <seg>Cut off the &lt;t1/&gt;foil &lt;t2/&gt;tube clip before use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003109Z">
-        <seg>於使用前切除金屬管夾。</seg>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003441Z">
+        <seg>於使用前切除鋁箔管夾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5295,6 +5303,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072420Z">
         <seg>在錨孔進行注膠前，先將砂漿擠出，直到顏色呈現均勻的灰色，至少可擠出三條完整的砂漿，並丟棄未均勻混合的黏結成分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prior to inserting the anchor rod into the filled bore hole, the position of the embedment depth shall be marked on the anchor rods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003227Z">
+        <seg>將錨桿插入鑽孔填封前，應先標記錨桿的埋設深度位置。</seg>
       </tuv>
     </tu>
     <tu>
