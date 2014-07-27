@@ -2001,6 +2001,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bond resistance in non-cracked concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043319Z" creationid="MAE" creationdate="20140727T043319Z">
+        <seg>未龜裂混凝土 C20/25 中之特徵黏結抗力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bond strength</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022223Z">
@@ -6908,6 +6916,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature range I: &lt;t0/&gt;40°C/24°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043346Z" creationid="MAE" creationdate="20140727T043346Z">
+        <seg>溫度範圍 I：40°C/24°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range II: &lt;t0/&gt;60°C/43°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043610Z" creationid="MAE" creationdate="20140727T043610Z">
+        <seg>溫度範圍 II：60°C/43°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperaturerange A&lt;t0/&gt;3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022117Z">
@@ -8484,6 +8508,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dry and wet concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043358Z" creationid="MAE" creationdate="20140727T043358Z">
+        <seg>乾混凝土及濕混凝土。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dry concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042253Z" creationid="MAE" creationdate="20140727T042253Z">
@@ -8608,6 +8640,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z">
         <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flooded bore hole</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043544Z" creationid="MAE" creationdate="20140727T043544Z">
+        <seg>灌注之鑽孔</seg>
       </tuv>
     </tu>
     <tu>
