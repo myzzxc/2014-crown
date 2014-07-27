@@ -2529,6 +2529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concrete edge failure&lt;t0/&gt;3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053745Z" creationid="MAE" creationdate="20140727T053745Z">
+        <seg>混凝土邊緣破壞3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concrete pry-out failure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050858Z" creationid="MAE" creationdate="20140727T050858Z">
@@ -3370,6 +3378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effective length of anchor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053827Z" creationid="MAE" creationdate="20140727T053756Z">
+        <seg>有效錨固長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effectiveness factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021932Z">
@@ -3526,6 +3542,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T052611Z">
         <seg>依據 CEN/TS 1992-4-5 章節 6.2.3.1 之係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor in equation (27) of CEN/TS 1992-4-5 Section 6.3.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053728Z" creationid="MAE" creationdate="20140727T053728Z">
+        <seg>依據 CEN/TS 1992-4-5 章節 6.3.3 方程式 (27) 之係數</seg>
       </tuv>
     </tu>
     <tu>
@@ -5663,6 +5687,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
         <seg>輸出：&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA 尺寸： 約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outside diameter of anchor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053849Z" creationid="MAE" creationdate="20140727T053849Z">
+        <seg>錨固外徑</seg>
       </tuv>
     </tu>
     <tu>
