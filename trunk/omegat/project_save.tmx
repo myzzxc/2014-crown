@@ -2011,8 +2011,16 @@
       <tuv lang="EN-US">
         <seg>Characteristic &lt;t0/&gt;shear&lt;t1/&gt; resistance,&lt;t2/&gt; &lt;t3/&gt;Stainless steel A4 and HCR,&lt;t4/&gt; property class 50 (&gt;M24) and 70 (&lt;t5/&gt;≤&lt;t6/&gt; &lt;t7/&gt;M24)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045752Z" creationid="MAE" creationdate="20140727T045752Z">
-        <seg>抗剪力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T045752Z">
+        <seg>抗剪力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic bending moment, Steel, property class 4.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050405Z" creationid="MAE" creationdate="20140727T050206Z">
+        <seg>彎矩特徵值，鋼材，屬性類別 4.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -2067,64 +2075,64 @@
       <tuv lang="EN-US">
         <seg>Characteristic shear resistance, Steel, property class 4.6</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045656Z" creationid="MAE" creationdate="20140727T045656Z">
-        <seg>抗剪力特性，鋼材，屬性類別 4.6</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050206Z" creationid="MAE" creationdate="20140727T045656Z">
+        <seg>抗剪力特徵值，鋼材，屬性類別 4.6</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic shear resistance, Steel, property class 5.8</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045708Z" creationid="MAE" creationdate="20140727T045708Z">
-        <seg>抗剪力特性，鋼材，屬性類別 5.8</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050206Z" creationid="MAE" creationdate="20140727T045708Z">
+        <seg>抗剪力特徵值，鋼材，屬性類別 5.8</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic shear resistance, Steel, property class 8.8</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045718Z" creationid="MAE" creationdate="20140727T045718Z">
-        <seg>抗剪力特性，鋼材，屬性類別 8.8</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050206Z" creationid="MAE" creationdate="20140727T045718Z">
+        <seg>抗剪力特徵值，鋼材，屬性類別 8.8</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 4.6</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042951Z" creationid="MAE" creationdate="20140727T042951Z">
-        <seg>抗張力特性，鋼材，屬性類別 4.6</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T042951Z">
+        <seg>抗張力特徵值，鋼材，屬性類別 4.6</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 5.8</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043003Z" creationid="MAE" creationdate="20140727T043003Z">
-        <seg>抗張力特性，鋼材，屬性類別 5.8</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T043003Z">
+        <seg>抗張力特徵值，鋼材，屬性類別 5.8</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 8.8</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043023Z" creationid="MAE" creationdate="20140727T043023Z">
-        <seg>抗張力特性，鋼材，屬性類別 8.8</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T043023Z">
+        <seg>抗張力特徵值，鋼材，屬性類別 8.8</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic tension resistance,&lt;t0/&gt; &lt;t1/&gt;Stainless steel A4 and HCR,&lt;t2/&gt; property class 50 (&gt;M24) and 70 (&lt;t3/&gt;≤&lt;t4/&gt; &lt;t5/&gt;M24)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045005Z" creationid="MAE" creationdate="20140727T045005Z">
-        <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050315Z" creationid="MAE" creationdate="20140727T045005Z">
+        <seg>抗張力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Characteristic tension resistance,&lt;t0/&gt; &lt;t1/&gt;Stainless steel A4 and HCR,&lt;t2/&gt; property class 50 (&gt;M24) and 70 (&lt;t3/&gt;≤&lt;t4/&gt;M24)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043123Z" creationid="MAE" creationdate="20140727T043123Z">
-        <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T043123Z">
+        <seg>抗張力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,8 +6518,8 @@
       <tuv lang="EN-US">
         <seg>Steel failure with lever arm</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045818Z" creationid="MAE" creationdate="20140727T045818Z">
-        <seg>有力臂之鋼材破壞</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050325Z" creationid="MAE" creationdate="20140727T045818Z">
+        <seg>具有力臂之鋼材破壞</seg>
       </tuv>
     </tu>
     <tu>
