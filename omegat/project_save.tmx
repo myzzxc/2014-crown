@@ -1473,6 +1473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex &lt;t0/&gt;B 5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042325Z" creationid="MAE" creationdate="20140727T042325Z">
+        <seg>附件 B5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex A 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123154Z">
@@ -3407,6 +3415,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115058Z">
         <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gelling-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
+        <seg>凝膠 - </seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,6 +6708,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table B4: Minimum curing time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042036Z" creationid="MAE" creationdate="20140727T042036Z">
+        <seg>表 B4： 最短固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table B5: Cleaning tools</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062545Z">
@@ -6704,6 +6728,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073925Z">
         <seg>表 B6：活塞蓋、最大錨固深度和混合器延伸器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042335Z" creationid="MAE" creationdate="20140727T042335Z">
+        <seg>表 C1：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8388,6 +8420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dry concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042253Z" creationid="MAE" creationdate="20140727T042253Z">
+        <seg>乾混凝土之最短固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e.g. SA 2960585 IIMP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053454Z">
@@ -8660,6 +8700,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
+        <seg>溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>thickness of fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123507Z">
@@ -8719,10 +8767,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>wet concrete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042309Z" creationid="MAE" creationdate="20140727T042309Z">
+        <seg>濕混凝土之最短固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z">
         <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>working time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042113Z" creationid="MAE" creationdate="20140727T042113Z">
+        <seg>加工時間</seg>
       </tuv>
     </tu>
     <tu>
