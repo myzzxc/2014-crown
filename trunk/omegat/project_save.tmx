@@ -3820,8 +3820,8 @@
       <tuv lang="EN-US">
         <seg>For every working interruption longer than the recommended working time (Table B4) as well as for new cartridges, a new static-mixer shall be used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003123Z">
-        <seg>若工作間斷時間超過建議工作時間 (表 B４)，則應使用全新卡匣和靜態混合器。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054547Z">
+        <seg>若工作間斷時間超過建議工作時間 (表 B4)，則應使用全新卡匣和靜態混合器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,8 +7502,8 @@
       <tuv lang="EN-US">
         <seg>Table C3:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045454Z" creationid="MAE" creationdate="20140727T045454Z">
-        <seg>表 C 3：</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054552Z" creationid="MAE" creationdate="20140727T045454Z">
+        <seg>表 C3：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,8 +7542,8 @@
       <tuv lang="EN-US">
         <seg>Table C8:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052754Z" creationid="MAE" creationdate="20140727T052754Z">
-        <seg>表 C 8：</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054559Z" creationid="MAE" creationdate="20140727T052754Z">
+        <seg>表 C8：</seg>
       </tuv>
     </tu>
     <tu>
