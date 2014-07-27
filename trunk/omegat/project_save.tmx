@@ -1609,6 +1609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045436Z" creationid="MAE" creationdate="20140727T045436Z">
+        <seg>附件 C 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2085,6 +2093,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043123Z" creationid="MAE" creationdate="20140727T043123Z">
         <seg>抗張力特性，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under tension loads in cracked concrete (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045445Z" creationid="MAE" creationdate="20140727T045445Z">
+        <seg>龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,6 +4147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increasing factors for concrete (only static or quasi-static actions)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045327Z" creationid="MAE" creationdate="20140727T045327Z">
+        <seg>混凝土增加因子 (僅有靜態或半靜態作用力)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increasing factors for concrete &lt;t0/&gt;Vc</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043840Z" creationid="MAE" creationdate="20140727T043840Z">
@@ -4319,6 +4343,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123202Z">
         <seg>安裝鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation safety factor (dry and wet concrete)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045337Z" creationid="MAE" creationdate="20140727T045337Z">
+        <seg>安裝安全因子 (乾混凝土及濕混凝土)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation safety factor (flooded bore hole)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045340Z" creationid="MAE" creationdate="20140727T045340Z">
+        <seg>安裝安全因子 (灌注之鑽孔)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,6 +6960,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090203Z">
         <seg>表 C2：所有鑽孔方式在良好條件下的最大黏結阻力設計值 &lt;t0/&gt;fbd&lt;t1/&gt;，單位為 N/mm2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C3:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045454Z" creationid="MAE" creationdate="20140727T045454Z">
+        <seg>表 C 3：</seg>
       </tuv>
     </tu>
     <tu>
