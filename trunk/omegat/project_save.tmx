@@ -1385,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor size threaded rod</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042736Z" creationid="MAE" creationdate="20140727T042736Z">
+        <seg>螺紋柱錨固尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchorages are designed under the responsibility of an engineer experienced in anchorages and concrete work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031633Z">
@@ -2017,10 +2025,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic tension resistance, Steel, property class 4.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042951Z" creationid="MAE" creationdate="20140727T042951Z">
+        <seg>抗張力特性，鋼材，屬性類別 4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under tension loads&lt;t0/&gt; &lt;t1/&gt;in non-cracked concrete (Design according to TR 029)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042642Z" creationid="MAE" creationdate="20140727T042642Z">
-        <seg>未龜裂混凝土中之螺紋鋼柱處於張力負荷下的特徵抗力值</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042658Z" creationid="MAE" creationdate="20140727T042642Z">
+        <seg>未龜裂混凝土中之螺紋柱處於張力負荷下的特徵抗力值</seg>
       </tuv>
     </tu>
     <tu>
@@ -6272,6 +6288,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070639Z">
         <seg>鋼材測試伸長量小於 14% 或面積減少低於 30%，或滿足以上兩個條件則視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042838Z" creationid="MAE" creationdate="20140727T042838Z">
+        <seg>鋼材失效</seg>
       </tuv>
     </tu>
     <tu>
