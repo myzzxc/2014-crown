@@ -1617,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051251Z" creationid="MAE" creationdate="20140727T051251Z">
+        <seg>附件 C 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2161,6 +2169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under shear loads in cracked and non-cracked concrete, (Design according to TR 029 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051306Z" creationid="MAE" creationdate="20140727T051306Z">
+        <seg>龜裂或未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 TR 029 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in&lt;t0/&gt; &lt;t1/&gt;cracked and non-cracked concrete (Design according to TR 029 or TR 045)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045559Z" creationid="MAE" creationdate="20140727T045559Z">
@@ -2309,6 +2325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085844Z">
         <seg>混凝土等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concrete edge failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051247Z" creationid="MAE" creationdate="20140727T051247Z">
+        <seg>混凝土邊緣破壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,6 +3310,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
         <seg>因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factor k in equation (5.7) of Technical Report TR 029 for the design of Bonded Anchors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051232Z" creationid="MAE" creationdate="20140727T051232Z">
+        <seg>黏結錨固設計技術報告 TR 029 之方程式 (5.7) 中的 k 因子</seg>
       </tuv>
     </tu>
     <tu>
@@ -4423,6 +4455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123202Z">
         <seg>安裝鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation safety factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051236Z" creationid="MAE" creationdate="20140727T051236Z">
+        <seg>安裝安全因子</seg>
       </tuv>
     </tu>
     <tu>
@@ -7072,6 +7112,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045454Z" creationid="MAE" creationdate="20140727T045454Z">
         <seg>表 C 3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table C4:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051341Z" creationid="MAE" creationdate="20140727T051341Z">
+        <seg>表 C4：</seg>
       </tuv>
     </tu>
     <tu>
