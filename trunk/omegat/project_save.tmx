@@ -1665,6 +1665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C 9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053903Z" creationid="MAE" creationdate="20140727T053903Z">
+        <seg>附件 C 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2273,6 +2281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under tension loads &lt;t0/&gt;innon&lt;t1/&gt;-cracked concrete (Design according to CEN/TS 1992-4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054107Z" creationid="MAE" creationdate="20140727T054107Z">
+        <seg>未龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for rebar under tension loads in cracked concrete (Design according to TR 029 or TR 045)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051919Z" creationid="MAE" creationdate="20140727T051919Z">
@@ -2305,6 +2321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for threaded rods under shear loads in cracked and non-cracked concrete, (Design according to CEN/TS 1992-4 or TR 045)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054018Z" creationid="MAE" creationdate="20140727T053918Z">
+        <seg>龜裂及未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in cracked and non-cracked concrete, (Design according to TR 029 or TR 045)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052035Z" creationid="MAE" creationdate="20140727T051306Z">
@@ -2315,8 +2339,8 @@
       <tuv lang="EN-US">
         <seg>Characteristic values of resistance for threaded rods under shear loads in cracked&lt;t0/&gt; &lt;t1/&gt;and non-cracked concrete (Design according to CEN/TS 1992-4 or TR 045)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053217Z" creationid="MAE" creationdate="20140727T053217Z">
-        <seg>龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054003Z" creationid="MAE" creationdate="20140727T053217Z">
+        <seg>龜裂及未龜裂混凝土中之螺紋柱處於剪力負荷下的特徵抗力值 (依據 CEN/TS 1992-4 或 TR 045 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,6 +4558,14 @@
         <seg>Increasing factors for concrete &lt;t0/&gt;Vc</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T043840Z">
+        <seg>混凝土增加係數 Vc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increasing factors for concrete &lt;t0/&gt;lVc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054135Z" creationid="MAE" creationdate="20140727T054135Z">
         <seg>混凝土增加係數 Vc</seg>
       </tuv>
     </tu>
@@ -7364,6 +7396,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table C10:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054033Z" creationid="MAE" creationdate="20140727T054033Z">
+        <seg>表 C10：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table C1:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042335Z" creationid="MAE" creationdate="20140727T042335Z">
@@ -7583,6 +7623,14 @@
         <seg>Temperature range III: &lt;t0/&gt;72°&lt;t1/&gt;C/&lt;t2/&gt;43°&lt;t3/&gt;C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052429Z" creationid="MAE" creationdate="20140727T052429Z">
+        <seg>溫度範圍 III：72°C/43°C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature range III: &lt;t0/&gt;72°C/43°C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054121Z" creationid="MAE" creationdate="20140727T054121Z">
         <seg>溫度範圍 III：72°C/43°C</seg>
       </tuv>
     </tu>
