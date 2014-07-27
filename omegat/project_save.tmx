@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8v--factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055604Z" creationid="MAE" creationdate="20140727T055604Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;Accessories which are subject to normal wear and tear.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114924Z">
@@ -1393,6 +1401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All &lt;t0/&gt;temperature ranges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055559Z" creationid="MAE" creationdate="20140727T055559Z">
+        <seg>所有溫度範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All cartridges could also be extruded by a battery tool.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061535Z">
@@ -1796,6 +1812,14 @@
         <seg>Annex C 13</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055314Z" creationid="MAE" creationdate="20140727T055314Z">
+        <seg>附件 C 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex C 14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055612Z" creationid="MAE" creationdate="20140727T055612Z">
         <seg>附件 C 14</seg>
       </tuv>
     </tu>
@@ -3994,6 +4018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For concrete &lt;t0/&gt;C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055557Z" creationid="MAE" creationdate="20140727T055557Z">
+        <seg>混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For concrete C20/25</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055231Z" creationid="MAE" creationdate="20140727T055231Z">
@@ -6111,6 +6143,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090451Z">
         <seg>性能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performances &lt;t0/&gt;Displacements (rebar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055643Z" creationid="MAE" creationdate="20140727T055643Z">
+        <seg>性能 &lt;t0/&gt;位移 (鋼筋)</seg>
       </tuv>
     </tu>
     <tu>
