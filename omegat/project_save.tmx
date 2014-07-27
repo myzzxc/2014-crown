@@ -1385,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anchor size reinforcing bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051446Z" creationid="MAE" creationdate="20140727T051446Z">
+        <seg>強化鋼筋柱錨固尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchor size threaded rod</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042736Z" creationid="MAE" creationdate="20140727T042736Z">
@@ -1621,6 +1629,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051251Z" creationid="MAE" creationdate="20140727T051251Z">
         <seg>附件 C 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex C 4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051622Z" creationid="MAE" creationdate="20140727T051622Z">
+        <seg>附件 C 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -2065,6 +2081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic bond resistance in &lt;t0/&gt;uncracked&lt;t1/&gt; concrete C20/25</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051544Z" creationid="MAE" creationdate="20140727T051544Z">
+        <seg>未龜裂混凝土 C20/25 中之特徵黏結抗力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic bond resistance in cracked concrete C20/25</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T045022Z" creationid="MAE" creationdate="20140727T045022Z">
@@ -2129,6 +2153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characteristic tension resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051513Z" creationid="MAE" creationdate="20140727T051513Z">
+        <seg>抗張力特徵值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic tension resistance, Steel, property class 4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T042951Z">
@@ -2165,6 +2197,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050221Z" creationid="MAE" creationdate="20140727T043123Z">
         <seg>抗張力特徵值，不銹鋼 A4 和 HCR，屬性類別 50 (&gt; M24) 和 70 (≤ M24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic values of resistance for rebar under tension loads in&lt;t0/&gt; &lt;t1/&gt;non-cracked concrete (Design according to TR 029)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051418Z" creationid="MAE" creationdate="20140727T051418Z">
+        <seg>未龜裂混凝土中之鋼筋處於張力負荷下的特徵抗力值 (依據 TR 029 設計)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4271,6 +4311,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043840Z" creationid="MAE" creationdate="20140727T043840Z">
         <seg>混凝土增加因子 Vc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increasing factors for concrete We</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T051612Z" creationid="MAE" creationdate="20140727T051612Z">
+        <seg>混凝土增加因子 We</seg>
       </tuv>
     </tu>
     <tu>
