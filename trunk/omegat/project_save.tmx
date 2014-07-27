@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 bar) &lt;t1/&gt;must &lt;t2/&gt;be &lt;t3/&gt;used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002534Z">
+        <seg>則必須使用壓縮空氣 (至少 6 bar)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 bar) &lt;t1/&gt;must &lt;t2/&gt;be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002102Z">
@@ -1015,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;6 bar) or a hand pump (Annex B 3) a minimum of two times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002527Z">
+        <seg>(至少 6 bar) 或手壓泵 (附件 B3) 清潔鑽孔至少兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;For bore holes deeper then 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061224Z">
@@ -1189,6 +1205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145105Z">
         <seg>約 5 秒鐘後，可以切換滑動開關至設置 &lt;/f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;2 &lt;/f5&gt;&lt;f6&gt;或&lt;/f6&gt; &lt;f7&gt;3&lt;/f7&gt;&lt;f8&gt;開啟暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After cleaning, the bore hole has to be protected against re-contamination in an appropriate way, until dispensing the mortar in the bore hole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002734Z">
+        <seg>完成清潔後，必須以適當方式防止孔洞再次受到汙染，直到砂漿注入孔洞內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For bore holes &lt;t0/&gt;larger than 20 mm or deeper 240 mm, compressed air (min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002533Z">
+        <seg>鑽孔直徑大於 20 mm 或深達 240 mm，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For bore holes larger &lt;t0/&gt;than 20 mm or deeper 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002049Z">
@@ -3567,6 +3599,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151025Z">
         <seg>若其潮濕時，必須進行風乾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If necessary, the cleaning repeated has to be directly before dispensing the mortar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002807Z">
+        <seg>如有必要，應於砂漿注入前反覆清潔孔洞。</seg>
       </tuv>
     </tu>
     <tu>
