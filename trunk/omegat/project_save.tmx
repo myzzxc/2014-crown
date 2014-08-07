@@ -3138,6 +3138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of first aid measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065044Z" creationid="MAE" creationdate="20140807T065044Z">
+        <seg>Description of first aid measures 急救措施說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design Strength in Seismic Design Categories C, D, E and F:&lt;t0/&gt; In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, design anchors in accordance with ACI 318 Section D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094807Z">
@@ -4359,6 +4367,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041140Z">
         <seg>安裝後鋼筋的一般施工規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065116Z" creationid="MAE" creationdate="20140807T065116Z">
+        <seg>General information 一般資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,6 +7040,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063933Z" creationid="MAE" creationdate="20140807T063933Z">
         <seg>SECTION 3: Composition/information on ingredients 第 3 節：成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 4: First aid measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065021Z" creationid="MAE" creationdate="20140807T065021Z">
+        <seg>SECTION 4: First aid measures 第 4 節： 急救措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -10168,6 +10192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042059Z">
         <seg>請參閱附件 B2、圖 B1 &lt;t0/&gt;註解：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>see section 16</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064934Z" creationid="MAE" creationdate="20140807T064934Z">
+        <seg>see section 16 所有警示性質標準詞全文：請見第 16 節</seg>
       </tuv>
     </tu>
     <tu>
