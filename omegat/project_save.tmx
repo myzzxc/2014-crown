@@ -7860,6 +7860,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 12: Ecological information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T152744Z" creationid="CCYU" creationdate="20140807T152744Z">
+        <seg>SECTION 12: Ecological information 第 12 節：生態資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECTION 1: Identification of the substance/mixture and of the company/undertaking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054146Z" creationid="MAE" creationdate="20140807T054115Z">
@@ -10448,6 +10456,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063415Z">
         <seg>總長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T152750Z" creationid="CCYU" creationdate="20140807T152750Z">
+        <seg>Toxicity 毒性</seg>
       </tuv>
     </tu>
     <tu>
