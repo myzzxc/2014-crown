@@ -4931,6 +4931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132628Z" creationid="CCYU" creationdate="20140807T132534Z">
+        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn. 若超出工作場所接觸限制值，必須佩戴核准適用於特定工作之呼吸防護裝備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have to return the unit, please enclose a copy of your receipt and state what the defect is.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114708Z">
