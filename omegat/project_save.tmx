@@ -1993,6 +1993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appropriate engineering controls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132240Z" creationid="CCYU" creationdate="20140807T132240Z">
+        <seg>Appropriate engineering controls 適當之工程管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approval body for construction products and types of construction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T144707Z">
@@ -6667,6 +6675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personal protective equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132321Z" creationid="CCYU" creationdate="20140807T132321Z">
+        <seg>Personal protective equipment 個人防護裝備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personal protective equipment (PPE) - see Section 8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094855Z" creationid="MAE" creationdate="20140807T094855Z">
@@ -7368,6 +7384,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112804Z">
         <seg>防火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132328Z" creationid="CCYU" creationdate="20140807T132328Z">
+        <seg>Respiratory protection 呼吸防護</seg>
       </tuv>
     </tu>
     <tu>
