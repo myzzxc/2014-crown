@@ -6444,6 +6444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product identifier Trade name CASING DC 100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054323Z" creationid="MAE" creationdate="20140807T054323Z">
+        <seg>Product identifier Trade name CASING DC 100 產品標識 商品名稱 CASING DC 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property class 4.6, 5.8, 8.8, EN 1993-1-8:2005+AC:2009</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131113Z">
@@ -6736,6 +6744,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002343Z">
         <seg>鋼筋柱安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋柱必須冷彎，不得加熱鋼筋柱以進行彎折。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant identified uses of the substance or mixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054537Z" creationid="MAE" creationdate="20140807T054537Z">
+        <seg>Relevant identified uses of the substance or mixture 物質或混和物之相關用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant identified uses of the substance or mixture and uses advised against</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054500Z" creationid="MAE" creationdate="20140807T054500Z">
+        <seg>Relevant identified uses of the substance or mixture and uses advised against 物質或混和物之相關用途與禁止事項</seg>
       </tuv>
     </tu>
     <tu>
