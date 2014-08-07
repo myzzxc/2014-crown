@@ -1425,6 +1425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After ingestion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090446Z" creationid="MAE" creationdate="20140807T090446Z">
+        <seg>After ingestion 誤食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After inhalation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065404Z" creationid="MAE" creationdate="20140807T065404Z">
@@ -7052,6 +7060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rinse mouth thoroughly with water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090540Z" creationid="MAE" creationdate="20140807T090540Z">
+        <seg>Rinse mouth thoroughly with water. 以清水側底漱口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Risk of suffocation!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
@@ -7228,10 +7244,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seek medical advice immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090507Z" creationid="MAE" creationdate="20140807T090507Z">
+        <seg>Seek medical advice immediately. 立即尋求醫療協助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seismic action for Performance Category C1: M12 to M30, Rebar &lt;t0/&gt;Φ&lt;t1/&gt;12 to &lt;t2/&gt;Φ&lt;t3/&gt; &lt;t4/&gt;32.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133529Z">
         <seg>性能類別 C1 之地震作用：M12 至 M30，鋼筋&lt;t0/&gt;Φ&lt;t1/&gt;12 至 &lt;t2/&gt;Φ&lt;t3/&gt;32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate &lt;t0/&gt;eyelids,&lt;t1/&gt; wash the eyes thoroughly with water (15 min.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090430Z" creationid="MAE" creationdate="20140807T090430Z">
+        <seg>Separate &lt;t0/&gt;eyelids,&lt;t1/&gt; wash the eyes thoroughly with water (15 min.). 打開眼瞼，以清水徹底沖洗 (15 分鐘)。</seg>
       </tuv>
     </tu>
     <tu>
