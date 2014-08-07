@@ -2401,6 +2401,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carcinogenicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144610Z" creationid="CCYU" creationdate="20140807T144610Z">
+        <seg>Carcinogenicity 致癌性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cartridge type/size</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044529Z">
@@ -4743,6 +4751,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050748Z">
         <seg>總論：&lt;t0/&gt;2009、2006 和 2003 IBC，以及 2009、2006 和 2003 IRC 的錨固設計強度必須根據 ACI 318-11 (ACI 318) 和本報告決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Germ cell mutagenicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144557Z" creationid="CCYU" creationdate="20140807T144557Z">
+        <seg>Germ cell mutagenicity 生殖細胞誘突變性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7716,6 +7732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproduction toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144603Z" creationid="CCYU" creationdate="20140807T144603Z">
+        <seg>Reproduction toxicity 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements for storage rooms and vessels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123358Z" creationid="CCYU" creationdate="20140807T123358Z">
@@ -7728,6 +7752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112804Z">
         <seg>防火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory or skin &lt;t0/&gt;sensitisation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144430Z" creationid="CCYU" creationdate="20140807T144430Z">
+        <seg>Respiratory or skin &lt;t0/&gt;sensitisation 呼吸或皮膚過敏</seg>
       </tuv>
     </tu>
     <tu>
