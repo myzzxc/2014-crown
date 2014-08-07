@@ -2978,6 +2978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Containers which are opened must be carefully resealed and kept upright to prevent leakage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123833Z" creationid="CCYU" creationdate="20140807T123833Z">
+        <seg>Containers which are opened must be carefully resealed and kept upright to prevent leakage. 開封後的容器必須仔細重新封裝並保持直立以避免洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue injection until the mortar level mark 1m becomes visible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082842Z">
@@ -7284,6 +7292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requirements for storage rooms and vessels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123358Z" creationid="CCYU" creationdate="20140807T123358Z">
+        <seg>Requirements for storage rooms and vessels 儲藏室與容器要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resistance to fire</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112804Z">
@@ -7632,6 +7648,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092229Z" creationid="MAE" creationdate="20140807T092229Z">
         <seg>物質或混合物引發的特殊危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific end use(s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123948Z" creationid="CCYU" creationdate="20140807T123948Z">
+        <seg>Specific end use(s) 特定使用者</seg>
       </tuv>
     </tu>
     <tu>
