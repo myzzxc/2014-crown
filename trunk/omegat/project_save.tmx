@@ -6884,6 +6884,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide good ventilation of working area (local exhaust ventilation, if necessary).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115619Z" creationid="CCYU" creationdate="20140807T115619Z">
+        <seg>Provide good ventilation of working area (local exhaust ventilation, if necessary). 於工作區提供良好通風 (若有需要則使用局部通風)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Push the reinforcing bar into the anchor hole while turning slightly to ensure positive distribution of the adhesive until the embedment depth is reached.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083210Z">
@@ -9736,6 +9744,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033438Z">
         <seg>建築產品之商標名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade name: CASING DC 100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115648Z" creationid="CCYU" creationdate="20140807T115648Z">
+        <seg>Trade name: CASING DC 100 產品名稱：CASING DC 100</seg>
       </tuv>
     </tu>
     <tu>
