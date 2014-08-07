@@ -1585,6 +1585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allocation of a waste code number, according to the European Waste Catalogue, should be carried out in agreement with the regional waste disposal company.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160714Z" creationid="CCYU" creationdate="20140807T160714Z">
+        <seg>Allocation of a waste code number, according to the European Waste Catalogue, should be carried out in agreement with the regional waste disposal company. 依據歐洲廢棄物目錄 (European Waste Catalogue) 分配之廢棄物規範編號，必須與當地廢棄物處置公司相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow the adhesive to cure to the specified time prior to applying any load or torque.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004810Z">
@@ -6959,6 +6967,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044709Z">
         <seg>力晶二廠 12 吋晶圓廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packaging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160718Z" creationid="CCYU" creationdate="20140807T160718Z">
+        <seg>Packaging 包裝</seg>
       </tuv>
     </tu>
     <tu>
