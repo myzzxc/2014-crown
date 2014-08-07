@@ -2265,6 +2265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Casing / flavor for tobacco products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054629Z" creationid="MAE" creationdate="20140807T054629Z">
+        <seg>Casing / flavor for tobacco products 菸草製品之包裝 / 調味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic &lt;t0/&gt;bending moment&lt;t1/&gt;, Stainless steel A4 and HCR, property class 50 (&gt;M24) and 70 (≤ M24)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050527Z" creationid="MAE" creationdate="20140727T050527Z">
@@ -3134,6 +3142,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015410Z">
         <seg>名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of the supplier of the safety data sheet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054636Z" creationid="MAE" creationdate="20140807T054636Z">
+        <seg>Details of the supplier of the safety data sheet </seg>
       </tuv>
     </tu>
     <tu>
