@@ -1377,6 +1377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advice on protection against fire and explosion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122618Z" creationid="CCYU" creationdate="20140807T122618Z">
+        <seg>Advice on protection against fire and explosion 防範火災與爆炸之建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advice on safe handling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100308Z" creationid="MAE" creationdate="20140807T100308Z">
@@ -5519,6 +5527,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043718Z">
         <seg>並通過 ICC-ES 的品質控制計畫檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep away from foodstuffs and beverages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122506Z" creationid="CCYU" creationdate="20140807T122506Z">
+        <seg>Keep away from foodstuffs and beverages. 請勿攜帶食物及飲料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +9992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z">
         <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wash hands before breaks and after work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122558Z" creationid="CCYU" creationdate="20140807T122558Z">
+        <seg>Wash hands before breaks and after work. 休息前與工作後洗手。</seg>
       </tuv>
     </tu>
     <tu>
