@@ -3634,6 +3634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not discharge product unmonitored into the environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T155147Z" creationid="CCYU" creationdate="20140807T155147Z">
+        <seg>Do not discharge product unmonitored into the environment. 請勿隨意將產品排放至環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not disturb the anchoring element until cure time has elapsed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023329Z">
@@ -7940,6 +7948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 13: Disposal considerations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T155210Z" creationid="CCYU" creationdate="20140807T155210Z">
+        <seg>SECTION 13: Disposal considerations 第 13 節：廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECTION 1: Identification of the substance/mixture and of the company/undertaking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054146Z" creationid="MAE" creationdate="20140807T054115Z">
@@ -10840,6 +10856,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131515Z">
         <seg>墊圈，EN ISO 887:2006、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waste treatment methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T155224Z" creationid="CCYU" creationdate="20140807T155224Z">
+        <seg>Waste treatment methods 廢棄物處理方法</seg>
       </tuv>
     </tu>
     <tu>
