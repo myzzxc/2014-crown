@@ -5555,6 +5555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep container tightly closed and dry in a cool, well-ventilated place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123136Z" creationid="CCYU" creationdate="20140807T123136Z">
+        <seg>Keep container tightly closed and dry in a cool, well-ventilated place. 保持容器密封及乾燥並置於陰涼、通風處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063834Z" creationid="MAE" creationdate="20140807T063834Z">
@@ -6916,6 +6924,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protect from heat and direct sunlight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123222Z" creationid="CCYU" creationdate="20140807T123222Z">
+        <seg>Protect from heat and direct sunlight. 避免高溫與陽光直接照射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection against noise (BWR 5&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123403Z">
@@ -7112,6 +7128,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142721Z">
         <seg>建議氣動工具 (至少 6 bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended storage temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123235Z" creationid="CCYU" creationdate="20140807T123235Z">
+        <seg>Recommended storage temperature 建議儲存溫度</seg>
       </tuv>
     </tu>
     <tu>
@@ -7880,6 +7904,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130459Z">
         <seg>鋼、熱鍍鋅 ≥&lt;t5/&gt; 40 pm 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage stability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123330Z" creationid="CCYU" creationdate="20140807T123330Z">
+        <seg>Storage stability 儲存穩定性</seg>
       </tuv>
     </tu>
     <tu>
@@ -9948,6 +9980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123256Z" creationid="CCYU" creationdate="20140807T123256Z">
+        <seg>Value 值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Values are for use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2 as set forth in ACI 318 D.4.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014446Z">
@@ -10548,6 +10588,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123259Z" creationid="CCYU" creationdate="20140807T123259Z">
+        <seg>max. 最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>min c 	minimum concrete cover according to Table B1 and to EN 1992-1-1:2004+AC:2010, Section 4.4.1.2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040844Z">
@@ -10568,6 +10616,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012902Z">
         <seg>毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>months</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123338Z" creationid="CCYU" creationdate="20140807T123338Z">
+        <seg>months 個月</seg>
       </tuv>
     </tu>
     <tu>
