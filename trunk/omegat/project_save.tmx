@@ -2289,6 +2289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAS no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131612Z" creationid="CCYU" creationdate="20140807T131612Z">
+        <seg>CAS no. CAS編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
@@ -3758,6 +3766,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114534Z">
         <seg>歐洲商品編號：40 15588 60227 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EC no&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131618Z" creationid="CCYU" creationdate="20140807T131618Z">
+        <seg>EC no&lt;t0/&gt;. EC 編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -5591,6 +5607,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144300Z">
         <seg>程度或等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131746Z" creationid="CCYU" creationdate="20140807T131746Z">
+        <seg>List of approved workplace&lt;t0/&gt; exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of approved workplace exposure limits (WELs) / EH40</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131703Z" creationid="CCYU" creationdate="20140807T131703Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
@@ -8168,6 +8200,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063937Z" creationid="MAE" creationdate="20140807T063937Z">
         <seg>Substances 物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sucrose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131715Z" creationid="CCYU" creationdate="20140807T131715Z">
+        <seg>Sucrose 蔗糖</seg>
       </tuv>
     </tu>
     <tu>
