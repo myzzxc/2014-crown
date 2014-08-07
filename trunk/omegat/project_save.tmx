@@ -3010,6 +3010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131447Z" creationid="CCYU" creationdate="20140807T131447Z">
+        <seg>Control parameters 管控參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2014 &lt;t0/&gt;Page 1 of 16</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T053005Z">
@@ -6363,6 +6371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Occupational exposure limit values</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131526Z" creationid="CCYU" creationdate="20140807T131526Z">
+        <seg>Occupational exposure limit values 職業性接觸限定值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -7412,6 +7428,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 8: Exposure controls/personal protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131424Z" creationid="CCYU" creationdate="20140807T131424Z">
+        <seg>SECTION 8: Exposure controls/personal protection 第 8 節：接觸管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -8128,6 +8152,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064149Z" creationid="MAE" creationdate="20140807T064149Z">
         <seg>Substance name 物質名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substance name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131533Z" creationid="CCYU" creationdate="20140807T131533Z">
+        <seg>Substance name. 物質名稱</seg>
       </tuv>
     </tu>
     <tu>
