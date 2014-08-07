@@ -1353,6 +1353,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acute dermal toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144220Z" creationid="CCYU" creationdate="20140807T144220Z">
+        <seg>Acute dermal toxicity 急性皮膚毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acute inhalational toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144231Z" creationid="CCYU" creationdate="20140807T144231Z">
+        <seg>Acute inhalational toxicity 急性吸入毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acute oral toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144201Z" creationid="CCYU" creationdate="20140807T144201Z">
+        <seg>Acute oral toxicity 急性口服毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064155Z" creationid="MAE" creationdate="20140807T064155Z">
@@ -5411,6 +5435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information on toxicological effects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144120Z" creationid="CCYU" creationdate="20140807T144120Z">
+        <seg>Information on toxicological effects 毒性效應資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information provided by / telephone</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063238Z" creationid="MAE" creationdate="20140807T063238Z">
@@ -7996,6 +8028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serious eye damage/irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144401Z" creationid="CCYU" creationdate="20140807T144401Z">
+        <seg>Serious eye damage/irritation 嚴重眼睛損傷 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a results of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
@@ -8048,6 +8088,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053221Z">
         <seg>雙槽卡匣 385、444、585 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin corrosion/irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144317Z" creationid="CCYU" creationdate="20140807T144317Z">
+        <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
       </tuv>
     </tu>
     <tu>
