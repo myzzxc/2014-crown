@@ -4394,6 +4394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fish toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153003Z" creationid="CCYU" creationdate="20140807T153003Z">
+        <seg>Fish toxicity 魚類毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flammability (solid, gas)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142833Z" creationid="CCYU" creationdate="20140807T142833Z">
