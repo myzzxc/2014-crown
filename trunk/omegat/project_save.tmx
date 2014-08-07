@@ -7077,8 +7077,8 @@
       <tuv lang="EN-US">
         <seg>Possibility of hazardous reactions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143633Z" creationid="CCYU" creationdate="20140807T143633Z">
-        <seg>Possibility of hazardous reactions 危險反應之可能性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143801Z" creationid="CCYU" creationdate="20140807T143633Z">
+        <seg>Possibility of hazardous reactions 可能之危害性反應</seg>
       </tuv>
     </tu>
     <tu>
@@ -7760,6 +7760,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143539Z" creationid="CCYU" creationdate="20140807T143539Z">
         <seg>SECTION 10: Stability and reactivity 第 10 節：穩定性與反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 11: Toxicological information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144058Z" creationid="CCYU" creationdate="20140807T144054Z">
+        <seg>SECTION 11: Toxicological information 第 11 節：毒性資訊</seg>
       </tuv>
     </tu>
     <tu>
