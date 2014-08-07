@@ -1529,6 +1529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Algae toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153117Z" creationid="CCYU" creationdate="20140807T153117Z">
+        <seg>Algae toxicity 藻類毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All &lt;t0/&gt;temperature ranges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055559Z" creationid="MAE" creationdate="20140727T055559Z">
@@ -2149,6 +2157,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z">
         <seg>黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bacteria toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153300Z" creationid="CCYU" creationdate="20140807T153300Z">
+        <seg>Bacteria toxicity 細菌毒性</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3334,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132235Z">
         <seg>分類： 05 00 00—金屬 章節： 05 05 19—混凝土後錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daphnia toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153109Z" creationid="CCYU" creationdate="20140807T153109Z">
+        <seg>Daphnia toxicity 水蚤毒性</seg>
       </tuv>
     </tu>
     <tu>
