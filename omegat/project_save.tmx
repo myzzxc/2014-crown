@@ -3402,6 +3402,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not discharge into the drains/surface waters/groundwater.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095117Z" creationid="MAE" creationdate="20140807T095117Z">
+        <seg>Do not discharge into the drains/surface waters/groundwater. 請勿排入排水溝 / 地面水域 / 地下水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not discharge into the subsoil/soil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095250Z" creationid="MAE" creationdate="20140807T095250Z">
+        <seg>Do not discharge into the subsoil/soil. 請勿排入底土 / 土壤中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not disturb the anchoring element until cure time has elapsed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023329Z">
