@@ -3458,6 +3458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not eat, drink or smoke during work time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122404Z" creationid="CCYU" creationdate="20140807T122404Z">
+        <seg>Do not eat, drink or smoke during work time. 工作時請勿飲食或吸煙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not iron the foot warmer!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130315Z">
@@ -4495,6 +4503,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065116Z" creationid="MAE" creationdate="20140807T065116Z">
         <seg>General information 一般資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General protective and hygiene measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122317Z" creationid="CCYU" creationdate="20140807T122317Z">
+        <seg>General protective and hygiene measures 一般保護性與衛生措施</seg>
       </tuv>
     </tu>
     <tu>
