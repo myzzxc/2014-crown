@@ -2073,6 +2073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aspiration hazard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144746Z" creationid="CCYU" creationdate="20140807T144746Z">
+        <seg>Aspiration hazard 吸入危害性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
@@ -3326,6 +3334,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045556Z">
         <seg>變形鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144944Z" creationid="CCYU" creationdate="20140807T144944Z">
+        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期接觸之慢性影響</seg>
       </tuv>
     </tu>
     <tu>
@@ -7936,6 +7952,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOT-repeated exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144736Z" creationid="CCYU" creationdate="20140807T144736Z">
+        <seg>STOT-repeated exposure STOT-多次接觸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOT-single exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144725Z" creationid="CCYU" creationdate="20140807T144725Z">
+        <seg>STOT-single exposure STOT-單次接觸</seg>
       </tuv>
     </tu>
     <tu>
