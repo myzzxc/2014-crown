@@ -2089,6 +2089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-ignition temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142750Z" creationid="CCYU" creationdate="20140807T142750Z">
+        <seg>Auto-ignition temperature 自燃溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -2197,6 +2205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143012Z">
         <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II 新加坡 738960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boiling point / boiling range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142623Z" creationid="CCYU" creationdate="20140807T142623Z">
+        <seg>Boiling point / boiling range 沸點 / 沸點範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,6 +3266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decomposition point / decomposition range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142706Z" creationid="CCYU" creationdate="20140807T142706Z">
+        <seg>Decomposition point / decomposition range 分解點 / 分解點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deformed reinforcement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045556Z">
@@ -4074,6 +4098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142807Z" creationid="CCYU" creationdate="20140807T142807Z">
+        <seg>Explosive properties 爆炸性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132157Z" creationid="CCYU" creationdate="20140807T132157Z">
@@ -4270,6 +4302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
         <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flash point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142731Z" creationid="CCYU" creationdate="20140807T142731Z">
+        <seg>Flash point 閃火點</seg>
       </tuv>
     </tu>
     <tu>
@@ -5931,6 +5971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Melting point / melting range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142640Z" creationid="CCYU" creationdate="20140807T142640Z">
+        <seg>Melting point / melting range 熔點 / 熔點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metal anchors for use in&lt;t0/&gt; &lt;t1/&gt;concrete (heavy-duty&lt;t2/&gt; &lt;t3/&gt;type)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144434Z">
@@ -6275,6 +6323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No data available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142605Z" creationid="CCYU" creationdate="20140807T142605Z">
+        <seg>No data available 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No data available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063303Z" creationid="MAE" creationdate="20140807T063303Z">
@@ -6531,6 +6587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Odour&lt;t0/&gt; threshold</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142554Z" creationid="CCYU" creationdate="20140807T142554Z">
+        <seg>Odour&lt;t0/&gt; threshold 氣味低限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -6655,6 +6719,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T151203Z">
         <seg>懸空安裝僅限於小於或等於 M24 (1 英寸) 之螺紋柱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxidising&lt;t0/&gt; properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142809Z" creationid="CCYU" creationdate="20140807T142758Z">
+        <seg>Oxidising&lt;t0/&gt; properties 氧化性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10928,6 +11000,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123338Z" creationid="CCYU" creationdate="20140807T123338Z">
         <seg>months 個月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>not&lt;t0/&gt; determined</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142631Z" creationid="CCYU" creationdate="20140807T142631Z">
+        <seg>not&lt;t0/&gt; determined 未確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH&lt;t0/&gt; value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142613Z" creationid="CCYU" creationdate="20140807T142613Z">
+        <seg>pH&lt;t0/&gt; value 酸鹼值</seg>
       </tuv>
     </tu>
     <tu>
