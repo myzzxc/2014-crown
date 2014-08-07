@@ -10140,6 +10140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>propane-1,2-diol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064653Z" creationid="MAE" creationdate="20140807T064653Z">
+        <seg>propane-1,2-diol 1,2-丙二醇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>range A&lt;t0/&gt;3&lt;t1/&gt;emperatur</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020952Z">
@@ -10184,6 +10192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021155Z">
         <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sucrose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064522Z" creationid="MAE" creationdate="20140807T064522Z">
+        <seg>sucrose 蔗糖</seg>
       </tuv>
     </tu>
     <tu>
