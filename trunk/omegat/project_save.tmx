@@ -3282,6 +3282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143030Z" creationid="CCYU" creationdate="20140807T143030Z">
+        <seg>Density 密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z">
@@ -4074,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaporation rate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143021Z" creationid="CCYU" creationdate="20140807T143021Z">
+        <seg>Evaporation rate 蒸發率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z">
@@ -4302,6 +4318,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
         <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flammability (solid, gas)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142833Z" creationid="CCYU" creationdate="20140807T142833Z">
+        <seg>Flammability (solid, gas) 可燃性 (固體、氣體)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,6 +5815,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
         <seg>批號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower flammability or explosive limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142927Z" creationid="CCYU" creationdate="20140807T142927Z">
+        <seg>Lower flammability or explosive limits 可燃性或爆炸性下限</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,6 +7484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143036Z" creationid="CCYU" creationdate="20140807T143036Z">
+        <seg>Reference temperature 參考溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference to other sections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100039Z" creationid="MAE" creationdate="20140807T100039Z">
@@ -7520,6 +7560,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002343Z">
         <seg>鋼筋柱安裝完成後不得彎曲，除非依 ACI 318 第 7.3.2 章所述之外力且鋼筋柱必須冷彎，不得加熱鋼筋柱以進行彎折。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relative density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143026Z" creationid="CCYU" creationdate="20140807T143026Z">
+        <seg>Relative density 相對密度</seg>
       </tuv>
     </tu>
     <tu>
@@ -7936,6 +7984,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>幸福地依偎在舒適的超軟保溫電毯上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solubility in water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143046Z" creationid="CCYU" creationdate="20140807T143046Z">
+        <seg>Solubility in water 水中溶解度</seg>
       </tuv>
     </tu>
     <tu>
@@ -10284,6 +10340,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upper flammability or explosive limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142942Z" creationid="CCYU" creationdate="20140807T142942Z">
+        <seg>Upper flammability or explosive limits 可燃性或爆炸性上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093956Z">
@@ -10360,6 +10424,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z">
         <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vapour&lt;t0/&gt; density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143002Z" creationid="CCYU" creationdate="20140807T143002Z">
+        <seg>Vapour&lt;t0/&gt; density 蒸氣密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vapour&lt;t0/&gt; pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142952Z" creationid="CCYU" creationdate="20140807T142952Z">
+        <seg>Vapour&lt;t0/&gt; pressure 蒸氣壓</seg>
       </tuv>
     </tu>
     <tu>
