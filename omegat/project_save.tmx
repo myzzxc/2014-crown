@@ -1369,6 +1369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adhere to the manufacturer’s instructions and information relating to the use, storage, care and replacement of protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134523Z" creationid="CCYU" creationdate="20140807T134523Z">
+        <seg>Adhere to the manufacturer’s instructions and information relating to the use, storage, care and replacement of protective gloves. 防護手套之使用、儲存、維護以及更換，請遵照製造商之說明與和相關資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjustments to the bond strength may also be taken for increased concrete compressive strength as noted in the footnotes to the corresponding tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075201Z">
@@ -7080,6 +7088,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084330Z">
         <seg>第二類保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protective gloves shall be replaced immediately when physically damaged or worn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134659Z" creationid="CCYU" creationdate="20140807T134537Z">
+        <seg>Protective gloves shall be replaced immediately when physically damaged or worn. 若防護有破損或已磨損時，必須立即更換。</seg>
       </tuv>
     </tu>
     <tu>
