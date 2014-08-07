@@ -4242,6 +4242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For emergency responders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094321Z" creationid="MAE" creationdate="20140807T094321Z">
+        <seg>For emergency responders 緊急人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every working interruption longer than the recommended working time (Table B3) as well as for every new cartridges, a new static-mixer shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064807Z">
@@ -4276,8 +4284,8 @@
       <tuv lang="EN-US">
         <seg>For non-emergency personnel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T093337Z" creationid="MAE" creationdate="20140807T093337Z">
-        <seg>For non-emergency personnel 非緊急情況下之人員</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094340Z" creationid="MAE" creationdate="20140807T093337Z">
+        <seg>For non-emergency personnel 非緊急工作人員</seg>
       </tuv>
     </tu>
     <tu>
