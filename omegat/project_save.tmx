@@ -6539,6 +6539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick up with absorbent material (e.g., sand, sawdust, general-purpose binder).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095748Z" creationid="MAE" creationdate="20140807T095748Z">
+        <seg>Pick up with absorbent material (e.g., sand, sawdust, general-purpose binder). 使用吸附性材料 (如砂子、木屑、通用型黏著劑) 吸附。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Piston plug</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073945Z">
