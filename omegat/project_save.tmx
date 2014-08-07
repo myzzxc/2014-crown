@@ -5291,6 +5291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Label elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063834Z" creationid="MAE" creationdate="20140807T063834Z">
+        <seg>Label elements 標示元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Level or class</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144300Z">
@@ -5903,6 +5911,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z">
         <seg>此舉將使保固失效且可能造成嚴重危險（火災、觸電、受傷）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not relevant</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063846Z" creationid="MAE" creationdate="20140807T063846Z">
+        <seg>Not relevant 無相關</seg>
       </tuv>
     </tu>
     <tu>
@@ -9128,6 +9144,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150451Z">
         <seg>因為無法保證暖腳機能安全運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product does not meet the classification and &lt;t0/&gt;labelling&lt;t1/&gt; criteria given in the Dangerous Preparations Directive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063749Z" creationid="MAE" creationdate="20140807T063722Z">
+        <seg>This product does not meet the classification and &lt;t0/&gt;labelling&lt;t1/&gt; criteria given in the Dangerous Preparations Directive 此產品未符合危險物質指令 (1999/45/EC; DPD) 所指示之分類與標示準則</seg>
       </tuv>
     </tu>
     <tu>
