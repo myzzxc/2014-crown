@@ -6835,6 +6835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Partition coefficient: n-&lt;t0/&gt;octanol&lt;t1/&gt;/water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143434Z" creationid="CCYU" creationdate="20140807T143434Z">
+        <seg>Partition coefficient: n-&lt;t0/&gt;octanol&lt;t1/&gt;/water 分配係數：正辛醇 / 水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Performance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112303Z">
@@ -7588,6 +7596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rem&lt;t0/&gt;arks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143151Z" creationid="CCYU" creationdate="20140807T143151Z">
+        <seg>Rem&lt;t0/&gt;arks 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove affected person from the immediate area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065608Z" creationid="MAE" creationdate="20140807T065453Z">
@@ -7992,6 +8008,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143046Z" creationid="CCYU" creationdate="20140807T143046Z">
         <seg>Solubility in water 水中溶解度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solubility(&lt;t0/&gt;ies&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143214Z" creationid="CCYU" creationdate="20140807T143214Z">
+        <seg>Solubility(&lt;t0/&gt;ies&lt;t1/&gt;) 溶解度</seg>
       </tuv>
     </tu>
     <tu>
@@ -11160,6 +11184,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
         <seg>(短期最高溫度 +80°C，長期最高溫度 +50°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>soluble</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143159Z" creationid="CCYU" creationdate="20140807T143159Z">
+        <seg>soluble 可溶</seg>
       </tuv>
     </tu>
     <tu>
