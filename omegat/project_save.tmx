@@ -1329,6 +1329,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064155Z" creationid="MAE" creationdate="20140807T064155Z">
+        <seg>Additional information 附加資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information for the determination of nominal bond strength in tension is given in Section 4.1.4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072444Z">
@@ -2685,6 +2693,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033729Z">
         <seg>檢查現存的鋼筋位置 (若現存鋼筋的位置未知，則應使用鋼筋檢測儀根據施工文件進行檢測，並於建築構件上標示重疊接頭)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical characterization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064025Z" creationid="MAE" creationdate="20140807T064025Z">
+        <seg>Chemical characterization 化學特性</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hazardous ingredients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064106Z" creationid="MAE" creationdate="20140807T064106Z">
+        <seg>Hazardous ingredients 危害成分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head of Department</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122210Z">
@@ -5643,6 +5667,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mixture (preparation)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064036Z" creationid="MAE" creationdate="20140807T064036Z">
+        <seg>Mixture (preparation) 混合物 (製備)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mixtures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064017Z" creationid="MAE" creationdate="20140807T064017Z">
+        <seg>Mixtures 混合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modify ACI 318 Sections D.3.3.4.2, D.3.3.4.3(d) and &lt;t0/&gt;D.3.3.5.2 to read as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z">
@@ -5783,6 +5823,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012423Z">
         <seg>請勿於無靜態混合器的情況下使用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064136Z" creationid="MAE" creationdate="20140807T064136Z">
+        <seg>No 編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,6 +6151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
         <seg>最佳砂漿容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other hazards</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063857Z" creationid="MAE" creationdate="20140807T063857Z">
+        <seg>Other hazards 其他危害</seg>
       </tuv>
     </tu>
     <tu>
@@ -6932,6 +6988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 3: Composition/information on ingredients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063933Z" creationid="MAE" creationdate="20140807T063933Z">
+        <seg>SECTION 3: Composition/information on ingredients 第 3 節：成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -7600,6 +7664,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131530Z">
         <seg>後續由同一施工人員安裝之相同錨固類型及尺寸可於特別檢查人員不在場時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substance name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064149Z" creationid="MAE" creationdate="20140807T064149Z">
+        <seg>Substance name 物質名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063937Z" creationid="MAE" creationdate="20140807T063937Z">
+        <seg>Substances 物質</seg>
       </tuv>
     </tu>
     <tu>
@@ -8768,6 +8848,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015746Z">
         <seg>產品說明請參閱附件 Ａ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is not a substance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064008Z" creationid="MAE" creationdate="20140807T064008Z">
+        <seg>The product is not a substance. 該產品非單一物質。</seg>
       </tuv>
     </tu>
     <tu>
