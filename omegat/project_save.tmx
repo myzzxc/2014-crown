@@ -5059,6 +5059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indication of any immediate medical attention and special treatment needed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091908Z" creationid="MAE" creationdate="20140807T091908Z">
+        <seg>Indication of any immediate medical attention and special treatment needed 任何需要即時醫療照護和特殊治療的適應症</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information provided by / telephone</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063238Z" creationid="MAE" creationdate="20140807T063238Z">
