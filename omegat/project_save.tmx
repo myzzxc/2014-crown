@@ -4034,6 +4034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure controls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132157Z" creationid="CCYU" creationdate="20140807T132157Z">
+        <seg>Exposure controls 接觸管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extinguishing media</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091947Z" creationid="MAE" creationdate="20140807T091947Z">
@@ -6960,6 +6968,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054323Z" creationid="MAE" creationdate="20140807T054323Z">
         <seg>Product identifier Trade name CASING DC 100 產品標識 商品名稱 CASING DC 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Propane-1,2-diol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131947Z" creationid="CCYU" creationdate="20140807T131947Z">
+        <seg>Propane-1,2-diol 1,2-丙二醇</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,6 +10740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>particulate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132136Z" creationid="CCYU" creationdate="20140807T132136Z">
+        <seg>particulate 微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>position of the anchor relative to reinforcement or to supports, etc.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135234Z">
@@ -10867,6 +10891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044231Z">
         <seg>tgel：開始注入砂漿到完成鋼筋設置的最大時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total &lt;t0/&gt;vapour&lt;t1/&gt; and particulates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132117Z" creationid="CCYU" creationdate="20140807T132117Z">
+        <seg>total &lt;t0/&gt;vapour&lt;t1/&gt; and particulates 總蒸汽量與微粒</seg>
       </tuv>
     </tu>
     <tu>
