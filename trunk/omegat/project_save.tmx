@@ -1393,6 +1393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After eye contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065639Z" creationid="MAE" creationdate="20140807T065639Z">
+        <seg>After eye contact 接觸眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After finishing work, leave the static mixer attached to the cartridge.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T013511Z">
@@ -1429,6 +1437,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022537Z">
         <seg>注入錨固原料完成後需將孔洞口之多餘泥漿去除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After skin contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065535Z" creationid="MAE" creationdate="20140807T065535Z">
+        <seg>After skin contact 接觸皮膚</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3870,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123455Z">
         <seg>能源經濟性和保溫性 (BWR 6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure supply of fresh air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065530Z" creationid="MAE" creationdate="20140807T065530Z">
+        <seg>Ensure supply of fresh air. 確保新鮮空氣的供應</seg>
       </tuv>
     </tu>
     <tu>
@@ -6980,6 +7004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove affected person from the immediate area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065608Z" creationid="MAE" creationdate="20140807T065453Z">
+        <seg>Remove affected person from the immediate area. 立即將受影響人員帶離現場。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the cap by turning and pulling it off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
@@ -9656,6 +9688,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z">
         <seg>保固和維修條款</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wash off immediately with soap and water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065631Z" creationid="MAE" creationdate="20140807T065605Z">
+        <seg>Wash off immediately with soap and water. 立即以肥皂與清水沖洗。</seg>
       </tuv>
     </tu>
     <tu>
