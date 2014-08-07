@@ -2962,6 +2962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions for safe storage, including any incompatibilities</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122915Z" creationid="CCYU" creationdate="20140807T122915Z">
+        <seg>Conditions for safe storage, including any incompatibilities 安全儲存條件，包含所有不相容物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
@@ -5535,6 +5543,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122506Z" creationid="CCYU" creationdate="20140807T122506Z">
         <seg>Keep away from foodstuffs and beverages. 請勿攜帶食物及飲料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep away from sources of heat and ignition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122825Z" creationid="CCYU" creationdate="20140807T122825Z">
+        <seg>Keep away from sources of heat and ignition. 遠離熱源與點火處</seg>
       </tuv>
     </tu>
     <tu>
@@ -8520,6 +8536,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T151735Z">
         <seg>由適用歐洲評估文件提供實行 AVCP 系統的必要技術細節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical measures and storage conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122947Z" creationid="CCYU" creationdate="20140807T122947Z">
+        <seg>Technical measures and storage conditions 技術措施與儲存條件</seg>
       </tuv>
     </tu>
     <tu>
