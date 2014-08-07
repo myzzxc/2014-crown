@@ -2841,6 +2841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chemical stability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143551Z" creationid="CCYU" creationdate="20140807T143551Z">
+        <seg>Chemical stability 化學穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification &lt;t0/&gt;67/548/EEC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064307Z" creationid="MAE" creationdate="20140807T064307Z">
@@ -3022,6 +3030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122915Z" creationid="CCYU" creationdate="20140807T122915Z">
         <seg>Conditions for safe storage, including any incompatibilities 安全儲存條件，包含所有不相容物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conditions to avoid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143657Z" creationid="CCYU" creationdate="20140807T143657Z">
+        <seg>Conditions to avoid 須避免之環境</seg>
       </tuv>
     </tu>
     <tu>
@@ -4787,6 +4803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hazardous decomposition products</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143725Z" creationid="CCYU" creationdate="20140807T143725Z">
+        <seg>Hazardous decomposition products 危害性分解產物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hazardous ingredients</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064106Z" creationid="MAE" creationdate="20140807T064106Z">
@@ -5311,6 +5335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002912Z">
         <seg>不可再有流動的水污染孔洞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incompatible materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143708Z" creationid="CCYU" creationdate="20140807T143708Z">
+        <seg>Incompatible materials 不相容材料</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,6 +6755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143519Z" creationid="CCYU" creationdate="20140807T143519Z">
+        <seg>Other information 其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
@@ -7031,6 +7071,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053138Z">
         <seg>氣動工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possibility of hazardous reactions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143633Z" creationid="CCYU" creationdate="20140807T143633Z">
+        <seg>Possibility of hazardous reactions 危險反應之可能性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,6 +7400,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112613Z">
         <seg>火災反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reactivity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143544Z" creationid="CCYU" creationdate="20140807T143544Z">
+        <seg>Reactivity 反應性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7696,6 +7752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062930Z">
         <seg>SDS 轉接器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 10: Stability and reactivity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143539Z" creationid="CCYU" creationdate="20140807T143539Z">
+        <seg>SECTION 10: Stability and reactivity 第 10 節：穩定性與反應性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10488,6 +10552,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044655Z">
         <seg>版本：1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Viscosity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143509Z" creationid="CCYU" creationdate="20140807T143509Z">
+        <seg>Viscosity 黏度</seg>
       </tuv>
     </tu>
     <tu>
