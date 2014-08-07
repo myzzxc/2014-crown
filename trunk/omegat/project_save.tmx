@@ -4563,6 +4563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form/&lt;t0/&gt;Colour</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142351Z" creationid="CCYU" creationdate="20140807T142327Z">
+        <seg>Form/&lt;t0/&gt;Colour 型態 / 顏色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115058Z">
@@ -5295,6 +5303,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091908Z" creationid="MAE" creationdate="20140807T091908Z">
         <seg>Indication of any immediate medical attention and special treatment needed 任何需要即時醫療照護和特殊治療的適應症</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information on basic physical and chemical properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142250Z" creationid="CCYU" creationdate="20140807T142250Z">
+        <seg>Information on basic physical and chemical properties 基本物理與化學性質資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -6507,6 +6523,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Odour</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142424Z" creationid="CCYU" creationdate="20140807T142424Z">
+        <seg>Odour 氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -7600,6 +7624,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131424Z" creationid="CCYU" creationdate="20140807T131424Z">
         <seg>SECTION 8: Exposure controls/personal protection 第 8 節：接觸管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 9: Physical and chemical properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142210Z" creationid="CCYU" creationdate="20140807T142210Z">
+        <seg>SECTION 9: Physical and chemical properties 第 9 節：物理與化學性質</seg>
       </tuv>
     </tu>
     <tu>
@@ -10284,6 +10316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Viscous</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142408Z" creationid="CCYU" creationdate="20140807T142332Z">
+        <seg>Viscous 黏性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042039Z">
@@ -10540,6 +10580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>brown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142420Z" creationid="CCYU" creationdate="20140807T142420Z">
+        <seg>brown 暗棕色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c 	concrete cover of post-installed rebar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040241Z">
@@ -10568,6 +10616,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125131Z">
         <seg>商用標準螺牙桿：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>chocolate-like</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142444Z" creationid="CCYU" creationdate="20140807T142444Z">
+        <seg>chocolate-like 巧克力氣味</seg>
       </tuv>
     </tu>
     <tu>
