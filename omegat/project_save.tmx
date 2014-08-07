@@ -1417,6 +1417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After inhalation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065404Z" creationid="MAE" creationdate="20140807T065404Z">
+        <seg>After inhalation 吸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After insert the anchoring element excess mortar must emerge from the mouth of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022537Z">
@@ -2301,6 +2309,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054629Z" creationid="MAE" creationdate="20140807T054629Z">
         <seg>Casing / flavor for tobacco products 菸草製品之包裝 / 調味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change contaminated, saturated clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065334Z" creationid="MAE" creationdate="20140807T065334Z">
+        <seg>Change contaminated, saturated clothing. 更換受污染、濺濕之衣物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4879,6 +4895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094602Z">
         <seg>若有任何疑問，請勿使用裝置，並聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of persisting adverse effects, consult a physician.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065236Z" creationid="MAE" creationdate="20140807T065236Z">
+        <seg>In case of persisting adverse effects, consult a physician. 若有持續不適情形，請向醫師諮詢。</seg>
       </tuv>
     </tu>
     <tu>
