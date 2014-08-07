@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%-&lt;t0/&gt;b.w&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064511Z" creationid="MAE" creationdate="20140807T064511Z">
+        <seg>%-&lt;t0/&gt;b.w&lt;t1/&gt;. ％-總質量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(0-3 years)!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084544Z">
@@ -2217,6 +2225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064242Z" creationid="MAE" creationdate="20140807T064242Z">
+        <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no  CAS / EC / Index / REACH編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
@@ -2705,6 +2721,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classification &lt;t0/&gt;67/548/EEC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064307Z" creationid="MAE" creationdate="20140807T064307Z">
+        <seg>Classification &lt;t0/&gt;67/548/EEC 分類 67/548/EEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063409Z" creationid="MAE" creationdate="20140807T063409Z">
@@ -2797,6 +2821,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041858Z">
         <seg>氣動鑽鑽孔 (CD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concentration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064313Z" creationid="MAE" creationdate="20140807T064313Z">
+        <seg>Concentration 濃度</seg>
       </tuv>
     </tu>
     <tu>
