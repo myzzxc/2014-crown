@@ -4274,6 +4274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For non-emergency personnel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T093337Z" creationid="MAE" creationdate="20140807T093337Z">
+        <seg>For non-emergency personnel 非緊急情況下之人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ongoing installations over an extended period, the special inspector must make regular inspections to confirm correct handling and installation of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132117Z">
@@ -6475,6 +6483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personal precautions, protective equipment and emergency procedures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T093321Z" creationid="MAE" creationdate="20140807T093321Z">
+        <seg>Personal precautions, protective equipment and emergency procedures 個人預防措施、防護裝備以及緊急處理程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Piston plug</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073945Z">
@@ -6984,6 +7000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103033Z">
         <seg>最小縮減面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to protective measures listed in sections 7 and 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T093434Z" creationid="MAE" creationdate="20140807T093434Z">
+        <seg>Refer to protective measures listed in sections 7 and 8. 請參閱第 7 和第 8 節中所列之防護措施。</seg>
       </tuv>
     </tu>
     <tu>
