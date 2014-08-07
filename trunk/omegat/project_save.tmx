@@ -6691,6 +6691,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautions for safe handling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100211Z" creationid="MAE" creationdate="20140807T100211Z">
+        <seg>Precautions for safe handling 安全搬運之預防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preparing of joints according to Annex B 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023103Z">
@@ -7068,6 +7076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference to other sections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100039Z" creationid="MAE" creationdate="20140807T100039Z">
+        <seg>Reference to other sections 其他章節之參考資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regarding dangerous substances there may be requirements (e.g. transposed &lt;t0/&gt;Europeanlegislation&lt;t1/&gt; and national laws, regulations and administrative provisions) applicable to the&lt;t2/&gt; &lt;t3/&gt;products falling within the scope of this European Technical Assessment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020914Z">
@@ -7272,6 +7288,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092954Z" creationid="MAE" creationdate="20140807T092954Z">
         <seg>SECTION 6: Accidental release measures 第 6 節：洩漏之緊急措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 7: Handling and storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100142Z" creationid="MAE" creationdate="20140807T100142Z">
+        <seg>SECTION 7: Handling and storage 第 7 節：搬運與儲存</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +10000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073342Z">
         <seg>重量：約 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When picked up, treat material as prescribed under heading "Disposal considerations".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100002Z" creationid="MAE" creationdate="20140807T100002Z">
+        <seg>When picked up, treat material as prescribed under heading "Disposal considerations". 吸附後，將材料依“廢棄處置注意事項”之規定處理。</seg>
       </tuv>
     </tu>
     <tu>
