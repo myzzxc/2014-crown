@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>12.3   &lt;t0/&gt;Bioaccumulative&lt;t1/&gt; potential</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154141Z" creationid="CCYU" creationdate="20140807T154141Z">
+        <seg>12.3   &lt;t0/&gt;Bioaccumulative&lt;t1/&gt; potential 生物累積性潛能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>130 x 110 x 85 mm (L x W x H)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073334Z">
@@ -6307,6 +6315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mobility in soil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154222Z" creationid="CCYU" creationdate="20140807T154222Z">
+        <seg>Mobility in soil 於土壤中之流動性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modify ACI 318 Sections D.3.3.4.2, D.3.3.4.3(d) and &lt;t0/&gt;D.3.3.5.2 to read as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z">
@@ -6847,6 +6863,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134905Z" creationid="CCYU" creationdate="20140807T134905Z">
         <seg>Other 其他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other adverse effects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154324Z" creationid="CCYU" creationdate="20140807T154324Z">
+        <seg>Other adverse effects 其他不良影響</seg>
       </tuv>
     </tu>
     <tu>
@@ -7832,6 +7856,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132328Z" creationid="CCYU" creationdate="20140807T132328Z">
         <seg>Respiratory protection 呼吸防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results of PBT and &lt;t0/&gt;vPvB&lt;t1/&gt; assessment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154313Z" creationid="CCYU" creationdate="20140807T154313Z">
+        <seg>Results of PBT and &lt;t0/&gt;vPvB&lt;t1/&gt; assessment PBT 和 vPvB 評估結果</seg>
       </tuv>
     </tu>
     <tu>
