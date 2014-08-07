@@ -1337,6 +1337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063044Z" creationid="MAE" creationdate="20140807T063044Z">
+        <seg>Address 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjustments to the bond strength may also be taken for increased concrete compressive strength as noted in the footnotes to the corresponding tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075201Z">
@@ -3148,8 +3156,8 @@
       <tuv lang="EN-US">
         <seg>Details of the supplier of the safety data sheet</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054636Z" creationid="MAE" creationdate="20140807T054636Z">
-        <seg>Details of the supplier of the safety data sheet </seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063038Z" creationid="MAE" creationdate="20140807T054636Z">
+        <seg>Details of the supplier of the safety data sheet 安全資料表供應商詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3902,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140923Z">
         <seg>緊固件不可偏離安裝位置或置於灌漿層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063118Z" creationid="MAE" creationdate="20140807T063118Z">
+        <seg>Fax no. 傳真</seg>
       </tuv>
     </tu>
     <tu>
@@ -4887,6 +4903,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051612Z">
         <seg>混凝土增加係數 We</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information provided by / telephone</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063238Z" creationid="MAE" creationdate="20140807T063238Z">
+        <seg>Information provided by / telephone 資訊來源 / 電話</seg>
       </tuv>
     </tu>
     <tu>
@@ -7976,6 +8000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone no.&lt;t0/&gt;          +49 (0)40 82 20 0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063136Z" creationid="MAE" creationdate="20140807T063110Z">
+        <seg>Telephone no.&lt;t0/&gt;          +49 (0)40 82 20 0 電話</seg>
       </tuv>
     </tu>
     <tu>
