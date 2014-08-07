@@ -3898,6 +3898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environmental precautions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094900Z" creationid="MAE" creationdate="20140807T094900Z">
+        <seg>Environmental precautions 環境預防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Essential characteristic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
@@ -4244,8 +4252,8 @@
       <tuv lang="EN-US">
         <seg>For emergency responders</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094321Z" creationid="MAE" creationdate="20140807T094321Z">
-        <seg>For emergency responders 緊急人員</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094825Z" creationid="MAE" creationdate="20140807T094321Z">
+        <seg>For emergency responders 緊急處理人員</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,6 +6503,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T093321Z" creationid="MAE" creationdate="20140807T093321Z">
         <seg>Personal precautions, protective equipment and emergency procedures 個人預防措施、防護裝備以及緊急處理程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal protective equipment (PPE) - see Section 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094855Z" creationid="MAE" creationdate="20140807T094855Z">
+        <seg>Personal protective equipment (PPE) - see Section 8. 個人防護裝備 (PPE) - 請見第 8 節。</seg>
       </tuv>
     </tu>
     <tu>
