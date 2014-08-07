@@ -2689,6 +2689,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classification information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063409Z" creationid="MAE" creationdate="20140807T063409Z">
+        <seg>Classification information 分類資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification of the substance or mixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063404Z" creationid="MAE" creationdate="20140807T063404Z">
+        <seg>Classification of the substance or mixture 物質或混合物的分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z">
@@ -3750,6 +3766,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
         <seg>最小伸長量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency telephone number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063250Z" creationid="MAE" creationdate="20140807T063250Z">
+        <seg>Emergency telephone number 緊急電話號碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -5771,6 +5795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No data available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063303Z" creationid="MAE" creationdate="20140807T063303Z">
+        <seg>No data available. 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No performance determined (NPD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
@@ -6872,6 +6904,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054146Z" creationid="MAE" creationdate="20140807T054115Z">
         <seg>SECTION 1: Identification of the substance/mixture and of the company/undertaking 第 1 節：物質 / 混和物與公司 / 企業之標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 2: Hazards identification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063350Z" creationid="MAE" creationdate="20140807T063350Z">
+        <seg>SECTION 2: Hazards identification 第 2 節：危害標識</seg>
       </tuv>
     </tu>
     <tu>
