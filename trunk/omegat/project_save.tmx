@@ -7188,6 +7188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 6: Accidental release measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092954Z" creationid="MAE" creationdate="20140807T092954Z">
+        <seg>SECTION 6: Accidental release measures 第 6 節：洩漏之緊急措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -9856,6 +9864,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074534Z">
         <seg>水飽和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear protective clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092837Z" creationid="MAE" creationdate="20140807T092837Z">
+        <seg>Wear protective clothing. 穿上防護衣</seg>
       </tuv>
     </tu>
     <tu>
