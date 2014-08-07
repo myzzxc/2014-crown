@@ -1191,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134221Z" creationid="CCYU" creationdate="20140807T134221Z">
+        <seg>&lt;t1/&gt;Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties). 防護手套應於使用前測試，確保在任何情況下與特定工作站之相容性 (即機械阻力，產品的相容性與抗靜電性能)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;For bore holes deeper then 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061224Z">
