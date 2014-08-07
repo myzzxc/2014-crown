@@ -1247,6 +1247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Design operations thus to avoid permanent use of protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134859Z" creationid="CCYU" creationdate="20140807T134859Z">
+        <seg>&lt;t2/&gt;Design operations thus to avoid permanent use of protective gloves. 需設計操作方式以避免永久使用同一防護手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;The foregoing may be neglected if building components are new and not carbonated and if building components are in dry conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030822Z">
@@ -4002,6 +4010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environmental exposure controls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134936Z" creationid="CCYU" creationdate="20140807T134936Z">
+        <seg>Environmental exposure controls 環境接觸管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environmental precautions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094900Z" creationid="MAE" creationdate="20140807T094900Z">
@@ -6339,6 +6355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal chemical work clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134917Z" creationid="CCYU" creationdate="20140807T134917Z">
+        <seg>Normal chemical work clothing. 正常化學工作服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal-weight concrete must comply with Sections 1903 and 1905 of the IBC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z">
@@ -6559,6 +6583,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
         <seg>最佳砂漿容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134905Z" creationid="CCYU" creationdate="20140807T134905Z">
+        <seg>Other 其他</seg>
       </tuv>
     </tu>
     <tu>
