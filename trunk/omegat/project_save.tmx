@@ -3938,6 +3938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extinguishing media</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091947Z" creationid="MAE" creationdate="20140807T091947Z">
+        <seg>Extinguishing media 滅火劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIGURE 1—FLOWCHART.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044951Z">
@@ -4118,6 +4126,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141112Z">
         <seg>積水孔 (非海水)：M8 至 M30，鋼筋 Φ8 至 Φ32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foam; Dry chemical extinguisher; Carbon dioxide; Water spray jet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092126Z" creationid="MAE" creationdate="20140807T092126Z">
+        <seg>Foam; Dry chemical extinguisher; Carbon dioxide; Water spray jet 泡沫式；乾式化學滅火器；二氧化碳；噴射灑水</seg>
       </tuv>
     </tu>
     <tu>
@@ -7148,6 +7164,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 5: Firefighting measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091921Z" creationid="MAE" creationdate="20140807T091921Z">
+        <seg>SECTION 5: Firefighting measures 第 5 節： 消防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -7848,6 +7872,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063937Z" creationid="MAE" creationdate="20140807T063937Z">
         <seg>Substances 物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable extinguishing media</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092146Z" creationid="MAE" creationdate="20140807T091958Z">
+        <seg>Suitable extinguishing media 適用之滅火劑</seg>
       </tuv>
     </tu>
     <tu>
@@ -9632,6 +9664,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T123800Z">
         <seg>不再使用時，請於電源插座拔下保溫電毯插頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsuitable extinguishing media</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092142Z" creationid="MAE" creationdate="20140807T092142Z">
+        <seg>Unsuitable extinguishing media 不適用之滅火劑</seg>
       </tuv>
     </tu>
     <tu>
