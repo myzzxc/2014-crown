@@ -10068,6 +10068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The product is not subject to ADR/RID/ADN regulations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T041930Z" creationid="MAE" creationdate="20140808T041930Z">
+        <seg>The product is not subject to ADR/RID/ADN regulations. 此產品不適用 ADR/RID/ADN 規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
@@ -10616,6 +10624,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015409Z">
         <seg>若將本歐洲技術評估翻譯為其他語言，則應與原始頒布文件完全一致，並且應視其為原始頒佈文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport ADR/RID/ADN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T041828Z" creationid="MAE" creationdate="20140808T041828Z">
+        <seg>Transport ADR/RID/ADN 運輸 ADR/RID/ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport IMDG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042010Z" creationid="MAE" creationdate="20140808T042010Z">
+        <seg>Transport IMDG 運輸 IMDG</seg>
       </tuv>
     </tu>
     <tu>
