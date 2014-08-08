@@ -3268,8 +3268,16 @@
       <tuv lang="EN-US">
         <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2012                               &lt;t3/&gt;Replaced version: &lt;t4/&gt;1.0.0, issued: 16.08.2011                &lt;t5/&gt;Region: &lt;t6/&gt;GB</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130425Z" creationid="CCYU" creationdate="20140808T130425Z">
-        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2012                               &lt;t3/&gt;Replaced version: &lt;t4/&gt;1.0.0, issued: 16.08.2011                &lt;t5/&gt;Region: &lt;t6/&gt;GB 目前版本：2.0.0，發行日期：2012 年 3 月 23 日 修訂版本：1.0.0，發行日期：2011 年 8 月 16 日</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131718Z" creationid="CCYU" creationdate="20140808T130425Z">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2012                               &lt;t3/&gt;Replaced version: &lt;t4/&gt;1.0.0, issued: 16.08.2011                &lt;t5/&gt;Region: &lt;t6/&gt;GB 目前版本：2.0.0，發行日期：2012 年 3 月 23 日 修訂版本：1.0.0，發行日期：2011 年 8 月 16 日 地區：英國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2&lt;t3/&gt;012                      &lt;t4/&gt;     &lt;t5/&gt;Replaced version: &lt;t6/&gt;1.0.0, issu&lt;t7/&gt;ed: 16.08.2011             &lt;t8/&gt;         &lt;t9/&gt;Region: &lt;t10/&gt;GB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131705Z" creationid="CCYU" creationdate="20140808T131705Z">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2&lt;t3/&gt;012                      &lt;t4/&gt;     &lt;t5/&gt;Replaced version: &lt;t6/&gt;1.0.0, issu&lt;t7/&gt;ed: 16.08.2011             &lt;t8/&gt;         &lt;t9/&gt;Region: &lt;t10/&gt;GB 目前版本：2.0.0，發行日期：2012 年 3 月 23 日 修訂版本：1.0.0，發行日期：2011 年 8 月 16 日 地區：英國</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,6 +6067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of approved workplace exposure limits (WELs) / E</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131838Z" creationid="CCYU" creationdate="20140808T131838Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplace exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131703Z" creationid="CCYU" creationdate="20140807T131703Z">
@@ -7107,6 +7123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;4&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131731Z" creationid="CCYU" creationdate="20140808T131731Z">
+        <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;4&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8 第 4/8 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PART 1 – GENERAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z">
@@ -7588,6 +7612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 304</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131808Z" creationid="CCYU" creationdate="20140808T131808Z">
+        <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 304 產品標識 商品名稱 CASING DC 304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product identifier Trade name CASING DC 100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054323Z" creationid="MAE" creationdate="20140807T054323Z">
@@ -7600,6 +7632,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131947Z" creationid="CCYU" creationdate="20140807T131947Z">
         <seg>Propane-1,2-diol 1,2-丙二醇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Propane-1&lt;t0/&gt;,2&lt;t1/&gt;-diol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131854Z" creationid="CCYU" creationdate="20140808T131854Z">
+        <seg>Propane-1&lt;t0/&gt;,2&lt;t1/&gt;-diol 1,2-丙二醇</seg>
       </tuv>
     </tu>
     <tu>
@@ -10948,6 +10988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 300</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131622Z" creationid="CCYU" creationdate="20140808T131622Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 300 產品名稱：CASING DC 300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade name: CASING DC 100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115648Z" creationid="CCYU" creationdate="20140807T115648Z">
@@ -11496,6 +11544,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015530Z">
         <seg>錨固間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z" creationid="CCYU" creationdate="20140808T131551Z">
+        <seg>arks 備註</seg>
       </tuv>
     </tu>
     <tu>
