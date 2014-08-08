@@ -6739,6 +6739,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None, if handled according to order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125932Z" creationid="CCYU" creationdate="20140808T125932Z">
+        <seg>None, if handled according to order. 若依規範處理則無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal chemical work clothing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134917Z" creationid="CCYU" creationdate="20140807T134917Z">
