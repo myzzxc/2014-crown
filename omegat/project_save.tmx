@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7984,6 +7984,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T155210Z" creationid="CCYU" creationdate="20140807T155210Z">
         <seg>SECTION 13: Disposal considerations 第 13 節：廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 14: Transport information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T041303Z" creationid="MAE" creationdate="20140808T041303Z">
+        <seg>SECTION 14: Transport information 第 14 節：運輸資訊</seg>
       </tuv>
     </tu>
     <tu>
