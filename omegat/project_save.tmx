@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.&lt;t0/&gt; &lt;t1/&gt;COMPOSITION/INFORMATION ON INGREDIENTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145043Z" creationid="CCYU" creationdate="20140808T145043Z">
+        <seg>3.&lt;t0/&gt; &lt;t1/&gt;COMPOSITION/INFORMATION ON INGREDIENTS 成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>30 °C!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130121Z">
@@ -5331,6 +5339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hazard statements&lt;t0/&gt;        &lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144921Z" creationid="CCYU" creationdate="20140808T144921Z">
+        <seg>Hazard statements&lt;t0/&gt;        &lt;t1/&gt; : 危害性聲明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hazardous decomposition products</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143725Z" creationid="CCYU" creationdate="20140807T143725Z">
@@ -7055,6 +7071,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
         <seg>性能未確定 (NPD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No signal word.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145026Z" creationid="CCYU" creationdate="20140808T144931Z">
+        <seg>No signal word. 無警示語。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,6 +9296,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053221Z">
         <seg>雙槽卡匣 385、444、585 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signal word&lt;t0/&gt;              &lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144923Z" creationid="CCYU" creationdate="20140808T144817Z">
+        <seg>Signal word&lt;t0/&gt;              &lt;t1/&gt;: 警示語：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,6 +11576,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133610Z" creationid="CCYU" creationdate="20140808T133610Z">
         <seg>This product does not meet the classification and labelling criteria given in the Dangerous Preparations Directive (1999/45/EC; DPD) 此產品未符合危險物質指令 (1999/45/EC; DPD) 所指示之分類與標示準則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is not classified according to EU legislation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145013Z" creationid="CCYU" creationdate="20140808T145013Z">
+        <seg>This product is not classified according to EU legislation. 此產品未根據歐盟法律分類。</seg>
       </tuv>
     </tu>
     <tu>
