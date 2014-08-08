@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Triacetin</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144126Z" creationid="CCYU" creationdate="20140808T144126Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Triacetin 甘油三乙酸酯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;Accessories which are subject to normal wear and tear.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114924Z">
@@ -3169,6 +3177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Company Name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144230Z" creationid="CCYU" creationdate="20140808T144230Z">
+        <seg>Company Name 公司名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance with the following codes:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
@@ -4210,6 +4226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E-mail address&lt;t0/&gt;              &lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144346Z" creationid="CCYU" creationdate="20140808T144346Z">
+        <seg>E-mail address&lt;t0/&gt;              &lt;t1/&gt;: 電子郵件信箱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EAN number: 40 15588 60227 6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114534Z">
@@ -4422,6 +4446,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
         <seg>最小伸長量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency phone:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144401Z" creationid="CCYU" creationdate="20140808T144401Z">
+        <seg>Emergency phone: 緊急聯絡電話：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7643,6 +7675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phone: +49 (211) 5611-2000</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144314Z" creationid="CCYU" creationdate="20140808T144314Z">
+        <seg>Phone: +49 (211) 5611-2000 電話：+49 (211) 5611-2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick up with absorbent material (e.g., sand, sawdust, general-purpose binder).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095748Z" creationid="MAE" creationdate="20140807T095748Z">
@@ -8104,6 +8144,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082640Z">
         <seg>快速估算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REACH Registration number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144421Z" creationid="CCYU" creationdate="20140808T144421Z">
+        <seg>REACH Registration number REACH 登記編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -11800,6 +11848,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142942Z" creationid="CCYU" creationdate="20140807T142942Z">
         <seg>Upper flammability or explosive limits 可燃性或爆炸性上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usage&lt;t0/&gt;                     &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Oleochemical&lt;t4/&gt; raw material</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144214Z" creationid="CCYU" creationdate="20140808T144214Z">
+        <seg>Usage&lt;t0/&gt;                     &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Oleochemical&lt;t4/&gt; raw material 用途：油脂化學原料</seg>
       </tuv>
     </tu>
     <tu>
