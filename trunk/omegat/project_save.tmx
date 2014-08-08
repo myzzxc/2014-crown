@@ -8556,6 +8556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAFETY DATA SHEET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143324Z" creationid="CCYU" creationdate="20140808T143324Z">
+        <seg>SAFETY DATA SHEET 安全資料表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SDS Plus Adapter:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062930Z">
