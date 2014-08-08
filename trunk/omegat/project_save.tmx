@@ -5051,6 +5051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it should not constitute a guarantee for any specific product proper&lt;t0/&gt;ties and shall not establish a legally valid relationship.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051320Z" creationid="MAE" creationdate="20140808T051320Z">
+        <seg>However, it should not constitute a guarantee for any specific product proper&lt;t0/&gt;ties and shall not establish a legally valid relationship. 但其不作為任何特定產品特性的保證且不具法律效力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, partial reproduction may only be made with the written consent of the issuing Technical Assessment Body.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143057Z">
@@ -8212,6 +8220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety data sheet in accordance with 1907/2006/EC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051358Z" creationid="MAE" creationdate="20140808T051358Z">
+        <seg>Safety data sheet in accordance with 1907/2006/EC 符合 1907/2006/EC 之安全資料表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety glasses (EN 166)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133100Z" creationid="CCYU" creationdate="20140807T133100Z">
@@ -10760,6 +10776,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033438Z">
         <seg>建築產品之商標名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051411Z" creationid="MAE" creationdate="20140808T051411Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 100 產品名稱：CASING DC 100</seg>
       </tuv>
     </tu>
     <tu>
