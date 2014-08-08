@@ -1449,6 +1449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advice on storage assembly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T124041Z" creationid="CCYU" creationdate="20140808T124041Z">
+        <seg>Advice on storage assembly 儲存裝置之建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few minutes you will be able to feel the heating blanket getting noticeably warmer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -4006,6 +4014,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050300Z" creationid="MAE" creationdate="20140808T045403Z">
         <seg>EC Directive 67/548/EC resp. 99/45/EC as amended in each case.  歐盟指令 67/548/EC 與相對應個案之修訂 99/45/EC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EC no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T124058Z" creationid="CCYU" creationdate="20140808T124058Z">
+        <seg>EC no. EC 編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -6711,6 +6727,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054855Z" creationid="MAE" creationdate="20140727T054855Z">
         <seg>未龜裂混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None known</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T124045Z" creationid="CCYU" creationdate="20140808T124045Z">
+        <seg>None known 未知</seg>
       </tuv>
     </tu>
     <tu>
