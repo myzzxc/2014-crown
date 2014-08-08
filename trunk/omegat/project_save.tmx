@@ -702,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;If you feel unwell, seek medical attention and show the label when possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145854Z" creationid="CCYU" creationdate="20140808T145854Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;If you feel unwell, seek medical attention and show the label when possible. 若感到不適，請尋求醫療協助，並盡可能出示產品標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Not applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145904Z" creationid="CCYU" creationdate="20140808T145904Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Not applicable. 不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Not classified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144641Z" creationid="CCYU" creationdate="20140808T144641Z">
@@ -714,6 +730,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144126Z" creationid="CCYU" creationdate="20140808T144126Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Triacetin 甘油三乙酸酯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Wash out mouth with water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150024Z" creationid="CCYU" creationdate="20140808T145912Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Wash out mouth with water. 以清水沖洗口腔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,8 +8774,8 @@
       <tuv lang="EN-US">
         <seg>Rinse mouth thoroughly with water.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090540Z" creationid="MAE" creationdate="20140807T090540Z">
-        <seg>Rinse mouth thoroughly with water. 以清水側底漱口。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145921Z" creationid="MAE" creationdate="20140807T090540Z">
+        <seg>Rinse mouth thoroughly with water. 以清水徹底漱口。</seg>
       </tuv>
     </tu>
     <tu>
