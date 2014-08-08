@@ -3290,6 +3290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conforms to Regulation (EC) No. 1907/2006 (REACH), Annex II - Germany</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143438Z" creationid="CCYU" creationdate="20140808T143438Z">
+        <seg>Conforms to Regulation (EC) No. 1907/2006 (REACH), Annex II - Germany 符合規章 (EC) 編號 1907/2006 號 (REACH)，附件 II - 德國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
@@ -3590,6 +3598,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T035800Z">
         <seg>於 2013 年 2 月提交符合 ICC-ES 混凝土元件黏合後安裝錨固驗收標準 AC308 的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143548Z" creationid="CCYU" creationdate="20140808T143548Z">
+        <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:  印刷日期： 修訂日期：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5091,6 +5107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General chemical characteristics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143749Z" creationid="CCYU" creationdate="20140808T143749Z">
+        <seg>General chemical characteristics 一般化學性質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General construction rules for post-installed &lt;t0/&gt;rebars</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041140Z">
@@ -5383,6 +5407,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044500Z">
         <seg>識別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143715Z" creationid="CCYU" creationdate="20140808T143715Z">
+        <seg>物質 / 混和物與公司 / 企業之標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -7475,6 +7507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page: 1/4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143505Z" creationid="CCYU" creationdate="20140808T143505Z">
+        <seg>Page: 1/4 頁碼：1/4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 2 / 10</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044713Z">
@@ -7944,6 +7984,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054323Z" creationid="MAE" creationdate="20140807T054323Z">
         <seg>Product identifier Trade name CASING DC 100 產品標識 商品名稱 CASING DC 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143733Z" creationid="CCYU" creationdate="20140808T143733Z">
+        <seg>Product name 產品名稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -8560,6 +8608,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143324Z" creationid="CCYU" creationdate="20140808T143324Z">
         <seg>SAFETY DATA SHEET 安全資料表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SDS No.&lt;t0/&gt;            &lt;t1/&gt;:&lt;t2/&gt;          &lt;t3/&gt;1030400</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143607Z" creationid="CCYU" creationdate="20140808T143607Z">
+        <seg>SDS No.&lt;t0/&gt;            &lt;t1/&gt;:&lt;t2/&gt;          &lt;t3/&gt;1030400 SDS 編號：1030400</seg>
       </tuv>
     </tu>
     <tu>
