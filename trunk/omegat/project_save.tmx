@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7488,6 +7488,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070328Z">
         <seg>建築產品所屬之產品系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 200</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123227Z" creationid="CCYU" creationdate="20140808T123227Z">
+        <seg>Product identifier Trade name CASING DC 100 產品標識 商品名稱 CASING DC 200</seg>
       </tuv>
     </tu>
     <tu>
