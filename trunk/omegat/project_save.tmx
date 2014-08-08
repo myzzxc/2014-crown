@@ -1409,6 +1409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z" creationid="CCYU" creationdate="20140808T133646Z">
+        <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information 附加資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Address</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063044Z" creationid="MAE" creationdate="20140807T063044Z">
@@ -2427,16 +2435,24 @@
       <tuv lang="EN-US">
         <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064242Z" creationid="MAE" creationdate="20140807T064242Z">
-        <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no  CAS / EC / Index / REACH編號</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133705Z" creationid="MAE" creationdate="20140807T064242Z">
+        <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no  CAS / EC / Index / REACH 編號</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>CAS no.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131612Z" creationid="CCYU" creationdate="20140807T131612Z">
-        <seg>CAS no. CAS編號</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133719Z" creationid="CCYU" creationdate="20140807T131612Z">
+        <seg>CAS no. CAS 編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAS&lt;t0/&gt; / EC / Index /&lt;t1/&gt; &lt;t2/&gt;REACH &lt;t3/&gt;no</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133701Z" creationid="CCYU" creationdate="20140808T133701Z">
+        <seg>CAS&lt;t0/&gt; / EC / Index /&lt;t1/&gt; &lt;t2/&gt;REACH &lt;t3/&gt;no CAS / EC / Index / REACH 編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,6 +3005,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063404Z" creationid="MAE" creationdate="20140807T063404Z">
         <seg>Classification of the substance or mixture 物質或混合物的分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification&lt;t0/&gt; &lt;t1/&gt;67/548/EEC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133838Z" creationid="CCYU" creationdate="20140808T133838Z">
+        <seg>Classification&lt;t0/&gt; &lt;t1/&gt;67/548/EEC 分類 67/548/EEC</seg>
       </tuv>
     </tu>
     <tu>
@@ -7806,8 +7830,8 @@
       <tuv lang="EN-US">
         <seg>REACH no</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123445Z" creationid="CCYU" creationdate="20140808T123445Z">
-        <seg>REACH no CAS / EC / Index / REACH編號</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133711Z" creationid="CCYU" creationdate="20140808T123445Z">
+        <seg>REACH no CAS / EC / Index / REACH 編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -8432,6 +8456,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133624Z" creationid="CCYU" creationdate="20140808T133624Z">
         <seg>SECTION&lt;t0/&gt; 3:&lt;t1/&gt; &lt;t2/&gt;Composition/information&lt;t3/&gt; &lt;t4/&gt;on&lt;t5/&gt; &lt;t6/&gt;ingredients 第 3 節：成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 4:&lt;t1/&gt; &lt;t2/&gt;First &lt;t3/&gt;aid&lt;t4/&gt; &lt;t5/&gt;measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133856Z" creationid="CCYU" creationdate="20140808T133856Z">
+        <seg>SECTION&lt;t0/&gt; 4:&lt;t1/&gt; &lt;t2/&gt;First &lt;t3/&gt;aid&lt;t4/&gt; &lt;t5/&gt;measures 第 4 節： 急救措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 5:&lt;t1/&gt; &lt;t2/&gt;Firefighting&lt;t3/&gt; &lt;t4/&gt;measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133908Z" creationid="CCYU" creationdate="20140808T133908Z">
+        <seg>SECTION&lt;t0/&gt; 5:&lt;t1/&gt; &lt;t2/&gt;Firefighting&lt;t3/&gt; &lt;t4/&gt;measures 第 5 節： 消防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 6:&lt;t1/&gt; &lt;t2/&gt;Accidental&lt;t3/&gt; &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133920Z" creationid="CCYU" creationdate="20140808T133920Z">
+        <seg>SECTION&lt;t0/&gt; 6:&lt;t1/&gt; &lt;t2/&gt;Accidental&lt;t3/&gt; &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;measures 第 6 節：洩漏之緊急措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 7:&lt;t1/&gt; &lt;t2/&gt;Handling&lt;t3/&gt; &lt;t4/&gt;and&lt;t5/&gt; storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133931Z" creationid="CCYU" creationdate="20140808T133931Z">
+        <seg>SECTION&lt;t0/&gt; 7:&lt;t1/&gt; &lt;t2/&gt;Handling&lt;t3/&gt; &lt;t4/&gt;and&lt;t5/&gt; storage 第 7 節：搬運與儲存</seg>
       </tuv>
     </tu>
     <tu>
@@ -9248,6 +9304,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131533Z" creationid="CCYU" creationdate="20140807T131533Z">
         <seg>Substance name. 物質名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Substance&lt;t0/&gt; &lt;t1/&gt;name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133639Z" creationid="CCYU" creationdate="20140808T133639Z">
+        <seg>Substance&lt;t0/&gt; &lt;t1/&gt;name 物質名稱</seg>
       </tuv>
     </tu>
     <tu>
