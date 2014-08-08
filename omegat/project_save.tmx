@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13.1&lt;t0/&gt; &lt;t1/&gt;Waste&lt;t2/&gt; &lt;t3/&gt;treatment&lt;t4/&gt; &lt;t5/&gt;methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134627Z" creationid="CCYU" creationdate="20140808T134627Z">
+        <seg>13.1 Waste treatment methods 廢棄物處理方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>130 x 110 x 85 mm (L x W x H)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073334Z">
@@ -2365,6 +2373,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151233Z">
         <seg>清潔暖腳機前，必須取出插入式外套層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z" creationid="CCYU" creationdate="20140808T134611Z">
+        <seg>Bioaccumulative&lt;t0/&gt; potential 生物累積性潛能</seg>
       </tuv>
     </tu>
     <tu>
@@ -8756,6 +8772,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;13:&lt;t2/&gt; &lt;t3/&gt;Disposal&lt;t4/&gt; &lt;t5/&gt;considerations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134616Z" creationid="CCYU" creationdate="20140808T134616Z">
+        <seg>SECTION 13: Disposal considerations 第 13 節：廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;14:&lt;t2/&gt; &lt;t3/&gt;Transport&lt;t4/&gt; &lt;t5/&gt;information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134634Z" creationid="CCYU" creationdate="20140808T134634Z">
+        <seg>SECTION 14: Transport information 第 14 節：運輸資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;15:&lt;t2/&gt; &lt;t3/&gt;Regulatory&lt;t4/&gt; &lt;t5/&gt;information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134641Z" creationid="CCYU" creationdate="20140808T134641Z">
+        <seg>SECTION 15: Regulatory information 第 15 節：法規資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;16: Other information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134828Z" creationid="CCYU" creationdate="20140808T134828Z">
+        <seg>SECTION 16: Other information 第 16 節：其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -8864,6 +8912,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043838Z" creationid="MAE" creationdate="20140808T043838Z">
         <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture 物質或混合物具體的安全、健康以及環境法規 / 立法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture &lt;t0/&gt;EU regulations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134812Z" creationid="CCYU" creationdate="20140808T134812Z">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture 物質或混合物具體的安全、健康以及環境法規 / 立法 &lt;t0/&gt;EU regulations 歐盟規章</seg>
       </tuv>
     </tu>
     <tu>
@@ -10112,6 +10168,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100346Z">
         <seg>技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tel.: +49 40 / 79 02 36 300&lt;t0/&gt; &lt;t1/&gt;Fax: +49 40 / 79 02 36 357 &lt;t2/&gt;e-mail&lt;t3/&gt;: umco@umco.de</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134854Z" creationid="CCYU" creationdate="20140808T134854Z">
+        <seg>Tel.: +49 40 / 79 02 36 300&lt;t0/&gt; &lt;t1/&gt;Fax: +49 40 / 79 02 36 357 &lt;t2/&gt;e-mail&lt;t3/&gt;: umco@umco.de  電話：+49 40 / 79 02 36 傳真：+49 40 / 79 02 36 357 電子信箱：umco@umco.de </seg>
       </tuv>
     </tu>
     <tu>
