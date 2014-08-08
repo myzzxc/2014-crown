@@ -2945,6 +2945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classification 67/548/EEC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123821Z" creationid="CCYU" creationdate="20140808T123821Z">
+        <seg>Classification 67/548/EEC 分類 67/548/EEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification &lt;t0/&gt;67/548/EEC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064307Z" creationid="MAE" creationdate="20140807T064307Z">
@@ -7604,6 +7612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REACH no</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123445Z" creationid="CCYU" creationdate="20140808T123445Z">
+        <seg>REACH no CAS / EC / Index / REACH編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REINFORCING BAR SPECIFICATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001821Z">
@@ -11687,6 +11703,14 @@
         <seg>max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123259Z" creationid="CCYU" creationdate="20140807T123259Z">
+        <seg>max. 最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>max&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123851Z" creationid="CCYU" creationdate="20140808T123851Z">
         <seg>max. 最高</seg>
       </tuv>
     </tu>
