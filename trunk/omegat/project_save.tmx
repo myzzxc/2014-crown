@@ -3442,6 +3442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current version&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1.0.0, issued: 23.03.2012</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T135032Z" creationid="CCYU" creationdate="20140808T135032Z">
+        <seg>Current version&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1.0.0, issued: 23.03.2012 目前版本：1.0.0，發行日期：2012 年 3 月 23 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current&lt;t0/&gt; supply:&lt;t1/&gt; Mains adapter type:&lt;t2/&gt; &lt;t3/&gt;YJS 020D -1201200G</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073231Z">
@@ -7475,6 +7483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;13&lt;t2/&gt; &lt;t3/&gt;of 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T135054Z" creationid="CCYU" creationdate="20140808T135054Z">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;13&lt;t2/&gt; &lt;t3/&gt;of 8 第 13 / 8 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142025Z">
@@ -8920,6 +8936,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134812Z" creationid="CCYU" creationdate="20140808T134812Z">
         <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture 物質或混合物具體的安全、健康以及環境法規 / 立法 &lt;t0/&gt;EU regulations 歐盟規章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety&lt;t0/&gt; &lt;t1/&gt;data&lt;t2/&gt; &lt;t3/&gt;sheet&lt;t4/&gt; &lt;t5/&gt;in&lt;t6/&gt; &lt;t7/&gt;accordance&lt;t8/&gt; &lt;t9/&gt;with&lt;t10/&gt; &lt;t11/&gt;1907/2006/EC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T135041Z" creationid="CCYU" creationdate="20140808T135041Z">
+        <seg>Safety data sheet in accordance with 1907/2006/EC 符合 1907/2006/EC 之安全資料表</seg>
       </tuv>
     </tu>
     <tu>
@@ -11518,24 +11542,24 @@
       <tuv lang="EN-US">
         <seg>Trade name: &lt;t0/&gt;CASING DC 100</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051411Z" creationid="MAE" creationdate="20140808T051411Z">
-        <seg>Trade name: &lt;t0/&gt;CASING DC 100 產品名稱：CASING DC 100</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134937Z" creationid="MAE" creationdate="20140808T051411Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 100 商品名稱：CASING DC 100</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Trade name: &lt;t0/&gt;CASING DC 200</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130305Z" creationid="CCYU" creationdate="20140808T130305Z">
-        <seg>Trade name: &lt;t0/&gt;CASING DC 200 產品名稱：CASING DC 200</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T135001Z" creationid="CCYU" creationdate="20140808T130305Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 200 商品名稱：CASING DC 200</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Trade name: &lt;t0/&gt;CASING DC 300</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131622Z" creationid="CCYU" creationdate="20140808T131622Z">
-        <seg>Trade name: &lt;t0/&gt;CASING DC 300 產品名稱：CASING DC 300</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134953Z" creationid="CCYU" creationdate="20140808T131622Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 300 商品名稱：CASING DC 300</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,16 +11574,24 @@
       <tuv lang="EN-US">
         <seg>Trade name: &lt;t0/&gt;CASING DC 310</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132542Z" creationid="CCYU" creationdate="20140808T132542Z">
-        <seg>Trade name: &lt;t0/&gt;CASING DC 310 產品名稱：CASING DC 310</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134945Z" creationid="CCYU" creationdate="20140808T132542Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 310 商品名稱：CASING DC 310</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade name: &lt;t0/&gt;CONCENTRATE VOLGA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134930Z" creationid="CCYU" creationdate="20140808T134930Z">
+        <seg>Trade name: &lt;t0/&gt;CONCENTRATE VOLGA 商品名稱：CONCENTRATE VOLGA </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Trade name: CASING DC 100</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115648Z" creationid="CCYU" creationdate="20140807T115648Z">
-        <seg>Trade name: CASING DC 100 產品名稱：CASING DC 100</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T135009Z" creationid="CCYU" creationdate="20140807T115648Z">
+        <seg>Trade name: CASING DC 100 商品名稱：CASING DC 100</seg>
       </tuv>
     </tu>
     <tu>
