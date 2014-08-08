@@ -8420,6 +8420,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 2:&lt;t1/&gt; &lt;t2/&gt;Hazards&lt;t3/&gt; &lt;t4/&gt;identification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133535Z" creationid="CCYU" creationdate="20140808T133535Z">
+        <seg>SECTION&lt;t0/&gt; 2:&lt;t1/&gt; &lt;t2/&gt;Hazards&lt;t3/&gt; &lt;t4/&gt;identification 第 2 節：危害標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 3:&lt;t1/&gt; &lt;t2/&gt;Composition/information&lt;t3/&gt; &lt;t4/&gt;on&lt;t5/&gt; &lt;t6/&gt;ingredients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133624Z" creationid="CCYU" creationdate="20140808T133624Z">
+        <seg>SECTION&lt;t0/&gt; 3:&lt;t1/&gt; &lt;t2/&gt;Composition/information&lt;t3/&gt; &lt;t4/&gt;on&lt;t5/&gt; &lt;t6/&gt;ingredients 第 3 節：成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -9756,6 +9772,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Telephone no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133526Z" creationid="CCYU" creationdate="20140808T133526Z">
+        <seg>Telephone no. 電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telephone no.&lt;t0/&gt;          +49 (0)40 82 20 0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063136Z" creationid="MAE" creationdate="20140807T063110Z">
@@ -10896,6 +10920,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063749Z" creationid="MAE" creationdate="20140807T063722Z">
         <seg>This product does not meet the classification and &lt;t0/&gt;labelling&lt;t1/&gt; criteria given in the Dangerous Preparations Directive 此產品未符合危險物質指令 (1999/45/EC; DPD) 所指示之分類與標示準則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product does not meet the classification and labelling criteria given in the Dangerous Preparations Directive (1999/45/EC; DPD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133610Z" creationid="CCYU" creationdate="20140808T133610Z">
+        <seg>This product does not meet the classification and labelling criteria given in the Dangerous Preparations Directive (1999/45/EC; DPD) 此產品未符合危險物質指令 (1999/45/EC; DPD) 所指示之分類與標示準則</seg>
       </tuv>
     </tu>
     <tu>
