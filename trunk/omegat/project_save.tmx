@@ -8404,6 +8404,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sources of key data used to compile the data sheet:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044259Z" creationid="MAE" creationdate="20140808T044259Z">
+        <seg>Sources of key data used to compile the data sheet: 資料表編寫之關鍵資料來源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Inspection:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T130040Z">
