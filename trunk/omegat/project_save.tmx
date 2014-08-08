@@ -702,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Flush contaminated skin with plenty of water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150841Z" creationid="CCYU" creationdate="20140808T150841Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Flush contaminated skin with plenty of water. 以大量清水沖洗皮膚，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;If you feel unwell, seek medical attention and show the label when possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145854Z" creationid="CCYU" creationdate="20140808T145854Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;If you feel unwell, seek medical attention and show the label when possible. 若感到不適，請尋求醫療協助，並盡可能出示產品標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Immediately flush eyes with plenty of water, occasionally lifting the upper and lower eyelids.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150957Z" creationid="CCYU" creationdate="20140808T150957Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Immediately flush eyes with plenty of water, occasionally lifting the upper and lower eyelids. 立即以大量清水沖洗眼睛，並不時撐開上下眼瞼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5295,6 +5311,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134500Z" creationid="CCYU" creationdate="20140808T134500Z">
         <seg>Germ cell mutagenicity 生殖細胞誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get medical attention if symptoms occur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150807Z" creationid="CCYU" creationdate="20140808T150807Z">
+        <seg>Get medical attention if symptoms occur. 若有症狀則須就醫。</seg>
       </tuv>
     </tu>
     <tu>
