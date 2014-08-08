@@ -8364,6 +8364,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special precautions for user</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042123Z" creationid="MAE" creationdate="20140808T042123Z">
+        <seg>Special precautions for user 使用者之特殊預防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specific end use(s)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123948Z" creationid="CCYU" creationdate="20140807T123948Z">
@@ -10076,6 +10084,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The product is not subject to ICAO-TI / IATA regulations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042103Z" creationid="MAE" creationdate="20140808T042103Z">
+        <seg>The product is not subject to ICAO-TI / IATA regulations. 此產品不適用 ICAO-TI / IATA 規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is not subject to IMDG regulations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042031Z" creationid="MAE" creationdate="20140808T042031Z">
+        <seg>The product is not subject to IMDG regulations. 此產品不適用 IMDG 規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
@@ -10632,6 +10656,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T041828Z" creationid="MAE" creationdate="20140808T041828Z">
         <seg>Transport ADR/RID/ADN 運輸 ADR/RID/ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport ICAO-TI / IATA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042043Z" creationid="MAE" creationdate="20140808T042043Z">
+        <seg>Transport ICAO-TI / IATA 運輸 ICAO-TI / IATA</seg>
       </tuv>
     </tu>
     <tu>
