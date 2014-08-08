@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;FIRE-FIGHTING MEASURES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151153Z" creationid="CCYU" creationdate="20140808T151153Z">
+        <seg>&lt;t0/&gt;FIRE-FIGHTING MEASURES 消防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Liability for&lt;t1/&gt; &lt;t2/&gt;direct&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;indirect&lt;t7/&gt; &lt;t8/&gt;consequential losses&lt;t9/&gt; &lt;t10/&gt;caused&lt;t11/&gt; &lt;t12/&gt;by the&lt;t13/&gt; &lt;t14/&gt;unit&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;excluded&lt;t19/&gt; &lt;t20/&gt;even&lt;t21/&gt; &lt;t22/&gt;if the damage to the unit is accepted as a warranty&lt;t23/&gt; &lt;t24/&gt;claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z">
@@ -3129,6 +3137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for and remove any contact lenses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151024Z" creationid="CCYU" creationdate="20140808T151024Z">
+        <seg>Check for and remove any contact lenses. 檢查並摘下隱形眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the position of the existing &lt;t0/&gt;rebars&lt;t1/&gt; (if the position of existing &lt;t2/&gt;rebars&lt;t3/&gt; is not known, it shall be determined using a rebar detector suitable for this purpose as well as on the basis of the construction documentation and then marked on the building component for the overlap joint).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033729Z">
@@ -3430,6 +3446,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082842Z">
         <seg>持續注膠直到出現砂漿水平標記。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue to rinse for at least 10 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151051Z" creationid="CCYU" creationdate="20140808T151051Z">
+        <seg>Continue to rinse for at least 10 minutes. 至少連續沖洗 10 分鐘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5311,6 +5335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134500Z" creationid="CCYU" creationdate="20140808T134500Z">
         <seg>Germ cell mutagenicity 生殖細胞誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get medical attention if irritation occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151141Z" creationid="CCYU" creationdate="20140808T151141Z">
+        <seg>Get medical attention if irritation occurs. 若有紅腫發炎請就醫。</seg>
       </tuv>
     </tu>
     <tu>
