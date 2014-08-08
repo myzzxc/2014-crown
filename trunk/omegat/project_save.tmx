@@ -4042,6 +4042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EU regulations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043842Z" creationid="MAE" creationdate="20140808T043842Z">
+        <seg>EU regulations 歐盟法規</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EVALUATION SCOPE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132721Z">
@@ -7996,6 +8004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION 15: Regulatory information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043727Z" creationid="MAE" creationdate="20140808T043727Z">
+        <seg>SECTION 15: Regulatory information 第 15 節：法規資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECTION 1: Identification of the substance/mixture and of the company/undertaking</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054146Z" creationid="MAE" creationdate="20140807T054115Z">
@@ -8144,6 +8160,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123359Z">
         <seg>使用安全 (BWR 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043838Z" creationid="MAE" creationdate="20140808T043838Z">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture 物質或混合物具體的安全、健康以及環境法規 / 立法</seg>
       </tuv>
     </tu>
     <tu>
@@ -10672,6 +10696,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042010Z" creationid="MAE" creationdate="20140808T042010Z">
         <seg>Transport IMDG 運輸 IMDG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043706Z" creationid="MAE" creationdate="20140808T043706Z">
+        <seg>Transport in bulk according to Annex II of MARPOL 73/78 and the IBC  Code 依據附件 II，MARPOL 73/78 與 IBC 規範進行散裝運輸</seg>
       </tuv>
     </tu>
     <tu>
