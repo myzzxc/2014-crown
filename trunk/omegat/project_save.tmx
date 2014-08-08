@@ -3290,6 +3290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2012                           &lt;t3/&gt;Replaced version: &lt;t4/&gt;1.0.0, issued: 16.08.2011                        &lt;t5/&gt;Region: &lt;t6/&gt;GB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132636Z" creationid="CCYU" creationdate="20140808T132636Z">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2012                           &lt;t3/&gt;Replaced version: &lt;t4/&gt;1.0.0, issued: 16.08.2011                        &lt;t5/&gt;Region: &lt;t6/&gt;GB 目前版本：2.0.0，發行日期：2012 年 3 月 23 日 修訂版本：1.0.0，發行日期：2011 年 8 月 16 日 地區：英國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;2.0.0, issued: 23.03.2&lt;t3/&gt;012                      &lt;t4/&gt;     &lt;t5/&gt;Replaced version: &lt;t6/&gt;1.0.0, issu&lt;t7/&gt;ed: 16.08.2011             &lt;t8/&gt;         &lt;t9/&gt;Region: &lt;t10/&gt;GB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131705Z" creationid="CCYU" creationdate="20140808T131705Z">
@@ -7191,6 +7199,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160718Z" creationid="CCYU" creationdate="20140807T160718Z">
         <seg>Packaging 包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page &lt;t0/&gt;1&lt;t1/&gt; of 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132651Z" creationid="CCYU" creationdate="20140808T132651Z">
+        <seg>Page &lt;t0/&gt;1&lt;t1/&gt; of 8 第 1 / 8 頁</seg>
       </tuv>
     </tu>
     <tu>
