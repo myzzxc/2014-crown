@@ -6507,6 +6507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>National Threshold Limit Values of the corresponding countries as amended in each case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050026Z" creationid="MAE" creationdate="20140808T050026Z">
+        <seg>National Threshold Limit Values of the corresponding countries as amended in each case. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ne pas utiliser d'agents blanchissants!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130155Z">
