@@ -11780,6 +11780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>not&lt;t0/&gt; d&lt;t1/&gt;etermined</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125626Z" creationid="CCYU" creationdate="20140808T125626Z">
+        <seg>not&lt;t0/&gt; d&lt;t1/&gt;etermined 未確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>not&lt;t0/&gt; determined</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142631Z" creationid="CCYU" creationdate="20140807T142631Z">
@@ -11888,6 +11896,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064522Z" creationid="MAE" creationdate="20140807T064522Z">
         <seg>sucrose 蔗糖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>swe&lt;t0/&gt;etish&lt;t1/&gt;; spicy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125531Z" creationid="CCYU" creationdate="20140808T125531Z">
+        <seg>swe&lt;t0/&gt;etish&lt;t1/&gt;; spicy 微甜；辛辣</seg>
       </tuv>
     </tu>
     <tu>
