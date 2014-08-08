@@ -3978,6 +3978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EC Directive 67/548/EC resp. 99/45/EC as amended in each case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T045455Z" creationid="MAE" creationdate="20140808T045403Z">
+        <seg>EC Directive 67/548/EC resp. 99/45/EC as amended in each case.  歐盟指令 67/548/EC 與相對應之修正案 99/45/EC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EC no&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131618Z" creationid="CCYU" creationdate="20140807T131618Z">
@@ -7776,6 +7784,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122019Z">
         <seg>符合本歐洲技術評估的產品，可能會有關於危險物質的要求 (例如歐洲法規和國家法律、法規以及行政規定)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regulation (EC) No 1907/2006 (REACH), 1272/2008 (CLP) as amended in each case.&lt;t0/&gt; EC Directives 2000/39/EC, 2006/15/EC, 2009/161/EC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T045445Z" creationid="MAE" creationdate="20140808T045445Z">
+        <seg>Regulation (EC) No 1907/2006 (REACH), 1272/2008 (CLP) as amended in each case.&lt;t0/&gt; EC Directives 2000/39/EC, 2006/15/EC, 2009/161/EC </seg>
       </tuv>
     </tu>
     <tu>
