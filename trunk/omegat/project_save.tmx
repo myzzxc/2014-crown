@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2      sucrose                                                                               57-50-1                                200-334-9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131906Z" creationid="CCYU" creationdate="20140808T131906Z">
+        <seg>2      sucrose 蔗糖                                                                              57-50-1                                200-334-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Operating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143330Z">
@@ -3262,6 +3270,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020454Z">
         <seg>劈裂破壞的臨界邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;1.0.0, issued: 23.03.2012                           &lt;t3/&gt;Replaced version: &lt;t4/&gt;-, issued: -                                       &lt;t5/&gt;Region: &lt;t6/&gt;GB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132108Z" creationid="CCYU" creationdate="20140808T132108Z">
+        <seg>Current &lt;t0/&gt;version :&lt;t1/&gt; &lt;t2/&gt;1.0.0, issued: 23.03.2012                           &lt;t3/&gt;Replaced version: &lt;t4/&gt;-, issued: -                                       &lt;t5/&gt;Region: &lt;t6/&gt;GB 目前版本：1.0.0，發行日期：2012 年 3 月 23 日 修訂版本：-，發行日期：- 地區：英國</seg>
       </tuv>
     </tu>
     <tu>
@@ -7115,6 +7131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;1&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132118Z" creationid="CCYU" creationdate="20140808T132118Z">
+        <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;1&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8 第 1/8 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130504Z" creationid="CCYU" creationdate="20140808T130504Z">
@@ -7616,6 +7640,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131808Z" creationid="CCYU" creationdate="20140808T131808Z">
         <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 304 產品標識 商品名稱 CASING DC 304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 310</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132149Z" creationid="CCYU" creationdate="20140808T132149Z">
+        <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 310 產品標識 商品名稱 CASING DC 310</seg>
       </tuv>
     </tu>
     <tu>
@@ -10996,6 +11028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 304</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132011Z" creationid="CCYU" creationdate="20140808T132011Z">
+        <seg>Trade name: &lt;t0/&gt;CASING DC 304 商品名稱 CASING DC 304</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade name: CASING DC 100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115648Z" creationid="CCYU" creationdate="20140807T115648Z">
@@ -11604,6 +11644,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>char&lt;t0/&gt;acteristic&lt;t1/&gt;; sweetish</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131935Z" creationid="CCYU" creationdate="20140808T131935Z">
+        <seg>char&lt;t0/&gt;acteristic&lt;t1/&gt;; sweetish 特殊風味；微甜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>char&lt;t0/&gt;acteristic&lt;t1/&gt;; sweetish; fruity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131536Z" creationid="CCYU" creationdate="20140808T131536Z">
@@ -11824,6 +11872,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135116Z">
         <seg>( 例如:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>glycerol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132243Z" creationid="CCYU" creationdate="20140808T132243Z">
+        <seg>glycerol 甘油</seg>
       </tuv>
     </tu>
     <tu>
