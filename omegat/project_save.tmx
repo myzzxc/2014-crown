@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;Design operations thus to avoid permanent use of protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134050Z" creationid="CCYU" creationdate="20140808T134050Z">
+        <seg>&lt;t4/&gt;Design operations thus to avoid permanent use of protective gloves. 需設計操作方式以避免永久使用同一防護手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;For bore holes deeper than 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062332Z">
@@ -1421,6 +1429,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063044Z" creationid="MAE" creationdate="20140807T063044Z">
         <seg>Address 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adhere to the manufacturer&lt;t2/&gt;’&lt;t3/&gt;s instructions and information relating to the use, storage, care and replacement of protective gloves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134037Z" creationid="CCYU" creationdate="20140808T134037Z">
+        <seg>Adhere to the manufacturer&lt;t2/&gt;’&lt;t3/&gt;s instructions and information relating to the use, storage, care and replacement of protective gloves. 防護手套之使用、儲存、維護以及更換，請遵照製造商之說明與和相關資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2185,6 +2201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-ignition&lt;t0/&gt; &lt;t1/&gt;temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134239Z" creationid="CCYU" creationdate="20140808T134239Z">
+        <seg>Auto-ignition temperature 自燃溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -2301,6 +2325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143012Z">
         <seg>Block 211 Woodlands Avenue 9 #04-70/71 Woodlands Spectrum II 新加坡 738960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boiling &lt;t0/&gt;point&lt;t1/&gt; / &lt;t2/&gt;boiling&lt;t3/&gt; &lt;t4/&gt;range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134212Z" creationid="CCYU" creationdate="20140808T134212Z">
+        <seg>Boiling point / boiling range 沸點 / 沸點範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -3490,6 +3522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decomposition&lt;t0/&gt; &lt;t1/&gt;point /&lt;t2/&gt; &lt;t3/&gt;decomposition&lt;t4/&gt; &lt;t5/&gt;range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134232Z" creationid="CCYU" creationdate="20140808T134232Z">
+        <seg>Decomposition point / decomposition range 分解點 / 分解點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deformed reinforcement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045556Z">
@@ -4386,6 +4426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive&lt;t0/&gt; &lt;t1/&gt;properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134245Z" creationid="CCYU" creationdate="20140808T134245Z">
+        <seg>Explosive properties 爆炸性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132157Z" creationid="CCYU" creationdate="20140807T132157Z">
@@ -4597,6 +4645,14 @@
         <seg>Flammability (solid, gas)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142833Z" creationid="CCYU" creationdate="20140807T142833Z">
+        <seg>Flammability (solid, gas) 可燃性 (固體、氣體)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flammability&lt;t0/&gt; &lt;t1/&gt;(solid, gas&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134251Z" creationid="CCYU" creationdate="20140808T134251Z">
         <seg>Flammability (solid, gas) 可燃性 (固體、氣體)</seg>
       </tuv>
     </tu>
@@ -5507,6 +5563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of aerosol and mist formation, take appropriate measures for breathing protection&lt;t0/&gt; &lt;t1/&gt;in the event workplace threshold values are not specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134025Z" creationid="CCYU" creationdate="20140808T134025Z">
+        <seg>In case of aerosol and mist formation, take appropriate measures for breathing protection&lt;t0/&gt; &lt;t1/&gt;in the event workplace threshold values are not specified. 當形成氣溶膠與霧氣時，若無指明工作場所限值，請採取適當的呼吸保護措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of doubt, do not use it and contact your dealer or your service center.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143802Z">
@@ -6355,6 +6419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Melting&lt;t0/&gt; point&lt;t1/&gt; &lt;t2/&gt;/ &lt;t3/&gt;melting&lt;t4/&gt; &lt;t5/&gt;range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134227Z" creationid="CCYU" creationdate="20140808T134227Z">
+        <seg>Melting point / melting range 熔點 / 熔點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metal anchors for use in&lt;t0/&gt; &lt;t1/&gt;concrete (heavy-duty&lt;t2/&gt; &lt;t3/&gt;type)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144434Z">
@@ -6727,6 +6799,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063303Z" creationid="MAE" creationdate="20140807T063303Z">
         <seg>No data available. 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No data&lt;t0/&gt; &lt;t1/&gt;available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134145Z" creationid="CCYU" creationdate="20140808T134145Z">
+        <seg>No data&lt;t0/&gt; &lt;t1/&gt;available 無資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -7159,6 +7239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T151203Z">
         <seg>懸空安裝僅限於小於或等於 M24 (1 英寸) 之螺紋柱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oxidising&lt;t0/&gt; &lt;t1/&gt;properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134243Z" creationid="CCYU" creationdate="20140808T134243Z">
+        <seg>Oxidising&lt;t0/&gt; properties 氧化性</seg>
       </tuv>
     </tu>
     <tu>
@@ -8488,6 +8576,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133931Z" creationid="CCYU" creationdate="20140808T133931Z">
         <seg>SECTION&lt;t0/&gt; 7:&lt;t1/&gt; &lt;t2/&gt;Handling&lt;t3/&gt; &lt;t4/&gt;and&lt;t5/&gt; storage 第 7 節：搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 8:&lt;t1/&gt; &lt;t2/&gt;Exposure&lt;t3/&gt; &lt;t4/&gt;controls/personal&lt;t5/&gt; &lt;t6/&gt;protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133952Z" creationid="CCYU" creationdate="20140808T133952Z">
+        <seg>SECTION&lt;t0/&gt; 8:&lt;t1/&gt; &lt;t2/&gt;Exposure&lt;t3/&gt; &lt;t4/&gt;controls/personal&lt;t5/&gt; &lt;t6/&gt;protection 第 8 節：接觸管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 9:&lt;t1/&gt; &lt;t2/&gt;Physical&lt;t3/&gt; &lt;t4/&gt;and&lt;t5/&gt; &lt;t6/&gt;chemical properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134100Z" creationid="CCYU" creationdate="20140808T134100Z">
+        <seg>SECTION&lt;t0/&gt; 9:&lt;t1/&gt; &lt;t2/&gt;Physical&lt;t3/&gt; &lt;t4/&gt;and&lt;t5/&gt; &lt;t6/&gt;chemical properties 第 9 節：物理與化學性質</seg>
       </tuv>
     </tu>
     <tu>
@@ -11852,6 +11956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dark brown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134110Z" creationid="CCYU" creationdate="20140808T134110Z">
+        <seg>dark brown 暗棕色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>depth of drill hole</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123524Z">
@@ -12148,6 +12260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>not &lt;t0/&gt;determined</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134221Z" creationid="CCYU" creationdate="20140808T134221Z">
+        <seg>not&lt;t0/&gt; determined 未確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>not&lt;t0/&gt; d&lt;t1/&gt;etermined</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125626Z" creationid="CCYU" creationdate="20140808T125626Z">
@@ -12164,10 +12284,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>of &lt;t0/&gt;liquorice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z" creationid="CCYU" creationdate="20140808T134136Z">
+        <seg>of &lt;t0/&gt;liquorice 甘草氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130135Z" creationid="CCYU" creationdate="20140808T130135Z">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment. 請勿隨意將產品排放至環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH&lt;t0/&gt; &lt;t1/&gt;value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134155Z" creationid="CCYU" creationdate="20140808T134155Z">
+        <seg>pH&lt;t0/&gt; &lt;t1/&gt;value 酸鹼值</seg>
       </tuv>
     </tu>
     <tu>
