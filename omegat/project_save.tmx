@@ -2033,6 +2033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex I, part 1 + 2: not mentioned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043959Z" creationid="MAE" creationdate="20140808T043959Z">
+        <seg>Annex I, part 1 + 2: not mentioned. 附件 I，第 1 + 2 部分：未提及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -2917,6 +2925,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064025Z" creationid="MAE" creationdate="20140807T064025Z">
         <seg>Chemical characterization 化學特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical safety assessment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044151Z" creationid="MAE" creationdate="20140808T044145Z">
+        <seg>Chemical safety assessment 化學品安全評估</seg>
       </tuv>
     </tu>
     <tu>
@@ -7836,6 +7852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043928Z" creationid="MAE" creationdate="20140808T043928Z">
+        <seg>Remarks 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove affected person from the immediate area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065608Z" creationid="MAE" creationdate="20140807T065453Z">
@@ -8008,6 +8032,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043727Z" creationid="MAE" creationdate="20140808T043727Z">
         <seg>SECTION 15: Regulatory information 第 15 節：法規資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION 16: Other information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044205Z" creationid="MAE" creationdate="20140808T044205Z">
+        <seg>SECTION 16: Other information 第 16 節：其他資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -11120,6 +11152,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041652Z">
         <seg>鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With regard to possibly appropriate decomposition products see Chapter 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044141Z" creationid="MAE" creationdate="20140808T044141Z">
+        <seg>With regard to possibly appropriate decomposition products see Chapter 10. 關於相對應之可能分解產物請見第 10 章。</seg>
       </tuv>
     </tu>
     <tu>
