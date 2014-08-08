@@ -7644,6 +7644,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product identifier</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133259Z" creationid="CCYU" creationdate="20140808T133259Z">
+        <seg>Product identifier 產品標識 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product identifier &lt;t0/&gt;Trade name &lt;t1/&gt;CASING DC 200</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123227Z" creationid="CCYU" creationdate="20140808T123227Z">
@@ -8400,6 +8408,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142210Z" creationid="CCYU" creationdate="20140807T142210Z">
         <seg>SECTION 9: Physical and chemical properties 第 9 節：物理與化學性質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; 1:&lt;t1/&gt; Identification&lt;t2/&gt; of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;substance/mixture&lt;t7/&gt; &lt;t8/&gt;and&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;company/undertaking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133223Z" creationid="CCYU" creationdate="20140808T133223Z">
+        <seg>SECTION&lt;t0/&gt; 1:&lt;t1/&gt; Identification&lt;t2/&gt; of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;substance/mixture&lt;t7/&gt; &lt;t8/&gt;and&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;company/undertaking 第 1 節：物質 / 混和物與公司 / 企業之標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -11024,6 +11040,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T152750Z" creationid="CCYU" creationdate="20140807T152750Z">
         <seg>Toxicity 毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133303Z" creationid="CCYU" creationdate="20140808T133242Z">
+        <seg>Trade name 商品名稱</seg>
       </tuv>
     </tu>
     <tu>
