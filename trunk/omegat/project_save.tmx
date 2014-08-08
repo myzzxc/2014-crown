@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.&lt;t0/&gt; &lt;t1/&gt;HAZARDS IDENTIFICATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144541Z" creationid="CCYU" creationdate="20140808T144520Z">
+        <seg>2.&lt;t0/&gt; &lt;t1/&gt;HAZARDS IDENTIFICATION 危害標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055604Z" creationid="MAE" creationdate="20140727T055604Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Not classified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144641Z" creationid="CCYU" creationdate="20140808T144641Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Not classified. 未分類</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,6 +3105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144632Z" creationid="CCYU" creationdate="20140808T144632Z">
+        <seg>Classification 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification 67/548/EEC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123821Z" creationid="CCYU" creationdate="20140808T123821Z">
@@ -3101,6 +3125,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064307Z" creationid="MAE" creationdate="20140807T064307Z">
         <seg>Classification &lt;t0/&gt;67/548/EEC 分類 67/548/EEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification according to Directive 67/548/EEC [DSD]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144623Z" creationid="CCYU" creationdate="20140808T144623Z">
+        <seg>Classification according to Directive 67/548/EEC [DSD] 根據指令 67/548/EEC [DSD] 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification according to Regulation (EC) No. 1272/2008 [CLP/GHS]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144717Z" creationid="CCYU" creationdate="20140808T144717Z">
+        <seg>Classification according to Regulation (EC) No. 1272/2008 [CLP/GHS] 根據規章 (EC) No. 1272/2008 [CLP/GHS] 分類</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal entity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
+        <seg>Legal entity 法人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Level or class</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144300Z">
@@ -8150,8 +8198,8 @@
       <tuv lang="EN-US">
         <seg>REACH Registration number</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144421Z" creationid="CCYU" creationdate="20140808T144421Z">
-        <seg>REACH Registration number REACH 登記編號</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144437Z" creationid="CCYU" creationdate="20140808T144421Z">
+        <seg>REACH Registration number REACH 註冊編號</seg>
       </tuv>
     </tu>
     <tu>
@@ -8392,6 +8440,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051608Z" creationid="MAE" creationdate="20140808T051608Z">
         <seg>Region: &lt;t0/&gt;GB 地區：英國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144433Z" creationid="CCYU" creationdate="20140808T144433Z">
+        <seg>Registration number 註冊編號</seg>
       </tuv>
     </tu>
     <tu>
