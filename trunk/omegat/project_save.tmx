@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.1&lt;t0/&gt; &lt;t1/&gt;Information on toxicological effects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134414Z" creationid="CCYU" creationdate="20140808T134414Z">
+        <seg>11.1 Information on toxicological effects 毒性效應資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12.3   &lt;t0/&gt;Bioaccumulative&lt;t1/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154141Z" creationid="CCYU" creationdate="20140807T154141Z">
@@ -1401,6 +1409,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acute&lt;t0/&gt; &lt;t1/&gt;dermal toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134421Z" creationid="CCYU" creationdate="20140808T134421Z">
+        <seg>Acute dermal toxicity 急性皮膚毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acute&lt;t0/&gt; &lt;t1/&gt;inhalational&lt;t2/&gt; toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134426Z" creationid="CCYU" creationdate="20140808T134426Z">
+        <seg>Acute inhalational toxicity 急性吸入毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acute&lt;t0/&gt; &lt;t1/&gt;oral toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134417Z" creationid="CCYU" creationdate="20140808T134417Z">
+        <seg>Acute oral toxicity 急性口服毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064155Z" creationid="MAE" creationdate="20140807T064155Z">
@@ -1580,6 +1612,14 @@
         <seg>Algae toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153117Z" creationid="CCYU" creationdate="20140807T153117Z">
+        <seg>Algae toxicity 藻類毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Algae&lt;t0/&gt; toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134558Z" creationid="CCYU" creationdate="20140808T134558Z">
         <seg>Algae toxicity 藻類毒性</seg>
       </tuv>
     </tu>
@@ -2153,6 +2193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aspiration&lt;t0/&gt; &lt;t1/&gt;hazard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134520Z" creationid="CCYU" creationdate="20140808T134520Z">
+        <seg>Aspiration hazard 吸入危害性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
@@ -2445,6 +2493,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T145055Z" creationid="CCYU" creationdate="20140807T145055Z">
         <seg>By appropriate&lt;t0/&gt; use of the product no health damage is known. 適當使用產品的情況下，無損害健康案例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By&lt;t0/&gt; &lt;t1/&gt;appropiate&lt;t2/&gt; &lt;t3/&gt;use&lt;t4/&gt; &lt;t5/&gt;of &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;product&lt;t9/&gt; &lt;t10/&gt;no&lt;t11/&gt; &lt;t12/&gt;health&lt;t13/&gt; &lt;t14/&gt;damage&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;known.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134541Z" creationid="CCYU" creationdate="20140808T134541Z">
+        <seg>By appropriate use of the product no health damage is known. 適當使用產品的情況下，無損害健康案例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,6 +3602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delayed&lt;t0/&gt; and &lt;t1/&gt;immediate&lt;t2/&gt; &lt;t3/&gt;effects&lt;t4/&gt; as&lt;t5/&gt; &lt;t6/&gt;well&lt;t7/&gt; as&lt;t8/&gt; &lt;t9/&gt;chronic&lt;t10/&gt; &lt;t11/&gt;effects&lt;t12/&gt; from&lt;t13/&gt; &lt;t14/&gt;short&lt;t15/&gt; and&lt;t16/&gt; &lt;t17/&gt;long-term &lt;t18/&gt;exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134530Z" creationid="CCYU" creationdate="20140808T134530Z">
+        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期接觸之慢性影響</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Density</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143030Z" creationid="CCYU" creationdate="20140807T143030Z">
@@ -4394,6 +4458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaporation&lt;t0/&gt; rate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134308Z" creationid="CCYU" creationdate="20140808T134308Z">
+        <seg>Evaporation rate 蒸發率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z">
@@ -5038,6 +5110,14 @@
         <seg>Germ cell mutagenicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144557Z" creationid="CCYU" creationdate="20140807T144557Z">
+        <seg>Germ cell mutagenicity 生殖細胞誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Germ&lt;t0/&gt; cell&lt;t1/&gt; &lt;t2/&gt;mutagenicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134500Z" creationid="CCYU" creationdate="20140808T134500Z">
         <seg>Germ cell mutagenicity 生殖細胞誘突變性</seg>
       </tuv>
     </tu>
@@ -6227,6 +6307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lower &lt;t0/&gt;flammability&lt;t1/&gt; &lt;t2/&gt;or &lt;t3/&gt;explosive&lt;t4/&gt; limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134255Z" creationid="CCYU" creationdate="20140808T134255Z">
+        <seg>Lower flammability or explosive limits 可燃性或爆炸性下限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower flammability or explosive limits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142927Z" creationid="CCYU" creationdate="20140807T142927Z">
@@ -6811,6 +6899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No data&lt;t0/&gt; &lt;t1/&gt;available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134352Z" creationid="CCYU" creationdate="20140808T134337Z">
+        <seg>No data&lt;t0/&gt; &lt;t1/&gt;available. 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No hazardous decomposition products known.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130103Z" creationid="CCYU" creationdate="20140808T130103Z">
@@ -7187,6 +7283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other &lt;t0/&gt;information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134334Z" creationid="CCYU" creationdate="20140808T134334Z">
+        <seg>Other information 其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other adverse effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154324Z" creationid="CCYU" creationdate="20140807T154324Z">
@@ -7367,6 +7471,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125927Z">
         <seg>零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partition &lt;t0/&gt;coefficient:&lt;t1/&gt; &lt;t2/&gt;n-&lt;t3/&gt;octanol&lt;t4/&gt;/water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134328Z" creationid="CCYU" creationdate="20140808T134328Z">
+        <seg>Partition &lt;t0/&gt;coefficient:&lt;t1/&gt; &lt;t2/&gt;n-&lt;t3/&gt;octanol&lt;t4/&gt;/water 分配係數：正辛醇 / 水</seg>
       </tuv>
     </tu>
     <tu>
@@ -8220,6 +8332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relative&lt;t0/&gt; density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134314Z" creationid="CCYU" creationdate="20140808T134314Z">
+        <seg>Relative density 相對密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Relevant identified uses of the substance or mixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054537Z" creationid="MAE" creationdate="20140807T054537Z">
@@ -8300,6 +8420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproduction&lt;t0/&gt; &lt;t1/&gt;toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134504Z" creationid="CCYU" creationdate="20140808T134504Z">
+        <seg>Reproduction toxicity 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements for storage rooms and vessels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123358Z" creationid="CCYU" creationdate="20140807T123358Z">
@@ -8336,6 +8464,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132328Z" creationid="CCYU" creationdate="20140807T132328Z">
         <seg>Respiratory protection 呼吸防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory&lt;t0/&gt; &lt;t1/&gt;or skin &lt;t2/&gt;sensitization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134455Z" creationid="CCYU" creationdate="20140808T134455Z">
+        <seg>Respiratory or skin &lt;t0/&gt;sensitisation 呼吸或皮膚過敏</seg>
       </tuv>
     </tu>
     <tu>
@@ -8596,6 +8732,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;10:&lt;t2/&gt; &lt;t3/&gt;Stability&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;reactivity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134356Z" creationid="CCYU" creationdate="20140808T134356Z">
+        <seg>SECTION 10: Stability and reactivity 第 10 節：穩定性與反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;11:&lt;t2/&gt; &lt;t3/&gt;Toxicological information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134404Z" creationid="CCYU" creationdate="20140808T134404Z">
+        <seg>SECTION 11: Toxicological information 第 11 節：毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SECTION&lt;t0/&gt; &lt;t1/&gt;12:&lt;t2/&gt; &lt;t3/&gt;Ecological information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134546Z" creationid="CCYU" creationdate="20140808T134546Z">
+        <seg>SECTION 12: Ecological information 第 12 節：生態資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -8636,9 +8796,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STOT-repeated&lt;t0/&gt; &lt;t1/&gt;exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134517Z" creationid="CCYU" creationdate="20140808T134517Z">
+        <seg>STOT-repeated exposure STOT-多次接觸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOT-single exposure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144725Z" creationid="CCYU" creationdate="20140807T144725Z">
+        <seg>STOT-single exposure STOT-單次接觸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOT-single&lt;t0/&gt; &lt;t1/&gt;exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134512Z" creationid="CCYU" creationdate="20140808T134512Z">
         <seg>STOT-single exposure STOT-單次接觸</seg>
       </tuv>
     </tu>
@@ -8780,6 +8956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serious &lt;t0/&gt;eye&lt;t1/&gt; &lt;t2/&gt;damage/irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134444Z" creationid="CCYU" creationdate="20140808T134444Z">
+        <seg>Serious eye damage/irritation 嚴重眼睛損傷 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serious eye damage/irritation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144401Z" creationid="CCYU" creationdate="20140807T144401Z">
@@ -8840,6 +9024,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053221Z">
         <seg>雙槽卡匣 385、444、585 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin &lt;t0/&gt;corrosion/irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134435Z" creationid="CCYU" creationdate="20140808T134435Z">
+        <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,6 +11628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upper &lt;t0/&gt;flammability&lt;t1/&gt; &lt;t2/&gt;or &lt;t3/&gt;explosive&lt;t4/&gt; limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134300Z" creationid="CCYU" creationdate="20140808T134300Z">
+        <seg>Upper flammability or explosive limits 可燃性或爆炸性上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upper flammability or explosive limits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142942Z" creationid="CCYU" creationdate="20140807T142942Z">
@@ -11520,6 +11720,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z">
         <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vapour&lt;t0/&gt; &lt;t1/&gt;pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134303Z" creationid="CCYU" creationdate="20140808T134303Z">
+        <seg>Vapour&lt;t0/&gt; pressure 蒸氣壓</seg>
       </tuv>
     </tu>
     <tu>
