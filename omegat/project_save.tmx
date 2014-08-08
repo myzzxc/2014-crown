@@ -3426,6 +3426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Department issuing safety data sheet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050852Z" creationid="MAE" creationdate="20140808T050852Z">
+        <seg>Department issuing safety data sheet 發布安全資料表之部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z">
@@ -9452,6 +9460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tel.: +49 40 / 79 02 36 &lt;t0/&gt;300  Fax&lt;t1/&gt;: +49 40 / 79 02 36 357 e-mail: umco@umco.de</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050949Z" creationid="MAE" creationdate="20140808T050949Z">
+        <seg>Tel.: +49 40 / 79 02 36 &lt;t0/&gt;300  Fax&lt;t1/&gt;: +49 40 / 79 02 36 357 e-mail: umco@umco.de 電話：+49 40 / 79 02 36 傳真：+49 40 / 79 02 36 357 電子信箱：umco@umco.de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telephone no.&lt;t0/&gt;          +49 (0)40 82 20 0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063136Z" creationid="MAE" creationdate="20140807T063110Z">
@@ -9800,6 +9816,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143931Z">
         <seg>外套層可正常洗滌，最高洗滌溫度 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050804Z" creationid="MAE" creationdate="20140808T050804Z">
+        <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter. 用以決定物理性、毒性以及生態毒性的資料，直接列於相對應章節中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10552,6 +10576,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
         <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information is based on our present state of knowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051057Z" creationid="MAE" creationdate="20140808T051057Z">
+        <seg>This information is based on our present state of knowledge. 此資訊建立於現有知識上。</seg>
       </tuv>
     </tu>
     <tu>
