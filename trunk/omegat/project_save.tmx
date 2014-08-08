@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4.&lt;t0/&gt; &lt;t1/&gt;FIRST AID MEASURES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145238Z" creationid="CCYU" creationdate="20140808T145055Z">
+        <seg>4.&lt;t0/&gt; &lt;t1/&gt;FIRST AID MEASURES 急救措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>410.s-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055410Z" creationid="MAE" creationdate="20140727T055410Z">
@@ -3668,8 +3676,8 @@
       <tuv lang="EN-US">
         <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143548Z" creationid="CCYU" creationdate="20140808T143548Z">
-        <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:  印刷日期： 修訂日期：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145223Z" creationid="CCYU" creationdate="20140808T143548Z">
+        <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:  印刷日期：修訂日期：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145308Z" creationid="CCYU" creationdate="20140808T145308Z">
+        <seg>Eye contact 接觸眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FIGURE 1—FLOWCHART.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T044951Z">
@@ -5215,6 +5231,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122317Z" creationid="CCYU" creationdate="20140807T122317Z">
         <seg>General protective and hygiene measures 一般保護性與衛生措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General recommendation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145247Z" creationid="CCYU" creationdate="20140808T145247Z">
+        <seg>General recommendation 一般建議</seg>
       </tuv>
     </tu>
     <tu>
@@ -5885,8 +5909,8 @@
       <tuv lang="EN-US">
         <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092701Z" creationid="MAE" creationdate="20140807T092701Z">
-        <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison. 一旦發生火災，可能釋放以下物質： 一氧化碳 (CO)；二氧化碳 (CO2)；此類燃燒產物往往歸類為造成呼吸中毒的物質。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145159Z" creationid="MAE" creationdate="20140807T092701Z">
+        <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison. 一旦發生火災，可能釋放以下物質：一氧化碳 (CO)；二氧化碳 (CO2)；此類燃燒產物往往歸類為造成呼吸中毒的物質。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6007,6 +6031,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063238Z" creationid="MAE" creationdate="20140807T063238Z">
         <seg>Information provided by / telephone 資訊來源 / 電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ingestion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145258Z" creationid="CCYU" creationdate="20140808T145258Z">
+        <seg>Ingestion 誤食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inhalation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145253Z" creationid="CCYU" creationdate="20140808T145253Z">
+        <seg>Inhalation 吸入</seg>
       </tuv>
     </tu>
     <tu>
@@ -8838,16 +8878,16 @@
       <tuv lang="EN-US">
         <seg>SECTION 4: First aid measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065021Z" creationid="MAE" creationdate="20140807T065021Z">
-        <seg>SECTION 4: First aid measures 第 4 節： 急救措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145103Z" creationid="MAE" creationdate="20140807T065021Z">
+        <seg>SECTION 4: First aid measures 第 4 節：急救措施</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SECTION 5: Firefighting measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091921Z" creationid="MAE" creationdate="20140807T091921Z">
-        <seg>SECTION 5: Firefighting measures 第 5 節： 消防措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145108Z" creationid="MAE" creationdate="20140807T091921Z">
+        <seg>SECTION 5: Firefighting measures 第 5 節：消防措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,16 +8950,16 @@
       <tuv lang="EN-US">
         <seg>SECTION&lt;t0/&gt; 4:&lt;t1/&gt; &lt;t2/&gt;First &lt;t3/&gt;aid&lt;t4/&gt; &lt;t5/&gt;measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133856Z" creationid="CCYU" creationdate="20140808T133856Z">
-        <seg>SECTION&lt;t0/&gt; 4:&lt;t1/&gt; &lt;t2/&gt;First &lt;t3/&gt;aid&lt;t4/&gt; &lt;t5/&gt;measures 第 4 節： 急救措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145158Z" creationid="CCYU" creationdate="20140808T133856Z">
+        <seg>SECTION&lt;t0/&gt; 4:&lt;t1/&gt; &lt;t2/&gt;First &lt;t3/&gt;aid&lt;t4/&gt; &lt;t5/&gt;measures 第 4 節：急救措施</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>SECTION&lt;t0/&gt; 5:&lt;t1/&gt; &lt;t2/&gt;Firefighting&lt;t3/&gt; &lt;t4/&gt;measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133908Z" creationid="CCYU" creationdate="20140808T133908Z">
-        <seg>SECTION&lt;t0/&gt; 5:&lt;t1/&gt; &lt;t2/&gt;Firefighting&lt;t3/&gt; &lt;t4/&gt;measures 第 5 節： 消防措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145112Z" creationid="CCYU" creationdate="20140808T133908Z">
+        <seg>SECTION&lt;t0/&gt; 5:&lt;t1/&gt; &lt;t2/&gt;Firefighting&lt;t3/&gt; &lt;t4/&gt;measures 第 5 節：消防措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,6 +9352,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134435Z" creationid="CCYU" creationdate="20140808T134435Z">
         <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145304Z" creationid="CCYU" creationdate="20140808T145304Z">
+        <seg>Skin contact 接觸皮膚</seg>
       </tuv>
     </tu>
     <tu>
