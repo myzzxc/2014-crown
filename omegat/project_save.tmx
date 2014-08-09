@@ -5747,6 +5747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Germany -&lt;t0/&gt; &lt;t1/&gt;Storage code</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033012Z" creationid="CCYU" creationdate="20140809T033000Z">
+        <seg>Germany -&lt;t0/&gt; &lt;t1/&gt;Storage code 德國 - 儲存代碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get medical attention if irritation occurs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151141Z" creationid="CCYU" creationdate="20140808T151141Z">
@@ -5871,6 +5879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144921Z" creationid="CCYU" creationdate="20140808T144921Z">
         <seg>Hazard statements&lt;t0/&gt;        &lt;t1/&gt; : 危害性聲明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hazard statements&lt;t0/&gt;        &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;This product is not classified according to EU legislation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033259Z" creationid="CCYU" creationdate="20140809T033259Z">
+        <seg>Hazard statements&lt;t0/&gt;        &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;This product is not classified according to EU legislation. 危害性聲明：此產品未根據歐盟法律分類</seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,6 +8051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OTHER INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033026Z" creationid="CCYU" creationdate="20140809T033026Z">
+        <seg>OTHER INFORMATION 其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Observe gelling time &lt;t0/&gt;tgel&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084127Z">
@@ -9576,6 +9600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
         <seg>具有窒息危險 ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Risk phrases&lt;t0/&gt;                &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;This product is not classified according to EU legislation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033201Z" creationid="CCYU" creationdate="20140809T033201Z">
+        <seg>Risk phrases&lt;t0/&gt;                &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;This product is not classified according to EU legislation. 警示性質標準詞：此產品未根據歐盟法律分類</seg>
       </tuv>
     </tu>
     <tu>
