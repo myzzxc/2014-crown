@@ -3250,6 +3250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic test procedure according DIN 53387 or WOM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143907Z" creationid="CCYU" creationdate="20140809T143907Z">
+        <seg>符合 DIN 53387 或 WOM 之基本測試程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be sure that the anchor is fully seated at the bottom of the hole and that excess&lt;t0/&gt; &lt;t1/&gt;mortar is visible at the top of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004730Z">
@@ -13481,6 +13489,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142836Z" creationid="CCYU" creationdate="20140809T142836Z">
         <seg>測試對應值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test procedures of Xenon-Arc tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143837Z" creationid="CCYU" creationdate="20140809T143837Z">
+        <seg>氙弧測試程序</seg>
       </tuv>
     </tu>
     <tu>
