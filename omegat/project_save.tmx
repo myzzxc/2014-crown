@@ -9531,6 +9531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102218Z" creationid="CCYU" creationdate="20140809T102218Z">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;1 第 1 / 1 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102131Z" creationid="CCYU" creationdate="20140809T102131Z">
@@ -10812,6 +10820,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revision&lt;t0/&gt;: &lt;t1/&gt;25.03.2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102253Z" creationid="CCYU" creationdate="20140809T102253Z">
+        <seg>Revision&lt;t0/&gt;: &lt;t1/&gt;25.03.2011 修訂：2011 年 3 月 25 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revision&lt;t0/&gt;: &lt;t1/&gt;29.09.2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102530Z" creationid="CCYU" creationdate="20140809T102530Z">
+        <seg>Revision&lt;t0/&gt;: &lt;t1/&gt;29.09.2011 修訂：2011 年 9 月 29 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rib height of the bar shall be in the range 0,05d h 0,07d</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125858Z">
@@ -11248,6 +11272,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045337Z">
         <seg>決定黏結強度的強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety Data Sheet according to (EC) No 1907/2006</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102154Z" creationid="CCYU" creationdate="20140809T102154Z">
+        <seg>Safety Data Sheet according to (EC) No 1907/2006 符合 (EC) No 1907/2006 之安全資料表</seg>
       </tuv>
     </tu>
     <tu>
@@ -15496,6 +15528,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130124Z" creationid="CCYU" creationdate="20140808T130124Z">
         <seg>ppropiate&lt;t0/&gt; use of the product no health damage is known. 適當使用產品的情況下，無損害健康案例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>printing date&lt;t0/&gt;: &lt;t1/&gt;08.07.2014</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102329Z" creationid="CCYU" creationdate="20140809T102329Z">
+        <seg>printing date&lt;t0/&gt;: &lt;t1/&gt;08.07.2014 印刷日期：2014 年 7 月 8 日</seg>
       </tuv>
     </tu>
     <tu>
