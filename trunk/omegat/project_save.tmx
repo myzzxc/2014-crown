@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*** Results of PBT and vPvB assessment***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100702Z" creationid="CCYU" creationdate="20140809T100702Z">
+        <seg>*** Results of PBT and vPvB assessment*** PBT 和 vPvB 評估結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*** Serious eye damage / irritation ***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100256Z" creationid="CCYU" creationdate="20140809T100256Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100250Z" creationid="CCYU" creationdate="20140809T100250Z">
         <seg>*** Skin corrosion / irritation *** 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***&lt;t0/&gt; Bioaccumulative potential / Mobility in soil (Partition Coeffizient)&lt;t1/&gt;***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100652Z" creationid="CCYU" creationdate="20140809T100652Z">
+        <seg>***&lt;t0/&gt; Bioaccumulative potential / Mobility in soil (Partition Coeffizient)&lt;t1/&gt;***  生物累積 性 / 於土壤中之流動性 (分配係數)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4870,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100341Z">
         <seg>廢棄處置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disposal considerations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100707Z" creationid="CCYU" creationdate="20140809T100707Z">
+        <seg>Disposal considerations 廢棄處置注意事項</seg>
       </tuv>
     </tu>
     <tu>
@@ -9908,6 +9932,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product disposal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100818Z" creationid="CCYU" creationdate="20140809T100818Z">
+        <seg>Product disposal: 產品廢棄處理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product family &lt;t0/&gt;to which t&lt;t1/&gt;he construction product belongs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095152Z">
@@ -14584,6 +14616,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T155224Z" creationid="CCYU" creationdate="20140807T155224Z">
         <seg>Waste treatment methods 廢棄物處理方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waste treatment methods:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100714Z" creationid="CCYU" creationdate="20140809T100714Z">
+        <seg>Waste treatment methods: 廢棄物處理方法：</seg>
       </tuv>
     </tu>
     <tu>
