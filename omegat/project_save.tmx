@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 year realtime exposure in Mid Europe</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143427Z" creationid="CCYU" creationdate="20140809T143427Z">
+        <seg>中歐 1 年的即時曝射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)&lt;t0/&gt; Calculation of the displacement 6N0 = (5No-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055447Z" creationid="MAE" creationdate="20140727T055447Z">
