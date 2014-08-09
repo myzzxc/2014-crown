@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Identification of manufacturer, importer or distributor***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080904Z" creationid="CCYU" creationdate="20140809T080904Z">
+        <seg>***Identification of manufacturer, importer or distributor*** 製造商、進口商或經銷商標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Revised January 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051833Z">
@@ -3481,6 +3489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cigarette adhesive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080711Z" creationid="CCYU" creationdate="20140809T080711Z">
+        <seg>Cigarette adhesive 捲煙膠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030945Z" creationid="CCYU" creationdate="20140809T030945Z">
@@ -4282,6 +4298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Details of the supplier of the safety data sheet:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080730Z" creationid="CCYU" creationdate="20140809T080730Z">
+        <seg>Details of the supplier of the safety data sheet: 安全資料表供應商詳細資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diameter of clearance hole in the fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141509Z">
@@ -4994,6 +5018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency telephone number:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080915Z" creationid="CCYU" creationdate="20140809T080915Z">
+        <seg>Emergency telephone number: 緊急電話號碼：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy economy and heat retention (BWR 6&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123455Z">
@@ -5270,6 +5302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063118Z" creationid="MAE" creationdate="20140807T063118Z">
         <seg>Fax no. 傳真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax-no.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080753Z" creationid="CCYU" creationdate="20140809T080753Z">
+        <seg>Fax-no.: 傳真：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6971,6 +7011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intended use:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080653Z" creationid="CCYU" creationdate="20140809T080653Z">
+        <seg>Intended use: 用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction of Tensile and Shear Forces: &lt;t0/&gt;For designs that include combined tension and shear, the interaction of tension and shear must be calculated in accordance with ACI 318 D.7</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081229Z">
@@ -8623,6 +8671,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094855Z" creationid="MAE" creationdate="20140807T094855Z">
         <seg>Personal protective equipment (PPE) - see Section 8. 個人防護裝備 (PPE) - 請見第 8 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080746Z" creationid="CCYU" creationdate="20140809T080746Z">
+        <seg>Phone: 電話：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,6 +11088,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144303Z">
         <seg>將滑動開關打開以開啟裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switzerland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080740Z" creationid="CCYU" creationdate="20140809T080740Z">
+        <seg>Switzerland 瑞士</seg>
       </tuv>
     </tu>
     <tu>
