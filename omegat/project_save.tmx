@@ -1665,6 +1665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADR/RID Class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031237Z" creationid="CCYU" creationdate="20140809T031237Z">
+        <seg>ADR/RID Class ADR/RID 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ASSOCIATED STRENGTH REDUCTION FACTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074409Z">
@@ -6923,6 +6931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031133Z" creationid="CCYU" creationdate="20140809T031133Z">
+        <seg>Label 標示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063834Z" creationid="MAE" creationdate="20140807T063834Z">
@@ -7827,6 +7843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not regulated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031254Z" creationid="CCYU" creationdate="20140809T031254Z">
+        <seg>Not regulated.  無規定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not relevant</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063846Z" creationid="MAE" creationdate="20140807T063846Z">
@@ -8231,6 +8255,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074346Z">
         <seg>允許安裝條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031117Z" creationid="CCYU" creationdate="20140809T031117Z">
+        <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group 包裝類別</seg>
       </tuv>
     </tu>
     <tu>
