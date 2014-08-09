@@ -4220,8 +4220,8 @@
       <tuv lang="EN-US">
         <seg>Do not store above the following temperature: 40°C (104°F) Protect from moisture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140809T014140Z">
-        <seg>Do not store above the following temperature: 40°C (104°F) 請勿超過以下儲存溫度： 40 ° C (104 ° F)。Protect from moisture.  避免暴露水氣。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015210Z" creationid="CCYU" creationdate="20140809T014140Z">
+        <seg>Do not store above the following temperature: 40°C (104°F) 請勿超過以下儲存溫度： 40 ° C (104 ° F)。Protect from moisture.  避免接觸水氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,8 +4812,8 @@
       <tuv lang="EN-US">
         <seg>Eye contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T145308Z">
-        <seg>Eye contact 暴露眼睛</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015236Z" creationid="CCYU" creationdate="20140808T145308Z">
+        <seg>Eye contact 接觸眼睛</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,8 +9582,8 @@
       <tuv lang="EN-US">
         <seg>Skin contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T145304Z">
-        <seg>Skin contact 暴露皮膚</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015248Z" creationid="CCYU" creationdate="20140808T145304Z">
+        <seg>Skin contact 接觸皮膚</seg>
       </tuv>
     </tu>
     <tu>
