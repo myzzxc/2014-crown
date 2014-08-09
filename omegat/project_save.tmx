@@ -4610,6 +4610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ECOLOGICAL INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024032Z" creationid="CCYU" creationdate="20140809T024032Z">
+        <seg>ECOLOGICAL INFORMATION 生態資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMBEDMENT DEPTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
@@ -12344,6 +12352,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050246Z">
         <seg>螺紋鋼柱：&lt;t0/&gt;螺紋鋼柱需如本報告表 5 中所述，為乾淨、截面方向連續之螺紋 (所有螺紋)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, n&lt;t0/&gt;o further toxicological data/&lt;t1/&gt;ecotoxicological&lt;t2/&gt; data are reported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024025Z" creationid="CCYU" creationdate="20140809T024025Z">
+        <seg>Thus, n&lt;t0/&gt;o further toxicological data/&lt;t1/&gt;ecotoxicological&lt;t2/&gt; data are reported. 因此，無進一步的毒理學資料 / 生態毒理學資料報告。</seg>
       </tuv>
     </tu>
     <tu>
