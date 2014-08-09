@@ -6435,6 +6435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101216Z" creationid="CCYU" creationdate="20140809T101216Z">
+        <seg>General information: 一般資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General protective and hygiene measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122317Z" creationid="CCYU" creationdate="20140807T122317Z">
@@ -7223,6 +7231,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065236Z" creationid="MAE" creationdate="20140807T065236Z">
         <seg>In case of persisting adverse effects, consult a physician. 若有持續不適情形，請向醫師諮詢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In consultation with the responsible local authority, must be subjected to special treatment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101155Z" creationid="CCYU" creationdate="20140809T101155Z">
+        <seg>In consultation with the responsible local authority, must be subjected to special treatment. 向負責當局諮詢，必須進行特殊處置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13740,6 +13756,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The valid EEC waste code numbers are not product-related but are largely source-related.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101047Z" creationid="CCYU" creationdate="20140809T101005Z">
+        <seg>The valid EEC waste code numbers are not product-related but are largely source-related.有效 EEC 廢棄物規範編號非產品相關但與來源大幅相關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value of &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt;used for calculation must&lt;t23/&gt; &lt;t24/&gt;be limited to 8,000 psi (55 MPa) in accordance with ACI 318 &lt;t25/&gt;D.3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072311Z">
@@ -13808,6 +13832,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T052908Z">
         <seg>ICC 評估服務 LLC 於本報告中所述或提及之任何發現或其他事項、或對其任何報告所涵蓋之產品不提供保固。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These can be requested from the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101039Z" creationid="CCYU" creationdate="20140809T101039Z">
+        <seg>These can be requested from the manufacturer. 可向製造商索取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14240,6 +14272,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043706Z" creationid="MAE" creationdate="20140808T043706Z">
         <seg>Transport in bulk according to Annex II of MARPOL 73/78 and the IBC  Code 依據附件 II，MARPOL 73/78 與 IBC 規範進行散裝運輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101210Z" creationid="CCYU" creationdate="20140809T101210Z">
+        <seg>Transport information 運輸資訊</seg>
       </tuv>
     </tu>
     <tu>
