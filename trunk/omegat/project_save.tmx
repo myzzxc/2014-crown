@@ -7835,6 +7835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OECD 301B Ready Biodegradability - CO&lt;t0/&gt;2 &lt;t1/&gt;Evolution Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025813Z" creationid="CCYU" creationdate="20140809T025813Z">
+        <seg>OECD 301B Ready Biodegradability - CO&lt;t0/&gt;2 &lt;t1/&gt;Evolution Test 快速生物降解性通則 - 二氧化碳生成試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OECD 401 Acute Oral Toxicity&lt;t0/&gt;         &lt;t1/&gt; LD50 Oral&lt;t2/&gt;      &lt;t3/&gt; Rat - Male, Female</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022107Z" creationid="CCYU" creationdate="20140809T022107Z">
