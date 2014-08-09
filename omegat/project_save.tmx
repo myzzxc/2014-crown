@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Special hazards arising from the substance or mixture***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083944Z" creationid="CCYU" creationdate="20140809T083933Z">
+        <seg>***Special hazards arising from the substance or mixture*** 物質或混合物引發的特殊危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Revised January 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051833Z">
@@ -1833,6 +1841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acetic acid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084120Z" creationid="CCYU" creationdate="20140809T084120Z">
+        <seg>Acetic acid 醋酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acute LC50 &gt;100 mg/l Fresh water</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024540Z" creationid="CCYU" creationdate="20140809T024540Z">
@@ -1957,6 +1973,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092746Z" creationid="MAE" creationdate="20140807T092746Z">
         <seg>Advice for firefighters 予以消防員之建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advice for firefighters:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084134Z" creationid="CCYU" creationdate="20140809T084134Z">
+        <seg>Advice for firefighters: 予以消防員之建議：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extinguishing media which must not be used for safety reasons:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083904Z" creationid="CCYU" creationdate="20140809T083904Z">
+        <seg>Extinguishing media which must not be used for safety reasons: 基於安全理由不能使用之滅火劑：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extinguishing media:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083522Z" creationid="CCYU" creationdate="20140809T083522Z">
@@ -6267,6 +6299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High pressure waterjet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083919Z" creationid="CCYU" creationdate="20140809T083919Z">
+        <seg>High pressure waterjet 高壓水柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033332Z" creationid="CCYU" creationdate="20140809T033332Z">
@@ -6791,6 +6831,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023052Z">
         <seg>圖中並未繪製橫向鋼筋，橫向鋼筋應遵守 EN 1992-1-1:20044，AC：2010。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the event of a fire, carbon monoxide (CO) and carbon dioxide (CO2) can be released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084050Z" creationid="CCYU" creationdate="20140809T084050Z">
+        <seg>In the event of a fire, carbon monoxide (CO) and carbon dioxide (CO2) can be released. 火災發生時，可釋放一氧化碳 (CO) 和二氧化碳 (CO2) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,8 +10878,16 @@
       <tuv lang="EN-US">
         <seg>Special hazards arising from the substance or mixture</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092229Z" creationid="MAE" creationdate="20140807T092229Z">
-        <seg>物質或混合物引發的特殊危害</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083939Z" creationid="MAE" creationdate="20140807T092229Z">
+        <seg>Special hazards arising from the substance or mixture 物質或混合物引發的特殊危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special hazards arising from the substance or mixture:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083955Z" creationid="CCYU" creationdate="20140809T083955Z">
+        <seg>Special hazards arising from the substance or mixture: 物質或混合物引發的特殊危害：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13776,6 +13832,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020013Z" creationid="MAE" creationdate="20140807T092837Z">
         <seg>Wear protective clothing. 穿著防護衣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear protective equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084158Z" creationid="CCYU" creationdate="20140809T084158Z">
+        <seg>Wear protective equipment. 穿著防護裝備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear self-contained breathing apparatus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084149Z" creationid="CCYU" creationdate="20140809T084149Z">
+        <seg>Use self-contained breathing apparatus. 穿戴自給式呼吸器。</seg>
       </tuv>
     </tu>
     <tu>
