@@ -4178,6 +4178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not use water jet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012933Z" creationid="CCYU" creationdate="20140809T012933Z">
+        <seg>Do not use water jet. 請勿使用水柱噴射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not wash the foot warmer!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130017Z">
@@ -5927,6 +5935,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094602Z">
         <seg>若有任何疑問，請勿使用裝置，並聯繫您的經銷商或服務中心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In case of fire, use water spray (fog), foam, dry chemical or CO&lt;t0/&gt;2&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012908Z" creationid="CCYU" creationdate="20140809T012908Z">
+        <seg>In case of fire, use water spray (fog), foam, dry chemical or CO&lt;t0/&gt;2&lt;t1/&gt;. 火災發生時，使用灑水式 (噴霧)、泡沫式、乾式化學或二氧化碳滅火器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10068,6 +10084,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable&lt;t0/&gt;                 &lt;t1/&gt; : Not suitable&lt;t2/&gt;              &lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012711Z" creationid="CCYU" creationdate="20140809T012711Z">
+        <seg>Suitable&lt;t0/&gt;                 &lt;t1/&gt; : Not suitable&lt;t2/&gt;              &lt;t3/&gt;: 適用： 不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sustainable use of natural resources (BWR 7&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123605Z">
@@ -13048,6 +13072,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143159Z" creationid="CCYU" creationdate="20140807T143159Z">
         <seg>soluble 可溶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>special&lt;t0/&gt; hazard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012941Z" creationid="CCYU" creationdate="20140809T012941Z">
+        <seg>special&lt;t0/&gt; hazard 特殊危害</seg>
       </tuv>
     </tu>
     <tu>
