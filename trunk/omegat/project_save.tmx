@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;13.09.2011.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033456Z" creationid="CCYU" creationdate="20140809T033456Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;13.09.2011. 2011 年 9 月 13 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013704Z" creationid="CCYU" creationdate="20140809T013326Z">
@@ -4058,6 +4066,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date of issue/Date of revision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033409Z" creationid="CCYU" creationdate="20140809T033409Z">
+        <seg>Date of issue/Date of revision 出版日期 / 修訂日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of previous issue</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033430Z" creationid="CCYU" creationdate="20140809T033430Z">
+        <seg>Date of previous issue 前一版發行日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of printing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033344Z" creationid="CCYU" creationdate="20140809T033344Z">
+        <seg>Date of printing 印刷日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145223Z" creationid="CCYU" creationdate="20140808T143548Z">
@@ -5943,6 +5975,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132151Z">
         <seg>高抗腐蝕性鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033332Z" creationid="CCYU" creationdate="20140809T033332Z">
+        <seg>History 歷史</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13160,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T134955Z">
         <seg>具備考量錨固負荷的可驗證計算之註解和設計圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033437Z" creationid="CCYU" creationdate="20140809T033437Z">
+        <seg>Version 版本</seg>
       </tuv>
     </tu>
     <tu>
