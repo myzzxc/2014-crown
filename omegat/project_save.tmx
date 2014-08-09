@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Protective goggles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015941Z" creationid="CCYU" creationdate="20140809T015941Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Protective goggles 防護安全眼鏡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Put on appropriate personal protective equipment (see Section 8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013256Z" creationid="CCYU" creationdate="20140809T013256Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150024Z" creationid="CCYU" creationdate="20140808T145912Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Wash out mouth with water. 以清水沖洗口腔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Wear suitable protective clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020054Z" creationid="CCYU" creationdate="20140809T015951Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Wear suitable protective clothing. 穿著合適防護衣</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,6 +6267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ingredient name&lt;t0/&gt;                          &lt;t1/&gt; &lt;t2/&gt;Occupational exposure limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020127Z" creationid="CCYU" creationdate="20140809T020127Z">
+        <seg>Ingredient name&lt;t0/&gt;     成份名稱                     &lt;t1/&gt; &lt;t2/&gt;Occupational exposure limits 職業性暴露限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inhalation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145253Z" creationid="CCYU" creationdate="20140808T145253Z">
@@ -7255,6 +7279,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064136Z" creationid="MAE" creationdate="20140807T064136Z">
         <seg>No 編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No &lt;t0/&gt;exposure limit&lt;t1/&gt; value known.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020142Z" creationid="CCYU" creationdate="20140809T020142Z">
+        <seg>No &lt;t0/&gt;exposure limit&lt;t1/&gt; value known. 無已知暴露限值</seg>
       </tuv>
     </tu>
     <tu>
@@ -12486,8 +12518,8 @@
       <tuv lang="EN-US">
         <seg>Wear protective clothing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092837Z" creationid="MAE" creationdate="20140807T092837Z">
-        <seg>Wear protective clothing. 穿上防護衣</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020013Z" creationid="MAE" creationdate="20140807T092837Z">
+        <seg>Wear protective clothing. 穿著防護衣</seg>
       </tuv>
     </tu>
     <tu>
