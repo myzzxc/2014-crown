@@ -3028,8 +3028,8 @@
       <tuv lang="EN-US">
         <seg>As we assumed this will influence a realistic result, we decided to use the most common test based on lower time lapse but using natural uv-radiation only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142026Z" creationid="CCYU" creationdate="20140809T141546Z">
-        <seg>因為我們認為這會影響真實的結果，我們決定使用最常見的測試基於較低的時間流逝，但使用天然的紫外輻射只。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142442Z" creationid="CCYU" creationdate="20140809T141546Z">
+        <seg>因為我們認為這會影響真實的結果，我們決定使用最常見慢速時間推移測試，僅使用天然紫外線輻射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4126,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052416Z" creationid="MAE" creationdate="20140727T052416Z">
         <seg>結合拉出和混凝土破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142603Z" creationid="CCYU" creationdate="20140809T142603Z">
+        <seg>通用測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -9712,6 +9720,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135133Z" creationid="CCYU" creationdate="20140809T135133Z">
         <seg>第 1/7 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PAGE 2/7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142612Z" creationid="CCYU" creationdate="20140809T142612Z">
+        <seg>第 2/7 頁</seg>
       </tuv>
     </tu>
     <tu>
