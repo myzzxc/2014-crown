@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9.&lt;t0/&gt; &lt;t1/&gt;PHYSICAL AND CHEMICAL PROPERTIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020149Z" creationid="CCYU" creationdate="20140809T020149Z">
+        <seg>9.&lt;t0/&gt; &lt;t1/&gt;PHYSICAL AND CHEMICAL PROPERTIES 物理與化學性質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013704Z" creationid="CCYU" creationdate="20140809T013326Z">
@@ -738,6 +746,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015731Z" creationid="CCYU" creationdate="20140809T015731Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Chemical-resistant, impervious gloves complying with an approved standard should be worn at all times when handling chemical products if a risk assessment indicates this is necessary. 若風險評估中有要求，則處理化工產品時應隨時穿戴符合標準之耐化學腐蝕、防水手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Colorless.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020242Z" creationid="CCYU" creationdate="20140809T020242Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Colorless. 無色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Faint odor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020345Z" creationid="CCYU" creationdate="20140809T020345Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Faint odor. 微弱氣味。</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013949Z" creationid="CCYU" creationdate="20140809T013949Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Keep container tightly closed. 保持容器緊閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020235Z" creationid="CCYU" creationdate="20140809T020235Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Liquid. 液體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +3918,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143030Z" creationid="CCYU" creationdate="20140807T143030Z">
         <seg>Density 密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Density Color Odor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020222Z" creationid="CCYU" creationdate="20140809T020222Z">
+        <seg>Density 密度 Color 顏色 Odor 氣味</seg>
       </tuv>
     </tu>
     <tu>
@@ -8047,6 +8087,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144314Z" creationid="CCYU" creationdate="20140808T144314Z">
         <seg>Phone: +49 (211) 5611-2000 電話：+49 (211) 5611-2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical state</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020155Z" creationid="CCYU" creationdate="20140809T020155Z">
+        <seg>Physical state 物理狀態</seg>
       </tuv>
     </tu>
     <tu>
