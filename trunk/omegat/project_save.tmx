@@ -640,8 +640,8 @@
       <tuv lang="EN-US">
         <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013205Z" creationid="CCYU" creationdate="20140809T013205Z">
-        <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES 洩漏之緊急措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084354Z" creationid="CCYU" creationdate="20140809T013205Z">
+        <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES 意外洩漏措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -1829,6 +1829,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013845Z" creationid="CCYU" creationdate="20140809T013756Z">
         <seg>Absorb with an inert material. 以惰性材料吸附。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accidental release measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084409Z" creationid="CCYU" creationdate="20140809T084217Z">
+        <seg>Accidental release measures 意外洩漏措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -9003,6 +9011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personal precautions, protective equipment and emergency procedures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084428Z" creationid="CCYU" creationdate="20140809T084428Z">
+        <seg>Personal precautions, protective equipment and emergency procedures: 個人預防措施、防護裝備以及緊急處理程序：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personal protective equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132321Z" creationid="CCYU" creationdate="20140807T132321Z">
@@ -10262,8 +10278,8 @@
       <tuv lang="EN-US">
         <seg>SECTION 6: Accidental release measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092954Z" creationid="MAE" creationdate="20140807T092954Z">
-        <seg>SECTION 6: Accidental release measures 第 6 節：洩漏之緊急措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084335Z" creationid="MAE" creationdate="20140807T092954Z">
+        <seg>SECTION 6: Accidental release measures 第 6 節：意外洩漏措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -10334,8 +10350,8 @@
       <tuv lang="EN-US">
         <seg>SECTION&lt;t0/&gt; 6:&lt;t1/&gt; &lt;t2/&gt;Accidental&lt;t3/&gt; &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;measures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133920Z" creationid="CCYU" creationdate="20140808T133920Z">
-        <seg>SECTION&lt;t0/&gt; 6:&lt;t1/&gt; &lt;t2/&gt;Accidental&lt;t3/&gt; &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;measures 第 6 節：洩漏之緊急措施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084346Z" creationid="CCYU" creationdate="20140808T133920Z">
+        <seg>SECTION&lt;t0/&gt; 6:&lt;t1/&gt; &lt;t2/&gt;Accidental&lt;t3/&gt; &lt;t4/&gt;release&lt;t5/&gt; &lt;t6/&gt;measures 第 6 節：意外洩漏措施</seg>
       </tuv>
     </tu>
     <tu>
