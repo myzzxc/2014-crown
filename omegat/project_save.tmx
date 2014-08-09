@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;Haake&lt;t1/&gt;; 140 °C (284 °F); Shear gradient: &lt;t2/&gt;500 s-1&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110840Z" creationid="CCYU" creationdate="20140809T110840Z">
+        <seg>(&lt;t0/&gt;Haake&lt;t1/&gt;; 140 °C (284 °F); Shear gradient 剪力梯度 : &lt;t2/&gt;500 s-1&lt;t3/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;VOCV 814.018 VOC regulation CH&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101434Z" creationid="CCYU" creationdate="20140809T101434Z">
@@ -7669,8 +7677,8 @@
       <tuv lang="EN-US">
         <seg>Initial boiling point</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092525Z" creationid="CCYU" creationdate="20140809T092525Z">
-        <seg>Initial boiling point 原始沸點</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110808Z" creationid="CCYU" creationdate="20140809T092525Z">
+        <seg>Initial boiling point 初始沸點</seg>
       </tuv>
     </tu>
     <tu>
@@ -7735,6 +7743,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014946Z">
         <seg>插入靜態混合器並將其固定 (向右轉)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insoluble</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110853Z" creationid="CCYU" creationdate="20140809T110853Z">
+        <seg>Insoluble 不可溶</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,6 +8947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No flash point up to 200 °C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110821Z" creationid="CCYU" creationdate="20140809T110821Z">
+        <seg>No flash point up to 200 °C 200°C 以下未達閃火點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No further precautions necessary after removal of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105521Z" creationid="CCYU" creationdate="20140809T105521Z">
@@ -9123,10 +9147,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110743Z" creationid="CCYU" creationdate="20140809T110743Z">
+        <seg>Not applicable 不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not applicable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123404Z">
-        <seg>不適用。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110748Z">
+        <seg>Not applicable. 不適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11832,6 +11864,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>幸福地依偎在舒適的超軟保溫電毯上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Softening point/range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110910Z" creationid="CCYU" creationdate="20140809T110910Z">
+        <seg>Softening point/range 軟化點 / 範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -15060,6 +15100,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wear refractive gloves while working with the hot melt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110637Z" creationid="CCYU" creationdate="20140809T110637Z">
+        <seg>Wear refractive gloves while working with the hot melt. 處理熱熔膠工作時穿戴隔熱手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wear self-contained breathing apparatus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084149Z" creationid="CCYU" creationdate="20140809T084149Z">
@@ -15572,6 +15620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>granulate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110705Z" creationid="CCYU" creationdate="20140809T110705Z">
+        <seg>granulate 顆粒狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>h&lt;t0/&gt;ef,min</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015220Z">
@@ -15824,6 +15880,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
         <seg>(短期最高溫度 +80°C，長期最高溫度 +50°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slightly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110727Z" creationid="CCYU" creationdate="20140809T110727Z">
+        <seg>slightly 淡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>solid&lt;t0/&gt; material</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110713Z" creationid="CCYU" creationdate="20140809T110713Z">
+        <seg>solid&lt;t0/&gt; material 固體材料</seg>
       </tuv>
     </tu>
     <tu>
