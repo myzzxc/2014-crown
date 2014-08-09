@@ -6611,6 +6611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indicates information that has changed from previously issued version.&lt;t0/&gt; &lt;t1/&gt;Notice to reader</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033946Z" creationid="CCYU" creationdate="20140809T033946Z">
+        <seg>Indicates information that has changed from previously issued version. 代表先前發行版本的資訊已作更改&lt;t0/&gt; &lt;t1/&gt;Notice to reader 。讀者須知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indication of any immediate medical attention and special treatment needed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091908Z" creationid="MAE" creationdate="20140807T091908Z">
