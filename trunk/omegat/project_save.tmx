@@ -86,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***FAX-Nr.***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081303Z" creationid="CCYU" creationdate="20140809T081303Z">
+        <seg>***FAX-Nr.*** 傳真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***GHS Classification***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081251Z" creationid="CCYU" creationdate="20140809T081251Z">
+        <seg>***GHS Classification*** GHS 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***Identification of manufacturer, importer or distributor***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080904Z" creationid="CCYU" creationdate="20140809T080904Z">
         <seg>***Identification of manufacturer, importer or distributor*** 製造商、進口商或經銷商標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***Remark***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081210Z" creationid="CCYU" creationdate="20140809T081210Z">
+        <seg>***Remark*** 備註</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classification (CLP):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081206Z" creationid="CCYU" creationdate="20140809T081206Z">
+        <seg>Classification (CLP): 分類 (CLP)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification 67/548/EEC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T123821Z" creationid="CCYU" creationdate="20140808T123821Z">
@@ -3557,6 +3589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063404Z" creationid="MAE" creationdate="20140807T063404Z">
         <seg>Classification of the substance or mixture 物質或混合物的分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification of the substance or mixture:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081146Z" creationid="CCYU" creationdate="20140809T081146Z">
+        <seg>Classification of the substance or mixture: 物質或混合物的分類：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5991,6 +6031,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064106Z" creationid="MAE" creationdate="20140807T064106Z">
         <seg>Hazardous ingredients 危害成分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hazards identification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081133Z" creationid="CCYU" creationdate="20140809T081133Z">
+        <seg>Hazards identification 危害標識</seg>
       </tuv>
     </tu>
     <tu>
@@ -11792,6 +11840,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103248Z">
         <seg>本歐洲技術評估乃根據技術評估機構的官方語言頒佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Henkel information service also provides an around-the-clock telephone service on phone no.+49-(0)211-797-3350 for exceptional cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081122Z" creationid="CCYU" creationdate="20140809T081122Z">
+        <seg>The Henkel information service also provides an around-the-clock telephone service on phone no.+49-(0)211-797-3350 for exceptional cases. Henkel 資訊服務同時也提供特殊情況之 24 時服務電話 +49-(0)211-797-3350</seg>
       </tuv>
     </tu>
     <tu>
