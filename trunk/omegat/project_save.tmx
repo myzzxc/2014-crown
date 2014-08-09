@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Indication of immediate medical attention and special treatment needed***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083414Z" creationid="CCYU" creationdate="20140809T083414Z">
+        <seg>***Indication of immediate medical attention and special treatment needed*** 任何需要即時醫療照護和特殊治療的適應症</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***Most important symptoms and effects***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083344Z" creationid="CCYU" creationdate="20140809T083344Z">
+        <seg>***Most important symptoms and effects*** 最重要的症狀與效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***Other hazards***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082024Z" creationid="CCYU" creationdate="20140809T082024Z">
@@ -5330,6 +5346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extinguishing media:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083522Z" creationid="CCYU" creationdate="20140809T083522Z">
+        <seg>Extinguishing media: 滅火劑：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye / face protection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133051Z" creationid="CCYU" creationdate="20140807T133051Z">
@@ -5550,6 +5574,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
         <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firefighting measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083513Z" creationid="CCYU" creationdate="20140809T083513Z">
+        <seg>Firefighting measures 消防措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indication of any immediate medical attention and special treatment needed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083428Z" creationid="CCYU" creationdate="20140809T083428Z">
+        <seg>Indication of any immediate medical attention and special treatment needed: 任何需要即時醫療照護和特殊治療的適應症：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information on basic physical and chemical properties</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142250Z" creationid="CCYU" creationdate="20140807T142250Z">
@@ -7855,6 +7895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091513Z" creationid="MAE" creationdate="20140807T091513Z">
         <seg>Most important symptoms and effects, both acute and delayed 最重要的症狀以及急性和延遲的效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most important symptoms and effects, both acute and delayed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083357Z" creationid="CCYU" creationdate="20140809T083357Z">
+        <seg>Most important symptoms and effects, both acute and delayed 最重要的症狀以及急性和延遲的效應：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9996,6 +10044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rinse mouth, drink 1-2 glasses of water, do not induce  vomiting, consult a doctor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083323Z" creationid="CCYU" creationdate="20140809T083311Z">
+        <seg>Rinse mouth, drink 1-2 glasses of water, do not induce  vomiting, consult a doctor. 漱口、喝 1-2 杯水、請勿催吐、就醫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rinse with running water and soap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082911Z" creationid="CCYU" creationdate="20140809T082911Z">
@@ -10528,6 +10584,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z">
         <seg>請參閱表 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See section: Description of first aid measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083505Z" creationid="CCYU" creationdate="20140809T083456Z">
+        <seg>See section: Description of first aid measures 參閱章節：急救措施說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,6 +11400,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092146Z" creationid="MAE" creationdate="20140807T091958Z">
         <seg>Suitable extinguishing media 適用之滅火劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable extinguishing media:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083530Z" creationid="CCYU" creationdate="20140809T083530Z">
+        <seg>Suitable extinguishing media: 適用之滅火劑：</seg>
       </tuv>
     </tu>
     <tu>
