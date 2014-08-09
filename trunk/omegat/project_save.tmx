@@ -86,10 +86,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>***FAX-Nr.***</seg>
+        <seg>***Classification DPD – Hazardous Substance Rating (EU)***</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081303Z" creationid="CCYU" creationdate="20140809T081303Z">
-        <seg>***FAX-Nr.*** 傳真</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081432Z" creationid="CCYU" creationdate="20140809T081432Z">
+        <seg>***Classification DPD – Hazardous Substance Rating (EU)*** DPD 分類 - 危險物質等級 (EU)</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +98,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081251Z" creationid="CCYU" creationdate="20140809T081251Z">
         <seg>***GHS Classification*** GHS 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***GHS Pictograms***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081514Z" creationid="CCYU" creationdate="20140809T081514Z">
+        <seg>***GHS Pictograms*** GHS 圖示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***GHS Remarks***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081536Z" creationid="CCYU" creationdate="20140809T081536Z">
+        <seg>***GHS Remarks*** GHS 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***GHS label elements **</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081505Z" creationid="CCYU" creationdate="20140809T081505Z">
+        <seg>***GHS label elements ** GHS 標示元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,6 +3565,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081206Z" creationid="CCYU" creationdate="20140809T081206Z">
         <seg>Classification (CLP): 分類 (CLP)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification (DPD):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081443Z" creationid="CCYU" creationdate="20140809T081443Z">
+        <seg>Classification (DPD): 分類 (DPD)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,6 +7235,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Label elements (CLP):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081529Z" creationid="CCYU" creationdate="20140809T081529Z">
+        <seg>Label elements (CLP): 標示元素 (CLP)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Label elements (DPD):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081550Z" creationid="CCYU" creationdate="20140809T081550Z">
+        <seg>Label elements (DPD): 標示元素 (DPD)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal entity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
@@ -7871,6 +7919,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050456Z" creationid="MAE" creationdate="20140727T050456Z">
         <seg>無確定性能 (NPD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No classification required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081454Z" creationid="CCYU" creationdate="20140809T081454Z">
+        <seg>No classification required. 無須分類</seg>
       </tuv>
     </tu>
     <tu>
