@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Other hazards***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082024Z" creationid="CCYU" creationdate="20140809T082024Z">
+        <seg>***Other hazards*** 其他危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***Remark***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081210Z" creationid="CCYU" creationdate="20140809T081210Z">
@@ -2793,6 +2801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base substances of preparation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082137Z" creationid="CCYU" creationdate="20140809T082137Z">
+        <seg>Base substances of preparation: 製備基礎物質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be sure that the anchor is fully seated at the bottom of the hole and that excess&lt;t0/&gt; &lt;t1/&gt;mortar is visible at the top of the hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004730Z">
@@ -3721,6 +3737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Composition/information on ingredients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082036Z" creationid="CCYU" creationdate="20140809T082036Z">
+        <seg>Composition/information on ingredients 成份之組成 / 資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compressed air drilling (CD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041858Z">
@@ -4438,6 +4462,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053917Z">
         <seg>點膠工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dispersion adhesive, water-based</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082118Z" creationid="CCYU" creationdate="20140809T082118Z">
+        <seg>Dispersion adhesive, water-based 分散黏著劑，水性</seg>
       </tuv>
     </tu>
     <tu>
@@ -5839,6 +5871,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143749Z" creationid="CCYU" creationdate="20140808T143749Z">
         <seg>General chemical characteristics 一般化學性質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General chemical description:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082052Z" creationid="CCYU" creationdate="20140809T082052Z">
+        <seg>General chemical description: 一般化學性說明：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12472,6 +12512,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042031Z" creationid="MAE" creationdate="20140808T042031Z">
         <seg>The product is not subject to IMDG regulations. 此產品不適用 IMDG 規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is not subject to classification according to the calculation methods of the "General Classification Guideline for Preparations of the EC" as issued in the last version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082010Z" creationid="CCYU" creationdate="20140809T082010Z">
+        <seg>The product is not subject to classification according to the calculation methods of the "General Classification Guideline for Preparations of the EC" as issued in the last version. 根據最新版“歐盟通用產品分類準則”之計算方法，該產品不須分類。</seg>
       </tuv>
     </tu>
     <tu>
