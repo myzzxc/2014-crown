@@ -5546,6 +5546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emergency Telephone Number:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104148Z" creationid="CCYU" creationdate="20140809T104148Z">
+        <seg>Emergency Telephone Number: 緊急電話號碼：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emergency phone:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144401Z" creationid="CCYU" creationdate="20140808T144401Z">
@@ -5750,6 +5758,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085504Z" creationid="CCYU" creationdate="20140809T085443Z">
         <seg>Exposure controls/personal protection 暴露管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure controls:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104329Z" creationid="CCYU" creationdate="20140809T104329Z">
+        <seg>Exposure controls: 暴露管控：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6539,6 +6555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104321Z" creationid="CCYU" creationdate="20140809T104321Z">
+        <seg>Germany 德國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Germany -&lt;t0/&gt; &lt;t1/&gt;Storage code</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033012Z" creationid="CCYU" creationdate="20140809T033000Z">
@@ -6767,6 +6791,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132151Z">
         <seg>高抗腐蝕性鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High pressure &lt;t0/&gt;waterjet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104216Z" creationid="CCYU" creationdate="20140809T104216Z">
+        <seg>High pressure waterjet 高壓水柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -10868,6 +10900,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rinse mouth, drink 1-2 glasses of water, do not &lt;t0/&gt;induce  vomiting&lt;t1/&gt;, consult a doctor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104210Z" creationid="CCYU" creationdate="20140809T104210Z">
+        <seg>Rinse mouth, drink 1-2 glasses of water, do not induce  vomiting, consult a doctor. 漱口、喝 1-2 杯水、請勿催吐、就醫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rinse mouth, drink 1-2 glasses of water, do not induce  vomiting, consult a doctor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083323Z" creationid="CCYU" creationdate="20140809T083311Z">
@@ -12356,6 +12396,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable materials for short-term contact or splashes (recommended: at least protection index 2, corresponding to &gt; 30 minutes permeation time as per EN 374): &lt;t0/&gt;Polychloroprene&lt;t1/&gt; (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) Suitable materials for longer, direct contact (recommended: protection index 6, corresponding to &gt; 480 minutes permeation time as per EN 374): &lt;t2/&gt;Polychloroprene&lt;t3/&gt; (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) This information is based on literature references and on information provided by glove manufacturers, or is derived by analogy with similar substances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104351Z" creationid="CCYU" creationdate="20140809T104351Z">
+        <seg>Suitable materials for short-term contact or splashes (recommended: at least protection index 2, corresponding to &gt; 30 minutes permeation time as per EN 374): Polychloroprene (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) 短期接觸或濺出之合適材料 (建議：至少保護指數 2，根據 EN 374 對應之滲透時間 &gt; 30 分鐘)：聚氯平橡膠 (CR； &gt;= 1 mm 厚度) 或天然橡膠 (NR； &gt;= 1 mm 厚度)。Suitable materials for longer, direct contact (recommended: protection index 6, corresponding to &gt; 480 minutes permeation time as per EN 374): Polychloroprene (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) 長期或直接接觸之合適材料 (推薦：保護指數 6，根據 EN 374 對應之滲透時間 &gt; 480 分鐘)： 聚氯平橡膠 (CR ； &gt;= 1 mm 厚度) 或天然橡膠 (NR ； &gt;= 1 mm 厚度)。 This information is based on literature references and on information provided by glove manufacturers, or is derived by analogy with similar substances. 此資訊來源為文獻與手套製造商提供的資訊，或與相似的物質類比而得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suitable materials for short-term contact or splashes (recommended: at least protection index 2, corresponding to &gt; 30 minutes permeation time as per EN 374): Polychloroprene (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) Suitable materials for longer, direct contact (recommended: protection index 6, corresponding to &gt; 480 minutes permeation time as per EN 374): Polychloroprene (CR; &gt;= 1 mm thickness) or natural rubber (NR; &gt;=1 mm thickness) This information is based on literature references and on information provided by glove manufacturers, or is derived by analogy with similar substances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091135Z" creationid="CCYU" creationdate="20140809T090323Z">
@@ -13095,6 +13143,14 @@
         <seg>The Henkel information service also provides an around-the-clock telephone service on phone no.+49-(0)211-797-3350 for exceptional cases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081122Z" creationid="CCYU" creationdate="20140809T081122Z">
+        <seg>The Henkel information service also provides an around-the-clock telephone service on phone no.+49-(0)211-797-3350 for exceptional cases. Henkel 資訊服務同時也提供特殊情況之 24 時服務電話 +49-(0)211-797-3350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Henkel information service also provides an around-the-clock telephone service on phone no&lt;t0/&gt;.+&lt;t1/&gt;49-(0)211-797-3350 for exceptional cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104203Z" creationid="CCYU" creationdate="20140809T104203Z">
         <seg>The Henkel information service also provides an around-the-clock telephone service on phone no.+49-(0)211-797-3350 for exceptional cases. Henkel 資訊服務同時也提供特殊情況之 24 時服務電話 +49-(0)211-797-3350</seg>
       </tuv>
     </tu>
@@ -14556,6 +14612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use only personal protection that's CE-&lt;t0/&gt;labelled&lt;t1/&gt; according to the regulation no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104414Z" creationid="CCYU" creationdate="20140809T104414Z">
+        <seg>Use only personal protection that's CE-labelled according to the regulation no. 僅使用具 CE 標章、符合規章 1994 年 8 月 19 日 819 號之個人防護裝備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use only personal protection that's CE-labelled according to the regulation no.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092327Z" creationid="CCYU" creationdate="20140809T092327Z">
@@ -14592,6 +14656,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101412Z" creationid="CCYU" creationdate="20140809T101412Z">
         <seg>VOC content VOC 含量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Valid for</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104317Z" creationid="CCYU" creationdate="20140809T104317Z">
+        <seg>Valid for 有效地區</seg>
       </tuv>
     </tu>
     <tu>
