@@ -4082,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date of issue/Date of&lt;t0/&gt; &lt;t1/&gt;revision: 13.09.2011.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T034938Z" creationid="CCYU" creationdate="20140809T034938Z">
+        <seg>Date of issue/Date of revision 出版日期 / 修訂日期：2011 年 9 月 13 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date of previous issue</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033430Z" creationid="CCYU" creationdate="20140809T033430Z">
