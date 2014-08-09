@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Appendix No. 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032942Z" creationid="CCYU" creationdate="20140809T032942Z">
+        <seg>1 Appendix No. 2 1 附錄 2 號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Safety Information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081546Z">
@@ -1434,6 +1442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z">
         <seg>即使裝置本身損壞包含於保固中，裝置直接或間接造成之損失責任不包含於保固範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;National regulations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032858Z" creationid="CCYU" creationdate="20140809T032858Z">
+        <seg>&lt;t0/&gt;National regulations 國家法規</seg>
       </tuv>
     </tu>
     <tu>
@@ -5587,6 +5603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the classification and labelling of the product see section 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032818Z" creationid="CCYU" creationdate="20140809T032818Z">
+        <seg>For the classification and labelling of the product see section 2. 產品之分類與標示請見第 2 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the range 4,500 psi &lt; f &lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi may be increased by 6% and range 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c &lt;t10/&gt; 8,000 psi tabulated characteristic bond strength may be increased by 10%.&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021439Z">
@@ -5831,6 +5855,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
         <seg>手較身體的其它部分對於溫度不敏感，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hazard class for water&lt;t0/&gt;    &lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032913Z" creationid="CCYU" creationdate="20140809T032913Z">
+        <seg>Hazard class for water&lt;t0/&gt;    &lt;t1/&gt; : 水質危害分類</seg>
       </tuv>
     </tu>
     <tu>
