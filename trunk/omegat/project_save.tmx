@@ -7003,6 +7003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is intended to describe our products from the point of view of safety requirements and is not intended to guarantee any particular properties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T034900Z" creationid="CCYU" creationdate="20140809T034900Z">
+        <seg>It is intended to describe our products from the point of view of safety requirements and is not intended to guarantee any particular properties. 旨在以安全要求的角度說明我們的產品，不作為任何特定性質的保證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not allowed to move the bar after &lt;t2/&gt;geling&lt;t3/&gt; time to has elapsed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084754Z">
@@ -12616,6 +12624,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
         <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information is based on our current level of knowledge and relates to the product in the state in which it is delivered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T034753Z" creationid="CCYU" creationdate="20140809T034529Z">
+        <seg>This information is based on our current level of knowledge and relates to the product in the state in which it is delivered. 此資訊建立於產品處於交付狀態之現有知識上。</seg>
       </tuv>
     </tu>
     <tu>
