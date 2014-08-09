@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 year radiation in Mid Europe</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143255Z" creationid="CCYU" creationdate="20140809T143255Z">
+        <seg>中歐 1 年輻射量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)&lt;t0/&gt; Calculation of the displacement 6N0 = (5No-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055447Z" creationid="MAE" creationdate="20140727T055447Z">
@@ -458,6 +466,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101752Z" creationid="CCYU" creationdate="20140809T101752Z">
         <seg>1, slightly water-endangering product.&lt;t0/&gt;   (&lt;t1/&gt;German VwVwS of May 17, 1999&lt;t2/&gt; ) 輕微水污染威脅產品。 (1999 年 5 月 17 日德國 VwVwS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10.000 hours XENO test 1200</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143217Z" creationid="CCYU" creationdate="20140809T143217Z">
+        <seg>10.000 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1000 test hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143318Z" creationid="CCYU" creationdate="20140809T143318Z">
+        <seg>1000 小時測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +602,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095407Z">
         <seg>1&lt;t0/&gt;fischer FIS EM 必須使用連續螺紋鋼碳柱 (全螺紋)，螺紋特性須符合 ANSI B1.1 UNC 粗螺紋系列或 ANSI B1.13M M 型公制螺紋系列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1Kly (kilolangly)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143205Z" creationid="CCYU" creationdate="20140809T143205Z">
+        <seg>1Kly (千蘭利)</seg>
       </tuv>
     </tu>
     <tu>
