@@ -1665,6 +1665,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADN/ADNR Class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031640Z" creationid="CCYU" creationdate="20140809T031640Z">
+        <seg>ADN/ADNR Class ADN/ADNR 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADR Tunnel Code:&lt;t0/&gt; &lt;t1/&gt;(-)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031628Z" creationid="CCYU" creationdate="20140809T031628Z">
+        <seg>ADR Tunnel Code:&lt;t0/&gt; &lt;t1/&gt;(-) ADR 隧道規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADR/RID Class</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031237Z" creationid="CCYU" creationdate="20140809T031237Z">
@@ -5955,6 +5971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IATA Class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031711Z" creationid="CCYU" creationdate="20140809T031711Z">
+        <seg>IATA Class IATA 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC-ES Evaluation Report ESR-1990&lt;t0/&gt;* &lt;t1/&gt;Reissued August 1, 2013 This report is subject to renewal September 1, 2015.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T024534Z">
@@ -5999,6 +6023,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133906Z">
         <seg>III: - 40 °C 至 +72 °C (長期最高溫度 +43 °C 和短期最高溫度 +72 °C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMDG Class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031715Z" creationid="CCYU" creationdate="20140809T031659Z">
+        <seg>IMDG Class IMDG 分類</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,6 +8992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133711Z" creationid="CCYU" creationdate="20140808T123445Z">
         <seg>REACH no CAS / EC / Index / REACH 編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REGULATORY INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031720Z" creationid="CCYU" creationdate="20140809T031720Z">
+        <seg>REGULATORY INFORMATION 法規資訊</seg>
       </tuv>
     </tu>
     <tu>
