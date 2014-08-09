@@ -2281,6 +2281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After contact with the hot melt: cool with water, seek medical attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105411Z" creationid="CCYU" creationdate="20140809T105411Z">
+        <seg>After contact with the hot melt: cool with water, seek medical attention. 接觸熱融物後：以清水冷卻，尋求醫療協助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After eye contact</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014858Z" creationid="MAE" creationdate="20140807T065639Z">
@@ -2429,6 +2437,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085008Z">
         <seg>黏著劑在承受任何附載前可於指定時間固化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow to solidify.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105615Z" creationid="CCYU" creationdate="20140809T105615Z">
+        <seg>Allow to solidify. 使其固化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,6 +7363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of fire toxic gases can be released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105554Z" creationid="CCYU" creationdate="20140809T105554Z">
+        <seg>In case of fire toxic gases can be released. 火災時會釋放出有毒氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of fire, use water spray (fog), foam, dry chemical or CO&lt;t0/&gt;2&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012908Z" creationid="CCYU" creationdate="20140809T012908Z">
@@ -8903,6 +8927,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092627Z" creationid="CCYU" creationdate="20140809T092627Z">
         <seg>No flash point up to 100°C. 100°C 以下未達閃火點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No further precautions necessary after removal of the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105521Z" creationid="CCYU" creationdate="20140809T105521Z">
+        <seg>No further precautions necessary after removal of the product. 去除產物後無需採取進一步預防措施。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10804,6 +10836,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove mechanically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105634Z" creationid="CCYU" creationdate="20140809T105634Z">
+        <seg>Remove mechanically. 使用外力剷除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the cap by turning and pulling it off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
@@ -12224,6 +12264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134259Z">
         <seg>黏著劑保存溫度為 41°F 至 86°F (5°C 至 30°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store at room temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105649Z" creationid="CCYU" creationdate="20140809T105649Z">
+        <seg>Store at room temperature. 室溫儲存。</seg>
       </tuv>
     </tu>
     <tu>
