@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1, slightly water-endangering product.&lt;t0/&gt;   (&lt;t1/&gt;German VwVwS of May 17, 1999&lt;t2/&gt; )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101752Z" creationid="CCYU" creationdate="20140809T101752Z">
+        <seg>1, slightly water-endangering product.&lt;t0/&gt;   (&lt;t1/&gt;German VwVwS of May 17, 1999&lt;t2/&gt; ) 輕微水污染威脅產品。 (1999 年 5 月 17 日德國 VwVwS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11.1&lt;t0/&gt; &lt;t1/&gt;Information on toxicological effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134414Z" creationid="CCYU" creationdate="20140808T134414Z">
@@ -3925,6 +3933,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144717Z" creationid="CCYU" creationdate="20140808T144717Z">
         <seg>Classification according to Regulation (EC) No. 1272/2008 [CLP/GHS] 根據規章 (EC) No. 1272/2008 [CLP/GHS] 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classification in conformity with the calculation method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101820Z" creationid="CCYU" creationdate="20140809T101820Z">
+        <seg>Classification in conformity with the calculation method 根據計算方法之分類</seg>
       </tuv>
     </tu>
     <tu>
