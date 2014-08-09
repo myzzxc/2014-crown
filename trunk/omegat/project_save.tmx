@@ -94,6 +94,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*** Carcinogenicity***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100212Z" creationid="CCYU" creationdate="20140809T100212Z">
+        <seg>*** Carcinogenicity*** 致癌性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Reproductive toxicity***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100218Z" creationid="CCYU" creationdate="20140809T100218Z">
+        <seg>*** Reproductive toxicity*** 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Serious eye damage / irritation ***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100256Z" creationid="CCYU" creationdate="20140809T100256Z">
+        <seg>*** Serious eye damage / irritation *** 嚴重眼睛損傷 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Skin corrosion / irritation ***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100250Z" creationid="CCYU" creationdate="20140809T100250Z">
+        <seg>*** Skin corrosion / irritation *** 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***Carcinogenic substances ***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100158Z" creationid="CCYU" creationdate="20140809T100158Z">
+        <seg>***Carcinogenic substances *** 致癌物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***Chemical stability***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095522Z" creationid="CCYU" creationdate="20140809T095522Z">
@@ -13960,6 +14000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144951Z">
         <seg>若要重新開啟暖腳機，必須先將滑動開關切換至 &lt;/f0&gt;&lt;f1&gt;0&lt;/f1&gt;&lt;f2&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z" creationid="CCYU" creationdate="20140809T100144Z">
+        <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly. 若正確的處理和使用產品，盡我們所知無危害性影響。</seg>
       </tuv>
     </tu>
     <tu>
