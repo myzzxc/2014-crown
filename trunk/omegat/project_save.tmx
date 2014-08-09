@@ -1715,8 +1715,8 @@
       <tuv lang="EN-US">
         <seg>After eye contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="MAE" creationdate="20140807T065639Z">
-        <seg>After eye contact 暴露眼睛</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014858Z" creationid="MAE" creationdate="20140807T065639Z">
+        <seg>After eye contact 接觸眼睛</seg>
       </tuv>
     </tu>
     <tu>
@@ -5861,8 +5861,8 @@
       <tuv lang="EN-US">
         <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T132534Z">
-        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn. 若超出工作場所暴露限制值，必須佩戴核准適用於特定工作之呼吸防護裝備。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015057Z" creationid="CCYU" creationdate="20140807T132534Z">
+        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn. 若超出工作場所暴露限值，必須佩戴核准適用於特定工作之呼吸防護裝備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6045,8 +6045,8 @@
       <tuv lang="EN-US">
         <seg>In case of intensive contact, wear protective gloves (EN 374).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T133145Z">
-        <seg>In case of intensive contact, wear protective gloves (EN 374). 若有頻繁暴露，請穿戴防護手套 (EN 374)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014924Z" creationid="CCYU" creationdate="20140807T133145Z">
+        <seg>In case of intensive contact, wear protective gloves (EN 374). 若有頻繁接觸，請穿戴防護手套 (EN 374)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,24 +6653,24 @@
       <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131746Z">
-        <seg>List of approved workplace&lt;t0/&gt; exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z" creationid="CCYU" creationdate="20140807T131746Z">
+        <seg>List of approved workplace&lt;t0/&gt; exposure limits (WELs) / EH40 核准之工作場所暴露限值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>List of approved workplace exposure limits (WELs) / E</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T131838Z">
-        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014956Z" creationid="CCYU" creationdate="20140808T131838Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>List of approved workplace exposure limits (WELs) / EH40</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131703Z">
-        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015000Z" creationid="CCYU" creationdate="20140807T131703Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,8 +7581,8 @@
       <tuv lang="EN-US">
         <seg>Occupational exposure limit values</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131526Z">
-        <seg>Occupational exposure limit values 職業性暴露限定值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015031Z" creationid="CCYU" creationdate="20140807T131526Z">
+        <seg>Occupational exposure limit values 職業性暴露限值</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,16 +10198,16 @@
       <tuv lang="EN-US">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T125220Z">
-        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties). 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚暴露風險之產品時。防護手套應於使用前測試，確保在任何情況下與特定工作站之相容性 (即機械阻力，產品的相容性與抗靜電性能)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015136Z" creationid="CCYU" creationdate="20140808T125220Z">
+        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties). 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。防護手套應於使用前測試，確保在任何情況下與特定工作站之相容性 (即機械阻力，產品的相容性與抗靜電性能)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T133754Z">
-        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚暴露風險之產品時。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014945Z" creationid="CCYU" creationdate="20140807T133754Z">
+        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。</seg>
       </tuv>
     </tu>
     <tu>
