@@ -4226,6 +4226,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Declaration of ingredients according to DPD (EC) No 1999/45:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082603Z" creationid="CCYU" creationdate="20140809T082603Z">
+        <seg>Declaration of ingredients according to DPD (EC) No 1999/45: 根據 DPD (EC) 編號 1999/45 申報成份：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Declaration of the ingredients according to CLP (EC) No 1272/2008:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082528Z" creationid="CCYU" creationdate="20140809T082528Z">
+        <seg>Declaration of the ingredients according to CLP (EC) No 1272/2008:  根據 CLP (EC) 編號 1272/2008 申報成份：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decomposition point / decomposition range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142706Z" creationid="CCYU" creationdate="20140807T142706Z">
@@ -5166,6 +5182,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
         <seg>重要特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethylene-vinyl acetate copolymer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082416Z" creationid="CCYU" creationdate="20140809T082416Z">
+        <seg>Ethylene-vinyl acetate copolymer 乙烯-乙酸乙烯酯共聚物</seg>
       </tuv>
     </tu>
     <tu>
