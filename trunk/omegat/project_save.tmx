@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(20 °C (68 °F); Solvent: Water)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104558Z" creationid="CCYU" creationdate="20140809T104558Z">
+        <seg>(20 °C (68 °F); Solvent: Water 溶劑：水)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(50 mm) gauge length except ISO 898, which is based on 5d.&lt;t5/&gt;4&lt;t6/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001121Z">
@@ -54,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Brookfield; Instrument: RVT; 20 °C (68 °F); speed of rotation: 50 min-1; Spindle No: 3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104540Z" creationid="CCYU" creationdate="20140809T104532Z">
+        <seg>(Brookfield; Instrument: RVT 儀器：指針式黏度計; 20 °C (68 °F); speed of rotation 轉速 : 50 min-1; Spindle No 轉軸數 : 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(D-2) and Eq.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013902Z">
@@ -66,6 +82,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013904Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of &lt;t2/&gt;July  27&lt;t3/&gt;, 2005 )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104719Z" creationid="CCYU" creationdate="20140809T104719Z">
+        <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of &lt;t2/&gt;July  27&lt;t3/&gt;, 2005 ) (2005 年 7 月 27 日德國 VwVwS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(VOCV 814.018 VOC regulation CH)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104625Z" creationid="CCYU" creationdate="20140809T104625Z">
+        <seg>(VOCV 814.018 VOC regulation CH) (VOCV 814.018 VOC 規章 CH)</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055143Z" creationid="MAE" creationdate="20140727T055143Z">
         <seg>1)計算之位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1, slightly water-endangering product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104707Z" creationid="CCYU" creationdate="20140809T104707Z">
+        <seg>1, slightly water-endangering product. 輕微水污染威脅產品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074911Z">
         <seg>所有不當使用造成之損壞，例如不遵守使用說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Aqueous preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104432Z" creationid="CCYU" creationdate="20140809T104432Z">
+        <seg>Aqueous preparation. 水溶液製備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8675,6 +8723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>National regulations/information (Germany):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104643Z" creationid="CCYU" creationdate="20140809T104643Z">
+        <seg>National regulations/information (Germany): 國家法規 / 資訊 (德國)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>National regulations/information (Germany)&lt;t0/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101507Z" creationid="CCYU" creationdate="20140809T101507Z">
@@ -8775,6 +8831,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142605Z" creationid="CCYU" creationdate="20140807T142605Z">
         <seg>No data available 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No data available / &lt;t0/&gt;Not&lt;t1/&gt; applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104438Z" creationid="CCYU" creationdate="20140809T104438Z">
+        <seg>No data available / Not applicable 無資料 / 不適用</seg>
       </tuv>
     </tu>
     <tu>
