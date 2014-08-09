@@ -6507,6 +6507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inoculum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025037Z" creationid="CCYU" creationdate="20140809T024953Z">
+        <seg>Inoculum 接種源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z">
