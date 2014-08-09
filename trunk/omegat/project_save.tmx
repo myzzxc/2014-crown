@@ -1985,6 +1985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analogy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022802Z" creationid="CCYU" creationdate="20140809T022802Z">
+        <seg>Analogy 類比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anchor bolts are embedded into concrete a minimum of 7 inches (178 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104702Z">
@@ -4934,6 +4942,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014754Z" creationid="CCYU" creationdate="20140809T014526Z">
         <seg>Eye protection 眼睛防護 Skin protection &lt;t0/&gt; 皮膚防護 Exposure limit values 暴露限值 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eyes&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the eyes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022822Z" creationid="CCYU" creationdate="20140809T022822Z">
+        <seg>Eyes&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the eyes. 眼睛：對眼睛有輕微刺激性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9720,6 +9736,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133529Z">
         <seg>性能類別 C1 之地震作用：M12 至 M30，鋼筋&lt;t0/&gt;Φ&lt;t1/&gt;12 至 &lt;t2/&gt;Φ&lt;t3/&gt;32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensitizer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022959Z" creationid="CCYU" creationdate="20140809T022959Z">
+        <seg>Sensitizer 敏化劑</seg>
       </tuv>
     </tu>
     <tu>
