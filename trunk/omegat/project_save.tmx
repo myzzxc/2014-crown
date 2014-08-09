@@ -1657,6 +1657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acute LC50 &gt;100 mg/l Fresh water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024540Z" creationid="CCYU" creationdate="20140809T024540Z">
+        <seg>Acute LC50 &gt;100 mg/l Fresh water 急性半數致死濃度 &gt;100 mg/l 清水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acute dermal toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144220Z" creationid="CCYU" creationdate="20140807T144220Z">
@@ -2461,6 +2469,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122220Z">
         <seg>建築產品和建築類型之審核機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aquatic &lt;t0/&gt;ecotoxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024345Z" creationid="CCYU" creationdate="20140809T024345Z">
+        <seg>Aquatic &lt;t0/&gt;ecotoxicity 水域生態毒性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OECD 203 Fish, Acute Toxicity Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024441Z" creationid="CCYU" creationdate="20140809T024441Z">
+        <seg>OECD 203 Fish, Acute Toxicity Test 魚類，急性毒性試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OECD 401 Acute Oral Toxicity&lt;t0/&gt;         &lt;t1/&gt; LD50 Oral&lt;t2/&gt;      &lt;t3/&gt; Rat - Male, Female</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022107Z" creationid="CCYU" creationdate="20140809T022107Z">
@@ -11248,6 +11272,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023709Z" creationid="CCYU" creationdate="20140809T023709Z">
         <seg>Teratogenicity 致畸形性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024406Z" creationid="CCYU" creationdate="20140809T024406Z">
+        <seg>Test 試驗</seg>
       </tuv>
     </tu>
     <tu>
