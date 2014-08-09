@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014154Z" creationid="CCYU" creationdate="20140809T014154Z">
+        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION 接觸管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>81\10-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055408Z" creationid="MAE" creationdate="20140727T055408Z">
@@ -754,6 +762,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013147Z" creationid="CCYU" creationdate="20140809T013147Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;In a fire or if heated, a pressure increase will occur and the container may burst.  燃燒或加熱可能造成壓力上升使容器爆裂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Keep container tightly closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013949Z" creationid="CCYU" creationdate="20140809T013949Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Keep container tightly closed. 保持容器緊閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No special measures required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013932Z" creationid="CCYU" creationdate="20140809T013932Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No special measures required. 無須特別措施。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not store above the following temperature: 40°C (104°F) Protect from moisture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014140Z" creationid="CCYU" creationdate="20140809T014140Z">
+        <seg>Do not store above the following temperature: 40°C (104°F) 請勿超過以下儲存溫度： 40 ° C (104 ° F)。Protect from moisture.  避免接觸水氣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not store or keep any electrical equipment&lt;t2/&gt; &lt;t3/&gt;in places where it could fall into the bathtub&lt;t4/&gt; &lt;t5/&gt;or washbasin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052411Z">
@@ -7291,6 +7323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No special protection is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014219Z" creationid="CCYU" creationdate="20140809T014219Z">
+        <seg>No special protection is required. 無須特別防護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No.: 15170-1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044653Z">
@@ -8880,6 +8920,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132328Z" creationid="CCYU" creationdate="20140807T132328Z">
         <seg>Respiratory protection 呼吸防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory protection&lt;t0/&gt;     &lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014204Z" creationid="CCYU" creationdate="20140809T014204Z">
+        <seg>Respiratory protection&lt;t0/&gt;     &lt;t1/&gt;: 呼吸防護</seg>
       </tuv>
     </tu>
     <tu>
