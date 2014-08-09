@@ -6163,6 +6163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identification of the substance/mixture and of the company/undertaking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080614Z" creationid="CCYU" creationdate="20140809T080610Z">
+        <seg>Identification of the substance/mixture and of the company/undertaking 物質 / 混和物與公司 / 企業之標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it becomes damp it must be air-dried.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151025Z">
@@ -8980,6 +8988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product identifier:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080627Z" creationid="CCYU" creationdate="20140809T080627Z">
+        <seg>Product identifier: 產品標識 ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product name</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143733Z" creationid="CCYU" creationdate="20140808T143733Z">
@@ -9480,6 +9496,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054500Z" creationid="MAE" creationdate="20140807T054500Z">
         <seg>Relevant identified uses of the substance or mixture and uses advised against 物質或混和物之相關用途與禁止事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relevant identified uses of the substance or mixture and uses advised against:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080645Z" creationid="CCYU" creationdate="20140809T080645Z">
+        <seg>Relevant identified uses of the substance or mixture and uses advised against: 物質或混和物之相關用途與禁止事項</seg>
       </tuv>
     </tu>
     <tu>
