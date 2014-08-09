@@ -1715,8 +1715,8 @@
       <tuv lang="EN-US">
         <seg>After eye contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065639Z" creationid="MAE" creationdate="20140807T065639Z">
-        <seg>After eye contact 接觸眼睛</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="MAE" creationdate="20140807T065639Z">
+        <seg>After eye contact 暴露眼睛</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,7 +1771,7 @@
       <tuv lang="EN-US">
         <seg>After skin contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065535Z" creationid="MAE" creationdate="20140807T065535Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014759Z" creationid="MAE" creationdate="20140807T065535Z">
         <seg>After skin contact 接觸皮膚</seg>
       </tuv>
     </tu>
@@ -3844,16 +3844,16 @@
       <tuv lang="EN-US">
         <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144944Z" creationid="CCYU" creationdate="20140807T144944Z">
-        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期接觸之慢性影響</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T144944Z">
+        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期暴露之慢性影響</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Delayed&lt;t0/&gt; and &lt;t1/&gt;immediate&lt;t2/&gt; &lt;t3/&gt;effects&lt;t4/&gt; as&lt;t5/&gt; &lt;t6/&gt;well&lt;t7/&gt; as&lt;t8/&gt; &lt;t9/&gt;chronic&lt;t10/&gt; &lt;t11/&gt;effects&lt;t12/&gt; from&lt;t13/&gt; &lt;t14/&gt;short&lt;t15/&gt; and&lt;t16/&gt; &lt;t17/&gt;long-term &lt;t18/&gt;exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134530Z" creationid="CCYU" creationdate="20140808T134530Z">
-        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期接觸之慢性影響</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T134530Z">
+        <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期暴露之慢性影響</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,8 +4220,8 @@
       <tuv lang="EN-US">
         <seg>Do not store above the following temperature: 40°C (104°F) Protect from moisture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014140Z" creationid="CCYU" creationdate="20140809T014140Z">
-        <seg>Do not store above the following temperature: 40°C (104°F) 請勿超過以下儲存溫度： 40 ° C (104 ° F)。Protect from moisture.  避免接觸水氣。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140809T014140Z">
+        <seg>Do not store above the following temperature: 40°C (104°F) 請勿超過以下儲存溫度： 40 ° C (104 ° F)。Protect from moisture.  避免暴露水氣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4692,8 +4692,8 @@
       <tuv lang="EN-US">
         <seg>Environmental exposure controls</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134936Z" creationid="CCYU" creationdate="20140807T134936Z">
-        <seg>Environmental exposure controls 環境接觸管控</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T134936Z">
+        <seg>Environmental exposure controls 環境暴露管控</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,8 +4788,8 @@
       <tuv lang="EN-US">
         <seg>Exposure controls</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132157Z" creationid="CCYU" creationdate="20140807T132157Z">
-        <seg>Exposure controls 接觸管控</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T132157Z">
+        <seg>Exposure controls 暴露管控</seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,16 +4812,16 @@
       <tuv lang="EN-US">
         <seg>Eye contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145308Z" creationid="CCYU" creationdate="20140808T145308Z">
-        <seg>Eye contact 接觸眼睛</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T145308Z">
+        <seg>Eye contact 暴露眼睛</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Eye protection Skin protection &lt;t0/&gt;Exposure limit values</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014526Z" creationid="CCYU" creationdate="20140809T014526Z">
-        <seg>Eye protection 眼睛防護 Skin protection &lt;t0/&gt; 皮膚防護 Exposure limit values 接觸限值 </seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014754Z" creationid="CCYU" creationdate="20140809T014526Z">
+        <seg>Eye protection 眼睛防護 Skin protection &lt;t0/&gt; 皮膚防護 Exposure limit values 暴露限值 </seg>
       </tuv>
     </tu>
     <tu>
@@ -5861,8 +5861,8 @@
       <tuv lang="EN-US">
         <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132628Z" creationid="CCYU" creationdate="20140807T132534Z">
-        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn. 若超出工作場所接觸限制值，必須佩戴核准適用於特定工作之呼吸防護裝備。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T132534Z">
+        <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn. 若超出工作場所暴露限制值，必須佩戴核准適用於特定工作之呼吸防護裝備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6045,8 +6045,8 @@
       <tuv lang="EN-US">
         <seg>In case of intensive contact, wear protective gloves (EN 374).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133145Z" creationid="CCYU" creationdate="20140807T133145Z">
-        <seg>In case of intensive contact, wear protective gloves (EN 374). 若有頻繁接觸，請穿戴防護手套 (EN 374)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T133145Z">
+        <seg>In case of intensive contact, wear protective gloves (EN 374). 若有頻繁暴露，請穿戴防護手套 (EN 374)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,24 +6653,24 @@
       <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131746Z" creationid="CCYU" creationdate="20140807T131746Z">
-        <seg>List of approved workplace&lt;t0/&gt; exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131746Z">
+        <seg>List of approved workplace&lt;t0/&gt; exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>List of approved workplace exposure limits (WELs) / E</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131838Z" creationid="CCYU" creationdate="20140808T131838Z">
-        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T131838Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>List of approved workplace exposure limits (WELs) / EH40</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131703Z" creationid="CCYU" creationdate="20140807T131703Z">
-        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所接觸限定值清單 (WELs) / EH40</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131703Z">
+        <seg>List of approved workplace exposure limits (WELs) / EH40 核准之工作場所暴露限定值清單 (WELs) / EH40</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,8 +7581,8 @@
       <tuv lang="EN-US">
         <seg>Occupational exposure limit values</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131526Z" creationid="CCYU" creationdate="20140807T131526Z">
-        <seg>Occupational exposure limit values 職業性接觸限定值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131526Z">
+        <seg>Occupational exposure limit values 職業性暴露限定值</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,8 +9134,8 @@
       <tuv lang="EN-US">
         <seg>SECTION 8: Exposure controls/personal protection</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131424Z" creationid="CCYU" creationdate="20140807T131424Z">
-        <seg>SECTION 8: Exposure controls/personal protection 第 8 節：接觸管控 / 個人防護</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T131424Z">
+        <seg>SECTION 8: Exposure controls/personal protection 第 8 節：暴露管控 / 個人防護</seg>
       </tuv>
     </tu>
     <tu>
@@ -9206,8 +9206,8 @@
       <tuv lang="EN-US">
         <seg>SECTION&lt;t0/&gt; 8:&lt;t1/&gt; &lt;t2/&gt;Exposure&lt;t3/&gt; &lt;t4/&gt;controls/personal&lt;t5/&gt; &lt;t6/&gt;protection</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133952Z" creationid="CCYU" creationdate="20140808T133952Z">
-        <seg>SECTION&lt;t0/&gt; 8:&lt;t1/&gt; &lt;t2/&gt;Exposure&lt;t3/&gt; &lt;t4/&gt;controls/personal&lt;t5/&gt; &lt;t6/&gt;protection 第 8 節：接觸管控 / 個人防護</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T133952Z">
+        <seg>SECTION&lt;t0/&gt; 8:&lt;t1/&gt; &lt;t2/&gt;Exposure&lt;t3/&gt; &lt;t4/&gt;controls/personal&lt;t5/&gt; &lt;t6/&gt;protection 第 8 節：暴露管控 / 個人防護</seg>
       </tuv>
     </tu>
     <tu>
@@ -9310,32 +9310,32 @@
       <tuv lang="EN-US">
         <seg>STOT-repeated exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144736Z" creationid="CCYU" creationdate="20140807T144736Z">
-        <seg>STOT-repeated exposure STOT-多次接觸</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T144736Z">
+        <seg>STOT-repeated exposure STOT-多次暴露</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>STOT-repeated&lt;t0/&gt; &lt;t1/&gt;exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134517Z" creationid="CCYU" creationdate="20140808T134517Z">
-        <seg>STOT-repeated exposure STOT-多次接觸</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T134517Z">
+        <seg>STOT-repeated exposure STOT-多次暴露</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>STOT-single exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144725Z" creationid="CCYU" creationdate="20140807T144725Z">
-        <seg>STOT-single exposure STOT-單次接觸</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T144725Z">
+        <seg>STOT-single exposure STOT-單次暴露</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>STOT-single&lt;t0/&gt; &lt;t1/&gt;exposure</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134512Z" creationid="CCYU" creationdate="20140808T134512Z">
-        <seg>STOT-single exposure STOT-單次接觸</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T134512Z">
+        <seg>STOT-single exposure STOT-單次暴露</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,8 +9582,8 @@
       <tuv lang="EN-US">
         <seg>Skin contact</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145304Z" creationid="CCYU" creationdate="20140808T145304Z">
-        <seg>Skin contact 接觸皮膚</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T145304Z">
+        <seg>Skin contact 暴露皮膚</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,16 +10198,16 @@
       <tuv lang="EN-US">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125220Z" creationid="CCYU" creationdate="20140808T125220Z">
-        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties). 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。防護手套應於使用前測試，確保在任何情況下與特定工作站之相容性 (即機械阻力，產品的相容性與抗靜電性能)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140808T125220Z">
+        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product .&lt;t1/&gt; Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties). 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚暴露風險之產品時。防護手套應於使用前測試，確保在任何情況下與特定工作站之相容性 (即機械阻力，產品的相容性與抗靜電性能)。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133754Z" creationid="CCYU" creationdate="20140807T133754Z">
-        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T133754Z">
+        <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚暴露風險之產品時。</seg>
       </tuv>
     </tu>
     <tu>
