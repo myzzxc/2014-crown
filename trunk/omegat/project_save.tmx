@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Chemical-resistant, impervious gloves complying with an approved standard should be worn at all times when handling chemical products if a risk assessment indicates this is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015731Z" creationid="CCYU" creationdate="20140809T015731Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Chemical-resistant, impervious gloves complying with an approved standard should be worn at all times when handling chemical products if a risk assessment indicates this is necessary. 若風險評估中有要求，則處理化工產品時應隨時穿戴符合標準之耐化學腐蝕、防水手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Flush contaminated skin with plenty of water.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150841Z" creationid="CCYU" creationdate="20140808T150841Z">
