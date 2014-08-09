@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Contact your local Environmental Agency Office if in doubt.&lt;t2/&gt; &lt;t3/&gt;Incinerate waste materials.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030611Z" creationid="CCYU" creationdate="20140809T030611Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Contact your local Environmental Agency Office if in doubt. &lt;t2/&gt; &lt;t3/&gt;Incinerate waste materials. 若有疑慮請聯繫當地環保機構辦事處，焚化廢棄物料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Faint odor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020345Z" creationid="CCYU" creationdate="20140809T020345Z">
@@ -1555,6 +1563,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134859Z" creationid="CCYU" creationdate="20140807T134859Z">
         <seg>&lt;t2/&gt;Design operations thus to avoid permanent use of protective gloves. 需設計操作方式以避免永久使用同一防護手套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;International transport regulations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030746Z" creationid="CCYU" creationdate="20140809T030746Z">
+        <seg>&lt;t2/&gt;International transport regulations 國際運輸法規</seg>
       </tuv>
     </tu>
     <tu>
@@ -7787,6 +7803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not hazardous according to RID, ADR, ADNR, IMDG, &lt;t0/&gt;IATA&lt;t1/&gt;-DGR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030736Z" creationid="CCYU" creationdate="20140809T030736Z">
+        <seg>Not hazardous according to RID, ADR, ADNR, IMDG, &lt;t0/&gt;IATA&lt;t1/&gt;-DGR. 根據 RID、ADR、ADNR、IMDG、IATA-DGR，非危險物品.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z">
@@ -9152,6 +9176,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050250Z" creationid="MAE" creationdate="20140808T045445Z">
         <seg>Regulation (EC) No 1907/2006 (REACH), 1272/2008 (CLP) as amended in each case.&lt;t0/&gt; EC Directives 2000/39/EC, 2006/15/EC, 2009/161/EC 規章 (EC) 編號 1907/2006 (REACH) 與個案修訂  1272/2008 (CLP)。 歐盟指令 2000/39/EC、2006/15/EC、2009/161/EC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regulatory information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030752Z" creationid="CCYU" creationdate="20140809T030752Z">
+        <seg>Regulatory information 法規資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,6 +10856,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021545Z" creationid="CCYU" creationdate="20140809T021545Z">
         <seg>TOXICOLOGICAL INFORMATION 毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRANSPORT INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030616Z" creationid="CCYU" creationdate="20140809T030616Z">
+        <seg>TRANSPORT INFORMATION 運輸資訊</seg>
       </tuv>
     </tu>
     <tu>
