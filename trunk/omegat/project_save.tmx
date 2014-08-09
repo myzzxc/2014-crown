@@ -7707,6 +7707,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OECD 404 Acute Dermal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022351Z" creationid="CCYU" creationdate="20140809T022351Z">
+        <seg>OECD 404 Acute Dermal 急性皮膚試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OECD 405 Acute Eye Irritation/Corrosion&lt;t0/&gt;  &lt;t1/&gt; Eyes - Cornea opacity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022553Z" creationid="CCYU" creationdate="20140809T022542Z">
+        <seg>OECD 405 Acute Eye Irritation/Corrosion&lt;t0/&gt; 急性眼睛腐蝕性 / 刺激性試驗 &lt;t1/&gt; Eyes - Cornea opacity 眼睛 - 角膜混濁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Observe gelling time &lt;t0/&gt;tgel&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084127Z">
@@ -8704,6 +8720,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013046Z">
         <seg>柱有效截面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rabbit&lt;t0/&gt;      &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022559Z" creationid="CCYU" creationdate="20140809T022559Z">
+        <seg>Rabbit&lt;t0/&gt; 兔子     &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
       </tuv>
     </tu>
     <tu>
@@ -9788,6 +9812,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skin - Edema&lt;t0/&gt;    &lt;t1/&gt; Rabbit&lt;t2/&gt;      &lt;t3/&gt; 0&lt;t4/&gt;     &lt;t5/&gt;-&lt;t6/&gt;           &lt;t7/&gt;-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022438Z" creationid="CCYU" creationdate="20140809T022438Z">
+        <seg>Skin - Edema&lt;t0/&gt; 皮膚 - 水腫   &lt;t1/&gt; Rabbit&lt;t2/&gt; 兔子   &lt;t3/&gt; 0&lt;t4/&gt;     &lt;t5/&gt;-&lt;t6/&gt;           &lt;t7/&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skin &lt;t0/&gt;corrosion/irritation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134435Z" creationid="CCYU" creationdate="20140808T134435Z">
@@ -9808,6 +9840,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144317Z" creationid="CCYU" creationdate="20140807T144317Z">
         <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the skin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022624Z" creationid="CCYU" creationdate="20140809T022624Z">
+        <seg>Skin&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the skin. 皮膚：對皮膚有輕微刺激性。</seg>
       </tuv>
     </tu>
     <tu>
