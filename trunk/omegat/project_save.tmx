@@ -1078,6 +1078,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>; &lt;t0/&gt;Spindle&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;: &lt;t4/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093103Z" creationid="CCYU" creationdate="20140809T093103Z">
+        <seg>; &lt;t0/&gt;Spindle&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;轉軸數 : &lt;t4/&gt;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>; &lt;t0/&gt;speed of rotation&lt;t1/&gt;: &lt;t2/&gt;20 min-1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093018Z" creationid="CCYU" creationdate="20140809T093018Z">
+        <seg>; &lt;t0/&gt;speed of rotation&lt;t1/&gt; 轉速 : &lt;t2/&gt;20 min-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;f1&gt;Accessories which are subject to normal wear and tear.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114924Z">
@@ -8147,6 +8163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Miscible</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093233Z" creationid="CCYU" creationdate="20140809T093233Z">
+        <seg>Miscible 互溶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mixer extension</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074229Z">
@@ -11204,6 +11228,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Solubility (qualitative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093143Z" creationid="CCYU" creationdate="20140809T093143Z">
+        <seg>Solubility (qualitative) 溶解度 (定性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solubility in water</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143046Z" creationid="CCYU" creationdate="20140807T143046Z">
@@ -11216,6 +11248,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143214Z" creationid="CCYU" creationdate="20140807T143214Z">
         <seg>Solubility(&lt;t0/&gt;ies&lt;t1/&gt;) 溶解度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solvent&lt;t0/&gt;: &lt;t1/&gt;Water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093200Z" creationid="CCYU" creationdate="20140809T093200Z">
+        <seg>Solvent&lt;t0/&gt;: &lt;t1/&gt;Water 溶劑：水</seg>
       </tuv>
     </tu>
     <tu>
@@ -14144,6 +14184,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143509Z" creationid="CCYU" creationdate="20140807T143509Z">
         <seg>Viscosity 黏度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Viscosity (kinematic)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093123Z" creationid="CCYU" creationdate="20140809T093123Z">
+        <seg>Viscosity (kinematic) 黏度 (動態)</seg>
       </tuv>
     </tu>
     <tu>
