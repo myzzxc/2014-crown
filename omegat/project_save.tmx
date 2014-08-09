@@ -4250,6 +4250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Danger of slipping on spilled product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084558Z" creationid="CCYU" creationdate="20140809T084558Z">
+        <seg>Danger of slipping on spilled product. 外溢產品造成之滑倒危險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Daphnia toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153109Z" creationid="CCYU" creationdate="20140807T153109Z">
@@ -4694,6 +4702,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122404Z" creationid="CCYU" creationdate="20140807T122404Z">
         <seg>Do not eat, drink or smoke during work time. 工作時請勿飲食或吸煙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not empty into drains / surface water / ground water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084621Z" creationid="CCYU" creationdate="20140809T084621Z">
+        <seg>Do not empty into drains / surface water / ground water. 請勿排入排水溝 / 地面水域 / 地下水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,6 +5278,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094900Z" creationid="MAE" creationdate="20140807T094900Z">
         <seg>Environmental precautions 環境預防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environmental precautions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084605Z" creationid="CCYU" creationdate="20140809T084605Z">
+        <seg>Environmental precautions: 環境預防措施：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7779,6 +7803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Methods and material for containment and cleaning up:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084658Z" creationid="CCYU" creationdate="20140809T084658Z">
+        <seg>Methods and material for containment and cleaning up 抑制與淨化之方法與材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Methods of disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030344Z" creationid="CCYU" creationdate="20140809T030344Z">
@@ -9960,6 +9992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
         <seg>旋轉並拉出外蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove with liquid-absorbing material (sand, peat, sawdust).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084824Z" creationid="CCYU" creationdate="20140809T084824Z">
+        <seg>Remove with liquid-absorbing material (sand, peat, sawdust). 使用吸水性材料 (沙子、泥炭、木屑) 吸附清除。</seg>
       </tuv>
     </tu>
     <tu>
