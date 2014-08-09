@@ -9172,6 +9172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproductive toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023736Z" creationid="CCYU" creationdate="20140809T023736Z">
+        <seg>Reproductive toxicity 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements for storage rooms and vessels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123358Z" creationid="CCYU" creationdate="20140807T123358Z">
@@ -9608,6 +9616,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020835Z" creationid="CCYU" creationdate="20140809T020835Z">
         <seg>STABILITY AND REACTIVITY 穩定性與反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOT - Specific target organ toxicity (repeated exposure)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023830Z" creationid="CCYU" creationdate="20140809T023830Z">
+        <seg>STOT - Specific target organ toxicity (repeated exposure) 特定目標器官毒性 (多次暴露)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOT - Specific target organ toxicity (single exposure)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023818Z" creationid="CCYU" creationdate="20140809T023818Z">
+        <seg>STOT - Specific target organ toxicity (single exposure) 特定目標器官毒性 (單次暴露)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11212,6 +11236,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teratogenicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023709Z" creationid="CCYU" creationdate="20140809T023709Z">
+        <seg>Teratogenicity 致畸形性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your confidence in us and congratulations!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z">
@@ -12240,6 +12272,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145013Z" creationid="CCYU" creationdate="20140808T145013Z">
         <seg>This product is not classified according to EU legislation. 此產品未根據歐盟法律分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is not classified as dangerous.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023912Z" creationid="CCYU" creationdate="20140809T023912Z">
+        <seg>This product is not classified as dangerous. 此產品不屬於危險物品。</seg>
       </tuv>
     </tu>
     <tu>
