@@ -1675,8 +1675,8 @@
       <tuv lang="EN-US">
         <seg>Acute toxicity</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021555Z" creationid="CCYU" creationdate="20140809T021555Z">
-        <seg>Acute toxicity 急性毒性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021951Z" creationid="CCYU" creationdate="20140809T021555Z">
+        <seg>Acute toxicity 急性毒性試驗</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Method Detail</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021736Z" creationid="CCYU" creationdate="20140809T021736Z">
+        <seg>Method Detail 方法內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Methods and material for containment and cleaning up</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095613Z" creationid="MAE" creationdate="20140807T095613Z">
@@ -9104,6 +9112,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134455Z" creationid="CCYU" creationdate="20140808T134455Z">
         <seg>Respiratory or skin &lt;t0/&gt;sensitisation 呼吸或皮膚過敏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result&lt;t0/&gt;         &lt;t1/&gt;Species&lt;t2/&gt;        &lt;t3/&gt;Dose&lt;t4/&gt;          &lt;t5/&gt;Exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021811Z" creationid="CCYU" creationdate="20140809T021811Z">
+        <seg>Result&lt;t0/&gt; 結果        &lt;t1/&gt;Species&lt;t2/&gt; 物種      &lt;t3/&gt;Dose&lt;t4/&gt;  劑量        &lt;t5/&gt;Exposure 暴露</seg>
       </tuv>
     </tu>
     <tu>
