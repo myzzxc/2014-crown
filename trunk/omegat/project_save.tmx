@@ -6395,6 +6395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z" creationid="CCYU" creationdate="20140809T102105Z">
+        <seg>Further information: 更多資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115058Z">
@@ -9523,6 +9531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102131Z" creationid="CCYU" creationdate="20140809T102131Z">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;5 第 5 / 5 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142025Z">
@@ -12000,6 +12016,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013909Z" creationid="CCYU" creationdate="20140809T013909Z">
         <seg>Storage 儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage class VCI:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101902Z" creationid="CCYU" creationdate="20140809T101902Z">
+        <seg>Storage class VCI: 儲存分類 VCI：</seg>
       </tuv>
     </tu>
     <tu>
