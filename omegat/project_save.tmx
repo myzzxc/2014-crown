@@ -3954,6 +3954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISPOSAL CONSIDERATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030330Z" creationid="CCYU" creationdate="20140809T030330Z">
+        <seg>DISPOSAL CONSIDERATIONS 廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DIVISION: 03 00 00–CONCRETE Section: 03 16 00—Concrete Anchors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132032Z">
@@ -7195,6 +7203,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Methods of disposal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030344Z" creationid="CCYU" creationdate="20140809T030344Z">
+        <seg>Methods of disposal 廢棄處置方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045611Z">
@@ -8159,6 +8175,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z">
         <seg>第一部分 —  總論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PBT: Specified</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030308Z" creationid="CCYU" creationdate="20140809T030308Z">
+        <seg>PBT: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PBT&lt;t0/&gt;                     &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030146Z" creationid="CCYU" creationdate="20140809T030146Z">
+        <seg>PBT&lt;t0/&gt;                     &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No. 無</seg>
       </tuv>
     </tu>
     <tu>
@@ -13859,6 +13891,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132337Z" creationid="CCYU" creationdate="20140808T132337Z">
         <seg>total&lt;t0/&gt; &lt;t1/&gt;vapour&lt;t2/&gt; and particulates 總蒸汽量與微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vPvB&lt;t0/&gt;                    &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030322Z" creationid="CCYU" creationdate="20140809T030322Z">
+        <seg>vPvB&lt;t0/&gt;                    &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No. 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vPvB&lt;t0/&gt;: Specified</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z" creationid="CCYU" creationdate="20140809T030317Z">
+        <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
       </tuv>
     </tu>
     <tu>
