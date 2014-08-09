@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Exposure controls**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085520Z" creationid="CCYU" creationdate="20140809T085520Z">
+        <seg>***Exposure controls** 暴露管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***GHS Classification***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081251Z" creationid="CCYU" creationdate="20140809T081251Z">
@@ -768,8 +776,8 @@
       <tuv lang="EN-US">
         <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014540Z" creationid="CCYU" creationdate="20140809T014154Z">
-        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION 管控 / 個人防護</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085449Z" creationid="CCYU" creationdate="20140809T014154Z">
+        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION 暴露管控 / 個人防護</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,6 +3641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chemical-resistant protective gloves (EN 374).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085718Z" creationid="CCYU" creationdate="20140809T085718Z">
+        <seg>Chemical-resistant protective gloves (EN 374). 抗化學腐蝕防護手套 (EN 374)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cigarette adhesive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080711Z" creationid="CCYU" creationdate="20140809T080711Z">
@@ -4014,6 +4030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131447Z" creationid="CCYU" creationdate="20140807T131447Z">
         <seg>Control parameters 管控參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085511Z" creationid="CCYU" creationdate="20140809T085511Z">
+        <seg>Control parameters: 管控參數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Engineering controls:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085536Z" creationid="CCYU" creationdate="20140809T085536Z">
+        <seg>Engineering controls: 工程管控：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure good ventilation/extraction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085154Z" creationid="CCYU" creationdate="20140809T085154Z">
@@ -5438,6 +5470,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T132157Z">
         <seg>Exposure controls 暴露管控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure controls/personal protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085504Z" creationid="CCYU" creationdate="20140809T085443Z">
+        <seg>Exposure controls/personal protection 暴露管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure controls&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085527Z" creationid="CCYU" creationdate="20140809T085527Z">
+        <seg>Exposure controls&lt;t0/&gt;: 暴露管控：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6255,6 +6303,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133107Z" creationid="CCYU" creationdate="20140807T133107Z">
         <seg>Hand protection 手部保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hand protection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085640Z" creationid="CCYU" creationdate="20140809T085640Z">
+        <seg>Hand protection: 手部保護：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8435,6 +8491,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085513Z" creationid="CCYU" creationdate="20140809T085513Z">
+        <seg>None 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None known</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T124045Z" creationid="CCYU" creationdate="20140808T124045Z">
@@ -10172,6 +10236,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Respiratory protection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085543Z" creationid="CCYU" creationdate="20140809T085543Z">
+        <seg>Respiratory protection: 呼吸防護：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Respiratory protection&lt;t0/&gt;     &lt;t1/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014204Z" creationid="CCYU" creationdate="20140809T014204Z">
@@ -11624,6 +11696,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014945Z" creationid="CCYU" creationdate="20140807T133754Z">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suitable breathing mask when there is inadequate ventilation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085633Z" creationid="CCYU" creationdate="20140809T085633Z">
+        <seg>Suitable breathing mask when there is inadequate ventilation. 當通風不良時使用適當的呼吸面罩。</seg>
       </tuv>
     </tu>
     <tu>
