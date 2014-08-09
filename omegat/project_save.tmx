@@ -5458,6 +5458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EDITION 1212</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135126Z" creationid="CCYU" creationdate="20140809T135126Z">
+        <seg>1212 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMBEDMENT DEPTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
@@ -9635,6 +9643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAGE 1/7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135133Z" creationid="CCYU" creationdate="20140809T135133Z">
+        <seg>第 1/7 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PART 1 – GENERAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z">
@@ -9839,6 +9855,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055643Z" creationid="MAE" creationdate="20140727T055643Z">
         <seg>性能 &lt;t0/&gt;位移 (鋼筋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performed tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135015Z" creationid="CCYU" creationdate="20140809T135015Z">
+        <seg>Performed tests 執行之測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -14712,6 +14736,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133216Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UV Tests of NOCX HDPE pipes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135103Z" creationid="CCYU" creationdate="20140809T135103Z">
+        <seg>NOCX 高密度聚乙烯管 UV 測試</seg>
       </tuv>
     </tu>
     <tu>
