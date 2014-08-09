@@ -4098,6 +4098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colorimetric test of 10 years realtime exposed pipes (1991-20 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140210Z" creationid="CCYU" creationdate="20140809T140210Z">
+        <seg>10 年即時暴露管道比色測試 (1991-2001)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combined pull-out and concrete cone failure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044402Z" creationid="MAE" creationdate="20140727T043150Z">
@@ -11813,6 +11821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several artificial uv-stability test methods all based on time lapse &lt;t0/&gt;( time&lt;t1/&gt; reduction ) are possible to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140243Z" creationid="CCYU" creationdate="20140809T140243Z">
+        <seg>幾種人工紫外線穩定性測試方法所有基於時間的推移 &lt;t0/&gt; （時間 &lt;t1/&gt; 減少） 都可以使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a results of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
@@ -13365,6 +13381,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test Methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140234Z" creationid="CCYU" creationdate="20140809T140234Z">
+        <seg>測試方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your confidence in us and congratulations!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z">
@@ -14783,8 +14807,8 @@
       <tuv lang="EN-US">
         <seg>UV Tests of NOCX HDPE pipes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135103Z" creationid="CCYU" creationdate="20140809T135103Z">
-        <seg>NOCX 高密度聚乙烯管 UV 測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140253Z" creationid="CCYU" creationdate="20140809T135103Z">
+        <seg>NOCX 高密度聚乙烯管紫外線測試</seg>
       </tuv>
     </tu>
     <tu>
