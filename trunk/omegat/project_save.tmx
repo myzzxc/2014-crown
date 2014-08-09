@@ -102,10 +102,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*** Mutagenicity  (in vitro und in vivo)***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100346Z" creationid="CCYU" creationdate="20140809T100346Z">
+        <seg>*** Mutagenicity  (in vitro und in vivo)*** 誘突變性 (體外和體內)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Persistence and degradability***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100532Z" creationid="CCYU" creationdate="20140809T100532Z">
+        <seg>*** Persistence and degradability*** 持續性與可分解性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Repeated dose toxicity***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100405Z" creationid="CCYU" creationdate="20140809T100405Z">
+        <seg>*** Repeated dose toxicity*** 反復給藥毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*** Reproductive toxicity***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100218Z" creationid="CCYU" creationdate="20140809T100218Z">
         <seg>*** Reproductive toxicity*** 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*** Respiratory or skin sensitization ***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100309Z" creationid="CCYU" creationdate="20140809T100309Z">
+        <seg>*** Respiratory or skin sensitization *** 呼吸或皮膚過敏</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +4962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not empty into drains, soil or bodies of water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100509Z" creationid="CCYU" creationdate="20140809T100509Z">
+        <seg>Do not empty into drains, soil or bodies of water. 請勿排入排水溝、土壤或水域中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not iron the foot warmer!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130315Z">
@@ -5374,6 +5414,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
         <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ecological information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100410Z" creationid="CCYU" creationdate="20140809T100410Z">
+        <seg>Ecological information 生態資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -6343,6 +6391,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041140Z">
         <seg>安裝後鋼筋的一般施工規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General ecological information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100430Z" creationid="CCYU" creationdate="20140809T100430Z">
+        <seg>General ecological information: 一般生態資訊：</seg>
       </tuv>
     </tu>
     <tu>
