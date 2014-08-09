@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>96 hours</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024656Z" creationid="CCYU" creationdate="20140809T024656Z">
+        <seg>96 hours 96 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013704Z" creationid="CCYU" creationdate="20140809T013326Z">
@@ -4426,6 +4434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024646Z" creationid="CCYU" creationdate="20140809T024646Z">
+        <seg>Dose 劑量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drill bit - &lt;t0/&gt;Φ</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142306Z">
@@ -4954,6 +4970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024649Z" creationid="CCYU" creationdate="20140809T024649Z">
+        <seg>Exposure 暴露</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exposure controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T132157Z">
@@ -5174,6 +5198,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
         <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fish - &lt;t0/&gt;Oryzias&lt;t1/&gt; &lt;t2/&gt;latipes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024643Z" creationid="CCYU" creationdate="20140809T024643Z">
+        <seg>Fish - &lt;t0/&gt;Oryzias&lt;t1/&gt; &lt;t2/&gt;latipes 魚 - 青鱂魚</seg>
       </tuv>
     </tu>
     <tu>
