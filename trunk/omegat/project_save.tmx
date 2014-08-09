@@ -886,10 +886,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous decomposition products should not be produced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021531Z" creationid="CCYU" creationdate="20140809T021531Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous decomposition products should not be produced. 正常條件下儲存和使用，不會產生危險分解產物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous reactions will not occur.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021247Z" creationid="CCYU" creationdate="20140809T021247Z">
-        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous reactions will not occur. 正常條件下儲存和使用，不會產生危險反應。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021536Z" creationid="CCYU" creationdate="20140809T021247Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous reactions will not occur. 正常條件下儲存和使用，不會發生危險反應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1661,6 +1669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144201Z" creationid="CCYU" creationdate="20140807T144201Z">
         <seg>Acute oral toxicity 急性口服毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acute toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021555Z" creationid="CCYU" creationdate="20140809T021555Z">
+        <seg>Acute toxicity 急性毒性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10456,6 +10472,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012719Z">
         <seg>螺紋柱規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOXICOLOGICAL INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021545Z" creationid="CCYU" creationdate="20140809T021545Z">
+        <seg>TOXICOLOGICAL INFORMATION 毒性資訊</seg>
       </tuv>
     </tu>
     <tu>
