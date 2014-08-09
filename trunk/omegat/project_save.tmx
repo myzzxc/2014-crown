@@ -6347,6 +6347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For evaluation of the best suitable test norm giving most realistic results, we learned that main difference is the test duration relating to realtime.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T141200Z" creationid="CCYU" creationdate="20140809T141200Z">
+        <seg>為了評估能得到最真實結果的最佳測試規範，我們瞭解了主要區別為測試時間與即時時間的關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every working interruption longer than the recommended working time (Table B3) as well as for every new cartridges, a new static-mixer shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T064807Z">
@@ -6936,6 +6944,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083919Z" creationid="CCYU" creationdate="20140809T083919Z">
         <seg>High pressure waterjet 高壓水柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High time lapse tests shows results in a short test time but use increased uv-radiation &lt;t0/&gt;including non-natural spectrum of uv-radiation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T141433Z" creationid="CCYU" creationdate="20140809T141228Z">
+        <seg>使用包含非自然光譜、增強的紫外線輻射，可於短時間內得到長時間測試結果。</seg>
       </tuv>
     </tu>
     <tu>
