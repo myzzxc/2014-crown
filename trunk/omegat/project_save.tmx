@@ -14044,6 +14044,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This info&lt;t0/&gt;rmation is based on our current level of knowledge and relates to the product in the state in which it is delivered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102547Z" creationid="CCYU" creationdate="20140809T102547Z">
+        <seg>This info&lt;t0/&gt;rmation is based on our current level of knowledge and relates to the product in the state in which it is delivered.  此資訊建立於產品處於交付狀態之現有知識上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This information is based on our current level of knowledge and relates to the product in the state in which it is delivered.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T034753Z" creationid="CCYU" creationdate="20140809T034529Z">
