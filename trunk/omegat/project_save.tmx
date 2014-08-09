@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No specific data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021300Z" creationid="CCYU" creationdate="20140809T021300Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No specific data. 無具體資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Not applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145904Z" creationid="CCYU" creationdate="20140808T145904Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144126Z" creationid="CCYU" creationdate="20140808T144126Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Triacetin 甘油三乙酸酯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous reactions will not occur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021247Z" creationid="CCYU" creationdate="20140809T021247Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Under normal conditions of storage and use, hazardous reactions will not occur. 正常條件下儲存和使用，不會產生危險反應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6227,6 +6243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incompatible materials&lt;t0/&gt;      &lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021308Z" creationid="CCYU" creationdate="20140809T021308Z">
+        <seg>Incompatible materials&lt;t0/&gt;      &lt;t1/&gt;: 不相容材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incompletely emptied packaging must be disposed of in the form of disposal specified by the regional disposer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T161241Z" creationid="CCYU" creationdate="20140807T161241Z">
@@ -7431,6 +7455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014219Z" creationid="CCYU" creationdate="20140809T014219Z">
         <seg>No special protection is required. 無須特別防護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No specific data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021314Z" creationid="CCYU" creationdate="20140809T021314Z">
+        <seg>No specific data. 無具體資料。</seg>
       </tuv>
     </tu>
     <tu>
