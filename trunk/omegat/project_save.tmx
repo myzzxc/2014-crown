@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;VOCV 814.018 VOC regulation CH&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101434Z" creationid="CCYU" creationdate="20140809T101434Z">
+        <seg>(&lt;t0/&gt;VOCV 814.018 VOC regulation CH&lt;t1/&gt;) (VOCV 814.018 VOC 規章 CH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;ϕ &lt;t1/&gt;: Nominal diameter of the bar; h: Rip height of the bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015344Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081505Z" creationid="CCYU" creationdate="20140809T081505Z">
         <seg>***GHS label elements ** GHS 標示元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***Gefahrgutfreitexte für MSDS / Dangerous goods user defined texts***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101335Z" creationid="CCYU" creationdate="20140809T101335Z">
+        <seg> ***Gefahrgutfreitexte für MSDS / Dangerous goods user defined texts 使用者定義之危險貨物文本*** </seg>
       </tuv>
     </tu>
     <tu>
@@ -8595,6 +8611,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>National regulations/information (Germany)&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101507Z" creationid="CCYU" creationdate="20140809T101507Z">
+        <seg>National regulations/information (Germany)&lt;t0/&gt;: 國家法規 / 資訊 (德國) ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ne pas utiliser d'agents blanchissants!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130155Z">
@@ -8935,6 +8959,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030736Z" creationid="CCYU" creationdate="20140809T030736Z">
         <seg>Not hazardous according to RID, ADR, ADNR, IMDG, &lt;t0/&gt;IATA&lt;t1/&gt;-DGR. 根據 RID、ADR、ADNR、IMDG、IATA-DGR，非危險物品.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not hazardous according to RID, ADR, ADNR, IMDG, IATA-DGR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101229Z" creationid="CCYU" creationdate="20140809T101229Z">
+        <seg>Not hazardous according to RID, ADR, ADNR, IMDG, IATA-DGR. 根據 RID、ADR、ADNR、IMDG、IATA-DGR，非危險物品.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11232,6 +11264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134812Z" creationid="CCYU" creationdate="20140808T134812Z">
         <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture 物質或混合物具體的安全、健康以及環境法規 / 立法 &lt;t0/&gt;EU regulations 歐盟規章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101349Z" creationid="CCYU" creationdate="20140809T101349Z">
+        <seg>Safety, health and environmental regulations/legislation specific for the substance or mixture: 物質或混合物具體的安全、健康以及環境法規 / 立法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14456,6 +14496,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065953Z">
         <seg>過度使用可能造成過度刺激肌肉並產生緊繃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VOC content</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101412Z" creationid="CCYU" creationdate="20140809T101412Z">
+        <seg>VOC content VOC 含量</seg>
       </tuv>
     </tu>
     <tu>
