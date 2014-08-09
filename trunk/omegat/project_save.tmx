@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Open cup: &gt;140°C (&gt;284°F) [ISO 2592]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020724Z" creationid="CCYU" creationdate="20140809T020724Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Open cup: &gt;140°C (&gt;284°F) [ISO 2592] 開杯：&gt;140°C (&gt;284°F) [ISO 2592]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Protective goggles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015941Z" creationid="CCYU" creationdate="20140809T015941Z">
