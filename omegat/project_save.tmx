@@ -2033,6 +2033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advices to personal protection equipment:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091944Z" creationid="CCYU" creationdate="20140809T091944Z">
+        <seg>Advices to personal protection equipment: 個人防護裝備建議：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few minutes you will be able to feel the heating blanket getting noticeably warmer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -5546,6 +5554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye protection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091906Z" creationid="CCYU" creationdate="20140809T091906Z">
+        <seg>Eye protection: 眼睛保護：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eyes&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the eyes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022822Z" creationid="CCYU" creationdate="20140809T022822Z">
@@ -6663,6 +6679,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z">
         <seg>若有需要則進行更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If signs of wear and tear are noticed then the gloves should be replaced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091849Z" creationid="CCYU" creationdate="20140809T091849Z">
+        <seg>If signs of wear and tear are noticed then the gloves should be replaced. 若發現磨損和破裂的跡象，應更換手套。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9323,6 +9347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please note that in practice the working life of chemical-resistant protective gloves may be considerably shorter than the permeation time determined in accordance with EN 374 as a result of the many influencing factors (e.g. temperature).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091746Z" creationid="CCYU" creationdate="20140809T091726Z">
+        <seg>Please note that in practice the working life of chemical-resistant protective gloves may be considerably shorter than the permeation time determined in accordance with EN 374 as a result of the many influencing factors (e.g. temperature). 請注意實際抗化學腐蝕壽命可能受許多影響因素 (如溫度) 而大幅低於 EN 374 所述之滲透時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please note the&lt;t0/&gt; &lt;t1/&gt;following in particular&lt;t2/&gt; &lt;t3/&gt;concerning electrical&lt;t4/&gt; &lt;t5/&gt;equipment:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052056Z">
@@ -9672,6 +9704,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134659Z" creationid="CCYU" creationdate="20140807T134537Z">
         <seg>Protective gloves shall be replaced immediately when physically damaged or worn. 若防護有破損或已磨損時，必須立即更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protective goggles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091914Z" creationid="CCYU" creationdate="20140809T091914Z">
+        <seg>Protective goggles 防護安全眼鏡</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,6 +11072,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144317Z" creationid="CCYU" creationdate="20140807T144317Z">
         <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin protection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091928Z" creationid="CCYU" creationdate="20140809T091928Z">
+        <seg>Skin protection: 皮膚保護：</seg>
       </tuv>
     </tu>
     <tu>
