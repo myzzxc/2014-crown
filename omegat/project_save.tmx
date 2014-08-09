@@ -3882,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contains no dangerous substances exceeding the limits of the EU-Regulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082638Z" creationid="CCYU" creationdate="20140809T082638Z">
+        <seg>Contains no dangerous substances exceeding the limits of the EU-Regulation 不含有超過歐盟規定限制之危險物質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue injection until the mortar level mark 1m becomes visible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082842Z">
@@ -4318,6 +4326,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065044Z" creationid="MAE" creationdate="20140807T065044Z">
         <seg>Description of first aid measures 急救措施說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of first aid measures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082655Z" creationid="CCYU" creationdate="20140809T082655Z">
+        <seg>Description of first aid measures: 急救措施說明：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5510,6 +5526,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002521Z">
         <seg>最後再次使用壓縮空氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First aid measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082648Z" creationid="CCYU" creationdate="20140809T082648Z">
+        <seg>First aid measures 急救措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inhalation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082703Z" creationid="CCYU" creationdate="20140809T082700Z">
+        <seg>Inhalation: 吸入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Injection &lt;t0/&gt;mortar: &lt;t1/&gt;Multifix&lt;t2/&gt; MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070820Z">
@@ -7791,6 +7823,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091513Z" creationid="MAE" creationdate="20140807T091513Z">
         <seg>Most important symptoms and effects, both acute and delayed 最重要的症狀以及急性和延遲的效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to fresh air, consult doctor if complaint persists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082819Z" creationid="CCYU" creationdate="20140809T082819Z">
+        <seg>Move to fresh air, consult doctor if complaint persists. 移動至新鮮空氣處，若持續不適須就醫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,6 +9956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rinse with running water and soap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082911Z" creationid="CCYU" creationdate="20140809T082911Z">
+        <seg>Rinse with running water and soap. 以清水與肥皂沖洗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Risk of suffocation!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094815Z">
@@ -10576,6 +10624,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015248Z" creationid="CCYU" creationdate="20140808T145304Z">
         <seg>Skin contact 接觸皮膚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin contact:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082827Z" creationid="CCYU" creationdate="20140809T082827Z">
+        <seg>Skin contact: 接觸皮膚：</seg>
       </tuv>
     </tu>
     <tu>
