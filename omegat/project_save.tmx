@@ -2681,6 +2681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z" creationid="CCYU" creationdate="20140809T092413Z">
+        <seg>Appearance 外觀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix C are used, the appropriate value of &lt;t0/&gt; &lt;t1/&gt;must be determined in accordance with ACI 318 D4.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
@@ -2725,6 +2733,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024345Z" creationid="CCYU" creationdate="20140809T024345Z">
         <seg>Aquatic &lt;t0/&gt;ecotoxicity 水域生態毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aqueous preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092637Z" creationid="CCYU" creationdate="20140809T092637Z">
+        <seg>Aqueous preparation. 水溶液製備。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4398,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142706Z" creationid="CCYU" creationdate="20140807T142706Z">
         <seg>Decomposition point / decomposition range 分解點 / 分解點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decomposition temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092643Z" creationid="CCYU" creationdate="20140809T092643Z">
+        <seg>Decomposition temperature 分解溫度</seg>
       </tuv>
     </tu>
     <tu>
@@ -7155,6 +7179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information on basic physical and chemical properties:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092409Z" creationid="CCYU" creationdate="20140809T092409Z">
+        <seg>Information on basic physical and chemical properties: 基本物理與化學性質資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information on toxicological effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144120Z" creationid="CCYU" creationdate="20140807T144120Z">
@@ -7207,6 +7239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082703Z" creationid="CCYU" creationdate="20140809T082700Z">
         <seg>Inhalation: 吸入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initial boiling point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092525Z" creationid="CCYU" creationdate="20140809T092525Z">
+        <seg>Initial boiling point 原始沸點</seg>
       </tuv>
     </tu>
     <tu>
@@ -8395,6 +8435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No flash point up to 100°C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092627Z" creationid="CCYU" creationdate="20140809T092627Z">
+        <seg>No flash point up to 100°C. 100°C 以下未達閃火點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No hazardous decomposition products known.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130103Z" creationid="CCYU" creationdate="20140808T130103Z">
@@ -8775,6 +8823,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015031Z" creationid="CCYU" creationdate="20140807T131526Z">
         <seg>Occupational exposure limit values 職業性暴露限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Odor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092504Z" creationid="CCYU" creationdate="20140809T092504Z">
+        <seg>Odor 氣味</seg>
       </tuv>
     </tu>
     <tu>
@@ -9239,6 +9295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144314Z" creationid="CCYU" creationdate="20140808T144314Z">
         <seg>Phone: +49 (211) 5611-2000 電話：+49 (211) 5611-2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical and chemical properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092356Z" creationid="CCYU" creationdate="20140809T092356Z">
+        <seg>Physical and chemical properties 物理與化學性質</seg>
       </tuv>
     </tu>
     <tu>
@@ -13924,6 +13988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use only personal protection that's CE-labelled according to the regulation no.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092327Z" creationid="CCYU" creationdate="20140809T092327Z">
+        <seg>Use only personal protection that's CE-labelled according to the regulation no. 僅使用具 CE 標章、符合規章 1994 年 8 月 19 日 819 號之個人防護裝備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use self-contained breathing apparatus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092818Z" creationid="MAE" creationdate="20140807T092818Z">
@@ -14420,6 +14492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>characteristic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092507Z" creationid="CCYU" creationdate="20140809T092507Z">
+        <seg>characteristic 特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chocolate-like</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142444Z" creationid="CCYU" creationdate="20140807T142444Z">
@@ -14464,6 +14544,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123524Z">
         <seg>鑽洞深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dispersion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092451Z" creationid="CCYU" creationdate="20140809T092451Z">
+        <seg>dispersion 分散</seg>
       </tuv>
     </tu>
     <tu>
@@ -14708,6 +14796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>liquid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092457Z" creationid="CCYU" creationdate="20140809T092457Z">
+        <seg>liquid 液體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123259Z" creationid="CCYU" creationdate="20140807T123259Z">
@@ -14792,6 +14888,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130135Z" creationid="CCYU" creationdate="20140808T130135Z">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment. 請勿隨意將產品排放至環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092515Z" creationid="CCYU" creationdate="20140809T092515Z">
+        <seg>pH 酸鹼值</seg>
       </tuv>
     </tu>
     <tu>
@@ -15051,6 +15155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z">
         <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>white</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092501Z" creationid="CCYU" creationdate="20140809T092501Z">
+        <seg>white 白色</seg>
       </tuv>
     </tu>
     <tu>
