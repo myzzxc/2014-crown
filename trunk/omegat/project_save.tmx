@@ -3529,6 +3529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conclusion/Summary&lt;t0/&gt;     &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No mutagenic effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023554Z" creationid="CCYU" creationdate="20140809T023554Z">
+        <seg>Conclusion/Summary&lt;t0/&gt;  結論 / 總結   &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No mutagenic effect. 無誘突變性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concrete</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045636Z">
@@ -7395,6 +7403,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negative</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023450Z" creationid="CCYU" creationdate="20140809T023450Z">
+        <seg>Negative 陰性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never give anything by mouth to an unconscious person.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090710Z" creationid="MAE" creationdate="20140807T090710Z">
@@ -7767,6 +7783,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022553Z" creationid="CCYU" creationdate="20140809T022542Z">
         <seg>OECD 405 Acute Eye Irritation/Corrosion&lt;t0/&gt; 急性眼睛腐蝕性 / 刺激性試驗 &lt;t1/&gt; Eyes - Cornea opacity 眼睛 - 角膜混濁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OECD 471 Bacterial Reverse Mutation Test&lt;t0/&gt;                    &lt;t1/&gt;Experiment: In vitro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023345Z" creationid="CCYU" creationdate="20140809T023345Z">
+        <seg>OECD 471 Bacterial Reverse Mutation Test&lt;t0/&gt; 細菌基因逆向變異試驗                    &lt;t1/&gt;Experiment: In vitro 試驗：體外</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,6 +10488,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232201Z">
         <seg>若在特別侵略性的環境下，適用室外暴露以及永久潮濕室內環境之結構 (高抗腐蝕鋼)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject: Bacteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023424Z" creationid="CCYU" creationdate="20140809T023424Z">
+        <seg>Subject: Bacteria 主體：細菌</seg>
       </tuv>
     </tu>
     <tu>
