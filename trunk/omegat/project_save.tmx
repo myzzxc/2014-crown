@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;The product is stable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021030Z" creationid="CCYU" creationdate="20140809T021030Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;The product is stable. 產品穩定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Triacetin</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144126Z" creationid="CCYU" creationdate="20140808T144126Z">
@@ -8644,6 +8652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reactivity&lt;t0/&gt;                 &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No specific test data related to reactivity available for this product or its ingredients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020956Z" creationid="CCYU" creationdate="20140809T020956Z">
+        <seg>Reactivity&lt;t0/&gt;                 &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No specific test data related to reactivity available for this product or its ingredients. 反應性：此產品與其成份無相關的特定反應性測試資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the instruction manual carefully before using this device, especially the safety instructions, and keep the instruction manual for future use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083054Z">
@@ -9400,6 +9416,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STABILITY AND REACTIVITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020835Z" creationid="CCYU" creationdate="20140809T020835Z">
+        <seg>STABILITY AND REACTIVITY 穩定性與反應性</seg>
       </tuv>
     </tu>
     <tu>
