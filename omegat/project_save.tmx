@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Chemical stability***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095522Z" creationid="CCYU" creationdate="20140809T095522Z">
+        <seg>***Chemical stability*** 化學穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>***Classification DPD – Hazardous Substance Rating (EU)***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081432Z" creationid="CCYU" creationdate="20140809T081432Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093707Z" creationid="CCYU" creationdate="20140809T093707Z">
         <seg>***Oxidising properties *** 氧化性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>***Possibility of hazardous reactions***</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095614Z" creationid="CCYU" creationdate="20140809T095614Z">
+        <seg>***Possibility of hazardous reactions*** 可能之危害性反應</seg>
       </tuv>
     </tu>
     <tu>
@@ -3701,6 +3717,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143551Z" creationid="CCYU" creationdate="20140807T143551Z">
         <seg>Chemical stability 化學穩定性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical stability:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095527Z" creationid="CCYU" creationdate="20140809T095527Z">
+        <seg>Chemical stability: 化學穩定性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8651,6 +8675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None if used for intended purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095517Z" creationid="CCYU" creationdate="20140809T095517Z">
+        <seg>None if used for intended purpose. 若正常使用則無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None known</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T124045Z" creationid="CCYU" creationdate="20140808T124045Z">
@@ -9047,6 +9079,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143519Z" creationid="CCYU" creationdate="20140807T143519Z">
         <seg>Other information 其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095432Z" creationid="CCYU" creationdate="20140809T095432Z">
+        <seg>Other information: 其他資訊：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,6 +9587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possibility of hazardous reactions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095619Z" creationid="CCYU" creationdate="20140809T095619Z">
+        <seg>Possibility of hazardous reactions: 可能之危害性反應：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Post-&lt;t0/&gt;installed rebar connection with &lt;t1/&gt;Multifix&lt;t2/&gt; injection System MF-EX1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T095526Z">
@@ -10000,6 +10048,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143544Z" creationid="CCYU" creationdate="20140807T143544Z">
         <seg>Reactivity 反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reactivity:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095454Z" creationid="CCYU" creationdate="20140809T095454Z">
+        <seg>Reactivity: 反應性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11432,6 +11488,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044317Z" creationid="MAE" creationdate="20140727T044317Z">
         <seg>劈裂破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stability and reactivity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095444Z" creationid="CCYU" creationdate="20140809T095444Z">
+        <seg>Stability and reactivity 穩定性與反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stable under recommended storage conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095607Z" creationid="CCYU" creationdate="20140809T095607Z">
+        <seg>Stable under recommended storage conditions. 於建議儲存條件下穩定</seg>
       </tuv>
     </tu>
     <tu>
