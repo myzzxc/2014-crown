@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014154Z" creationid="CCYU" creationdate="20140809T014154Z">
-        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION 接觸管控 / 個人防護</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014540Z" creationid="CCYU" creationdate="20140809T014154Z">
+        <seg>8.&lt;t0/&gt; &lt;t1/&gt;EXPOSURE CONTROLS/PERSONAL PROTECTION 管控 / 個人防護</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4814,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145308Z" creationid="CCYU" creationdate="20140808T145308Z">
         <seg>Eye contact 接觸眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eye protection Skin protection &lt;t0/&gt;Exposure limit values</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014526Z" creationid="CCYU" creationdate="20140809T014526Z">
+        <seg>Eye protection 眼睛防護 Skin protection &lt;t0/&gt; 皮膚防護 Exposure limit values 接觸限值 </seg>
       </tuv>
     </tu>
     <tu>
