@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z" creationid="CCYU" creationdate="20140809T013855Z">
+        <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7&lt;t0/&gt; &lt;t1/&gt;Technical specifications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073102Z">
@@ -712,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013326Z" creationid="CCYU" creationdate="20140809T013326Z">
-        <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers. 避免洩漏的物料和徑流和土壤、 水道、 排水渠及污水渠與接觸傳播。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013704Z" creationid="CCYU" creationdate="20140809T013326Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers. 避免洩漏的物料流出至土壤、水道、排水渠及污水渠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1501,6 +1509,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103341Z">
         <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (同 ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Absorb with an inert material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013845Z" creationid="CCYU" creationdate="20140809T013756Z">
+        <seg>Absorb with an inert material. 以惰性材料吸附。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5471,6 +5487,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074126Z">
         <seg>手動工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013906Z" creationid="CCYU" creationdate="20140809T013906Z">
+        <seg>Handling 搬運</seg>
       </tuv>
     </tu>
     <tu>
@@ -9636,6 +9660,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spill&lt;t0/&gt;                    &lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013817Z" creationid="CCYU" creationdate="20140809T013750Z">
+        <seg>Spill&lt;t0/&gt;                    &lt;t1/&gt; : 外溢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Splitting failure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044317Z" creationid="MAE" creationdate="20140727T044317Z">
@@ -9864,6 +9896,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130459Z">
         <seg>鋼、熱鍍鋅 ≥&lt;t5/&gt; 40 pm 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013909Z" creationid="CCYU" creationdate="20140809T013909Z">
+        <seg>Storage 儲存</seg>
       </tuv>
     </tu>
     <tu>
