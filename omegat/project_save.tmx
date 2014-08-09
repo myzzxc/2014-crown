@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;Brookfield&lt;t1/&gt;; &lt;t2/&gt;Instrument&lt;t3/&gt;: &lt;t4/&gt;RVT&lt;t5/&gt;; &lt;t6/&gt;20 °C (68 °F)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092954Z" creationid="CCYU" creationdate="20140809T092954Z">
+        <seg>(&lt;t0/&gt;Brookfield&lt;t1/&gt;; &lt;t2/&gt;Instrument&lt;t3/&gt;: &lt;t4/&gt;RVT&lt;t5/&gt;指針式黏度計; &lt;t6/&gt;20 °C (68 °F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;ϕ &lt;t1/&gt;: Nominal diameter of the bar; h: Rip height of the bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015344Z">
@@ -3069,6 +3077,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T062551Z">
         <seg>鋼刷：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bulk density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092741Z" creationid="CCYU" creationdate="20140809T092741Z">
+        <seg>Bulk density 體積密度</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,6 +8423,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142605Z" creationid="CCYU" creationdate="20140807T142605Z">
         <seg>No data available 無資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No data available / Not applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092705Z" creationid="CCYU" creationdate="20140809T092705Z">
+        <seg>No data available / Not applicable 無資料 / 不適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -14048,6 +14072,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z">
         <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vapour pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092717Z" creationid="CCYU" creationdate="20140809T092717Z">
+        <seg>Vapour pressure 蒸氣壓</seg>
       </tuv>
     </tu>
     <tu>
