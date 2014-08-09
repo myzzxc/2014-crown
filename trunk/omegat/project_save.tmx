@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16 hours XENO test 1200</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142850Z" creationid="CCYU" creationdate="20140809T142850Z">
+        <seg>16 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z">
@@ -13429,6 +13437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test correspondences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142836Z" creationid="CCYU" creationdate="20140809T142836Z">
+        <seg>測試對應值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your confidence in us and congratulations!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094038Z">
@@ -15149,6 +15165,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W-O-M test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142739Z" creationid="CCYU" creationdate="20140809T142739Z">
+        <seg>W-O-M 測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T042039Z">
@@ -15393,6 +15417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041644Z">
         <seg>無鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XENO test 1200 according ISO 4892.2 or ASTM or DIN 53387</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142733Z" creationid="CCYU" creationdate="20140809T142733Z">
+        <seg>符合 ISO 4892.2 或 ASTM 或 DIN 53387 之 XENO 測試 1200</seg>
       </tuv>
     </tu>
     <tu>
