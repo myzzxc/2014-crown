@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013205Z" creationid="CCYU" creationdate="20140809T013205Z">
+        <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES 洩漏之緊急措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>62-65), the system of assessment and verification of constancy of performance (see Annex V&lt;t2/&gt; &lt;t3/&gt;and Article 65 Paragraph 2 to Regulation (EU) No 305/2011) given in the following table applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021854Z">
@@ -726,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;In a fire or if heated, a pressure increase will occur and the container may burst.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013147Z" creationid="CCYU" creationdate="20140809T013147Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;In a fire or if heated, a pressure increase will occur and the container may burst.  燃燒或加熱可能造成壓力上升使容器爆裂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Not applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145904Z" creationid="CCYU" creationdate="20140808T145904Z">
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144641Z" creationid="CCYU" creationdate="20140808T144641Z">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Not classified. 未分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Put on appropriate personal protective equipment (see Section 8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013256Z" creationid="CCYU" creationdate="20140809T013256Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Put on appropriate personal protective equipment (see Section 8). 穿戴合適的個人防護裝備 (請見第 8 節)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7863,6 +7887,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093751Z">
         <seg>持續性疼痛可能為嚴重疾病的症狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personal precautions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013212Z" creationid="CCYU" creationdate="20140809T013212Z">
+        <seg>Personal precautions 個人預防措施</seg>
       </tuv>
     </tu>
     <tu>
