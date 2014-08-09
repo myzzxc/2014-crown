@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013326Z" creationid="CCYU" creationdate="20140809T013326Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains and sewers. 避免洩漏的物料和徑流和土壤、 水道、 排水渠及污水渠與接觸傳播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;Flush contaminated skin with plenty of water.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150841Z" creationid="CCYU" creationdate="20140808T150841Z">
@@ -5693,8 +5701,8 @@
       <tuv lang="EN-US">
         <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150640Z" creationid="CCYU" creationdate="20140808T150640Z">
-        <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink. 若已將原料吞下，在人員意識清醒下給予少量的水飲用。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013335Z" creationid="CCYU" creationdate="20140808T150640Z">
+        <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink. 若已將物料吞下，在人員意識清醒下給予少量的水飲用。</seg>
       </tuv>
     </tu>
     <tu>
