@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>28 days</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025947Z" creationid="CCYU" creationdate="20140809T025947Z">
+        <seg>28 days 28 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;Items supplied&lt;t2/&gt; &lt;t3/&gt;and packaging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062523Z">
@@ -1613,6 +1621,14 @@
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132234Z">
         <seg>&gt; M24：屬性等級 50  EN ISO 3506-2:2009 
 ≤ M24：屬性等級 70  EN ISO 3506-2:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt;93 % - Readily -&lt;t0/&gt; &lt;t1/&gt;-&lt;t2/&gt;              &lt;t3/&gt; -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025944Z" creationid="CCYU" creationdate="20140809T025944Z">
+        <seg>&gt;93 % - Readily - 易降解&lt;t0/&gt; &lt;t1/&gt;-&lt;t2/&gt;              &lt;t3/&gt; -</seg>
       </tuv>
     </tu>
     <tu>
@@ -3549,6 +3565,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064313Z" creationid="MAE" creationdate="20140807T064313Z">
         <seg>Concentration 濃度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conclusion/Summary&lt;t0/&gt;      &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;This product is readily biodegradable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030103Z" creationid="CCYU" creationdate="20140809T030103Z">
+        <seg>Conclusion/Summary&lt;t0/&gt;  結論 / 總結    &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;This product is readily biodegradable. 本產品易生物降解。</seg>
       </tuv>
     </tu>
     <tu>
