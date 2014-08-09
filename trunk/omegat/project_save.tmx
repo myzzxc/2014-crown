@@ -1822,6 +1822,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Realtime exposure test in the project for 6 years Realtime in year 1991-1997</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135855Z" creationid="CCYU" creationdate="20140809T135855Z">
+        <seg>於專案中進行 6 年即時暴露測試
+即時測試於 1991 - 1997 年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Repairs under warranty do not extend the warranty period either for the unit or for the replacement parts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074722Z">
@@ -8179,6 +8188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laboratory W-O-M test for 20.000 hours performed by SERVOCAM Laboratory between 1996 and 1999</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135551Z" creationid="CCYU" creationdate="20140809T135551Z">
+        <seg>由 SERVOCAM 實驗室，於 1996-1999 年間執行 20.000 小時實驗室 W-O-M 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laboratory XENO test 1200 for 10.000 hours performed by HOECHST Laboratory in year 1991-1992</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135521Z" creationid="CCYU" creationdate="20140809T135417Z">
@@ -9871,6 +9888,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055643Z" creationid="MAE" creationdate="20140727T055643Z">
         <seg>性能 &lt;t0/&gt;位移 (鋼筋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performed by HOECHST Laboratory in year 1997</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135931Z" creationid="CCYU" creationdate="20140809T135931Z">
+        <seg>由 HOECHST 實驗室於 1997 年執行</seg>
       </tuv>
     </tu>
     <tu>
