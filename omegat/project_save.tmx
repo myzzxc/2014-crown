@@ -6667,6 +6667,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Irritation/Corrosion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022118Z" creationid="CCYU" creationdate="20140809T022118Z">
+        <seg>Irritation/Corrosion 腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issued in Berlin on 26 June 2014 by &lt;t0/&gt;Deutsches&lt;t1/&gt; &lt;t2/&gt;Institut&lt;t3/&gt; &lt;t4/&gt;für&lt;t5/&gt; &lt;t6/&gt;Bautechnik</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145149Z">
@@ -7687,6 +7695,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101623Z">
         <seg>螺母必須具有指定保證負荷應力，等於或大於指定螺紋柱的最小拉伸強度。&lt;t7/&gt;5&lt;t8/&gt;碳鋼和合金鋼外螺紋公制緊固件的標準規格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OECD 401 Acute Oral Toxicity&lt;t0/&gt;         &lt;t1/&gt; LD50 Oral&lt;t2/&gt;      &lt;t3/&gt; Rat - Male, Female</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022107Z" creationid="CCYU" creationdate="20140809T022107Z">
+        <seg>OECD 401 Acute Oral Toxicity&lt;t0/&gt; 急性口服毒性試驗    &lt;t1/&gt; LD50 Oral&lt;t2/&gt; 口服半數致死量   &lt;t3/&gt; Rat - Male, Female 老鼠 - 公、母</seg>
       </tuv>
     </tu>
     <tu>
@@ -9116,6 +9132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022123Z" creationid="CCYU" creationdate="20140809T022123Z">
+        <seg>Result 結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result&lt;t0/&gt;         &lt;t1/&gt;Species&lt;t2/&gt;        &lt;t3/&gt;Dose&lt;t4/&gt;          &lt;t5/&gt;Exposure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021811Z" creationid="CCYU" creationdate="20140809T021811Z">
@@ -9588,6 +9612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Score&lt;t0/&gt;  &lt;t1/&gt;Exposure&lt;t2/&gt;   &lt;t3/&gt; Observation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022328Z" creationid="CCYU" creationdate="20140809T022328Z">
+        <seg>Score&lt;t0/&gt; 計分 &lt;t1/&gt;Exposure&lt;t2/&gt;  暴露 &lt;t3/&gt; Observation 觀察</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sealing / &lt;t0/&gt;Screw cap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
@@ -9848,6 +9880,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042123Z" creationid="MAE" creationdate="20140808T042123Z">
         <seg>Special precautions for user 使用者之特殊預防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Species</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022126Z" creationid="CCYU" creationdate="20140809T022126Z">
+        <seg>Species 物種</seg>
       </tuv>
     </tu>
     <tu>
