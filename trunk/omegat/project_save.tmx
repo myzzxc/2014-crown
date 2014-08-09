@@ -3425,6 +3425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030945Z" creationid="CCYU" creationdate="20140809T030945Z">
+        <seg>Classes 類別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144632Z" creationid="CCYU" creationdate="20140808T144632Z">
@@ -8812,6 +8820,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proper shipping name</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030920Z" creationid="CCYU" creationdate="20140809T030920Z">
+        <seg>Proper shipping name 正確運輸名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Property class 4.6, 5.8, 8.8, EN 1993-1-8:2005+AC:2009</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131113Z">
@@ -12744,6 +12760,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
         <seg>"雙槽"式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UN number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030912Z" creationid="CCYU" creationdate="20140809T030912Z">
+        <seg>UN number 聯合國編號</seg>
       </tuv>
     </tu>
     <tu>
