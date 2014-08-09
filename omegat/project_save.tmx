@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>***Specific end uses**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085419Z" creationid="CCYU" creationdate="20140809T085341Z">
+        <seg>Specific end use(s) 特定用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Revised January 2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051833Z">
@@ -5282,6 +5290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure good ventilation/extraction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085154Z" creationid="CCYU" creationdate="20140809T085154Z">
+        <seg>Ensure good ventilation/extraction. 確保良好的通風 / 抽氣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure supply of fresh air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065530Z" creationid="MAE" creationdate="20140807T065530Z">
@@ -6031,6 +6047,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142351Z" creationid="CCYU" creationdate="20140807T142327Z">
         <seg>Form/&lt;t0/&gt;Colour 型態 / 顏色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frost-sensitive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085236Z" creationid="CCYU" creationdate="20140809T085236Z">
+        <seg>Frost-sensitive 結霜敏感</seg>
       </tuv>
     </tu>
     <tu>
@@ -7495,6 +7519,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122506Z" creationid="CCYU" creationdate="20140807T122506Z">
         <seg>Keep away from foodstuffs and beverages. 請勿攜帶食物及飲料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep away from heat and direct sunlight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085327Z" creationid="CCYU" creationdate="20140809T085316Z">
+        <seg>Keep away from heat and direct sunlight. 遠離高溫與陽光直接照射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,8 +11062,16 @@
       <tuv lang="EN-US">
         <seg>Specific end use(s)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123948Z" creationid="CCYU" creationdate="20140807T123948Z">
-        <seg>Specific end use(s) 特定使用者</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085349Z" creationid="CCYU" creationdate="20140807T123948Z">
+        <seg>Specific end use(s) 特定用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific end use(s):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085432Z" creationid="CCYU" creationdate="20140809T085432Z">
+        <seg>Specific end use(s): 特定用途：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,6 +11376,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134259Z">
         <seg>黏著劑保存溫度為 41°F 至 86°F (5°C 至 30°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store in a cool, dry place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085307Z" creationid="CCYU" creationdate="20140809T085307Z">
+        <seg>Store in a cool, dry place. 儲存於涼爽、乾燥處。</seg>
       </tuv>
     </tu>
     <tu>
