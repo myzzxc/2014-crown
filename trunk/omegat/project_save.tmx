@@ -2609,6 +2609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply replenishing cream.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083032Z" creationid="CCYU" creationdate="20140809T083032Z">
+        <seg>Apply replenishing cream. 塗抹修復霜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appropriate engineering controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132240Z" creationid="CCYU" creationdate="20140807T132240Z">
@@ -3101,6 +3109,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T054629Z" creationid="MAE" creationdate="20140807T054629Z">
         <seg>Casing / flavor for tobacco products 菸草製品之包裝 / 調味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change all contaminated clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083053Z" creationid="CCYU" creationdate="20140809T083053Z">
+        <seg>Change all contaminated clothing. 換下所有受污染衣物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5330,6 +5346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye contact:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083101Z" creationid="CCYU" creationdate="20140809T083101Z">
+        <seg>Eye contact: 接觸眼睛：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye protection Skin protection &lt;t0/&gt;Exposure limit values</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014754Z" creationid="CCYU" creationdate="20140809T014526Z">
@@ -6879,6 +6903,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145258Z" creationid="CCYU" creationdate="20140808T145258Z">
         <seg>Ingestion 誤食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ingestion:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083209Z" creationid="CCYU" creationdate="20140809T083209Z">
+        <seg>Ingestion: 誤食：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9948,6 +9980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rinse immediately with plenty of running water (for 10 minutes).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083137Z" creationid="CCYU" creationdate="20140809T083137Z">
+        <seg>Rinse immediately with plenty of running water (for 10 minutes). 立即以大量清水沖洗 (10 分鐘)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rinse mouth thoroughly with water.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145921Z" creationid="MAE" creationdate="20140807T090540Z">
@@ -10496,6 +10536,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090507Z" creationid="MAE" creationdate="20140807T090507Z">
         <seg>Seek medical advice immediately. 立即尋求醫療協助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seek medical attention if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083158Z" creationid="CCYU" creationdate="20140809T083158Z">
+        <seg>Seek medical attention if necessary. 若有需要請就醫。</seg>
       </tuv>
     </tu>
     <tu>
