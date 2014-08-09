@@ -3922,6 +3922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions for safe storage, including any incompatibilities:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085055Z" creationid="CCYU" creationdate="20140809T085055Z">
+        <seg>Conditions for safe storage, including any incompatibilities: 安全儲存條件，包含所有不相容物質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conditions to avoid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143657Z" creationid="CCYU" creationdate="20140807T143657Z">
@@ -4626,6 +4634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispose of contaminated material as waste according to Chapter 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084907Z" creationid="CCYU" creationdate="20140809T084907Z">
+        <seg>Dispose of contaminated material as waste according to Chapter 13. 依第 13 章處理受污染之廢棄物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not apply load or installation torque moment to the anchor until the prescribed curing times are elapsed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023718Z">
@@ -4702,6 +4718,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122404Z" creationid="CCYU" creationdate="20140807T122404Z">
         <seg>Do not eat, drink or smoke during work time. 工作時請勿飲食或吸煙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not eat, drink or smoke while working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085028Z" creationid="CCYU" creationdate="20140809T085028Z">
+        <seg>Do not eat, drink or smoke while working. 工作時請勿飲食或吸煙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6235,6 +6259,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handling and storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084934Z" creationid="CCYU" creationdate="20140809T084934Z">
+        <seg>Handling and storage 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hands are considerably less sensitive towards heat than the rest of the body’s surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
@@ -6399,6 +6431,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102958Z">
         <seg>然而，僅允許經由技術評估機構發佈書面聲明的部分轉載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hygiene measures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085016Z" creationid="CCYU" creationdate="20140809T085016Z">
+        <seg>Hygiene measures: 衛生措施：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautions for safe handling:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085004Z" creationid="CCYU" creationdate="20140809T085001Z">
+        <seg>Precautions for safe handling: 安全搬運之預防措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preparing of joints according to Annex B 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023103Z">
@@ -9816,6 +9864,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100039Z" creationid="MAE" creationdate="20140807T100039Z">
         <seg>Reference to other sections 其他章節之參考資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference to other sections:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084918Z" creationid="CCYU" creationdate="20140809T084918Z">
+        <seg>Reference to other sections: 其他章節之參考資料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10696,6 +10752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z">
         <seg>請參閱表 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See advice in chapter 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084927Z" creationid="CCYU" creationdate="20140809T084927Z">
+        <seg>See advice in chapter 8 請參閱第 8 章之建議</seg>
       </tuv>
     </tu>
     <tu>
@@ -13832,6 +13896,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122558Z" creationid="CCYU" creationdate="20140807T122558Z">
         <seg>Wash hands before breaks and after work. 休息前與工作後洗手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wash hands before work breaks and after finishing work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085042Z" creationid="CCYU" creationdate="20140809T085042Z">
+        <seg>Wash hands before work breaks and after finishing work. 休息前與工作後洗手。</seg>
       </tuv>
     </tu>
     <tu>
