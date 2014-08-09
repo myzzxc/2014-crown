@@ -5130,6 +5130,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not remove adherent product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105202Z" creationid="CCYU" creationdate="20140809T105202Z">
+        <seg>Do not remove adherent product. 請勿去除黏附產物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not store above the following temperature: 40°C (104°F) Protect from moisture.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015210Z" creationid="CCYU" creationdate="20140809T014140Z">
@@ -8587,6 +8595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Molten product.&lt;t0/&gt; After skin contact cool down immediately with cold water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105134Z" creationid="CCYU" creationdate="20140809T105134Z">
+        <seg>Molten product.&lt;t0/&gt; After skin contact cool down immediately with cold water. 熔融產物。 接觸皮膚後立即以冷水冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mortar which is not grey colour will not cure and must be disposed off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012855Z">
@@ -11576,6 +11592,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090507Z" creationid="MAE" creationdate="20140807T090507Z">
         <seg>Seek medical advice immediately. 立即尋求醫療協助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seek medical advice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105217Z" creationid="CCYU" creationdate="20140809T105217Z">
+        <seg>Seek medical advice. 尋求醫療協助。</seg>
       </tuv>
     </tu>
     <tu>
