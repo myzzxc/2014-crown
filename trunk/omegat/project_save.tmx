@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No previous validation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033630Z" creationid="CCYU" creationdate="20140809T033630Z">
+        <seg>:&lt;t0/&gt; &lt;t1/&gt;No previous validation. 無先前版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:&lt;t0/&gt; &lt;t1/&gt;No special measures required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013932Z" creationid="CCYU" creationdate="20140809T013932Z">
