@@ -8179,6 +8179,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laboratory XENO test 1200 for 10.000 hours performed by HOECHST Laboratory in year 1991-1992</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135521Z" creationid="CCYU" creationdate="20140809T135417Z">
+        <seg>由 HOECHST 實驗室，於 1991-1992 年執行 10.000 小時實驗室 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laboratory XENO test 1200 for 20.000 hours performed by SERVOCAM Laboratory between 1996 and 1999</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135518Z" creationid="CCYU" creationdate="20140809T135518Z">
+        <seg>由 SERVOCAM 實驗室，於 1996-1999 年間執行 20.000 小時實驗室 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal entity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
