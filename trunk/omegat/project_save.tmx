@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Brookfield; Instrument: RVT; 20 °C (68 °F); speed of rotation: 20 min-1; Spindle No: 4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T111132Z" creationid="CCYU" creationdate="20140809T111132Z">
+        <seg>(Brookfield; Instrument: RVT 儀器：指針式黏度計 ; 20 °C (68 °F); speed of rotation 轉速: 20 min-1; Spindle No 轉軸數 : 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Brookfield; Instrument: RVT; 20 °C (68 °F); speed of rotation: 50 min-1; Spindle No: 3)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104540Z" creationid="CCYU" creationdate="20140809T104532Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104719Z" creationid="CCYU" creationdate="20140809T104719Z">
         <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of &lt;t2/&gt;July  27&lt;t3/&gt;, 2005 ) (2005 年 7 月 27 日德國 VwVwS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of May 17, &lt;t2/&gt;1999 )</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T111206Z" creationid="CCYU" creationdate="20140809T111206Z">
+        <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of May 17, &lt;t2/&gt;1999 ) (1999 年 5 月 17 日德國 VwVwS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,6 +2941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z" creationid="CCYU" creationdate="20140809T092413Z">
         <seg>Appearance 外觀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix 1/2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110949Z" creationid="CCYU" creationdate="20140809T110949Z">
+        <seg>Appendix 1/2 附錄 1/2</seg>
       </tuv>
     </tu>
     <tu>
