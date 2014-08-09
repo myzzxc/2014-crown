@@ -5506,6 +5506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explosive limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093355Z" creationid="CCYU" creationdate="20140809T093355Z">
+        <seg>Explosive limits 爆炸限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explosive properties</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142807Z" creationid="CCYU" creationdate="20140807T142807Z">
@@ -5838,6 +5846,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153003Z" creationid="CCYU" creationdate="20140807T153003Z">
         <seg>Fish toxicity 魚類毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flammability</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093332Z" creationid="CCYU" creationdate="20140809T093332Z">
+        <seg>Flammability 可燃性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7987,6 +8003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Melting point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093320Z" creationid="CCYU" creationdate="20140809T093320Z">
+        <seg>Melting point 熔點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Melting point / melting range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142640Z" creationid="CCYU" creationdate="20140807T142640Z">
@@ -9231,6 +9255,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143434Z" creationid="CCYU" creationdate="20140807T143434Z">
         <seg>Partition coefficient: n-&lt;t0/&gt;octanol&lt;t1/&gt;/water 分配係數：正辛醇 / 水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partition coefficient: n-octanol/water</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093414Z" creationid="CCYU" creationdate="20140809T093414Z">
+        <seg>Partition coefficient: n-octanol/water 分配係數：正辛醇 / 水</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,6 +11256,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>幸福地依偎在舒適的超軟保溫電毯上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solidification temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093311Z" creationid="CCYU" creationdate="20140809T093311Z">
+        <seg>Solidification temperature 凝固溫度</seg>
       </tuv>
     </tu>
     <tu>
@@ -14112,6 +14152,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070752Z">
         <seg>本報告表 2 和表 3 中列出了各種鋼材之數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vapor density</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093421Z" creationid="CCYU" creationdate="20140809T093421Z">
+        <seg>Vapor density 蒸氣密度</seg>
       </tuv>
     </tu>
     <tu>
