@@ -2105,6 +2105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All common extinguishing agents are suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083559Z" creationid="CCYU" creationdate="20140809T083559Z">
+        <seg>All common extinguishing agents are suitable. 所有常用的滅火劑皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All temperature ranges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055236Z" creationid="MAE" creationdate="20140727T055236Z">
