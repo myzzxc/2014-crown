@@ -5907,6 +5907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061025Z" creationid="MAE" creationdate="20140810T061025Z">
+        <seg>評價</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation of norm criteria for grade results</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060422Z" creationid="MAE" creationdate="20140810T060422Z">
@@ -9384,6 +9392,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095743Z" creationid="CCYU" creationdate="20140808T125932Z">
         <seg>None, if handled according to order. 若依規範處理則無。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Norm criteria for Evaluation of&lt;t0/&gt; &lt;t1/&gt;color changes of textiles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061201Z" creationid="MAE" creationdate="20140810T061201Z">
+        <seg>紋理顏色變化評估的規範標準</seg>
       </tuv>
     </tu>
     <tu>
