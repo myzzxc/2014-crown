@@ -2106,6 +2106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A little and clearly noticeable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061831Z" creationid="MAE" creationdate="20140810T061831Z">
+        <seg>有些許裂紋明顯可見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A little noticeable but not conspicuous</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061623Z" creationid="MAE" creationdate="20140810T061623Z">
@@ -2118,6 +2126,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z">
         <seg>手感受稍微暖和的溫度可能使雙腳感覺溫度高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A very important contrast</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061936Z" creationid="MAE" creationdate="20140810T061936Z">
+        <seg>非常明顯的變化</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2582,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144130Z">
         <seg>請隨時確認暖腳機使用時無皺摺或折疊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An important contrast</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061908Z" creationid="MAE" creationdate="20140810T061908Z">
+        <seg>明顯的變化</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3238,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153300Z" creationid="CCYU" creationdate="20140807T153300Z">
         <seg>Bacteria toxicity 細菌毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061837Z" creationid="MAE" creationdate="20140810T061837Z">
+        <seg>差</seg>
       </tuv>
     </tu>
     <tu>
@@ -12317,6 +12349,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Somewhat&lt;t0/&gt; &lt;t1/&gt;Good</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061757Z" creationid="MAE" creationdate="20140810T061757Z">
+        <seg>可接受</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sources of key data used to compile the data sheet:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044259Z" creationid="MAE" creationdate="20140808T044259Z">
@@ -15405,6 +15445,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very Bad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061928Z" creationid="MAE" creationdate="20140810T061928Z">
+        <seg>非常差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Viscosity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143509Z" creationid="CCYU" creationdate="20140807T143509Z">
@@ -15973,6 +16021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>excellent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061650Z" creationid="MAE" creationdate="20140810T061650Z">
+        <seg>極佳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fischer FIS EM ADHESIVE ANCHORING SYSTEM FOR CRACKED AND UNCRACKED CONCRETE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T134134Z">
@@ -16073,6 +16129,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132243Z" creationid="CCYU" creationdate="20140808T132243Z">
         <seg>glycerol 甘油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>good</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061920Z" creationid="MAE" creationdate="20140810T061920Z">
+        <seg>良好</seg>
       </tuv>
     </tu>
     <tu>
@@ -16516,6 +16580,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z" creationid="CCYU" creationdate="20140809T030317Z">
         <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>very good</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061834Z" creationid="MAE" creationdate="20140810T061834Z">
+        <seg>非常好</seg>
       </tuv>
     </tu>
     <tu>
