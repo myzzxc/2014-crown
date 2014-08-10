@@ -4269,8 +4269,16 @@
       <tuv lang="EN-US">
         <seg>Colorimetric test of 10 years realtime exposed pipes (1991-20 1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140210Z" creationid="CCYU" creationdate="20140809T140210Z">
-        <seg>10 年即時暴露管道比色測試 (1991-2001)</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T071953Z" creationid="CCYU" creationdate="20140809T140210Z">
+        <seg>10 年即時曝射管材比色測試 (1991-2001)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Colormetric&lt;t0/&gt; test of 11 years realtime exposed pipe in a project.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072022Z" creationid="MAE" creationdate="20140810T071947Z">
+        <seg>專案進行 11 年即時曝射管材比色測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -13914,6 +13922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065948Z" creationid="MAE" creationdate="20140810T065948Z">
         <seg>不同色彩測試結果請參閱附件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test sample was red = RAL 3000, the most difficult color to &lt;t0/&gt;uv-&lt;t1/&gt;stabilize.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072133Z" creationid="MAE" creationdate="20140810T072133Z">
+        <seg>測試樣品為紅色 = RAL 3000，紫外線穩定度最差的顏色。</seg>
       </tuv>
     </tu>
     <tu>
