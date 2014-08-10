@@ -11765,6 +11765,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Samples are installed in test equipment and artificial weathered by continuous exposure to radiation and with intervals of wetting (rain) and Dry (sun) with a humidity during the dry interval of 60-80%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052915Z" creationid="MAE" creationdate="20140810T052915Z">
+        <seg>樣品安裝於測試設備上，持續暴露於輻射以及間歇潤濕 (雨天) 與乾燥 (晴天) 交替以人工風化，乾燥時濕度保持在 60-80%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score&lt;t0/&gt;  &lt;t1/&gt;Exposure&lt;t2/&gt;   &lt;t3/&gt; Observation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022328Z" creationid="CCYU" creationdate="20140809T022328Z">
@@ -13505,6 +13513,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143837Z" creationid="CCYU" creationdate="20140809T143837Z">
         <seg>氙弧測試程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test result evaluation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052925Z" creationid="MAE" creationdate="20140810T052925Z">
+        <seg>測試結果評估</seg>
       </tuv>
     </tu>
     <tu>
