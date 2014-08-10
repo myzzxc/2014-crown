@@ -4339,6 +4339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compared with the origin color, the red turned a little bit darker but finally remains the same color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072758Z" creationid="MAE" creationdate="20140810T072758Z">
+        <seg>與原始色彩比較，紅色些許轉暗，但整體仍為相同顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance with the following codes:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
@@ -13914,6 +13922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052925Z" creationid="MAE" creationdate="20140810T052925Z">
         <seg>測試結果評估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test result was A E lab of 4&lt;t2/&gt;,25&lt;t3/&gt; in average.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072619Z" creationid="MAE" creationdate="20140810T072619Z">
+        <seg>測試結果平均為 4,25 ΔE lab。 </seg>
       </tuv>
     </tu>
     <tu>
