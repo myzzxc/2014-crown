@@ -5899,6 +5899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluation of norm criteria for grade results</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060422Z" creationid="MAE" creationdate="20140810T060422Z">
+        <seg>評估結果等級之規範標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaluation of tested samples has been performed under microscope (500 magnifications) for color, surface, microfissures, microcracks and general appearance compared to origin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053324Z" creationid="MAE" creationdate="20140810T053324Z">
