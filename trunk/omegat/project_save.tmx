@@ -4411,6 +4411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Considering with HOECHST and SERVOCAM Laboratory for the evaluation of grade results we concluded following.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060952Z" creationid="MAE" creationdate="20140810T060952Z">
+        <seg>下列為綜合考慮 HOECHST 以及 SERVOCAM 實驗室之評估結果所設定之等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
@@ -6848,6 +6856,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132330Z" creationid="CCYU" creationdate="20140808T132330Z">
         <seg>Glycerol mist 甘油霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grade</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061015Z" creationid="MAE" creationdate="20140810T061015Z">
+        <seg>等級</seg>
       </tuv>
     </tu>
     <tu>
