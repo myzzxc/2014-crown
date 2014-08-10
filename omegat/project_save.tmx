@@ -2106,6 +2106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A little noticeable but not conspicuous</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061623Z" creationid="MAE" creationdate="20140810T061623Z">
+        <seg>有些許裂紋但不明顯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z">
@@ -5947,6 +5955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Excellent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061515Z" creationid="MAE" creationdate="20140810T061515Z">
+        <seg>非常好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z">
@@ -6864,6 +6880,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132330Z" creationid="CCYU" creationdate="20140808T132330Z">
         <seg>Glycerol mist 甘油霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061600Z" creationid="MAE" creationdate="20140810T061600Z">
+        <seg>良好</seg>
       </tuv>
     </tu>
     <tu>
@@ -9398,8 +9422,8 @@
       <tuv lang="EN-US">
         <seg>Norm criteria for Evaluation of&lt;t0/&gt; &lt;t1/&gt;color changes of textiles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061201Z" creationid="MAE" creationdate="20140810T061201Z">
-        <seg>紋理顏色變化評估的規範標準</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061451Z" creationid="MAE" creationdate="20140810T061201Z">
+        <seg>紡織品顏色變化評估的規範標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -9932,6 +9956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PESTEC and Laboratory criteria after 20.000 test hours for evaluation of HDPE pipes for &lt;t0/&gt;exposed use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061439Z" creationid="MAE" creationdate="20140810T061439Z">
+        <seg>PESTEC 與實驗室標準，評估經過曝射 20.000 小時測試後之高密度聚乙烯管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031117Z" creationid="CCYU" creationdate="20140809T031117Z">
@@ -10072,6 +10104,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093414Z" creationid="CCYU" creationdate="20140809T093414Z">
         <seg>Partition coefficient: n-octanol/water 分配係數：正辛醇 / 水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perfectly free</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061534Z" creationid="MAE" creationdate="20140810T061534Z">
+        <seg>完美無裂紋</seg>
       </tuv>
     </tu>
     <tu>
@@ -16225,6 +16265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132136Z" creationid="CCYU" creationdate="20140807T132136Z">
         <seg>particulate 微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>perfect</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061546Z" creationid="MAE" creationdate="20140810T061546Z">
+        <seg>完美</seg>
       </tuv>
     </tu>
     <tu>
