@@ -9188,6 +9188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No micro cracks should be observed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060147Z" creationid="MAE" creationdate="20140810T060147Z">
+        <seg>無觀察到微裂縫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No performance determined (NPD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
@@ -10180,10 +10188,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipes do not show visible microfissures (slight changes in the surface texture) on pipe surface and even very little under microscope (SOO magnifications).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060117Z" creationid="MAE" creationdate="20140810T060117Z">
+        <seg>管材表面無可見的微裂痕 (表面紋理些微改變)，即使於顯微鏡底下觀察之非常小的裂痕 (500 倍放大) 也不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pipes do not visible show color changing or fading either partly or &lt;t0/&gt;circumferencal&lt;t1/&gt; referring to the specified color inspected from a minimum distance of 0&lt;t2/&gt;,3&lt;t3/&gt; meters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T055305Z" creationid="MAE" creationdate="20140810T055106Z">
         <seg>管材相對指定的顏色，由 0,3 公尺以上的距離觀察無可見的顏色變化、或部份褪色、或外圍環狀褪色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pipes keep initial wall thickness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060247Z" creationid="MAE" creationdate="20140810T060247Z">
+        <seg>管壁厚度沒有改變。</seg>
       </tuv>
     </tu>
     <tu>
