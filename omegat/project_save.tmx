@@ -14725,6 +14725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These microfissures are not detectable with the naked eye.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063906Z" creationid="MAE" creationdate="20140810T063906Z">
+        <seg>這些微裂紋以肉眼無法辨識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These notes give you useful additional information on the installation or operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084240Z">
