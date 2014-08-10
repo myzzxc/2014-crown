@@ -1894,10 +1894,19 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Realtime exposure test in a project for 6 years, between 1991 and 1997 &lt;t1/&gt;Performed by HOECHST Laboratory in year 1997</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070231Z" creationid="MAE" creationdate="20140810T070126Z">
+        <seg>於專案中進行 6 年即時曝射測試，測試於 1991 - 1997 年
+由 HOECHST 實驗室於 1997 年執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Realtime exposure test in the project for 6 years Realtime in year 1991-1997</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T135855Z" creationid="CCYU" creationdate="20140809T135855Z">
-        <seg>於專案中進行 6 年即時暴露測試
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070137Z" creationid="CCYU" creationdate="20140809T135855Z">
+        <seg>於專案中進行 6 年即時曝射測試
 即時測試於 1991 - 1997 年</seg>
       </tuv>
     </tu>
@@ -15369,6 +15378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063757Z" creationid="MAE" creationdate="20140810T063757Z">
         <seg>在顯微鏡下觀察 (500 倍放大)，發現最大 100my 深 (最大僅為外層的 10 %) 的微裂紋 (表面紋理些微改變)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under the microscope no microfissures are found and no change of the surface was made out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070326Z" creationid="MAE" creationdate="20140810T070326Z">
+        <seg>顯微鏡下觀察未發現微裂紋，且表面無改變。</seg>
       </tuv>
     </tu>
     <tu>
