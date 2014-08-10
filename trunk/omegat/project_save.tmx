@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Referring to tested XENO test sample)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070843Z" creationid="MAE" creationdate="20140810T070843Z">
+        <seg>(參照經過 XENO 測試之樣品)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(VOCV 814.018 VOC regulation CH)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104625Z" creationid="CCYU" creationdate="20140809T104625Z">
@@ -5864,6 +5872,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015518Z">
         <seg>無龜裂混凝土有效因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either visual no changes of color on the outer layer were made out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070740Z" creationid="MAE" creationdate="20140810T070740Z">
+        <seg>外層色彩視覺上無變化。</seg>
       </tuv>
     </tu>
     <tu>
