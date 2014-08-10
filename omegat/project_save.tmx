@@ -2130,6 +2130,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A reduced mechanical attribute of the pipes cannot be derived from these existing microfissures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064504Z" creationid="MAE" creationdate="20140810T064504Z">
+        <seg>這些微裂紋並不會造成管材機械強度降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z">
@@ -14297,6 +14305,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104524Z">
         <seg>最大錨固標稱直徑為 &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;8&lt;t3/&gt; 英吋 (16 毫米)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mechanical properties might remain at 95% of the initial values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064642Z" creationid="MAE" creationdate="20140810T064642Z">
+        <seg>機械性質應該會保持在初始值的 95% 以上。</seg>
       </tuv>
     </tu>
     <tu>
