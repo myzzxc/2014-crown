@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;Test Results</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062023Z" creationid="MAE" creationdate="20140810T062023Z">
+        <seg>測試結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1  Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T151438Z">
@@ -5631,6 +5639,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054557Z" creationid="MAE" creationdate="20140810T054557Z">
         <seg>1212 版第 3/7 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EDITION 1212 PAGE 4/7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062055Z" creationid="MAE" creationdate="20140810T062055Z">
+        <seg>1212 版第 4/7 頁</seg>
       </tuv>
     </tu>
     <tu>
@@ -13733,6 +13749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test performed according DIN 53387-1-A-X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062215Z" creationid="MAE" creationdate="20140810T062215Z">
+        <seg>測試符合 DIN 53387-1-A-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test procedures of Xenon-Arc tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143837Z" creationid="CCYU" creationdate="20140809T143837Z">
@@ -15733,6 +15757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XENO Test 1200 for 10.000 hours performed by HOECHST Laboratory in year &lt;t0/&gt;1991-1992.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062137Z" creationid="MAE" creationdate="20140810T062137Z">
+        <seg>由 HOECHST 實驗室，於 1991-1992 年執行 10.000 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>XENO test 1200 according ISO 4892.2 or ASTM or DIN 53387</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142733Z" creationid="CCYU" creationdate="20140809T142733Z">
@@ -16025,6 +16057,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061650Z" creationid="MAE" creationdate="20140810T061650Z">
         <seg>極佳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fair</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062009Z" creationid="MAE" creationdate="20140810T062009Z">
+        <seg>普通</seg>
       </tuv>
     </tu>
     <tu>
