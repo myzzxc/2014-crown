@@ -9292,10 +9292,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No micro cracks have been observed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064259Z" creationid="MAE" creationdate="20140810T064259Z">
+        <seg>無觀察到微裂縫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No micro cracks should be observed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T060147Z" creationid="MAE" creationdate="20140810T060147Z">
-        <seg>無觀察到微裂縫。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064332Z" creationid="MAE" creationdate="20140810T060147Z">
+        <seg>應該無觀察到微裂縫。</seg>
       </tuv>
     </tu>
     <tu>
