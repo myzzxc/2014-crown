@@ -8182,8 +8182,8 @@
       <tuv lang="EN-US">
         <seg>It is common to basically use ISO 105 &lt;t0/&gt;A&lt;t1/&gt; 02 a norm for textiles / fabrics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053844Z" creationid="MAE" creationdate="20140810T053844Z">
-        <seg>一般使用 ISO 105 A 02 a 紡織品 / 布料規範</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053857Z" creationid="MAE" creationdate="20140810T053844Z">
+        <seg>一般使用 ISO 105 A02 a 紡織品 / 布料規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -11233,6 +11233,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021811Z" creationid="CCYU" creationdate="20140809T021811Z">
         <seg>Result&lt;t0/&gt; 結果        &lt;t1/&gt;Species&lt;t2/&gt; 物種      &lt;t3/&gt;Dose&lt;t4/&gt;  劑量        &lt;t5/&gt;Exposure 暴露</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results are evaluated in grades.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054023Z" creationid="MAE" creationdate="20140810T054023Z">
+        <seg>評估結果採用分級方式</seg>
       </tuv>
     </tu>
     <tu>
