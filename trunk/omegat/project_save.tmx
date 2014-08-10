@@ -4242,6 +4242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colors according 3.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065917Z" creationid="MAE" creationdate="20140810T065917Z">
+        <seg>色彩依照 3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combined pull-out and concrete cone failure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044402Z" creationid="MAE" creationdate="20140727T043150Z">
@@ -9996,6 +10004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PAGE 5/7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070016Z" creationid="MAE" creationdate="20140810T070016Z">
+        <seg>第 5/7 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PART 1 – GENERAL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044716Z">
@@ -13849,6 +13865,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052925Z" creationid="MAE" creationdate="20140810T052925Z">
         <seg>測試結果評估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test results of different colors attached.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065948Z" creationid="MAE" creationdate="20140810T065948Z">
+        <seg>不同色彩測試結果請參閱附件。</seg>
       </tuv>
     </tu>
     <tu>
