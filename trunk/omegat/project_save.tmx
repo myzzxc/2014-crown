@@ -10877,6 +10877,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAL 3000 red</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065345Z" creationid="MAE" creationdate="20140810T065345Z">
+        <seg>RAL 3000 紅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAL 9002 grey/white</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065407Z" creationid="MAE" creationdate="20140810T065407Z">
+        <seg>RAL 9002 灰 / 白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAL 9003 white</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065359Z" creationid="MAE" creationdate="20140810T065352Z">
+        <seg>RAL 9003 白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAL 9016 white</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065357Z" creationid="MAE" creationdate="20140810T065350Z">
+        <seg>RAL 9016 白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAL 9017 black</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065348Z" creationid="MAE" creationdate="20140810T065348Z">
+        <seg>RAL 9017 黑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REACH Registration number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144437Z" creationid="CCYU" creationdate="20140808T144421Z">
@@ -13773,6 +13813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test performed according DIN 53387.1-A-X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065332Z" creationid="MAE" creationdate="20140810T065332Z">
+        <seg>測試符合 DIN 53387.1-A-X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test procedures of Xenon-Arc tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143837Z" creationid="CCYU" creationdate="20140809T143837Z">
@@ -13785,6 +13833,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052925Z" creationid="MAE" creationdate="20140810T052925Z">
         <seg>測試結果評估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tested colors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065339Z" creationid="MAE" creationdate="20140810T065339Z">
+        <seg>測試之顏色</seg>
       </tuv>
     </tu>
     <tu>
@@ -13993,6 +14049,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035329Z">
         <seg>計算和詳細資料應按計畫進行當地的法規所需，由合格設計專家準備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The conclusion of the test referring to the mentioned test conditions and the used &lt;t0/&gt;stabilisation&lt;t1/&gt; is a fantastic light protection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065244Z" creationid="MAE" creationdate="20140810T065244Z">
+        <seg>根據以上測試條件所得到的測試結論為抗光性穩定度相當優良。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,6 +15889,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142733Z" creationid="CCYU" creationdate="20140809T142733Z">
         <seg>符合 ISO 4892.2 或 ASTM 或 DIN 53387 之 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XENO test 1200 for 20.000 hours performed by Servocam Laboratory between &lt;t0/&gt;1996 and 1999.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065317Z" creationid="MAE" creationdate="20140810T065317Z">
+        <seg>由 SERVOCAM 實驗室，於 1996 至 1999 年間執行 20.000 小時 XENO 測試 1200</seg>
       </tuv>
     </tu>
     <tu>
