@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;Common tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T051533Z" creationid="MAE" creationdate="20140810T051533Z">
+        <seg>通用測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1  Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140620T151438Z">
