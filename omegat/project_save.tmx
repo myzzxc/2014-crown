@@ -10180,6 +10180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pipes do not visible show color changing or fading either partly or &lt;t0/&gt;circumferencal&lt;t1/&gt; referring to the specified color inspected from a minimum distance of 0&lt;t2/&gt;,3&lt;t3/&gt; meters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T055106Z" creationid="MAE" creationdate="20140810T055106Z">
+        <seg>管材無可見的顏色變化，或部份褪色，或外圍環狀褪色&lt;者部分或 &lt;t0/&gt; circumferencal &lt;t1/&gt; 指的指定的顏色從 0 的最小距離檢查 &lt;t2/&gt; 、 3 &lt;t3/&gt; 米。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Piston plug</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T073945Z">
