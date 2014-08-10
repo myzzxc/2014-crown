@@ -13933,6 +13933,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The appearance of the surface is optically unchanged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063155Z" creationid="MAE" creationdate="20140810T063155Z">
+        <seg>表面外觀無變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The appliance is equipped with an anti-over- heating device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z">
@@ -14577,6 +14585,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014318Z">
         <seg>水泥溫度必須高於 50 °F (10°C) 且低於 104°F (40°C) (見表 IV)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tested sample does not show any changes in color / fading of the outer white coat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062937Z" creationid="MAE" creationdate="20140810T062937Z">
+        <seg>測試後樣品外層白色塗層顏色無任何改變 / 褪色。</seg>
       </tuv>
     </tu>
     <tu>
