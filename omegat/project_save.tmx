@@ -2563,6 +2563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All original test reports are deposited at PES.TEC and for confidentiality reasons they can only be reviewed by independent experts and auditors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T073026Z" creationid="MAE" creationdate="20140810T073026Z">
+        <seg>所有原始的測試報告已存放於 PES.TEC，基於保密原因，資料僅能由個別專家與審查員進行審查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All temperature ranges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055236Z" creationid="MAE" creationdate="20140727T055236Z">
@@ -4391,6 +4399,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064313Z" creationid="MAE" creationdate="20140807T064313Z">
         <seg>Concentration 濃度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T073028Z" creationid="MAE" creationdate="20140810T073028Z">
+        <seg>結論</seg>
       </tuv>
     </tu>
     <tu>
@@ -6584,6 +6600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055231Z" creationid="MAE" creationdate="20140727T055231Z">
         <seg>混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details please take a look at our Technical Information TI 96.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072842Z" creationid="MAE" creationdate="20140810T072842Z">
+        <seg>詳細資料請參閱我們的技術資訊 TI 96。</seg>
       </tuv>
     </tu>
     <tu>
