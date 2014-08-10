@@ -5875,6 +5875,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluation of tested samples has been performed under microscope (500 magnifications) for color, surface, microfissures, microcracks and general appearance compared to origin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053324Z" creationid="MAE" creationdate="20140810T053324Z">
+        <seg>測試樣品之評估使用顯微鏡 (500 倍放大) 觀察顏色、表面、微裂痕、微裂縫以及整體外觀，並與原始樣品比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaporation rate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143021Z" creationid="CCYU" creationdate="20140807T143021Z">
@@ -9176,6 +9184,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021314Z" creationid="CCYU" creationdate="20140809T021314Z">
         <seg>No specific data. 無具體資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No specific evaluation norm for HDPE pipes exist.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053445Z" creationid="MAE" creationdate="20140810T053445Z">
+        <seg>高密度聚乙烯管無特定評估規範。</seg>
       </tuv>
     </tu>
     <tu>
