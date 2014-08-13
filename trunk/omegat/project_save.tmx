@@ -14262,6 +14262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The core of our company is an all-natural renewable product that absorbs oil better, faster, and more economically than any other product on the market.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105605Z" creationid="MAE" creationdate="20140813T105549Z">
+        <seg>我們公司的核心產品為一種全天然可再生的產品，比起市場上其他任何產品吸油性更佳、更快且更加經濟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover can be cleaned with a damp cloth or according to the care instructions on the labels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151309Z">
@@ -16184,8 +16192,8 @@
       <tuv lang="EN-US">
         <seg>aveSorb&lt;t0/&gt; is an absorbent and spill control company.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105315Z" creationid="MAE" creationdate="20140813T105139Z">
-        <seg>aveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
+        <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
       </tuv>
     </tu>
     <tu>
