@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;SAVE YOUR MONEY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110031Z" creationid="MAE" creationdate="20140813T110031Z">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;節省您的金錢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0&lt;t0/&gt;0&lt;t1/&gt;Test Results</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062023Z" creationid="MAE" creationdate="20140810T062023Z">
@@ -10021,6 +10029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our goal at &lt;t0/&gt;SaveSorb&lt;t1/&gt; is to know our customers and to serve them in a way that integrates our products with the way they do business.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110018Z" creationid="MAE" creationdate="20140813T105908Z">
+        <seg>&lt;t0/&gt; SaveSorb &lt;t1/&gt;的目標為了解客戶需求，並將我們的產品與客戶的業務整合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
@@ -11762,6 +11778,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143324Z" creationid="CCYU" creationdate="20140808T143324Z">
         <seg>SAFETY DATA SHEET 安全資料表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAVE YOUR TIME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110035Z" creationid="MAE" creationdate="20140813T110035Z">
+        <seg>節省您的時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14082,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That way we both keep our customers happy and keep them as customers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110014Z" creationid="MAE" creationdate="20140813T110014Z">
+        <seg>使客戶滿意並維持良好客戶關係。</seg>
       </tuv>
     </tu>
     <tu>
