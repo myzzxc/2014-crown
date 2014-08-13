@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054542Z" creationid="MAE" creationdate="20140810T054542Z">
         <seg>高密度聚乙烯管評估定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;Overview</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105038Z" creationid="MAE" creationdate="20140813T105038Z">
+        <seg>0&lt;t0/&gt;0&lt;t1/&gt;概述</seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,6 +2235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absorbent and Spill Control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105024Z" creationid="MAE" creationdate="20140813T105024Z">
+        <seg>吸附和洩漏控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accidental release measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084409Z" creationid="CCYU" creationdate="20140809T084217Z">
@@ -3599,6 +3615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
         <seg>謹慎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMPANY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104843Z" creationid="MAE" creationdate="20140813T104843Z">
+        <seg>公司</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,6 +12130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045337Z">
         <seg>決定黏結強度的強度縮減因數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SUMMARY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104854Z" creationid="MAE" creationdate="20140813T104854Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
