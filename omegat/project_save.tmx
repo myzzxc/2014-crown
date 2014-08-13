@@ -2237,8 +2237,8 @@
       <tuv lang="EN-US">
         <seg>Absorbent and Spill Control</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105024Z" creationid="MAE" creationdate="20140813T105024Z">
-        <seg>吸附和洩漏控制</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105255Z" creationid="MAE" creationdate="20140813T105024Z">
+        <seg>吸收劑和洩漏控制</seg>
       </tuv>
     </tu>
     <tu>
@@ -16178,6 +16178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z" creationid="CCYU" creationdate="20140808T131551Z">
         <seg>arks 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>aveSorb&lt;t0/&gt; is an absorbent and spill control company.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105315Z" creationid="MAE" creationdate="20140813T105139Z">
+        <seg>aveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
       </tuv>
     </tu>
     <tu>
