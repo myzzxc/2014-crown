@@ -2547,6 +2547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After-Market Auto &amp; Trucking Large Manufacturing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164836Z" creationid="CCYU" creationdate="20140816T164836Z">
+        <seg>汽車售後市場 &amp; 卡車運輸大型製造業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Algae toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153117Z" creationid="CCYU" creationdate="20140807T153117Z">
@@ -5680,6 +5688,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021629Z">
         <seg>唯有符合附件 B 之用途規範才可視為合格的耐久性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E OUR END USERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164736Z" creationid="CCYU" creationdate="20140816T164736Z">
+        <seg>我們的使用者</seg>
       </tuv>
     </tu>
     <tu>
@@ -11002,6 +11018,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115619Z" creationid="CCYU" creationdate="20140807T115619Z">
         <seg>Provide good ventilation of working area (local exhaust ventilation, if necessary). 於工作區提供良好通風 (若有需要則使用局部通風)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public Works</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164840Z" creationid="CCYU" creationdate="20140816T164840Z">
+        <seg>公共工程</seg>
       </tuv>
     </tu>
     <tu>
@@ -17989,6 +18013,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163748Z" creationid="CCYU" creationdate="20140816T163748Z">
         <seg> 加工產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Spill Kits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164558Z" creationid="CCYU" creationdate="20140816T164558Z">
+        <seg> 洩漏處理工具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;We provide a multitude of specially designed spill kits to meet the needs of various industries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164700Z" creationid="CCYU" creationdate="20140816T164700Z">
+        <seg> 我們提供多種專門設計之洩漏處理工具組，以滿足各行各業的需求。</seg>
       </tuv>
     </tu>
     <tu>
