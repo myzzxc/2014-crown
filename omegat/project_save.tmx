@@ -12086,6 +12086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SELL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163442Z" creationid="CCYU" creationdate="20140816T163442Z">
+        <seg>銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SINGAPORE 738960</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115025Z">
@@ -17945,10 +17953,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Loose Absorbent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163610Z" creationid="CCYU" creationdate="20140816T163610Z">
+        <seg> 散裝吸收劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;&lt;t1/&gt;We save the environment by providing a green product that doesn’t just pick up oil, but encapsulates it and locks it away until that oil can be broken down into safer elements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163037Z" creationid="CCYU" creationdate="20140816T163037Z">
-        <seg>我們&lt;t0/&gt;&lt;t1/&gt;We save the environment by providing a green product that doesn’t just pick up oil, but encapsulates it and locks it away until that oil can be broken down into safer elements.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163342Z" creationid="CCYU" creationdate="20140816T163037Z">
+        <seg> 我們提供的環保產品不僅能吸附油污，也能封鎖住油污直到其分解成較安全的元素以保護環境。</seg>
       </tuv>
     </tu>
     <tu>
