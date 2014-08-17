@@ -8877,6 +8877,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes them appear clean and dry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071127Z" creationid="CCYU" creationdate="20140817T071115Z">
+        <seg>以保清潔及乾燥，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufacturer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084334Z">
@@ -9585,6 +9593,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110821Z" creationid="CCYU" creationdate="20140809T110821Z">
         <seg>No flash point up to 200 °C 200°C 以下未達閃火點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No free oil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071141Z" creationid="CCYU" creationdate="20140817T071141Z">
+        <seg>無外溢油污，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15400,8 +15416,8 @@
       <tuv lang="EN-US">
         <seg>They need our &lt;t0/&gt;Spillows&lt;t1/&gt; (&lt;t2/&gt;ands&lt;t3/&gt; sometimes pillows) inside their drip pans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070850Z" creationid="CCYU" creationdate="20140817T070850Z">
-        <seg>他們需要我們的洩漏吸收 (Spillows)&lt;t1/&gt; (&lt;t2/&gt;ands&lt;t3/&gt; sometimes pillows) inside their drip pans.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071044Z" creationid="CCYU" creationdate="20140817T070850Z">
+        <seg>他們需要我們的洩漏吸收枕 (Spillows) (以及枕墊) 置於滴水盤中，</seg>
       </tuv>
     </tu>
     <tu>
