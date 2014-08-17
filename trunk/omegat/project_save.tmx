@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;At fueling stations to catch spilled fuel.&lt;t1/&gt; In some of the catch basins that are designed to capture grease and lubricant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141516Z" creationid="CCYU" creationdate="20140817T141516Z">
+        <seg>於加油站吸附外溢燃料。某些集油槽設計用於收集潤滑脂和潤滑劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Carcinogenicity&lt;t1/&gt; &lt;t2/&gt;Not available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023051Z" creationid="CCYU" creationdate="20140809T023051Z">
@@ -2117,6 +2125,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102023Z" creationid="CCYU" creationdate="20140817T102014Z">
         <seg>專注在你能針對他們的需求客製化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;In the shops where parts are broken down and serviced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141610Z" creationid="CCYU" creationdate="20140817T141610Z">
+        <seg>用於損壞零件的維修廠房。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17578,6 +17594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070326Z" creationid="MAE" creationdate="20140810T070326Z">
         <seg>顯微鏡下觀察未發現微裂紋，且表面無改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under the train when it is being serviced to catch oil and fuel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141322Z" creationid="CCYU" creationdate="20140817T141322Z">
+        <seg>火車維修時置於底部以吸附油污和燃料。</seg>
       </tuv>
     </tu>
     <tu>
