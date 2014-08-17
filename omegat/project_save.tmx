@@ -7845,6 +7845,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it’s not stored in a tank farm, it will be stored in drums.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100854Z" creationid="CCYU" creationdate="20140817T100854Z">
+        <seg>若存放於油罐區，將會存於油桶內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013335Z" creationid="CCYU" creationdate="20140808T150640Z">
@@ -15962,6 +15970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101039Z" creationid="CCYU" creationdate="20140809T101039Z">
         <seg>These can be requested from the manufacturer. 可向製造商索取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These drums may be on top of containment pallets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100956Z" creationid="CCYU" creationdate="20140817T100956Z">
+        <seg>這些油桶可能放於托盤上，</seg>
       </tuv>
     </tu>
     <tu>
