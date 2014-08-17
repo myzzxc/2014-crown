@@ -9285,6 +9285,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loose Absorbent - &lt;t0/&gt;The trucking and heavy machinery industry is used to loose product and is hard to change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123130Z" creationid="CCYU" creationdate="20140817T123130Z">
+        <seg>散裝吸收劑 - &lt;t0/&gt;貨運及重型機械行業慣用散裝吸收劑且難以改變，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lot number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
@@ -16912,8 +16920,8 @@
       <tuv lang="EN-US">
         <seg>USES</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133216Z">
-        <seg>使用</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123013Z">
+        <seg>用途</seg>
       </tuv>
     </tu>
     <tu>
@@ -16994,6 +17002,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114141Z" creationid="CCYU" creationdate="20140817T114141Z">
         <seg>用途：地板罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123018Z" creationid="CCYU" creationdate="20140817T123018Z">
+        <seg>用途：</seg>
       </tuv>
     </tu>
     <tu>
