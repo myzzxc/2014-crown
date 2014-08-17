@@ -10093,6 +10093,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our pads and mats are the most effective tool for pulling oil and fuel spills off open water, absorbing quickly and completely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061450Z" creationid="CCYU" creationdate="20140817T061450Z">
+        <seg>我們的吸收墊和吸收毯為清除洩漏於水中之油污和燃料最有效工具，能快速且完全吸收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output:&lt;t0/&gt; &lt;t1/&gt;12,0 V = ; 1200&lt;t2/&gt; &lt;t3/&gt;mA Dimensions&lt;t4/&gt; &lt;t5/&gt;: appr.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073319Z">
@@ -16222,6 +16230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where oil and water mix, &lt;t3/&gt;SaveSorb&lt;t4/&gt; will separate the oil from the water, lock it up, and not leach it back into the water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061301Z" creationid="CCYU" creationdate="20140817T061301Z">
+        <seg>當油和水混合時，&lt;t3/&gt; SaveSorb &lt;t4/&gt; 將油從水中分離並封鎖住，不外滲回到水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where values are nonconforming or unstated, the steel must be considered brittle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
@@ -18149,6 +18165,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T054111Z" creationid="CCYU" creationdate="20140817T054111Z">
         <seg> Pig 系列產品 (聚丙烯墊)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Product Design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061456Z" creationid="CCYU" creationdate="20140817T061456Z">
+        <seg> 產品設計</seg>
       </tuv>
     </tu>
     <tu>
