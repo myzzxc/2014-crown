@@ -4427,6 +4427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Companies that are processing meat (&lt;t0/&gt;eg&lt;t1/&gt;.&lt;t2/&gt; &lt;t3/&gt;Smithfield Foods, Tyson, &lt;t4/&gt;etc&lt;t5/&gt;).&lt;t6/&gt; They often have heavy duty hydraulic machinery that constantly leaks and can&lt;t7/&gt;’&lt;t8/&gt;t be taken offline.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T065825Z" creationid="CCYU" creationdate="20140817T065825Z">
+        <seg>肉品處理公司 (如史密斯菲爾德食品 (Smithfield Food) 、泰森食品 (Tyson) 等)，他們通常有重型液壓機械，經常洩漏且不能停機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Company Name</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144230Z" creationid="CCYU" creationdate="20140808T144230Z">
