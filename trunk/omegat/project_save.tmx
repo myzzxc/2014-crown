@@ -3419,6 +3419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because&lt;t0/&gt; &lt;t1/&gt;SaveSorb&lt;t2/&gt; completely encapsulates the hydrocarbons until they naturally bio remediate, it protects the environment from negative effects of an oil, fuel or chemical spill.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055849Z" creationid="CCYU" creationdate="20140817T055849Z">
+        <seg>因為&lt;t0/&gt; &lt;t1/&gt;SaveSorb&lt;t2/&gt; 完全地封住碳氫化合物直到其自然生物分解，能保護環境免於油污、燃料或化學洩漏物的衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before cleaning the foot warmer, always disconnect the plug from the mains and allow it to cool down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150717Z">
@@ -18093,6 +18101,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163748Z" creationid="CCYU" creationdate="20140816T163748Z">
         <seg> 加工產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Non-Leaching</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055926Z" creationid="CCYU" creationdate="20140817T055926Z">
+        <seg> 不外漏</seg>
       </tuv>
     </tu>
     <tu>
