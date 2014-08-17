@@ -4668,6 +4668,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Containment areas and Oil-Water Mixtures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071748Z" creationid="CCYU" creationdate="20140817T071748Z">
+        <seg>管控區域與油水混合物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contains no dangerous substances exceeding the limits of the EU-Regulation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082638Z" creationid="CCYU" creationdate="20140809T082638Z">
@@ -4854,8 +4862,8 @@
       <tuv lang="EN-US">
         <seg>D PROCESSING &lt;t0/&gt;–</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070207Z" creationid="CCYU" creationdate="20140817T070207Z">
-        <seg>處理 –</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071819Z" creationid="CCYU" creationdate="20140817T070207Z">
+        <seg>食品處理 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -8005,6 +8013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some situations, the &lt;t4/&gt;Spillow&lt;t5/&gt; can replace the drip pan altogether.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071546Z" creationid="CCYU" creationdate="20140817T071546Z">
+        <seg>在某些情況下，洩漏吸收枕 (Spillow) 可以與滴水盤同時更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, anchor strength must be adjusted in accordance with Section 4.1.11 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081420Z">
@@ -8753,6 +8769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065650Z" creationid="CCYU" creationdate="20140809T135518Z">
         <seg>由 SERVOCAM 實驗室，於 1996 至 1999 年間執行 20.000 小時實驗室 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large Hydraulic Machines</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071611Z" creationid="CCYU" creationdate="20140817T071611Z">
+        <seg>大型液壓機台</seg>
       </tuv>
     </tu>
     <tu>
@@ -9961,6 +9985,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101623Z">
         <seg>螺母必須具有指定保證負荷應力，等於或大於指定螺紋柱的最小拉伸強度。&lt;t7/&gt;5&lt;t8/&gt;碳鋼和合金鋼外螺紋公制緊固件的標準規格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OD PROCESSING &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071816Z" creationid="CCYU" creationdate="20140817T071816Z">
+        <seg>食品處理 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tank Farms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071642Z" creationid="CCYU" creationdate="20140817T071642Z">
+        <seg>油罐區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical Assessment Body issuing the &lt;t0/&gt;European Technical Assessment:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101001Z">
@@ -16426,6 +16466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073342Z">
         <seg>重量：約 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What to Look for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071604Z" creationid="CCYU" creationdate="20140817T071604Z">
+        <seg>目標：</seg>
       </tuv>
     </tu>
     <tu>
