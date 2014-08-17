@@ -1992,6 +1992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Usually diesel, hydraulic oil, lubricant, etc.&lt;t1/&gt; The farms are usually on raised areas with a catch basin of some sort under them or are in a containment area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081958Z" creationid="CCYU" creationdate="20140817T081958Z">
+        <seg>通常是柴油、液壓油、潤滑劑等。油罐區通常位於架高的區域並有集油盆位於下方，或位於密閉區域中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;2&lt;t2/&gt;For use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2, as set forth in ACI 318 D.4.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021820Z">
@@ -16274,6 +16282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070913Z" creationid="CCYU" creationdate="20140817T070252Z">
         <seg>用途：洩漏吸收枕 (SPILLOWS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES: WASTE OIL AREA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082016Z" creationid="CCYU" creationdate="20140817T082009Z">
+        <seg>用途： 廢油區</seg>
       </tuv>
     </tu>
     <tu>
