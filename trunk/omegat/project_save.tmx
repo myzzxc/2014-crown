@@ -1992,6 +1992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Usually clay products.&lt;t1/&gt; Utilizing our two-drum system, they can handle small spills easier and have enough spill capacity for larger spills.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102649Z" creationid="CCYU" creationdate="20140817T102649Z">
+        <seg>通常是黏土製品，使用我的的雙桶系統，他們可以更輕鬆的處理小量洩漏並有足夠的洩漏處理能力以應付大量洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Usually diesel, hydraulic oil, lubricant, etc.&lt;t1/&gt; The farms are usually on raised areas with a catch basin of some sort under them or are in a containment area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081958Z" creationid="CCYU" creationdate="20140817T081958Z">
@@ -2671,6 +2679,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T084710Z" creationid="CCYU" creationdate="20140817T084710Z">
         <seg>此類廠房周圍皆放有 55 加侖桶，用來供應小量油品、燃料、或化學品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of these shops will have loose product on hand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102446Z" creationid="CCYU" creationdate="20140817T102446Z">
+        <seg>此類機械廠皆備有散裝產品，</seg>
       </tuv>
     </tu>
     <tu>
