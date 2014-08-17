@@ -2137,6 +2137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;This make&lt;t3/&gt; it difficult for our product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124217Z" creationid="CCYU" creationdate="20140817T124217Z">
+        <seg>這會讓我們的產品使用困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
@@ -13822,6 +13830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spillows&lt;t0/&gt;, Mats &amp; Berms - &lt;t1/&gt;One issue that can be problematic in open truck bays is the amount of wind that can tunnel through.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124151Z" creationid="CCYU" creationdate="20140817T124151Z">
+        <seg>洩漏吸收枕、墊 &amp; 護邊 - 開放式卡車棚的一大問題是吹過的風量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Splitting failure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044317Z" creationid="MAE" creationdate="20140727T044317Z">
@@ -15522,6 +15538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021035Z">
         <seg>鑽鑿之孔洞必須使用壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次、由孔洞內部向外刷淨兩次 (徒手) 後再以壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easiest solution is to convert them over to using mats and &lt;t4/&gt;spillows&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124238Z" creationid="CCYU" creationdate="20140817T124238Z">
+        <seg>最簡單的解決方法The easiest solution is to convert them over to using mats and &lt;t4/&gt;spillows&lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
