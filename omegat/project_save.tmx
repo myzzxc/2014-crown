@@ -2219,6 +2219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A spill there could be massive and could stop production.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090811Z" creationid="CCYU" creationdate="20140817T090752Z">
+        <seg>可能大規模洩漏並使生產停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A tank farm is the area where they keep totes filled with their normal chemicals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081701Z" creationid="CCYU" creationdate="20140817T081701Z">
@@ -15722,6 +15730,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054100Z">
         <seg>並於使用至少關閉裝置半小時以冷卻裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are certain areas in every plant where either large &lt;t0/&gt;releases&lt;t1/&gt; have happened before or where a large amount of oil is contained (generators rooms, hydraulic pumps, fuel transfer areas, processing lines using hydraulic equipment).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090755Z" creationid="CCYU" creationdate="20140817T090716Z">
+        <seg>每間廠房皆有特定的區域發生過大量洩漏或含有大量油品 (發電機房、液壓泵、燃料輸送區、使用液壓設備之產線)，</seg>
       </tuv>
     </tu>
     <tu>
