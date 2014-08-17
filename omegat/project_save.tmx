@@ -2259,6 +2259,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A puncture in a small bag can cause a mess in a cab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125730Z" creationid="CCYU" creationdate="20140817T125730Z">
+        <seg>小袋穿刺破裂會導致車廂內一片混亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reduced mechanical attribute of the pipes cannot be derived from these existing microfissures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064504Z" creationid="MAE" creationdate="20140810T064504Z">
@@ -6500,6 +6508,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if they just wanted to buy small bags, we would recommend that the come in a heavier plastic bag container.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125629Z" creationid="CCYU" creationdate="20140817T125629Z">
+        <seg>即使他們只是想買小袋裝產品，我們會建議使用較厚的塑膠袋盛裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excellent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061515Z" creationid="MAE" creationdate="20140810T061515Z">
@@ -7877,6 +7893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am not including tanker truck fleets or oil/fuel transport trucks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125846Z" creationid="CCYU" creationdate="20140817T125846Z">
+        <seg>不包括油罐車隊或油品 / 燃油運輸卡車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I: - &lt;t0/&gt;40 °C to +40 °C (max long term temperature +24 °C and max short term temperature +40 °C)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133846Z">
@@ -9129,6 +9153,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080704Z" creationid="CCYU" creationdate="20140817T080704Z">
         <seg>其為手動系統且經常洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K FLEETS –</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125849Z" creationid="CCYU" creationdate="20140817T125849Z">
+        <seg>卡車車隊 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -16578,6 +16610,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125107Z" creationid="CCYU" creationdate="20140817T125107Z">
         <seg>此類別包括擁有自己的卡車車隊、以及那些僅提供外部維修的公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes corporate fleets, rental fleets and general trucking companies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125755Z" creationid="CCYU" creationdate="20140817T125755Z">
+        <seg>此類別包括企業車隊、租賃車隊和一般的卡車運輸公司。</seg>
       </tuv>
     </tu>
     <tu>
