@@ -3523,6 +3523,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berms should be used to surround the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083054Z" creationid="CCYU" creationdate="20140817T083054Z">
+        <seg>吸收護邊應用於圍繞機台，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z" creationid="CCYU" creationdate="20140808T134611Z">
@@ -15878,6 +15886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is usually in areas where they have smaller machines that use hydraulic oil or to surround pumps or generators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083018Z" creationid="CCYU" creationdate="20140817T083018Z">
+        <seg>此產品通常用於使用液壓油的小型機台區域或環繞泵或發電機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product does not meet the classification and &lt;t0/&gt;labelling&lt;t1/&gt; criteria given in the Dangerous Preparations Directive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063749Z" creationid="MAE" creationdate="20140807T063722Z">
@@ -16280,8 +16296,8 @@
       <tuv lang="EN-US">
         <seg>USES: BERMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082730Z" creationid="CCYU" creationdate="20140817T082730Z">
-        <seg>用途：護邊</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082805Z" creationid="CCYU" creationdate="20140817T082730Z">
+        <seg>用途：吸收護邊</seg>
       </tuv>
     </tu>
     <tu>
