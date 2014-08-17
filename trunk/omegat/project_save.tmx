@@ -2733,8 +2733,8 @@
       <tuv lang="EN-US">
         <seg>All operators and buyers in this industry are worried (rightfully so) about their service guys over using the product.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123435Z" creationid="CCYU" creationdate="20140817T123435Z">
-        <seg>在這個行業中所有運營商和買家都關心 (理應如此) 他們的維修人員使用該產品，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123815Z" creationid="CCYU" creationdate="20140817T123435Z">
+        <seg>此行業中所有運營商和買家都關心 (理應如此) 他們的維修人員使用該產品，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9241,6 +9241,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
         <seg>Legal entity 法人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letting them know that they can use it again is also a big selling point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123854Z" creationid="CCYU" creationdate="20140817T123854Z">
+        <seg>讓他們知道產品可以再次使用也是一大賣點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16560,8 +16568,8 @@
       <tuv lang="EN-US">
         <seg>This is where the two drum system will work wonders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123528Z" creationid="CCYU" creationdate="20140817T123528Z">
-        <seg>此為雙桶系統能發揮效用之處。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123856Z" creationid="CCYU" creationdate="20140817T123528Z">
+        <seg>此為雙桶系統能發揮效用之處，</seg>
       </tuv>
     </tu>
     <tu>
