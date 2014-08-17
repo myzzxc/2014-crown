@@ -5276,6 +5276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Designing a mat system that will lie under these machines will keep the area clean.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080252Z" creationid="CCYU" creationdate="20140817T080252Z">
+        <seg>設計一個置於此類機台下方的吸收墊系統將保持區域清潔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details of the supplier of the safety data sheet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063038Z" creationid="MAE" creationdate="20140807T054636Z">
@@ -7169,6 +7177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T050748Z">
         <seg>總論：&lt;t0/&gt;2009、2006 和 2003 IBC，以及 2009、2006 和 2003 IRC 的錨固設計強度必須根據 ACI 318-11 (ACI 318) 和本報告決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generators and compressors leak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080209Z" creationid="CCYU" creationdate="20140817T080209Z">
+        <seg>發電機與壓縮機洩漏，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,6 +16182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USES :&lt;t0/&gt; GENERATOR &amp; COMPRESSOR ROOMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080153Z" creationid="CCYU" creationdate="20140817T080153Z">
+        <seg>用途：發電機 &amp; 壓縮機室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>USES: LOOSE ABSORBENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063244Z" creationid="CCYU" creationdate="20140817T063244Z">
@@ -16346,6 +16370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151342Z">
         <seg>僅可使用無溶劑之清潔劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a mat and berm system to catch any leaks and to contain any releases is good safety protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080134Z" creationid="CCYU" creationdate="20140817T080127Z">
+        <seg>使用吸收墊和護邊系統以吸附所有洩漏並鎖住不外漏為良好的安全方案。</seg>
       </tuv>
     </tu>
     <tu>
