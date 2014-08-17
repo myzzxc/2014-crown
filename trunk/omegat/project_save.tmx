@@ -9103,8 +9103,8 @@
       <tuv lang="EN-US">
         <seg>Larger spills for these guys usually come in one of two forms; a forklift blows a hydraulic line (3-8 gallons come out quickly) or a forklift punctures a drum or other container.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102936Z" creationid="CCYU" creationdate="20140817T102936Z">
-        <seg>大量洩漏通常有兩種形式；叉動車撞擊液壓管線 (3-8 加侖迅速外洩) 或叉動車刺穿油桶或其他容器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T103145Z" creationid="CCYU" creationdate="20140817T102936Z">
+        <seg>大量洩漏通常有兩種形式；叉動車液壓管線爆裂 (3-8 加侖迅速外洩) 或叉動車刺穿油桶或其他容器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16726,6 +16726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USES :&lt;t0/&gt; FORKLIFT SPILL KIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T103201Z" creationid="CCYU" creationdate="20140817T103201Z">
+        <seg>用途：叉動車洩漏處理工具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>USES :&lt;t0/&gt; GENERATOR &amp; COMPRESSOR ROOMS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080153Z" creationid="CCYU" creationdate="20140817T080153Z">
@@ -17370,6 +17378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T095104Z" creationid="CCYU" creationdate="20140817T095104Z">
         <seg>目標：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What to look for: Forklifts, loading docks where water accumulates, 55 gallon drums and totes being stored or transported.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T103115Z" creationid="CCYU" creationdate="20140817T103115Z">
+        <seg>目標：叉動車、積水的裝載碼頭、55 加侖桶和儲存或運送的手提桶。</seg>
       </tuv>
     </tu>
     <tu>
