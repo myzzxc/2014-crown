@@ -4429,8 +4429,8 @@
       <tuv lang="EN-US">
         <seg>Companies that are processing meat (&lt;t0/&gt;eg&lt;t1/&gt;.&lt;t2/&gt; &lt;t3/&gt;Smithfield Foods, Tyson, &lt;t4/&gt;etc&lt;t5/&gt;).&lt;t6/&gt; They often have heavy duty hydraulic machinery that constantly leaks and can&lt;t7/&gt;’&lt;t8/&gt;t be taken offline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T065825Z" creationid="CCYU" creationdate="20140817T065825Z">
-        <seg>肉品處理公司 (如史密斯菲爾德食品 (Smithfield Food) 、泰森食品 (Tyson) 等)，他們通常有重型液壓機械，經常洩漏且不能停機。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070421Z" creationid="CCYU" creationdate="20140817T065825Z">
+        <seg>肉品處理公司 (如史密斯菲爾德食品 (Smithfield Food) 、泰森食品 (Tyson) 等)，他們通常有重型液壓機台，經常洩漏且不能停機。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16490,6 +16490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044141Z" creationid="MAE" creationdate="20140808T044141Z">
         <seg>With regard to possibly appropriate decomposition products see Chapter 10. 關於相對應之可能分解產物請見第 10 章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the multitude of machinery they have (compressors, generators, hydraulic pumps, there are going to be plenty of small but regular leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070603Z" creationid="CCYU" creationdate="20140817T070418Z">
+        <seg>他們有各式機台 (壓縮機、發電機、液壓泵)，必定會有許多經常性的小範圍洩漏，</seg>
       </tuv>
     </tu>
     <tu>
