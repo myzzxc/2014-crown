@@ -2177,6 +2177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;Spillows&lt;t7/&gt; can be used to wipe up any smaller spills.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124513Z" creationid="CCYU" creationdate="20140817T124513Z">
+        <seg>洩漏吸收枕可用於擦淨小量洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>= diameter of clearance hole in the fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123458Z">
@@ -9581,6 +9589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mats can be used when servicing trucks and can be used over and over again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124429Z" creationid="CCYU" creationdate="20140817T124429Z">
+        <seg>吸收墊可用於卡車維修且能重複使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015231Z">
@@ -15544,8 +15560,8 @@
       <tuv lang="EN-US">
         <seg>The easiest solution is to convert them over to using mats and &lt;t4/&gt;spillows&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124238Z" creationid="CCYU" creationdate="20140817T124238Z">
-        <seg>最簡單的解決方法The easiest solution is to convert them over to using mats and &lt;t4/&gt;spillows&lt;t5/&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124350Z" creationid="CCYU" creationdate="20140817T124238Z">
+        <seg>最簡單的解決方法是改用吸收墊和洩漏吸收枕。</seg>
       </tuv>
     </tu>
     <tu>
