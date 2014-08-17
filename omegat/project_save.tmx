@@ -2243,6 +2243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A spill that goes under pallets or under a rack system can be hours to clean up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113501Z" creationid="CCYU" creationdate="20140817T113501Z">
+        <seg>外漏的油污進入托盤或機架系統可能需要數小時來清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A spill there could be massive and could stop production.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090811Z" creationid="CCYU" creationdate="20140817T090752Z">
@@ -16762,6 +16770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091151Z" creationid="CCYU" creationdate="20140817T091151Z">
         <seg>用途：散裝吸收劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES :&lt;t0/&gt; SPILL KITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113506Z" creationid="CCYU" creationdate="20140817T113506Z">
+        <seg>用途：洩漏處理工具組</seg>
       </tuv>
     </tu>
     <tu>
