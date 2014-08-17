@@ -8613,6 +8613,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing a mat system that acts as a floor in the waste oil area will eliminate the oily floors and catch the large amount of oil that misses the waste oil basin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082421Z" creationid="CCYU" creationdate="20140817T082421Z">
+        <seg>於廢油區安裝吸收墊系統作為地板避免地板油膩並吸收大量未倒入油桶的廢油。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intended Use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053914Z">
@@ -16474,6 +16482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065953Z">
         <seg>過度使用可能造成過度刺激肌肉並產生緊繃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usually the dirtiest place in the whole factory.&lt;t0/&gt; This is a perfect way to show what &lt;t1/&gt;SaveSorb&lt;t2/&gt; can do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082154Z" creationid="CCYU" creationdate="20140817T082154Z">
+        <seg>通常是廠房最髒的區域，為展現 SaveSorb 性能的絕佳地點。</seg>
       </tuv>
     </tu>
     <tu>
