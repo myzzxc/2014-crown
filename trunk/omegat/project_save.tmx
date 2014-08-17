@@ -1976,6 +1976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Simple kit with a &lt;t1/&gt;Spillow&lt;t2/&gt; sock and a small bag.&lt;t3/&gt; The pitch is that it will allow the lift operator to contain the spill quickly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113314Z" creationid="CCYU" creationdate="20140817T113314Z">
+        <seg>簡單的工具組幫包含洩漏吸收枕襪套與一個小袋，如此可讓叉動車駕駛迅速吸收洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The following is excluded under&lt;t1/&gt; &lt;t2/&gt;the warranty:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074800Z">
@@ -10553,6 +10561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z" creationid="CCYU" creationdate="20140817T060248Z">
         <seg>一旦吸收物被吸附後，將一直封裝在吸收劑內直到其分解為對環境無害的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One idea that can appeal to many forklift fleets is a small spill kit that goes on each lift.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113118Z" creationid="CCYU" creationdate="20140817T113118Z">
+        <seg>可以建議叉動車隊的每台車配有一組小型洩漏處理工具組，</seg>
       </tuv>
     </tu>
     <tu>
