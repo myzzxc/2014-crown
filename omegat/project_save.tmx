@@ -3373,8 +3373,8 @@
       <tuv lang="EN-US">
         <seg>BERMS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074726Z" creationid="CCYU" creationdate="20140817T074726Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082758Z" creationid="CCYU" creationdate="20140817T074726Z">
+        <seg>吸收護邊</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,6 +16278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>USES: BERMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082730Z" creationid="CCYU" creationdate="20140817T082730Z">
+        <seg>用途：護邊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>USES: LOOSE ABSORBENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063244Z" creationid="CCYU" creationdate="20140817T063244Z">
@@ -16738,6 +16746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131515Z">
         <seg>墊圈，EN ISO 887:2006、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waste Oil Area is the place where all the waste oil (drained from machines or from drip pans) is taken and dumped into a tank or drum for later disposal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082717Z" creationid="CCYU" creationdate="20140817T082717Z">
+        <seg>廢油區為將廢油 (機台排出或來自滴油盤) 倒入油槽或油桶以待後續處理的區域。</seg>
       </tuv>
     </tu>
     <tu>
