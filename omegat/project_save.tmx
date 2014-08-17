@@ -2211,6 +2211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A tank farm is the area where they keep totes filled with their normal chemicals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081701Z" creationid="CCYU" creationdate="20140817T081701Z">
+        <seg>油罐區為填充一般化學品的區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z">
