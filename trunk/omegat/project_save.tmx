@@ -14246,6 +14246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tank farms are perfect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080428Z" creationid="CCYU" creationdate="20140817T080428Z">
+        <seg>我們的產品對於油罐區是完美的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical Assessment Body issuing the &lt;t0/&gt;European Technical Assessment:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101001Z">
@@ -15654,6 +15662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are usually outside so &lt;t0/&gt;they are exposed to rain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080508Z" creationid="CCYU" creationdate="20140817T080508Z">
+        <seg>油罐區通常位於外面因此會淋雨，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They have areas where they are constantly having small spills.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063534Z" creationid="CCYU" creationdate="20140817T063534Z">
@@ -16170,6 +16186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072444Z" creationid="CCYU" creationdate="20140817T072444Z">
         <seg>用途：大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES : TANK FARM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080306Z" creationid="CCYU" creationdate="20140817T080306Z">
+        <seg>用途： 油罐區</seg>
       </tuv>
     </tu>
     <tu>
