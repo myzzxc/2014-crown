@@ -3539,6 +3539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berms should be used around the machines to make sure leaks don’t move into the walkway and cause a hazard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093425Z" creationid="CCYU" creationdate="20140817T093425Z">
+        <seg>機台週邊應使用吸收護邊以確保洩漏物不會濺射至走道而造成危險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berms should be used to surround the machine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083054Z" creationid="CCYU" creationdate="20140817T083054Z">
@@ -9281,6 +9289,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z">
         <seg>材料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mats can be used under the machines or in the area where the operator stands.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093509Z" creationid="CCYU" creationdate="20140817T093509Z">
+        <seg>吸收墊可用於機台下方或操作員站立處，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16098,6 +16114,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z">
         <seg>本使用說明書屬於此裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an ideal situation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093614Z" creationid="CCYU" creationdate="20140817T093523Z">
+        <seg>這是最理想的情況，</seg>
       </tuv>
     </tu>
     <tu>
