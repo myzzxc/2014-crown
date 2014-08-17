@@ -6140,6 +6140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Employees come to the tanks fill smaller containers with oil, chemicals, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080639Z" creationid="CCYU" creationdate="20140817T080639Z">
+        <seg>員工於油罐區以小型容器裝油、化學物品等，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy economy and heat retention (BWR 6&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123455Z">
@@ -8729,6 +8737,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093940Z">
         <seg>隨機附件及包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a manual system and constantly leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080704Z" creationid="CCYU" creationdate="20140817T080704Z">
+        <seg>其為手動系統且經常洩漏。</seg>
       </tuv>
     </tu>
     <tu>
