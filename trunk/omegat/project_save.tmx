@@ -10597,6 +10597,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not many trucking accidents leave less than a gallon of fluid on the ground.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T132145Z" creationid="CCYU" creationdate="20140817T132145Z">
+        <seg>很少卡車車禍的洩漏液體少於一加侖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not only does this render the warranty null and void but you can also run the risk of serious hazards (fire, electric shock, injury).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T041950Z">
@@ -11761,6 +11769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131126Z" creationid="CCYU" creationdate="20140817T131126Z">
         <seg>只要能避免一次的洩漏事件便可抵銷洩漏處理工具組的成本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Price to Capacity Ratio &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T132215Z" creationid="CCYU" creationdate="20140817T132215Z">
+        <seg>價格與吸收量比 –</seg>
       </tuv>
     </tu>
     <tu>
