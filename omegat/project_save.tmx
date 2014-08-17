@@ -9949,6 +9949,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once they are locked in, they are there until they are broken down into environmentally friendly elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z" creationid="CCYU" creationdate="20140817T060248Z">
+        <seg>一旦吸收物被吸附後，將一直封裝在吸收劑內直到其分解為對環境無害的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only have repairs carried out by &lt;t2/&gt;authorized&lt;t3/&gt; service points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075950Z">
@@ -16142,6 +16150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What&lt;t0/&gt; really sets us apart from all other absorbents is that we do not leach absorbed oil and chemicals back into the environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060055Z" creationid="CCYU" creationdate="20140817T060055Z">
+        <seg>我們與其他吸收劑最大的不同點在於，我們的產品所吸收之油污與化合物不會外漏至環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When picked up, treat material as prescribed under heading "Disposal considerations".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100002Z" creationid="MAE" creationdate="20140807T100002Z">
@@ -18069,6 +18085,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055407Z" creationid="CCYU" creationdate="20140817T055407Z">
         <seg> 環保</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Hydrophobic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060302Z" creationid="CCYU" creationdate="20140817T060302Z">
+        <seg> 疏水性</seg>
       </tuv>
     </tu>
     <tu>
