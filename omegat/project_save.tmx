@@ -10911,8 +10911,8 @@
       <tuv lang="EN-US">
         <seg>Probably 30g or 55g drums.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063421Z" creationid="CCYU" creationdate="20140817T063421Z">
-        <seg>有 30g 或 55g 桶裝。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063536Z" creationid="CCYU" creationdate="20140817T063421Z">
+        <seg>有 30g 或 55g 桶裝，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,6 +15310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They have areas where they are constantly having small spills.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063534Z" creationid="CCYU" creationdate="20140817T063534Z">
+        <seg>用於經常有些微洩漏的區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They provide superior performance and increased weight to absorption.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164514Z" creationid="CCYU" creationdate="20140816T164514Z">
@@ -16434,6 +16442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145231Z">
         <seg>可隨時將開關切換至位置 &lt;/f8&gt;&lt;f9&gt;0&lt;/f9&gt;&lt;f10&gt; 以停止使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can try a two bucket system in their main maintenance area with a 1g bucket and a 5 gallon bucket for transport of product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063745Z" creationid="CCYU" creationdate="20140817T063745Z">
+        <seg>可以嘗試在其主要維修區域使用含 1 g 桶以及用於產品運輸之 5 加侖桶之雙桶系統。</seg>
       </tuv>
     </tu>
     <tu>
