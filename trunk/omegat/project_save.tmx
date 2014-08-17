@@ -8181,6 +8181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the engine is removed or if it is still in place, use our product liberally in the containment area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135059Z" creationid="CCYU" creationdate="20140817T135059Z">
+        <seg>無論引擎被拆除或仍留在原處，皆能在引擎室中自由地使用我們的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -9377,6 +9385,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
         <seg>Legal entity 法人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let it sit and absorb for some time (15 minutes to an hour or longer).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135220Z" creationid="CCYU" creationdate="20140817T135220Z">
+        <seg>放置不動讓它吸收一段時間 (15分鐘至一小十或更久)，</seg>
       </tuv>
     </tu>
     <tu>
