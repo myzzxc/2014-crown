@@ -11157,6 +11157,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing sets of mats under the totes not only protects against constant drips from operators, but also provides disaster prevention in the event of a larger leak (forklift</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T094944Z" creationid="CCYU" creationdate="20140817T094935Z">
+        <seg>於手提灌下放置吸收墊不僅能避免操作員經常性的滴漏，同時也能預防大規模的洩漏發生 (叉動車</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that the device is complete and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094548Z">
@@ -17217,6 +17225,14 @@
         <seg>What to Look for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071604Z" creationid="CCYU" creationdate="20140817T071604Z">
+        <seg>目標：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What to look for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T095104Z" creationid="CCYU" creationdate="20140817T095104Z">
         <seg>目標：</seg>
       </tuv>
     </tu>
