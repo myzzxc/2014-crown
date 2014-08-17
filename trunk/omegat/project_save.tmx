@@ -8205,6 +8205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these areas, you want to have a spill kit on hand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090926Z" creationid="CCYU" creationdate="20140817T090926Z">
+        <seg>這些區域將需要洩漏處理工具組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z">
@@ -11654,10 +11662,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RGING,&lt;t0/&gt; &amp; PRESSING COMPANIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091111Z" creationid="CCYU" creationdate="20140817T091111Z">
+        <seg>機械加工、鍛造 &amp; 壓製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROCESSING &lt;t0/&gt;–</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083541Z" creationid="CCYU" creationdate="20140817T083541Z">
-        <seg>處理 –</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091122Z" creationid="CCYU" creationdate="20140817T083541Z">
+        <seg>食品處理 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -12632,8 +12648,8 @@
       <tuv lang="EN-US">
         <seg>SING –</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072434Z" creationid="CCYU" creationdate="20140817T072434Z">
-        <seg>處理 –</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091130Z" creationid="CCYU" creationdate="20140817T072434Z">
+        <seg>食品處理 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15530,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110039Z">
         <seg>窗台板的標稱厚度為 2 英吋或 3 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The size of the kit depends on the size of the potential release.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090941Z" creationid="CCYU" creationdate="20140817T090941Z">
+        <seg>工具組的大小取決於潛在洩漏的大小。</seg>
       </tuv>
     </tu>
     <tu>
