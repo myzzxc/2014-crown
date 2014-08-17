@@ -14062,6 +14062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spill Kits (First Response Kits&lt;t0/&gt;) - are&lt;t1/&gt; &lt;t2/&gt;ideal for use on the train.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140726Z" creationid="CCYU" creationdate="20140817T140726Z">
+        <seg>洩漏處理工具組 (第一時間處理工具組) - 適用於火車上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spill Kits - &lt;t0/&gt;20g spill kits should be used in all of these shops for large releases that occur.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124640Z" creationid="CCYU" creationdate="20140817T124640Z">
@@ -18026,6 +18034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093134Z" creationid="CCYU" creationdate="20140817T093129Z">
         <seg>我們的產品皆可吸收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can replace the&lt;t7/&gt; &lt;t8/&gt;contents with our re-fill bags without&lt;t9/&gt; &lt;t10/&gt;replacing the container to save cost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140632Z" creationid="CCYU" creationdate="20140817T140632Z">
+        <seg>可以使用我們的填充袋替換現有的內容物而無須更換容器，以節省成本。</seg>
       </tuv>
     </tu>
     <tu>
