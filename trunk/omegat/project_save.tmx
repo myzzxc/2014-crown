@@ -8037,6 +8037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a spill occurs in a waterway (stream, lake or river), using our product will contain the oil within the water, again eliminating that telltale sheen and protecting the water system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134049Z" creationid="CCYU" creationdate="20140817T134049Z">
+        <seg>如果漏油事件發生在水道 (溪流、湖泊或河流)，我們的產品將能吸附水中油污，再一次消除那油污光澤並和保護水源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an accident occurs in the rain, our absorbent will still work, eliminating the oily sheen that officers will be looking to spot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z" creationid="CCYU" creationdate="20140817T133825Z">
@@ -9441,6 +9449,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123130Z" creationid="CCYU" creationdate="20140817T123130Z">
         <seg>散裝吸收劑 - &lt;t0/&gt;貨運及重型機械行業慣用散裝吸收劑且難以改變，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loose product is ideal for use in cleaning the service area itself as well as the train engine compartment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134216Z" creationid="CCYU" creationdate="20140817T134216Z">
+        <seg>散裝產品對於清潔維修區以及火車引擎室中使用是相當理想的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12170,6 +12186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065348Z" creationid="MAE" creationdate="20140810T065348Z">
         <seg>RAL 9017 黑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RDS –</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134125Z" creationid="CCYU" creationdate="20140817T134125Z">
+        <seg>火車機廠 –</seg>
       </tuv>
     </tu>
     <tu>
