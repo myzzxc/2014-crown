@@ -5190,8 +5190,8 @@
       <tuv lang="EN-US">
         <seg>Design a mat system that will fit in the containment area or around and under the machine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073259Z" creationid="CCYU" creationdate="20140817T073259Z">
-        <seg>設計一個符合密閉區域的吸收墊系統，置於機台周圍及下方。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073617Z" creationid="CCYU" creationdate="20140817T073259Z">
+        <seg>設計一個符合機台區域的吸收墊系統，置於機台周圍及下方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14714,6 +14714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081325Z">
         <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須依照 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The benefit is that the mat will eliminate free oil from normal leaks and will catch any oil from a major leak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073553Z" creationid="CCYU" creationdate="20140817T073553Z">
+        <seg>使用吸收墊的好處為去除正常洩漏外流的油污且能吸附所有大量洩漏的油污。</seg>
       </tuv>
     </tu>
     <tu>
