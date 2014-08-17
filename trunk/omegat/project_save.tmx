@@ -7773,6 +7773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the machine is in a contained area, the first one is most important, if it is not in a containment area, the second is critical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073831Z" creationid="CCYU" creationdate="20140817T073831Z">
+        <seg>若機台位於密閉區域中，去除正常洩漏外流的油污是最重要的是；若非位於密閉區域中，能吸附所有大量洩漏的油污則是很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the power supply cable is damaged, the whole foot warmer must be disposed of.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z">
@@ -10169,6 +10177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142554Z" creationid="CCYU" creationdate="20140807T142554Z">
         <seg>Odour&lt;t0/&gt; threshold 氣味低限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often large machines like these leak both oil and coolant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073923Z" creationid="CCYU" creationdate="20140817T073923Z">
+        <seg>通常大型機台洩漏包含了漏油和冷卻劑，</seg>
       </tuv>
     </tu>
     <tu>
