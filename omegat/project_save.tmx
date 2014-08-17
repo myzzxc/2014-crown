@@ -5228,6 +5228,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DS &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140043Z" creationid="CCYU" creationdate="20140817T140043Z">
+        <seg>火車機廠 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Danger of slipping on spilled product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084558Z" creationid="CCYU" creationdate="20140809T084558Z">
@@ -9537,6 +9545,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062346Z" creationid="CCYU" creationdate="20140817T062346Z">
         <seg>機械加工、鍛造 &amp; 壓製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MATS, BERMS, &amp; SPILL KITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140121Z" creationid="CCYU" creationdate="20140817T140121Z">
+        <seg>吸收墊、護邊 &amp; 洩漏處理工具組</seg>
       </tuv>
     </tu>
     <tu>
@@ -17222,6 +17238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Train service yards or transfer stations are great candidates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140025Z" creationid="CCYU" creationdate="20140817T140025Z">
+        <seg>火車維修機廠或轉運站都是很好的潛在客戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Train&lt;t0/&gt;’&lt;t1/&gt;s leak more than just about any large machine on the planet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135759Z" creationid="CCYU" creationdate="20140817T135759Z">
@@ -17330,6 +17354,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072444Z" creationid="CCYU" creationdate="20140817T072444Z">
         <seg>用途：大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES : SPILL KITS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140131Z" creationid="CCYU" creationdate="20140817T140131Z">
+        <seg>用途：洩漏處理工具組</seg>
       </tuv>
     </tu>
     <tu>
