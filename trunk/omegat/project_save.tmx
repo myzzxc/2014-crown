@@ -2195,6 +2195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mat system can be designed to go under the tanks if they are raised or at the base of the spout of the tanks if that is more appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081317Z" creationid="CCYU" creationdate="20140817T081317Z">
+        <seg>可以設計一個吸收墊系統於架高的油槽下方或依情況置於油嘴底部，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reduced mechanical attribute of the pipes cannot be derived from these existing microfissures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064504Z" creationid="MAE" creationdate="20140810T064504Z">
@@ -7385,6 +7393,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
         <seg>手較身體的其它部分對於溫度不敏感，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having this system in place will eliminate free oil and make cleaning of the tank farm area easy and quick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081432Z" creationid="CCYU" creationdate="20140817T081432Z">
+        <seg>使用此系統將去除外流油污並使油罐區更簡便、快速清理。</seg>
       </tuv>
     </tu>
     <tu>
