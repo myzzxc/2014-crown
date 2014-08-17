@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Helps in cleanup as well.&lt;t1/&gt; Much easier to pull a &lt;t2/&gt;Spillow&lt;t3/&gt; out and replace it than to dump a drip pan into a used oil container and dispose of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071501Z" creationid="CCYU" creationdate="20140817T071501Z">
+        <seg>同時有助於清理。直接取出並更換洩漏吸收枕 (Spillow) 比起將滴水盤中的漏油倒入回收容器中再丟棄更為簡便。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Liability for&lt;t1/&gt; &lt;t2/&gt;direct&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;indirect&lt;t7/&gt; &lt;t8/&gt;consequential losses&lt;t9/&gt; &lt;t10/&gt;caused&lt;t11/&gt; &lt;t12/&gt;by the&lt;t13/&gt; &lt;t14/&gt;unit&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;excluded&lt;t19/&gt; &lt;t20/&gt;even&lt;t21/&gt; &lt;t22/&gt;if the damage to the unit is accepted as a warranty&lt;t23/&gt; &lt;t24/&gt;claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z">
