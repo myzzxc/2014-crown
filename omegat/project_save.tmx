@@ -2331,6 +2331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ASTING –</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115613Z" creationid="CCYU" creationdate="20140817T115613Z">
+        <seg>混凝土澆注 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (equivalent to ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103341Z">
@@ -9293,6 +9301,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MATS, SOCKS &amp;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115631Z" creationid="CCYU" creationdate="20140817T115631Z">
+        <seg>吸收墊、襪套 &amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
@@ -15718,6 +15734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The oil by nature gets all over the floor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115605Z" creationid="CCYU" creationdate="20140817T115605Z">
+        <seg>因此油便自然地流到地面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The packaging can be reused or recycled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094735Z">
@@ -16074,6 +16098,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T111026Z">
         <seg>本歐洲技術評估的審核與評估方法，假設鋼筋連接至少有 50 年的工作壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The way they operate, they cannot be in a contained system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115537Z" creationid="CCYU" creationdate="20140817T115537Z">
+        <seg>由於操作方式的因素，油無法留在系統中，</seg>
       </tuv>
     </tu>
     <tu>
