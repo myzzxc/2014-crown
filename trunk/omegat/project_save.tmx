@@ -2097,6 +2097,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Focus on the fact that you can custom make&lt;t3/&gt; them for their needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102023Z" creationid="CCYU" creationdate="20140817T102014Z">
+        <seg>專注在你能針對他們的需求客製化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;International transport regulations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030746Z" creationid="CCYU" creationdate="20140809T030746Z">
@@ -16050,6 +16058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081907Z">
         <seg>必須遵守此警告說明，以避免造成任何使用者傷害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They all need one or more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T101737Z" creationid="CCYU" creationdate="20140817T101737Z">
+        <seg>他們都需要一個或更多個。</seg>
       </tuv>
     </tu>
     <tu>
