@@ -6388,6 +6388,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOOD PROCESSING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061957Z" creationid="CCYU" creationdate="20140817T061957Z">
+        <seg>食品處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
