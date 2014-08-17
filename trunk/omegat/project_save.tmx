@@ -15558,6 +15558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They leak regularly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073113Z" creationid="CCYU" creationdate="20140817T073113Z">
+        <seg>且經常洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They need our &lt;t0/&gt;Spillows&lt;t1/&gt; (&lt;t2/&gt;ands&lt;t3/&gt; sometimes pillows) inside their drip pans.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071044Z" creationid="CCYU" creationdate="20140817T070850Z">
@@ -15730,6 +15738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those pumps are usually outside or in a contained area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073054Z" creationid="CCYU" creationdate="20140817T073054Z">
+        <seg>這些泵通常位於外部或置於密閉區域，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17370,6 +17386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135234Z">
         <seg>錨固相對於加固或支撐的位置)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>powered&lt;t0/&gt; by hydraulic VRAMs or pumps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072944Z" creationid="CCYU" creationdate="20140817T072944Z">
+        <seg>以液壓缸或液壓泵驅動，</seg>
       </tuv>
     </tu>
     <tu>
