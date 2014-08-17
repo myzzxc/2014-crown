@@ -3347,6 +3347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BERMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074726Z" creationid="CCYU" creationdate="20140817T074726Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOND STRENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z">
@@ -12482,6 +12490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPILLOW MATS &amp;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074725Z" creationid="CCYU" creationdate="20140817T074725Z">
+        <seg>洩漏吸收枕墊 &amp; 護邊</seg>
       </tuv>
     </tu>
     <tu>
