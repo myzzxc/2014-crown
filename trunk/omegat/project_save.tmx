@@ -18057,10 +18057,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Pig Products (Polypropylene Pads)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T054111Z" creationid="CCYU" creationdate="20140817T054111Z">
+        <seg> Pig 系列產品 (聚丙烯墊)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;&lt;t1/&gt;Spill Kits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164558Z" creationid="CCYU" creationdate="20140816T164558Z">
         <seg> 洩漏處理工具組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;The largest alternative to clay is the poly pads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T054329Z" creationid="CCYU" creationdate="20140817T054329Z">
+        <seg> 黏土最大宗的替代品為聚合物吸收墊。</seg>
       </tuv>
     </tu>
     <tu>
