@@ -16302,6 +16302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>absorbent is 100% natural and taken only from renewable bogs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055351Z" creationid="CCYU" creationdate="20140817T055351Z">
+        <seg>吸收劑為 100% 天然，採自可再生的沼澤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>according to EN 1992-1-1:2004+AC:2010 for good bond conditions (for all other bond conditions multiply the values by 0.7)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090438Z">
@@ -18045,6 +18053,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T053506Z" creationid="CCYU" creationdate="20140817T053506Z">
         <seg> 黏土 (貓砂)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Environmentally Friendly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055407Z" creationid="CCYU" creationdate="20140817T055407Z">
+        <seg> 環保</seg>
       </tuv>
     </tu>
     <tu>
