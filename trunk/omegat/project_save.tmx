@@ -6716,6 +6716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FLEETS &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125116Z" creationid="CCYU" creationdate="20140817T125116Z">
+        <seg>卡車車隊 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOOD PROCESSING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061957Z" creationid="CCYU" creationdate="20140817T061957Z">
@@ -7265,6 +7273,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145639Z">
         <seg>因此，裝置開啟時控制器不得被覆蓋或放置在暖腳機上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z" creationid="CCYU" creationdate="20140817T125153Z">
+        <seg>散裝吸收劑對於卡車車隊不是很有吸引力，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9257,6 +9273,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z" creationid="CCYU" creationdate="20140808T144505Z">
         <seg>Legal entity 法人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letting them know that the refill is much cheaper because it doesn’t come with the disposal container can be very appealing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124953Z" creationid="CCYU" creationdate="20140817T124953Z">
+        <seg>讓他們知道因為不使用處置容器而使替換芯價格更加便宜，會非常有吸引力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,6 +16562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
         <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This category includes companies with their own truck fleets as well as ones that just service outside parties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125107Z" creationid="CCYU" creationdate="20140817T125107Z">
+        <seg>此類別包括擁有自己的卡車車隊、以及那些僅提供外部維修的公司。</seg>
       </tuv>
     </tu>
     <tu>
