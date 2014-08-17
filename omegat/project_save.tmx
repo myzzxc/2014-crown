@@ -3323,6 +3323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BY INDUSTRY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062508Z" creationid="CCYU" creationdate="20140817T062508Z">
+        <seg>各行業銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bacteria toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153300Z" creationid="CCYU" creationdate="20140807T153300Z">
@@ -8757,6 +8765,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MACHINING, FORGING &amp; PRESSING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062346Z" creationid="CCYU" creationdate="20140817T062346Z">
+        <seg>機械加工、鍛造 &amp; 壓製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
@@ -11886,6 +11902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SALES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062446Z" creationid="CCYU" creationdate="20140817T062446Z">
+        <seg>銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAVE YOUR ENVIRONMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110054Z" creationid="MAE" creationdate="20140813T110054Z">
@@ -13542,10 +13566,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TRAIN YARDS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062246Z" creationid="CCYU" creationdate="20140817T062246Z">
+        <seg> 火車機廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSPORT INFORMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030616Z" creationid="CCYU" creationdate="20140809T030616Z">
         <seg>TRANSPORT INFORMATION 運輸資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRUCK FLEET&lt;t0/&gt;S</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062430Z" creationid="CCYU" creationdate="20140817T062430Z">
+        <seg>卡車車隊</seg>
       </tuv>
     </tu>
     <tu>
@@ -16018,6 +16058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065624Z" creationid="MAE" creationdate="20140810T065624Z">
         <seg>由 Servocam 實驗室，於 1996 至 1999 年間執行 19.234 小時 W-O-M 測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WAREHOUSES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062530Z" creationid="CCYU" creationdate="20140817T062530Z">
+        <seg>倉儲</seg>
       </tuv>
     </tu>
     <tu>
