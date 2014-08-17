@@ -5188,6 +5188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Design a mat system that will fit in the containment area or around and under the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073259Z" creationid="CCYU" creationdate="20140817T073259Z">
+        <seg>設計一個符合密閉區域的吸收墊系統，置於機台周圍及下方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Design according to EN 1992-1-1:2004+AC:2010 and Annex B 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T031950Z">
