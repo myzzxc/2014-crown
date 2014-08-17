@@ -9381,6 +9381,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most factories have a belt system that moves product (often finished and packaged product).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T075847Z" creationid="CCYU" creationdate="20140817T075847Z">
+        <seg>多數廠房有輸送產品的皮帶系統 (通常用於成品與包裝)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most important symptoms and effects, both acute and delayed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T091513Z" creationid="MAE" creationdate="20140807T091513Z">
@@ -15558,6 +15566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These belt systems leak and free should not be present in these areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T075936Z" creationid="CCYU" creationdate="20140817T075936Z">
+        <seg>這些區域不應該有皮帶系統洩漏與油污。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These can be requested from the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101039Z" creationid="CCYU" creationdate="20140809T101039Z">
@@ -16138,6 +16154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072444Z" creationid="CCYU" creationdate="20140817T072444Z">
         <seg>用途：大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES :&lt;t0/&gt; BELT SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T075731Z" creationid="CCYU" creationdate="20140817T075731Z">
+        <seg>用途：皮帶系統</seg>
       </tuv>
     </tu>
     <tu>
