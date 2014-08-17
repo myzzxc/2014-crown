@@ -3339,6 +3339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BELT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071916Z" creationid="CCYU" creationdate="20140817T071916Z">
+        <seg>皮帶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOND STRENGTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074352Z">
@@ -7029,6 +7037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GENERATOR &amp; COMPRESSOR ROOMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071957Z" creationid="CCYU" creationdate="20140817T071957Z">
+        <seg>發電機 &amp; 壓縮機室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
@@ -8709,6 +8725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LARGE HYDRAULIC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071903Z" creationid="CCYU" creationdate="20140817T071903Z">
+        <seg>大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOOSE ABSORBENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063209Z" creationid="CCYU" creationdate="20140817T063209Z">
@@ -8873,6 +8897,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131753Z">
         <seg>≤ M24：屬性等級 70 EN ISO 3506-1:2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MACHINES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071906Z" creationid="CCYU" creationdate="20140817T071906Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -12398,6 +12430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPILLOW MATS &amp; BERMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071858Z" creationid="CCYU" creationdate="20140817T071858Z">
+        <seg>洩漏吸收枕墊 &amp; 護邊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPILLOWS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070921Z" creationid="CCYU" creationdate="20140817T070228Z">
@@ -12482,6 +12522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104854Z" creationid="MAE" creationdate="20140813T104854Z">
         <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYSTEMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071919Z" creationid="CCYU" creationdate="20140817T071919Z">
+        <seg>系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +13754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002458Z">
         <seg>表 ４— 常用鋼筋柱的規格和物理特性&lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TANK FARMS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072005Z" creationid="CCYU" creationdate="20140817T072005Z">
+        <seg>油罐區</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,6 +16386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081817Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WASTE OIL &lt;t0/&gt;AREAS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072016Z" creationid="CCYU" creationdate="20140817T072016Z">
+        <seg>廢油區</seg>
       </tuv>
     </tu>
     <tu>
