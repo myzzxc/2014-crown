@@ -4844,6 +4844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D PROCESSING &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070207Z" creationid="CCYU" creationdate="20140817T070207Z">
+        <seg>處理 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D) Filling the bore hole</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072511Z">
@@ -6656,6 +6664,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092126Z" creationid="MAE" creationdate="20140807T092126Z">
         <seg>Foam; Dry chemical extinguisher; Carbon dioxide; Water spray jet 泡沫式；乾式化學滅火器；二氧化碳；噴射灑水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus on machines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070014Z" creationid="CCYU" creationdate="20140817T070014Z">
+        <seg>將重點放於機器上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12326,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPILLOWS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070228Z" creationid="CCYU" creationdate="20140817T070228Z">
+        <seg>洩漏吸收 (SPILLOWS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SSING &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063204Z" creationid="CCYU" creationdate="20140817T063204Z">
@@ -15382,6 +15406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They usually have the animal byproducts all taken care of.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070001Z" creationid="CCYU" creationdate="20140817T070001Z">
+        <seg>他們通常已對動物性副產品進行處理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thi&lt;t0/&gt;s European Technical Assessment contains</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100428Z">
@@ -15842,6 +15874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063244Z" creationid="CCYU" creationdate="20140817T063244Z">
         <seg>用途：散裝吸收劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES: SPILLOWS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070252Z" creationid="CCYU" creationdate="20140817T070252Z">
+        <seg>用途：洩漏吸收 (SPILLOWS)</seg>
       </tuv>
     </tu>
     <tu>
