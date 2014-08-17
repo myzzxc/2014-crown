@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t2/&gt;may&lt;t3/&gt; have a few large bags on site for larger spills).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064517Z" creationid="CCYU" creationdate="20140817T064517Z">
+        <seg>(可於現場準備少數較大的袋子用於較大量的洩漏)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Brookfield; Instrument: RVT; 20 °C (68 °F); speed of rotation: 20 min-1; Spindle No: 4)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T111132Z" creationid="CCYU" creationdate="20140809T111132Z">
@@ -9361,6 +9369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065833Z">
         <seg>注意  連續使用勿超過 15 分鐘，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064525Z" creationid="CCYU" creationdate="20140817T064525Z">
+        <seg>備註</seg>
       </tuv>
     </tu>
     <tu>
