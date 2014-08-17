@@ -8637,6 +8637,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOOSE ABSORBENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063209Z" creationid="CCYU" creationdate="20140817T063209Z">
+        <seg>散裝吸收劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031133Z" creationid="CCYU" creationdate="20140809T031133Z">
@@ -10901,6 +10909,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Probably 30g or 55g drums.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063421Z" creationid="CCYU" creationdate="20140817T063421Z">
+        <seg>有 30g 或 55g 桶裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Produ&lt;t0/&gt;ct description Installed condition and examples of use fo&lt;t1/&gt;r &lt;t2/&gt;rebars</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234052Z">
@@ -12266,6 +12282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSING &lt;t0/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063204Z" creationid="CCYU" creationdate="20140817T063204Z">
+        <seg>處理 –</seg>
       </tuv>
     </tu>
     <tu>
@@ -15718,6 +15742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two bucket system is the most cost effective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063331Z" creationid="CCYU" creationdate="20140817T063331Z">
+        <seg>雙桶系統最具成本效益，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type "side-by-side":</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
@@ -15738,6 +15770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T133216Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USES: LOOSE ABSORBENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063244Z" creationid="CCYU" creationdate="20140817T063244Z">
+        <seg>用途：散裝吸收劑</seg>
       </tuv>
     </tu>
     <tu>
