@@ -9567,8 +9567,8 @@
       <tuv lang="EN-US">
         <seg>Most of them use only loose absorbent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091717Z" creationid="CCYU" creationdate="20140817T091717Z">
-        <seg>大多數僅使用散裝吸收劑。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091812Z" creationid="CCYU" creationdate="20140817T091717Z">
+        <seg>大多數僅使用散裝吸收劑，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10537,6 +10537,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061450Z" creationid="CCYU" creationdate="20140817T061450Z">
         <seg>我們的吸收墊和吸收毯為清除洩漏於水中之油污和燃料最有效工具，能快速且完全吸收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our product is going to be much more effective, much easier to dispense and pick up and much more cost effective to dispose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091942Z" creationid="CCYU" creationdate="20140817T091942Z">
+        <seg>我們的產品效果更好、清掃更簡便且處置成本更低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17258,6 +17266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144202Z">
         <seg>必須搭配外套層使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see it around the machines, under the machines, everywhere.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091810Z" creationid="CCYU" creationdate="20140817T091810Z">
+        <seg>可能置機台周圍、下方、無所不在。</seg>
       </tuv>
     </tu>
     <tu>
