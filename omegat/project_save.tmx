@@ -6685,6 +6685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EUROPEAN UNION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185045Z" creationid="Judy" creationdate="20140818T185045Z">
+        <seg>歐洲聯盟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EVALUATION SCOPE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132721Z">
@@ -17347,6 +17355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035329Z">
         <seg>計算和詳細資料應按計畫進行當地的法規所需，由合格設計專家準備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The classes of controlled products listed in the CPR, Section 32, &lt;t2/&gt;Part&lt;t3/&gt; IV, have been reviewed and based on Professional Judgment this product has been determined not to be WHMIS controlled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185034Z" creationid="Judy" creationdate="20140818T185034Z">
+        <seg>本產品根據管制產品規章 32 節第 IV 部分所列之管制產品分類，經專業審查後為非 WHMIS 管制產品。</seg>
       </tuv>
     </tu>
     <tu>
