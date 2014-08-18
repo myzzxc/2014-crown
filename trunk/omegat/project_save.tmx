@@ -5053,6 +5053,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contain spills.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172639Z" creationid="Judy" creationdate="20140818T172639Z">
+        <seg>集中洩漏物，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Containers which are opened must be carefully resealed and kept upright to prevent leakage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123833Z" creationid="CCYU" creationdate="20140807T123833Z">
@@ -5377,6 +5385,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030330Z" creationid="CCYU" creationdate="20140809T030330Z">
         <seg>DISPOSAL CONSIDERATIONS 廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISPOSAL METHOD:  disposal should be made in accordance with federal, state and local regulations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172726Z" creationid="Judy" creationdate="20140818T172726Z">
+        <seg>廢棄處置方法：廢棄處置應根據聯邦、州以及地方法規。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8950,6 +8966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incineration is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172805Z" creationid="Judy" creationdate="20140818T172805Z">
+        <seg>建議焚化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incompatible materials</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143708Z" creationid="CCYU" creationdate="20140807T143708Z">
@@ -11750,6 +11774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRECAUTIONS TO BE TAKEN IN HANDLING AND STORAGE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172843Z" creationid="Judy" creationdate="20140818T172843Z">
+        <seg>搬運與儲存應採取之預防性措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCT COMPOSITION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165158Z" creationid="Judy" creationdate="20140818T165158Z">
@@ -12146,6 +12178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142439Z">
         <seg>架空或水平安裝用活塞蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place in a chemical waste container.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172700Z" creationid="Judy" creationdate="20140818T172700Z">
+        <seg>置於化學廢料容器中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14219,6 +14259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172159Z" creationid="Judy" creationdate="20140818T172159Z">
         <seg>第 6 節：意外洩漏措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 7: Handling and Storage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172810Z" creationid="Judy" creationdate="20140818T172810Z">
+        <seg>第 7 節：搬運與儲存</seg>
       </tuv>
     </tu>
     <tu>
@@ -18783,10 +18831,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wear proper protective equipment and avoid contact with skin, eyes, or clothing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172900Z" creationid="Judy" creationdate="20140818T172900Z">
+        <seg>穿戴適當的防護裝備並避免與皮膚、眼睛或衣物接觸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wear proper protective equipment as specified in Section 8: Exposure Controls/Personal Protection &lt;t0/&gt;Warn&lt;t1/&gt; other workers of spill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172526Z" creationid="Judy" creationdate="20140818T172419Z">
-        <seg>依第 8 節：暴露管控 / 個人防護所述穿戴適當防護裝備 警告其他員工洩漏</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172645Z" creationid="Judy" creationdate="20140818T172419Z">
+        <seg>依第 8 節：暴露管控 / 個人防護所述穿戴適當防護裝備，警告其他員工洩漏，</seg>
       </tuv>
     </tu>
     <tu>
