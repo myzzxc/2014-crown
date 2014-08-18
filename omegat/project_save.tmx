@@ -5573,6 +5573,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DOT PROPER SHIPPING NAME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180936Z" creationid="Judy" creationdate="20140818T180936Z">
+        <seg>DOT 正式運輸名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DOT TRANSPORT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180909Z" creationid="Judy" creationdate="20140818T180909Z">
+        <seg>DOT 運輸：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DRUM</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083558Z" creationid="CCYU" creationdate="20140817T083558Z">
@@ -11430,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Regulated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180941Z" creationid="Judy" creationdate="20140818T180941Z">
+        <seg>無規定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not applicable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110743Z" creationid="CCYU" creationdate="20140809T110743Z">
@@ -14819,6 +14843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180533Z" creationid="Judy" creationdate="20140818T180533Z">
         <seg>第 13 節：廢棄處置注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 14: Transport Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180837Z" creationid="Judy" creationdate="20140818T180837Z">
+        <seg>第 14 節：運輸資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -19507,6 +19539,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082717Z" creationid="CCYU" creationdate="20140817T082717Z">
         <seg>廢油區為將廢油 (機台排出或來自滴油盤) 倒入油槽或油桶以待後續處理的區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waste packaging material should be disposed of by municipal waste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180833Z" creationid="Judy" creationdate="20140818T180833Z">
+        <seg>廢棄包裝材料應交由政府處置。</seg>
       </tuv>
     </tu>
     <tu>
