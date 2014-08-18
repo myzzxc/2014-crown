@@ -7478,6 +7478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GHS Hazard Class</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162847Z" creationid="Judy" creationdate="20140818T162847Z">
+        <seg>GHS 危害分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
@@ -10734,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162850Z" creationid="Judy" creationdate="20140818T162850Z">
+        <seg>不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not applicable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110743Z" creationid="CCYU" creationdate="20140809T110743Z">
@@ -12735,6 +12751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regulation (EC) No 1272/2008</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162837Z" creationid="Judy" creationdate="20140818T162837Z">
+        <seg>規章 (EC) 編號 1272/2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regulation (EC) No 1907/2006 (REACH), 1272/2008 (CLP) as amended in each case.&lt;t0/&gt; EC Directives 2000/39/EC, 2006/15/EC, 2009/161/EC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050250Z" creationid="MAE" creationdate="20140808T045445Z">
@@ -13739,6 +13763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160846Z" creationid="Judy" creationdate="20140818T160846Z">
         <seg>第 1 節：化學產品和公司標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2: Hazards Identification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162811Z" creationid="Judy" creationdate="20140818T162811Z">
+        <seg>第 2 節：危害標識</seg>
       </tuv>
     </tu>
     <tu>
