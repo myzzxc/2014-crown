@@ -13911,6 +13911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPECIAL FIREFIGHTING PROCEDURES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171705Z" creationid="Judy" creationdate="20140818T171705Z">
+        <seg>特殊消防程序：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPILL KITS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090147Z" creationid="CCYU" creationdate="20140817T090147Z">
@@ -18691,6 +18699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021415Z">
         <seg>水飽和混凝土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water, fog, or spray</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171645Z" creationid="Judy" creationdate="20140818T171645Z">
+        <seg>水、噴霧或灑水</seg>
       </tuv>
     </tu>
     <tu>
