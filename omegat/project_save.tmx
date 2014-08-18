@@ -2563,6 +2563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acute Toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175325Z" creationid="Judy" creationdate="20140818T175325Z">
+        <seg>劇毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acute dermal toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144220Z" creationid="CCYU" creationdate="20140807T144220Z">
@@ -4644,6 +4652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chemical Constituent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175310Z" creationid="Judy" creationdate="20140818T175310Z">
+        <seg>化學成分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chemical characterization</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064025Z" creationid="MAE" creationdate="20140807T064025Z">
@@ -4864,6 +4880,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T052416Z" creationid="MAE" creationdate="20140727T052416Z">
         <seg>結合拉出和混凝土破壞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175305Z" creationid="Judy" creationdate="20140818T175305Z">
+        <seg>註解</seg>
       </tuv>
     </tu>
     <tu>
@@ -7053,6 +7077,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye Irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175409Z" creationid="Judy" creationdate="20140818T175409Z">
+        <seg>眼睛刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye contact</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015236Z" creationid="CCYU" creationdate="20140808T145308Z">
@@ -7846,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GHS Required Criteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175235Z" creationid="Judy" creationdate="20140818T175235Z">
+        <seg>GHS 要求標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
@@ -8090,6 +8130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175100Z" creationid="Judy" creationdate="20140818T175100Z">
         <seg>危害性分解產物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HAZARDOUS POLYMERIZATION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175145Z" creationid="Judy" creationdate="20140818T175145Z">
+        <seg>聚合反應危害：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,6 +11138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130103Z" creationid="CCYU" creationdate="20140808T130103Z">
         <seg>No hazardous decomposition products known. 無已知危害性分解產物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No information is available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175329Z" creationid="Judy" creationdate="20140818T175329Z">
+        <seg>無資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14607,6 +14663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 11: Toxicological Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175159Z" creationid="Judy" creationdate="20140818T175159Z">
+        <seg>第 11 節：毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 1: Chemical Product and Company Identification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160846Z" creationid="Judy" creationdate="20140818T160846Z">
@@ -14815,6 +14879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serious Eye Damage /</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175405Z" creationid="Judy" creationdate="20140818T175405Z">
+        <seg>嚴重眼睛損傷 / </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serious eye damage/irritation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144401Z" creationid="CCYU" creationdate="20140807T144401Z">
@@ -14923,6 +14995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134435Z" creationid="CCYU" creationdate="20140808T134435Z">
         <seg>Skin corrosion/irritation 皮膚腐蝕性 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin Corrosion/Irritation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175336Z" creationid="Judy" creationdate="20140818T175336Z">
+        <seg>皮膚腐蝕性 / 刺激性</seg>
       </tuv>
     </tu>
     <tu>
@@ -18327,6 +18407,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toxicity Criteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175242Z" creationid="Judy" creationdate="20140818T175242Z">
+        <seg>毒性標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toxicity Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175249Z" creationid="Judy" creationdate="20140818T175249Z">
+        <seg>毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toxicological information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095925Z" creationid="CCYU" creationdate="20140809T095925Z">
@@ -19531,6 +19627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
         <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will not occur</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175154Z" creationid="Judy" creationdate="20140818T175154Z">
+        <seg>不會發生</seg>
       </tuv>
     </tu>
     <tu>
