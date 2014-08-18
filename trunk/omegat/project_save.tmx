@@ -6421,6 +6421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTINGUISHING MEDIA:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171613Z" creationid="Judy" creationdate="20140818T171613Z">
+        <seg>滅火劑：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EYE CONTACT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164654Z" creationid="Judy" creationdate="20140818T164654Z">
@@ -6953,6 +6961,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164029Z" creationid="Judy" creationdate="20140818T164029Z">
         <seg>火災和爆炸性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLAMMABLE LIMITS IN AIR (% by &lt;t0/&gt;vol&lt;t1/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171605Z" creationid="Judy" creationdate="20140818T171605Z">
+        <seg>空氣中燃燒限值 (體積 %)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLASH POINT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171515Z" creationid="Judy" creationdate="20140818T171515Z">
+        <seg>閃火點：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T101203Z" creationid="CCYU" creationdate="20140817T101130Z">
         <seg>若置於托盤上，則仍可使用桶蓋；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If swallowed do not induce vomiting, give large quantities of water to drink.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171440Z" creationid="Judy" creationdate="20140818T171440Z">
+        <seg>若吞食請勿催吐，給予飲用大量的水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10594,6 +10626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090710Z" creationid="MAE" creationdate="20140807T090710Z">
         <seg>Never give anything by mouth to an unconscious person. 請勿對失去知覺的人員餵食任何東西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never give anything to an unconscious person.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171450Z" creationid="Judy" creationdate="20140818T171450Z">
+        <seg>請勿對失去知覺的人員餵食任何東西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14131,6 +14171,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171006Z" creationid="Judy" creationdate="20140818T171006Z">
         <seg>第 4 節：急救措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 5: Fire-fighting Measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171509Z" creationid="Judy" creationdate="20140818T171509Z">
+        <seg>第 5 節：消防措施</seg>
       </tuv>
     </tu>
     <tu>
