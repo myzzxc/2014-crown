@@ -2899,6 +2899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All components are listed on the TSCA Inventory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T182032Z" creationid="Judy" creationdate="20140818T182032Z">
+        <seg>TSCA 清單上列出了所有的成分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the oil and lubricant used in a machine shop has to be stored somewhere.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100651Z" creationid="CCYU" creationdate="20140817T100651Z">
