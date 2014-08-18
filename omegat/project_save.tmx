@@ -2371,6 +2371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPEARANCE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164823Z" creationid="Judy" creationdate="20140818T164823Z">
+        <seg>外觀：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ASSOCIATED STRENGTH REDUCTION FACTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074409Z">
@@ -3771,6 +3779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brownish, fibrous material</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164835Z" creationid="Judy" creationdate="20140818T164835Z">
+        <seg>褐色、纖維狀材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brush - &lt;t0/&gt;Φ</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142315Z">
@@ -3903,6 +3919,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161632Z" creationid="Judy" creationdate="20140818T161632Z">
         <seg>化學品名稱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHRONIC EFFECTS OF OVEREXPOSURE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164816Z" creationid="Judy" creationdate="20140818T164816Z">
+        <seg>過度暴露之慢性影響：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,6 +4760,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
         <seg>依據下列規範：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Component</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164956Z" creationid="Judy" creationdate="20140818T164956Z">
+        <seg>物質</seg>
       </tuv>
     </tu>
     <tu>
@@ -6789,6 +6821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eye irritation may result</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164724Z" creationid="Judy" creationdate="20140818T164724Z">
+        <seg>可能會導致眼睛發炎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye protection Skin protection &lt;t0/&gt;Exposure limit values</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014754Z" creationid="CCYU" creationdate="20140809T014526Z">
@@ -7073,6 +7113,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093332Z" creationid="CCYU" creationdate="20140809T093332Z">
         <seg>Flammability 可燃性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flammability (Red)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165006Z" creationid="Judy" creationdate="20140818T165006Z">
+        <seg>易燃性 (紅色)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,6 +7946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122210Z">
         <seg>部門主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health (Blue)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165016Z" creationid="Judy" creationdate="20140818T165002Z">
+        <seg>健康 (藍色)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9952,8 +10008,8 @@
       <tuv lang="EN-US">
         <seg>May cause slight irritation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164650Z" creationid="Judy" creationdate="20140818T164650Z">
-        <seg>可能導致輕微的刺激</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164731Z" creationid="Judy" creationdate="20140818T164650Z">
+        <seg>可能造成輕微的刺激</seg>
       </tuv>
     </tu>
     <tu>
@@ -10362,6 +10418,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023133Z" creationid="CCYU" creationdate="20140809T023133Z">
         <seg>Mutagenicity 誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NFPA Rating:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164915Z" creationid="Judy" creationdate="20140818T164845Z">
+        <seg>NFPA 評等：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11066,6 +11130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033026Z" creationid="CCYU" creationdate="20140809T033026Z">
         <seg>OTHER INFORMATION 其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OTHER:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164736Z" creationid="Judy" creationdate="20140818T164736Z">
+        <seg>其他：</seg>
       </tuv>
     </tu>
     <tu>
