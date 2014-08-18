@@ -11950,6 +11950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautionary Statements:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163257Z" creationid="Judy" creationdate="20140818T163157Z">
+        <seg>預防措施說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precautions for safe handling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100211Z" creationid="MAE" creationdate="20140807T100211Z">
@@ -12002,6 +12010,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022348Z">
         <seg>擠壓錨固原料至孔洞底部並於擠壓同時慢慢旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prevention</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163302Z" creationid="Judy" creationdate="20140818T163302Z">
+        <seg>預防</seg>
       </tuv>
     </tu>
     <tu>
@@ -13979,6 +13995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053221Z">
         <seg>雙槽卡匣 385、444、585 ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signal word: Hazard Statement:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163121Z" creationid="Judy" creationdate="20140818T163121Z">
+        <seg>警示語： 危害說明：</seg>
       </tuv>
     </tu>
     <tu>
