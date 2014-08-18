@@ -16303,6 +16303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOXIC SUBSTANCES CONTROL ACT (TSCA) STATUS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181715Z" creationid="Judy" creationdate="20140818T181715Z">
+        <seg>毒性物質管理法 (TSCA) 狀態：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TOXICOLOGICAL INFORMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021545Z" creationid="CCYU" creationdate="20140809T021545Z">
@@ -18515,6 +18523,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133610Z" creationid="CCYU" creationdate="20140808T133610Z">
         <seg>This product does not meet the classification and labelling criteria given in the Dangerous Preparations Directive (1999/45/EC; DPD) 此產品未符合危險物質指令 (1999/45/EC; DPD) 所指示之分類與標示準則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is in compliance with rules, regulations, and orders of TSCA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181928Z" creationid="Judy" creationdate="20140818T181928Z">
+        <seg>此產品符合 TSCA 規則、規章和規範。</seg>
       </tuv>
     </tu>
     <tu>
