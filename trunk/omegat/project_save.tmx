@@ -9454,6 +9454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these models, the entire engine is divided into 3, or 5, or more sections (control volumes), so they are practically zero&lt;t4/&gt;- &lt;t5/&gt;or one-dimensional models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T215125Z" creationid="Judy" creationdate="20140818T215125Z">
+        <seg>在這些模型中，整個引擎分為 3、或 5 或更多的部份 (控制體積)，因此實際上其為零或一維模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z">
