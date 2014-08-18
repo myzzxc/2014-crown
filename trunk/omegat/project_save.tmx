@@ -5653,6 +5653,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Danger Symbol(s):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185456Z" creationid="Judy" creationdate="20140818T185456Z">
+        <seg>危險標誌：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Danger of slipping on spilled product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084558Z" creationid="CCYU" creationdate="20140809T084558Z">
@@ -6991,8 +6999,8 @@
       <tuv lang="EN-US">
         <seg>European Community Hazards Identification: R:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185410Z" creationid="Judy" creationdate="20140818T185410Z">
-        <seg>歐洲共同體危害標識：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185446Z" creationid="Judy" creationdate="20140818T185410Z">
+        <seg>歐洲共同體危害標識： R：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,6 +9506,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083428Z" creationid="CCYU" creationdate="20140809T083428Z">
         <seg>Indication of any immediate medical attention and special treatment needed: 任何需要即時醫療照護和特殊治療的適應症：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information Sources:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185557Z" creationid="Judy" creationdate="20140818T185557Z">
+        <seg>資料來源：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14223,6 +14239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revision Comments:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185513Z" creationid="Judy" creationdate="20140818T185513Z">
+        <seg>修訂註解：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revision&lt;t0/&gt;: &lt;t1/&gt;25.03.2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102253Z" creationid="CCYU" creationdate="20140809T102253Z">
@@ -16403,6 +16427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044706Z">
         <seg>力晶半導體股份有限公司馬達技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THIS MATERIAL SAFETY DATA SHEET IS OFFERED SOLELY FOR YOUR INFORMATION, CONSIDERATION AND INVESTIGATION.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185737Z" creationid="Judy" creationdate="20140818T185737Z">
+        <seg>此物質安全資料表僅供參考、審議及調查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19379,6 +19411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T092142Z" creationid="MAE" creationdate="20140807T092142Z">
         <seg>Unsuitable extinguishing media 不適用之滅火劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated from November 9, 2012 Revision Number:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185549Z" creationid="Judy" creationdate="20140818T185549Z">
+        <seg>2012 年 11 月 9 日更新 修訂版本號：</seg>
       </tuv>
     </tu>
     <tu>
