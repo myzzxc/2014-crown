@@ -10046,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make hand washing equipment available in the work area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173815Z" creationid="Judy" creationdate="20140818T173815Z">
+        <seg>工作區應設有洗手設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makes them appear clean and dry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071127Z" creationid="CCYU" creationdate="20140817T071115Z">
@@ -11358,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OTHER EQUIPMENT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173731Z" creationid="Judy" creationdate="20140818T173731Z">
+        <seg>其他裝備：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OTHER INFORMATION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033026Z" creationid="CCYU" creationdate="20140809T033026Z">
@@ -11850,6 +11866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162408Z" creationid="Judy" creationdate="20140818T162408Z">
         <seg>產品用途：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PROTECTIVE CLOTHING:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173658Z" creationid="Judy" creationdate="20140818T173658Z">
+        <seg>防護衣：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12747,6 +12771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084330Z">
         <seg>第二類保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protective eyewear should be worn where dust levels are high enough to cause irritation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173652Z" creationid="Judy" creationdate="20140818T173652Z">
+        <seg>處於含高粉塵量、可能刺激眼睛之處，應配戴防護眼鏡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18979,6 +19011,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084149Z" creationid="CCYU" creationdate="20140809T084149Z">
         <seg>Use self-contained breathing apparatus. 穿戴自給式呼吸器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear suitable protective clothing to prevent skin contact.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173718Z" creationid="Judy" creationdate="20140818T173718Z">
+        <seg>穿著適當的防護衣，以避免皮膚接觸。</seg>
       </tuv>
     </tu>
     <tu>
