@@ -7766,6 +7766,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get immediate medical attention if irritation persists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171312Z" creationid="Judy" creationdate="20140818T171312Z">
+        <seg>如果持續不適，立即就醫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get immediate medical attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171118Z" creationid="Judy" creationdate="20140818T171118Z">
+        <seg>立即就醫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get medical attention if irritation occurs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151141Z" creationid="CCYU" creationdate="20140808T151141Z">
@@ -8366,6 +8382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not breathing, provide CPR (cardio pulmonary resuscitation).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171052Z" creationid="Judy" creationdate="20140818T171052Z">
+        <seg>若無呼吸，進行 CPR (心肺復蘇術)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not, or if they are moved around, they should be moved with a drum skirt.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T101246Z" creationid="CCYU" creationdate="20140817T101150Z">
@@ -8554,6 +8578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094758Z">
         <seg>若開箱時發現任何運輸過程中的損壞，請立即聯繫您的轉銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immediately flush eyes with plenty of water for at least 15 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171254Z" creationid="Judy" creationdate="20140818T171254Z">
+        <seg>立即以大量清水沖洗眼睛至少 15 分鐘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13211,6 +13243,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
         <seg>旋轉並拉出外蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove to fresh air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171032Z" creationid="Judy" creationdate="20140818T171032Z">
+        <seg>移至空氣流通處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18547,6 +18587,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065631Z" creationid="MAE" creationdate="20140807T065605Z">
         <seg>Wash off immediately with soap and water. 立即以肥皂與清水沖洗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wash skin with plenty of soap and water for at least 15 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171203Z" creationid="Judy" creationdate="20140818T171203Z">
+        <seg>立即以大量肥皂與清水沖洗至少 15 分鐘。</seg>
       </tuv>
     </tu>
     <tu>
