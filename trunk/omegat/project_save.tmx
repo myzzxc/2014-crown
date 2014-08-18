@@ -18495,6 +18495,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This MSDS contains all of the information required by the Controlled Products Regulations (CPR).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184440Z" creationid="Judy" creationdate="20140818T184440Z">
+        <seg>此物質安全資料表包含管制產品規章 (CPR) 所要求的所有資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This MSDS/SDS will be &lt;t0/&gt;non compliant&lt;t1/&gt; 3 years after the issue date.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184246Z" creationid="Judy" creationdate="20140818T184246Z">
+        <seg>此物質安全資料表 / 安全資料表有效期為 3 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This SDS complies with REACH 1907/2006 and 2001/58/EC, GHS, OSHA 29CFR 1910.1200</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160730Z" creationid="Judy" creationdate="20140818T160730Z">
@@ -19683,6 +19699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174604Z" creationid="Judy" creationdate="20140818T174604Z">
         <seg>溶劑中溶解度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WHMIS-INFORMATION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184451Z" creationid="Judy" creationdate="20140818T184451Z">
+        <seg>WHMIS-資訊：</seg>
       </tuv>
     </tu>
     <tu>
