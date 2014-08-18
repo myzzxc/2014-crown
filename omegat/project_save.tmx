@@ -3555,6 +3555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aspiration Hazard</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175536Z" creationid="Judy" creationdate="20140818T175536Z">
+        <seg>吸入危害性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aspiration hazard</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144746Z" creationid="CCYU" creationdate="20140807T144746Z">
@@ -8006,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Germ Cell Mutagenicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175445Z" creationid="Judy" creationdate="20140818T175445Z">
+        <seg>生殖細胞誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Germ cell mutagenicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144557Z" creationid="CCYU" creationdate="20140807T144557Z">
@@ -11422,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not listed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175452Z" creationid="Judy" creationdate="20140818T175452Z">
+        <seg>未列出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not many trucking accidents leave less than a gallon of fluid on the ground.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T132145Z" creationid="CCYU" creationdate="20140817T132145Z">
@@ -13799,6 +13823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproductive Toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175504Z" creationid="Judy" creationdate="20140818T175504Z">
+        <seg>生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reproductive toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023736Z" creationid="CCYU" creationdate="20140809T023736Z">
@@ -13827,6 +13859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112804Z">
         <seg>防火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respiratory or Skin Sensitization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175422Z" creationid="Judy" creationdate="20140818T175422Z">
+        <seg>呼吸道或皮膚過敏</seg>
       </tuv>
     </tu>
     <tu>
@@ -14467,6 +14507,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174952Z" creationid="Judy" creationdate="20140818T174952Z">
         <seg>穩定性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOST -- Single Exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175524Z" creationid="Judy" creationdate="20140818T175524Z">
+        <seg>STOT -- 單次暴露</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOST = Specific Target Organ Systemic Toxicity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175556Z" creationid="Judy" creationdate="20140818T175556Z">
+        <seg>STOST = 特定目標器官毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>STOST – Repeated Exposure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175530Z" creationid="Judy" creationdate="20140818T175530Z">
+        <seg>STOT -- 多次暴露</seg>
       </tuv>
     </tu>
     <tu>
