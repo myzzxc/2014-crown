@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>% VOLATILE by VOLUME</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174458Z" creationid="Judy" creationdate="20140818T174458Z">
+        <seg>體積 % 揮發性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%-&lt;t0/&gt;b.w&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064511Z" creationid="MAE" creationdate="20140807T064511Z">
@@ -2483,6 +2491,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTO IGNITION TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174511Z" creationid="Judy" creationdate="20140818T174511Z">
+        <seg>自燃溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absorb with an inert material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013845Z" creationid="CCYU" creationdate="20140809T013756Z">
@@ -2799,6 +2815,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164836Z" creationid="CCYU" creationdate="20140816T164836Z">
         <seg>汽車售後市場 &amp; 卡車運輸大型製造業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air Porosity: 10 - 20% (V/V)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174641Z" creationid="Judy" creationdate="20140818T174641Z">
+        <seg>空氣孔隙率： 10 - 20%（V/V）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3631,6 +3655,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082758Z" creationid="CCYU" creationdate="20140817T074726Z">
         <seg>吸收護邊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BOILING POINT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174518Z" creationid="Judy" creationdate="20140818T174518Z">
+        <seg>沸點：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5381,6 +5413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DECOMPOSITION TEMPERATURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174516Z" creationid="Judy" creationdate="20140818T174516Z">
+        <seg>分解溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z">
@@ -6225,6 +6265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074435Z">
         <seg>乾硬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dry Bulk Density: 4 - 9 &lt;t0/&gt;lbs&lt;t1/&gt; /&lt;t2/&gt;cu.ft&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174736Z" creationid="Judy" creationdate="20140818T174736Z">
+        <seg>乾體積密度： 4-9 &lt;t0/&gt;磅&lt;t1/&gt; / &lt;t2/&gt;立方英尺&lt;t3/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7129,6 +7177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162342Z" creationid="Judy" creationdate="20140818T162342Z">
         <seg>配方：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FREEZING POINT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174611Z" creationid="Judy" creationdate="20140818T174611Z">
+        <seg>凝固點：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10070,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MELTING POINT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174521Z" creationid="Judy" creationdate="20140818T174521Z">
+        <seg>熔點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
@@ -11894,6 +11958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PARTITION COEFFICIENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174505Z" creationid="Judy" creationdate="20140818T174505Z">
+        <seg>分配係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PBT: Specified</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030308Z" creationid="CCYU" creationdate="20140809T030308Z">
@@ -11938,6 +12010,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174153Z" creationid="Judy" creationdate="20140818T174153Z">
         <seg>酸鹼值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PHYSICAL CHARACTERISTICS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174630Z" creationid="Judy" creationdate="20140818T174630Z">
+        <seg>物理特性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14203,6 +14283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055036Z" creationid="MAE" creationdate="20140727T055036Z">
         <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SOLUBILITY IN WATER:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174542Z" creationid="Judy" creationdate="20140818T174542Z">
+        <seg>水中溶解度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18743,10 +18831,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VAPOR DENSITY (AIR = 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174534Z" creationid="Judy" creationdate="20140818T174534Z">
+        <seg>蒸氣密度 (空氣 = 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAPOR PRESSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174524Z" creationid="Judy" creationdate="20140818T174524Z">
+        <seg>蒸汽壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VENTILATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173109Z" creationid="Judy" creationdate="20140818T173109Z">
         <seg>通風：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VISCOSITY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174617Z" creationid="Judy" creationdate="20140818T174617Z">
+        <seg>黏度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VOC CONTENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174623Z" creationid="Judy" creationdate="20140818T174623Z">
+        <seg>VOC 含量</seg>
       </tuv>
     </tu>
     <tu>
@@ -18955,6 +19075,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072016Z" creationid="CCYU" creationdate="20140817T072016Z">
         <seg>廢油區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WATER SOLUBILITY IN THE SOLVENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174604Z" creationid="Judy" creationdate="20140818T174604Z">
+        <seg>溶劑中溶解度</seg>
       </tuv>
     </tu>
     <tu>
