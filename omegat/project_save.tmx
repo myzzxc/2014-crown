@@ -3683,6 +3683,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BIOACCUMULATION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180320Z" creationid="Judy" creationdate="20140818T180320Z">
+        <seg>生物累積性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BIODEGRADATION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180327Z" creationid="Judy" creationdate="20140818T180309Z">
+        <seg>生物分解性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BOILING POINT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174518Z" creationid="Judy" creationdate="20140818T174518Z">
@@ -4656,6 +4672,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033729Z">
         <seg>檢查現存的鋼筋位置 (若現存鋼筋的位置未知，則應使用鋼筋檢測儀根據施工文件進行檢測，並於建築構件上標示重疊接頭)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemical</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180301Z" creationid="Judy" creationdate="20140818T180301Z">
+        <seg>化學性</seg>
       </tuv>
     </tu>
     <tu>
@@ -6449,6 +6473,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131618Z" creationid="CCYU" creationdate="20140807T131618Z">
         <seg>EC no&lt;t0/&gt;. EC 編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ECO TOXICITY:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180334Z" creationid="Judy" creationdate="20140818T180334Z">
+        <seg>生態毒性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10230,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOBILITY:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180343Z" creationid="Judy" creationdate="20140818T180343Z">
+        <seg>流動性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
@@ -11786,6 +11826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092429Z">
         <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only selected Registry of Toxic Effects of Chemical Substances (RTECS) data is presented here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180115Z" creationid="Judy" creationdate="20140818T180115Z">
+        <seg>此處僅列出選定的化學物質毒性資料庫 (RTECS) 資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14735,6 +14783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 12: Ecological Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180230Z" creationid="Judy" creationdate="20140818T180230Z">
+        <seg>第 12 節：生態資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 1: Chemical Product and Company Identification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160846Z" creationid="Judy" creationdate="20140818T160846Z">
@@ -14859,6 +14915,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T053445Z">
         <seg>請參閱表 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See actual entry in RTECS for complete information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180208Z" creationid="Judy" creationdate="20140818T180208Z">
+        <seg>完整資訊請見 RTECS 。</seg>
       </tuv>
     </tu>
     <tu>
