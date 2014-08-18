@@ -15703,6 +15703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some second&lt;t6/&gt;- &lt;t7/&gt;or third-order models take non-isothermal and transient effects into account and are &lt;t8/&gt;capable of predicting the average values of volume, pressure, and heat transfer rate in each section at each time step of the cycle, allowing the overall heat input and power output in a cycle to be calculated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220418Z" creationid="Judy" creationdate="20140818T220418Z">
+        <seg>某些二階與三階模型將非等溫和暫態影響列入考慮，能夠預測循環於每個時間點及每個片段Some second&lt;t6/&gt;- &lt;t7/&gt;or third-order models take non-isothermal and transient effects into account and are &lt;t8/&gt;capable of predicting the average values of volume, pressure, and heat transfer rate in each section at each time step of the cycle, allowing the overall heat input and power output in a cycle to be calculated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some warehouses have a huge problem with condensation on their floor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114322Z" creationid="CCYU" creationdate="20140817T114322Z">
