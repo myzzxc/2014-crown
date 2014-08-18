@@ -14423,6 +14423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SDS&lt;t0/&gt; &lt;t1/&gt;Page &lt;t2/&gt;3&lt;t3/&gt; &lt;t4/&gt;of &lt;t5/&gt;6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190951Z" creationid="Judy" creationdate="20140818T190951Z">
+        <seg>安全資料表&lt;t0/&gt; &lt;t1/&gt;第 &lt;t2/&gt;3&lt;t3/&gt; / &lt;t4/&gt;&lt;t5/&gt;6 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SEA TRANSPORT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181201Z" creationid="Judy" creationdate="20140818T181201Z">
@@ -16459,6 +16467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190023Z" creationid="Judy" creationdate="20140818T190023Z">
         <seg>此物質安全資料表中的資料來源包括文獻、自家研究資料以及類比相似化學物質或產品的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE RECOMMENDED HANDLING PROCEDURES ARE BELIEVED TO BE GENERALLY APPLICABLE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190835Z" creationid="Judy" creationdate="20140818T190835Z">
+        <seg>建議之處理程序為普遍適用。</seg>
       </tuv>
     </tu>
     <tu>
