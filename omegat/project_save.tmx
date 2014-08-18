@@ -2379,6 +2379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACTION TO BE TAKEN IF MATERIAL IS RELEASED OR SPILLED:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172241Z" creationid="Judy" creationdate="20140818T172241Z">
+        <seg>若材料洩漏或外溢所採取之措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADN/ADNR Class</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031640Z" creationid="CCYU" creationdate="20140809T031640Z">
@@ -3819,6 +3827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Break bags or&lt;t0/&gt; &lt;t1/&gt;separate pile to assure that the fire is extinguished UNUSUAL FIRE AND EXPLOSION HAZARDS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172153Z" creationid="Judy" creationdate="20140818T172153Z">
+        <seg>打破袋子或分散堆疊以確保火焰以被撲滅 異常火警和爆炸危險：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brownish, fibrous material</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164835Z" creationid="Judy" creationdate="20140818T164835Z">
@@ -3879,6 +3895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092741Z" creationid="CCYU" creationdate="20140809T092741Z">
         <seg>Bulk density 體積密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burning may continue inside bags or piles after surface fire is out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172011Z" creationid="Judy" creationdate="20140818T172011Z">
+        <seg>表面火源被撲滅後，袋子或堆疊內部可能持續燃燒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14187,6 +14211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171509Z" creationid="Judy" creationdate="20140818T171509Z">
         <seg>第 5 節：消防措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 6: Accidental Release Measures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172159Z" creationid="Judy" creationdate="20140818T172159Z">
+        <seg>第 6 節：意外洩漏措施</seg>
       </tuv>
     </tu>
     <tu>
