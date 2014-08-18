@@ -3675,6 +3675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid&lt;t0/&gt; &lt;t1/&gt;contact&lt;t2/&gt; &lt;t3/&gt;with&lt;t4/&gt; &lt;t5/&gt;Skin&lt;t6/&gt; &lt;t7/&gt;Avoid&lt;t8/&gt; &lt;t9/&gt;contact&lt;t10/&gt; &lt;t11/&gt;with&lt;t12/&gt; Eyes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181533Z" creationid="Judy" creationdate="20140818T181533Z">
+        <seg>避免接觸皮膚 避免接觸眼睛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Axial distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044515Z" creationid="MAE" creationdate="20140727T044515Z">
@@ -8702,6 +8710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IRRITANT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181319Z" creationid="Judy" creationdate="20140818T181319Z">
+        <seg>刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ISO 3506-1Class A4 Stainless</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013516Z">
@@ -9834,6 +9850,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115041Z">
         <seg>網址：&lt;t0/&gt; &lt;t1/&gt;www.medisana.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Irritating&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;Eyes&lt;t4/&gt; &lt;t5/&gt;Irritating&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;Skin</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181505Z" creationid="Judy" creationdate="20140818T181505Z">
+        <seg>眼睛刺激性 皮膚刺激性</seg>
       </tuv>
     </tu>
     <tu>
@@ -13311,6 +13335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R-Phrase:&lt;t0/&gt; &lt;t1/&gt;S-Phrase:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181431Z" creationid="Judy" creationdate="20140818T181431Z">
+        <seg>警示性質標準詞：安全建議標準詞：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RAIL TRANSPORT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181156Z" creationid="Judy" creationdate="20140818T181156Z">
@@ -13467,6 +13499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165320Z" creationid="Judy" creationdate="20140818T165320Z">
         <seg>警示性質標準詞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RISK PHRASES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181604Z" creationid="Judy" creationdate="20140818T181604Z">
+        <seg>警示性質標準詞：</seg>
       </tuv>
     </tu>
     <tu>
