@@ -5181,6 +5181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATE PREPARED:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161229Z" creationid="Judy" creationdate="20140818T161229Z">
+        <seg>編訂日期：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DESCRIPTION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T135027Z">
@@ -6897,6 +6905,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080753Z" creationid="CCYU" creationdate="20140809T080753Z">
         <seg>Fax-no.: 傳真：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161130Z" creationid="Judy" creationdate="20140818T161130Z">
+        <seg>傳真：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10806,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>November 9, 2012</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161234Z" creationid="Judy" creationdate="20140818T161234Z">
+        <seg>2012 年 11 月 9 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -11614,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phone:   301-933-4196</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161126Z" creationid="Judy" creationdate="20140818T161126Z">
+        <seg>電話： 301-933-4196</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone: +49 (211) 5611-2000</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144314Z" creationid="CCYU" creationdate="20140808T144314Z">
@@ -12347,6 +12379,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040506Z">
         <seg>保留以供未來使用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REVISION DATE&lt;t0/&gt;: November 12, 2012</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161254Z" creationid="Judy" creationdate="20140818T161254Z">
+        <seg>修訂日期 &lt;t0/&gt;： 2012 年 11 月 12 日</seg>
       </tuv>
     </tu>
     <tu>
@@ -13531,6 +13571,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071919Z" creationid="CCYU" creationdate="20140817T071919Z">
         <seg>系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety Data Sheet Competent Person:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161201Z" creationid="Judy" creationdate="20140818T161201Z">
+        <seg>安全資料表主管人：</seg>
       </tuv>
     </tu>
     <tu>
