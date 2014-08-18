@@ -9464,8 +9464,8 @@
       <tuv lang="EN-US">
         <seg>In these models, the entire engine is divided into 3, or 5, or more sections (control volumes), so they are practically zero&lt;t4/&gt;- &lt;t5/&gt;or one-dimensional models.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T215125Z" creationid="Judy" creationdate="20140818T215125Z">
-        <seg>在這些模型中，整個引擎分為 3、或 5 或更多的部份 (控制體積)，因此實際上其為零或一維模型。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220433Z" creationid="Judy" creationdate="20140818T215125Z">
+        <seg>在這些模型中，整個引擎分為 3、或 5 或更多的片段 (控制體積)，因此實際上其為零或一維模型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15705,8 +15705,8 @@
       <tuv lang="EN-US">
         <seg>Some second&lt;t6/&gt;- &lt;t7/&gt;or third-order models take non-isothermal and transient effects into account and are &lt;t8/&gt;capable of predicting the average values of volume, pressure, and heat transfer rate in each section at each time step of the cycle, allowing the overall heat input and power output in a cycle to be calculated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220418Z" creationid="Judy" creationdate="20140818T220418Z">
-        <seg>某些二階與三階模型將非等溫和暫態影響列入考慮，能夠預測循環於每個時間點及每個片段Some second&lt;t6/&gt;- &lt;t7/&gt;or third-order models take non-isothermal and transient effects into account and are &lt;t8/&gt;capable of predicting the average values of volume, pressure, and heat transfer rate in each section at each time step of the cycle, allowing the overall heat input and power output in a cycle to be calculated.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220724Z" creationid="Judy" creationdate="20140818T220418Z">
+        <seg>某些二階與三階模型將非等溫和暫態影響列入考慮，能夠預測循環於每個時間點及每個片段的平均體積、壓力與熱傳速率值，便能計算單一循環中的總熱量輸入與功率輸出。</seg>
       </tuv>
     </tu>
     <tu>
