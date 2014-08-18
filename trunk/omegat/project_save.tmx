@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>150 &lt;t0/&gt;º&lt;t1/&gt;C Minimum (Open cup)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174224Z" creationid="Judy" creationdate="20140818T174224Z">
+        <seg>最低 150 &lt;t0/&gt;º&lt;t1/&gt;C  (開杯)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15mg/m3 Total dust</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165434Z" creationid="Judy" creationdate="20140818T165434Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T131131Z">
         <seg>3.2.1 fischer FIS EM 黏著劑：&lt;t0/&gt; fischer FIS EM 黏著劑為可注射之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3.5 to 4.5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174201Z" creationid="Judy" creationdate="20140818T174201Z">
+        <seg>3.5 至 4.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084354Z" creationid="CCYU" creationdate="20140809T013205Z">
         <seg>6.&lt;t0/&gt; &lt;t1/&gt;ACCIDENTAL RELEASE MEASURES 意外洩漏措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>60-90 g/l (on dry weight basis)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174352Z" creationid="Judy" creationdate="20140818T174352Z">
+        <seg>60-90 g/l (乾重)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6477,10 +6501,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EVAPORATION RATE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174402Z" creationid="Judy" creationdate="20140818T174402Z">
+        <seg>蒸發率：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EVIDENCE SUBMITTED</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043753Z">
         <seg>提交證據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXPLOSIVE PROPERTIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174257Z" creationid="Judy" creationdate="20140818T174257Z">
+        <seg>爆炸性</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7081,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164029Z" creationid="Judy" creationdate="20140818T164029Z">
         <seg>火災和爆炸性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FLAMMABILITY (Solid, gas)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174251Z" creationid="Judy" creationdate="20140818T174251Z">
+        <seg>可燃性 (固體、氣體)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9758,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LOWER EXPLOSIVE LIMIT; UPPER EXPLOSIVE LIMIT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174244Z" creationid="Judy" creationdate="20140818T174244Z">
+        <seg>爆炸性下限；爆炸性上限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031133Z" creationid="CCYU" creationdate="20140809T031133Z">
@@ -11438,6 +11494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OXIDIZING PROPERTIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174301Z" creationid="Judy" creationdate="20140818T174301Z">
+        <seg>氧化性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Observe gelling time &lt;t0/&gt;tgel&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084127Z">
@@ -11866,6 +11930,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031117Z" creationid="CCYU" creationdate="20140809T031117Z">
         <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group 包裝類別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174153Z" creationid="Judy" creationdate="20140818T174153Z">
+        <seg>酸鹼值</seg>
       </tuv>
     </tu>
     <tu>
@@ -14139,6 +14211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171705Z" creationid="Judy" creationdate="20140818T171705Z">
         <seg>特殊消防程序：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SPECIFIC GRAVITY (@25 &lt;t0/&gt;o&lt;t1/&gt;C&lt;t2/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174320Z" creationid="Judy" creationdate="20140818T174320Z">
+        <seg>比重 (@25 &lt;t0/&gt;o&lt;t1/&gt;C&lt;t2/&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19659,6 +19739,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053514Z">
         <seg>例如：型號 TS 471</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>earthy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174147Z" creationid="Judy" creationdate="20140818T174147Z">
+        <seg>泥土味</seg>
       </tuv>
     </tu>
     <tu>
