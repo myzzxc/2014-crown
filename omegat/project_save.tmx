@@ -2411,6 +2411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPEARANCE - COLOR:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173916Z" creationid="Judy" creationdate="20140818T173916Z">
+        <seg>外觀 - 顏色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>APPEARANCE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164823Z" creationid="Judy" creationdate="20140818T164823Z">
@@ -3567,6 +3575,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
         <seg>自動關機：約 3 小時後 開關設置： 0 - 1 - 2 - 3 - 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoid contact with eyes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173842Z" creationid="Judy" creationdate="20140818T173842Z">
+        <seg>避免接觸眼睛。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6497,6 +6513,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
         <seg>每次切換開關時亮綠燈，然後根據設置溫度閃爍紅光（兩次、三次或四次閃爍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Earthy odor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174044Z" creationid="Judy" creationdate="20140818T174044Z">
+        <seg>泥土氣味</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,6 +11342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ODOR THRESHOLD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174123Z" creationid="Judy" creationdate="20140818T174123Z">
+        <seg>氣味低限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ODOR:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174039Z" creationid="Judy" creationdate="20140818T174039Z">
+        <seg>氣味：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OECD 203 Fish, Acute Toxicity Test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024441Z" creationid="CCYU" creationdate="20140809T024441Z">
@@ -11830,6 +11870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PHYSICAL STATE:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173926Z" creationid="Judy" creationdate="20140818T173926Z">
+        <seg>物理狀態:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POTENTIAL HEALTH EFFECTS:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164250Z" creationid="Judy" creationdate="20140818T164250Z">
@@ -11850,6 +11898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165158Z" creationid="Judy" creationdate="20140818T165158Z">
         <seg>產品成分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCT CRITERIA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174050Z" creationid="Judy" creationdate="20140818T174050Z">
+        <seg>產品標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -12002,6 +12058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125927Z">
         <seg>零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partially decomposed vegetation material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174035Z" creationid="Judy" creationdate="20140818T173948Z">
+        <seg>部分降解植物性材料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14387,6 +14451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173101Z" creationid="Judy" creationdate="20140818T173101Z">
         <seg>第 8 節：暴露管控 / 個人防護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 9: Physical and Chemical Properties</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173858Z" creationid="Judy" creationdate="20140818T173858Z">
+        <seg>第 9 節：物理與化學性質</seg>
       </tuv>
     </tu>
     <tu>
@@ -18823,6 +18895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WORK/HYGIENE PRACTICES:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173836Z" creationid="Judy" creationdate="20140818T173836Z">
+        <seg>工作 / 衛生措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warranty and repair terms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114652Z">
@@ -18834,6 +18914,14 @@
         <seg>Wash hands after handling this material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173010Z" creationid="Judy" creationdate="20140818T172925Z">
+        <seg>搬運材料後洗手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wash hands after handling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173849Z" creationid="Judy" creationdate="20140818T173849Z">
         <seg>搬運材料後洗手。</seg>
       </tuv>
     </tu>
