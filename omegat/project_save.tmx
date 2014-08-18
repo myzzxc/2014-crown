@@ -6989,6 +6989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>European Community Hazards Identification: R:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185410Z" creationid="Judy" creationdate="20140818T185410Z">
+        <seg>歐洲共同體危害標識：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>European Technical Assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122609Z">
@@ -15055,6 +15063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 16: Other Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185327Z" creationid="Judy" creationdate="20140818T185327Z">
+        <seg>第 16 節：其他資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 1: Chemical Product and Company Identification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160846Z" creationid="Judy" creationdate="20140818T160846Z">
@@ -18675,6 +18691,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184712Z" creationid="Judy" creationdate="20140818T184712Z">
         <seg>此產品符合管制產品規章 (CPR)  SOR/88-66 之危害標準，自即日起至 2012 年 2 月 20 日。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product has been reviewed for compliance with the following European Community Directives: REACH 1907/2006; Directive 67/548/EEC, Regulation (EC) No 1272/2008 on classification, labeling and packaging (CLP) of substances and mixtures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185321Z" creationid="Judy" creationdate="20140818T185321Z">
+        <seg>本產品經審查符合下歐洲共同體指令：DEC 1907/2006；指令 67/548/EEC 、規章 (EC) 編號 1272/2008 物質和混合物之分類、標籤和包裝 (CLP) 。</seg>
       </tuv>
     </tu>
     <tu>
