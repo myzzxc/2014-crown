@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NO WARRANTY, EITHER EXPRESSED OR IMPLIED, IS MADE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190716Z" creationid="Judy" creationdate="20140818T190641Z">
+        <seg>不作為保固用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z">
@@ -16451,6 +16459,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190023Z" creationid="Judy" creationdate="20140818T190023Z">
         <seg>此物質安全資料表中的資料來源包括文獻、自家研究資料以及類比相似化學物質或產品的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THIS DATA IS OFFERED IN GOOD FAITH AS TYPICAL VALUES AND NOT AS A PRODUCT SPECIFICATION.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190643Z" creationid="Judy" creationdate="20140818T190626Z">
+        <seg>此資料僅提供有特性值並非產品規格，</seg>
       </tuv>
     </tu>
     <tu>
