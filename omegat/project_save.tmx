@@ -4091,6 +4091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CALIFORNIA PROPOSITION 65:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183438Z" creationid="Judy" creationdate="20140818T183438Z">
+        <seg>加州商業法 65：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAS / EC / Index /&lt;t0/&gt; &lt;t1/&gt;REACH no</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133705Z" creationid="MAE" creationdate="20140807T064242Z">
@@ -17119,6 +17127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Section 313 toxic chemicals contained in this product are: None</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183410Z" creationid="Judy" creationdate="20140818T183410Z">
+        <seg>本產品所含之 313 節所載之有毒化學物質： 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The actual position of the reinforcement in the existing structure shall be determined on the basis of the construction documentation and taken into account when designing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032054Z">
@@ -18471,6 +18487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This information must be included in all MSDS’s that are copied and distributed for the material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183251Z" creationid="Judy" creationdate="20140818T183251Z">
+        <seg>此資訊必須包含在所有銷售材料隨附之物質安全資料表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This instruction manual belongs to this device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z">
@@ -18769,8 +18793,8 @@
       <tuv lang="EN-US">
         <seg>Trade Secret (TS) Some items on this MSDS may be designated as trade secrets.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165837Z" creationid="Judy" creationdate="20140818T165837Z">
-        <seg>商業機密 (TS) 此 MSDS 上某些項目為商業機密。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183305Z" creationid="Judy" creationdate="20140818T165837Z">
+        <seg>商業機密 (TS) 此物質安全資料表上某些項目為商業機密。</seg>
       </tuv>
     </tu>
     <tu>
