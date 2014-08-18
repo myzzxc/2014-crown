@@ -9478,6 +9478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, any variation in the transverse direction that is important for predicting the engine’s performance accurately will not be accounted for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T221245Z" creationid="Judy" creationdate="20140818T221222Z">
+        <seg>此情況下，便無法將用以預測引擎性能之中重要的橫斷向變化列入考慮，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z">
