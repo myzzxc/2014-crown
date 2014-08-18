@@ -8142,6 +8142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INGESTION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164255Z" creationid="Judy" creationdate="20140818T164255Z">
+        <seg>誤食：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INHALATION:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164308Z" creationid="Judy" creationdate="20140818T164308Z">
+        <seg>吸入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ISO 3506-1Class A4 Stainless</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013516Z">
@@ -10454,6 +10470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164305Z" creationid="Judy" creationdate="20140818T164305Z">
+        <seg>無資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Performance Determined (NPD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050456Z" creationid="MAE" creationdate="20140727T050456Z">
@@ -10818,6 +10842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164018Z" creationid="Judy" creationdate="20140818T164018Z">
         <seg>根據 IATA、IMO 和 DOT 不歸類為危險物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not considered flammable or combustible, but this product will burn if involved in a fire.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164234Z" creationid="Judy" creationdate="20140818T164234Z">
+        <seg>非易燃或可燃物，但此產品若放入火焰中會燃燒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031117Z" creationid="CCYU" creationdate="20140809T031117Z">
         <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group 包裝類別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POTENTIAL HEALTH EFFECTS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164250Z" creationid="Judy" creationdate="20140818T164250Z">
+        <seg>潛在健康影響：</seg>
       </tuv>
     </tu>
     <tu>
