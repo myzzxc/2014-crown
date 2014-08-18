@@ -2331,6 +2331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A detailed overview of the existing numerical models for the analysis on different Stirling engine cycles can be found in &lt;t2/&gt;Mahkamov&lt;t3/&gt; [5].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214543Z" creationid="Judy" creationdate="20140818T214543Z">
+        <seg>&lt;t2/&gt;Mahkamov&lt;t3/&gt; [5] 的著作中詳細記載了現有的分析不同史特林引擎循環之數值模型概觀，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few 20g spill kits should be a no brainer for every warehouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z" creationid="CCYU" creationdate="20140817T113845Z">
