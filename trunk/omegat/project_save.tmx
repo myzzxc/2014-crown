@@ -17719,6 +17719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trade Secret (TS) Some items on this MSDS may be designated as trade secrets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165837Z" creationid="Judy" creationdate="20140818T165837Z">
+        <seg>商業機密 (TS) 此 MSDS 上某些項目為商業機密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trade name</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133303Z" creationid="CCYU" creationdate="20140808T133242Z">
@@ -18943,6 +18951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ammoniacal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165646Z" creationid="Judy" creationdate="20140818T165646Z">
+        <seg>氨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>anchor spacing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015530Z">
@@ -18963,6 +18979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
         <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>boron</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165700Z" creationid="Judy" creationdate="20140818T165700Z">
+        <seg>硼</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,6 +19039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>calcium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165652Z" creationid="Judy" creationdate="20140818T165652Z">
+        <seg>鈣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>char&lt;t0/&gt;acteristic&lt;t1/&gt;; sweetish</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131935Z" creationid="CCYU" creationdate="20140808T131935Z">
@@ -19051,6 +19083,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
         <seg>壓縮空氣工具手滑閥 (至少 6 bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copper</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165658Z" creationid="Judy" creationdate="20140818T165658Z">
+        <seg>銅</seg>
       </tuv>
     </tu>
     <tu>
@@ -19351,6 +19391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iron</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165659Z" creationid="Judy" creationdate="20140818T165659Z">
+        <seg>鐵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>l0 	lap length, according to EN 1992-1-1:2004+AC:2010, Section 8.7.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040934Z">
@@ -19371,6 +19419,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092457Z" creationid="CCYU" creationdate="20140809T092457Z">
         <seg>liquid 液體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>magnesium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165653Z" creationid="Judy" creationdate="20140818T165653Z">
+        <seg>鎂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>manganese</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165657Z" creationid="Judy" creationdate="20140818T165657Z">
+        <seg>錳</seg>
       </tuv>
     </tu>
     <tu>
@@ -19435,6 +19499,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131755Z" creationid="CCYU" creationdate="20140817T131755Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nitrate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165642Z" creationid="Judy" creationdate="20140818T165642Z">
+        <seg>硝酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nitrogen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165702Z" creationid="Judy" creationdate="20140818T165702Z">
+        <seg>氮</seg>
       </tuv>
     </tu>
     <tu>
@@ -19519,10 +19599,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>phosphorus</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165649Z" creationid="Judy" creationdate="20140818T165649Z">
+        <seg>磷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>position of the anchor relative to reinforcement or to supports, etc.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135234Z">
         <seg>錨固相對於加固或支撐的位置)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>potassium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165651Z" creationid="Judy" creationdate="20140818T165651Z">
+        <seg>鉀</seg>
       </tuv>
     </tu>
     <tu>
@@ -19611,6 +19707,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110727Z" creationid="CCYU" creationdate="20140809T110727Z">
         <seg>slightly 淡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sodium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165654Z" creationid="Judy" creationdate="20140818T165654Z">
+        <seg>鈉</seg>
       </tuv>
     </tu>
     <tu>
@@ -19822,6 +19926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zinc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165655Z" creationid="Judy" creationdate="20140818T165655Z">
+        <seg>鋅</seg>
       </tuv>
     </tu>
     <tu>
