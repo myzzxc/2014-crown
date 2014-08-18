@@ -10438,6 +10438,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Precautionary statement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163715Z" creationid="Judy" creationdate="20140818T163637Z">
+        <seg>無預防性說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Precautionary statement Response</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163726Z" creationid="Judy" creationdate="20140818T163618Z">
+        <seg>無預防性說明 應變措施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No classification required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081454Z" creationid="CCYU" creationdate="20140809T081454Z">
@@ -11952,8 +11968,8 @@
       <tuv lang="EN-US">
         <seg>Precautionary Statements:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163257Z" creationid="Judy" creationdate="20140818T163157Z">
-        <seg>預防措施說明：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163733Z" creationid="Judy" creationdate="20140818T163157Z">
+        <seg>預防性說明：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14593,8 +14609,8 @@
       <tuv lang="EN-US">
         <seg>Storage</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013909Z" creationid="CCYU" creationdate="20140809T013909Z">
-        <seg>Storage 儲存</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163641Z" creationid="CCYU" creationdate="20140809T013909Z">
+        <seg>儲存</seg>
       </tuv>
     </tu>
     <tu>
