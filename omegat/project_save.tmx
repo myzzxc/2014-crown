@@ -2427,6 +2427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADDITIONAL INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190305Z" creationid="Judy" creationdate="20140818T190305Z">
+        <seg>附加資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADN/ADNR Class</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031640Z" creationid="CCYU" creationdate="20140809T031640Z">
@@ -14371,6 +14379,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T110035Z" creationid="MAE" creationdate="20140813T110035Z">
         <seg>節省您的時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SAVE-SORB PROVIDES NO WARRANTIES, EITHER EXPRESSED OR IMPLIED, AND ASSUMES NO RESPONSIBILITY FOR THE ACCURACY OR COMPLETENESS OF THE DATA CONTAINED HEREIN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T190255Z" creationid="Judy" creationdate="20140818T190255Z">
+        <seg>SAVE-SORB 不為本文所載資料的完整性和準確性承擔任何責任及提供任何擔保。</seg>
       </tuv>
     </tu>
     <tu>
