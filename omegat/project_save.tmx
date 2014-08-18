@@ -8558,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, the term ‘‘order’’ has nothing to do with the mathematical terms in the governing equations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214907Z" creationid="Judy" creationdate="20140818T214907Z">
+        <seg>此處 ‘‘階’’ 與數學基本方程式中的階無關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hexagon nut, EN ISO 4032:2012</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131212Z">
@@ -18491,6 +18499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063906Z" creationid="MAE" creationdate="20140810T063906Z">
         <seg>這些微裂紋以肉眼無法辨識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These models are basically classiﬁed as the ﬁrst-, second-, and third-order models, according to the model hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214701Z" creationid="Judy" creationdate="20140818T214701Z">
+        <seg>這些模型依據模型結構基本上可分為一階、二階以及三階模型。</seg>
       </tuv>
     </tu>
     <tu>
