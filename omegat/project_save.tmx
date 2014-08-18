@@ -2435,6 +2435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADR = International Carriage of Dangerous Goods by Road</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181150Z" creationid="Judy" creationdate="20140818T181150Z">
+        <seg>ADR = International Carriage of Dangerous Goods by Road 國際道路危險貨物運輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ADR Tunnel Code:&lt;t0/&gt; &lt;t1/&gt;(-)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031628Z" creationid="CCYU" creationdate="20140809T031628Z">
@@ -2447,6 +2455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031237Z" creationid="CCYU" creationdate="20140809T031237Z">
         <seg>ADR/RID Class ADR/RID 分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AIR TRANSPORT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181204Z" creationid="Judy" creationdate="20140818T181204Z">
+        <seg>航空運輸：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,6 +5949,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directive 67/548/EEC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181245Z" creationid="Judy" creationdate="20140818T181245Z">
+        <seg>67/548/EEC 指令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect the mains adapter from the mains socket immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052610Z">
@@ -8574,6 +8598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IATA/ICAO CLASS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181217Z" creationid="Judy" creationdate="20140818T181217Z">
+        <seg>IATA/ICAO 分類：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ICC-ES Evaluation Report ESR-1990&lt;t0/&gt;* &lt;t1/&gt;Reissued August 1, 2013 This report is subject to renewal September 1, 2015.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T024534Z">
@@ -9994,6 +10026,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T084114Z" creationid="CCYU" creationdate="20140817T084045Z">
         <seg>將油自此類桶子上方匯集並使其流至下方是一場持久戰，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LABEL FOR SUPPLY:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181303Z" creationid="Judy" creationdate="20140818T181303Z">
+        <seg>標籤：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +13311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAIL TRANSPORT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181156Z" creationid="Judy" creationdate="20140818T181156Z">
+        <seg>鐵路運輸：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RAL 3000 red</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065345Z" creationid="MAE" creationdate="20140810T065345Z">
@@ -14199,6 +14247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SEA TRANSPORT:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181201Z" creationid="Judy" creationdate="20140818T181201Z">
+        <seg>海上運輸：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SECTION 10: Stability and reactivity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143539Z" creationid="CCYU" creationdate="20140807T143539Z">
@@ -14851,6 +14907,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180837Z" creationid="Judy" creationdate="20140818T180837Z">
         <seg>第 14 節：運輸資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 15: Regulatory Information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181226Z" creationid="Judy" creationdate="20140818T181226Z">
+        <seg>第 15 節：法規資訊</seg>
       </tuv>
     </tu>
     <tu>
