@@ -3891,6 +3891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CHEMICAL NAME:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161632Z" creationid="Judy" creationdate="20140818T161632Z">
+        <seg>化學品名稱：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPANY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104843Z" creationid="MAE" creationdate="20140813T104843Z">
@@ -5183,8 +5191,8 @@
       <tuv lang="EN-US">
         <seg>DATE PREPARED:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161229Z" creationid="Judy" creationdate="20140818T161229Z">
-        <seg>編訂日期：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161617Z" creationid="Judy" creationdate="20140818T161229Z">
+        <seg>編寫日期：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11362,6 +11370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031117Z" creationid="CCYU" creationdate="20140809T031117Z">
         <seg>PG&lt;t0/&gt;* :&lt;t1/&gt; Packing group 包裝類別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PRODUCT NAME:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161621Z" creationid="Judy" creationdate="20140818T161621Z">
+        <seg>產品名稱：</seg>
       </tuv>
     </tu>
     <tu>
