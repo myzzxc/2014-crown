@@ -4468,6 +4468,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chemtrec&lt;t0/&gt; 24 &lt;t1/&gt;hrs&lt;t2/&gt;: 800-424-9300</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161019Z" creationid="Judy" creationdate="20140818T161019Z">
+        <seg>Chemtrec&lt;t0/&gt; 24 &lt;t1/&gt;小時&lt;t2/&gt; : 800-424-9300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chemtrec&lt;t0/&gt; &lt;t1/&gt;INTERNATIONAL  703&lt;t2/&gt;-527-3887</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161043Z" creationid="Judy" creationdate="20140818T161043Z">
+        <seg>Chemtrec&lt;t0/&gt; &lt;t1/&gt;國際  703&lt;t2/&gt;-527-3887</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cigarette adhesive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080711Z" creationid="CCYU" creationdate="20140809T080711Z">
@@ -6169,6 +6185,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
         <seg>埋設深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EMERGENCY TELEPHONE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160903Z" creationid="Judy" creationdate="20140818T160903Z">
+        <seg>緊急聯絡電話</seg>
       </tuv>
     </tu>
     <tu>
@@ -9562,6 +9586,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062346Z" creationid="CCYU" creationdate="20140817T062346Z">
         <seg>機械加工、鍛造 &amp; 壓製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MANUFACTURER’S NAME:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160853Z" creationid="Judy" creationdate="20140818T160853Z">
+        <seg>製造商名稱：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13595,6 +13627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
         <seg>封口/螺帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 1: Chemical Product and Company Identification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160846Z" creationid="Judy" creationdate="20140818T160846Z">
+        <seg>第 1 節：化學產品和公司標識</seg>
       </tuv>
     </tu>
     <tu>
