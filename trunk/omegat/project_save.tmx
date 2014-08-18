@@ -9206,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improvement on Stirling engine’s performance relies heavily on extensive numerical and experimental research on engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213723Z" creationid="Judy" creationdate="20140818T213723Z">
+        <seg>改進史特林引擎的效能主要藉由廣泛的引擎循環之數值和實驗研究，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
@@ -19075,6 +19083,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z" creationid="CCYU" creationdate="20140809T100144Z">
         <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly. 若正確的處理和使用產品，盡我們所知無危害性影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To&lt;t0/&gt; &lt;t1/&gt;design a new Stirling engine, a numerical analysis often precedes experiment to ﬁnd some general directions to follow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213924Z" creationid="Judy" creationdate="20140818T213918Z">
+        <seg>為了設計新的史特林引擎，通常會在實驗進行前運用數值分析以找出整體方向，</seg>
       </tuv>
     </tu>
     <tu>
