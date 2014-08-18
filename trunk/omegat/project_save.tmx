@@ -17095,6 +17095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The California proposition 65 chemical(s) contained in this product are: None</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183758Z" creationid="Judy" creationdate="20140818T183758Z">
+        <seg>本產品所含之加州商業法 65 要求列出的化學物質：無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The European Technical Assessment is issued by the Technical Assessment Body in its official language.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143042Z">
@@ -18603,6 +18611,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This regulation requires a warning for California Proposition 65 chemical(s) under the statute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183717Z" creationid="Judy" creationdate="20140818T183717Z">
+        <seg>加州商業法 65 要求列出化學物質警告標示。</seg>
       </tuv>
     </tu>
     <tu>
