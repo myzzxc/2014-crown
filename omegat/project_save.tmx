@@ -10046,6 +10046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also a more suitable tool than experiment to carry out parameter optimization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214038Z" creationid="Judy" creationdate="20140818T214038Z">
+        <seg>數值分析比起實驗更適合進行參數最佳化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common to basically use ISO 105 &lt;t0/&gt;A&lt;t1/&gt; 02 a norm for textiles / fabrics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053857Z" creationid="MAE" creationdate="20140810T053844Z">
@@ -18419,6 +18427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z" creationid="CCYU" creationdate="20140817T064000Z">
         <seg>可使用較小的雙桶系統 (20g 包裝或更小的 5g 包裝)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, many numerical models for Stirling engine cycle have been developed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214152Z" creationid="Judy" creationdate="20140818T214152Z">
+        <seg>因此已開發出了許多史特林引擎循環之數值模型，</seg>
       </tuv>
     </tu>
     <tu>
