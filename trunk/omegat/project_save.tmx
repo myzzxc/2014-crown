@@ -7015,8 +7015,8 @@
       <tuv lang="EN-US">
         <seg>Especially the last advantage makes it regarded as an important green energy device and potentially one of the most promising solutions to the global warming problem.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212310Z" creationid="Judy" creationdate="20140818T212310Z">
-        <seg>尤其是最後的優勢使得它作為一種重要的綠色能源裝置和可能對全球氣候變暖問題最有前景的解決方案之一。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212602Z" creationid="Judy" creationdate="20140818T212310Z">
+        <seg>尤其是最後一項優點使其被視為一項重要的綠能裝置，且對全球氣候暖化問題為最有前景的解決方案之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,6 +8650,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102958Z">
         <seg>然而，僅允許經由技術評估機構發佈書面聲明的部分轉載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there are also disadvantages associated&lt;t0/&gt; &lt;t1/&gt;with the Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212648Z" creationid="Judy" creationdate="20140818T212615Z">
+        <seg>然而，史特林引擎也有一些缺點。</seg>
       </tuv>
     </tu>
     <tu>
