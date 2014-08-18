@@ -2249,6 +2249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;( 0.08&lt;t5/&gt; - 0.12 g/cm ) Moisture Content: 10-15% by weight</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174903Z" creationid="Judy" creationdate="20140818T174903Z">
+        <seg>&lt;t4/&gt;( 0.08&lt;t5/&gt; - 0.12 克 / 公分) 水含量：10-15 重量 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Design operations thus to avoid permanent use of protective gloves.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134050Z" creationid="CCYU" creationdate="20140808T134050Z">
@@ -4111,6 +4119,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030437Z">
         <seg>使用條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONDITIONS TO AVOID:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175009Z" creationid="Judy" creationdate="20140818T175009Z">
+        <seg>需避免的環境：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HAZARDOUS DECOMPOSITION PRODUCTS:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175100Z" creationid="Judy" creationdate="20140818T175100Z">
+        <seg>危害性分解產物：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HE&lt;t0/&gt; COMPETITION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T165053Z" creationid="CCYU" creationdate="20140816T165037Z">
@@ -8490,6 +8514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z">
         <seg>重要資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INCOMPATIBILITY (MATERIALS TO AVOID):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175030Z" creationid="Judy" creationdate="20140818T175030Z">
+        <seg>不相容性 (需避免的材料)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14375,6 +14407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>STABILITY:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174952Z" creationid="Judy" creationdate="20140818T174952Z">
+        <seg>穩定性：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>STOT - Specific target organ toxicity (repeated exposure)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023830Z" creationid="CCYU" creationdate="20140809T023830Z">
@@ -14555,6 +14595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
         <seg>封口/螺帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 10: Stability and Reactivity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174945Z" creationid="Judy" creationdate="20140818T174945Z">
+        <seg>第 10 節：穩定性與反應性</seg>
       </tuv>
     </tu>
     <tu>
@@ -15203,6 +15251,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095444Z" creationid="CCYU" creationdate="20140809T095444Z">
         <seg>Stability and reactivity 穩定性與反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174956Z" creationid="Judy" creationdate="20140818T174956Z">
+        <seg>穩定</seg>
       </tuv>
     </tu>
     <tu>
@@ -19219,6 +19275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171645Z" creationid="Judy" creationdate="20140818T171645Z">
         <seg>水、噴霧或灑水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water-Holding Capacity: 63 - 73% by volume</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174940Z" creationid="Judy" creationdate="20140818T174940Z">
+        <seg>吸水量：63 - 73 體積 %</seg>
       </tuv>
     </tu>
     <tu>
