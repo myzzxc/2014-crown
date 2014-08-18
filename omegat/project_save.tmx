@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Bonafide&lt;t1/&gt; requests for disclosure of trade secret information to medical personnel must be made in accordance with the provisions contained in 29 CFR 1910.1200 &lt;t2/&gt;I&lt;t3/&gt; 1-13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T170241Z" creationid="Judy" creationdate="20140818T170241Z">
+        <seg>洩露商業機密予以醫務人員請務必根據 29 CFR 1910.1200 &lt;t2/&gt;I&lt;t3/&gt; 1-13 之規範進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Carcinogenicity&lt;t1/&gt; &lt;t2/&gt;Not available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023051Z" creationid="CCYU" creationdate="20140809T023051Z">
