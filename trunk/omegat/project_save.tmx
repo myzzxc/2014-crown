@@ -2379,6 +2379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPRX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165208Z" creationid="Judy" creationdate="20140818T165208Z">
+        <seg>約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ASSOCIATED STRENGTH REDUCTION FACTOR</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074409Z">
@@ -3883,6 +3891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAS NO.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165249Z" creationid="Judy" creationdate="20140818T165249Z">
+        <seg>CAS 編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAS no.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133719Z" creationid="CCYU" creationdate="20140807T131612Z">
@@ -5233,6 +5249,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054800Z" creationid="MAE" creationdate="20140727T054800Z">
         <seg>處於張力負荷下之位移&lt;t1/&gt;1&lt;t2/&gt;)&lt;t3/&gt; (螺紋柱)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DANGER SYMBOL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165301Z" creationid="Judy" creationdate="20140818T165301Z">
+        <seg>危險標誌</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRODUCT COMPOSITION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165158Z" creationid="Judy" creationdate="20140818T165158Z">
+        <seg>產品成分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCT NAME:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161621Z" creationid="Judy" creationdate="20140818T161621Z">
@@ -12679,6 +12711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RISK PHRASE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165320Z" creationid="Judy" creationdate="20140818T165320Z">
+        <seg>警示性質標準詞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ROCESSING &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091122Z" creationid="CCYU" creationdate="20140817T083541Z">
@@ -12731,6 +12771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143544Z" creationid="CCYU" creationdate="20140807T143544Z">
         <seg>Reactivity 反應性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reactivity (Yellow)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165027Z" creationid="Judy" creationdate="20140818T165027Z">
+        <seg>反應性 (黃色)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13983,6 +14031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Section 3: Composition, Information on Ingredients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165147Z" creationid="Judy" creationdate="20140818T165147Z">
+        <seg>第 3 節：成份之組成、資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020746Z">
@@ -14371,6 +14427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044259Z" creationid="MAE" creationdate="20140808T044259Z">
         <seg>Sources of key data used to compile the data sheet: 資料表編寫之關鍵資料來源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special (White)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165104Z" creationid="Judy" creationdate="20140818T165104Z">
+        <seg>特殊 (白色)</seg>
       </tuv>
     </tu>
     <tu>
