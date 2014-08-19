@@ -18383,6 +18383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The schematic of the geometrical conﬁguration of the engine is given in Fig. 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112444Z" creationid="Judy" creationdate="20140819T112444Z">
+        <seg>圖 1 為引擎的幾何配置示意圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service &lt;t0/&gt;center &lt;t1/&gt;address&lt;t2/&gt; &lt;t3/&gt;is shown&lt;t4/&gt; &lt;t5/&gt;on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z">
@@ -20915,6 +20923,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091810Z" creationid="CCYU" creationdate="20140817T091810Z">
         <seg>可能置機台周圍、下方、無所不在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[12&lt;t2/&gt;,13&lt;t3/&gt;], where the engine was experimentally studied and numerically analyzed by an improved variant of the second-order model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112352Z" creationid="Judy" creationdate="20140819T112252Z">
+        <seg>[12, 13]，對引擎進行了實驗研究並採用改進二階模型進行數值分析。</seg>
       </tuv>
     </tu>
     <tu>
