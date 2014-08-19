@@ -11758,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nomenclature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103437Z" creationid="Judy" creationdate="20140819T103437Z">
+        <seg>Nomenclature </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nominal bar diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021517Z">
@@ -21051,6 +21059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
         <seg>壓縮空氣工具手滑閥 (至少 6 bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>constant&lt;t0/&gt; pressure specific heat (kJ kg-1 K-1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103528Z" creationid="Judy" creationdate="20140819T103528Z">
+        <seg>定壓比熱 (kJ kg-1 K-1)</seg>
       </tuv>
     </tu>
     <tu>
