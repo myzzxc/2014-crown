@@ -2217,6 +2217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Mahkamov&lt;t3/&gt; [5] used both &lt;t4/&gt;second-order approach and axisymmetric CFD approach to analyze the working process of a solar Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073549Z" creationid="Judy" creationdate="20140819T073549Z">
+        <seg>&lt;t2/&gt;Mahkamov&lt;t3/&gt; [5] 使用二階方式於軸對稱計算流體力學方式以分析太陽能史特林引擎作動過程，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;The foregoing may be neglected if building components are new and not carbonated and if building components are in dry conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030822Z">
@@ -2273,6 +2281,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t5/&gt;Mahkamov&lt;t6/&gt; [10] also reported &lt;t7/&gt;a 3D&lt;t8/&gt; CFD approach on a prototype biomass Stirling engine to improvement its performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T075742Z" creationid="Judy" creationdate="20140819T074048Z">
+        <seg>&lt;t5/&gt;Mahkamov&lt;t6/&gt; [10] 也提出一個三維計算流體力學法用於生質史特林引擎原形以改進效能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t6/&gt;Spillows&lt;t7/&gt; can be used to wipe up any smaller spills.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124513Z" creationid="CCYU" creationdate="20140817T124513Z">
@@ -2319,6 +2335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011957Z">
         <seg>A 準備卡匣 1、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Stirling cycle involves very complicated heat and mass transfer processes, and the engine itself consists of many multi-dimensional components whose geometrical effects can be important.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045558Z" creationid="Judy" creationdate="20140819T045558Z">
+        <seg>史特林循環牽涉非常複雜的熱量與質量傳導過程，且引擎本身包含了許多多維度的元件，其幾何影響甚鉅。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3051,6 +3075,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although a Stirling engine is a close system where precise boundaries can be deﬁned, the problem is unsteady, multiphasic, and multi-scale in nature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070659Z" creationid="Judy" creationdate="20140819T070659Z">
+        <seg>雖然史特林引擎為一個封閉系統使其邊界可精確定義，但其問題為不穩定、多相以及多尺度的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although&lt;t14/&gt; &lt;t15/&gt;CFD approach has been applied to the research and development of industrial Stirling engines, in open literature, there has not been a&lt;t16/&gt; &lt;t17/&gt;detailed CFD study on the basic heat transfer processes in the &lt;t18/&gt;γ&lt;t19/&gt;-type Stirling engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T084136Z" creationid="Judy" creationdate="20140819T084136Z">
+        <seg>雖然計算流體力學法已經廣泛應用於工業使特林引擎之研究與開發，但現有文獻中並沒有 γ-型史特林引擎循環中基本熱傳導過程的詳細計算流體力學研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always make sure that the foot warmer is not creased or folded while it is in use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144130Z">
@@ -3063,6 +3103,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173220Z" creationid="Judy" creationdate="20140818T173220Z">
         <seg>於含有此材料處提供良好的通風以減少粉塵暴露。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Among different types of Stirling engines, the &lt;t0/&gt;γ-type&lt;t1/&gt; engine has&lt;t2/&gt; &lt;t3/&gt;many speciﬁc advantages as described in &lt;t4/&gt;Kongtragool&lt;t5/&gt; and &lt;t6/&gt;Wongwises&lt;t7/&gt; [11].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081031Z" creationid="Judy" creationdate="20140819T081031Z">
+        <seg>不同形式的史特林引擎中，γ-型引擎如 Kongtragool&lt;t5/&gt; 和 &lt;t6/&gt;Wongwises&lt;t7/&gt; [11] 所述具有許多特定的優點，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5124,6 +5172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computational ﬂuid dynamics (CFD) approach is one of such numerical models by far that are capable of simulating those complicated processes taking place in Stirling engine and hence returning more accurate prediction on the overall engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T051003Z" creationid="Judy" creationdate="20140819T051003Z">
+        <seg>計算流體力學 (CFD) 為此類數值模型中的一種，可模擬史特林引擎內部複雜的機制且能更精準的預測整體引擎效能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concentration</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064313Z" creationid="MAE" creationdate="20140807T064313Z">
@@ -6533,6 +6589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to these challenges, many attempts to apply CFD approach on Stirling engines focused on separated components such as combustion chamber of the heater [9].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073236Z" creationid="Judy" creationdate="20140819T073236Z">
+        <seg>因為這些挑戰性，許多史特林引擎的計算連體力學方法將重點放於單一元件，如加熱器燃燒腔體 [9]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Durability is only&lt;t1/&gt; &lt;t2/&gt;ensured if the specifications of intended use according to Annex B are taken into account.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021629Z">
@@ -7041,6 +7105,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212602Z" creationid="Judy" creationdate="20140818T212310Z">
         <seg>尤其是最後一項優點使其被視為一項重要的綠能裝置，且對全球氣候暖化問題為最有前景的解決方案之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Especially understanding the effects of the geometrical features is of practical importance because to build a new Stirling engine, engineers have to determine the detail geometries and dimensions of all components in the engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T050511Z" creationid="Judy" creationdate="20140819T050354Z">
+        <seg>特別是了解幾何形狀的影響對於實務上是非常重要的，因為設計新型史特林引擎必須確定引擎內部所有元件的細部幾何形狀與尺寸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8070,6 +8142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, the engine involves moving parts such as displacer and power piston; hence the volume of computational domain is changing with time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070843Z" creationid="Judy" creationdate="20140819T070843Z">
+        <seg>另外，引擎具有移動元件及驅動活塞；因此計算範圍的體積隨時間變化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T115058Z">
@@ -8702,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there exist many challenges associated with applying a CFD approach on a Stirling cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070220Z" creationid="Judy" creationdate="20140819T070209Z">
+        <seg>然而，使用計算流體力學方法於史特林循環上仍存有許多問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hydraulic machines</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121230Z" creationid="CCYU" creationdate="20140817T121230Z">
@@ -9270,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, heat transfer rates inside the expansion and compression chambers are often estimated by using constant convective heat transfer coefﬁcients, a practice that has over-simpliﬁed the complexity of the real heat transfer mechanism taking place inside these chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045015Z" creationid="Judy" creationdate="20140819T045015Z">
+        <seg>另外，膨脹及壓縮腔體內的熱傳速率通常以固定熱對流傳導係數來估計，因而過度簡化了腔體內部實際熱傳導的複雜機制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case of a warranty claim, the date of purchase has to be proven by means of the sales receipt or invoice.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114800Z">
@@ -9442,6 +9538,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023052Z">
         <seg>圖中並未繪製橫向鋼筋，橫向鋼筋應遵守 EN 1992-1-1:20044，AC：2010。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the aspect of coding, simulating the reciprocating motions of displacer and power piston requires the use of moving mesh techniques which introduce complex algorithm and raise the difﬁculty of coding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T071451Z" creationid="Judy" creationdate="20140819T071304Z">
+        <seg>一方面為程式編寫，模擬換氣活塞及驅動活塞往復運動需要使用移動網格，需使用複雜的演算法而提高了程式編寫的困難度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the aspect ﬂow physics, the gas ﬂow is compressible; the heat transfer mechanism&lt;t0/&gt; &lt;t1/&gt;is conjugate heat transfer, involving solid and ﬂuid media; and in most cases, the ﬂow is turbulent; and these give rise to complex heat and mass transfer processes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T072745Z" creationid="Judy" creationdate="20140819T071446Z">
+        <seg>一方面為流體力學，氣體流為可壓縮的；熱傳機制結合了熱傳導，包含固體與液體介質；而多數情況流體為紊流；使得熱量與質量傳導過程更加複雜化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10094,10 +10206,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a low to medium temperature differential engine; therefore it can run on temperature difference from just tens of degree to a couple of hundreds of degree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081226Z" creationid="Judy" creationdate="20140819T081207Z">
+        <seg>其為低溫至中溫度差引擎；因此可運行於數十度至數百度的溫度差之下，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also a more suitable tool than experiment to carry out parameter optimization.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214038Z" creationid="Judy" creationdate="20140818T214038Z">
         <seg>數值分析比起實驗更適合進行參數最佳化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also capable of resolving the effects caused by changes in small geometrical features and potentially be a great tool for the design and development process of a new Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T065802Z" creationid="Judy" creationdate="20140819T065802Z">
+        <seg>同時也能解出由微小幾何尺寸變化造成之效應，且具有潛力作為設計與發展新型史特林引擎的良好工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also much easier and cheaper to be constructed and maintained than other types&lt;t8/&gt; &lt;t9/&gt;of Stirling engines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T083330Z" creationid="Judy" creationdate="20140819T081626Z">
+        <seg>比起其他類型的史特林引擎，其製造與維修更簡單且更便宜，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11722,6 +11858,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130037Z" creationid="CCYU" creationdate="20140808T130037Z">
         <seg>None known. 未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None of these can be resolved in great details or very accurately by those aforementioned numerical models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045914Z" creationid="Judy" creationdate="20140819T045839Z">
+        <seg>上述數值模型皆無法解出非常詳盡或非常準確的過程，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16463,6 +16607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such detailed analysis on the effects imposed by multi-dimensional geometrical features can only be resolved by a CFD approach.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080707Z" creationid="Judy" creationdate="20140819T080707Z">
+        <seg>此類由多維幾何形狀進行的詳細分析只能使用計算流體力學法解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sucrose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131715Z" creationid="CCYU" creationdate="20140807T131715Z">
@@ -17431,6 +17583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CFD method identiﬁed some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080529Z" creationid="Judy" creationdate="20140819T080529Z">
+        <seg>計算流體力學法找出了某些降低引擎功率的關鍵因子：幾何形狀造成再生器、連接兩端壓縮空間管路所包含的氣體以及管路造成的dead volume 之高度流體損失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The California proposition 65 chemical(s) contained in this product are: None</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183758Z" creationid="Judy" creationdate="20140818T183758Z">
@@ -17767,6 +17927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The engine was also analyzed by the ﬁrst-order and second-order approaches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T075926Z" creationid="Judy" creationdate="20140819T075926Z">
+        <seg>同時也以一階與二階法分析引擎，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The essential characteristics regarding Safety in use are included under the Basic Works&lt;t0/&gt; &lt;t1/&gt;Requirement Mechanical resistance and stability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021047Z">
@@ -18039,6 +18207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The objective of this study is to perform CFD&lt;t20/&gt; &lt;t21/&gt;simulation on the working cycle of a &lt;t22/&gt;γ-type Stirling engine to re&lt;t23/&gt;veal the characteristics of its heat transfer processes in great detail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090451Z" creationid="Judy" creationdate="20140819T090451Z">
+        <seg>本研究使用計算流體力學模擬 γ-型史特林引擎工作循環以詳細地揭示其熱傳導過程的特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The oil by nature gets all over the floor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115605Z" creationid="CCYU" creationdate="20140817T115605Z">
@@ -18287,6 +18463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The study also highlighted the usefulness of adopting a CFD approach to identify and solve problems during the design of a Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080855Z" creationid="Judy" creationdate="20140819T080855Z">
+        <seg>研究同時強調於設計史特林引擎時使用計算流體力學法找出並解決問題的實用性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The subject of this European Technical Assessment is the post-installed connection, by&lt;t0/&gt; &lt;t1/&gt;anchoring or overlap connection joint, of reinforcing bars (&lt;t2/&gt;rebars&lt;t3/&gt;) in existing structures made of&lt;t4/&gt; &lt;t5/&gt;normal weight concrete, using the "&lt;t6/&gt;Multifix&lt;t7/&gt; Injection System MF-EX1 for rebar connection" in&lt;t8/&gt; &lt;t9/&gt;accordance with the regulations for reinforced concrete construction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015606Z">
@@ -18347,6 +18531,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T035113Z">
         <seg>新混凝土和現存結構中的剪力轉移，應另外根據 EN 1992-1-1:2004+AC:2010 設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transient temperature variations by CFD approach are far from the harmonic distributions given by the second-order approach, and CFD model returns much more accurate output power than the second-order model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073930Z" creationid="Judy" creationdate="20140819T073930Z">
+        <seg>使用計算流體力學之暫態溫度變化量比二階法更加均勻分布，且計算流體力學模型較二階模型傳回了較精準的輸出功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18479,6 +18671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There have been very limited reports on using CFD approach to study the full cycle of a Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073408Z" creationid="Judy" creationdate="20140819T073408Z">
+        <seg>使用計算流體力學方法研究史特林引擎全循環的文獻資料非常有限，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is no warranty by ICC Evaluation Service, LLC, express or implied, as to any finding or other matter in this report, or as to any product covered by the report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T052908Z">
@@ -18499,6 +18699,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214152Z" creationid="Judy" creationdate="20140818T214152Z">
         <seg>因此已開發出了許多史特林引擎循環之數值模型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, more elaborated models are needed to improve the accuracy of numerical analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T050509Z" creationid="Judy" creationdate="20140819T050509Z">
+        <seg>因此需要更詳盡的模型以改進數值分析的精確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the &lt;t10/&gt;γ-type&lt;t11/&gt; engine is very suitable for&lt;t12/&gt; &lt;t13/&gt;domestic use, which can potentially become a very large market, because of the readily availability and low cost of low-grade fuel and the engine’s simplicity to construct and maintain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T083327Z" creationid="Judy" creationdate="20140819T083327Z">
+        <seg>因此 γ-型引擎非常適合家用，其潛在市場相當大，因為已具備低成本的低階燃料且引擎製造與維修相當簡單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18527,6 +18743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These bring challenges in two aspects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070932Z" creationid="Judy" creationdate="20140819T070912Z">
+        <seg>造成了兩方面的挑戰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These can be requested from the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101039Z" creationid="CCYU" creationdate="20140809T101039Z">
@@ -18539,6 +18763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100956Z" creationid="CCYU" creationdate="20140817T100956Z">
         <seg>這些油桶可能放於托盤上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These factors together with other simpliﬁcations result in poor predictive accuracy returned by these models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045151Z" creationid="Judy" creationdate="20140819T045151Z">
+        <seg>綜合以上因子與其他簡化結果，模型的預測準確度並，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18663,6 +18895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They found signiﬁcant differences in temperature data and engine performance obtained by both methods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073656Z" creationid="Judy" creationdate="20140819T073656Z">
+        <seg>他們發現兩種方法之間的溫度數據與引擎效能有顯著的差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They have areas where they are constantly having small spills.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063534Z" creationid="CCYU" creationdate="20140817T063534Z">
@@ -18715,6 +18955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164514Z" creationid="CCYU" creationdate="20140816T164514Z">
         <seg>這些產品具由卓越的性能與更多的吸收重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They tend to over-predict engine’s output power and efﬁciency by the margins from 30% to 100%, or even more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045328Z" creationid="Judy" creationdate="20140819T045328Z">
+        <seg>常傾向於高估引擎之輸出功率與效率，高估量由 30% 至 100% 或甚至更高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18903,10 +19151,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a very important advantage because the engine can be powered by a wide range of energy sources, including low-grade sources such as solar, biofuel, geothermal, or even industrial waste heat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081458Z" creationid="Judy" creationdate="20140819T081223Z">
+        <seg>這是非常重要的優點，因為引擎可使用廣泛的能源，包含低階能源如太陽能、生物燃料、地熱甚至是工業廢熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is an ideal situation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093614Z" creationid="CCYU" creationdate="20140817T093523Z">
         <seg>這是最理想的情況，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an important step to further improve the performance of such engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090614Z" creationid="Judy" creationdate="20140819T090614Z">
+        <seg>這對於進一步改善此類型引擎循環的效能相當重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18947,6 +19211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123856Z" creationid="CCYU" creationdate="20140817T123528Z">
         <seg>此為雙桶系統能發揮效用之處，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that they are not very accurate in terms of the optimization of the geometries and dimensions of individual components during the design of a Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
+        <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19131,6 +19403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143208Z">
         <seg>且勿放置任何物品於暖腳機上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To resolve these processes, it is necessary to use very ﬁne grids and small time steps and solve many coupled governing equations at the same time, resulting in problems of convergence and long CPU hours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073022Z" creationid="Judy" creationdate="20140819T073022Z">
+        <seg>為了解出這些過程，必須使用非常細小的格點與較短的時間，造成需要較長的運算時間以達收斂的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20539,6 +20819,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065317Z" creationid="MAE" creationdate="20140810T065317Z">
         <seg>由 SERVOCAM 實驗室，於 1996 至 1999 年間執行 20.000 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, resolving these sophisticated physical processes and the effects from some geometrical features are crucial to the prediction of the overall engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T050039Z" creationid="Judy" creationdate="20140819T050039Z">
+        <seg>目前，解決此類複雜的物理機制與某些幾何形狀的影響對於預測整體引擎效能非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, understanding the fundamental processes of its engine cycle in great detail is a key step to improve the engine’s performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T084316Z" creationid="Judy" creationdate="20140819T084316Z">
+        <seg>詳細了解引擎循環的基礎過程是改進引擎效能的關鍵步驟，</seg>
       </tuv>
     </tu>
     <tu>
