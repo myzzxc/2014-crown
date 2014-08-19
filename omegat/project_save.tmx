@@ -21095,6 +21095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>crank&lt;t0/&gt; angle of the displacer density (kg m-3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105518Z" creationid="Judy" creationdate="20140819T105518Z">
+        <seg>換氣活塞曲柄角度 密度 (kg m-3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>crank&lt;t0/&gt; radius of the displacer (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104705Z" creationid="Judy" creationdate="20140819T104705Z">
@@ -21223,10 +21231,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>engine&lt;t0/&gt; efficiency crank angle viscosity (Pas)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105555Z" creationid="Judy" creationdate="20140819T105555Z">
+        <seg>引擎效率 曲柄角度 黏度 (Pas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>engine&lt;t0/&gt; power (W)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105148Z" creationid="Judy" creationdate="20140819T105148Z">
         <seg>引擎功率 (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>engine&lt;t0/&gt; speed (rads-1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105614Z" creationid="Judy" creationdate="20140819T105614Z">
+        <seg>引擎速率 (rads-1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21513,8 +21537,8 @@
       <tuv lang="EN-US">
         <seg>local&lt;t0/&gt; frame moving velocity components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105302Z" creationid="Judy" creationdate="20140819T105049Z">
-        <seg>x-、y- 以及 z-方向框架局部移動速率項 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105741Z" creationid="Judy" creationdate="20140819T105049Z">
+        <seg>x-、y- 以及 z-方向框架局部移動速度項 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22060,8 +22084,8 @@
       <tuv lang="EN-US">
         <seg>velocity&lt;t0/&gt; components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105338Z" creationid="Judy" creationdate="20140819T105019Z">
-        <seg>x-、y- 以及 z-方向速率項 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105619Z" creationid="Judy" creationdate="20140819T105019Z">
+        <seg>x-、y- 以及 z-方向速度項 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
