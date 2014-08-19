@@ -7621,6 +7621,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 2.&lt;t0/&gt; &lt;t1/&gt;The computational mesh, showing the conﬁguration of the computational domain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125931Z" creationid="Judy" creationdate="20140819T125931Z">
+        <seg>圖 2. 計算網格顯示之計算範圍設置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
