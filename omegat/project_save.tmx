@@ -5421,6 +5421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continuity &lt;t0/&gt;equation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125721Z" creationid="Judy" creationdate="20140819T125721Z">
+        <seg>連續方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuous special inspection for anchors installed in horizontal or upwardly inclined orientations resist sustained tension loads must be provided in accordance with Section &lt;t1/&gt;4.3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081454Z">
@@ -7601,6 +7609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161130Z" creationid="Judy" creationdate="20140818T161130Z">
         <seg>傳真：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 1.&lt;t0/&gt; The conﬁguration and deﬁnition of geometric parameters of the &lt;t1/&gt;γ-type&lt;t2/&gt; Stirling&lt;t3/&gt; &lt;t4/&gt;engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125828Z" creationid="Judy" creationdate="20140819T125828Z">
+        <seg>圖 1.  γ-型史特林引擎之設置與幾何參數定義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18825,8 +18841,8 @@
       <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125425Z" creationid="Judy" creationdate="20140819T125425Z">
-        <seg>因此，引擎循環的流動和熱傳遞現象可藉由暫態三維層流和可壓縮 &lt;t11/&gt; 納維 &lt;t12/&gt; — — 斯托克斯方程加上能量方程和理想氣體的狀態方程，如下所示：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
+        <seg>因此，引擎循環的流動和熱傳遞現象可藉由暫態三維層流和可壓縮納維-斯托克斯 (Navier–Stokes) 方程式加上能量方程以及理想氣體方程式解出，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
