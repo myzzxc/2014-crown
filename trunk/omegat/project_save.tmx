@@ -21399,6 +21399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>length&lt;t0/&gt; of the power piston linkage bar (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103905Z" creationid="Judy" creationdate="20140819T103718Z">
+        <seg>驅動活塞聯動桿長 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>level mark</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082618Z">
@@ -21779,6 +21787,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
         <seg>溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thermal&lt;t0/&gt; conductivity (Wm-1 K-1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103612Z" creationid="Judy" creationdate="20140819T103612Z">
+        <seg>熱傳導率 (Wm-1 K-1)</seg>
       </tuv>
     </tu>
     <tu>
