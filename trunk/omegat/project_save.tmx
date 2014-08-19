@@ -21415,6 +21415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>inner&lt;t0/&gt; radius of the displacer cylinder (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104442Z" creationid="Judy" creationdate="20140819T104442Z">
+        <seg>換氣活塞缸內圍半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iron</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165659Z" creationid="Judy" creationdate="20140818T165659Z">
@@ -21619,6 +21627,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130135Z" creationid="CCYU" creationdate="20140808T130135Z">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment. 請勿隨意將產品排放至環境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>outer&lt;t0/&gt; radius of the displacer (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104450Z" creationid="Judy" creationdate="20140819T104450Z">
+        <seg>換氣活塞缸外圍半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>outer&lt;t0/&gt; radius of the power piston (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104317Z" creationid="Judy" creationdate="20140819T104317Z">
+        <seg>驅動活塞外圍半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
