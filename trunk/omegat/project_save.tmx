@@ -15759,6 +15759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the engine in Chen’s [13] experiment is quite large, the ﬂow inside the engine could become turbulent at relatively low engine speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113649Z" creationid="Judy" creationdate="20140819T113649Z">
+        <seg>由於 Chen [13] 實驗中的引擎相當大，引擎內部流在引擎相對低速時便形成紊流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size to Capacity Ratio &lt;t0/&gt;- Our spill kits will contain and absorb far more than</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131754Z" creationid="CCYU" creationdate="20140817T131754Z">
