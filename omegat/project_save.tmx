@@ -8160,8 +8160,8 @@
       <tuv lang="EN-US">
         <seg>Furthermore, due to the fact that the heat capacity of solid wall is much larger than that of the gas, the temperature of solid wall is furthe&lt;t1/&gt;r as&lt;t2/&gt;sumed to retain at a constant value (on the hot&lt;t3/&gt;- &lt;t4/&gt;or cold-end wall) or a ﬁxed proﬁle along the z-direction (on the displacer cylinder wall), hence eliminating the need to include the solid domain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T114849Z" creationid="Judy" creationdate="20140819T114849Z">
-        <seg>此外，實際上固體牆面熱容量遠遠大於氣體，便進一步假設固體牆面溫度為定值 (牆5 熱或冷端) 或固定形沿 z 方向 （在浮筒缸牆上），因此消除需要包括的固體的域。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T115058Z" creationid="Judy" creationdate="20140819T114849Z">
+        <seg>此外，實際上固體牆面熱容量遠遠大於氣體，便進一步假設固體牆面溫度為定值 (牆面的熱或冷端) 或固定沿 z 方向數值 (於換氣活塞缸上壁)，因此便無需包括固體範圍。</seg>
       </tuv>
     </tu>
     <tu>
