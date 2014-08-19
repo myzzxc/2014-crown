@@ -15927,6 +15927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some other assumptions to facilitate CFD simulation are made as&lt;t5/&gt; &lt;t6/&gt;follows: ﬂuid viscosity and thermal properties all materials are assumed constant, the working gas is air and assumed to be ideal gas,&lt;t7/&gt; &lt;t8/&gt;and effects from mechanical friction and thermal radiation are ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124549Z" creationid="Judy" creationdate="20140819T124549Z">
+        <seg>其他加速計算流體力學模擬的假設如下：所有材料之流體黏度與熱學性質為定值，工作氣體為空氣並假設為理想氣體，忽略機械摩擦力與熱輻射影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some second&lt;t6/&gt;- &lt;t7/&gt;or third-order models take non-isothermal and transient effects into account and are &lt;t8/&gt;capable of predicting the average values of volume, pressure, and heat transfer rate in each section at each time step of the cycle, allowing the overall heat input and power output in a cycle to be calculated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220724Z" creationid="Judy" creationdate="20140818T220418Z">
@@ -18785,8 +18793,8 @@
       <tuv lang="EN-US">
         <seg>Therefore in this study, the engine has been scaled down by a half to reduce &lt;t0/&gt;Reynolds number and retain laminar ﬂow inside the engine, precluding the need to involve turbulence modeling.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113850Z" creationid="Judy" creationdate="20140819T113850Z">
-        <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為線性流，避免需要使用紊流模型。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124640Z" creationid="Judy" creationdate="20140819T113850Z">
+        <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為層流，避免需要使用紊流模型。</seg>
       </tuv>
     </tu>
     <tu>
