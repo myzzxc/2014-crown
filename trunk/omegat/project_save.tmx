@@ -9374,6 +9374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, due to its smaller size, the engine is not equipped with a regenerator, and regeneration is performed by the working gas ﬂowing forwards and backwards between the expansion and compression chambers through the narrow gap formed by the displacer and the inner wall of displacer cylinder; that is, the solid material of the wall of displacer cylinder is acting like regenerator material to store and release heat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T114023Z" creationid="Judy" creationdate="20140819T114023Z">
+        <seg>此外，由於其尺寸較小，引擎不配備蓄熱器，和再生執行由工作氣體 ﬂowing 批轉和倒退的擴展和壓縮腔通過由浮筒和浮筒缸 ； 的內壁上形成的窄縫之間那就，浮筒油缸壁的固體材料就像蓄熱材料來存儲和釋放的熱量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, heat transfer rates inside the expansion and compression chambers are often estimated by using constant convective heat transfer coefﬁcients, a practice that has over-simpliﬁed the complexity of the real heat transfer mechanism taking place inside these chambers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045015Z" creationid="Judy" creationdate="20140819T045015Z">
@@ -17625,8 +17633,8 @@
       <tuv lang="EN-US">
         <seg>The CFD method identiﬁed some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080529Z" creationid="Judy" creationdate="20140819T080529Z">
-        <seg>計算流體力學法找出了某些降低引擎功率的關鍵因子：幾何形狀造成再生器、連接兩端壓縮空間管路所包含的氣體以及管路造成的dead volume 之高度流體損失。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T114132Z" creationid="Judy" creationdate="20140819T080529Z">
+        <seg>計算流體力學法找出了某些降低引擎功率的關鍵因子：幾何形狀造成蓄熱器、連接兩端壓縮空間管路所包含的氣體以及管路造成的死點容積之高度流體損失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18763,6 +18771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z" creationid="CCYU" creationdate="20140817T064000Z">
         <seg>可使用較小的雙桶系統 (20g 包裝或更小的 5g 包裝)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore in this study, the engine has been scaled down by a half to reduce &lt;t0/&gt;Reynolds number and retain laminar ﬂow inside the engine, precluding the need to involve turbulence modeling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113850Z" creationid="Judy" creationdate="20140819T113850Z">
+        <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為線性流，避免需要使用紊流模型。</seg>
       </tuv>
     </tu>
     <tu>
