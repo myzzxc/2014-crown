@@ -3675,6 +3675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As seen, due to geometrical symmetry, only a quarter of the real engine space is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113423Z" creationid="Judy" creationdate="20140819T113423Z">
+        <seg>因為幾何對稱，僅需要四分之一的實際引擎空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we assumed this will influence a realistic result, we decided to use the most common test based on lower time lapse but using natural uv-radiation only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142442Z" creationid="CCYU" creationdate="20140809T141546Z">
