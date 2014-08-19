@@ -21319,6 +21319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>gas&lt;t0/&gt; constant (Jkg-1 K-1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104223Z" creationid="Judy" creationdate="20140819T104223Z">
+        <seg>氣體常數 (Jkg-1 K-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>glycerol</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132243Z" creationid="CCYU" creationdate="20140808T132243Z">
@@ -21355,6 +21363,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123516Z">
         <seg>h&lt;t0/&gt;ef&lt;t1/&gt; = 有效錨固深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>heat&lt;t0/&gt; flux or heat transfer rate per unit area (Wm-2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104213Z" creationid="Judy" creationdate="20140819T104213Z">
+        <seg>熱通量或單位區域熱傳導率 (Wm-2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>heat&lt;t0/&gt; transfer rate (W)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104102Z" creationid="Judy" creationdate="20140819T104102Z">
+        <seg>熱傳導率 (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>height&lt;t0/&gt; of displacer (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104026Z" creationid="Judy" creationdate="20140819T104026Z">
+        <seg>換氣活塞高 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21399,10 +21431,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>length&lt;t0/&gt; of the displacer connection rod (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104014Z" creationid="Judy" creationdate="20140819T104014Z">
+        <seg>換氣活塞連接桿長 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>length&lt;t0/&gt; of the displacer linkage bar (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103946Z" creationid="Judy" creationdate="20140819T103946Z">
+        <seg>換氣活塞連動桿長 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>length&lt;t0/&gt; of the power piston connection rod (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103916Z" creationid="Judy" creationdate="20140819T103916Z">
+        <seg>驅動活塞連接桿長 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>length&lt;t0/&gt; of the power piston linkage bar (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103905Z" creationid="Judy" creationdate="20140819T103718Z">
-        <seg>驅動活塞聯動桿長 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103959Z" creationid="Judy" creationdate="20140819T103718Z">
+        <seg>驅動活塞連動桿長 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21435,6 +21491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165657Z" creationid="Judy" creationdate="20140818T165657Z">
         <seg>錳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mass&lt;t0/&gt; (kg)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104039Z" creationid="Judy" creationdate="20140819T104039Z">
+        <seg>重量 (kg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21639,6 +21703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pressure&lt;t0/&gt; (Pa)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104045Z" creationid="Judy" creationdate="20140819T104045Z">
+        <seg>壓力 (Pa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>printing date&lt;t0/&gt;: &lt;t1/&gt;08.07.2014</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102329Z" creationid="CCYU" creationdate="20140809T102329Z">
@@ -21793,8 +21865,8 @@
       <tuv lang="EN-US">
         <seg>thermal&lt;t0/&gt; conductivity (Wm-1 K-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103612Z" creationid="Judy" creationdate="20140819T103612Z">
-        <seg>熱傳導率 (Wm-1 K-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104140Z" creationid="Judy" creationdate="20140819T103612Z">
+        <seg>導熱係數 (Wm-1 K-1)</seg>
       </tuv>
     </tu>
     <tu>
