@@ -21055,6 +21055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>components&lt;t0/&gt; of Cartesian coordinate system (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105243Z" creationid="Judy" creationdate="20140819T105243Z">
+        <seg>笛卡爾座標系統項 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>compressed air tool hand slide valve (min 6 bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
@@ -21505,8 +21513,8 @@
       <tuv lang="EN-US">
         <seg>local&lt;t0/&gt; frame moving velocity components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105049Z" creationid="Judy" creationdate="20140819T105049Z">
-        <seg>x-、y- 以及 z-方向框架局部移動速率 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105302Z" creationid="Judy" creationdate="20140819T105049Z">
+        <seg>x-、y- 以及 z-方向框架局部移動速率項 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22052,8 +22060,8 @@
       <tuv lang="EN-US">
         <seg>velocity&lt;t0/&gt; components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105019Z" creationid="Judy" creationdate="20140819T105019Z">
-        <seg>x-、y- 以及 z-方向速率 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105338Z" creationid="Judy" creationdate="20140819T105019Z">
+        <seg>x-、y- 以及 z-方向速率項 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
