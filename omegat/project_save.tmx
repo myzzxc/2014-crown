@@ -21087,6 +21087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>crank&lt;t0/&gt; radius of the displacer (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104705Z" creationid="Judy" creationdate="20140819T104705Z">
+        <seg>換氣活塞曲柄半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>d0 	nominal drill bit diameter, see Annex B 6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041119Z">
@@ -21887,10 +21895,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>temperature&lt;t0/&gt; (K)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z" creationid="Judy" creationdate="20140819T104825Z">
+        <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>thermal&lt;t0/&gt; conductivity (Wm-1 K-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104140Z" creationid="Judy" creationdate="20140819T103612Z">
         <seg>導熱係數 (Wm-1 K-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thermal&lt;t0/&gt; conductivity ratio between solid and gas mate-&lt;t1/&gt;rials&lt;t2/&gt; crank radius of the power piston (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104637Z" creationid="Judy" creationdate="20140819T104637Z">
+        <seg>固體與氣體材料之導熱係數比 驅動活塞曲柄半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21907,6 +21931,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173406Z" creationid="Judy" creationdate="20140818T173406Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>time&lt;t0/&gt; (s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104712Z" creationid="Judy" creationdate="20140819T104712Z">
+        <seg>時間 (s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>time&lt;t0/&gt; period of an engine cycle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104736Z" creationid="Judy" creationdate="20140819T104736Z">
+        <seg>引擎循環時間區間</seg>
       </tuv>
     </tu>
     <tu>
