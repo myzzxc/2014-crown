@@ -18423,6 +18423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of cells in the computational domain is ﬁxed, and the expansion or compression&lt;t8/&gt; &lt;t9/&gt;of engine volume is performed by moving the local boundaries of&lt;t10/&gt; &lt;t11/&gt;cells to increase or decrease the v&lt;t12/&gt;olumes of the cells, and collec&lt;t13/&gt;tively, they can simulate the expansion or compression of the engine volume just like the action of an accordion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T141148Z" creationid="Judy" creationdate="20140820T141148Z">
+        <seg>計算範圍中的網格數目為固定，引擎體積膨脹和壓縮藉由改變網格邊界以增加和減少網格體積，如手風琴運動般模擬引擎整體的膨脹或壓縮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The numerical procedure in this study is based on an in-house unstructured-mesh, fully collocated, ﬁnite-volume code, ‘USTREAM’ developed by the corresponding author.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T022615Z" creationid="Judy" creationdate="20140820T022550Z">
