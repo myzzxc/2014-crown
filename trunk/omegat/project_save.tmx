@@ -18927,6 +18927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The working gas is air with a gas constant of&lt;t12/&gt; &lt;t13/&gt;287.0 Jkg&lt;t14/&gt;-&lt;t15/&gt;1&lt;t16/&gt; K&lt;t17/&gt;-&lt;t18/&gt;1&lt;t19/&gt;, and the initial crank angle and gas pressure are 0.0 degree and 101.0 &lt;t20/&gt;kPa&lt;t21/&gt;, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151612Z" creationid="Judy" creationdate="20140820T151612Z">
+        <seg>工作氣體為空氣，氣體常數為&lt;t12/&gt; &lt;t13/&gt;287.0 Jkg&lt;t14/&gt;-&lt;t15/&gt;1&lt;t16/&gt; K&lt;t17/&gt;-&lt;t18/&gt;1&lt;t19/&gt;，起始曲柄軸角度與氣體壓力分別為 0.0 度及 101.0 &lt;t20/&gt;kPa&lt;t21/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;dimensions&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;simulated&lt;t8/&gt; γ-type &lt;t9/&gt;Stirling engine&lt;t10/&gt; &lt;t11/&gt;are given in Table 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151336Z" creationid="Judy" creationdate="20140820T151336Z">
