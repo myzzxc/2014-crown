@@ -18495,6 +18495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The operation conditions are: the rotation speed of the engine is —120.0 rpm (clockwise); the cold-end and hot-end temperatures are 300.0 K and 400.0 K, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151658Z" creationid="Judy" creationdate="20140820T151658Z">
+        <seg>操作條件：引擎轉速為 — 120.0 rpm (順時針)；冷端和熱端溫度分別為 300.0 K 和 400.0 K。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The packaging can be reused or recycled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094735Z">
@@ -18931,6 +18939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151612Z" creationid="Judy" creationdate="20140820T151612Z">
         <seg>工作氣體為空氣，氣體常數為&lt;t12/&gt; &lt;t13/&gt;287.0 Jkg&lt;t14/&gt;-&lt;t15/&gt;1&lt;t16/&gt; K&lt;t17/&gt;-&lt;t18/&gt;1&lt;t19/&gt;，起始曲柄軸角度與氣體壓力分別為 0.0 度及 101.0 &lt;t20/&gt;kPa&lt;t21/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ﬁrst step of any CFD simulation is to determine a proper grid and time step interval to obtain grid and time-step independent solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151932Z" creationid="Judy" creationdate="20140820T151932Z">
+        <seg>所有計算流體力學模擬之第一步為確定一個適當的網格和時間間隔以獲得網格和時間的獨立解。</seg>
       </tuv>
     </tu>
     <tu>
