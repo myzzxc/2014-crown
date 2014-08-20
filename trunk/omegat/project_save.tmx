@@ -7709,6 +7709,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 3 indicates that USTREAM code returns results that ﬁt this relation very well; hence, the correctness of the code has been validated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155310Z" creationid="Judy" creationdate="20140820T155310Z">
+        <seg>圖 3 顯示出 USTREAM 程式碼的回傳結果與此關係式非常吻合；因此可確認程式碼正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
@@ -17119,6 +17127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155314Z" creationid="Judy" creationdate="20140820T155314Z">
+        <seg>表 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 1 provides an index to the design strengths.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051018Z">
@@ -18947,6 +18963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081356Z">
         <seg>依照 ACI 318 D.3.7，&lt;t31/&gt;f'&lt;t32/&gt;c&lt;t33/&gt; 值應限制在 8,000 psi (55 MPa) 內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values of the geometrical parameters of the Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155348Z" creationid="Judy" creationdate="20140820T155348Z">
+        <seg>史特林引擎之幾何參數值。</seg>
       </tuv>
     </tu>
     <tu>
