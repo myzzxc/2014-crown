@@ -7687,8 +7687,8 @@
       <tuv lang="EN-US">
         <seg>Fig. 1.&lt;t0/&gt; The conﬁguration and deﬁnition of geometric parameters of the &lt;t1/&gt;γ-type&lt;t2/&gt; Stirling&lt;t3/&gt; &lt;t4/&gt;engine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125828Z" creationid="Judy" creationdate="20140819T125828Z">
-        <seg>圖 1.  γ-型史特林引擎之設置與幾何參數定義。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160211Z" creationid="Judy" creationdate="20140819T125828Z">
+        <seg>圖 1， γ-型史特林引擎之設置與幾何參數定義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7703,8 +7703,8 @@
       <tuv lang="EN-US">
         <seg>Fig. 2.&lt;t0/&gt; &lt;t1/&gt;The computational mesh, showing the conﬁguration of the computational domain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125931Z" creationid="Judy" creationdate="20140819T125931Z">
-        <seg>圖 2. 計算網格顯示之計算範圍設置。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160222Z" creationid="Judy" creationdate="20140819T125931Z">
+        <seg>圖 2，計算網格顯示之計算範圍設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7719,24 +7719,32 @@
       <tuv lang="EN-US">
         <seg>Fig. 3.&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; diagram of an adiabatic cycle of the γ-type Stirling engine for code validation purpose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155615Z" creationid="Judy" creationdate="20140820T155615Z">
-        <seg>圖 3. 用於程式碼驗證之 γ-型史特林引擎絕熱循環 &lt;t0/&gt;&lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; 圖。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160206Z" creationid="Judy" creationdate="20140820T155615Z">
+        <seg>圖 3，用於程式碼驗證之 γ-型史特林引擎絕熱循環 &lt;t0/&gt;&lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; 圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 4 shows the variations of total, expansion chamber, and compression chamber volumes versus crank angle over an engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160248Z" creationid="Judy" creationdate="20140820T160131Z">
+        <seg>圖 4 繪出了單一引擎週期中總體積、膨脹腔體、壓縮腔體之體積變化與曲軸角度關係，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fig. 4.&lt;t0/&gt; Variations of total, expansion chamber, compression chamber volumes versus crank angle within an engine cycle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155818Z" creationid="Judy" creationdate="20140820T155818Z">
-        <seg>圖 4. 單一引擎週期中總體積、膨脹腔體、壓縮腔體之體積變化與曲軸角度關係。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160145Z" creationid="Judy" creationdate="20140820T155818Z">
+        <seg>圖 4，單一引擎週期中總體積、膨脹腔體、壓縮腔體之體積變化與曲軸角度關係。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fig. 5.&lt;t0/&gt; Temperature contours across the whole engine at 10 different crank angles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160002Z" creationid="Judy" creationdate="20140820T160002Z">
-        <seg>圖 5. 全引擎於 10 種不同曲柄角度下之等溫線圖。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160139Z" creationid="Judy" creationdate="20140820T160002Z">
+        <seg>圖 5，全引擎於 10 種不同曲柄角度下之等溫線圖。</seg>
       </tuv>
     </tu>
     <tu>
