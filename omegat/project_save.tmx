@@ -18687,6 +18687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The surface&lt;t1/&gt; &lt;t2/&gt;of power piston is also assumed adiabatic, giving:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021508Z" creationid="Judy" creationdate="20140820T021508Z">
+        <seg>同時假設驅動活塞表面絕熱，得到了下列方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sustainable use of natural resources was not investigated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021101Z">
@@ -18715,6 +18723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014318Z">
         <seg>水泥溫度必須高於 50 °F (10°C) 且低於 104°F (40°C) (見表 IV)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature on the lateral wall of the displacer cylinder&lt;t0/&gt; &lt;t1/&gt;(the wall of regenerative channel) is assumed to maintain at a fixed&lt;t2/&gt; &lt;t3/&gt;linear profile as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021702Z" creationid="Judy" creationdate="20140820T021702Z">
+        <seg>假設換氣活塞側牆上的溫度 (蓄熱通道壁) 保持固定線性分布：</seg>
       </tuv>
     </tu>
     <tu>
