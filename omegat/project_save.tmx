@@ -9672,8 +9672,8 @@
       <tuv lang="EN-US">
         <seg>In the above, &lt;t0/&gt; &lt;t1/&gt;are relative velocity&lt;t2/&gt; &lt;t3/&gt;components between fluid and local moving frame that moves&lt;t4/&gt; &lt;t5/&gt;with &lt;t6/&gt;u&lt;t7/&gt;b&lt;t8/&gt;, &lt;t9/&gt;v&lt;t10/&gt;b&lt;t11/&gt;, &lt;t12/&gt;w&lt;t13/&gt;b&lt;t14/&gt;, respectively in x, y, and z directions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020523Z" creationid="Judy" creationdate="20140820T020523Z">
-        <seg>以上為流體與局部移動框架之相對速度項分別在 x、 y 和 z 方向為 &lt;t6/&gt;u&lt;t7/&gt;b&lt;t8/&gt;、&lt;t9/&gt;v&lt;t10/&gt;b&lt;t11/&gt;、&lt;t12/&gt;w&lt;t13/&gt;b&lt;t14/&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T142559Z" creationid="Judy" creationdate="20140820T020523Z">
+        <seg>以上為流體與局部移動框架 x、 y 和 z 方向之相對速度分量分別為 &lt;t6/&gt;u&lt;t7/&gt;b&lt;t8/&gt;、&lt;t9/&gt;v&lt;t10/&gt;b&lt;t11/&gt;、&lt;t12/&gt;w&lt;t13/&gt;b&lt;t14/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18395,6 +18395,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074255Z" creationid="CCYU" creationdate="20140817T074153Z">
         <seg>漏油漂浮在冷卻水上使得油水混合物難以去除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The moving of&lt;t14/&gt; &lt;t15/&gt;cell boundary creates local moving frame velocity components&lt;t16/&gt; u~; v~; w~&lt;t17/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T142504Z" creationid="Judy" creationdate="20140820T142504Z">
+        <seg>網格移動邊界之局部移動框架速度分量為 u ~; v ~; w ~。</seg>
       </tuv>
     </tu>
     <tu>
