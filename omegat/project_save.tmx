@@ -3707,6 +3707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As seen, grid density has been concentrated towards all solid boundaries to resolve the ﬂow and thermal boundary layers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153302Z" creationid="Judy" creationdate="20140820T153302Z">
+        <seg>如圖所示，網格集中於固體邊界處以解出流場和熱邊界層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we assumed this will influence a realistic result, we decided to use the most common test based on lower time lapse but using natural uv-radiation only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142442Z" creationid="CCYU" creationdate="20140809T141546Z">
@@ -7985,6 +7993,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021910Z">
         <seg>鑽孔直徑 &gt;= 40 mm 需使用 fischer 注膠轉接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For each simulation, about 4 cycles were needed for the solution to become periodical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153450Z" creationid="Judy" creationdate="20140820T153435Z">
+        <seg>每個模擬約需 4 次循環以得到週期性解。</seg>
       </tuv>
     </tu>
     <tu>
