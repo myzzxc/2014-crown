@@ -3739,6 +3739,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At cold end, z = l&lt;t0/&gt;c1&lt;t1/&gt; &lt;t2/&gt;-&lt;t3/&gt; l&lt;t4/&gt;c2&lt;t5/&gt; and on the wall of power cylinder:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021216Z" creationid="Judy" creationdate="20140820T021216Z">
+        <seg>於冷端，z = l&lt;t0/&gt;c1&lt;t1/&gt; &lt;t2/&gt;-&lt;t3/&gt; l&lt;t4/&gt;c2&lt;t5/&gt; 與驅動缸壁上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At higher temperatures acetic acid may be released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095903Z" creationid="CCYU" creationdate="20140809T095903Z">
@@ -18671,6 +18679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The surface of displacer is assumed adiabatic, thus the conditions&lt;t0/&gt; &lt;t1/&gt;on displacer surfaces are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021307Z" creationid="Judy" creationdate="20140820T021307Z">
+        <seg>假設換氣活塞表面絕熱，因此換氣活塞表面條件為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sustainable use of natural resources was not investigated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021101Z">
@@ -22342,6 +22358,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112748Z" creationid="Judy" creationdate="20140819T112748Z">
         <seg>其中 ß = h – 90 °</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; n is the direction normal to the wall of displacer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021352Z" creationid="Judy" creationdate="20140820T021352Z">
+        <seg>其中 n 為垂直換氣活塞壁的方向。</seg>
       </tuv>
     </tu>
     <tu>
