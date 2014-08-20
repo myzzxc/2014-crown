@@ -9446,6 +9446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a Stirling engine, the actions of the displacer and the power pistons cause expansion and compression of the engine volume, and a moving mesh technique i&lt;t2/&gt;s needed to simulate such varia&lt;t3/&gt;tions in volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T133201Z" creationid="Judy" creationdate="20140820T133201Z">
+        <seg>史特林引擎中，換氣活塞與驅動活塞的運動造成引擎體積膨脹與壓縮，因此需使用移動網格的技術以模擬體積的變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
