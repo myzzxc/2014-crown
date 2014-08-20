@@ -9742,6 +9742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this&lt;t6/&gt; &lt;t7/&gt;study, the second strategy is adopted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T134455Z" creationid="Judy" creationdate="20140820T134455Z">
+        <seg>本的研究採用第二種策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In wet concrete the curing time &lt;t0/&gt;tcure,dry&lt;t1/&gt; has to be doubled up</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044336Z">
@@ -18923,6 +18931,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141226Z" creationid="CCYU" creationdate="20140817T141226Z">
         <seg>我們的吸收墊和護邊在多處皆能派上用場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two commonly used moving mesh techniques: one is adding or deleting cells to change the volume of the&lt;t4/&gt; &lt;t5/&gt;computational domain, and the other is to directly change the geometries of cells to expand or compress their volumes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T134421Z" creationid="Judy" creationdate="20140820T134421Z">
+        <seg>有兩種常用移動網格技術：一是加入或移除網格以改變計算範圍的體積，另一種為直接改變網格的幾何形貌以膨脹或壓縮其體積。</seg>
       </tuv>
     </tu>
     <tu>
