@@ -18487,6 +18487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum and minimum values of the total volume are respectively&lt;t0/&gt; &lt;t1/&gt;1.586 × 10—4 m3&lt;t2/&gt; &lt;t3/&gt;and&lt;t4/&gt; &lt;t5/&gt;1.979 × 10—4 m3,&lt;t6/&gt; &lt;t7/&gt;resulting in a compression ratio of 1.248, and they occur at h = 90.0° and 270.0°, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160517Z" creationid="Judy" creationdate="20140820T160517Z">
+        <seg>總體積的最大值與最小值分別為 &lt;t0/&gt; &lt;t1/&gt;1.586 × 10—4 m3&lt;t2/&gt; &lt;t3/&gt;以及&lt;t4/&gt; &lt;t5/&gt;1.979 × 10—4 m3，得到之壓縮比為 1.248，其角度分別為 h = 90.0° 與 270.0°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mechanical properties might remain at 95% of the initial values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064642Z" creationid="MAE" creationdate="20140810T064642Z">
