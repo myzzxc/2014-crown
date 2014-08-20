@@ -7077,6 +7077,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy equation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020140Z" creationid="Judy" creationdate="20140820T020140Z">
+        <seg>能量方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Engineering controls:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085536Z" creationid="CCYU" creationdate="20140809T085536Z">
@@ -11282,6 +11290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105134Z" creationid="CCYU" creationdate="20140809T105134Z">
         <seg>Molten product.&lt;t0/&gt; After skin contact cool down immediately with cold water. 熔融產物。 接觸皮膚後立即以冷水冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Momentum equations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020128Z" creationid="Judy" creationdate="20140820T020128Z">
+        <seg>動量方程式：</seg>
       </tuv>
     </tu>
     <tu>
