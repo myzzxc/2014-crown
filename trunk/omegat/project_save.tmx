@@ -7717,6 +7717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 3.&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; diagram of an adiabatic cycle of the γ-type Stirling engine for code validation purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155615Z" creationid="Judy" creationdate="20140820T155615Z">
+        <seg>圖 3. 用於程式碼驗證之 γ-型史特林引擎絕熱循環 &lt;t0/&gt;&lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; 圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
