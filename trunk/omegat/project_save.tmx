@@ -15919,6 +15919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since USTREAM is a pressure-based SIMPLEC&lt;t0/&gt; &lt;t1/&gt;[15] ﬁnite volume code, the pressure correction equation has to be modiﬁed to account for variable density in compressible ﬂows.&lt;t2/&gt; &lt;t3/&gt;The pressure–velocity coupling scheme in &lt;t4/&gt;Lebon&lt;t5/&gt; et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144829Z" creationid="Judy" creationdate="20140820T144824Z">
+        <seg>由於 USTREAM 為壓力架構之 SIMPLEC [15] 有限體積程式碼，壓力校正方程式必須修正以計算可壓縮流之密度變化，此處使用 Lebon 等人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the engine in Chen’s [13] experiment is quite large, the ﬂow inside the engine could become turbulent at relatively low engine speed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113649Z" creationid="Judy" creationdate="20140819T113649Z">
@@ -21235,6 +21243,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133751Z">
         <seg>[13.2 oz (390 mL)]，或 fischer FIS EM 585 S [19.8 oz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[16] is&lt;t6/&gt; &lt;t7/&gt;adopted here to perform this task.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144859Z" creationid="Judy" creationdate="20140820T144859Z">
+        <seg>[16] 所提出之壓力-速度is&lt;t6/&gt; &lt;t7/&gt;adopted here to perform this task.</seg>
       </tuv>
     </tu>
     <tu>
