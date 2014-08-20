@@ -18407,6 +18407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The numerical procedure in this study is based on an in-house unstructured-mesh, fully collocated, ﬁnite-volume code, ‘USTREAM’ developed by the corresponding author.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T022615Z" creationid="Judy" creationdate="20140820T022550Z">
+        <seg>這項研究中的數值程式基於自行撰寫的非結構網格、完全交錯式、有限體積程式碼、由相應的作者所開發之 ‘USTREAM’，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The objective of this study is to perform CFD&lt;t20/&gt; &lt;t21/&gt;simulation on the working cycle of a &lt;t22/&gt;γ-type Stirling engine to re&lt;t23/&gt;veal the characteristics of its heat transfer processes in great detail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090451Z" creationid="Judy" creationdate="20140819T090451Z">
@@ -19451,6 +19459,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114454Z" creationid="CCYU" creationdate="20140817T114454Z">
         <seg>特別是於深夜或清晨進行大量的運送操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the descendent of the structured-mesh, multi-block code of ‘STREAM’&lt;t0/&gt; &lt;t1/&gt;[14].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T022612Z" creationid="Judy" creationdate="20140820T022612Z">
+        <seg>此為結構網格This is the descendent of the structured-mesh, multi-block code of ‘STREAM’&lt;t0/&gt; &lt;t1/&gt;[14].</seg>
       </tuv>
     </tu>
     <tu>
