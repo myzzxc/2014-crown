@@ -7925,6 +7925,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For an adiabatic cycle, the exact relation between p and V is pV1.4 = C, where C is a constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154706Z" creationid="Judy" creationdate="20140820T154706Z">
+        <seg>絕熱循環中， p 和 V 之間的精確關係為 pV1.4 = C，其中 C 為常數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For anchors in lightweight concrete see ACI 318-11 D.3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z">
@@ -19875,6 +19883,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z" creationid="CCYU" creationdate="20140809T100144Z">
         <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly. 若正確的處理和使用產品，盡我們所知無危害性影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To validate the correctness of&lt;t33/&gt; &lt;t34/&gt;USTREAM code, an adiabatic cycle of the current engine has been performed, and the p&lt;t35/&gt;ave&lt;t36/&gt;—V diagram is shown in Fig. 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154522Z" creationid="Judy" creationdate="20140820T154522Z">
+        <seg>為了驗證 USTREAM 程式碼的正確性，進行了此引擎的絕熱循環操作，圖 3 為其 p&lt;t35/&gt;ave&lt;t36/&gt;—V  圖。</seg>
       </tuv>
     </tu>
     <tu>
