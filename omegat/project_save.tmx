@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(9), the&lt;t15/&gt; &lt;t16/&gt;viscous dissipation effect has not been included.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020940Z" creationid="Judy" creationdate="20140820T020834Z">
+        <seg>方程式 (9) 中，不包括黏滯消散影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;Brookfield&lt;t1/&gt;; &lt;t2/&gt;Instrument&lt;t3/&gt;: &lt;t4/&gt;RVT&lt;t5/&gt;; &lt;t6/&gt;20 °C (68 °F)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092954Z" creationid="CCYU" creationdate="20140809T092954Z">
@@ -3675,6 +3683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z" creationid="Judy" creationdate="20140820T020938Z">
+        <seg>依 Mahkamov [10] 之主張，此影響在史特林引擎中相對其他熱傳影響不顯著，因此可以忽略不計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As seen, due to geometrical symmetry, only a quarter of the real engine space is required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113423Z" creationid="Judy" creationdate="20140819T113423Z">
@@ -3727,6 +3743,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095903Z" creationid="CCYU" creationdate="20140809T095903Z">
         <seg>At higher temperatures acetic acid may be released. 醋酸可能在較高的溫度下釋放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At hot end, z = 0:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021124Z" creationid="Judy" creationdate="20140820T021124Z">
+        <seg>於熱端，z = 0：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,6 +4111,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044812Z">
         <seg>鑽孔&lt;t0/&gt;使用碳化錘鑽 (HD) 或氣動鑽 (CD)，依照所選鋼筋需要的大小和埋設深度在基材上鑽孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boundary conditions are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021107Z" creationid="Judy" creationdate="20140820T021107Z">
+        <seg>邊界條件為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18227,6 +18259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150416Z">
         <seg>若安全裝置因故障關閉暖腳機時，指示器將燈熄滅，即使暖腳機開關仍開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The initial&lt;t22/&gt; &lt;t23/&gt;conditions are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021102Z" creationid="Judy" creationdate="20140820T021102Z">
+        <seg>初始條件為：</seg>
       </tuv>
     </tu>
     <tu>
