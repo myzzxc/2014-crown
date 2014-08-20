@@ -7685,6 +7685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 2 shows the grid with 80,566 cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153039Z" creationid="Judy" creationdate="20140820T153039Z">
+        <seg>圖 2 為含 80,566 個單位網格之網格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 2.&lt;t0/&gt; &lt;t1/&gt;The computational mesh, showing the conﬁguration of the computational domain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125931Z" creationid="Judy" creationdate="20140819T125931Z">
@@ -19747,6 +19755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050246Z">
         <seg>螺紋鋼柱：&lt;t0/&gt;螺紋鋼柱需如本報告表 5 中所述，為乾淨、截面方向連續之螺紋 (所有螺紋)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three different grids with cell numbers of 80,566, 110,569, and 141,438, respectively were tested by using three different time-step intervals of 2.5 × 10&lt;t22/&gt;-&lt;t23/&gt;3&lt;t24/&gt; s, 1.667 × 10&lt;t25/&gt;-&lt;t26/&gt;3&lt;t27/&gt; s, and 1.25 × 10&lt;t28/&gt;-&lt;t29/&gt;3&lt;t30/&gt; s, which respectively correspond to time-step numbers per cycle of 200, 300, and 400.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T152928Z" creationid="Judy" creationdate="20140820T152928Z">
+        <seg>三個不同的網格分別有 80,566、110,569 以及 141,438 個單位網格，每步驟時間間隔分別為 2.5 × 10&lt;t22/&gt;-&lt;t23/&gt;3&lt;t24/&gt; 秒、1.667 × 10&lt;t25/&gt;-&lt;t26/&gt;3&lt;t27/&gt; 秒以及 1.25 × 10&lt;t28/&gt;-&lt;t29/&gt;3&lt;t30/&gt; 秒，個別對應之每循環的時間步驟數為 200、300 以及 400。</seg>
       </tuv>
     </tu>
     <tu>
