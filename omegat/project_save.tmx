@@ -12230,6 +12230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Numerical procedure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021900Z" creationid="Judy" creationdate="20140820T021900Z">
+        <seg>數值程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nutrient Analysis: results in ppm (mg/L)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165628Z" creationid="Judy" creationdate="20140818T165527Z">
