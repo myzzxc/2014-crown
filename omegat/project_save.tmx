@@ -9574,6 +9574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, due to the fact displacer and power cylinders are eccentric, the temperature distributions are not axisymmetric, and there exist pronounced 3D phenomena throughout the entire engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T022141Z" creationid="Judy" creationdate="20140821T022124Z">
+        <seg>此外，由於換氣和動力汽缸為偏心設計使其溫度分布非軸對稱，而使整個引擎循環中皆有顯著的三維現象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, heat transfer rates inside the expansion and compression chambers are often estimated by using constant convective heat transfer coefﬁcients, a practice that has over-simpliﬁed the complexity of the real heat transfer mechanism taking place inside these chambers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045015Z" creationid="Judy" creationdate="20140819T045015Z">
