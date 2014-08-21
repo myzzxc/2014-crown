@@ -9718,6 +9718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, the injection phase of the expansion chamber is the ejection phase of &lt;t0/&gt;the compression chamber, and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100517Z" creationid="Judy" creationdate="20140821T100517Z">
+        <seg>一般來說，膨脹腔體之注入相為壓縮腔體之射出相，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In lieu of ACI 318 D.8.5, the minimum member thickness, &lt;t18/&gt;h&lt;t19/&gt;min&lt;t20/&gt;, described in this report (Tables 6 and 9) must be observed for anchor design and installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093221Z">
@@ -9818,6 +9826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145159Z" creationid="MAE" creationdate="20140807T092701Z">
         <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison. 一旦發生火災，可能釋放以下物質：一氧化碳 (CO)；二氧化碳 (CO2)；此類燃燒產物往往歸類為造成呼吸中毒的物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following, these phases are termed ‘‘injection phase’’ and ‘‘ejection phase’’, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100336Z" creationid="Judy" creationdate="20140821T100336Z">
+        <seg>後續文章中，此兩相將分別稱作 ‘‘注入相’’ 與 ‘‘排出相’’。</seg>
       </tuv>
     </tu>
     <tu>
