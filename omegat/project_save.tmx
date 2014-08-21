@@ -8320,16 +8320,16 @@
       <tuv lang="EN-US">
         <seg>Furthermore, due to the fact that the heat capacity of solid wall is much larger than that of the gas, the temperature of solid wall is furthe&lt;t1/&gt;r as&lt;t2/&gt;sumed to retain at a constant value (on the hot&lt;t3/&gt;- &lt;t4/&gt;or cold-end wall) or a ﬁxed proﬁle along the z-direction (on the displacer cylinder wall), hence eliminating the need to include the solid domain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125211Z" creationid="Judy" creationdate="20140819T114849Z">
-        <seg>此外，由於實際上固體牆面熱容量遠遠大於氣體，便進一步假設固體牆面溫度為定值 (牆面的熱或冷端) 或固定沿 z 方向數值 (於換氣活塞缸牆面)，因此便無需包含固體範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T114849Z">
+        <seg>此外，由於實際上固體牆面熱容量遠遠大於氣體，便進一步假設固體牆面溫度為定值 (牆面的熱或冷端) 或固定沿 z 方向數值 (於換氣汽缸牆面)，因此便無需包含固體範圍。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Furthermore, the engine involves moving parts such as displacer and power piston; hence the volume of computational domain is changing with time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070843Z" creationid="Judy" creationdate="20140819T070843Z">
-        <seg>另外，引擎具有移動元件及驅動活塞；因此計算範圍的體積隨時間變化，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T070843Z">
+        <seg>另外，引擎具有移動元件及動力活塞；因此計算範圍的體積隨時間變化，</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,8 +8944,8 @@
       <tuv lang="EN-US">
         <seg>However, only the component w~ exists due to the fact that&lt;t18/&gt; &lt;t19/&gt;the motions of displacer and power piston are both along the z-direction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T143845Z" creationid="Judy" creationdate="20140820T143845Z">
-        <seg>然而實際上只有分量 w ~，換氣活塞與驅動活塞皆沿 z 方向運動。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140820T143845Z">
+        <seg>然而實際上只有分量 w ~，換氣活塞與動力活塞皆沿 z 方向運動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9536,8 +9536,8 @@
       <tuv lang="EN-US">
         <seg>In a Stirling engine, the actions of the displacer and the power pistons cause expansion and compression of the engine volume, and a moving mesh technique i&lt;t2/&gt;s needed to simulate such varia&lt;t3/&gt;tions in volume.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T133201Z" creationid="Judy" creationdate="20140820T133201Z">
-        <seg>史特林引擎中，換氣活塞與驅動活塞的運動造成引擎體積膨脹與壓縮，因此需使用移動網格的技術以模擬體積的變化。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140820T133201Z">
+        <seg>史特林引擎中，換氣活塞與動力活塞的運動造成引擎體積膨脹與壓縮，因此需使用移動網格的技術以模擬體積的變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,8 +9568,8 @@
       <tuv lang="EN-US">
         <seg>In addition, due to its smaller size, the engine is not equipped with a regenerator, and regeneration is performed by the working gas ﬂowing forwards and backwards between the expansion and compression chambers through the narrow gap formed by the displacer and the inner wall of displacer cylinder; that is, the solid material of the wall of displacer cylinder is acting like regenerator material to store and release heat.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125118Z" creationid="Judy" creationdate="20140819T114023Z">
-        <seg>此外，由於其尺寸較小，引擎不配有蓄熱器，蓄熱藉由工作氣體於膨脹和壓縮腔體間來回流經換氣活塞與換氣活塞缸內壁之間的狹縫；即以換氣活塞缸內壁固體材料作為蓄熱器以儲存和釋放熱量。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T114023Z">
+        <seg>此外，由於其尺寸較小，引擎不配有蓄熱器，蓄熱藉由工作氣體於膨脹和壓縮腔體間來回流經換氣活塞與換氣汽缸內壁之間的狹縫；即以換氣汽缸內壁固體材料作為蓄熱器以儲存和釋放熱量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9768,8 +9768,8 @@
       <tuv lang="EN-US">
         <seg>In the aspect of coding, simulating the reciprocating motions of displacer and power piston requires the use of moving mesh techniques which introduce complex algorithm and raise the difﬁculty of coding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T071451Z" creationid="Judy" creationdate="20140819T071304Z">
-        <seg>一方面為程式編寫，模擬換氣活塞及驅動活塞往復運動需要使用移動網格，需使用複雜的演算法而提高了程式編寫的困難度。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T071304Z">
+        <seg>一方面為程式編寫，模擬換氣活塞及動力活塞往復運動需要使用移動網格，需使用複雜的演算法而提高了程式編寫的困難度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11728,8 +11728,8 @@
       <tuv lang="EN-US">
         <seg>Neither can they resolve the effects caused by changes in some geometrical features such as the shapes and dimensions of displacer and displacer cylinder,&lt;t11/&gt; &lt;t12/&gt;regeneration chamber, or the internal gas circuits, all of which can only be deﬁned in multi dimensions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T222116Z" creationid="Judy" creationdate="20140818T222116Z">
-        <seg>也無法解出某些幾何特性變化如換氣活塞與換氣活塞缸、再生腔體或內部氣體迴路的形狀和尺寸變化所造成的影響，這些性質只能在多維度中確定。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140818T222116Z">
+        <seg>也無法解出某些幾何特性變化如換氣活塞與換氣汽缸、再生腔體或內部氣體迴路的形狀和尺寸變化所造成的影響，這些性質只能在多維度中確定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16023,6 +16023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the expansion chamber includes the power cylinders, the maximum volume of the compression chamber is larger than that of the expansion chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140821T015846Z">
+        <seg>由於膨脹腔體中包含動力氣缸，壓縮腔的最大體積是大於膨脹室。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size to Capacity Ratio &lt;t0/&gt;- Our spill kits will contain and absorb far more than</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131754Z" creationid="CCYU" creationdate="20140817T131754Z">
@@ -17953,8 +17961,8 @@
       <tuv lang="EN-US">
         <seg>The Stirling engine analyzed in this study is the twin-power piston &lt;t0/&gt;γ-type&lt;t1/&gt; Stirling engine reported in Chen, et al.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112141Z" creationid="Judy" creationdate="20140819T112141Z">
-        <seg>此研究中所分析的史特林引擎為 Chen 等人所提出的雙驅動活塞 γ-型史特林引擎</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T112141Z">
+        <seg>此研究中所分析的史特林引擎為 Chen 等人所提出的雙動力活塞 γ-型史特林引擎</seg>
       </tuv>
     </tu>
     <tu>
@@ -18873,8 +18881,8 @@
       <tuv lang="EN-US">
         <seg>The surface&lt;t1/&gt; &lt;t2/&gt;of power piston is also assumed adiabatic, giving:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021508Z" creationid="Judy" creationdate="20140820T021508Z">
-        <seg>同時假設驅動活塞表面絕熱，得到了下列方程式：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140820T021508Z">
+        <seg>同時假設動力活塞表面絕熱，得到了下列方程式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21977,8 +21985,8 @@
       <tuv lang="EN-US">
         <seg>inner&lt;t0/&gt; radius of the displacer cylinder (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104442Z" creationid="Judy" creationdate="20140819T104442Z">
-        <seg>換氣活塞缸內圍半徑 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T104442Z">
+        <seg>換氣汽缸內圍半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22017,16 +22025,16 @@
       <tuv lang="EN-US">
         <seg>length&lt;t0/&gt; of the power piston connection rod (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103916Z" creationid="Judy" creationdate="20140819T103916Z">
-        <seg>驅動活塞連接桿長 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T103916Z">
+        <seg>動力活塞連接桿長 (m)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>length&lt;t0/&gt; of the power piston linkage bar (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103959Z" creationid="Judy" creationdate="20140819T103718Z">
-        <seg>驅動活塞連動桿長 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T103718Z">
+        <seg>動力活塞連動桿長 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22209,8 +22217,8 @@
       <tuv lang="EN-US">
         <seg>outer&lt;t0/&gt; radius of the power piston (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104317Z" creationid="Judy" creationdate="20140819T104317Z">
-        <seg>驅動活塞外圍半徑 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T104317Z">
+        <seg>動力活塞外圍半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22473,8 +22481,8 @@
       <tuv lang="EN-US">
         <seg>thermal&lt;t0/&gt; conductivity ratio between solid and gas mate-&lt;t1/&gt;rials&lt;t2/&gt; crank radius of the power piston (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104637Z" creationid="Judy" creationdate="20140819T104637Z">
-        <seg>固體與氣體材料之導熱係數比 驅動活塞曲柄半徑 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T104637Z">
+        <seg>固體與氣體材料之導熱係數比 動力活塞曲柄半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
