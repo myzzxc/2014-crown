@@ -9830,6 +9830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following, the discussion on the ﬂow and heat transfer characteristics is divided into injection phase, ejection phase, and in regenerative channel subsections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101224Z" creationid="Judy" creationdate="20140821T101042Z">
+        <seg>接下來的章節中，流體與熱傳導性質的討論將分為注入相、排出相以及蓄熱通道章節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, these phases are termed ‘‘injection phase’’ and ‘‘ejection phase’’, respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100336Z" creationid="Judy" creationdate="20140821T100336Z">
@@ -10122,6 +10130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T134935Z">
         <seg>注射砂漿：Multifix MF EX1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injection phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101116Z" creationid="Judy" creationdate="20140821T101116Z">
+        <seg>注入相</seg>
       </tuv>
     </tu>
     <tu>
@@ -21665,8 +21681,8 @@
       <tuv lang="EN-US">
         <seg>components&lt;t0/&gt; of Cartesian coordinate system (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105243Z" creationid="Judy" creationdate="20140819T105243Z">
-        <seg>笛卡爾座標系統項 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101440Z" creationid="Judy" creationdate="20140819T105243Z">
+        <seg>笛卡爾座標系統分量 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22145,8 +22161,8 @@
       <tuv lang="EN-US">
         <seg>local&lt;t0/&gt; frame moving velocity components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105741Z" creationid="Judy" creationdate="20140819T105049Z">
-        <seg>x-、y- 以及 z-方向框架局部移動速度項 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101427Z" creationid="Judy" creationdate="20140819T105049Z">
+        <seg>x-、y- 以及 z-方向框架局部移動速度分量 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22692,8 +22708,8 @@
       <tuv lang="EN-US">
         <seg>velocity&lt;t0/&gt; components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105619Z" creationid="Judy" creationdate="20140819T105019Z">
-        <seg>x-、y- 以及 z-方向速度項 (ms-1)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101412Z" creationid="Judy" creationdate="20140819T105019Z">
+        <seg>x-、y- 以及 z-方向速度分量 (ms-1)</seg>
       </tuv>
     </tu>
     <tu>
