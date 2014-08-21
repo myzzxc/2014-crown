@@ -18535,6 +18535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The motions of&lt;t22/&gt; &lt;t23/&gt;displacer and power pistons pose different effects on the ﬂow inside the engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020744Z" creationid="Judy" creationdate="20140821T020744Z">
+        <seg>換氣活三與動力活塞的運動對引擎內部流場造成不同的影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The moving of&lt;t14/&gt; &lt;t15/&gt;cell boundary creates local moving frame velocity components&lt;t16/&gt; u~; v~; w~&lt;t17/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T142504Z" creationid="Judy" creationdate="20140820T142504Z">
