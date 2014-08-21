@@ -19231,6 +19231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the attention is directed towards the investigation on the engine’s heat transfer characteristics which can only be analyzed in detail by using a CFD approach.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T022949Z" creationid="Judy" creationdate="20140821T022949Z">
+        <seg>所以研究引擎之熱傳導特性僅能使用計算流體力學法以進行詳細分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
