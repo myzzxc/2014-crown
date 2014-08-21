@@ -19999,6 +19999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To this end, it is readily realized that the assumption of uniform temperature distribution and the adoption of constant convective heat transfer coefﬁcients to account for the heat transfer effect in expansion and compression&lt;t24/&gt; &lt;t25/&gt;chambers in some second-order models is apparently too crude to represent the real heat transfer behaviors inside the engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T022747Z" creationid="Judy" creationdate="20140821T022747Z">
+        <seg>因此某些二階模型使用均勻溫度分布及使用固定熱對流係數的假設來計算膨脹和壓縮腔體內的熱傳效應顯然無法呈現引擎內部真正的熱傳特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To validate the correctness of&lt;t33/&gt; &lt;t34/&gt;USTREAM code, an adiabatic cycle of the current engine has been performed, and the p&lt;t35/&gt;ave&lt;t36/&gt;—V diagram is shown in Fig. 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154522Z" creationid="Judy" creationdate="20140820T154522Z">
