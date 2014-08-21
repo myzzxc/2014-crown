@@ -16025,8 +16025,8 @@
       <tuv lang="EN-US">
         <seg>Since the expansion chamber includes the power cylinders, the maximum volume of the compression chamber is larger than that of the expansion chamber.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140821T015846Z">
-        <seg>由於膨脹腔體中包含動力氣缸，壓縮腔的最大體積是大於膨脹室。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020152Z" creationid="Judy" creationdate="20140821T015846Z">
+        <seg>由於膨脹腔體中包含動力汽缸，壓縮腔體的最大體積大於膨脹腔體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22209,8 +22209,8 @@
       <tuv lang="EN-US">
         <seg>outer&lt;t0/&gt; radius of the displacer (m)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104450Z" creationid="Judy" creationdate="20140819T104450Z">
-        <seg>換氣活塞缸外圍半徑 (m)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020012Z" creationid="Judy" creationdate="20140819T104450Z">
+        <seg>換氣汽缸外圍半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
