@@ -9894,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this equation, the heat transfer from solid wall (surrounding) to gas (thermodynamic system) is positive, and that from gas to wall is negative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T170915Z" creationid="Judy" creationdate="20140822T170915Z">
+        <seg>此方程式中，熱傳導由固體牆 (周圍) 至氣體 (熱力學系統) 為正，由氣體至牆面為負。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this report, both systems are denoted as fischer FIS EM. The cartridge is stamped with the adhesive expiration date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134001Z">
@@ -18575,6 +18583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The local heat ﬂux q is calculated by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140459Z" creationid="Judy" creationdate="20140822T140459Z">
+        <seg>局部熱通量 q 可由下列方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The manufacturer’s printed installation instructions (MPII), as included with each adhesive unit package, are shown in Figure 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130621Z">
@@ -18611,6 +18627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160517Z" creationid="Judy" creationdate="20140820T160517Z">
         <seg>總體積的最大值與最小值分別為 &lt;t0/&gt; &lt;t1/&gt;1.586 × 10—4 m3&lt;t2/&gt; &lt;t3/&gt;以及&lt;t4/&gt; &lt;t5/&gt;1.979 × 10—4 m3，得到之壓縮比為 1.248，其角度分別為 h = 90.0° 與 270.0°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum local heat ﬂux on the hot-end wall can be as high as 5.4 &lt;t8/&gt;kWm&lt;t9/&gt;—2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T171229Z" creationid="Judy" creationdate="20140822T171229Z">
+        <seg>熱端牆之最大局部熱通量可高達 5.4 &lt;t8/&gt;kWm&lt;t9/&gt;-2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19327,6 +19351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the cold gas get injected into the expansion chamber is rapidly heated up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140244Z" creationid="Judy" creationdate="20140822T140244Z">
+        <seg>因此，注入膨脹腔體之冷空氣被迅速加熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
@@ -19703,6 +19735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be veriﬁed from the distributions of the local heat ﬂux per unit area at h = 90.0° given in Fig. 6(b).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140421Z" creationid="Judy" creationdate="20140822T140421Z">
+        <seg>此現象可藉由圖 6 之 h = 90.0° 的單位面積局部熱通量來驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This category includes companies with their own truck fleets as well as ones that just service outside parties.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125107Z" creationid="CCYU" creationdate="20140817T125107Z">
@@ -19721,8 +19761,8 @@
       <tuv lang="EN-US">
         <seg>This impingement brings the cold gas in direct contact with the hot-end wall, resulting in impingement heat transfer which is well known to be the most effective convective heat transfer mechanism.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140009Z" creationid="Judy" creationdate="20140822T140009Z">
-        <seg>此衝擊使冷空氣直接接觸熱端牆，This impingement brings the cold gas in direct contact with the hot-end wall, resulting in impingement heat transfer which is well known to be the most effective convective heat transfer mechanism.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140138Z" creationid="Judy" creationdate="20140822T140009Z">
+        <seg>此衝擊使冷空氣直接接觸熱端牆，產生公認最有效率對流熱傳導機制的衝擊熱傳導。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21427,6 +21467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041652Z">
         <seg>鑽孔輔助架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With referencing to&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;velocity&lt;t4/&gt; &lt;t5/&gt;vectors&lt;t6/&gt; &lt;t7/&gt;in Fig. 6(a), pronounced elevation of local heat ﬂux can be seen in Fig. 6(b) at the location where the cold gas impinges on the hot bottom wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T171142Z" creationid="Judy" creationdate="20140822T171142Z">
+        <seg>參考圖 6(a) 之速度向量，可於圖 6(b) 中發現冷空氣衝擊熱底牆處有明顯的局部熱通量增加，</seg>
       </tuv>
     </tu>
     <tu>
