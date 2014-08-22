@@ -9830,6 +9830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the expansion chamber, this is from h = 0.0° to 180.0°; and in the compression chamber, it is from h = 156.6° to 347.4°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T123404Z" creationid="Judy" creationdate="20140822T123404Z">
+        <seg>膨脹腔體由 h = 0.0° 至 180.0°；而壓縮腔體由 h = 156.6° 至 347.4°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, the discussion on the ﬂow and heat transfer characteristics is divided into injection phase, ejection phase, and in regenerative channel subsections.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101224Z" creationid="Judy" creationdate="20140821T101042Z">
@@ -18499,6 +18507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021102Z" creationid="Judy" creationdate="20140820T021102Z">
         <seg>初始條件為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The injection phase in the individual chamber generally coincides with the expansion process of its chamber volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T123301Z" creationid="Judy" creationdate="20140822T123301Z">
+        <seg>各腔體內注入相一般與其腔體體積膨脹過程相同，</seg>
       </tuv>
     </tu>
     <tu>
