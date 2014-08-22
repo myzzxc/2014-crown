@@ -7757,6 +7757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 6(a) show that gas injection produces a jet of cold gas that impinges on the bottom heated wall of the chamber (the hot-end wall).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140015Z" creationid="Judy" creationdate="20140822T135826Z">
+        <seg>圖 6(a) 顯示出氣體注入產生冷氣體噴流衝擊腔體已加熱之底牆 (熱端牆)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 6.&lt;t0/&gt; Temperature contours, velocity vectors, and local heat ﬂux distributions in the expansion chamber at h = 90.0°; (a) temperature contours and velocity vectors, (b) local heat ﬂux distributions at bottom plate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T023713Z" creationid="Judy" creationdate="20140821T023539Z">
@@ -19707,6 +19715,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135629Z" creationid="CCYU" creationdate="20140817T135629Z">
         <seg>此舉去除了大量通常必須作為危險廢物處置的廢液。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This impingement brings the cold gas in direct contact with the hot-end wall, resulting in impingement heat transfer which is well known to be the most effective convective heat transfer mechanism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140009Z" creationid="Judy" creationdate="20140822T140009Z">
+        <seg>此衝擊使冷空氣直接接觸熱端牆，This impingement brings the cold gas in direct contact with the hot-end wall, resulting in impingement heat transfer which is well known to be the most effective convective heat transfer mechanism.</seg>
       </tuv>
     </tu>
     <tu>
