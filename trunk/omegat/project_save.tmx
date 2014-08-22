@@ -3715,6 +3715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As shown in Fig. 5, this phase in the individual chamber can be characterized by the appearance of a major thermal plume in that chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135117Z" creationid="Judy" creationdate="20140822T135010Z">
+        <seg>如圖 5 所示， 於各腔體中的此相可藉由主要熱煙流外型來定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we assumed this will influence a realistic result, we decided to use the most common test based on lower time lapse but using natural uv-radiation only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142442Z" creationid="CCYU" creationdate="20140809T141546Z">
@@ -18519,6 +18527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The injection phase poses signiﬁcant impact on the heat transfer in both&lt;t0/&gt; &lt;t1/&gt;chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135114Z" creationid="Judy" creationdate="20140822T135114Z">
+        <seg>注入相對兩個腔體之熱傳導造成了顯著的影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The installation of post-installed rebar shall be done only by suitable trained installer and under supervision on site; the conditions under which an installer may be considered as suitable trained and the conditions for supervision on site are up to the Member States in which the installation is done.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043038Z">
@@ -20003,6 +20019,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020600Z" creationid="Judy" creationdate="20140821T020600Z">
         <seg>為了展現出引擎單一循環中整體的溫度變化，圖 5 繪製出整個引擎於 10 個不同曲柄角度下的等溫線圖，從 h = 36.0° 至 360.0° ，間隔為 36.0°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To demonstrate this effect, Fig. 6 shows the enlarged views of velocity vectors and temperature contours as well as local&lt;t2/&gt; &lt;t3/&gt;heat ﬂux distributions in the expansion&lt;t4/&gt; &lt;t5/&gt;chamber&lt;t6/&gt; &lt;t7/&gt;at&lt;t8/&gt; &lt;t9/&gt;h = 90.0°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135348Z" creationid="Judy" creationdate="20140822T135342Z">
+        <seg>為了展現此效應，圖 6 繪製了膨脹腔體於 h = 90.0° 之速度向量與等溫線以及局部熱通量分布放大圖。</seg>
       </tuv>
     </tu>
     <tu>
