@@ -7765,10 +7765,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 6(b) also shows that large local heat ﬂux only occurs at the near vicinity of the impingement region, and the magnitude of local heat ﬂux quickly decreases towards the center of the bottom plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T174523Z" creationid="Judy" creationdate="20140822T174523Z">
+        <seg>圖 6(b) 同時也顯示出大量的局部熱通量僅出現於衝擊區域周邊，而局部熱通量大小朝底板中心快速減小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 6.&lt;t0/&gt; Temperature contours, velocity vectors, and local heat ﬂux distributions in the expansion chamber at h = 90.0°; (a) temperature contours and velocity vectors, (b) local heat ﬂux distributions at bottom plate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T023713Z" creationid="Judy" creationdate="20140821T023539Z">
         <seg>圖 6，膨脹腔體於 h = 90.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 底板局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 7 shows the enlarged views of velocity vectors, temperature contours, and local heat ﬂux distributions on the top plate of the compression chamber at h = 270.0°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101803Z" creationid="Judy" creationdate="20140822T101803Z">
+        <seg>圖 7 繪製出了壓縮腔體於 h = 270.0° 之速度向量、等溫線以及頂板之局部熱通量分布放大圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 7.&lt;t0/&gt; Temperature contours, velocity vectors, and local heat ﬂux distributions in the compression chamber at h = 270.0°; (a) temperature contours and velocity vectors, (b) local heat ﬂux distributions at top plate and power cylinder wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101648Z" creationid="Judy" creationdate="20140822T101648Z">
+        <seg>圖 7，壓縮腔體於 h = 270.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here the maximum absolute local heat ﬂux at the top plate during the injection phase is 3.0 &lt;t0/&gt;kWm&lt;t1/&gt;—2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232826Z" creationid="Judy" creationdate="20140822T232826Z">
+        <seg>頂板注入相之最大局部熱通量絕對值為 3.0 &lt;t0/&gt;kWm&lt;t1/&gt;-2，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here we are talking about large hydraulic machines that leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072603Z" creationid="CCYU" creationdate="20140817T072603Z">
@@ -8994,6 +9026,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102958Z">
         <seg>然而，僅允許經由技術評估機構發佈書面聲明的部分轉載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, their effects are much&lt;t10/&gt; &lt;t11/&gt;smaller compared to that of the impingement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101240Z" creationid="Judy" creationdate="20140822T101210Z">
+        <seg>然而此效應遠小於衝擊效應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16095,6 +16135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similar impingement phenomenon can be observed during the injection phase of the compression chamber, but the impingement results in rapid cooling (local heat ﬂux is negative) of the hot gas that enters the compression chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232611Z" creationid="Judy" creationdate="20140822T232436Z">
+        <seg>壓縮腔體注入相也具有類似衝擊效應，但衝擊造成進入壓縮腔體的熱空氣快速冷卻 (局部熱通量為負)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since USTREAM is a pressure-based SIMPLEC&lt;t0/&gt; &lt;t1/&gt;[15] ﬁnite volume code, the pressure correction equation has to be modiﬁed to account for variable density in compressible ﬂows.&lt;t2/&gt; &lt;t3/&gt;The pressure–velocity coupling scheme in &lt;t4/&gt;Lebon&lt;t5/&gt; et al.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144829Z" creationid="Judy" creationdate="20140820T144824Z">
@@ -18583,6 +18631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The local heat ﬂux distributions indicate that the dominant heat transfer mechanism in the injection phase of the expansion chamber is the impingement of the cold gas on the hot-end wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101435Z" creationid="Judy" creationdate="20140822T101435Z">
+        <seg>局部熱通量分布顯示出膨脹腔體注入相範圍內的熱傳機制為冷空氣衝擊於熱端牆上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The local heat ﬂux q is calculated by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140459Z" creationid="Judy" creationdate="20140822T140459Z">
@@ -18779,6 +18835,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020521Z">
         <seg>第 3 部分所描述的性能，僅在鋼筋連接符合附件 B 規格條件時適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The plume of cold gas forms a primary vortex which in turn induces some very small secondary vortices at its sides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101018Z" creationid="Judy" creationdate="20140822T101018Z">
+        <seg>冷空氣煙流形成主渦流且周邊包含一些非常微小的次渦流，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19471,6 +19535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These secondary vortices promote mixing of cold and hot gas and further facilitate convective heat transfer in the expansion chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101213Z" creationid="Judy" creationdate="20140822T101151Z">
+        <seg>這些次渦流促進了冷熱空氣的混和而熱空氣進一步加速了膨脹腔體中的對流熱傳導，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These tank farms are an ideal place for mats and berms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120817Z" creationid="CCYU" creationdate="20140817T120817Z">
@@ -19859,6 +19931,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114454Z" creationid="CCYU" creationdate="20140817T114454Z">
         <seg>特別是於深夜或清晨進行大量的運送操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is much smaller than that in the expansion chamber during its injection phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232916Z" creationid="Judy" creationdate="20140822T232916Z">
+        <seg>此數值遠小於膨脹腔體注入相之數值。</seg>
       </tuv>
     </tu>
     <tu>
