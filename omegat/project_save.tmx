@@ -8430,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the local heat ﬂux distributions on the wall of displacer cylinder shown in Fig. 9, it can be seen that the regenerative channel performs this task relatively well as the heat ﬂux during the injection phase of expansion chamber on regenerative wall shown in Fig. 9(a) is mostly positive (heating gas), and that during the injection phase of compression chamber shown in Fig. 9(b) is mostly negative (cooling gas).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193432Z" creationid="Judy" creationdate="20140823T193432Z">
+        <seg>由圖 9 所示之換氣汽缸牆面之局部熱通量分布可見蓄熱通道的預熱及預冷的效果良好，圖 9(a) 之膨脹腔體體注入相於蓄熱通道牆面上之熱通量分布多半為正 (加熱氣體)，而圖 9(b) 之壓縮腔體注入相多半為負 (冷卻氣體)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost-sensitive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085236Z" creationid="CCYU" creationdate="20140809T085236Z">
@@ -9122,6 +9130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212648Z" creationid="Judy" creationdate="20140818T212615Z">
         <seg>然而，史特林引擎也有一些缺點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there are exceptions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193502Z" creationid="Judy" creationdate="20140823T193502Z">
+        <seg>然而有某些例外，</seg>
       </tuv>
     </tu>
     <tu>
