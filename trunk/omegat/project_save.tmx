@@ -12110,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neither can the integration of heat output be conﬁned along&lt;t4/&gt; &lt;t5/&gt;the wall of compression chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203541Z" creationid="Judy" creationdate="20140823T203446Z">
+        <seg>熱量輸出也不能限制於沿壓縮腔體牆面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neither can they resolve the effects caused by changes in some geometrical features such as the shapes and dimensions of displacer and displacer cylinder,&lt;t11/&gt; &lt;t12/&gt;regeneration chamber, or the internal gas circuits, all of which can only be deﬁned in multi dimensions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140818T222116Z">
@@ -19263,6 +19271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rates of heat input and output are calculated by integration along all solid boundaries:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203641Z" creationid="Judy" creationdate="20140823T203632Z">
+        <seg>熱量輸入與輸出率之計算為沿所有固體牆面加總：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for the elevated gas temperature is due to the heating from the compression of the entire engine volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194131Z" creationid="Judy" creationdate="20140823T194131Z">
@@ -19787,6 +19803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140244Z" creationid="Judy" creationdate="20140822T140244Z">
         <seg>因此，注入膨脹腔體之冷空氣被迅速加熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the integration of heat input cannot be conﬁned just along the wall of the expansion chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203449Z" creationid="Judy" creationdate="20140823T203429Z">
+        <seg>因此熱量輸入總值不能限制於沿膨脹腔體牆面，</seg>
       </tuv>
     </tu>
     <tu>
