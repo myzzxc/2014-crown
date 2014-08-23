@@ -2209,6 +2209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Here, the impingement heat transfer remains the dominant heat-transfer mechanism in the compression chamber during its injection phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T233420Z" creationid="Judy" creationdate="20140822T233420Z">
+        <seg>此處衝擊熱傳導限於壓縮腔體範圍於注入相之熱傳機制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;In the shops where parts are broken down and serviced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141610Z" creationid="CCYU" creationdate="20140817T141610Z">
@@ -3699,6 +3707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As mention earlier, the reduction of chamber volume is due to the motions of the displacer and power pistons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080647Z" creationid="Judy" creationdate="20140823T080647Z">
+        <seg>如先前所述，換氣與動力活塞運動造成腔體體積減少，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As seen, due to geometrical symmetry, only a quarter of the real engine space is required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113423Z" creationid="Judy" creationdate="20140819T113423Z">
@@ -4239,6 +4255,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T145055Z" creationid="CCYU" creationdate="20140807T145055Z">
         <seg>By appropriate&lt;t0/&gt; use of the product no health damage is known. 適當使用產品的情況下，無損害健康案例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By referring to Fig. 4, this phase is from h = 180.0° to 360.0° in the expansion chamber and from h = 347.5° to 156.5° in the compression chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080531Z" creationid="Judy" creationdate="20140823T080531Z">
+        <seg>參照圖 4，膨脹腔體中此相由 h = 180.0° 至 360.0° 而壓縮腔體中由 h = 347.5° 至 156.5°。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7085,6 +7109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ejection phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T233428Z" creationid="Judy" creationdate="20140822T233428Z">
+        <seg>排出相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elongation, min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
@@ -8990,6 +9022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, due to the compression effect posed by the movement of power pistons, there is large negative local heat ﬂux occurring at the ejection phase, which will be discussed in the next sub-section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T233120Z" creationid="Judy" creationdate="20140822T233120Z">
+        <seg>然而，由於壓縮效應由動力活塞移動而形成，排出相有大量的負局部熱通量，將於下個小節中討論此現象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it should not constitute a guarantee for any specific product proper&lt;t0/&gt;ties and shall not establish a legally valid relationship.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051320Z" creationid="MAE" creationdate="20140808T051320Z">
@@ -9938,6 +9978,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T170915Z" creationid="Judy" creationdate="20140822T170915Z">
         <seg>此方程式中，熱傳導由固體牆 (周圍) 至氣體 (熱力學系統) 為正，由氣體至牆面為負。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this manner, the displacer and power pistons reduce the volume in the individual chamber by decreasing the distance between the upper and lower boundaries of that chamber, and this is equivalent to push the gas against the solid walls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T081217Z" creationid="Judy" creationdate="20140823T081212Z">
+        <seg>以此方式，藉由減小該腔體之換氣與動力活塞上下邊界距離以減少個別腔體體積，此方式等同於向固體牆面推動氣體，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12698,6 +12746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073923Z" creationid="CCYU" creationdate="20140817T073923Z">
         <seg>通常大型機台洩漏包含了漏油和冷卻劑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the other hand, when displacer and power pistons move toward each other, the volume of compression chamber is reduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080845Z" creationid="Judy" creationdate="20140823T080845Z">
+        <seg>另一方面，當換氣與動力活塞移向彼此，壓縮腔體體積減少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16137,8 +16193,8 @@
       <tuv lang="EN-US">
         <seg>Similar impingement phenomenon can be observed during the injection phase of the compression chamber, but the impingement results in rapid cooling (local heat ﬂux is negative) of the hot gas that enters the compression chamber.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232611Z" creationid="Judy" creationdate="20140822T232436Z">
-        <seg>壓縮腔體注入相也具有類似衝擊效應，但衝擊造成進入壓縮腔體的熱空氣快速冷卻 (局部熱通量為負)，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T233137Z" creationid="Judy" creationdate="20140822T232436Z">
+        <seg>壓縮腔體注入相也具有類似衝擊效應的現象，但衝擊造成進入壓縮腔體的熱空氣快速冷卻 (局部熱通量為負)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18371,6 +18427,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>易清理材質且操作元件可拆下，保溫電毯可於最高 30° 下進行手洗。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ejection of gas in expansion or compression chambers is mainly caused by the reduction of volume in the individual chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080351Z" creationid="Judy" creationdate="20140823T080301Z">
+        <seg>膨脹或壓縮腔體中主要藉由減少各腔體之體積排出氣體，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21451,6 +21515,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114456Z" creationid="CCYU" creationdate="20140817T114359Z">
         <seg>若與油相結合，將使地板成為噩夢，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When displacer moves towards the hot end, the volume of expansion chamber is reduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080753Z" creationid="Judy" creationdate="20140823T080753Z">
+        <seg>當換氣活塞移向熱端，膨脹腔體體積減少；</seg>
       </tuv>
     </tu>
     <tu>
