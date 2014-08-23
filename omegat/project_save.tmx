@@ -10624,8 +10624,8 @@
       <tuv lang="EN-US">
         <seg>It can be seen in Fig. 4 that in the compression chamber, the ejection phase mostly coincides with the compression process of the entire engine volume, and the negative heat transfer is further boosted by the compression effect which heats up the gas in the compression chamber and creates even larger temperature difference between gas and cold-end wall.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T090025Z" creationid="Judy" creationdate="20140823T090025Z">
-        <seg>可由圖 4 看出壓縮腔體中排出相主要與整個引擎體積壓縮過程相同that in the compression chamber, the ejection phase mostly coincides with the compression process of the entire engine volume, and the negative heat transfer is further boosted by the compression effect which heats up the gas in the compression chamber and creates even larger temperature difference between gas and cold-end wall.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T092336Z" creationid="Judy" creationdate="20140823T090025Z">
+        <seg>可由圖 4 看出壓縮腔體中排出相與主要與整個引擎體積壓縮過程相同，而壓縮效應加熱了壓縮腔體內的氣體並進一步加強了負熱傳導而造成氣體與冷端牆更大的溫差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18335,6 +18335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The combined heat transfer effects can be demonstrated by velocity vectors, temperature contours, and local heat ﬂux distributions in the compression chamber at h = 54.0° shown in Fig. 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093052Z" creationid="Judy" creationdate="20140823T093052Z">
+        <seg>圖 8 壓縮腔體中 h = 54.0° 之速度向量、等溫線以及局部熱通量分布可展現出複合熱傳導效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The combined motions of displacer and power pistons cause gas to ﬂow forwards and backwards between the expansion and compression chambers, while the motion of the power pistons expands or compresses the total volume of the engine, which in turn introduces cooling or heating effects on the working gas.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T021206Z" creationid="Judy" creationdate="20140821T021206Z">
@@ -19203,6 +19211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z">
         <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature contours in Fig. 8(a) &lt;t0/&gt;show&lt;t1/&gt; that the core temperature in the compression chamber reaches 330.0 K due the compression process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093431Z" creationid="Judy" creationdate="20140823T093431Z">
+        <seg>圖 8(a) 之等溫線圖顯示出壓縮腔體中由於壓縮過程使核心溫度達到 330.0 K，</seg>
       </tuv>
     </tu>
     <tu>
