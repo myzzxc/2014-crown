@@ -9942,6 +9942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In terms of the injection phase of the expansion chamber, Fig. 9(a) shows that negative heat ﬂux is present at the upper section of the displacer cylinder wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193748Z" creationid="Judy" creationdate="20140823T193748Z">
+        <seg>圖 9(a) 之膨脹腔體注入相顯示換氣汽缸牆面上部之熱通量為負，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Figures no transverse reinforcement is plotted, the transverse reinforcement shall comply with EN 1992-1-1:20044,&lt;t0/&gt; &lt;t1/&gt;AC&lt;t2/&gt;:2010&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023052Z">
@@ -20107,6 +20115,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090614Z" creationid="Judy" creationdate="20140819T090614Z">
         <seg>這對於進一步改善此類型引擎循環的效能相當重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is because gas at a higher temperature than the wall temperature entering the regenerative channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193943Z" creationid="Judy" creationdate="20140823T193943Z">
+        <seg>這是因為進入蓄熱通道之氣體溫度高於牆面溫度。</seg>
       </tuv>
     </tu>
     <tu>
