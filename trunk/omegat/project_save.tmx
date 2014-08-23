@@ -16639,6 +16639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some conclusion remarks from this study can be drawn as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212147Z" creationid="Judy" creationdate="20140823T212147Z">
+        <seg>以下為本研究之重要結論：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some other assumptions to facilitate CFD simulation are made as&lt;t5/&gt; &lt;t6/&gt;follows: ﬂuid viscosity and thermal properties all materials are assumed constant, the working gas is air and assumed to be ideal gas,&lt;t7/&gt; &lt;t8/&gt;and effects from mechanical friction and thermal radiation are ignored.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124549Z" creationid="Judy" creationdate="20140819T124549Z">
@@ -19387,6 +19395,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074333Z">
         <seg>由此而得的特徵黏結強度應乘上相關的強度縮減因數 &lt;t7/&gt;&lt;t8/&gt;nn &lt;t9/&gt;，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results include temperature contours, velocity vectors, and distributions of local heat ﬂux at several important stages in an engine cycle as well as average temperature variations, integrated rates of heat input, heat output, and engine power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212100Z" creationid="Judy" creationdate="20140823T212100Z">
+        <seg>結果包括了單一循環中之等溫線、速度向量以及多個重要階段之局部熱通量分布，同時也包含了平均溫度變化、總體熱量輸入率、熱量輸出率以及功率，</seg>
       </tuv>
     </tu>
     <tu>
