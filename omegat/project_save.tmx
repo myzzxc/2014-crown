@@ -9038,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, g is calculated by dividing the engine power by the&lt;t11/&gt; &lt;t12/&gt;rate of heat input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205305Z" creationid="Judy" creationdate="20140823T205305Z">
+        <seg>此處 η 由引擎功率除以熱量輸入率所得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, the term ‘‘order’’ has nothing to do with the mathematical terms in the governing equations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214907Z" creationid="Judy" creationdate="20140818T214907Z">
@@ -10026,6 +10034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194258Z" creationid="Judy" creationdate="20140823T194258Z">
         <seg>圖 9(b) 之膨脹腔體排出相顯示換氣汽缸牆面下部 (接近蓄熱通道入口處) 之熱通量為正，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In terms of the evaluation of output power, the focus is on the surface of the power piston because this is the exact place engine work is delivered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204123Z" creationid="Judy" creationdate="20140823T204123Z">
+        <seg>評估輸出功率時，重點為動力活塞表面，因為此處為提供引擎功之處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18535,6 +18551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The calculated rates of heat input, heat output, and power are 13.28 W,&lt;t7/&gt; &lt;t8/&gt;12.63 W, and 0.64 W, respectively, resulting in a thermal efﬁciency&lt;t9/&gt; &lt;t10/&gt;g of 4.82%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205310Z" creationid="Judy" creationdate="20140823T205205Z">
+        <seg>計算所得之熱量輸入率、熱量輸出率以及功率分別為 13.28 W、12.63 W 以及 0.64 W，其熱效率 η 為 4.82%，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The calculations and &lt;t0/&gt;details must be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T035329Z">
@@ -19195,6 +19219,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135059Z">
         <seg>在設計圖中註明錨固位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The power is calculated by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204149Z" creationid="Judy" creationdate="20140823T204149Z">
+        <seg>功率可由以下方程式計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23366,6 +23398,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021352Z" creationid="Judy" creationdate="20140820T021352Z">
         <seg>其中 n 為垂直換氣活塞壁的方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; the negative sign on the right hand side of equation is to account for the negative x in this study, and the circular integration is from minimum &lt;t1/&gt;zp&lt;t2/&gt; to maximum &lt;t3/&gt;zp&lt;t4/&gt; and back to minimum &lt;t5/&gt;zp&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204903Z" creationid="Judy" creationdate="20140823T204903Z">
+        <seg>其中等式右側之負號代表此研究之負 ω，而環積分由最小值 &lt;t1/&gt;zp&lt;t2/&gt; 至最大值 &lt;t3/&gt;zp&lt;t4/&gt; 再回到最小值 &lt;t5/&gt;zp&lt;t6/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
