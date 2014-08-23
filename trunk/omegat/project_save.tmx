@@ -5324,6 +5324,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conclusion remarks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T211002Z" creationid="Judy" creationdate="20140823T211002Z">
+        <seg>結論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conclusion/Summary&lt;t0/&gt;      &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;This product is readily biodegradable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030103Z" creationid="CCYU" creationdate="20140809T030103Z">
@@ -7801,6 +7809,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201234Z" creationid="Judy" creationdate="20140823T201234Z">
         <seg>圖 11(a) 顯示出膨脹腔體之平均溫度變化範圍小於 28 K，且因為前述之壓縮效應，最高平均溫度為 401.0 K，此溫度稍高於熱端溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 11.&lt;t0/&gt; Variations of average temperatures and heat transfer rates in the expansion and compression chambers; (a) variations of average temperatures, (b) variations of heat transfer rates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210947Z" creationid="Judy" creationdate="20140823T210947Z">
+        <seg>圖 11，膨脹與壓縮腔體之平均溫度與熱傳導率變化；(a) 平均溫度變化，(b) 傳導率變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19185,8 +19201,8 @@
       <tuv lang="EN-US">
         <seg>The other video named ‘‘&lt;t2/&gt;ﬂux_all&lt;t3/&gt;’’ plays the variations of local ﬂux on bottom plate, top plate, power cylinder wall, and regenerative wall, within two engine cycles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210213Z" creationid="Judy" creationdate="20140823T210213Z">
-        <seg>另一引片標題 "&lt;t2/&gt;ﬂux_all&lt;t3/&gt;" 為兩次’’ plays the variations of local ﬂux on bottom plate, top plate, power cylinder wall, and regenerative wall, within two engine cycles.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210737Z" creationid="Judy" creationdate="20140823T210213Z">
+        <seg>另一引片標題 "&lt;t2/&gt;ﬂux_all&lt;t3/&gt;" 為兩次引擎循環中底板、頂板、動力汽缸牆以及蓄熱牆之局部熱通量變化。</seg>
       </tuv>
     </tu>
     <tu>
