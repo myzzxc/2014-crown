@@ -3699,6 +3699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, it also promotes heat transfer in a way similar to ﬂow impingement does.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083326Z" creationid="Judy" creationdate="20140823T083326Z">
+        <seg>因而以類似流體衝擊的方式加速了熱傳導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z" creationid="Judy" creationdate="20140820T020938Z">
@@ -9922,6 +9930,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145159Z" creationid="MAE" creationdate="20140807T092701Z">
         <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison. 一旦發生火災，可能釋放以下物質：一氧化碳 (CO)；二氧化碳 (CO2)；此類燃燒產物往往歸類為造成呼吸中毒的物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the expansion chamber, the lower wall is the hot end, while in the compression chamber; the cold end includes the upper wall and the walls of power cylinders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T082957Z" creationid="Judy" creationdate="20140823T082957Z">
+        <seg>於膨脹腔體，下牆為熱端；然而於壓縮腔體中，冷端包括上牆與動力汽缸牆面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18979,6 +18995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074253Z" creationid="CCYU" creationdate="20140817T074253Z">
         <seg>泵也可能置於會淋雨的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pushing of gas by the displacer and power pistons creates an effect similar to impingement that largely compresses the isothermal lines towards the hot or cold ends and increases the local temperature gradient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
+        <seg>換氣與動力活塞推動氣體造成類似衝擊的效應，大幅地朝熱或冷端壓縮等溫線並增加局部溫度梯度，</seg>
       </tuv>
     </tu>
     <tu>
