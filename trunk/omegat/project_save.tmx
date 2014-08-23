@@ -10734,6 +10734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be seen that during one engine cycle, the expansion chamber yields positive work, whereas the compression chamber produces negative work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T195943Z" creationid="Judy" creationdate="20140823T195943Z">
+        <seg>單一引擎循環中，膨脹腔體得到正功，而壓縮腔體產生負功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains important information about starting up and operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081700Z">
