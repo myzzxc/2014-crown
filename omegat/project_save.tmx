@@ -9742,6 +9742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Fig. 11(b), it can be seen that heat transfer rate in the expansion chamber in the injection phase ﬁrst increases steadily, reaches the maximum, and then decreases monotonously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201719Z" creationid="Judy" creationdate="20140823T201719Z">
+        <seg>圖 11(b) 中可見膨脹腔體注入相之熱傳導率最初穩定增加，達到最大值後降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a Stirling engine, the actions of the displacer and the power pistons cause expansion and compression of the engine volume, and a moving mesh technique i&lt;t2/&gt;s needed to simulate such varia&lt;t3/&gt;tions in volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140820T133201Z">
@@ -10034,6 +10042,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201506Z" creationid="Judy" creationdate="20140823T201458Z">
         <seg>壓縮腔體中，平均溫度變化範圍小於 20 K。兩組平均溫度皆只有一峰值與一谷值，分別對應至單一引擎循環中的注入相與排出相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the ejection phase, however, the general tendency is decreasing but it brieﬂy rebounds twice during the descent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201820Z" creationid="Judy" creationdate="20140823T201820Z">
+        <seg>然而於排出相，整體趨勢為降低，但降低過程中有兩次反彈，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20251,6 +20267,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T092306Z" creationid="CCYU" creationdate="20140817T092306Z">
         <seg>將會使用液壓機台、壓製、切割機台等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is due to the fact that the second half of the ejection phase of the expansion chamber generally coincides with the expansion of the entire engine volume, and the expansion effect cools down the gas temperature, thus promoting positive heat transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T202152Z" creationid="Judy" creationdate="20140823T202152Z">
+        <seg>這是因為膨脹腔體排出相的後半部整體上與引擎總體積膨脹相同，而膨脹效應降低氣體溫度而促進了正向熱傳導。</seg>
       </tuv>
     </tu>
     <tu>
