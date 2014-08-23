@@ -6749,6 +6749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the expansion and compression of engine volume, heat&lt;t0/&gt; &lt;t1/&gt;input and output can happen at the hot end, cold end, and on the&lt;t2/&gt; &lt;t3/&gt;wall of regenerative channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203235Z" creationid="Judy" creationdate="20140823T203235Z">
+        <seg>由於引擎體積之膨脹與壓縮，熱量輸入與輸出可發生於熱端、冷端與蓄熱通道牆面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to these challenges, many attempts to apply CFD approach on Stirling engines focused on separated components such as combustion chamber of the heater [9].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073236Z" creationid="Judy" creationdate="20140819T073236Z">
@@ -7781,6 +7789,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 10.&lt;t0/&gt; &lt;t1/&gt;pave-V&lt;t2/&gt; diagram in the expansion and compression chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203019Z" creationid="Judy" creationdate="20140823T203019Z">
+        <seg>圖 10，膨脹與壓縮腔體之&lt;t0/&gt; &lt;t1/&gt;pave-V&lt;t2/&gt; 圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 11(a) indicates that average temperature ﬂuctuation in the expansion chamber is within the range of 28 K, and due to the compression effect mentioned &lt;t2/&gt;earlier,&lt;t3/&gt; the maximum average temperature is 401.0 K which is slightly higher than the hot-end temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201234Z" creationid="Judy" creationdate="20140823T201234Z">
@@ -7889,6 +7905,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T100736Z" creationid="Judy" creationdate="20140823T100736Z">
         <seg>圖 8，壓縮腔體於 h = 54.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 9.&lt;t0/&gt; Local heat ﬂux distributions on the regenerative wall at two different crank angles; (a) h = 90.0°, (b) h = 252.0°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T202932Z" creationid="Judy" creationdate="20140823T202932Z">
+        <seg>圖 9，蓄熱牆於兩個不同曲柄角度之局部熱通量分布 (a) h = 90.0°， (b) h = 252.0°。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9922,6 +9946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100517Z" creationid="Judy" creationdate="20140821T100517Z">
         <seg>一般來說，膨脹腔體之注入相為壓縮腔體之射出相，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In its ejection phase, the general tendency is decreasing but there it &lt;t6/&gt;also brieﬂy rebounds once due to a period of coincidence of the ejection phase with the compression of the entire engine volume as described earlier in the Section 4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T202759Z" creationid="Judy" creationdate="20140823T202759Z">
+        <seg>其排出相整起趨勢為下降但也有一次短暫反彈，這是因為排出相與引擎總體積壓縮期間相同，如 4.3 節所述。</seg>
       </tuv>
     </tu>
     <tu>
