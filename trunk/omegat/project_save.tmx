@@ -8974,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z" creationid="Judy" creationdate="20140823T200832Z">
+        <seg>此處熱傳導率 Q 之計算為個別腔體牆面之局部熱通量 q 加總。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here pave is the averaged pressure in the individual chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T195047Z" creationid="Judy" creationdate="20140823T195047Z">
