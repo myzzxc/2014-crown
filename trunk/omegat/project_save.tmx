@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the ejection phase, the motions of displacer and power piston also create a sort of heat transfer effect similar to impingement, but this effect acts on a much larger region and also promotes heat transfer effectively especially in the compression chamber where the negative heat transfer is further boosted by the rising of gas temperature due to compression of the entire engine volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T214429Z" creationid="Judy" creationdate="20140823T214429Z">
+        <seg>排出相中，換氣與動力活塞之運動也造成類似衝擊之熱傳導，但此效應作用區域更大且同時特別對於壓縮腔體提升了熱傳效率，由於引擎總體積壓縮增加了氣體溫度而進一步加強了其負熱傳導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the event of a fire, carbon monoxide (CO) and carbon dioxide (CO2) can be released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140811T081706Z" creationid="CCYU" creationdate="20140809T084050Z">
@@ -19411,6 +19419,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
         <seg>紅色電源指示燈將熄滅，代表已關機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The regenerative channel functions as it was designed for at most of the time within an engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T214547Z" creationid="Judy" creationdate="20140823T214547Z">
+        <seg>單一引擎循環中，蓄熱通道多數時間與其設計功能相符合，</seg>
       </tuv>
     </tu>
     <tu>
