@@ -3707,6 +3707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, the local maximum temperature in the expansion chamber reaches as high as 417.0 K, which is higher than the hot-end temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095539Z" creationid="Judy" creationdate="20140823T095539Z">
+        <seg>膨脹腔體中局部熱通量最高可達 417.0 K，此值高於熱端溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z" creationid="Judy" creationdate="20140820T020938Z">
@@ -9942,6 +9950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the expansion chamber, on the other hand, the ejection phase does not coincide so well with the expansion process of the entire engine volume; therefore, the promotion on positive heat transfer by the mechanism of enlarging temperature difference between gas and hot-end wall via gas expansion is not very signiﬁcant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T094743Z" creationid="Judy" creationdate="20140823T094743Z">
+        <seg>而膨脹腔體中，排出相與整體引擎體積膨脹過程不完全相同，氣體與熱端牆面之間經由氣體膨脹加速正熱傳導機制而加大溫差量的效應並不顯著。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the expansion chamber, the lower wall is the hot end, while in the compression chamber; the cold end includes the upper wall and the walls of power cylinders.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T082957Z" creationid="Judy" creationdate="20140823T082957Z">
@@ -12778,6 +12794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073923Z" creationid="CCYU" creationdate="20140817T073923Z">
         <seg>通常大型機台洩漏包含了漏油和冷卻劑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the contrary, Fig. 4 shows that from h = 269.0° to 360.0°, the ejection phase of the expansion chamber coincides with the compression of total engine volume, thus the gas inside the expansion chamber is heated not only by the hot-end wall but also by the compression effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095354Z" creationid="Judy" creationdate="20140823T095354Z">
+        <seg>相反地，圖 4 顯示出 h = 269.0° 至 360.0° 之膨脹腔體排出相與整體引擎體積壓縮相同，因此膨脹腔體內部氣體加熱並非僅來自熱端牆，同時也來自壓縮效應。</seg>
       </tuv>
     </tu>
     <tu>
