@@ -17351,6 +17351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such a low efﬁciency is mainly due to the small temperature difference between the hot and cold ends and the low engine speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205530Z" creationid="Judy" creationdate="20140823T205530Z">
+        <seg>如此低的效率主要是由於熱端與冷端溫差不大以及低引擎速率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such detailed analysis on the effects imposed by multi-dimensional geometrical features can only be resolved by a CFD approach.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080707Z" creationid="Judy" creationdate="20140819T080707Z">
