@@ -7781,6 +7781,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 11(a) indicates that average temperature ﬂuctuation in the expansion chamber is within the range of 28 K, and due to the compression effect mentioned &lt;t2/&gt;earlier,&lt;t3/&gt; the maximum average temperature is 401.0 K which is slightly higher than the hot-end temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201234Z" creationid="Judy" creationdate="20140823T201234Z">
+        <seg>圖 11(a) 顯示出膨脹腔體之平均溫度變化範圍小於 28 K，且因為前述之壓縮效應，最高平均溫度為 401.0 K，此溫度稍高於熱端溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 2 shows the grid with 80,566 cells.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153039Z" creationid="Judy" creationdate="20140820T153039Z">
