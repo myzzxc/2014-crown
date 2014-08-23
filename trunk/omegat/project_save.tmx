@@ -3155,6 +3155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An in-house CFD code has been developed and applied to a twin-power-piston &lt;t0/&gt;γ-type&lt;t1/&gt; Stirling engine to study the heat transfer&lt;t2/&gt; &lt;t3/&gt;characteristics in the thermodynamic cycle of the Stirling engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T211607Z" creationid="Judy" creationdate="20140823T211607Z">
+        <seg>本研究開發了一組自行撰寫之計算流體力學程式碼並套用至雙動力活塞 γ-型史特林引擎以研究史特林引擎熱力學循環之熱傳導特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An institution established by the Federal and &lt;t0/&gt;Laender&lt;t1/&gt; Governments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145057Z">
@@ -20443,6 +20451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T212017Z" creationid="Judy" creationdate="20140820T022612Z">
         <seg>此為結構網格、多區塊程式 ‘STREAM’ [14] 的衍生程式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the ﬁrst CFD simulation on this engine, and the heat transfer characteristics have been investigated in great detail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T211728Z" creationid="Judy" creationdate="20140823T211638Z">
+        <seg>此為同型引擎中第一個計算流體力學模擬，且詳細地探討了其熱傳導特性。</seg>
       </tuv>
     </tu>
     <tu>
