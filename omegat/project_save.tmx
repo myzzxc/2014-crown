@@ -18839,6 +18839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lower gas temperature in the expansion chamber is due to the cooling of gas by the expansion of the entire engine volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194526Z" creationid="Judy" creationdate="20140823T194526Z">
+        <seg>膨脹腔體之氣體溫度較低的原因為引擎總體積膨脹而冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The major function of a regenerative channel is to pre-heat the gas during the injection phase of the expansion chamber and to pre-cool the gas during the injection phase of the compression chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T192516Z" creationid="Judy" creationdate="20140823T115052Z">
@@ -20051,6 +20059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135629Z" creationid="CCYU" creationdate="20140817T135629Z">
         <seg>此舉去除了大量通常必須作為危險廢物處置的廢液。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This happens when the gas with a temperature lower than the wall temperature in the expansion chamber entering the regenerative channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194410Z" creationid="Judy" creationdate="20140823T194410Z">
+        <seg>這是因為膨脹腔體進入蓄熱通道之氣體溫度低於牆面溫度。</seg>
       </tuv>
     </tu>
     <tu>
