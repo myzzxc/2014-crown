@@ -18303,6 +18303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The absolute value of the positive work is larger than that of the negative work, giving rise to positive &lt;t0/&gt;net work&lt;t1/&gt; output to the engine’s shaft.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200349Z" creationid="Judy" creationdate="20140823T200349Z">
+        <seg>正功大於負功之絕對值，使輸出至引擎軸正淨功增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The actual position of the reinforcement in the existing structure shall be determined on the basis of the construction documentation and taken into account when designing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032054Z">
