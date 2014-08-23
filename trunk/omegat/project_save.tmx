@@ -10030,6 +10030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the compression chamber, the average temperature ﬂuctuation is within the rage of 20 K. Both average temperature&lt;t4/&gt; &lt;t5/&gt;variations show only one peak and one valley, corresponding to one injection phase and one ejection phase within an engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201506Z" creationid="Judy" creationdate="20140823T201458Z">
+        <seg>壓縮腔體中，平均溫度變化範圍小於 20 K。兩組平均溫度皆只有一峰值與一谷值，分別對應至單一引擎循環中的注入相與排出相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the event of a fire, carbon monoxide (CO) and carbon dioxide (CO2) can be released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140811T081706Z" creationid="CCYU" creationdate="20140809T084050Z">
