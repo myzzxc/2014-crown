@@ -6725,6 +6725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the above factors, the local heat ﬂux on the bottom plate is moderate during the ejection phase of the expansion chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T100517Z" creationid="Judy" creationdate="20140823T100517Z">
+        <seg>基於以上因素，膨脹腔體排出相於底板上之局部熱通量一般。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to these challenges, many attempts to apply CFD approach on Stirling engines focused on separated components such as combustion chamber of the heater [9].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073236Z" creationid="Judy" creationdate="20140819T073236Z">
@@ -7849,6 +7857,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101648Z" creationid="Judy" creationdate="20140822T101648Z">
         <seg>圖 7，壓縮腔體於 h = 270.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 8.&lt;t0/&gt; Temperature contours, velocity vectors, and local heat ﬂux distributions in the compression chamber at h = 54.0°; (a) temperature contours and velocity vectors, (b) local heat ﬂux distributions at top plate and power cylinder wall.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T100736Z" creationid="Judy" creationdate="20140823T100736Z">
+        <seg>圖 8，壓縮腔體於 h = 54.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9874,6 +9890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021006Z">
         <seg>為了滿足 (歐盟) 法規編號 305/2011 的條例，也必須適時遵守這些要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In regenerative channel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T114830Z" creationid="Judy" creationdate="20140823T114830Z">
+        <seg>蓄熱器通道內</seg>
       </tuv>
     </tu>
     <tu>
@@ -18519,6 +18543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The elevated gas temperature even gives rise to small negative heat ﬂux on&lt;t16/&gt; &lt;t17/&gt;bottom plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095722Z" creationid="Judy" creationdate="20140823T095722Z">
+        <seg>氣體上升溫度也使底板之負熱通量些微上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The embedded portions of reinforcing bars must be straight, and free of mill scale, rust, mud, oil and other coatings that impair the bond with the adhesive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002259Z">
@@ -18771,6 +18803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140459Z" creationid="Judy" creationdate="20140822T140459Z">
         <seg>局部熱通量 q 可由下列方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The major function of a regenerative channel is to pre-heat the gas during the injection phase of the expansion chamber and to pre-cool the gas during the injection phase of the compression chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T115052Z" creationid="Judy" creationdate="20140823T115052Z">
+        <seg>蓄熱起通道主要功能為於膨脹腔體注入相時預熱氣體和於壓縮腔體注入相時預冷氣體。</seg>
       </tuv>
     </tu>
     <tu>
