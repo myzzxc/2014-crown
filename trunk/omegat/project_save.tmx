@@ -18567,6 +18567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The assumption of uniform chamber temperatures and the use of constant heat transfer coefﬁcients to account for heat transfer adopted by some zero&lt;t0/&gt;- &lt;t1/&gt;or one-dimensional models are too crude to reﬂect the reality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213316Z" creationid="Judy" creationdate="20140823T213051Z">
+        <seg>某些零維或一維模型假設均勻溫度分布並固定熱對流係數來計算熱傳導效應無法呈現真實的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bar should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045209Z">
