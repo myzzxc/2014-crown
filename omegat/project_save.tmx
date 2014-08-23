@@ -9942,6 +9942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In terms of the ejection phase of the compression chamber, Fig. 9(b) shows that at the lower section of displacer cylinder wall (near entrance of the regenerative channel), heat ﬂux is positive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194258Z" creationid="Judy" creationdate="20140823T194258Z">
+        <seg>圖 9(b) 之膨脹腔體排出相顯示換氣汽缸牆面下部 (接近蓄熱通道入口處) 之熱通量為正，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In terms of the injection phase of the expansion chamber, Fig. 9(a) shows that negative heat ﬂux is present at the upper section of the displacer cylinder wall.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193748Z" creationid="Judy" creationdate="20140823T193748Z">
@@ -19115,6 +19123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
         <seg>換氣與動力活塞推動氣體造成類似衝擊的效應，大幅地朝熱或冷端壓縮等溫線並增加局部溫度梯度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reason for the elevated gas temperature is due to the heating from the compression of the entire engine volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194131Z" creationid="Judy" creationdate="20140823T194131Z">
+        <seg>氣體溫度上升的原因為引擎總體積壓縮而加熱。</seg>
       </tuv>
     </tu>
     <tu>
