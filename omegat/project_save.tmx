@@ -18639,6 +18639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The complicated heat transfer behaviors in the engine result in highly non-uniform temperature distributions in all sections of the engine at most of the time in an engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212842Z" creationid="Judy" creationdate="20140823T212842Z">
+        <seg>引擎中複雜的熱傳導特性造成引擎中所有部分、於引擎循環中所有時間點之溫度分布高度不均勻，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The conclusion of the test referring to the mentioned test conditions and the used &lt;t0/&gt;stabilisation&lt;t1/&gt; is a fantastic light protection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065244Z" creationid="MAE" creationdate="20140810T065244Z">
