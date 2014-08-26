@@ -10334,6 +10334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect temperature dur­ing the metallurgical process results in poor quality steel products, waste, extra energy consumption, increased refractory wear, surface defects, and time lost due to inaccurate tempera­ture monitoring and control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T101759Z" creationid="JUDY" creationdate="20140826T101759Z">
+        <seg>冶金過程中不正確的溫度會造成鋼材產品品質低落、產生廢料、多餘的能量消耗、增加耐火性損耗、表面缺陷以及因為不精確的溫度監測和控制所造成的時間損失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increasing factors for concrete (only static or quasi-static actions)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T045327Z">
