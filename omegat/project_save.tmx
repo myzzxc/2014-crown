@@ -774,10 +774,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2002 &lt;t0/&gt;Raytek&lt;t1/&gt; became a part of Fluke Corporation, a leading &lt;t2/&gt;manufacturer &lt;t3/&gt; &lt;t4/&gt;of&lt;t5/&gt; electronic measurement devices, owned by US based Danaher Corporation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T233423Z" creationid="JUDY" creationdate="20140826T233423Z">
+        <seg>2002 年 &lt;t0/&gt;Raytek&lt;t1/&gt; 成為電子量測裝置領導製造商 Fluke 公司之子公司。 Fluke 公司為美商 Danaher 之子公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2002 &lt;t0/&gt;Raytek&lt;t1/&gt; became a part of Fluke Corporation, a leading manufacturer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T233036Z" creationid="JUDY" creationdate="20140826T233036Z">
         <seg>2002 年 &lt;t0/&gt;Raytek&lt;t1/&gt; became a part of Fluke Corporation, a leading manufacturer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2007 &lt;t0/&gt;Raytek&lt;t1/&gt; was joined by IRCON.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T233451Z" creationid="JUDY" creationdate="20140826T233451Z">
+        <seg>2007 年 &lt;t0/&gt;Raytek&lt;t1/&gt; 與 IRCON 合併。</seg>
       </tuv>
     </tu>
     <tu>
