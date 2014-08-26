@@ -20615,6 +20615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is supported by integrated through-the-lens sighting, plus either laser or video sighting for correct target location.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T224151Z" creationid="JUDY" creationdate="20140826T224151Z">
+        <seg>藉由整合鏡頭瞄準，再加上雷射或影像瞄準以正確的對準目標位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the descendent of the structured-mesh, multi-block code of ‘STREAM’&lt;t0/&gt; &lt;t1/&gt;[14].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T212017Z" creationid="Judy" creationdate="20140820T022612Z">
