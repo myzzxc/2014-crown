@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1991 &lt;t0/&gt;Raytek&lt;t1/&gt; opened its European Headquarters in Berlin./.Germany.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T232901Z" creationid="JUDY" creationdate="20140826T232901Z">
+        <seg>1991 年 &lt;t0/&gt;Raytek&lt;t1/&gt; 於德國柏林成立歐洲總部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144541Z" creationid="CCYU" creationdate="20140808T144520Z">
         <seg>2.&lt;t0/&gt; &lt;t1/&gt;HAZARDS IDENTIFICATION 危害標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2002 &lt;t0/&gt;Raytek&lt;t1/&gt; became a part of Fluke Corporation, a leading manufacturer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T233036Z" creationid="JUDY" creationdate="20140826T233036Z">
+        <seg>2002 年 &lt;t0/&gt;Raytek&lt;t1/&gt; became a part of Fluke Corporation, a leading manufacturer</seg>
       </tuv>
     </tu>
     <tu>
