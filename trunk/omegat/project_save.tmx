@@ -16527,6 +16527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simultaneous analog and digital output allows tempera­ture data to be integrated into a closed loop control system and si­multaneously output for remote tem­perature monitoring and analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T222823Z" creationid="JUDY" creationdate="20140826T222823Z">
+        <seg>同步類比和數位輸出使溫度資料能整合至一個閉迴路控制系統並同時輸出至遠端溫度監測和分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since USTREAM is a pressure-based SIMPLEC&lt;t0/&gt; &lt;t1/&gt;[15] ﬁnite volume code, the pressure correction equation has to be modiﬁed to account for variable density in compressible ﬂows.&lt;t2/&gt; &lt;t3/&gt;The pressure–velocity coupling scheme in &lt;t4/&gt;Lebon&lt;t5/&gt; et al.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144829Z" creationid="Judy" creationdate="20140820T144824Z">
@@ -19521,8 +19529,8 @@
       <tuv lang="EN-US">
         <seg>The rugged and dependable non­contact infrared pyrometers of &lt;t0/&gt;Ray­tek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; are suitable for fixed installation in plants and machines and can be integrated into process-monitoring systems via industry-spe­cific interfaces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T220008Z" creationid="JUDY" creationdate="20140826T220008Z">
-        <seg>Raytek 和 Ircon 所生產之堅固且可靠的非接觸式紅外測溫器適合安裝於廠房和機器中，可透過各產業特定介面整合至加工監控系統中。</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T222831Z" creationid="JUDY" creationdate="20140826T220008Z">
+        <seg>Raytek 和 Ircon 所生產之堅固且可靠的非接觸式紅外測溫器適合安裝於廠房和機器中，可透過各產業特定介面整合至加工監測系統中。</seg>
       </tuv>
     </tu>
     <tu>
