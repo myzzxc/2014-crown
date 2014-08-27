@@ -8293,6 +8293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finishing Stand</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043654Z" creationid="JUDY" creationdate="20140827T043455Z">
+        <seg>加工座</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firefighting measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083513Z" creationid="CCYU" creationdate="20140809T083513Z">
@@ -13714,6 +13722,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111151Z">
         <seg>操作指示燈最初為綠色，接著閃爍紅光然後紅光恆亮代表加熱階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optic Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043431Z" creationid="JUDY" creationdate="20140827T043431Z">
+        <seg>光學高溫計</seg>
       </tuv>
     </tu>
     <tu>
@@ -19259,6 +19275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T115658Z">
         <seg>"&lt;t0/&gt;Multifix&lt;t1/&gt; 注膠系統 MF-EX1 混凝土型" 為黏結錨固，包含 &lt;t2/&gt;Multifix&lt;t3/&gt; MF-EX1 注射砂漿卡匣和鋼構件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;Ircon&lt;t1/&gt; Sensors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043713Z" creationid="JUDY" creationdate="20140827T043713Z">
+        <seg>Ircon 感測器</seg>
       </tuv>
     </tu>
     <tu>
