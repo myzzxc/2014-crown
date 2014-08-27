@@ -5733,6 +5733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continuous Casting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T022521Z" creationid="JUDY" creationdate="20140827T022521Z">
+        <seg>連續鑄造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuous special inspection for anchors installed in horizontal or upwardly inclined orientations resist sustained tension loads must be provided in accordance with Section &lt;t1/&gt;4.3 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081454Z">
@@ -21499,6 +21507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013055Z" creationid="JUDY" creationdate="20140827T013055Z">
         <seg>日本，東京</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Torpedo car: &lt;t0/&gt;Linescanning&lt;t1/&gt; finds refractory failures and avoids costly and dangerous metal spills.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T022514Z" creationid="JUDY" creationdate="20140827T022514Z">
+        <seg>魚雷車：線段掃描找尋耐熱性故障以避免代價高昂且危險的金屬外溢。</seg>
       </tuv>
     </tu>
     <tu>
