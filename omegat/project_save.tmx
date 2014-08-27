@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>*Third party trademarks are the registered, or unregistered, trademarks of their respective owners.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011102Z" creationid="JUDY" creationdate="20140827T011102Z">
-        <seg>* 協力廠商已註冊、或未註冊之商標為各廠商所有。</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011324Z" creationid="JUDY" creationdate="20140827T011102Z">
+        <seg>* 協力廠商已註冊、或未註冊之商標為各廠商所有，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2090,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030128Z">
         <seg>註：若現有混凝土結構為碳酸表面，在安裝新鋼筋前，應移除安裝後鋼筋連接直徑為 ϕ + 60 mm 區域的碳酸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; are not endorsed, sponsored, affiliated with or otherwise authorized by any named company.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011321Z" creationid="JUDY" creationdate="20140827T011321Z">
+        <seg>Raytek 和 Ircon 未上述公司are not endorsed, sponsored, affiliated with or otherwise authorized by any named company.</seg>
       </tuv>
     </tu>
     <tu>
