@@ -2437,8 +2437,8 @@
       <tuv lang="EN-US">
         <seg>A big part of our success is based on our close cooperation with our customers to develop instruments that solve even the most difficult applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012018Z" creationid="JUDY" creationdate="20140827T012018Z">
-        <seg>我們的成功很大一部分式基於我們的密切合作，與我們的客戶制定解決即使是最困難的應用程式的工具。</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012144Z" creationid="JUDY" creationdate="20140827T012018Z">
+        <seg>我們的成功很大一部分是基於我們與客戶的密切合作以開發出解決最困難的應用之儀器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,6 +5625,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
         <seg>關於廢棄物處置資訊請洽當地政府或經銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact us!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012148Z" creationid="JUDY" creationdate="20140827T012148Z">
+        <seg>與我們聯絡 ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10590,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infrared Solutions for the Steel Industry</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012328Z" creationid="JUDY" creationdate="20140827T012328Z">
+        <seg>鋼鐵產業的紅外線解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infrared Temperature Measurement in Steel Processing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T100224Z" creationid="JUDY" creationdate="20140826T095852Z">
@@ -12722,6 +12738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T054855Z" creationid="MAE" creationdate="20140727T054855Z">
         <seg>未龜裂混凝土 C20/25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Noncontact Temperature Measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012313Z" creationid="JUDY" creationdate="20140827T012313Z">
+        <seg>非接觸式溫度測量</seg>
       </tuv>
     </tu>
     <tu>
