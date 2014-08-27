@@ -2096,8 +2096,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; are not endorsed, sponsored, affiliated with or otherwise authorized by any named company.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011321Z" creationid="JUDY" creationdate="20140827T011321Z">
-        <seg>Raytek 和 Ircon 未上述公司are not endorsed, sponsored, affiliated with or otherwise authorized by any named company.</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011457Z" creationid="JUDY" creationdate="20140827T011321Z">
+        <seg>Raytek 和 Ircon 未經上述公司認可、贊助、相關聯或授權。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15323,6 +15323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084824Z" creationid="CCYU" creationdate="20140809T084824Z">
         <seg>Remove with liquid-absorbing material (sand, peat, sawdust). 使用吸水性材料 (沙子、泥炭、木屑) 吸附清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renowned Experts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011621Z" creationid="JUDY" creationdate="20140827T011621Z">
+        <seg>技術專家</seg>
       </tuv>
     </tu>
     <tu>
