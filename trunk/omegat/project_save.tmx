@@ -9278,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat Treating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T023418Z" creationid="JUDY" creationdate="20140827T023418Z">
+        <seg>熱處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heat output: approx. 120 W</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114335Z">
@@ -15115,6 +15123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022559Z" creationid="CCYU" creationdate="20140809T022559Z">
         <seg>Rabbit&lt;t0/&gt; 兔子     &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ratio IR thermometers allow accurate temperature measurement of parts often obscured by smoke, steam, and quench oil in an EMI environment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T023744Z" creationid="JUDY" creationdate="20140827T023744Z">
+        <seg>比紅外線測溫儀能針對經常被煙霧、蒸汽、和電磁干擾的環境中之淬火油所阻礙的部份提供精確的溫度量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22115,6 +22131,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080134Z" creationid="CCYU" creationdate="20140817T080127Z">
         <seg>使用吸收墊和護邊系統以吸附所有洩漏並鎖住不外漏為良好的安全方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using infrared thermometers accurately gauge cooling requirements of slabs, billets, or blooms to ensure product uniformity throughout, and provide equipment operators with immediate temperature information vital to the cooling process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T023411Z" creationid="JUDY" creationdate="20140827T023411Z">
+        <seg>使用紅外線測溫儀準確地評估扁胚、小胚或中胚的冷卻需求，以確保產品一致性，並為設備操作員提供冷卻過程中重要的即時溫度資訊。</seg>
       </tuv>
     </tu>
     <tu>
