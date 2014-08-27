@@ -2595,6 +2595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ACCESSORIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z" creationid="JUDY" creationdate="20140827T043113Z">
+        <seg>配件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACTION TO BE TAKEN IF MATERIAL IS RELEASED OR SPILLED:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172241Z" creationid="Judy" creationdate="20140818T172241Z">
@@ -7957,6 +7965,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FR Glass Fiber</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043409Z" creationid="JUDY" creationdate="20140827T043409Z">
+        <seg>FR 玻璃光纖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FREEZING POINT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174611Z" creationid="Judy" creationdate="20140818T174611Z">
@@ -9162,6 +9178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062645Z" creationid="CCYU" creationdate="20140817T062645Z">
         <seg>重型設備維修 &amp; 庫房</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HT Enclosure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043405Z" creationid="JUDY" creationdate="20140827T043405Z">
+        <seg>HT 外殼</seg>
       </tuv>
     </tu>
     <tu>
@@ -11866,6 +11890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044715Z">
         <seg>馬達</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MP150 &lt;t0/&gt;Linescanner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043358Z" creationid="JUDY" creationdate="20140827T043358Z">
+        <seg>MP150 線性掃描器</seg>
       </tuv>
     </tu>
     <tu>
@@ -17303,6 +17335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sinter Plant</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043149Z" creationid="JUDY" creationdate="20140827T043149Z">
+        <seg>燒結廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size to Capacity Ratio &lt;t0/&gt;- Our spill kits will contain and absorb far more than</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131754Z" creationid="CCYU" creationdate="20140817T131754Z">
@@ -20879,10 +20919,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thermal Imager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043252Z" creationid="JUDY" creationdate="20140827T043252Z">
+        <seg>熱像儀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thermal scans of billet exit temperatures allows&lt;t0/&gt; the operator to adjust rollers and reduce process downtime.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T031617Z" creationid="JUDY" creationdate="20140827T031617Z">
         <seg>鋼胚出口溫度掃描使操作人員能調整輥子以減少加工停機時間。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ThermoJacket&lt;t0/&gt; &lt;t1/&gt;cool housing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043344Z" creationid="JUDY" creationdate="20140827T043344Z">
+        <seg>ThermoJacket 冷卻套環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ThermoView Pi20 Series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043223Z" creationid="JUDY" creationdate="20140827T043223Z">
+        <seg>熱影像 (ThermoView) Pi20 系例</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,8 +22697,8 @@
       <tuv lang="EN-US">
         <seg>Video Pyrometer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043045Z" creationid="JUDY" creationdate="20140827T043045Z">
-        <seg>高溫影像儀</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043244Z" creationid="JUDY" creationdate="20140827T043045Z">
+        <seg>影像高溫計</seg>
       </tuv>
     </tu>
     <tu>
