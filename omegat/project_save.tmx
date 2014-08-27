@@ -9694,6 +9694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IR sensors can also be used to detect the presence of hot metal to accurately time roll stand operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025925Z" creationid="JUDY" creationdate="20140827T025925Z">
+        <seg>紅外線感測器也可以用於檢測輥軋機座操作時各時間點之高溫金屬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IRRITANT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181319Z" creationid="Judy" creationdate="20140818T181319Z">
@@ -15939,6 +15947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142259Z">
         <seg>桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rod/Wire Mills</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T030126Z" creationid="JUDY" creationdate="20140827T030126Z">
+        <seg>棒材 / 線材軋機</seg>
       </tuv>
     </tu>
     <tu>
