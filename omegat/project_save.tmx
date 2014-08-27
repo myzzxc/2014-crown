@@ -3811,6 +3811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Area</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020628Z" creationid="JUDY" creationdate="20140827T020628Z">
+        <seg>面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Article no.&lt;t0/&gt; &lt;t1/&gt;: 88540&lt;t2/&gt; &lt;t3/&gt;EAN-&lt;t4/&gt;Number:&lt;t5/&gt; 40 15588&lt;t6/&gt; &lt;t7/&gt;88540&lt;t8/&gt; &lt;t9/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073628Z">
@@ -6743,8 +6751,8 @@
       <tuv lang="EN-US">
         <seg>Does your online application require that you measure a point, a line, or an area?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014957Z" creationid="JUDY" creationdate="20140827T014957Z">
-        <seg>您的線上應用需要你量測單點、線段或整個區域？</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020635Z" creationid="JUDY" creationdate="20140827T014957Z">
+        <seg>您的線上應用需要你量測單點、線段或整個面？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8601,6 +8609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025810Z">
         <seg>短期負荷包含風力，若處於溫度範圍 A 其黏結強度將增加百分之九；若處於溫度範圍 B 其黏結強度將增加百分之三十九。 &lt;t13/&gt;3&lt;t14/&gt;溫度範圍 A：短期最高溫度 = 140°F (60°C)，長期最高溫度 = 95°F (35°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For specific needs please contact our application specialists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020611Z" creationid="JUDY" creationdate="20140827T020611Z">
+        <seg>若有特殊需求請與我們的應用專業人員聯繫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,6 +11542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020617Z" creationid="JUDY" creationdate="20140827T020617Z">
+        <seg>線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z" creationid="CCYU" creationdate="20140807T131746Z">
@@ -13062,6 +13086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that our product recommendations are based on the most common applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020516Z" creationid="JUDY" creationdate="20140827T020516Z">
+        <seg>請注意我們的產品建議是基於最常見的應用上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note to Figure A1 to A5&lt;t0/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234146Z">
@@ -14330,6 +14362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053138Z">
         <seg>氣動工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020614Z" creationid="JUDY" creationdate="20140827T020614Z">
+        <seg>點</seg>
       </tuv>
     </tu>
     <tu>
