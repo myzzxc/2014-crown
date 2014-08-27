@@ -12302,6 +12302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitoring the billet temperature in pipe mills allows the operator to adjust rollers, which results in reduced process downtime.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024540Z" creationid="JUDY" creationdate="20140827T024452Z">
+        <seg>監測軋管機中的鋼坯溫度允許操作者調整的輥，哪些結果在減少停機時間的過程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More importantly, if a spill is large enough or threatens a waterway or storm water drain, a third party spill &lt;t0/&gt;response company&lt;t1/&gt; may be called.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130853Z" creationid="CCYU" creationdate="20140817T130656Z">
@@ -21745,8 +21753,8 @@
       <tuv lang="EN-US">
         <seg>Tube/Pipe Mills</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024134Z" creationid="JUDY" creationdate="20140827T024134Z">
-        <seg>鋼管廠</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024513Z" creationid="JUDY" creationdate="20140827T024134Z">
+        <seg>軋管機</seg>
       </tuv>
     </tu>
     <tu>
@@ -22723,6 +22731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073342Z">
         <seg>重量：約 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welded tube relies on accurate measurement of weld seem temperatures to insure 100% integrity of the seal and prevent bad or low quality tubing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024349Z" creationid="JUDY" creationdate="20140827T024349Z">
+        <seg>焊接管需依靠精確地測量焊縫溫度，以保證 100% 的密封性及避免管路品質粗劣或低落。</seg>
       </tuv>
     </tu>
     <tu>
