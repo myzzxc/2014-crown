@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 800 227 8074 (USA/Canada, only)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014434Z" creationid="JUDY" creationdate="20140827T014434Z">
+        <seg>1 800 227 8074 (僅適用於美國 / 加拿大)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Appendix No. 2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032942Z" creationid="CCYU" creationdate="20140809T032942Z">
@@ -4227,6 +4235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berlin, Germany</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014315Z" creationid="JUDY" creationdate="20140827T014315Z">
+        <seg>德國，柏林</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berms should be used around the machines to make sure leaks don’t move into the walkway and cause a hazard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093425Z" creationid="CCYU" creationdate="20140817T093425Z">
@@ -7485,6 +7501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>European Headquarters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014323Z" creationid="JUDY" creationdate="20140827T014318Z">
+        <seg>歐洲區總部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>European Technical Assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T122609Z">
@@ -9162,6 +9186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T081133Z" creationid="CCYU" creationdate="20140809T081133Z">
         <seg>Hazards identification 危害標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head Office</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014308Z" creationid="JUDY" creationdate="20140827T014308Z">
+        <seg>總部辦公室</seg>
       </tuv>
     </tu>
     <tu>
@@ -14967,6 +14999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; Corporation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014351Z" creationid="JUDY" creationdate="20140827T014351Z">
+        <seg>Raytek 公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raytek&lt;t0/&gt; Worldwide</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T003921Z" creationid="JUDY" creationdate="20140827T003921Z">
@@ -14987,6 +15027,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T004003Z" creationid="JUDY" creationdate="20140827T004003Z">
         <seg>Raytek 於設界各地有約 200 名員工，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt;, the &lt;t1/&gt;Raytek&lt;t2/&gt; logo are registered trademarks of &lt;t3/&gt;Raytek&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014549Z" creationid="JUDY" creationdate="20140827T014549Z">
+        <seg>Raytek，Raytek 標誌為 Raytek 註冊商標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18451,6 +18499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050949Z" creationid="MAE" creationdate="20140808T050949Z">
         <seg>Tel.: +49 40 / 79 02 36 &lt;t0/&gt;300  Fax&lt;t1/&gt;: +49 40 / 79 02 36 357 e-mail: umco@umco.de 電話：+49 40 / 79 02 36 傳真：+49 40 / 79 02 36 357 電子信箱：umco@umco.de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tel:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014334Z" creationid="JUDY" creationdate="20140827T014334Z">
+        <seg>電話：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22619,6 +22675,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074718Z" creationid="CCYU" creationdate="20140817T074718Z">
         <seg>若沒有處理，含油的水必須作為危險廢棄物處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worldwide Headquarters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014340Z" creationid="JUDY" creationdate="20140827T014340Z">
+        <seg>全球總部</seg>
       </tuv>
     </tu>
     <tu>
