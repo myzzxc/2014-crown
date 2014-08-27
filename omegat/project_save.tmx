@@ -8838,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Galvanizing and Annealing Lines</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032927Z" creationid="JUDY" creationdate="20140827T032927Z">
+        <seg>鍍鋅和退火產線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
@@ -12314,6 +12322,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020128Z" creationid="Judy" creationdate="20140820T020128Z">
         <seg>動量方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring temperature reduces heating costs by preventing billet overheating and reduces machine and die maintenance by identifying under heated billets before working.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032827Z" creationid="JUDY" creationdate="20140827T032827Z">
+        <seg>溫度監測能避免鋼胚過熱以降低加熱成本並能在加工前發現過冷鋼胚以減少機台和模具維護。</seg>
       </tuv>
     </tu>
     <tu>
