@@ -20663,6 +20663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thermal scans of billet exit temperatures allows&lt;t0/&gt; the operator to adjust rollers and reduce process downtime.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T031617Z" creationid="JUDY" creationdate="20140827T031617Z">
+        <seg>鋼胚出口溫度掃描使操作人員能調整輥子以減少加工停機時間。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These advantages are: very high efﬁciency, silence in operation, low level of toxic emission if powered by fuel, and the ability to use almost any kind of heat sources, including solar, biological, geothermal, or even industrial waste heat.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T210503Z" creationid="Judy" creationdate="20140818T210503Z">
