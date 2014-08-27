@@ -6741,6 +6741,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Does your online application require that you measure a point, a line, or an area?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014957Z" creationid="JUDY" creationdate="20140827T014957Z">
+        <seg>您的線上應用需要你量測單點、線段或整個區域？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024646Z" creationid="CCYU" creationdate="20140809T024646Z">
