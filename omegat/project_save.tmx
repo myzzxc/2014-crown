@@ -15935,6 +15935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rolling Mills</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025041Z" creationid="JUDY" creationdate="20140827T025041Z">
+        <seg>輥軋機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAFETY DATA SHEET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160604Z" creationid="CCYU" creationdate="20140808T143324Z">
@@ -22161,8 +22169,8 @@
       <tuv lang="EN-US">
         <seg>Using infrared thermometers accurately gauge cooling requirements of slabs, billets, or blooms to ensure product uniformity throughout, and provide equipment operators with immediate temperature information vital to the cooling process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024556Z" creationid="JUDY" creationdate="20140827T023411Z">
-        <seg>使用紅外線測溫儀準確地評估扁鋼胚、小鋼胚或中鋼胚的冷卻需求，以確保產品一致性，並為設備操作員提供冷卻過程中重要的即時溫度資訊。</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025026Z" creationid="JUDY" creationdate="20140827T023411Z">
+        <seg>使用紅外線測溫儀準確地評估扁胚、小胚或中胚的冷卻需求，以確保產品一致性，並為設備操作員提供冷卻過程中重要的即時溫度資訊。</seg>
       </tuv>
     </tu>
     <tu>
