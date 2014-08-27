@@ -5356,6 +5356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common Applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020814Z" creationid="JUDY" creationdate="20140827T020808Z">
+        <seg>一般應用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142603Z" creationid="CCYU" creationdate="20140809T142603Z">
@@ -14510,6 +14518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary Steel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020754Z" creationid="JUDY" creationdate="20140827T020754Z">
+        <seg>初級熔煉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prior to dispensing into the anchor hole, squeeze out separately the mortar until it shows a consistent grey &lt;t0/&gt;colour&lt;t1/&gt;, but a minimum of three full strokes, and discard non-uniformly mixed adhesive components.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T072420Z">
@@ -15075,6 +15091,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022559Z" creationid="CCYU" creationdate="20140809T022559Z">
         <seg>Rabbit&lt;t0/&gt; 兔子     &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Materials for Steel Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020840Z" creationid="JUDY" creationdate="20140827T020840Z">
+        <seg>鋼鐵製造原料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16579,6 +16603,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
         <seg>封口/螺帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary Steel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020802Z" creationid="JUDY" creationdate="20140827T020802Z">
+        <seg>次級熔煉</seg>
       </tuv>
     </tu>
     <tu>
