@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2-Color Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044108Z" creationid="JUDY" creationdate="20140827T044108Z">
+        <seg>2 色測溫器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2-color Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043956Z" creationid="JUDY" creationdate="20140827T043110Z">
@@ -8085,6 +8093,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fiberoptic&lt;t0/&gt; Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044123Z" creationid="JUDY" creationdate="20140827T044123Z">
+        <seg>光纖測溫器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 1.&lt;t0/&gt; The conﬁguration and deﬁnition of geometric parameters of the &lt;t1/&gt;γ-type&lt;t2/&gt; Stirling&lt;t3/&gt; &lt;t4/&gt;engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160211Z" creationid="Judy" creationdate="20140819T125828Z">
@@ -11734,6 +11750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linescanner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044137Z" creationid="JUDY" creationdate="20140827T044137Z">
+        <seg>線性掃描器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z" creationid="CCYU" creationdate="20140807T131746Z">
@@ -12466,6 +12490,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095158Z">
         <seg>修改 ACI 318 章節 D.3.3.4.2、D.3.3.4.3(d) 和 &lt;t0/&gt; D.3.3.5.2，內容如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modline&lt;t0/&gt; 7 Pyrometer &amp; Process Box</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044221Z" creationid="JUDY" creationdate="20140827T044221Z">
+        <seg>Modline&lt;t0/&gt; 7 測溫器及處理器</seg>
       </tuv>
     </tu>
     <tu>
@@ -24419,6 +24451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
         <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rugged&lt;t0/&gt; Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044059Z" creationid="JUDY" creationdate="20140827T044059Z">
+        <seg>堅固測溫器</seg>
       </tuv>
     </tu>
     <tu>
