@@ -7981,6 +7981,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Factory operators can selectively control temperature measurement of heat treated parts, resulting in significant energy and time savings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024010Z" creationid="JUDY" creationdate="20140827T024010Z">
+        <seg>廠房操作人員能選擇性地控制熱處理工件之溫度量測以大量的節省能源及時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fastenings in stand-off installation or with a grout layer are not allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140923Z">
@@ -21731,6 +21739,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050520Z" creationid="MAE" creationdate="20140808T050520Z">
         <seg>Transport regulations according to ADR, RID, IMDG, &lt;t0/&gt;IATA&lt;t1/&gt; as amended in each case. 依個案修訂，根據 ADR、RID、IMDG、IATA 之運輸法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tube/Pipe Mills</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024134Z" creationid="JUDY" creationdate="20140827T024134Z">
+        <seg>鋼管廠</seg>
       </tuv>
     </tu>
     <tu>
