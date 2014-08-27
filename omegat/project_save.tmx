@@ -10814,6 +10814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infrared thermometry allows for quick and accurate measurements of surface temperatures without touching the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T041359Z" creationid="JUDY" creationdate="20140827T041354Z">
+        <seg>紅外測溫儀可在不接觸產品的情況下快速、精確的量測表面溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ingestion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145258Z" creationid="CCYU" creationdate="20140808T145258Z">
@@ -21275,6 +21283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z">
         <seg>本使用說明書屬於此裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a decisive advantage in many indus­trial, maintenance and quality con­trol applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T041510Z" creationid="JUDY" creationdate="20140827T041510Z">
+        <seg>此為許多工業、維護和品管應用中的決定性優勢。</seg>
       </tuv>
     </tu>
     <tu>
