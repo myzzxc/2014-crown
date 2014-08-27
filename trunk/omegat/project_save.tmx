@@ -8718,6 +8718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forging</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032212Z" creationid="JUDY" creationdate="20140827T032212Z">
+        <seg>鍛造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form/&lt;t0/&gt;Colour</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142351Z" creationid="CCYU" creationdate="20140807T142327Z">
@@ -16955,6 +16963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022959Z" creationid="CCYU" creationdate="20140809T022959Z">
         <seg>Sensitizer 敏化劑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sensors mounted at the layering area control cooling of overlapping coils to improve product quality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032205Z" creationid="JUDY" creationdate="20140827T032205Z">
+        <seg>感測器安裝在分層區以控制重疊線圈冷卻進而改進產品品質。</seg>
       </tuv>
     </tu>
     <tu>
