@@ -12110,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metal used for building siding, roofing and gutters, as well as metal for appliances are all coil-coated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040001Z" creationid="JUDY" creationdate="20140827T035807Z">
+        <seg>用於建築外牆、屋頂、槽溝以及金屬器具皆為捲料塗布，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Method Detail</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021736Z" creationid="CCYU" creationdate="20140809T021736Z">
@@ -19995,6 +20003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062832Z">
         <seg>包裝可重複使用或回收。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The paint is applied to continuous coils of metal using rollers and then heated in a hot air oven.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040024Z" creationid="JUDY" creationdate="20140827T035818Z">
+        <seg>塗料以輥子連續塗布至金屬捲料，然後於熱風爐中加熱。</seg>
       </tuv>
     </tu>
     <tu>
