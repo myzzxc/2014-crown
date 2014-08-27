@@ -774,6 +774,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Wire Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042843Z" creationid="JUDY" creationdate="20140827T042843Z">
+        <seg>2 線式高溫計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2-color Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043110Z" creationid="JUDY" creationdate="20140827T043110Z">
+        <seg>2 色高溫計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012004Z">
@@ -8862,6 +8878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Galvanizing/Annealing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042820Z" creationid="JUDY" creationdate="20140827T042820Z">
+        <seg>鍍鋅和退火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z" creationid="MAE" creationdate="20140727T042104Z">
@@ -11814,6 +11838,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MI3 Compact Series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043004Z" creationid="JUDY" creationdate="20140827T043004Z">
+        <seg>MI3 輕型系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MM Series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043020Z" creationid="JUDY" creationdate="20140827T043020Z">
+        <seg>MM 系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOBILITY:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180343Z" creationid="Judy" creationdate="20140818T180343Z">
@@ -11834,6 +11874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121500Z" creationid="CCYU" creationdate="20140817T121500Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MR Series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043051Z" creationid="JUDY" creationdate="20140827T043051Z">
+        <seg>MR 系列</seg>
       </tuv>
     </tu>
     <tu>
@@ -15019,6 +15067,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T004538Z">
         <seg>將鋼筋推入錨孔，同時稍微轉動直到達到埋設深度，以確保黏著劑均勻分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043010Z" creationid="JUDY" creationdate="20140827T043010Z">
+        <seg>高溫計</seg>
       </tuv>
     </tu>
     <tu>
@@ -22543,6 +22599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Versatile Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042913Z" creationid="JUDY" creationdate="20140827T042913Z">
+        <seg>多功能高溫計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033437Z" creationid="CCYU" creationdate="20140809T033437Z">
@@ -22563,6 +22627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061928Z" creationid="MAE" creationdate="20140810T061928Z">
         <seg>非常差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video Pyrometer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043045Z" creationid="JUDY" creationdate="20140827T043045Z">
+        <seg>高溫影像儀</seg>
       </tuv>
     </tu>
     <tu>
@@ -23083,6 +23155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
         <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wide range of versatile infrared solutions for demanding applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042810Z" creationid="JUDY" creationdate="20140827T042810Z">
+        <seg>廣泛適用各種嚴苛應用的多功能紅外線解決方案</seg>
       </tuv>
     </tu>
     <tu>
