@@ -10750,6 +10750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infrared temperature sensors accurately measure strip and sheet temperature so that rolling mill stands can be efficiently set to match the steel’s temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025640Z" creationid="JUDY" creationdate="20140827T025640Z">
+        <seg>紅外線溫度感測器精確地量測板條和薄板的溫度，以便輥軋機座能有效地設定至匹配鋼材的溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ingestion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145258Z" creationid="CCYU" creationdate="20140808T145258Z">
