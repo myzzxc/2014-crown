@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*Third party trademarks are the registered, or unregistered, trademarks of their respective owners.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011102Z" creationid="JUDY" creationdate="20140827T011102Z">
+        <seg>* 協力廠商已註冊、或未註冊之商標為各廠商所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0&lt;t0/&gt;0&lt;t1/&gt;Common tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T051533Z" creationid="MAE" creationdate="20140810T051533Z">
@@ -11634,6 +11642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083714Z" creationid="CCYU" creationdate="20140817T083714Z">
         <seg>市面上有許多桶蓋，我們的產品最長效且乾淨，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many of them are industry leaders like &lt;t4/&gt;Arcelor&lt;t5/&gt; Mittal, Mittal Steel, &lt;t6/&gt;Saarstahl&lt;t7/&gt;, Dillinger &lt;t8/&gt;Hütte&lt;t9/&gt;, Salzgitter, &lt;t10/&gt;Voest&lt;t11/&gt; Alpine, &lt;t12/&gt;Severstal&lt;t13/&gt;, Tata Steel, China Steel, &lt;t14/&gt;Hyunday&lt;t15/&gt; Steel, Volkswagen, Saint &lt;t16/&gt;Gobain&lt;t17/&gt;, &lt;t18/&gt;Tetrapak&lt;t19/&gt; ... *</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T010924Z" creationid="JUDY" creationdate="20140827T010924Z">
+        <seg>許多客戶為業界領導者，如安賽樂米塔爾 (Arcelor Mittal)、米塔爾鋼鐵 (Mittal Steel)、Saarstahl、Dillinger Hütte、薩爾茨吉特 (Salzgitter)、Voest Alpine、Severstal、塔塔鋼鐵 (Tata Steel)、中鋼、現代鋼鐵 (Hyundai Steel)、福斯 (Volkswagen)、聖戈班 (Saint Gobain)、利樂包裝 (Tetrapak)…等*</seg>
       </tuv>
     </tu>
     <tu>
