@@ -3883,6 +3883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Asian Headquarters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014117Z" creationid="JUDY" creationdate="20140827T014117Z">
+        <seg>亞洲區總部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask us for more details!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T224748Z" creationid="JUDY" creationdate="20140826T224748Z">
@@ -7553,6 +7561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013045Z" creationid="JUDY" creationdate="20140827T013045Z">
         <seg>埃弗里特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everett, USA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014128Z" creationid="JUDY" creationdate="20140827T014128Z">
+        <seg>美國，埃弗里特</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,6 +14583,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Production</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014144Z" creationid="JUDY" creationdate="20140827T014144Z">
+        <seg>製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Produktion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014101Z" creationid="JUDY" creationdate="20140827T014101Z">
+        <seg>製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Propane-1,2-diol</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131947Z" creationid="CCYU" creationdate="20140807T131947Z">
@@ -16367,6 +16399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Santa Cruz, USA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014236Z" creationid="JUDY" creationdate="20140827T014236Z">
+        <seg>美國，聖塔克魯茲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score&lt;t0/&gt;  &lt;t1/&gt;Exposure&lt;t2/&gt;   &lt;t3/&gt; Observation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022328Z" creationid="CCYU" creationdate="20140809T022328Z">
@@ -16675,6 +16715,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T141857Z" creationid="CCYU" creationdate="20140809T140243Z">
         <seg>使用多種人工紫外線穩定性測試方法，皆基於可行之時間間隔 (縮短時間)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shanghai, China</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014114Z" creationid="JUDY" creationdate="20140827T014114Z">
+        <seg>中國，上海</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shilu&lt;t0/&gt;, China</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014055Z" creationid="JUDY" creationdate="20140827T014055Z">
+        <seg>中國，石路</seg>
       </tuv>
     </tu>
     <tu>
