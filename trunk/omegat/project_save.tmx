@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2013 &lt;t0/&gt;Raytek&lt;t1/&gt; hosts &lt;t2/&gt;DaKKS&lt;t3/&gt; testing laboratory for the calibration of pyrometers, temperature indicators, and temperature simulators for all brands and spectral ranges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T003835Z" creationid="JUDY" creationdate="20140827T003835Z">
+        <seg>2013 年 &lt;t0/&gt;Raytek&lt;t1/&gt; 主持 &lt;t2/&gt;DaKKS&lt;t3/&gt;測試實驗室，負責所有品牌及各波長範圍的測溫咦、溫度指示器以及溫度模擬器的校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z">
@@ -14839,10 +14847,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; Worldwide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T003921Z" creationid="JUDY" creationdate="20140827T003921Z">
+        <seg>Raytek 遍佈世界各地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raytek&lt;t0/&gt; a Fluke® Company</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T225110Z" creationid="JUDY" creationdate="20140826T225110Z">
         <seg>Raytek，Fluke® 子公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; employs approximately 200 people worldwide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T004003Z" creationid="JUDY" creationdate="20140827T004003Z">
+        <seg>Raytek 於設界各地有約 200 名員工，</seg>
       </tuv>
     </tu>
     <tu>
