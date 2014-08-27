@@ -14583,6 +14583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proven Technology</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T004809Z" creationid="JUDY" creationdate="20140827T004809Z">
+        <seg>經過驗證的技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provide good ventilation of working area (local exhaust ventilation, if necessary).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115619Z" creationid="CCYU" creationdate="20140807T115619Z">
@@ -20931,6 +20939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T152928Z" creationid="Judy" creationdate="20140820T152928Z">
         <seg>三個不同的網格分別有 80,566、110,569 以及 141,438 個單位網格，每步驟時間間隔分別為 2.5 × 10&lt;t22/&gt;-&lt;t23/&gt;3&lt;t24/&gt; 秒、1.667 × 10&lt;t25/&gt;-&lt;t26/&gt;3&lt;t27/&gt; 秒以及 1.25 × 10&lt;t28/&gt;-&lt;t29/&gt;3&lt;t30/&gt; 秒，個別對應之每循環的時間步驟數為 200、300 以及 400。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three international service centers (USA, Germany and China) provide technical service and calibration support in accordance with ISO9001 quality standards and equipment fully certified and traceable back to DKD./.&lt;t1/&gt;DaKKS&lt;t2/&gt; &amp; other international standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T004744Z" creationid="JUDY" creationdate="20140827T004744Z">
+        <seg>三間國際服務中心（美國、德國和中國）提供的符合 ISO9001 品質標準的技術服務和校正支援，設備完全經過 DKD/DaKKS 以及其他的國際標準認證。</seg>
       </tuv>
     </tu>
     <tu>
