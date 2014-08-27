@@ -12262,6 +12262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitoring temperatures of iron ore, lime, coal and coke insures that the basic raw materials have achieved the right characteristics and prevents critical conveyor belts from being damaged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T021112Z" creationid="JUDY" creationdate="20140827T021112Z">
+        <seg>監測鐵礦砂、石灰、煤炭和焦炭溫度以確保基本原料達到正確的特性並防止輸送帶嚴重損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More importantly, if a spill is large enough or threatens a waterway or storm water drain, a third party spill &lt;t0/&gt;response company&lt;t1/&gt; may be called.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130853Z" creationid="CCYU" creationdate="20140817T130656Z">
@@ -17675,6 +17683,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T130459Z">
         <seg>鋼、熱鍍鋅 ≥&lt;t5/&gt; 40 pm 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steelmaking – Blast Furnace</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T021132Z" creationid="JUDY" creationdate="20140827T021132Z">
+        <seg>煉鋼 – 高爐</seg>
       </tuv>
     </tu>
     <tu>
