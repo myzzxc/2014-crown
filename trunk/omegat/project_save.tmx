@@ -20295,6 +20295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The steel is measured in &lt;t0/&gt;the preheat&lt;t1/&gt;, heat, soak and cooling zones to insure proper metallurgical properties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033833Z" creationid="JUDY" creationdate="20140827T033557Z">
+        <seg>於預熱、加熱、 熱煉、冷卻區量測鋼材溫度以確保冶金特性良好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z">
