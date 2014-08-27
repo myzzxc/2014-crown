@@ -8197,6 +8197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the Right Products for your Applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014849Z" creationid="JUDY" creationdate="20140827T014849Z">
+        <seg>為您的應用找到合適的產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firefighting measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083513Z" creationid="CCYU" creationdate="20140809T083513Z">
@@ -8682,6 +8690,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T232735Z" creationid="JUDY" creationdate="20140826T232735Z">
         <seg>1963 年 Raytek 成立於美國加州，Raytek 開發、製造、銷售並提供維修服務，其完整的非接觸式測溫器產線涵蓋了溫度範圍由 -50 至 3500°C，為工業製造提供了紅外線解決方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>France</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014557Z" creationid="JUDY" creationdate="20140827T014557Z">
+        <seg>法國</seg>
       </tuv>
     </tu>
     <tu>
@@ -9594,6 +9610,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173034Z" creationid="Judy" creationdate="20140818T173034Z">
         <seg>空容器資訊：不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INFRARED SOLUTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014823Z" creationid="JUDY" creationdate="20140827T014733Z">
+        <seg>專用紅外線解決方案</seg>
       </tuv>
     </tu>
     <tu>
@@ -14999,10 +15023,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; Berlin, Germany</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014700Z" creationid="JUDY" creationdate="20140827T014700Z">
+        <seg>Raytek 德國，柏林</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; China Company</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014635Z" creationid="JUDY" creationdate="20140827T014635Z">
+        <seg>中國 Raytek 公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raytek&lt;t0/&gt; Corporation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014351Z" creationid="JUDY" creationdate="20140827T014351Z">
         <seg>Raytek 公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; Santa Cruz, USA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014652Z" creationid="JUDY" creationdate="20140827T014652Z">
+        <seg>Raytek 美國，聖塔克魯茲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raytek&lt;t0/&gt; Shanghai, China</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014622Z" creationid="JUDY" creationdate="20140827T014622Z">
+        <seg>Raytek 中國，上海</seg>
       </tuv>
     </tu>
     <tu>
@@ -17207,6 +17263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifications subject to change without notice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014553Z" creationid="JUDY" creationdate="20140827T014553Z">
+        <seg>規格如有更改，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spill Control Companies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T165019Z" creationid="CCYU" creationdate="20140816T165019Z">
@@ -18875,6 +18939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T112141Z">
         <seg>此研究中所分析的史特林引擎為 Chen 等人所提出的雙動力活塞 γ-型史特林引擎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Worldwide Leader in Noncontact Temperature Measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014720Z" creationid="JUDY" creationdate="20140827T014720Z">
+        <seg>全球非接觸式溫度量測的領導者</seg>
       </tuv>
     </tu>
     <tu>
@@ -21755,6 +21827,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141322Z" creationid="CCYU" creationdate="20140817T141322Z">
         <seg>火車維修時置於底部以吸附油污和燃料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>United Kingdom</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014559Z" creationid="JUDY" creationdate="20140827T014559Z">
+        <seg>英國</seg>
       </tuv>
     </tu>
     <tu>
