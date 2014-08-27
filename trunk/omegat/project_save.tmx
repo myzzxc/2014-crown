@@ -10534,6 +10534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the production of reinforcing bars for the construction industry, the bars are preheated and then the coating is applied and cured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040528Z" creationid="JUDY" creationdate="20140827T040435Z">
+        <seg>生產建築業所使用之鋼筋時，先預熱鋼條後塗布塗層並固化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these areas, you want to have a spill kit on hand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090926Z" creationid="CCYU" creationdate="20140817T090926Z">
@@ -17727,6 +17735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steel Coating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040650Z" creationid="JUDY" creationdate="20140827T040650Z">
+        <seg>鍍鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steel Reinforcing bars: &lt;t0/&gt;Steel reinforcing bars are deformed reinforcing bars as described in Table 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T002157Z">
@@ -20119,6 +20135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The proper temperature is critical to insure correct thickness and good bonding of the coating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040522Z" creationid="JUDY" creationdate="20140827T040522Z">
+        <seg>適當的溫度為確保正確厚度和塗層結合良好之關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pumps may also be outside where it rains.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074253Z" creationid="CCYU" creationdate="20140817T074253Z">
@@ -20393,8 +20417,8 @@
       <tuv lang="EN-US">
         <seg>The temperature is critical to insure proper bonding and color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040130Z" creationid="JUDY" creationdate="20140827T040130Z">
-        <seg>溫度為塗料黏合及色彩良好的關鍵，</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040539Z" creationid="JUDY" creationdate="20140827T040130Z">
+        <seg>溫度為塗料黏合及色彩良好的關鍵。</seg>
       </tuv>
     </tu>
     <tu>
