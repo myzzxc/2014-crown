@@ -13686,6 +13686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On September 21, 1999, the Chi-Chi earthquake whose epicenter is at 23.85°N, 120.81°E struck central Taiwan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T140343Z" creationid="CCYU" creationdate="20140911T140343Z">
+        <seg>1999 年 9 月 21 日，台灣中部發生了集集大地震，震央位於北緯 23.85°、東經 120.81°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the contrary, Fig. 4 shows that from h = 269.0° to 360.0°, the ejection phase of the expansion chamber coincides with the compression of total engine volume, thus the gas inside the expansion chamber is heated not only by the hot-end wall but also by the compression effect.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095354Z" creationid="Judy" creationdate="20140823T095354Z">
