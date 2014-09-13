@@ -22383,6 +22383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This series of validation experiments reveals that the precision of PIV is a strong function of patch size, and is also influenced by image content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T122456Z" creationid="CCYU" creationdate="20140913T122456Z">
+        <seg>這一系列的驗證實驗顯示 PIV 之精確度與區塊尺寸強烈相關，也受到影像內容影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This study sheds light into the complex heat transfer mechanism inside the Stirling engine and is very helpful to the understanding of the fundamental process of the engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205555Z" creationid="Judy" creationdate="20140818T205555Z">
