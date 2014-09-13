@@ -20735,6 +20735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The relationship is a general linear model which is represented as following equations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064634Z" creationid="CCYU" creationdate="20140913T064634Z">
+        <seg>關係式為一般化的線性模型，如下列方程式所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reported landslides are dissimilar to the catastrophic events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043353Z" creationid="CCYU" creationdate="20140911T130215Z">
@@ -25234,10 +25242,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; a1 &lt;t3/&gt;+&lt;t4/&gt; a2xi &lt;t5/&gt;+&lt;t6/&gt; a3yi and &lt;t7/&gt;ys&lt;t8/&gt; &lt;t9/&gt;=&lt;t10/&gt; a4 &lt;t11/&gt;+&lt;t12/&gt; a5xi &lt;t13/&gt;+&lt;t14/&gt; a6yi&lt;t15/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064646Z" creationid="CCYU" creationdate="20140913T064646Z">
+        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; a1 &lt;t3/&gt;+&lt;t4/&gt; a2xi &lt;t5/&gt;+&lt;t6/&gt; a3yi 和 &lt;t7/&gt;ys&lt;t8/&gt; &lt;t9/&gt;=&lt;t10/&gt; a4 &lt;t11/&gt;+&lt;t12/&gt; a5xi &lt;t13/&gt;+&lt;t14/&gt; a6yi&lt;t15/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; and &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064445Z" creationid="CCYU" creationdate="20140913T064445Z">
-        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; 和 &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;).</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064650Z" creationid="CCYU" creationdate="20140913T064445Z">
+        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; 和 &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
