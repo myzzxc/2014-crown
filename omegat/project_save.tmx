@@ -20921,8 +20921,8 @@
       <tuv lang="EN-US">
         <seg>The simplest technique of resampling is nearest-neighbor resampling.&lt;t0/&gt; &lt;t1/&gt;We just identify the pixel in the original image which is spatially nearest to the calculated position (i,&lt;t2/&gt; &lt;t3/&gt;j), and then copy its &lt;t4/&gt;pixel value to the location (i&lt;t5/&gt;’&lt;t6/&gt;,&lt;t7/&gt; &lt;t8/&gt;j&lt;t9/&gt;’&lt;t10/&gt;) in the new image.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075842Z" creationid="CCYU" creationdate="20140913T075842Z">
-        <seg>重採樣最簡單的方法是最近鄰取樣。 &lt;t0/&gt;&lt;t1/&gt;我們只需標識原始圖像空間所計算出的位置中的圖元 （我， &lt;t2/&gt; &lt;t3/&gt; j），然後將複製其 &lt;t4/&gt; 圖元值的位置 （我 &lt;t5/&gt; ' &lt;t6/&gt; ， &lt;t7/&gt; &lt;t8/&gt; j &lt;t9/&gt; ' &lt;t10/&gt; ） 中的新形象。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080202Z" creationid="CCYU" creationdate="20140913T075842Z">
+        <seg>最簡單的重新取樣技術為最近鄰法取樣 (nearest-neighbor resampling)&lt; &lt;t0/&gt;&lt;t1/&gt;我們只需標識原始圖像空間所計算出的位置中的圖元 （我， &lt;t2/&gt; &lt;t3/&gt; j），然後將複製其 &lt;t4/&gt; 圖元值的位置 （我 &lt;t5/&gt; ' &lt;t6/&gt; ， &lt;t7/&gt; &lt;t8/&gt; j &lt;t9/&gt; ' &lt;t10/&gt; ） 中的新形象。</seg>
       </tuv>
     </tu>
     <tu>
