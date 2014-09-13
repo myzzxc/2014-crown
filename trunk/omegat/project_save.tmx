@@ -19807,6 +19807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RMS (Root Mean Square) error of the cross-correlation is about 0.3 pixels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T093035Z" creationid="CCYU" creationdate="20140913T093035Z">
+        <seg>交互相關之 RMS (方均根) 誤差約為 0.3 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Section 313 toxic chemicals contained in this product are: None</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183410Z" creationid="Judy" creationdate="20140818T183410Z">
