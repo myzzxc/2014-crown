@@ -20319,6 +20319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The empirically derived curve UB in Fig. 7 is an upper bound on the precision error, &lt;t0/&gt;ρpixel&lt;t1/&gt;, and is given by equation: (White et al., 2003)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123004Z" creationid="CCYU" creationdate="20140913T123004Z">
+        <seg>圖 7 中的實驗曲線 UB 為精度誤差 ρpixel 之上界，由下列方程式所得：(White 等人，2003 年)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The end may be stamped with identifying marks and the embedded end may be blunt cut or cut on the bias (chisel point).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051810Z">
