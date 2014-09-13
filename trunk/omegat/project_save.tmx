@@ -14038,6 +14038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orthorectified images have less relief displacement and geometric error than non-orthorectified images, and thus they are considered more accurate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081637Z" creationid="CCYU" creationdate="20140913T081637Z">
+        <seg>正射校正影像之相對位移與幾何誤差比未正射校正之影像較低，因此一般認定其更為準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134905Z" creationid="CCYU" creationdate="20140807T134905Z">
