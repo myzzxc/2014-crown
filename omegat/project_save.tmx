@@ -20255,6 +20255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The equation for the cross-correlation is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090839Z" creationid="CCYU" creationdate="20140913T090839Z">
+        <seg>交互相關的計算公式如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The essential characteristics regarding Safety in use are included under the Basic Works&lt;t0/&gt; &lt;t1/&gt;Requirement Mechanical resistance and stability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021047Z">
@@ -22467,6 +22475,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143208Z">
         <seg>且勿放置任何物品於暖腳機上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reduce the computational requirement, the correlation operations are conducted in the frequency domain by taking the fast Fourier transform (FFT) of each patch and following the convolution theorem.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090820Z" creationid="CCYU" creationdate="20140913T090820Z">
+        <seg>為了減少計算的要求，相關性操作將每個區塊作快速傅立裡葉轉換 (FFT) 後於頻域中進行，並遵守
+卷積定理。</seg>
       </tuv>
     </tu>
     <tu>
