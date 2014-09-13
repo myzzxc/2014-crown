@@ -8877,6 +8877,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For our case of the Hongtsaiping landslide, the magnitude of displacement are 40–50 pixels (24–28 m), which have RMS error about 0.25–0.3 pixels (0.15–0.18 m).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T155535Z" creationid="CCYU" creationdate="20140913T155535Z">
+        <seg>對於紅菜坪地滑的情形，位移量為 40–50 像素 (24–28 公尺)，其 RMS 誤差約為 0.25–0.3 像素 (0.15–0.18 公尺)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For overhead and horizontal installation a piston plug (Annex B 3) and extension nozzle shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003705Z">
@@ -19991,6 +19999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RMS error of correlation algorithm depends on particle image displacement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T155245Z" creationid="CCYU" creationdate="20140913T155245Z">
+        <seg>相關性演算法之 RMS 誤差取決於質點影像位移，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Section 313 toxic chemicals contained in this product are: None</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183410Z" creationid="Judy" creationdate="20140818T183410Z">
@@ -22723,6 +22739,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T132323Z" creationid="CCYU" creationdate="20140911T132323Z">
         <seg>此方法可藉由比較兩張空拍照的影像像素以求得位移向量場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, if we want to get higher precision, the particle image displacement has to be very small.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T155347Z" creationid="CCYU" creationdate="20140913T155347Z">
+        <seg>因此，若欲獲得較高的精度，質點影像位移必須非常小。</seg>
       </tuv>
     </tu>
     <tu>
