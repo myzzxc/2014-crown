@@ -20015,6 +20015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PIVanalysis can precisely evaluate the behavior, including magnitude, direction and area of non-catastrophic landslides or creep of rocks mass&lt;t0/&gt; &lt;t1/&gt;in small scale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161426Z" creationid="CCYU" creationdate="20140913T161426Z">
+        <seg>PIV 分析能在小範圍內精確地評估非遽變地滑或岩石塊體潛移之規模、方向以及區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Particle Image Velocimetry (PIV) technique is originally used for hydromechanics field with the advantage of analyzing displacement of images of flow with the cross-correlation method.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041525Z" creationid="CCYU" creationdate="20140913T024150Z">
@@ -20697,8 +20705,8 @@
       <tuv lang="EN-US">
         <seg>The horizontal magnitude of displacement in the Hongtsaiping landslide area is about 39.24–46.28 pixels (24–28 m), and the RMS error is about 0.3 pixels (0.18 m).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T160845Z" creationid="CCYU" creationdate="20140913T160845Z">
-        <seg>紅菜坪地滑之水平位移量約為 39.24–46.28 像素 (24–28 公尺)，其 RMS 誤差約為 0.3 像素 (0.18 公尺)，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161430Z" creationid="CCYU" creationdate="20140913T160845Z">
+        <seg>紅菜坪地滑之水平位移量約為 39.24–46.28 像素 (24–28 公尺)，其 RMS 誤差約為 0.3 像素 (0.18 公尺)。</seg>
       </tuv>
     </tu>
     <tu>
