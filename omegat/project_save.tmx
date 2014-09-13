@@ -23928,6 +23928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where C(s) means the degree of correlation, or the degree of match, I1 and I2 are interrogation area (IA, Chrominance matrix), and s is displacement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T091526Z" creationid="CCYU" creationdate="20140913T091526Z">
+        <seg>其中 C(s) 代表相關程度或匹配程度，I1 和 I2 為分析區域 (IA，色度矩陣)，而 s 為位移。displacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where analysis &lt;t10/&gt;indicates no cracking in accordance with ACI 318 D.5.2.6, &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; must be calculated using &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; and &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081333Z">
