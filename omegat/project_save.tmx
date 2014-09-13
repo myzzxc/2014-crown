@@ -3843,6 +3843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another important factor is that there are typhoons every year during summer time which have changed vegetations or even destroyed the morphology especially in mountain area in Taiwan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163441Z" creationid="CCYU" creationdate="20140913T163441Z">
+        <seg>另一個重要因素是每年夏天的颱風改變了植被或甚至毀壞地表形貌，特別是在臺灣山區。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another important issue is to simulate the compressible ﬂow inside the engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144025Z" creationid="Judy" creationdate="20140820T144025Z">
@@ -6168,6 +6176,14 @@
         <seg>Curve &lt;t0/&gt;A&lt;t1/&gt; shows the results from the seven PIV analyses of the random image, revealing a precision better than 0.01 pixels for patches greater than 8×8 pixels in size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T121116Z" creationid="CCYU" creationdate="20140913T121116Z">
+        <seg>A 曲線標示出七組隨機影像的 PIV 分析結果，顯示區塊尺寸大於 8×8 像素時精確度優於 0.01 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curve A shows the results from the seven PIV analyses of the random image, revealing a precision better than 0.01 pixels for patches greater than 8×8 pixels in size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163424Z" creationid="CCYU" creationdate="20140913T163424Z">
         <seg>A 曲線標示出七組隨機影像的 PIV 分析結果，顯示區塊尺寸大於 8×8 像素時精確度優於 0.01 像素。</seg>
       </tuv>
     </tu>
@@ -20039,6 +20055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PIV technique is a convenient tool to analyze wide-covered area and can be applied to long term monitoring of geological events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163241Z" creationid="CCYU" creationdate="20140913T163241Z">
+        <seg>PIV 速技術為一種分析大範圍的方便工具，且可以用於長期監測地質事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PIVanalysis can precisely evaluate the behavior, including magnitude, direction and area of non-catastrophic landslides or creep of rocks mass&lt;t0/&gt; &lt;t1/&gt;in small scale.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161426Z" creationid="CCYU" creationdate="20140913T161426Z">
@@ -20391,6 +20415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The coordinates of a point in the image (xi, yi) are functional with those of the corresponding point on the surface (xi, yi), so we can express the relationship as (Rees, 2001)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163324Z" creationid="CCYU" creationdate="20140913T163324Z">
+        <seg>影像中的座標點 (xi, yi) 為地表對應點 (xi, yi) 之函數，因此可用 (Rees， 2001 年) 之關係式表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The core of our company is an all-natural renewable product that absorbs oil better, faster, and more economically than any other product on the market.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105605Z" creationid="MAE" creationdate="20140813T105549Z">
@@ -20546,6 +20578,14 @@
         <seg>The empirically derived curve UB in Fig. 7 is an upper bound on the precision error, &lt;t0/&gt;ρpixel&lt;t1/&gt;, and is given by equation: (White et al., 2003)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123004Z" creationid="CCYU" creationdate="20140913T123004Z">
+        <seg>圖 7 中的實驗曲線 UB 為精度誤差 ρpixel 之上界，由下列方程式所得：(White 等人，2003 年)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The empirically derived curve UB in Fig. 7 is an upper bound on the precision error, ρpixel, and is given by equation: (White et al., 2003)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163429Z" creationid="CCYU" creationdate="20140913T163429Z">
         <seg>圖 7 中的實驗曲線 UB 為精度誤差 ρpixel 之上界，由下列方程式所得：(White 等人，2003 年)</seg>
       </tuv>
     </tu>
@@ -24160,6 +24200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We hope to change actually the geometry of the image, so that if conforms to the chosen coordinate system (x&lt;t0/&gt;s&lt;t1/&gt;, y&lt;t2/&gt;s&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163412Z" creationid="CCYU" creationdate="20140913T163412Z">
+        <seg>希望能改變影像幾何至實際樣貌，使之符合選定的座標系 (&lt;t0/&gt;x&lt;t1/&gt;s&lt;t2/&gt;, &lt;t3/&gt;ys)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We pull the oil right out of the water, allowing the water to be disposed of normally.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074601Z" creationid="CCYU" creationdate="20140817T074601Z">
@@ -24412,6 +24460,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
         <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where ρpixel is the precision error determined by the image width in pixels, and L is patch size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163431Z" creationid="CCYU" creationdate="20140913T163431Z">
+        <seg>其中 ρpixel 為由影像像素寬所決定之精度誤差，L 為區塊尺寸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25927,6 +25983,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xs &lt;t0/&gt;=&lt;t1/&gt; a1 &lt;t2/&gt;+&lt;t3/&gt; a2xi &lt;t4/&gt;+&lt;t5/&gt; a3yi and ys &lt;t6/&gt;=&lt;t7/&gt; a4 &lt;t8/&gt;+&lt;t9/&gt; a5xi &lt;t10/&gt;+&lt;t11/&gt; a6yi&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163350Z" creationid="CCYU" creationdate="20140913T163350Z">
+        <seg>xs &lt;t0/&gt;=&lt;t1/&gt; a1 &lt;t2/&gt;+&lt;t3/&gt; a2xi &lt;t4/&gt;+&lt;t5/&gt; a3yi 和 ys &lt;t6/&gt;=&lt;t7/&gt; a4 &lt;t8/&gt;+&lt;t9/&gt; a5xi &lt;t10/&gt;+&lt;t11/&gt; a6yi&lt;t12/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xs &lt;t0/&gt;=&lt;t1/&gt; f &lt;t2/&gt;(xi,&lt;t3/&gt; yi&lt;t4/&gt;)&lt;t5/&gt; and ys &lt;t6/&gt;= &lt;t7/&gt;g &lt;t8/&gt;(&lt;t9/&gt;xiyi&lt;t10/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163335Z" creationid="CCYU" creationdate="20140913T163335Z">
+        <seg>xs &lt;t0/&gt;=&lt;t1/&gt; f &lt;t2/&gt;(xi,&lt;t3/&gt; yi&lt;t4/&gt;)&lt;t5/&gt; 和 ys &lt;t6/&gt;= &lt;t7/&gt;g &lt;t8/&gt;(&lt;t9/&gt;xiyi&lt;t10/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
