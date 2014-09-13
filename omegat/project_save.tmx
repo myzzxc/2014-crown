@@ -9142,6 +9142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore, PIV is also convenient and good at long term monitoring on non-catastrophic landslides or creep due to tectonically with periodically taking of images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T160723Z" creationid="CCYU" creationdate="20140913T160723Z">
+        <seg>此外，PIV 也能藉由定期拍攝之影像，方便且適用於長期監測因地質構造產生之非遽變地滑或潛移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore, due to the fact that the heat capacity of solid wall is much larger than that of the gas, the temperature of solid wall is furthe&lt;t1/&gt;r as&lt;t2/&gt;sumed to retain at a constant value (on the hot&lt;t3/&gt;- &lt;t4/&gt;or cold-end wall) or a ﬁxed proﬁle along the z-direction (on the displacer cylinder wall), hence eliminating the need to include the solid domain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T114849Z">
