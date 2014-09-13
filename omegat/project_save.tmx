@@ -2563,6 +2563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A series of seven PIV analyses were conducted, in which the entire 3228×2448 pixels random image was covered in square patches with side length, L, 8, 16 and 32 pixels respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120221Z" creationid="CCYU" creationdate="20140913T120221Z">
+        <seg>所進行的一系列的 PIV 分析中，個別使用邊長 L、8、16 及 32 像素之方形區塊覆蓋整個 3228×2448 像素隨機影像，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A spill that goes under pallets or under a rack system can be hours to clean up.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113501Z" creationid="CCYU" creationdate="20140817T113501Z">
@@ -7445,6 +7453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each PIV analysis revealed a scatter of values, distributed close to zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120349Z" creationid="CCYU" creationdate="20140913T120349Z">
+        <seg>每組 PIV 分析顯示了數值分散分佈於接近零處，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
@@ -11938,6 +11954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071611Z" creationid="CCYU" creationdate="20140817T071611Z">
         <seg>大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Large PIV patches produced less scatter, and therefore improved precision.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120444Z" creationid="CCYU" creationdate="20140913T120444Z">
+        <seg>較大的 PIV 區塊產生較少分散，因此提昇了精確度，</seg>
       </tuv>
     </tu>
     <tu>
