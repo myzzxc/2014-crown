@@ -11038,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, though typhoons have affected the Hongtsaiping area, most parts of the study area still remain their morphology.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T143303Z" creationid="CCYU" creationdate="20140913T143303Z">
+        <seg>此處，雖然颱風影響了紅菜坪地區，但大部分的研究地區仍然保持其地表形貌，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this equation, the heat transfer from solid wall (surrounding) to gas (thermodynamic system) is positive, and that from gas to wall is negative.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T170915Z" creationid="Judy" creationdate="20140822T170915Z">
@@ -21827,6 +21835,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
         <seg>因此，引擎循環的流動和熱傳遞現象可藉由暫態三維層流和可壓縮納維-斯托克斯 (Navier–Stokes) 方程式加上能量方程以及理想氣體方程式解出，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, typhoon events affected the PIV results slightly, because the magnitude of displacement of the Hongtsaiping landslide is much greater than the vegetation change due to typhoons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T143447Z" creationid="CCYU" creationdate="20140913T143447Z">
+        <seg>因此，颱風對於 PIV 結果之影響些微，因為紅菜坪地滑的位移量遠遠大於颱風造成之植被變化。</seg>
       </tuv>
     </tu>
     <tu>
