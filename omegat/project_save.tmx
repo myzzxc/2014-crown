@@ -23535,6 +23535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We hope to change actually the geometry of the image, so that if conforms to the chosen coordinate system (&lt;t0/&gt;x&lt;t1/&gt;s&lt;t2/&gt;, &lt;t3/&gt;y&lt;t4/&gt;s&lt;t5/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065644Z" creationid="CCYU" creationdate="20140913T065644Z">
+        <seg>希望能改變影像幾何至實際樣貌，使之符合選定的座標系 (&lt;t0/&gt;x&lt;t1/&gt;s&lt;t2/&gt;, &lt;t3/&gt;y&lt;t4/&gt;s&lt;t5/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We pull the oil right out of the water, allowing the water to be disposed of normally.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074601Z" creationid="CCYU" creationdate="20140817T074601Z">
