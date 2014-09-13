@@ -3827,6 +3827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another important factor is that there are typhoons every year during summer time which have changed &lt;t0/&gt;vegetations&lt;t1/&gt; or even destroyed the morphology especially in mountain area in Taiwan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142934Z" creationid="CCYU" creationdate="20140913T142934Z">
+        <seg>另一個重要因素是每年夏天的颱風改變了植被或甚至毀壞地表形貌，特別是在臺灣山區。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another important issue is to simulate the compressible ﬂow inside the engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144025Z" creationid="Judy" creationdate="20140820T144025Z">
@@ -21755,6 +21763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124640Z" creationid="Judy" creationdate="20140819T113850Z">
         <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為層流，避免需要使用紊流模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, if we want to obtain best results of the PIV analysis, selecting suitable images should be more carefully done.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T143035Z" creationid="CCYU" creationdate="20140913T143035Z">
+        <seg>因此，若欲獲得最好的 PIV 分析結果，必須更謹慎地選擇合適的影像。</seg>
       </tuv>
     </tu>
     <tu>
