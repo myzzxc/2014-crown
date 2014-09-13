@@ -6093,6 +6093,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curve &lt;t0/&gt;A&lt;t1/&gt; shows the results from the seven PIV analyses of the random image, revealing a precision better than 0.01 pixels for patches greater than 8×8 pixels in size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T121116Z" creationid="CCYU" creationdate="20140913T121116Z">
+        <seg>A 曲線標示出七組隨機影像的 PIV 分析結果，顯示區塊尺寸大於 8×8 像素時精確度優於 0.01 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut off the &lt;t1/&gt;foil &lt;t2/&gt;tube clip before use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003441Z">
