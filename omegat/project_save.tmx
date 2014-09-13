@@ -10662,6 +10662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to attain more accurate and precise results, the cross-correlation method which is a standard one of estimating the degree to which two series are correlated is the one of the methods for PIV to evaluate the displacement of every pixel which may include roads, trees, rocks, houses and so on, and each has its own gray value distinguish itself from others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090402Z" creationid="CCYU" creationdate="20140913T090402Z">
+        <seg>為了得到更準確的結果，以交互相關法評估每個像素之位移，交互相關法為評估兩組資料相關程度的標準方法，其為 PIV 中評估每個像素位移的一種方法，像素中可能包含道路、樹木、岩石、房子等，每個像素值本身具有與其他像素區別之灰度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to better understand the non-catastrophic landslide phenomenon, we apply displacement detection technique to measure the overall displacement pattern.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043533Z" creationid="CCYU" creationdate="20140913T023551Z">
