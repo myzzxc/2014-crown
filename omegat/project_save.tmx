@@ -23647,6 +23647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When rectifying geometric distortion in a photograph or an image, we have to know the relationship between the spatial coordinates in the image and those on the Earth's surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063651Z" creationid="CCYU" creationdate="20140913T063611Z">
+        <seg>對一張照片或影像進行幾何變形校正時，必須知道影像中的空間座標與地表物體之間的關係，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When storing, do not place any objects on the electric blanket to prevent buckling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114216Z">
