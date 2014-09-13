@@ -3963,6 +3963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, the approximate amount of displacement is about 25 m, which would be more consistent to really local condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T132111Z" creationid="CCYU" creationdate="20140913T132111Z">
+        <seg>所得之結果顯示其位移量約為 25 公尺，此結果更加符合實地的情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a result, the local maximum temperature in the expansion chamber reaches as high as 417.0 K, which is higher than the hot-end temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095539Z" creationid="Judy" creationdate="20140823T095539Z">
@@ -14490,6 +14498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173926Z" creationid="Judy" creationdate="20140818T173926Z">
         <seg>物理狀態:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIV also has 6 different algorithms to detect peak value (Fig. 11), and here we selected proper one to&lt;t1/&gt; &lt;t2/&gt;present the results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T132308Z" creationid="CCYU" creationdate="20140913T132132Z">
+        <seg>PIV 也有 6 種不同的演算法來檢測峰值 (圖 11)，此處選擇了一個合適的方法以呈現結果，</seg>
       </tuv>
     </tu>
     <tu>
