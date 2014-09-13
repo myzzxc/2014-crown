@@ -20559,6 +20559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The largest PIV patches, of size 50×50 pixels, were distributed around zero with a standard error of 0.0007 pixels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T121328Z" creationid="CCYU" creationdate="20140913T121328Z">
+        <seg>最大的  50×50 像素之 PIV 區塊分佈於零點周圍，其標準差為 0.0007 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The local heat ﬂux distributions indicate that the dominant heat transfer mechanism in the injection phase of the expansion chamber is the impingement of the cold gas on the hot-end wall.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101435Z" creationid="Judy" creationdate="20140822T101435Z">
