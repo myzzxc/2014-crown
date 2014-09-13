@@ -3083,6 +3083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that, we applied the cross-correlation method in the PIV technique to analyze the displacement of the Hongtsaiping landslide area in the selected images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062904Z" creationid="CCYU" creationdate="20140913T062904Z">
+        <seg>接著使用 PIV 技術中的交互相關法以分析所選取之影像中紅菜坪地滑區的位移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the Chi-Chi earthquake, Chiufengershan dip-slope landslides, the Tsaoling rockslides (Hung, 2000; Hung et al., 2000; Lin et al., 2000; Liao et al., 2002; Chigira et al., 2003; Shou and&lt;t0/&gt; &lt;t1/&gt;Wang, 2003), surface stripping of the Jiujiufeng (99 peaks) and the Hontsaiping landslide took place due to this event.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043458Z" creationid="CCYU" creationdate="20140912T134951Z">
@@ -4327,6 +4335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151233Z">
         <seg>清潔暖腳機前，必須取出插入式外套層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before evaluating the magnitude and direction of the displacement of the Hongtsaiping landslide area, we orthorectified three monochromatic aerial photographs in order to correct the geometric distortion of the photographs and to give them geographic coordinate (in this case, the Taiwan Grid 67) and pixel resolution of 0.61 m/pixel for the PIV analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062728Z" creationid="CCYU" creationdate="20140913T062728Z">
+        <seg>評估紅菜坪地滑區位移方向和程度前，先對三個張單色照片進行正射校正以校正照片之幾何變形並加上地理座標 (此處為臺灣網格 67) ，用於 PIV 分析之像素解析度為  0.61 公尺 / 像素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13930,6 +13946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
         <seg>最佳砂漿容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orthorectification technique</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062917Z" creationid="CCYU" creationdate="20140913T062917Z">
+        <seg>正射校正技術</seg>
       </tuv>
     </tu>
     <tu>
