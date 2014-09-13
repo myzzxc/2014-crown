@@ -9726,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it can produce resampled images which have jagged edges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080722Z" creationid="CCYU" creationdate="20140913T080722Z">
+        <seg>然而可能產生具有鋸齒狀邊緣的重新取樣影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it should not constitute a guarantee for any specific product proper&lt;t0/&gt;ties and shall not establish a legally valid relationship.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051320Z" creationid="MAE" creationdate="20140808T051320Z">
@@ -17767,6 +17775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So if we want to obtain smoother results, interpolation can &lt;t12/&gt;be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080759Z" creationid="CCYU" creationdate="20140913T080759Z">
+        <seg>所以，若想想獲得比較平滑的結果，可以使用插值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Softening point/range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110910Z" creationid="CCYU" creationdate="20140809T110910Z">
@@ -21843,6 +21859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
         <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This approach&lt;t11/&gt; has the advantage that it does not alter any of the pixel values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080614Z" creationid="CCYU" creationdate="20140913T080614Z">
+        <seg>此方法的優點為不改變任何像素值，</seg>
       </tuv>
     </tu>
     <tu>
