@@ -20783,6 +20783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The strata exposed in this study area are, in a younging order, the Tanliaoti Shale, the Shihmen Formation, the Changhukeng Shale, and the Shenkeng Sandstone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T033758Z" creationid="CCYU" creationdate="20140913T033758Z">
+        <seg>此研究區域內的地層沈積順序依序為炭寮地頁岩 (Tanliaoti Shale)、石門層 (Shihmen Formation)、樟湖坑頁岩 (Changhukeng Shale) 以及深坑砂岩 (Shenkeng Sandstone)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The strength design of anchors must comply with ACI 318 D.4.1, except as required in ACI 318 D.3.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T051202Z">
