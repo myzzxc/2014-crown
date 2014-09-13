@@ -5628,6 +5628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comparing this value to the error from orthorectification about 2.5 pixels and to the RMS error (0.3 pixels) from the cross-correlation (Meinhart et al., 1999), we can know that PIV can precisely find real displacement area, as well as the magnitude of displacement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T130723Z" creationid="CCYU" creationdate="20140913T130723Z">
+        <seg>將此數值與正射校正之誤差比較約為 2.5 像素，並與交互相關之 RMS 誤差比較 (0.3 像素) (Meinhart 等人，1999 年)，可發現 PIV 能精確地找出實際位移區以及位移規模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance with the following codes:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
