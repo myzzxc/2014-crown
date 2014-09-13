@@ -22281,8 +22281,8 @@
       <tuv lang="EN-US">
         <seg>To determine the proper values of prior 6 parameters (a1~ a6), a least-square fitting procedure is carried out.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065112Z" creationid="CCYU" creationdate="20140913T065112Z">
-        <seg>使用最小平方擬合程序為了決定 6 個參數的適當值 (a1～a6)，。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065328Z" creationid="CCYU" creationdate="20140913T065112Z">
+        <seg>我們使用最小平方擬合程序以決定 6 個重要參數 (a1～a6) 的適當數值，</seg>
       </tuv>
     </tu>
     <tu>
