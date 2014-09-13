@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(1).&lt;t7/&gt; &lt;t8/&gt;Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T074922Z" creationid="CCYU" creationdate="20140913T074922Z">
+        <seg>等式 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(20 °C (68 °F); Solvent: Water)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104558Z" creationid="CCYU" creationdate="20140809T104558Z">
@@ -25238,6 +25246,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z">
         <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where (i, j) are the pixel coordinates in the untransformed image, &lt;t0/&gt;(&lt;t1/&gt;I’&lt;t2/&gt;, j&lt;t3/&gt;’&lt;t4/&gt;) are those in the transformed image, and the functions&lt;t5/&gt; &lt;t6/&gt;F and G can be derived from the functions f and g in Eq.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T074911Z" creationid="CCYU" creationdate="20140913T074911Z">
+        <seg>其中 (i, j) 為影像未轉換前之像素座標，(i', j') 為影像轉換後之座標，而函數 F 和 G 可由等式 (1) 中的 f 和 g 求得，</seg>
       </tuv>
     </tu>
     <tu>
