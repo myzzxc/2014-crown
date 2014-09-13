@@ -20743,6 +20743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The patch size consists of a matrix of randomly generated pixel intensities, in the range 0 to 255.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T115527Z" creationid="CCYU" creationdate="20140913T115527Z">
+        <seg>區塊大小包含由隨機生成之像素強度組成的矩陣、強度範圍在 0 到 255 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pave—V diagrams of the expansion and compression chambers are illustrated in Fig. 10.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T195050Z" creationid="Judy" creationdate="20140823T195009Z">
