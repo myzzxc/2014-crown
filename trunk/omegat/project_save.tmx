@@ -8990,6 +8990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the overlapped image (Fig. 5), we can clearly see that the roads and other objects displace from its original position to another and the trend of the displacement is towards NW.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084748Z" creationid="CCYU" creationdate="20140913T084748Z">
+        <seg>由重疊影像 (圖 5) 中可清楚的看見道路與其他物體由原始位置的位移，而位移的方向為朝向西北方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost-sensitive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085236Z" creationid="CCYU" creationdate="20140809T085236Z">
@@ -20755,6 +20763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T023356Z">
         <seg>fischer 黏結錨固系統之主要元件包含 fischer FIS EM 黏著劑、靜態混和器以及 2 組錨固元件如本報告圖 3 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The procedure of the PIV analysis is shown as flowchart (Fig. 6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084830Z" creationid="CCYU" creationdate="20140913T084830Z">
+        <seg>PIV 分析的程序如流程圖 (圖 6) 所示。</seg>
       </tuv>
     </tu>
     <tu>
