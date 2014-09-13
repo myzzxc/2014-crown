@@ -14406,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Particle Image Velocimetry (PIV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041601Z" creationid="CCYU" creationdate="20140913T041601Z">
+        <seg>質點影像測速 (PIV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Partition &lt;t0/&gt;coefficient:&lt;t1/&gt; &lt;t2/&gt;n-&lt;t3/&gt;octanol&lt;t4/&gt;/water</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134328Z" creationid="CCYU" creationdate="20140808T134328Z">
@@ -19593,8 +19601,8 @@
       <tuv lang="EN-US">
         <seg>The Particle Image Velocimetry (PIV) technique is originally used for hydromechanics field with the advantage of analyzing displacement of images of flow with the cross-correlation method.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T024150Z" creationid="CCYU" creationdate="20140913T024150Z">
-        <seg>粒子影像測速 (Particle Image Velocimetry, PIV) 技術最初用於流體力學領域，其優勢為藉由交互相關 (Cross-correlation) 法以分析流體影像之位移。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041525Z" creationid="CCYU" creationdate="20140913T024150Z">
+        <seg>質點影像測速 (Particle Image Velocimetry, PIV) 技術最初用於流體力學領域，其優勢為藉由交互相關 (Cross-correlation) 法以分析流體影像之位移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23385,8 +23393,8 @@
       <tuv lang="EN-US">
         <seg>We analyzed three orthorectified aerial photographs of the Hongtsaiping area, which were taken in 1998/06/13, 1999/11/18 and 2002/10/26, using the Particle Image Velocimetry (PIV) technique.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T131722Z" creationid="CCYU" creationdate="20140911T130839Z">
-        <seg>我們分析了紅菜坪地區中三張空拍正射照片，照片利用粒子影像測速 (PIV) 技術，分別於 1998 年 06 月 13 日、1999 年 11 月 18 日和 2002 年 10 月 26 日拍攝。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041507Z" creationid="CCYU" creationdate="20140911T130839Z">
+        <seg>我們分析了紅菜坪地區中三張空拍正射照片，照片利用質點影像測速 (PIV) 技術，分別於 1998 年 06 月 13 日、1999 年 11 月 18 日和 2002 年 10 月 26 日拍攝。</seg>
       </tuv>
     </tu>
     <tu>
