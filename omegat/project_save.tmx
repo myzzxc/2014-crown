@@ -4603,6 +4603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By fitting a Least Square Gauss Fit interpolation to the region close to the integer peak, the displacement vector is established to sub-pixel resolution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092801Z" creationid="CCYU" creationdate="20140913T092801Z">
+        <seg>透過最小平方高斯擬合將插值擬合至接近整數的峰值，位移向量解析度可達單像素以下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By referring to Fig. 4, this phase is from h = 180.0° to 360.0° in the expansion chamber and from h = 347.5° to 156.5° in the compression chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080531Z" creationid="Judy" creationdate="20140823T080531Z">
@@ -22491,6 +22499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205925Z" creationid="Judy" creationdate="20140823T205925Z">
         <seg>為了幫助讀者了解此史特林引擎內部的動態過程，我們錄製了兩段影片，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To improve the resolution, a smaller interval can be selected, with a corresponding increase in computational burden.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092931Z" creationid="CCYU" creationdate="20140913T092931Z">
+        <seg>為了提高解析度，可以選擇較小的區間，但相對應的計算負擔將會增加。</seg>
       </tuv>
     </tu>
     <tu>
