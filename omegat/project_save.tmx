@@ -4619,6 +4619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By plotting the standard deviation in measured displacement against test patch size, the influence of patch size on measurement precision can be seen (Fig. 7).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120651Z" creationid="CCYU" creationdate="20140913T120651Z">
+        <seg>藉由繪製量測位移對測試區塊大小的標準差，可以看出區塊大小對量測精度的影響 (圖 7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By referring to Fig. 4, this phase is from h = 180.0° to 360.0° in the expansion chamber and from h = 347.5° to 156.5° in the compression chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080531Z" creationid="Judy" creationdate="20140823T080531Z">
