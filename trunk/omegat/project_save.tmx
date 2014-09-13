@@ -4299,6 +4299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because each GCP provides two pieces of information, an x-coordinate and a y-coordinate, in general 3 GCPs are sufficient to determine the relationship.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064827Z" creationid="CCYU" creationdate="20140913T064827Z">
+        <seg>因為每個 GCP 包含 x 座標和 y 座標兩筆資訊，在一般情況下 3 個 GCPs 便足以確定關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of the moment of magnitude of Mw 7.6 there were more than 2400 people killed in this event, and properties were enormously damaged around the island (Kao and Chen, 2000; Angelier et al., 2001; Chen et al., 2001a,b; Lee et al., 2002).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140912T132043Z" creationid="CCYU" creationdate="20140912T132043Z">
@@ -9770,6 +9778,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213805Z" creationid="Judy" creationdate="20140823T213805Z">
         <seg>然而此效應有集中於某些局部區域的趨勢，造成氣體加熱或冷卻不均。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, we still used more than 3 GCPs to avoid random errors which may occur during the process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065114Z" creationid="CCYU" creationdate="20140913T064919Z">
+        <seg>然而，我們仍然使用超過 3 個 GCPs 以避免過程中可能發生的隨機誤差，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22259,6 +22275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135348Z" creationid="Judy" creationdate="20140822T135342Z">
         <seg>為了展現此效應，圖 6 繪製了膨脹腔體於 h = 90.0° 之速度向量與等溫線以及局部熱通量分布放大圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To determine the proper values of prior 6 parameters (a1~ a6), a least-square fitting procedure is carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065112Z" creationid="CCYU" creationdate="20140913T065112Z">
+        <seg>使用最小平方擬合程序為了決定 6 個參數的適當值 (a1～a6)，。</seg>
       </tuv>
     </tu>
     <tu>
