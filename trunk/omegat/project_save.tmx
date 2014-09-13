@@ -10702,6 +10702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order for these analyses to be a test of the measurement precision rather than the measurement resolution, the sub-pixel correlation peak was evaluated at intervals of 1/10,000th of a pixel, rather than 1/200th.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T122311Z" creationid="CCYU" creationdate="20140913T122311Z">
+        <seg>這些分析為量測精度的測試，而非量測解析度，其評估之次像素相關峰值區間位於第 1/10,000 像素而非第 1/200 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to attain more accurate and precise results, the cross-correlation method which is a standard one of estimating the degree to which two series are correlated is the one of the methods for PIV to evaluate the displacement of every pixel which may include roads, trees, rocks, houses and so on, and each has its own gray value distinguish itself from others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090402Z" creationid="CCYU" creationdate="20140913T090402Z">
