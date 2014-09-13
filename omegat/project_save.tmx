@@ -14134,6 +14134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, the cross-correlation has evaluation deviation which is proportional to displacement, so the PIV analysis is not suitable for analysis of large displacement, but for small scale creep or non-catastrophic landslides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163119Z" creationid="CCYU" creationdate="20140913T163119Z">
+        <seg>另一方面，交互相關具有評估偏差，其值與位移成正比，所以 PIV 分析並不適合分析大量位移，而適用於小規模潛變或非遽變性地滑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, when displacer and power pistons move toward each other, the volume of compression chamber is reduced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080845Z" creationid="Judy" creationdate="20140823T080845Z">
