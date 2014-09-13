@@ -20151,6 +20151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cross-correlation of I1(X) and I2(X+s) is evaluated, and normalized by the square root of the sum of the square values of I2(X+s) over the range of X occupied by the test I1 patch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092136Z" creationid="CCYU" creationdate="20140913T092125Z">
+        <seg>針對 I1(X) 和 I2(X+s) 的交互相關進行了評估，並以 I2(X+s) 平方和之根值對測試 I1 區塊所佔有的 X 範圍無因次化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050804Z" creationid="MAE" creationdate="20140808T050804Z">
@@ -20931,6 +20939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074333Z">
         <seg>由此而得的特徵黏結強度應乘上相關的強度縮減因數 &lt;t7/&gt;&lt;t8/&gt;nn &lt;t9/&gt;，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resulting normalized correlation plane C(s) indicates the “degree of match” between the test and search (I2) patch over the &lt;t0/&gt;offset range in the domain of s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092133Z" creationid="CCYU" creationdate="20140913T092133Z">
+        <seg>由此產生的歸一化的相關平面 C(s) 指示測試伺服器和搜索 （I2） 之間的"匹配度"修補程式在 &lt;t0/&gt; 抵消 s 域中的範圍。</seg>
       </tuv>
     </tu>
     <tu>
