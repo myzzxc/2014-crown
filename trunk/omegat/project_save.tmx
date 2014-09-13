@@ -3099,6 +3099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After orthorectifying, PIV&lt;t0/&gt; &lt;t1/&gt;overlaps the two rectified images with all the same area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084539Z" creationid="CCYU" creationdate="20140913T084539Z">
+        <seg>正射校正後，PIV 重疊兩張完全相同區域的校正影像，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After skin contact</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014759Z" creationid="MAE" creationdate="20140807T065535Z">
@@ -10466,6 +10474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045015Z" creationid="Judy" creationdate="20140819T045015Z">
         <seg>另外，膨脹及壓縮腔體內的熱傳速率通常以固定熱對流傳導係數來估計，因而過度簡化了腔體內部實際熱傳導的複雜機制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, some studies applied PIV technique for producing displacement map from multi-temporal images (Chambon et al., 2003).With this feature, we use PIV to analyze the movement of a fine mesh of the monochrome aerial photograph patch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084430Z" creationid="CCYU" creationdate="20140913T084430Z">
+        <seg>此外，某些研究使用 PIV 技術由多時相影像中產生位移圖 (Chambon 等人，2003 年)，藉由此功能可使用 PIV 進行單色空拍照微小網格的運動分析。</seg>
       </tuv>
     </tu>
     <tu>
