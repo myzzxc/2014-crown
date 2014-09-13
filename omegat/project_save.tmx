@@ -8261,6 +8261,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Factors affecting the PIV precision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T135611Z" creationid="CCYU" creationdate="20140913T135611Z">
+        <seg>PIV 精度影響因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factory operators can selectively control temperature measurement of heat treated parts, resulting in significant energy and time savings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024010Z" creationid="JUDY" creationdate="20140827T024010Z">
