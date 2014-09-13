@@ -10616,8 +10616,8 @@
       <tuv lang="EN-US">
         <seg>In the Tsaoling rockslides, a rock mass of shale and muddy sandstone about 120 million m3 slid down the dip slope.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140912T170656Z" creationid="CCYU" creationdate="20140912T170528Z">
-        <seg>草嶺岩崩中，滑落順向波的頁岩和泥質砂岩約為 120 萬立方公尺，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041218Z" creationid="CCYU" creationdate="20140912T170528Z">
+        <seg>草嶺岩崩中，滑落順向波的頁岩和泥質砂岩塊體約為 120 萬立方公尺，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13808,8 +13808,8 @@
       <tuv lang="EN-US">
         <seg>Only 20% (about 25 million m3) of the sliding mass dropped into the valley of the Chingshui river covering the river as long as 5 km.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140912T171926Z" creationid="CCYU" creationdate="20140912T170653Z">
-        <seg>其中只有 20% (約 2500 萬立方公尺) 的滑落岩石落入清水溪流域並覆蓋長達 5 公里。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041231Z" creationid="CCYU" creationdate="20140912T170653Z">
+        <seg>其中只有 20% (約 2500 萬立方公尺) 的滑落塊體落入清水溪流域並覆蓋長達 5 公里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19633,8 +19633,8 @@
       <tuv lang="EN-US">
         <seg>The Tanliaoti Shale consists mainly of massive gray shale with thin-bedded sandstone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T034042Z" creationid="CCYU" creationdate="20140913T034042Z">
-        <seg>炭寮地頁岩主要由大量灰頁岩與薄層砂岩 (thin-bedded sandstone) 組成。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041306Z" creationid="CCYU" creationdate="20140913T034042Z">
+        <seg>炭寮地頁岩主要由塊狀灰頁岩與薄層砂岩 (thin-bedded sandstone) 組成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21883,6 +21883,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123856Z" creationid="CCYU" creationdate="20140817T123528Z">
         <seg>此為雙桶系統能發揮效用之處，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This landslide area is about 1.2 km2 (1500 m×800 m), and the northern boundary is cut by a creek and a fault, called the Tingshuiku fault.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041206Z" creationid="CCYU" creationdate="20140913T041206Z">
+        <seg>此山崩區面積約為 1.2 平方公里 (1500 公尺 × 800 公尺)，和北部邊界削減一條小河和斷層，稱為 Tingshuiku 故障。</seg>
       </tuv>
     </tu>
     <tu>
