@@ -2773,8 +2773,8 @@
       <tuv lang="EN-US">
         <seg>According to the geological map compiled by the Central Geological Survey (Fig. 2), the study area is located at inner foothill zone, and is underlain mainly by Miocene sedimentary rocks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T032955Z" creationid="CCYU" creationdate="20140913T032955Z">
-        <seg>根據中央地質調查所 (圖 2) 地質圖，研究之區於位於山麓區域內部，主要由中新世沉積岩 (Miocene sedimentary rock) 覆蓋。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T035403Z" creationid="CCYU" creationdate="20140913T032955Z">
+        <seg>根據中央地質調查所 (圖 2) 地質圖，研究之區於位於麓山區域內部，主要由中新世沉積岩 (Miocene sedimentary rock) 覆蓋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19537,8 +19537,8 @@
       <tuv lang="EN-US">
         <seg>The Chi-Chi earthquake occurred in the western foothills of central Taiwan, which triggered coseismic and catastrophic Chiufengershan dip&lt;t0/&gt;-&lt;t1/&gt;slope landslides, Tsaoling rockslides and surface stripping of the Jiujiufeng area.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T140807Z" creationid="CCYU" creationdate="20140911T125330Z">
-        <seg>集集大地震發生在臺灣中部山麓，觸發了同震 (coseismic) 且遽變的九份二山順向坡 (dip-slope) 山崩、草嶺岩崩和九九峰地區地表剝露。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T035426Z" creationid="CCYU" creationdate="20140911T125330Z">
+        <seg>集集大地震發生在臺灣中部之西側麓山，觸發了同震 (coseismic) 且遽變的九份二山順向坡 (dip-slope) 山崩、草嶺岩崩和九九峰地區地表剝露。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19595,6 +19595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183410Z" creationid="Judy" creationdate="20140818T183410Z">
         <seg>本產品所含之 313 節所載之有毒化學物質： 無</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shenkeng Sandstone, which usually forms cliffs, is composed of massive sandstone with dark gray shale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T035158Z" creationid="CCYU" creationdate="20140913T035158Z">
+        <seg>深坑砂岩由的塊狀砂岩與暗灰色頁岩組成，常形成斷崖。</seg>
       </tuv>
     </tu>
     <tu>
