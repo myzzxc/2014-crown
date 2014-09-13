@@ -4307,6 +4307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because there is geometric distortion in the aerial photographs, we have to rectify them by means of orthorectification which is a mathematical process of removing the geometric distortion caused by relief of ground objects and camera in a photograph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063302Z" creationid="CCYU" creationdate="20140913T063302Z">
+        <seg>由於空拍照片中具有幾何變形，必須使用數學運算方法進行正射校正，以去除照片中地面物體與相機之間造成的幾何變形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because&lt;t0/&gt; &lt;t1/&gt;SaveSorb&lt;t2/&gt; completely encapsulates the hydrocarbons until they naturally bio remediate, it protects the environment from negative effects of an oil, fuel or chemical spill.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055849Z" creationid="CCYU" creationdate="20140817T055849Z">
@@ -20763,6 +20771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T222831Z" creationid="JUDY" creationdate="20140826T220008Z">
         <seg>Raytek 和 Ircon 所生產之堅固且可靠的非接觸式紅外測溫器適合安裝於廠房和機器中，可透過各產業特定介面整合至加工監測系統中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The scale of these photographs is 1:5000 and the original resolution is 0.375 m/pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063338Z" creationid="CCYU" creationdate="20140913T063338Z">
+        <seg>這些照片的比例為 1: 5000 而原始解析度為 0.375 公尺 / 像素。</seg>
       </tuv>
     </tu>
     <tu>
