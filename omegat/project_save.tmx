@@ -21671,6 +21671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are three important factors on the PIV precision: (a) patch size, (b) appearance, and (c) displacement distance: whole or fraction of a pixel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T135831Z" creationid="CCYU" creationdate="20140913T135831Z">
+        <seg>PIV 精度有三個重要的因子：(a) 區塊尺寸、(b) 外觀以及 (c) 位移距離：單一像素的全部或部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two commonly used moving mesh techniques: one is adding or deleting cells to change the volume of the&lt;t4/&gt; &lt;t5/&gt;computational domain, and the other is to directly change the geometries of cells to expand or compress their volumes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T134421Z" creationid="Judy" creationdate="20140820T134421Z">
