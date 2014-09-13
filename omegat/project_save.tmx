@@ -6669,6 +6669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discussion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123441Z" creationid="CCYU" creationdate="20140913T123441Z">
+        <seg>討論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dispensers:&lt;t0/&gt; fischer FIS EM adhesive must be dispensed with manual dispensers, cordless electric dispensers or pneumatic dispensers provided by fischerwerke.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T135518Z">
@@ -21047,6 +21055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results from the PIV analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123610Z" creationid="CCYU" creationdate="20140913T123610Z">
+        <seg>PIV 分析之結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The results include temperature contours, velocity vectors, and distributions of local heat ﬂux at several important stages in an engine cycle as well as average temperature variations, integrated rates of heat input, heat output, and engine power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212100Z" creationid="Judy" creationdate="20140823T212100Z">
@@ -22091,6 +22107,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135629Z" creationid="CCYU" creationdate="20140817T135629Z">
         <seg>此舉去除了大量通常必須作為危險廢物處置的廢液。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This equation allows a conservative estimate of the random error present in subsequent PIV data to be made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123436Z" creationid="CCYU" creationdate="20140913T123436Z">
+        <seg>此方程可保守的估計後續 PIV 數據所產生的隨機誤差。</seg>
       </tuv>
     </tu>
     <tu>
