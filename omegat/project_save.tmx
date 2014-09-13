@@ -4475,6 +4475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides, the PIV analysis can only show horizontal changes, so we have to know the slope or dipping of the local beddings and to consider the efficiency of the topography in local study areas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T162912Z" creationid="CCYU" creationdate="20140913T162912Z">
+        <seg>此外，PIV 分析只能顯示水平的變化，所以必須知道當地之地床斜率或傾角，並考慮研究地區之地形效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z" creationid="CCYU" creationdate="20140808T134611Z">
