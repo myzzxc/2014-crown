@@ -14558,6 +14558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Particle Image Velocimetry (PIV) is whole-flow-field technique providing instantaneous velocity vector measurement in a cross-section of a flow (Landreth and Adrian, 1988; Adrian, 1991; Lecordier and Mouqallid, 1994; Rees, 2001; Rhoály et al., 2002).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084001Z" creationid="CCYU" creationdate="20140913T084001Z">
+        <seg>質點影像測速 (PIV) 為可量測流體截面的暫態速度向量之全流場技術 (Landreth 和 Adrian， 1988 年；Adrian， 1991 年；Lecordier 和 Mouqallid， 1994 年；Rees， 2001 年；Rhoály 等人，2002 年)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Partition &lt;t0/&gt;coefficient:&lt;t1/&gt; &lt;t2/&gt;n-&lt;t3/&gt;octanol&lt;t4/&gt;/water</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134328Z" creationid="CCYU" creationdate="20140808T134328Z">
