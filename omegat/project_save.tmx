@@ -10558,6 +10558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, we can define a relationship of transformation as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065748Z" creationid="CCYU" creationdate="20140913T065748Z">
+        <seg>一般情況下可依下列所示定義轉換關係：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In its ejection phase, the general tendency is decreasing but there it &lt;t6/&gt;also brieﬂy rebounds once due to a period of coincidence of the ejection phase with the compression of the entire engine volume as described earlier in the Section 4.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T202759Z" creationid="Judy" creationdate="20140823T202759Z">
@@ -24539,6 +24547,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123632Z">
         <seg>hmin&lt;t0/&gt; = 最小構件厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i &lt;t0/&gt;=&lt;t1/&gt; F&lt;t2/&gt; (I’,&lt;t3/&gt; j&lt;t4/&gt;’) &lt;t5/&gt;and j &lt;t6/&gt;=&lt;t7/&gt; G&lt;t8/&gt; (I’,&lt;t9/&gt; y&lt;t10/&gt;’)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065756Z" creationid="CCYU" creationdate="20140913T065756Z">
+        <seg>i &lt;t0/&gt;=&lt;t1/&gt; F&lt;t2/&gt; (I’,&lt;t3/&gt; j&lt;t4/&gt;’) &lt;t5/&gt;和 j &lt;t6/&gt;=&lt;t7/&gt; G&lt;t8/&gt; (I’,&lt;t9/&gt; y&lt;t10/&gt;’)</seg>
       </tuv>
     </tu>
     <tu>
