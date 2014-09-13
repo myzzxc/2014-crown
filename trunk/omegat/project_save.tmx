@@ -9254,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ground control points (GCPs) are necessary information on the Earth's surface to determine the relationship, so the GCPs data (read from the 1/5000 photo base map which is measured by Aerial Survey Office, Forestry Bureau) have to be acquired before we start to rectify these images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064227Z" creationid="CCYU" creationdate="20140913T064227Z">
+        <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得 GCPs 數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guideline for Europe&lt;t0/&gt;an technical approval of "Metal &lt;t1/&gt;anchors for use in conc&lt;t2/&gt;rete", ETAG 001 Part 5: "Bonded anchors", April 2013, &lt;t3/&gt;used as Eur&lt;t4/&gt;opean Assessment Document (EAD) &lt;t5/&gt;according to Article 66&lt;t6/&gt; Paragraph 3 of Regulation (EU) &lt;t7/&gt;No 305/2011.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101949Z">
@@ -19959,6 +19967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The coordinates of a point in the image (xi, &lt;t0/&gt;yi&lt;t1/&gt;) are functional with those of the corresponding point on the surface (xi, &lt;t2/&gt;yi&lt;t3/&gt;), so we can express the relationship as (Rees, 2001)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064432Z" creationid="CCYU" creationdate="20140913T064432Z">
+        <seg>影像中的座標點 (xi, &lt;t0/&gt;yi&lt;t1/&gt;) 為地表對應點 (xi, &lt;t2/&gt;yi&lt;t3/&gt;) 之函數，因此可用 (Rees， 2001 年) 之關係式表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The core of our company is an all-natural renewable product that absorbs oil better, faster, and more economically than any other product on the market.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105605Z" creationid="MAE" creationdate="20140813T105549Z">
@@ -25214,6 +25230,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T131754Z">
         <seg>www.icc-es.org&lt;t0/&gt; |  (800) 423-6587  | (562) 699-0543 &lt;t1/&gt;國際規範委員會&lt;t2/&gt;®附屬機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; and &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064445Z" creationid="CCYU" creationdate="20140913T064445Z">
+        <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; 和 &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
