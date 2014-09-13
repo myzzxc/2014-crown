@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(3) can find the pixel coordinate (i,&lt;t9/&gt; &lt;t10/&gt;j) in the original&lt;t11/&gt; &lt;t12/&gt;untransformed image which would be copied into a point (i&lt;t13/&gt;’&lt;t14/&gt;,&lt;t15/&gt; &lt;t16/&gt;j&lt;t17/&gt;’&lt;t18/&gt;)&lt;t19/&gt; &lt;t20/&gt;in the new image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075155Z" creationid="CCYU" creationdate="20140913T075149Z">
+        <seg>(3) 可找到原始未轉換影像之像素座標 (i, j) 並帶入新影像中之座標點 (i', j')，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(50 mm) gauge length except ISO 898, which is based on 5d.&lt;t5/&gt;4&lt;t6/&gt;Nuts of other grades and styles having specified proof load stresses greater than the specified grade and style are also suitable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T001121Z">
