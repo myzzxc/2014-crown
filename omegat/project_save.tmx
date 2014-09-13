@@ -20119,6 +20119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The correlation plane C(s) is evaluated at single pixel intervals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092448Z" creationid="CCYU" creationdate="20140913T092448Z">
+        <seg>相關平面 C(s) 評估區間為單一像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cover can be cleaned with a damp cloth or according to the care instructions on the labels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151309Z">
@@ -20945,8 +20953,8 @@
       <tuv lang="EN-US">
         <seg>The resulting normalized correlation plane C(s) indicates the “degree of match” between the test and search (I2) patch over the &lt;t0/&gt;offset range in the domain of s.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092133Z" creationid="CCYU" creationdate="20140913T092133Z">
-        <seg>由此產生的歸一化的相關平面 C(s) 指示測試伺服器和搜索 （I2） 之間的"匹配度"修補程式在 &lt;t0/&gt; 抵消 s 域中的範圍。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092348Z" creationid="CCYU" creationdate="20140913T092133Z">
+        <seg>由此產生的無因次化相關平面 C(s) 顯示測試和搜尋 (I2) 區塊對於 s 域中的偏移範圍之間的 "匹配度"，</seg>
       </tuv>
     </tu>
     <tu>
