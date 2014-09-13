@@ -4325,8 +4325,8 @@
       <tuv lang="EN-US">
         <seg>Because each GCP provides two pieces of information, an x-coordinate and a y-coordinate, in general 3 GCPs are sufficient to determine the relationship.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064827Z" creationid="CCYU" creationdate="20140913T064827Z">
-        <seg>因為每個 GCP 包含 x 座標和 y 座標兩筆資訊，在一般情況下 3 個 GCPs 便足以確定關係。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082011Z" creationid="CCYU" creationdate="20140913T064827Z">
+        <seg>因為每個地面控制點包含 x 座標和 y 座標兩筆資訊，在一般情況下 3 個地面控制點便足以確定關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,8 +9288,8 @@
       <tuv lang="EN-US">
         <seg>Ground control points (GCPs) are necessary information on the Earth's surface to determine the relationship, so the GCPs data (read from the 1/5000 photo base map which is measured by Aerial Survey Office, Forestry Bureau) have to be acquired before we start to rectify these images.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064227Z" creationid="CCYU" creationdate="20140913T064227Z">
-        <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得 GCPs 數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z" creationid="CCYU" creationdate="20140913T064227Z">
+        <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得地面控制點數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,8 +9816,8 @@
       <tuv lang="EN-US">
         <seg>However, we still used more than 3 GCPs to avoid random errors which may occur during the process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065114Z" creationid="CCYU" creationdate="20140913T064919Z">
-        <seg>然而，我們仍然使用超過 3 個 GCPs 以避免過程中可能發生的隨機誤差，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082016Z" creationid="CCYU" creationdate="20140913T064919Z">
+        <seg>然而，我們仍然使用超過 3 個地面控制點以避免過程中可能發生的隨機誤差，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +10906,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043601Z" creationid="CCYU" creationdate="20140913T031734Z">
         <seg>此研究中，首先以三張自中央地質調查所 (Central Geological Survey, CGS) 以及中華民國航空測量及遙感探測學會 (Chinese Society of Photogrammetry &amp; Remote Sensing, CSPRS) 所取得之紅菜坪地區 (台灣網格 67、1:5000、像素尺寸 0.375 公尺) 單色空拍影像進行觀察並分析不明顯和非遽變性的紅菜坪地滑與其他遽變性山崩的相異處，照片分別於 1998 年 6 月 13 日、1999 年 11 月 18 日和 2002 年 10 月 26 日拍攝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this study, we use single photo, DEM to rectify the images and choose 10 GCPs in the nondisplacement area, and the error from orthorectification is about 1.5 m (~2.5 pixels).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081917Z" creationid="CCYU" creationdate="20140913T081917Z">
+        <seg>本研究中使用單張照片 DEM 以校正影像，並在非位移區域中選擇 10 個地面控制點，正射校正之誤差約為 1.5 公尺 (~2.5 像素)。</seg>
       </tuv>
     </tu>
     <tu>
