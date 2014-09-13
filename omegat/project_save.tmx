@@ -4019,6 +4019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the results shown by PIV, we can see the horizontal direction and magnitude of the Hongtsaiping landslide in two different time intervals respectively (Fig. 8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124547Z" creationid="CCYU" creationdate="20140913T124450Z">
+        <seg>如 PIV 結果所示，可見到紅菜坪地滑分別於兩個不同時間內的水平方向與規模 (圖 8)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we assumed this will influence a realistic result, we decided to use the most common test based on lower time lapse but using natural uv-radiation only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142442Z" creationid="CCYU" creationdate="20140809T141546Z">
@@ -4397,8 +4405,8 @@
       <tuv lang="EN-US">
         <seg>Before evaluating the magnitude and direction of the displacement of the Hongtsaiping landslide area, we orthorectified three monochromatic aerial photographs in order to correct the geometric distortion of the photographs and to give them geographic coordinate (in this case, the Taiwan Grid 67) and pixel resolution of 0.61 m/pixel for the PIV analysis.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062728Z" creationid="CCYU" creationdate="20140913T062728Z">
-        <seg>評估紅菜坪地滑區位移方向和程度前，先對三個張單色照片進行正射校正以校正照片之幾何變形並加上地理座標 (此處為臺灣網格 67) ，用於 PIV 分析之像素解析度為  0.61 公尺 / 像素。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124528Z" creationid="CCYU" creationdate="20140913T062728Z">
+        <seg>評估紅菜坪地滑區位移方向和規模前，先對三個張單色照片進行正射校正以校正照片之幾何變形並加上地理座標 (此處為臺灣網格 67) ，用於 PIV 分析之像素解析度為  0.61 公尺 / 像素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8487,8 +8495,8 @@
       <tuv lang="EN-US">
         <seg>Finally, by means of the cross-correlation method in the PIV technique, we can obtain the direction and magnitude of displacement in the Hongtsaiping landslide area.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043606Z" creationid="CCYU" creationdate="20140913T032250Z">
-        <seg>最後可利用 PIV 速技術中之交互相關法獲得紅菜坪地滑區之位移方向和程度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124519Z" creationid="CCYU" creationdate="20140913T032250Z">
+        <seg>最後可利用 PIV 速技術中之交互相關法獲得紅菜坪地滑區之位移方向和規模。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21081,8 +21089,8 @@
       <tuv lang="EN-US">
         <seg>The results of the PIV analysis have helped us not only find the areas where sliding had happened, but also evaluate the azimuth and magnitudes of the sliding event.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043436Z" creationid="CCYU" creationdate="20140911T132631Z">
-        <seg>PIV 分析結果不僅有助於找尋滑動發生地點，同時也能評估地滑量與方位。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124505Z" creationid="CCYU" creationdate="20140911T132631Z">
+        <seg>PIV 分析結果不僅有助於找尋滑動發生地點，同時也能評估地滑規模與方位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22561,8 +22569,8 @@
       <tuv lang="EN-US">
         <seg>Thus, we take the advantage to measure such non-catastrophic landslides with the PIV technique to better understand its direction and magnitude of displacement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043539Z" creationid="CCYU" creationdate="20140913T024408Z">
-        <seg>因此，我們利用 PIV 技術來量測此非遽變性地滑以進一步地瞭解其位移之方向和程度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124516Z" creationid="CCYU" creationdate="20140913T024408Z">
+        <seg>因此，我們利用 PIV 技術來量測此非遽變性地滑以進一步地瞭解其位移之方向和規模。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22577,8 +22585,8 @@
       <tuv lang="EN-US">
         <seg>To better understand the characteristics of such non-catastrophic and unobvious landslide, we try to characterize in detail the sliding directions, their magnitudes and region of the landslide.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043418Z" creationid="CCYU" creationdate="20140911T130559Z">
-        <seg>為了詳細瞭解此類非遽變且不明顯的地滑特性，我們試著分析地滑詳細的滑動方向、滑動量以及區域。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124500Z" creationid="CCYU" creationdate="20140911T130559Z">
+        <seg>為了詳細瞭解此類非遽變且不明顯的地滑特性，我們試著分析地滑詳細的滑動方向、滑動規模以及區域。</seg>
       </tuv>
     </tu>
     <tu>
