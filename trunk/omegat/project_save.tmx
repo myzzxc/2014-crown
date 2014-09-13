@@ -20119,6 +20119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The appearance of any image may be affected by many natural and artificial factors, such as the change of vegetation and artificial objects on the ground, the incident angle of the sun (or the time of taking photographs), the error from orthorectification and etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142422Z" creationid="CCYU" creationdate="20140913T142422Z">
+        <seg>任何影像的外觀可能受到許多自然和人為因素影響，如地面上的植被和人工物體之改變、太陽入射角 (或照片拍攝時間)、正射校正誤差等等因素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The appearance of the surface is optically unchanged.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063155Z" creationid="MAE" creationdate="20140810T063155Z">
