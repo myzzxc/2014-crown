@@ -24064,6 +24064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where &lt;t0/&gt;ρpixel&lt;t1/&gt; is the precision error determined by the image width in pixels, and L is patch size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123306Z" creationid="CCYU" creationdate="20140913T123306Z">
+        <seg>其中 ρpixel 為由影像像素寬所決定之精度誤差，L 為區塊尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where C(s) means the degree of correlation, or the degree of match, I1 and I2 are interrogation area (IA, Chrominance matrix), and s is displacement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T091526Z" creationid="CCYU" creationdate="20140913T091526Z">
