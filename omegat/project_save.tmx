@@ -9886,6 +9886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the discrepancy is due to the time when the photographs are being taken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142811Z" creationid="CCYU" creationdate="20140913T142737Z">
+        <seg>然而，此差異是由於拍攝的時間所造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, their effects are much&lt;t10/&gt; &lt;t11/&gt;smaller compared to that of the impingement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101240Z" creationid="Judy" creationdate="20140822T101210Z">
@@ -19411,6 +19419,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T130117Z" creationid="CCYU" creationdate="20140913T130117Z">
         <seg>以 1998 年至 2002 年之間的結果為例，邊界為淡藍色和綠色之邊界，位移值也是 3.5 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking the results of Fig. 8A and B for example, they have different magnitude of displacement which seems to show a discrepancy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142739Z" creationid="CCYU" creationdate="20140913T142729Z">
+        <seg>以圖 8A 和 B 的結果為例，似乎顯現出其具有不同規模位移之差異，</seg>
       </tuv>
     </tu>
     <tu>
