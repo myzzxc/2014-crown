@@ -20007,6 +20007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commonest forms are bilinear interpolation, which uses a 2×2 pixel neighborhoods, and bicubic interpolation, which uses 4×4 pixel neighborhoods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081358Z" creationid="CCYU" creationdate="20140913T081358Z">
+        <seg>最常見的形式為採用 2 × 2 鄰近像素的雙線性插值，以及採用 4 × 4 鄰近像素的雙立方插值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The complicated heat transfer behaviors in the engine result in highly non-uniform temperature distributions in all sections of the engine at most of the time in an engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212842Z" creationid="Judy" creationdate="20140823T212842Z">
