@@ -20671,6 +20671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pixel value copied into the new location (i&lt;t13/&gt;’&lt;t14/&gt;,&lt;t15/&gt; &lt;t16/&gt;j&lt;t17/&gt;’&lt;t18/&gt;) is a&lt;t19/&gt; weighted average of the pixel values in the neighborhood of the calculate location (i,&lt;t20/&gt; &lt;t21/&gt;j).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081103Z" creationid="CCYU" creationdate="20140913T081103Z">
+        <seg>複製到新位置 (i', j') 的像素值為計算位置 (i, j) 鄰近區域的像素值之加權平均值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The plume of cold gas forms a primary vortex which in turn induces some very small secondary vortices at its sides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101018Z" creationid="Judy" creationdate="20140822T101018Z">
