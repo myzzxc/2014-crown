@@ -20463,6 +20463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The factor of patch size discussed above is related to how we decided the interrogation size during the process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142216Z" creationid="CCYU" creationdate="20140913T142035Z">
+        <seg>前段討論之區塊尺寸因子關係著過程中如何與選擇分析尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fischer FIS EM Adhesive Anchor System described in this report is a suitable alternative to what is specified in the codes listed in Section 1.0 of this report, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030911Z">
@@ -21211,6 +21219,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112444Z" creationid="Judy" creationdate="20140819T112444Z">
         <seg>圖 1 為引擎的幾何配置示意圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second influence, appearance, is the most important of these three.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142219Z" creationid="CCYU" creationdate="20140913T142214Z">
+        <seg>第二項影響因子：外觀，是三項中最重要的一個，</seg>
       </tuv>
     </tu>
     <tu>
