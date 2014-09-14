@@ -12158,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Least Square Gauss Fit is similar to the 3-point Gauss Fit but uses all eight points surrounding the maximum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025553Z" creationid="CCYU" creationdate="20140914T025553Z">
+        <seg>最小平方高斯擬和與三點高斯擬和相似，但須使用最大值週邊所有的八個點，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leather or other glove that is appropriate for this material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173427Z" creationid="Judy" creationdate="20140818T173427Z">
@@ -23858,8 +23866,8 @@
       <tuv lang="EN-US">
         <seg>Various peak fit algorithms are available which recover the sub-pixel displacement of the value (peak) of cross-correlation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T024824Z" creationid="CCYU" creationdate="20140914T024824Z">
-        <seg>arious peak fit algorithms are available which recover the sub-pixel displacement of the value (peak) of cross-correlation.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025413Z" creationid="CCYU" creationdate="20140914T024824Z">
+        <seg>各種峰值擬合算法可還原交互相關值 (峰值) 至次像素之位移。</seg>
       </tuv>
     </tu>
     <tu>
