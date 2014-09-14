@@ -17943,6 +17943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since Least Square Gauss Fit uses more data for the location of the peak, the noise in the result is generally less than with more simple fits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025831Z" creationid="CCYU" creationdate="20140914T025803Z">
+        <seg>由於最小平方高斯擬合對於峰值位置使用較多的數據，其結果之雜訊通常小於其他較簡化的擬合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since USTREAM is a pressure-based SIMPLEC&lt;t0/&gt; &lt;t1/&gt;[15] ﬁnite volume code, the pressure correction equation has to be modiﬁed to account for variable density in compressible ﬂows.&lt;t2/&gt; &lt;t3/&gt;The pressure–velocity coupling scheme in &lt;t4/&gt;Lebon&lt;t5/&gt; et al.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144829Z" creationid="Judy" creationdate="20140820T144824Z">
@@ -22651,6 +22659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
         <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This peak fit method is suitable for most applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025829Z" creationid="CCYU" creationdate="20140914T025829Z">
+        <seg>此峰值擬合方法適用於大多數應用。</seg>
       </tuv>
     </tu>
     <tu>
