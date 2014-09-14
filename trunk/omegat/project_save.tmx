@@ -8389,6 +8389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 11.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T024723Z" creationid="CCYU" creationdate="20140914T024723Z">
+        <seg>圖 11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 11.&lt;t0/&gt; Variations of average temperatures and heat transfer rates in the expansion and compression chambers; (a) variations of average temperatures, (b) variations of heat transfer rates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210947Z" creationid="Judy" creationdate="20140823T210947Z">
@@ -20511,6 +20519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The different results of six algorithms of peak detection provided from PIV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T024821Z" creationid="CCYU" creationdate="20140914T024821Z">
+        <seg> PIV 所提供六種演算法的峰值檢測從不同的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The drill hole must blown out twice with compressed air (oil•free , 87 psi (6 bar)), brushed two times (minimal by hand) starting from the bottom of the hole and then again blown out twice with compressed air (oil.free Z 87psi (6bar)).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021035Z">
@@ -23836,6 +23852,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142952Z" creationid="CCYU" creationdate="20140807T142952Z">
         <seg>Vapour&lt;t0/&gt; pressure 蒸氣壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various peak fit algorithms are available which recover the sub-pixel displacement of the value (peak) of cross-correlation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T024824Z" creationid="CCYU" creationdate="20140914T024824Z">
+        <seg>arious peak fit algorithms are available which recover the sub-pixel displacement of the value (peak) of cross-correlation.</seg>
       </tuv>
     </tu>
     <tu>
