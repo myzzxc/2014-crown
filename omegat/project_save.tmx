@@ -4187,6 +4187,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention is drawn to the Normative references cited in this publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134143Z" creationid="CCYU" creationdate="20140917T134143Z">
+        <seg>注意本出版物中之規範性參考資料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attention!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143112Z">
@@ -13586,6 +13594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175329Z" creationid="Judy" creationdate="20140818T175329Z">
         <seg>無資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and members of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs &lt;t0/&gt;(including legal fees) and expenses arising out of the publication, use of, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134001Z" creationid="CCYU" creationdate="20140917T134001Z">
+        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其他 IEC 出版物之使用所造成之個人傷亡、財產損失或者其他任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
       </tuv>
     </tu>
     <tu>
