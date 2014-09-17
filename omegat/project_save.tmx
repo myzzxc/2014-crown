@@ -22919,6 +22919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This part of IEC 60076 applies to three-phase and single-phase power transformers (including auto-transformers) with the exception of certain categories of small and special transformers such as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T152330Z" creationid="CCYU" creationdate="20140917T152330Z">
+        <seg>此 IEC 60076 部分適用於三相及單相電力變壓器 (包括自耦變壓器)，未包含某類小型和特殊變壓器如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This peak fit method is suitable for most applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025829Z" creationid="CCYU" creationdate="20140914T025829Z">
