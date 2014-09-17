@@ -11702,6 +11702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inte&lt;t4/&gt;rnational, governmental and non-&lt;t5/&gt;governmental organizations liaising with the IEC also participate in this preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130053Z" creationid="CCYU" creationdate="20140917T130053Z">
+        <seg>與 IEC 相關之國際性政府和非政府組織也參與籌劃工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intended Use</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053914Z">
@@ -21897,8 +21905,8 @@
       <tuv lang="EN-US">
         <seg>Their preparation is entrusted to technical committees; any &lt;t2/&gt;IEC&lt;t3/&gt; National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T125742Z" creationid="CCYU" creationdate="20140917T125742Z">
-        <seg>他們準備委託給技術委員會 ；任何 IEC 處理的主題感興趣的國家委員會可能參與這項籌備工作。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130056Z" creationid="CCYU" creationdate="20140917T125742Z">
+        <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
       </tuv>
     </tu>
     <tu>
