@@ -25600,6 +25600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>informative annexes have been added on facilities for condition monitoring and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140404Z" creationid="CCYU" creationdate="20140917T140404Z">
+        <seg>參考性附件已添加狀態監測設施和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>inner&lt;t0/&gt; radius of the displacer cylinder (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z" creationid="Judy" creationdate="20140819T104442Z">
@@ -26092,6 +26100,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z" creationid="Judy" creationdate="20140819T104825Z">
         <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the requirements formerly in Annex A are now incorporated in the text and Annex A is now an informative checklist;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140417Z" creationid="CCYU" creationdate="20140917T140349Z">
+        <seg>於前一版之附件 A 所列之要求中加入文字，附件 A 現在為參考性的對照表 ；</seg>
       </tuv>
     </tu>
     <tu>
