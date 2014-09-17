@@ -8237,6 +8237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOREWORD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123818Z" creationid="CCYU" creationdate="20140917T123818Z">
+        <seg>前言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FORMULA:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T162342Z" creationid="Judy" creationdate="20140818T162342Z">
@@ -10170,6 +10178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164308Z" creationid="Judy" creationdate="20140818T164308Z">
         <seg>吸入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INTERNATIONAL ELECTROTECHNICAL COMMISSION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123723Z" creationid="CCYU" creationdate="20140917T123723Z">
+        <seg>國際電工委員會</seg>
       </tuv>
     </tu>
     <tu>
@@ -14646,6 +14662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POWER TRANSFORMERS —</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123735Z" creationid="CCYU" creationdate="20140917T123735Z">
+        <seg>電力變壓器 —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRECAUTIONS TO BE TAKEN IN HANDLING AND STORAGE:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172843Z" creationid="Judy" creationdate="20140818T172843Z">
@@ -14818,6 +14842,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125927Z">
         <seg>零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 1: General</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123815Z" creationid="CCYU" creationdate="20140917T123815Z">
+        <seg>第一部分：總論</seg>
       </tuv>
     </tu>
     <tu>
