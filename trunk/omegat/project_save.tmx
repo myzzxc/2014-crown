@@ -3283,6 +3283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All users should ensure that they have the latest edition of this publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T133131Z" creationid="CCYU" creationdate="20140917T133131Z">
+        <seg>所有使用者必須都確保其持有此出版物的最新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allocation of a waste code number, according to the European Waste Catalogue, should be carried out in agreement with the regional waste disposal company.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160714Z" creationid="CCYU" creationdate="20140807T160714Z">
@@ -10134,6 +10142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC is not responsible for any services carried out by independent certification bodies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T133045Z" creationid="CCYU" creationdate="20140917T133045Z">
+        <seg>IEC 不為任何獨立的認證機構所進行的服務負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC itself does not provide any attestation of conformity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132809Z" creationid="CCYU" creationdate="20140917T132809Z">
@@ -11322,6 +11338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T051612Z">
         <seg>混凝土增加係數 We</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Independent certification bodies provide conformity assessment services and, in some areas, access to IEC marks of conformity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T133049Z" creationid="CCYU" creationdate="20140917T133016Z">
+        <seg>某些地區之獨立認證機構提供標準性評估服務並提供符合 IEC 標誌，</seg>
       </tuv>
     </tu>
     <tu>
