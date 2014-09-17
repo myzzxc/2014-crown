@@ -4189,8 +4189,16 @@
       <tuv lang="EN-US">
         <seg>Attention is drawn to the Normative references cited in this publication.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134143Z" creationid="CCYU" creationdate="20140917T134143Z">
-        <seg>注意本出版物中之規範性參考資料，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134332Z" creationid="CCYU" creationdate="20140917T134143Z">
+        <seg>請注意本出版物中之規範性參考資料，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attention is drawn to the possibility that some of the elements of this IEC Publication may be the subject of patent rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134441Z" creationid="CCYU" creationdate="20140917T134441Z">
+        <seg>請注意此 IEC 出版物的某些內容可能具有專利，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10162,6 +10170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132809Z" creationid="CCYU" creationdate="20140917T132809Z">
         <seg>IEC 本身並不提供任何合格認證，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC shall not be held responsible for identifying any or all such patent rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134534Z" creationid="CCYU" creationdate="20140917T134534Z">
+        <seg>IEC 無須負責標示任何或所有的專利。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23836,6 +23852,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133920Z">
         <seg>使用條件 (環境條件)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use of the referenced publications is indispensable for the correct application of this publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134326Z" creationid="CCYU" creationdate="20140917T134326Z">
+        <seg>必須使用所列之參考資料以正確使用本出版物。</seg>
       </tuv>
     </tu>
     <tu>
