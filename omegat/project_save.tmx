@@ -3867,6 +3867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any divergence between any IEC Publication and the corresponding national or regional publication shall be clearly indicated in the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132755Z" creationid="CCYU" creationdate="20140917T132755Z">
+        <seg>任何 IEC 出版物和其相應的國家或區域性出版物之間的差異應標示在後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
@@ -10122,6 +10130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130608Z" creationid="CCYU" creationdate="20140917T130608Z">
         <seg>IEC 與國際標準化組織 (ISO) 緊密合作並藉由協定確立兩個組織之間的標準條件相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC itself does not provide any attestation of conformity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132809Z" creationid="CCYU" creationdate="20140917T132809Z">
+        <seg>IEC 本身並不提供任何合格認證，</seg>
       </tuv>
     </tu>
     <tu>
