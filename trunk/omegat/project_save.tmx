@@ -24992,6 +24992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>addition of a clause on DC currents;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135419Z" creationid="CCYU" creationdate="20140917T135419Z">
+        <seg>增加直流電流條款；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>addition of a definition of harmonic content;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134925Z" creationid="CCYU" creationdate="20140917T134925Z">
@@ -25008,10 +25016,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>addition of connection symbols for single phase transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135243Z" creationid="CCYU" creationdate="20140917T135243Z">
+        <seg>增加單相變壓器之接線符號；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>addition of functional method of specification;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135200Z" creationid="CCYU" creationdate="20140917T135200Z">
         <seg>增加規範的功能方法；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>addition of requirements for liquid preservation systems;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135355Z" creationid="CCYU" creationdate="20140917T135355Z">
+        <seg>增加液體儲存系統要求；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>addition of safety and environmental requirements;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135315Z" creationid="CCYU" creationdate="20140917T135315Z">
+        <seg>增加安全和環保要求；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>addition of vacuum, pressure and leak tests on tanks;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135523Z" creationid="CCYU" creationdate="20140917T135523Z">
+        <seg>增加箱體之真空、壓力和洩漏試驗；</seg>
       </tuv>
     </tu>
     <tu>
