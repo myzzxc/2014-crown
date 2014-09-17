@@ -2523,6 +2523,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of all parts of the IEC 60076 series can be found, under the general title Power transformers, on the IEC website.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141156Z" creationid="CCYU" creationdate="20140917T141156Z">
+        <seg>可於 IEC 網站上之電力變壓器標題中找到 IEC 60076 系列所有部分的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A little and clearly noticeable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061831Z" creationid="MAE" creationdate="20140810T061831Z">
@@ -22955,6 +22963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This publication has been drafted in accordance with the ISO/IEC Directives, Part 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140912Z" creationid="CCYU" creationdate="20140917T140912Z">
+        <seg>此出版物依據 ISO/IEC 指令，第 2 部分草擬。</seg>
       </tuv>
     </tu>
     <tu>
