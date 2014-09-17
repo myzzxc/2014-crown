@@ -9206,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full information on the voting for the approval of this standard can be found in the report on voting indicated in the above table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140821Z" creationid="CCYU" creationdate="20140917T140821Z">
+        <seg>此標準審核表決之完整資訊收錄於上表中之表決報告內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further information:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z" creationid="CCYU" creationdate="20140809T102105Z">
@@ -21847,6 +21855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text of this standard is based on the following documents:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140649Z" creationid="CCYU" creationdate="20140917T140649Z">
+        <seg>此標準之內文建立下列文件上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The three quantities obtained by this grid and time-step interval are less than 0.5% in difference with those obtained with the ﬁnest grid and smallest time-step interval; therefore this grid and the time-step interval&lt;t31/&gt; &lt;t32/&gt;have been used in this study.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154241Z" creationid="Judy" creationdate="20140820T154204Z">
@@ -25384,6 +25400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>environmental and safety considerations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140548Z" creationid="CCYU" creationdate="20140917T140548Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>excellent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061650Z" creationid="MAE" creationdate="20140810T061650Z">
@@ -25602,8 +25626,8 @@
       <tuv lang="EN-US">
         <seg>informative annexes have been added on facilities for condition monitoring and</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140404Z" creationid="CCYU" creationdate="20140917T140404Z">
-        <seg>參考性附件已添加狀態監測設施和</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140544Z" creationid="CCYU" creationdate="20140917T140404Z">
+        <seg>參考性附件中增加了狀態監測和環保及安全設施。</seg>
       </tuv>
     </tu>
     <tu>
