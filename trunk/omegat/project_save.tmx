@@ -10110,6 +10110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC collaborates closely with the International Organization for Standardization (ISO) in accordance with conditions determined by agreement between the two organizations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130608Z" creationid="CCYU" creationdate="20140917T130608Z">
+        <seg>IEC 與國際標準化組織 (ISO) 緊密合作並藉由協定確立兩個組織之間的標準條件相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>II: - 40 °C to +60 °C (max long term temperature +43 °C and max short term temperature +60 °C)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133853Z">
