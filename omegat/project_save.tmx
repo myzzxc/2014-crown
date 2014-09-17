@@ -20567,6 +20567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "http://webstore.iec.ch" in the data related to the specific publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141515Z" creationid="CCYU" creationdate="20140917T141515Z">
+        <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The commonest forms are bilinear interpolation, which uses a 2×2 pixel neighborhoods, and bicubic interpolation, which uses 4×4 pixel neighborhoods.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081358Z" creationid="CCYU" creationdate="20140913T081358Z">
