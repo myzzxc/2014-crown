@@ -10214,6 +10214,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134619Z" creationid="CCYU" creationdate="20140918T134619Z">
+        <seg>IEC 60076-10:2001，電力變壓器 — 第 10 部分：噪音等級測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-11:2004, Power transformers — Part 11: Dry-type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134637Z" creationid="CCYU" creationdate="20140918T134637Z">
+        <seg>IEC 60076-11:2004，電力變壓器 — 第 11 部分：乾式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-2, Power transformers — Part 2: Temperature rise for liquid-immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134112Z" creationid="CCYU" creationdate="20140918T134112Z">
@@ -10226,6 +10242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134305Z" creationid="CCYU" creationdate="20140918T134305Z">
         <seg>IEC 60076-3:2000，電力變壓器 — 第 3 部分：絕緣等級、介電試驗和外部空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-5:2006, Power transformers — Part 5: Ability to withstand short circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134542Z" creationid="CCYU" creationdate="20140918T134542Z">
+        <seg>IEC 60076-5:2006，電力變壓器 — 第 5 部分：短路電流承受力</seg>
       </tuv>
     </tu>
     <tu>
