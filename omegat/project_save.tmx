@@ -25632,6 +25632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>gas-filled power transformers (IEC 60076-15);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132440Z" creationid="CCYU" creationdate="20140918T132440Z">
+        <seg>充氣式電力變壓器 (IEC 60076 15)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>gas&lt;t0/&gt; constant (Jkg-1 K-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104223Z" creationid="Judy" creationdate="20140819T104223Z">
@@ -26168,6 +26176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>self-protected transformers (IEC 60076-13);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132414Z" creationid="CCYU" creationdate="20140918T132414Z">
+        <seg>自保護變壓器 (IEC 60076-13)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>short term temperature +80°C and max long term temperature +50°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
@@ -26419,6 +26435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>traction transformers and traction reactors (IEC 60310);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132555Z" creationid="CCYU" creationdate="20140918T132555Z">
+        <seg>牽引變壓器和牽引變反應器 (IEC 60310)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>traction transformers mounted on rolling stock;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125118Z" creationid="CCYU" creationdate="20140918T125118Z">
@@ -26431,6 +26455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125414Z" creationid="CCYU" creationdate="20140918T125414Z">
         <seg>深水 (水下) 型變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers for wind turbine applications (IEC 60076-16);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132515Z" creationid="CCYU" creationdate="20140918T132515Z">
+        <seg>風力渦輪機用之變壓器 (IEC 60076-16)；</seg>
       </tuv>
     </tu>
     <tu>
