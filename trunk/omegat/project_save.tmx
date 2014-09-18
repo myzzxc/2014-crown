@@ -4171,6 +4171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At several places in this part it is specified or recommended that an 'agreement' should be reached concerning alternative or additional technical solutions or procedures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133107Z" creationid="CCYU" creationdate="20140918T133107Z">
+        <seg>此部分中的幾處指明或建議替代或額外的技術解決方案或程序應達成之“協議”，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this date, the publication will be</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141542Z" creationid="CCYU" creationdate="20140917T141542Z">
@@ -19147,6 +19155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205530Z" creationid="Judy" creationdate="20140823T205530Z">
         <seg>如此低的效率主要是由於熱端與冷端溫差不大以及低引擎速率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such agreement is made between the manufacturer and the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133148Z" creationid="CCYU" creationdate="20140918T133128Z">
+        <seg>此類協議由製造商和買方之間決定。</seg>
       </tuv>
     </tu>
     <tu>
