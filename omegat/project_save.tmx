@@ -25480,6 +25480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>explosion-proof and mining transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125301Z" creationid="CCYU" creationdate="20140918T125301Z">
+        <seg>防爆型與礦用變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fair</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062009Z" creationid="MAE" creationdate="20140810T062009Z">
@@ -26176,6 +26184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>starting transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125134Z" creationid="CCYU" creationdate="20140918T125134Z">
+        <seg>起動變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>strength in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020955Z">
@@ -26220,6 +26236,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z" creationid="Judy" creationdate="20140819T104825Z">
         <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>testing transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z" creationid="CCYU" creationdate="20140918T125138Z">
+        <seg>測試變壓器；</seg>
       </tuv>
     </tu>
     <tu>
@@ -26347,6 +26371,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>traction transformers mounted on rolling stock;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125118Z" creationid="CCYU" creationdate="20140918T125118Z">
+        <seg>列車牽引變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers for deep water (submerged) applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125414Z" creationid="CCYU" creationdate="20140918T125414Z">
+        <seg>深水 (水下) 型變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transformers, which have no windings with rated voltage higher than 1 000 V;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T123820Z" creationid="CCYU" creationdate="20140918T123820Z">
@@ -26391,6 +26431,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105121Z" creationid="Judy" creationdate="20140819T105121Z">
         <seg>體積 (m3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>welding transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125144Z" creationid="CCYU" creationdate="20140918T125144Z">
+        <seg>焊接變壓器；</seg>
       </tuv>
     </tu>
     <tu>
