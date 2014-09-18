@@ -25272,6 +25272,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140601Z" creationid="CCYU" creationdate="20140918T140601Z">
+        <seg>具有兩個或多個繞組之固定裝置，藉由電磁感應原理，由一系統轉換交流電壓及電流至另一電壓和電流不同但頻率相同之系統中，以傳輸電力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a transformer in which at least two windings have a common part</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140706Z" creationid="CCYU" creationdate="20140918T140706Z">
+        <seg>至少兩個繞組具有相同零件之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>absorbent is 100% natural and taken only from renewable bogs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055351Z" creationid="CCYU" creationdate="20140817T055351Z">
@@ -25380,6 +25396,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z" creationid="CCYU" creationdate="20140808T131551Z">
         <seg>arks 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto-transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140610Z" creationid="CCYU" creationdate="20140918T140610Z">
+        <seg>自耦變壓器</seg>
       </tuv>
     </tu>
     <tu>
