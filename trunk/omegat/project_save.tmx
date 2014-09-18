@@ -13526,6 +13526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Contact between the liquid and external air may sometimes be diminished or prevented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142828Z" creationid="CCYU" creationdate="20140918T142828Z">
+        <seg>註 有時需減少或避免液體與外部空氣之接觸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Other terms use the meanings ascribed to them in the International Electrotechnical Vocabulary (IEV).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140116Z" creationid="CCYU" creationdate="20140918T140116Z">
@@ -25672,6 +25680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>design value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142930Z" creationid="CCYU" creationdate="20140918T142930Z">
+        <seg>設計值 (design value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dispersion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092451Z" creationid="CCYU" creationdate="20140809T092451Z">
@@ -26576,6 +26592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142846Z" creationid="CCYU" creationdate="20140918T142846Z">
+        <seg>指定值 (specified value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>spic&lt;t0/&gt;y</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132422Z" creationid="CCYU" creationdate="20140808T132422Z">
@@ -26660,6 +26684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135713Z" creationid="CCYU" creationdate="20140917T140349Z">
         <seg>於前一版之附件 A 所列之規範中加入文字，附件 A 現在為參考性的對照表 ；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the value specified by the purchaser at the time of order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142921Z" creationid="CCYU" creationdate="20140918T142921Z">
+        <seg>買方於訂購時指定之數值</seg>
       </tuv>
     </tu>
     <tu>
