@@ -26032,6 +26032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>highest voltage for equipment Um applicable to a transformer winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143315Z" creationid="CCYU" creationdate="20140918T143315Z">
+        <seg>設備 Um 適用於變壓器繞組之最高電壓 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hmin&lt;t0/&gt; = minimum thickness of member</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123632Z">
@@ -26676,6 +26684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z" creationid="CCYU" creationdate="20140918T125138Z">
         <seg>測試變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the expected value given by the number of turns in the design in the case of turns ratio or calculated from the design in the case of impedance, no-load current or other parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143205Z" creationid="CCYU" creationdate="20140918T143205Z">
+        <seg>設計於特定轉速下之預期數值，由匝數比或由阻抗、空載電流或其他設計參數計算</seg>
       </tuv>
     </tu>
     <tu>
