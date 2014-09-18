@@ -25344,6 +25344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a terminal intended for connection to a line conductor of a network</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143852Z" creationid="CCYU" creationdate="20140918T143852Z">
+        <seg>連接線路網中的導線之端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a transformer in which at least two windings have a common part</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140706Z" creationid="CCYU" creationdate="20140918T140706Z">
@@ -25372,6 +25380,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141735Z" creationid="CCYU" creationdate="20140918T141735Z">
         <seg>與自耦變壓器不同，其中一組繞組與電路串聯以變換電壓或轉移其相位之變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a) for three-phase transformers and three-phase banks of single-phase transformers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144124Z" creationid="CCYU" creationdate="20140918T144124Z">
+        <seg>a) 三相變壓器或單相變壓器之三相組：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26168,6 +26184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>line terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143806Z" creationid="CCYU" creationdate="20140918T143806Z">
+        <seg>線端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>liquid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092457Z" creationid="CCYU" creationdate="20140809T092457Z">
@@ -26284,6 +26308,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131755Z" creationid="CCYU" creationdate="20140817T131755Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143909Z" creationid="CCYU" creationdate="20140918T143909Z">
+        <seg>中性端子</seg>
       </tuv>
     </tu>
     <tu>
@@ -26740,6 +26772,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135713Z" creationid="CCYU" creationdate="20140917T140349Z">
         <seg>於前一版之附件 A 所列之規範中加入文字，附件 A 現在為參考性的對照表 ；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the terminal or terminals connected to the common point (the neutral point) of a star-connected or zigzag connected winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144305Z" creationid="CCYU" creationdate="20140918T144305Z">
+        <seg>連接至星形連接或 Ｚ 形連接共點 (中性點) 之端子</seg>
       </tuv>
     </tu>
     <tu>
