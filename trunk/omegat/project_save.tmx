@@ -25288,6 +25288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-01-16]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
+        <seg>[IEC 60050-421:1990, 421-01-16]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[IEC 60050-421:1990, 421-01-01, modified]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140218Z" creationid="CCYU" creationdate="20140918T140218Z">
@@ -25316,6 +25324,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140706Z" creationid="CCYU" creationdate="20140918T140706Z">
         <seg>至少兩個繞組具有相同零件之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a transformer in which the magnetic circuit and windings are immersed in liquid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142056Z" creationid="CCYU" creationdate="20140918T142056Z">
+        <seg>磁路和繞組浸於液體中之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a transformer in which the magnetic circuit and windings are not immersed in an insulating liquid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142147Z" creationid="CCYU" creationdate="20140918T142147Z">
+        <seg>磁路和繞組未浸於絕緣液體中之變壓器</seg>
       </tuv>
     </tu>
     <tu>
@@ -25676,6 +25700,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042253Z" creationid="MAE" creationdate="20140727T042253Z">
         <seg>乾混凝土之最短固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dry-type transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142121Z" creationid="CCYU" creationdate="20140918T142121Z">
+        <seg>乾式變壓器 (dry-type transformer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26100,6 +26132,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092457Z" creationid="CCYU" creationdate="20140809T092457Z">
         <seg>liquid 液體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>liquid preservation system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142351Z" creationid="CCYU" creationdate="20140918T142351Z">
+        <seg>液體儲存系統 (liquid preservation system)</seg>
       </tuv>
     </tu>
     <tu>
