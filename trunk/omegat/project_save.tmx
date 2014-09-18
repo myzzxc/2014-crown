@@ -13536,8 +13536,8 @@
       <tuv lang="EN-US">
         <seg>NOTE Where there is a need to express that a transformer is not auto-connected, use is made of terms such as separate winding transformer, or double-wound transformer (see IEC 60050-421:1990, 421-01-13).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140753Z" creationid="CCYU" creationdate="20140918T140753Z">
-        <seg>註 必須說明變壓器非不是自動連接，使用了單獨的繞組變壓器或雙繞組變壓器的名詞 (見 IEC 60050-421:1990，421-01-13）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141105Z" creationid="CCYU" creationdate="20140918T140753Z">
+        <seg>註 當變壓器非自動連接時，稱作獨立繞組變壓器或雙繞組變壓器 (見 IEC 60050-421:1990，421-01-13）。</seg>
       </tuv>
     </tu>
     <tu>
