@@ -10230,6 +10230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-5:2006, Power transformers — Part 5: Ability to withstand short circuit IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels IEC 60076-11:2004, Power transformers — Part 11: Dry-type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134451Z" creationid="CCYU" creationdate="20140918T134451Z">
+        <seg>IEC 60076-5:2006， 電力變壓器 — — 部分 5： 能夠承受短路 IEC 60076-10:2001、 電力變壓器 — — 部分 10： 聲音測定各級 IEC 60076-11:2004、 電力變壓器 — — 部分 11： 幹式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC Publications have the form of recommendations for international use and are accepted by &lt;t0/&gt;IEC&lt;t1/&gt; National Committees in that sense&lt;t2/&gt;.&lt;t3/&gt; While all reasonable efforts are made to ensure that the technical content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132151Z" creationid="CCYU" creationdate="20140917T132151Z">
