@@ -24682,8 +24682,8 @@
       <tuv lang="EN-US">
         <seg>When IEC standards do not exist for such categories of transformers (in particular transformer having no winding exceeding 1000 V for industrial applications), this part of IEC 60076 may still be applicable either as a whole or in part.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125503Z" creationid="CCYU" creationdate="20140918T125503Z">
-        <seg>作為一個整體或部分，當 IEC 標準不存在這種類別的變壓器 （在特定變壓器具有工業應用無繞組超過 1000 V），IEC 60076 的這一部分可能仍然適用。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125903Z" creationid="CCYU" creationdate="20140918T125503Z">
+        <seg>當變壓器類別不存在於 IEC 標準 (特別是工業用無繞組且額定電壓高於 1000 V 之變壓器) 時，此 IEC 60076 部分仍然適用。</seg>
       </tuv>
     </tu>
     <tu>
