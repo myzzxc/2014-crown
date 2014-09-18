@@ -26624,6 +26624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>system in a liquid-filled transformer by which the thermal expansion of the liquid is accommodated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142712Z" creationid="CCYU" creationdate="20140918T142712Z">
+        <seg>充液變壓器內之系統，可承受液體熱膨脹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
