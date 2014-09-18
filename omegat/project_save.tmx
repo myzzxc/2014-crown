@@ -26112,6 +26112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>single-phase transformers with rated power less than 1 kVA and three-phase transformers less than 5 kVA;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T123715Z" creationid="CCYU" creationdate="20140918T123715Z">
+        <seg>額定功率小於 1 kVA 之單相變壓器和小於 5 kVA 之三相變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>slightly</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110727Z" creationid="CCYU" creationdate="20140809T110727Z">
@@ -26327,6 +26335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T132337Z" creationid="CCYU" creationdate="20140808T132337Z">
         <seg>total&lt;t0/&gt; &lt;t1/&gt;vapour&lt;t2/&gt; and particulates 總蒸汽量與微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers, which have no windings with rated voltage higher than 1 000 V;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T123820Z" creationid="CCYU" creationdate="20140918T123820Z">
+        <seg>無繞阻且額定電壓高於 1000 V 之變壓器；</seg>
       </tuv>
     </tu>
     <tu>
