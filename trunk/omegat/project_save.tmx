@@ -9134,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For those categories of power transformers and reactors which have their own IEC standards, this part is applicable only to the extent in which it is specifically called up by cross-reference in the other standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132121Z" creationid="CCYU" creationdate="20140918T132020Z">
+        <seg>對於本身具有其 IEC 標準之電力變壓器和反應器類別，此部分只適用於被其他標準具體引用之範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z" creationid="CCYU" creationdate="20140817T125153Z">
@@ -19151,6 +19159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such standards exist for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132048Z" creationid="CCYU" creationdate="20140918T132048Z">
+        <seg>此類標準包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sucrose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131715Z" creationid="CCYU" creationdate="20140807T131715Z">
@@ -25392,6 +25408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dry-type transformers (IEC 60076-11);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132253Z" creationid="CCYU" creationdate="20140918T132253Z">
+        <seg>乾式變壓器 (IEC 60076-11)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e.g. SA 2960585 IIMP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053454Z">
@@ -26092,6 +26116,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
         <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reactors in general (IEC 60076-6);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132233Z" creationid="CCYU" creationdate="20140918T132233Z">
+        <seg>一般反應器 (IEC 60076-6)；</seg>
       </tuv>
     </tu>
     <tu>
