@@ -20215,6 +20215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terminals and neutral point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143646Z" creationid="CCYU" creationdate="20140918T143646Z">
+        <seg>端子與中性點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024406Z" creationid="CCYU" creationdate="20140809T024406Z">
@@ -25320,6 +25328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a conducting element intended for connecting a winding to external conductors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
+        <seg>連接繞組至外部導體之導電元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140601Z" creationid="CCYU" creationdate="20140918T140601Z">
@@ -26384,6 +26400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>phase-to-phase voltage in a three-phase system for which a transformer winding is designed in respect of its insulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143632Z" creationid="CCYU" creationdate="20140918T143448Z">
+        <seg>三項系統中最高相間均方根電壓，依據絕緣設計其變壓器繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>phosphorus</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165649Z" creationid="Judy" creationdate="20140818T165649Z">
@@ -26680,6 +26704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143659Z" creationid="CCYU" creationdate="20140918T143659Z">
+        <seg>端子 (terminal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>testing transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z" creationid="CCYU" creationdate="20140918T125138Z">
@@ -26692,6 +26724,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143205Z" creationid="CCYU" creationdate="20140918T143205Z">
         <seg>設計於特定轉速下之預期數值，由匝數比或由阻抗、空載電流或其他設計參數計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the highest r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z" creationid="CCYU" creationdate="20140918T143450Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
