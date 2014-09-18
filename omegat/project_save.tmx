@@ -8893,6 +8893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133814Z" creationid="CCYU" creationdate="20140918T133737Z">
+        <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details please take a look at our Technical Information TI 96.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072842Z" creationid="MAE" creationdate="20140810T072842Z">
@@ -9170,6 +9178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z" creationid="CCYU" creationdate="20140817T125153Z">
         <seg>散裝吸收劑對於卡車車隊不是很有吸引力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133900Z" creationid="CCYU" creationdate="20140918T133900Z">
+        <seg>對於未註明日期之參考資料，適用參考資料之最新版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20953,8 +20969,8 @@
       <tuv lang="EN-US">
         <seg>The following referenced documents are indispensable for the application of this document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133554Z" creationid="CCYU" creationdate="20140918T133554Z">
-        <seg>以下引用的文檔是此文檔的應用程式不可或缺的。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133741Z" creationid="CCYU" creationdate="20140918T133554Z">
+        <seg>以下為使用本文件不可或缺的參考資料，</seg>
       </tuv>
     </tu>
     <tu>
