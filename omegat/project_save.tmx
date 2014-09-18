@@ -13534,6 +13534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Series transformers were called booster transformers in earlier editions of this standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141948Z" creationid="CCYU" creationdate="20140918T141948Z">
+        <seg>註 串聯變壓器於此標準的早期版本中稱為升壓變壓器 (booster transformer)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Where there is a need to express that a transformer is not auto-connected, use is made of terms such as separate winding transformer, or double-wound transformer (see IEC 60050-421:1990, 421-01-13).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141105Z" creationid="CCYU" creationdate="20140918T140753Z">
@@ -21543,6 +21551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other winding is an energizing winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141826Z" creationid="CCYU" creationdate="20140918T141826Z">
+        <seg>另一組繞組為激發繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The packaging can be reused or recycled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094735Z">
@@ -25280,6 +25296,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-01-12, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141837Z" creationid="CCYU" creationdate="20140918T141837Z">
+        <seg>[IEC 60050-421:1990, 421-01-12, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140601Z" creationid="CCYU" creationdate="20140918T140601Z">
@@ -25292,6 +25316,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140706Z" creationid="CCYU" creationdate="20140918T140706Z">
         <seg>至少兩個繞組具有相同零件之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a transformer, other than an autotransformer, of which one winding is intended to be connected in series with a circuit in order to alter its voltage and/or shift its phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141735Z" creationid="CCYU" creationdate="20140918T141735Z">
+        <seg>與自耦變壓器不同，其中一組繞組與電路串聯以變換電壓或轉移其相位之變壓器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26068,6 +26100,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092457Z" creationid="CCYU" creationdate="20140809T092457Z">
         <seg>liquid 液體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>liquid-immersed type transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142006Z" creationid="CCYU" creationdate="20140918T142006Z">
+        <seg>油浸式變壓器 (liquid-immersed type transformer)</seg>
       </tuv>
     </tu>
     <tu>
