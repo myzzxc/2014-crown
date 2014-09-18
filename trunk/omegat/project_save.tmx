@@ -9382,6 +9382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140138Z" creationid="CCYU" creationdate="20140918T140138Z">
+        <seg>概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General Part</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T094446Z">
@@ -13514,6 +13522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Other terms use the meanings ascribed to them in the International Electrotechnical Vocabulary (IEV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140116Z" creationid="CCYU" creationdate="20140918T140116Z">
+        <seg>註 其他使用之術語收錄於國際電工詞彙 (IEV) 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25248,6 +25264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-01-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140218Z" creationid="CCYU" creationdate="20140918T140218Z">
+        <seg>[IEC 60050-421:1990, 421-01-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>absorbent is 100% natural and taken only from renewable bogs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055351Z" creationid="CCYU" creationdate="20140817T055351Z">
@@ -26244,6 +26268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165651Z" creationid="Judy" creationdate="20140818T165651Z">
         <seg>鉀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>power transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140151Z" creationid="CCYU" creationdate="20140918T140151Z">
+        <seg>電力變壓器 (power transformer)</seg>
       </tuv>
     </tu>
     <tu>
