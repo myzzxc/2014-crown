@@ -25512,6 +25512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a winding intended only for a small load compared with the rated power of the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132137Z" creationid="CCYU" creationdate="20140919T131926Z">
+        <seg>負載僅占變壓器額定功率一小部份之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a winding of a multi-winding transformer having a rated voltage intermediate between the highest and lowest winding rated voltages</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131853Z" creationid="CCYU" creationdate="20140919T131853Z">
@@ -25644,6 +25652,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141425Z" creationid="CCYU" creationdate="20140918T140610Z">
         <seg>自耦變壓器 (auto-transformer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auxiliary winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131913Z" creationid="CCYU" creationdate="20140919T131913Z">
+        <seg>輔助繞組 (auxiliary winding)</seg>
       </tuv>
     </tu>
     <tu>
