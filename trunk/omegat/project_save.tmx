@@ -25328,6 +25328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-02-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122408Z" creationid="CCYU" creationdate="20140919T122408Z">
+        <seg>[IEC 60050-421:1990, 421-02-02, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -25516,6 +25524,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
         <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b) for single-phase transformers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122321Z" creationid="CCYU" creationdate="20140919T122321Z">
+        <seg>b) 單相變壓器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26312,6 +26328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122423Z" creationid="CCYU" creationdate="20140919T122423Z">
+        <seg>中性點 (neutral point)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143909Z" creationid="CCYU" creationdate="20140918T143909Z">
@@ -26772,6 +26796,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135713Z" creationid="CCYU" creationdate="20140917T140349Z">
         <seg>於前一版之附件 A 所列之規範中加入文字，附件 A 現在為參考性的對照表 ；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the terminal intended for connection to a neutral point of a network</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122358Z" creationid="CCYU" creationdate="20140919T122358Z">
+        <seg>用於連接到線路之中性點的端子</seg>
       </tuv>
     </tu>
     <tu>
