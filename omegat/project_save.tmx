@@ -25448,6 +25448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-03-09, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132714Z" creationid="CCYU" creationdate="20140919T132714Z">
+        <seg>[IEC 60050-421:1990, 421-03-09, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -25460,6 +25468,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140601Z" creationid="CCYU" creationdate="20140918T140601Z">
         <seg>具有兩個或多個繞組之固定裝置，藉由電磁感應原理，由一系統轉換交流電壓及電流至另一電壓和電流不同但頻率相同之系統中，以傳輸電力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a supplementary delta-connected winding provided in a star-star-connected or star-zigzag-connected transformer to decrease its zero-sequence impedance, see 3.7.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132709Z" creationid="CCYU" creationdate="20140919T132709Z">
+        <seg>於 Y-Y 連接或 Y-Z 連接變壓器中，用以減少其零序阻抗之附加三角連接繞組，請見 3.7.3</seg>
       </tuv>
     </tu>
     <tu>
