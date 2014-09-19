@@ -25096,6 +25096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123844Z" creationid="CCYU" creationdate="20140919T123844Z">
+        <seg>繞組 (Windings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With &lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; sensors, factory operators can control the temperature of their process, result­ing in significant energy and time savings, as well as increased safety, productivity and product quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T224541Z" creationid="JUDY" creationdate="20140826T224541Z">
@@ -25308,6 +25316,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
         <seg>[IEC 60050-421:1990, 421-01-16]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-02-03]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123828Z" creationid="CCYU" creationdate="20140919T123828Z">
+        <seg>[IEC 60050-421:1990, 421-02-03]</seg>
       </tuv>
     </tu>
     <tu>
@@ -27111,6 +27127,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092501Z" creationid="CCYU" creationdate="20140809T092501Z">
         <seg>white 白色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123847Z" creationid="CCYU" creationdate="20140919T123847Z">
+        <seg>繞組</seg>
       </tuv>
     </tu>
     <tu>
