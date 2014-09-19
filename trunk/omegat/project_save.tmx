@@ -13558,6 +13558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The term 'phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125334Z" creationid="CCYU" creationdate="20140919T125334Z">
+        <seg>註 '相繞組phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Where there is a need to express that a transformer is not auto-connected, use is made of terms such as separate winding transformer, or double-wound transformer (see IEC 60050-421:1990, 421-01-13).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141105Z" creationid="CCYU" creationdate="20140918T140753Z">
@@ -25376,6 +25384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-03-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125239Z" creationid="CCYU" creationdate="20140919T125239Z">
+        <seg>[IEC 60050-421:1990, 421-03-02, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26860,6 +26876,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124416Z" creationid="CCYU" creationdate="20140919T124416Z">
         <seg>由繞線組成並與變壓器指定電壓相關之電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the assembly of turns forming one phase of a three-phase winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125234Z" creationid="CCYU" creationdate="20140919T125234Z">
+        <seg>由繞線組成之單相或三相繞組</seg>
       </tuv>
     </tu>
     <tu>
