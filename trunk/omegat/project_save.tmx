@@ -13566,6 +13566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 For transformers having tappings, rated quantities are related to the principal tapping (see 3.5.2), unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T142517Z" creationid="CCYU" creationdate="20140919T142517Z">
+        <seg>註 1 對於具有抽頭之變壓器，除非另有說明，否則額定量的與主分接 (principal tapping) 相關 (請見 3.5.2)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
