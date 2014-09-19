@@ -25312,6 +25312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-02-03] 3.3 Windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123806Z" creationid="CCYU" creationdate="20140919T123806Z">
+        <seg>[IEC 60050-421:1990, 421-02-03] 3.3 Windings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[IEC 60050-421:1990, 421-01-01, modified]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140218Z" creationid="CCYU" creationdate="20140918T140218Z">
@@ -25684,6 +25692,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002929Z">
         <seg>適當的點膠工具中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>corresponding terminals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123610Z" creationid="CCYU" creationdate="20140919T123610Z">
+        <seg>對應端子 (corresponding terminals)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26768,6 +26784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>terminals of different windings of a transformer, marked with the same letter or corresponding symbol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123653Z" creationid="CCYU" creationdate="20140919T123653Z">
+        <seg>變壓器不同繞組之端子，以相同的字母或相對應的符號標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>testing transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z" creationid="CCYU" creationdate="20140918T125138Z">
@@ -26788,6 +26812,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z" creationid="CCYU" creationdate="20140918T143450Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the point of a symmetrical system of voltages which is normally at zero potential</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123548Z" creationid="CCYU" creationdate="20140919T123548Z">
+        <seg>電壓之對稱系統點，通常為零電位點</seg>
       </tuv>
     </tu>
     <tu>
