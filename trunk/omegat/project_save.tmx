@@ -25472,6 +25472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-03, modified] 3.4.6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155542Z" creationid="CCYU" creationdate="20140919T155542Z">
+        <seg>[IEC 60050-421:1990, 421-04-03, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-01-16]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
@@ -25556,6 +25564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133956Z" creationid="CCYU" creationdate="20140919T133956Z">
         <seg>[IEC 60050-421:1990, 421-03-12, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-04-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155443Z" creationid="CCYU" creationdate="20140919T155443Z">
+        <seg>[IEC 60050-421:1990, 421-04-02, 修改]</seg>
       </tuv>
     </tu>
     <tu>
@@ -26896,6 +26912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155448Z" creationid="CCYU" creationdate="20140919T155448Z">
+        <seg>額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rated quantities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134801Z" creationid="CCYU" creationdate="20140919T134801Z">
@@ -27208,6 +27232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the frequency at which the transformer is designed to operate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155507Z" creationid="CCYU" creationdate="20140919T155501Z">
+        <seg>變壓器設計之操作頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the highest r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z" creationid="CCYU" creationdate="20140918T143450Z">
@@ -27228,6 +27260,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123548Z" creationid="CCYU" creationdate="20140919T123548Z">
         <seg>電壓之對稱系統點，通常為零電位點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the ratio of the rated voltage of a winding to the rated voltage of another winding associated with a lower or equal rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155440Z" creationid="CCYU" creationdate="20140919T155440Z">
+        <seg>一繞組與另一額定電壓低於或相等之繞組的額定電壓比</seg>
       </tuv>
     </tu>
     <tu>
