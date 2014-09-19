@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60076-1 © IEC&lt;t0/&gt;: 2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131145Z" creationid="CCYU" creationdate="20140919T131145Z">
+        <seg>60076-1 © IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>62-65), the system of assessment and verification of constancy of performance (see Annex V&lt;t2/&gt; &lt;t3/&gt;and Article 65 Paragraph 2 to Regulation (EU) No 305/2011) given in the following table applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021854Z">
@@ -2543,6 +2551,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z" creationid="CCYU" creationdate="20140817T113845Z">
         <seg>每間倉庫少數的 20g 洩漏處理工具組是非常容易達到的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A further winding in the transformer, usually with lower value of rated power than the secondary winding, is then often referred to as 'tertiary winding', see also definition 3.3.8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131139Z" creationid="CCYU" creationdate="20140919T131139Z">
+        <seg>變壓器中額外的繞組，當額定功率小於二次繞組時通常被稱作 '三次繞組 (tertiary winding)'，請參閱定義 3.3.8。</seg>
       </tuv>
     </tu>
     <tu>
