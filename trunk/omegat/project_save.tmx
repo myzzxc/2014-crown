@@ -25472,6 +25472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-03, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155635Z" creationid="CCYU" creationdate="20140919T155635Z">
+        <seg>[IEC 60050-421:1990, 421-04-03, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-03, modified] 3.4.6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155542Z" creationid="CCYU" creationdate="20140919T155542Z">
@@ -26916,6 +26924,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155448Z" creationid="CCYU" creationdate="20140919T155448Z">
         <seg>額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155641Z" creationid="CCYU" creationdate="20140919T155641Z">
+        <seg>額定功率</seg>
       </tuv>
     </tu>
     <tu>
