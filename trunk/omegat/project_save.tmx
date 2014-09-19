@@ -25432,6 +25432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a winding in which the effective number of turns can be changed in steps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124953Z" creationid="CCYU" creationdate="20140919T124953Z">
+        <seg>有效匝數可分段調整之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) for three-phase transformers and three-phase banks of single-phase transformers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144124Z" creationid="CCYU" creationdate="20140918T144124Z">
@@ -26500,6 +26508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061546Z" creationid="MAE" creationdate="20140810T061546Z">
         <seg>完美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125029Z" creationid="CCYU" creationdate="20140919T125029Z">
+        <seg>相繞組 (phase winding)</seg>
       </tuv>
     </tu>
     <tu>
