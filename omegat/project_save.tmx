@@ -9686,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HV winding*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125705Z" creationid="CCYU" creationdate="20140919T125705Z">
+        <seg>HV 繞組*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammer drilling (HD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041853Z">
@@ -13560,8 +13568,8 @@
       <tuv lang="EN-US">
         <seg>NOTE The term 'phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125334Z" creationid="CCYU" creationdate="20140919T125334Z">
-        <seg>註 '相繞組phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z" creationid="CCYU" creationdate="20140919T125334Z">
+        <seg>註 '相繞組' 一詞不用於辨識所有線圈組上之特定相。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26148,6 +26156,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104026Z" creationid="Judy" creationdate="20140819T104026Z">
         <seg>換氣活塞高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125643Z" creationid="CCYU" creationdate="20140919T125643Z">
+        <seg>高壓繞組 (high-voltage winding)</seg>
       </tuv>
     </tu>
     <tu>
