@@ -26912,6 +26912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated voltage ratio</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155215Z" creationid="CCYU" creationdate="20140919T155215Z">
+        <seg>額定電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134154Z" creationid="CCYU" creationdate="20140919T134154Z">
