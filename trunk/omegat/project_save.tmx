@@ -26792,6 +26792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>quantities (voltage, current, etc.), the numerical values of which define the rating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134901Z" creationid="CCYU" creationdate="20140919T134901Z">
+        <seg>量值 (電壓、電流等)，定義額定值之數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>r&lt;t0/&gt; motto at &lt;t1/&gt;SaveSorb&lt;t2/&gt; is the basis of what we provide to our customers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T162614Z" creationid="CCYU" creationdate="20140816T162614Z">
@@ -26812,6 +26820,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021211Z">
         <seg>溫度範圍 Ｂ&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated quantities</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134801Z" creationid="CCYU" creationdate="20140919T134801Z">
+        <seg>額定量 (rated quantities)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27220,6 +27236,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173406Z" creationid="Judy" creationdate="20140818T173406Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>those numerical values assigned to the quantities which define the operation of the trans-former in the conditions specified in this part of IEC 60076 and on which the manufacturer's guar&lt;t0/&gt;antees and the tests are based.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134721Z" creationid="CCYU" creationdate="20140919T134721Z">
+        <seg>變壓器於 IEC 60076 此部份、製造商保證以及測試指定條件下操作時，所指定之數值量。</seg>
       </tuv>
     </tu>
     <tu>
