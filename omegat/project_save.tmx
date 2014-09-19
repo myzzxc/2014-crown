@@ -13582,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The rated voltages of all windings appear simultaneously at no-load when the voltage applied to one of them has its rated value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T150730Z" creationid="CCYU" creationdate="20140919T150730Z">
+        <seg>註 1 當電壓以額定值加載於其中一繞組時，所有繞組之空載額定電壓同時出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Voltages and currents are always expressed by their r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143114Z" creationid="CCYU" creationdate="20140919T143114Z">
