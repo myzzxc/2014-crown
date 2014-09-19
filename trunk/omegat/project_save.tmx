@@ -6173,6 +6173,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corresponding quantities with analogous meaning, related to other specific tappings, are called tapping quantities (see 3.5.9).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143005Z" creationid="CCYU" creationdate="20140919T143005Z">
+        <seg>與其他特定抽頭意義相似之對應量值稱為抽頭量 (請見 3.5.9)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Council Directive 96/82/EC on the control of major-accident hazards involving dangerous substances</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044932Z" creationid="MAE" creationdate="20140808T044932Z">
@@ -13570,6 +13578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T142517Z" creationid="CCYU" creationdate="20140919T142517Z">
         <seg>註 1 對於具有抽頭之變壓器，除非另有說明，否則額定量的與主分接 (principal tapping) 相關 (請見 3.5.2)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 Voltages and currents are always expressed by their r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143114Z" creationid="CCYU" creationdate="20140919T143114Z">
+        <seg>註 2 電壓與電流皆以其方均根 (r.m.s.) 表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26848,6 +26864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated voltage of a winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143219Z" creationid="CCYU" creationdate="20140919T143214Z">
+        <seg>繞組額定電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134154Z" creationid="CCYU" creationdate="20140919T134154Z">
@@ -27399,6 +27423,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z" creationid="CCYU" creationdate="20140809T030317Z">
         <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>values, unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143204Z" creationid="CCYU" creationdate="20140919T143204Z">
+        <seg>除非另有說明。</seg>
       </tuv>
     </tu>
     <tu>
