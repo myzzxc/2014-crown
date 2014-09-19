@@ -22689,8 +22689,8 @@
       <tuv lang="EN-US">
         <seg>These terms have no significance as to which of the windings has the higher rated voltage and should not be used except in the context of direction of active power flow (see IEC 60050-421:1990, 421-03-06 and 07).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130431Z" creationid="CCYU" creationdate="20140919T130431Z">
-        <seg>這些名詞條款沒有任何意義的繞組有較高的額定的電壓和不應在有功功率流動方向的上下文中使用除 (見 IEC 60050-421:1990，421-03-06 和 07)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130818Z" creationid="CCYU" creationdate="20140919T130431Z">
+        <seg>這些專有名詞不代表繞組有較高的額定電壓且不應該用於主動電流方向內文以外之處 (請見 IEC 60050-421:1990、421-03-06 和 07)。</seg>
       </tuv>
     </tu>
     <tu>
