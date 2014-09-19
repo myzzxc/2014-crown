@@ -25336,6 +25336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-03-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124424Z" creationid="CCYU" creationdate="20140919T124424Z">
+        <seg>[IEC 60050-421:1990, 421-03-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[IEC 60050-421:1990, 421-01-01, modified]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140218Z" creationid="CCYU" creationdate="20140918T140218Z">
@@ -26812,6 +26820,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z" creationid="CCYU" creationdate="20140918T125138Z">
         <seg>測試變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the assembly of turns forming an electrical circuit associated with one of the voltages assigned to the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124416Z" creationid="CCYU" creationdate="20140919T124416Z">
+        <seg>由繞線組成並與變壓器指定電壓相關之電路</seg>
       </tuv>
     </tu>
     <tu>
