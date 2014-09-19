@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60076-1 CD IEC&lt;t0/&gt;: 2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160458Z" creationid="CCYU" creationdate="20140919T160458Z">
+        <seg>60076-1 © IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60076-1 O IEC&lt;t0/&gt;: 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133535Z" creationid="CCYU" creationdate="20140918T133535Z">
@@ -13574,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 For a three-phase winding the rated current /r is given by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160449Z" creationid="CCYU" creationdate="20140919T160449Z">
+        <seg>註 1 三相繞組之額定電流 ir 為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For transformers having tappings, rated quantities are related to the principal tapping (see 3.5.2), unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T142517Z" creationid="CCYU" creationdate="20140919T142517Z">
@@ -13626,6 +13642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
         <seg>註 只有當繞組不用於三相連接至外部電路時才可稱為穩定繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Both windings of a two-winding transformer have the same rated power which by definition is the rated power of the whole transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160207Z" creationid="CCYU" creationdate="20140919T160207Z">
+        <seg>註 雙繞組變壓器之兩組繞組具有相同額定功率，此功率依定義為整組變壓器之額定功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25488,6 +25512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-05, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160346Z" creationid="CCYU" creationdate="20140919T160346Z">
+        <seg>[IEC 60050-421:1990, 421-04-05, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-01-16]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
@@ -26928,6 +26960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160211Z" creationid="CCYU" creationdate="20140919T160211Z">
+        <seg>額定電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rated frequency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155448Z" creationid="CCYU" creationdate="20140919T155448Z">
@@ -27244,6 +27284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133146Z" creationid="CCYU" creationdate="20140919T133146Z">
         <seg>自耦變壓器繞組之共用部份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the current flowing through a line terminal of a winding which is derived from rated power Sr and rated voltage Ur for the winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160335Z" creationid="CCYU" creationdate="20140919T160335Z">
+        <seg>通過繞組之線路端子的電流，由繞組之額定功率 Sr 和及額定電壓 Ur 求得</seg>
       </tuv>
     </tu>
     <tu>
