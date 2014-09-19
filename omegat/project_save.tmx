@@ -25464,6 +25464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-03-11, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133405Z" creationid="CCYU" creationdate="20140919T133405Z">
+        <seg>[IEC 60050-421:1990, 421-03-11, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26028,6 +26036,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015206Z">
         <seg>埋設深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energizing winding (of a series transformer)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133854Z" creationid="CCYU" creationdate="20140919T133854Z">
+        <seg>激發繞組 (串聯變壓器內)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26840,6 +26856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>series winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133209Z" creationid="CCYU" creationdate="20140919T133209Z">
+        <seg>串聯繞組 (series winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>short term temperature +80°C and max long term temperature +50°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
@@ -27052,6 +27076,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z" creationid="CCYU" creationdate="20140918T143450Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the part of the winding of an auto-transformer or the winding of a series transformer which is intended to be connected in series with a circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133400Z" creationid="CCYU" creationdate="20140919T133400Z">
+        <seg>自耦變壓器繞組或串聯變壓器繞組的一部分，用於串聯電路</seg>
       </tuv>
     </tu>
     <tu>
