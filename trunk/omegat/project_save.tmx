@@ -13614,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 4 For the series winding of a three-phase series transformer, which is designed as an open winding (see 3.10.5), the rated voltage is indicated as if the windings were connected in star.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151520Z" creationid="CCYU" creationdate="20140919T151520Z">
+        <seg>註 4 三相串聯變壓器之串聯繞組設計為開放繞組 (請見 3.10.5)，額定電壓為與星形 (Y) 連接相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
