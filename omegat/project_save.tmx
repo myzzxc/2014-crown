@@ -16407,6 +16407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134149Z" creationid="CCYU" creationdate="20140919T134149Z">
+        <seg>額定值 (Rating)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ratio IR thermometers allow accurate temperature measurement of parts often obscured by smoke, steam, and quench oil in an EMI environment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T023744Z" creationid="JUDY" creationdate="20140827T023744Z">
@@ -25472,6 +25480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-03-12, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133956Z" creationid="CCYU" creationdate="20140919T133956Z">
+        <seg>[IEC 60050-421:1990, 421-03-12, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -25676,6 +25692,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z" creationid="CCYU" creationdate="20140808T131551Z">
         <seg>arks 備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auto-connected windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134043Z" creationid="CCYU" creationdate="20140919T134043Z">
+        <seg>自藕繞組 (auto-connected windings)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26792,6 +26816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134154Z" creationid="CCYU" creationdate="20140919T134154Z">
+        <seg>額定值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reactors in general (IEC 60076-6);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132233Z" creationid="CCYU" creationdate="20140918T132233Z">
@@ -27104,6 +27136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the series and common windings of an auto-transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134122Z" creationid="CCYU" creationdate="20140919T134122Z">
+        <seg>自耦變壓器之串聯及共用繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the terminal intended for connection to a neutral point of a network</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122358Z" creationid="CCYU" creationdate="20140919T122358Z">
@@ -27140,6 +27180,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125817Z" creationid="CCYU" creationdate="20140919T125807Z">
         <seg>具有最低額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding of a series transformer which is intended to supply power to the series winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133952Z" creationid="CCYU" creationdate="20140919T133952Z">
+        <seg>串聯變壓器中供應電力至串聯繞組之繞組</seg>
       </tuv>
     </tu>
     <tu>
