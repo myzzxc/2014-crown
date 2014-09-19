@@ -13558,6 +13558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
+        <seg>註 只有當繞組不用於三相連接至外部電路時才可稱為穩定繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Contact between the liquid and external air may sometimes be diminished or prevented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142828Z" creationid="CCYU" creationdate="20140918T142828Z">
@@ -25792,6 +25800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>common winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133055Z" creationid="CCYU" creationdate="20140919T133055Z">
+        <seg>共用繞組 (common winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>components&lt;t0/&gt; of Cartesian coordinate system (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101440Z" creationid="Judy" creationdate="20140819T105243Z">
@@ -27012,6 +27028,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125234Z" creationid="CCYU" creationdate="20140919T125234Z">
         <seg>由繞線組成之單相或三相繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the common part of the windings of an auto-transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133146Z" creationid="CCYU" creationdate="20140919T133146Z">
+        <seg>自耦變壓器繞組之共用部份</seg>
       </tuv>
     </tu>
     <tu>
