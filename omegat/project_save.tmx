@@ -12398,6 +12398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LV winding*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125759Z" creationid="CCYU" creationdate="20140919T125759Z">
+        <seg>LV 繞組*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T031133Z" creationid="CCYU" creationdate="20140809T031133Z">
@@ -26328,6 +26336,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>low-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125753Z" creationid="CCYU" creationdate="20140919T125753Z">
+        <seg>低壓繞組 (low-voltage winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>magnesium</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165653Z" creationid="Judy" creationdate="20140818T165653Z">
@@ -26956,6 +26972,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142921Z" creationid="CCYU" creationdate="20140918T142921Z">
         <seg>買方於訂購時指定之數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding having the highest rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125719Z" creationid="CCYU" creationdate="20140919T125719Z">
+        <seg>具有最高額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding having the lowest rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125817Z" creationid="CCYU" creationdate="20140919T125807Z">
+        <seg>具有最低額定電壓之繞組</seg>
       </tuv>
     </tu>
     <tu>
