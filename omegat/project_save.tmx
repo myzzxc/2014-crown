@@ -25960,6 +25960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>conventional value of apparent power assigned to a winding which, together with the rated voltage of the winding, determines its rated current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155944Z" creationid="CCYU" creationdate="20140919T155944Z">
+        <seg>繞組指定之視在功率 (apparent power) 慣用值，依繞組額定電壓決定其額定電流值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>converter transformers for HVDC applications (IEC 61378-2)'.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132904Z" creationid="CCYU" creationdate="20140918T132851Z">
