@@ -25432,6 +25432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143742Z" creationid="CCYU" creationdate="20140919T143742Z">
+        <seg>[IEC 60050-421:1990, 421-04-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-01-16]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
@@ -27220,6 +27228,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142921Z" creationid="CCYU" creationdate="20140918T142921Z">
         <seg>買方於訂購時指定之數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or of a tapped winding connected on the principal tapping (see 3.5.2), for a three-phase winding it is the voltage between line terminals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143729Z" creationid="CCYU" creationdate="20140919T143729Z">
+        <seg>介於兩無抽頭繞組端子之間或連接至主分接之抽頭繞組 (請見 3.5.2) 指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
       </tuv>
     </tu>
     <tu>
