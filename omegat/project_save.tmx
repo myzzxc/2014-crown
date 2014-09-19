@@ -13590,10 +13590,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For single-phase transformers intended to be connected in star to form a three-phase bank or to be connected between the line and the neutral of a three phase system, the rated voltage is indicated as the phase-to-phase voltage, divided by &lt;t0/&gt;√3&lt;t1/&gt; for example 400/&lt;t2/&gt;√3&lt;t3/&gt; kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151204Z" creationid="CCYU" creationdate="20140919T151204Z">
+        <seg>註 2 單相變壓器以星形 (Y) 連接形成三相組合或連接三相系統之火線與中性線時，額定電壓為相間 (phase-to-phase) 除以 √3，例如 400/√3 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Voltages and currents are always expressed by their r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143114Z" creationid="CCYU" creationdate="20140919T143114Z">
         <seg>註 2 電壓與電流皆以其方均根 (r.m.s.) 表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 For single phase transformers intended to be connected between phases of a network, the rated vo&lt;t0/&gt;ltage is indicated as the phase-&lt;t1/&gt;to-phase voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151323Z" creationid="CCYU" creationdate="20140919T151323Z">
+        <seg>註 3 單相變壓器連接至線路各相時，額定電壓為相間電壓。</seg>
       </tuv>
     </tu>
     <tu>
