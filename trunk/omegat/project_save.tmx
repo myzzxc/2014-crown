@@ -13566,6 +13566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For a series transformer, the winding having the lower rated voltage may be that having the higher insulation level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131645Z" creationid="CCYU" creationdate="20140919T131645Z">
+        <seg>註 串聯變壓器之繞組具有較低的額定電壓具有較高的絕緣等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE For a three-phase transformer, the 'winding' is the combination of the phase windings (see 3.3.3).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124614Z" creationid="CCYU" creationdate="20140919T124614Z">
@@ -25504,6 +25512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a winding of a multi-winding transformer having a rated voltage intermediate between the highest and lowest winding rated voltages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131853Z" creationid="CCYU" creationdate="20140919T131853Z">
+        <seg>多繞組變壓器中，額定電壓介於最高與最低繞組額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) for three-phase transformers and three-phase banks of single-phase transformers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144124Z" creationid="CCYU" creationdate="20140918T144124Z">
@@ -26268,6 +26284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T124517Z" creationid="CCYU" creationdate="20140918T124517Z">
         <seg>儀用變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>intermediate-voltage winding*</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131701Z" creationid="CCYU" creationdate="20140919T131701Z">
+        <seg>中電壓繞組 (intermediate-voltage winding)*</seg>
       </tuv>
     </tu>
     <tu>
