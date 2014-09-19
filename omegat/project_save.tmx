@@ -13534,6 +13534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For a three-phase transformer, the 'winding' is the combination of the phase windings (see 3.3.3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124614Z" creationid="CCYU" creationdate="20140919T124614Z">
+        <seg>註 三相變壓器之 '繞組' 為相繞組之組合 (見 3.3.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Other terms use the meanings ascribed to them in the International Electrotechnical Vocabulary (IEV).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140116Z" creationid="CCYU" creationdate="20140918T140116Z">
@@ -26780,6 +26788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142712Z" creationid="CCYU" creationdate="20140918T142712Z">
         <seg>充液變壓器內之系統，可承受液體熱膨脹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapped winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124705Z" creationid="CCYU" creationdate="20140919T124705Z">
+        <seg>抽頭繞組 (tapped winding)</seg>
       </tuv>
     </tu>
     <tu>
