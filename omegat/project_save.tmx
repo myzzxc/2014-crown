@@ -2571,6 +2571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A combined load loss figure for the complete transformer is referred to a specified winding load combination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041006Z" creationid="CCYU" creationdate="20140920T040844Z">
+        <seg>特定繞組負載組合可參照完整變壓器之綜合負載損耗圖，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A computational ﬂuid dynamics study on the heat transfer characteristics of the working cycle of a low-temperature-differential &lt;t0/&gt;γ-type&lt;t1/&gt; Stirling engine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T203635Z" creationid="Judy" creationdate="20140818T203635Z">
@@ -11162,6 +11170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101155Z" creationid="CCYU" creationdate="20140809T101155Z">
         <seg>In consultation with the responsible local authority, must be subjected to special treatment. 向負責當局諮詢，必須進行特殊處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, it is usually not accessible for&lt;t2/&gt; direct measurement in testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041024Z" creationid="CCYU" creationdate="20140920T040946Z">
+        <seg>一般情況下，其值通常無法於測試中直接測量。</seg>
       </tuv>
     </tu>
     <tu>
