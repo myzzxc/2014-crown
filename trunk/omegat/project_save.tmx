@@ -13782,6 +13782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE While the rated voltage ratio is, by definition, at least equal to 1, the tapping voltage ratio can be lower than 1 for certain tappings when the rated voltage ratio is close to 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025050Z" creationid="CCYU" creationdate="20140920T025050Z">
+        <seg>註 依照定義，額定電壓比至少等於 1 時，對於某些特定抽頭之額定電壓接近 1 時，其抽頭電壓比可小於 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;Uninterrupted treatment should not&lt;t3/&gt; &lt;t4/&gt;last longer than&lt;t5/&gt; &lt;t6/&gt;15 minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T065833Z">
@@ -27420,6 +27428,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022517Z" creationid="CCYU" creationdate="20140920T022517Z">
         <seg>抽頭係數 (對應給定抽頭) 比：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping quantities</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025104Z" creationid="CCYU" creationdate="20140920T025104Z">
+        <seg>抽頭量 (tapping quantities)</seg>
       </tuv>
     </tu>
     <tu>
