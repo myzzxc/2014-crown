@@ -13654,6 +13654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 4 For open windings (see 3.1 0.5.) of a transformer, the rated current of the open windings is the rated&lt;t0/&gt; &lt;t1/&gt;power divided by the number of phases and by the rated voltage of the open winding:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020106Z" creationid="CCYU" creationdate="20140920T020106Z">
+        <seg>註 4 變壓器之開放繞組 (請見 3.1 0.5.)，繞組額定電流為額定功率除以相數以及開放繞組之額定電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 4 For the series winding of a three-phase series transformer, which is designed as an open winding (see 3.10.5), the rated voltage is indicated as if the windings were connected in star.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151520Z" creationid="CCYU" creationdate="20140919T151520Z">
@@ -20155,6 +20163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120220Z" creationid="CCYU" creationdate="20140817T080428Z">
         <seg>我們的產品非常適合用於油罐區，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tappings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020118Z" creationid="CCYU" creationdate="20140920T020118Z">
+        <seg>抽頭 (Tappings)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27244,6 +27260,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124705Z" creationid="CCYU" creationdate="20140919T124705Z">
         <seg>抽頭繞組 (tapped winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020124Z" creationid="CCYU" creationdate="20140920T020124Z">
+        <seg>抽頭</seg>
       </tuv>
     </tu>
     <tu>
