@@ -27304,6 +27304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping factor (corresponding to a given tapping) the ratio:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022517Z" creationid="CCYU" creationdate="20140920T022517Z">
+        <seg>抽頭係數 (對應給定抽頭) 比：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
@@ -27436,6 +27444,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134122Z" creationid="CCYU" creationdate="20140919T134122Z">
         <seg>自耦變壓器之串聯及共用繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the tapping to which the rated quantities are related</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022414Z" creationid="CCYU" creationdate="20140920T022414Z">
+        <seg>與額定量相關之抽頭</seg>
       </tuv>
     </tu>
     <tu>
