@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3.10 Connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054045Z" creationid="CCYU" creationdate="20140920T054045Z">
+        <seg>3.10 連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3.2.1 fischer FIS EM Adhesive:&lt;t0/&gt; fischer FIS EM Adhesive is an injectable, epoxy adhesive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T131131Z">
@@ -9221,6 +9229,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For terms and definitions relating to insulation, see IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054035Z" creationid="CCYU" creationdate="20140920T054035Z">
+        <seg>絕緣相關詞彙和定義請參閱 IEC 60076-3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For test results please see attachments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065428Z" creationid="MAE" creationdate="20140810T065428Z">
@@ -12106,6 +12122,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082421Z" creationid="CCYU" creationdate="20140817T082421Z">
         <seg>於廢油區安裝吸收墊系統作為地板避免地板油膩並吸收大量未倒入油桶的廢油。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054007Z" creationid="CCYU" creationdate="20140920T054007Z">
+        <seg>絕緣</seg>
       </tuv>
     </tu>
     <tu>
@@ -21439,6 +21463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference between the temperature of the part under consideration and the temperature of the external cooling medium (see IEC 60076-2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053935Z" creationid="CCYU" creationdate="20140920T053935Z">
+        <seg>關注部分之溫度和外部冷卻介質溫度之差異 (請見 IEC 60076-2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different results of six algorithms of peak detection provided from PIV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025011Z" creationid="CCYU" creationdate="20140914T024821Z">
@@ -26048,6 +26080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-08-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054003Z" creationid="CCYU" creationdate="20140920T054003Z">
+        <seg>[IEC 60050-421:1990, 421-08-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -27804,6 +27844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132236Z" creationid="CCYU" creationdate="20140919T132236Z">
         <seg>穩定繞組 (stabilizing winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>star connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054054Z" creationid="CCYU" creationdate="20140920T054054Z">
+        <seg>星型連接 (Y)</seg>
       </tuv>
     </tu>
     <tu>
