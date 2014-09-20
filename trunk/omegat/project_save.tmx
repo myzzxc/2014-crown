@@ -13726,6 +13726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For series transformers, the tapping factor is the ratio of the voltage of the series winding corresponding to a given tapping to Ur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023326Z" creationid="CCYU" creationdate="20140920T023326Z">
+        <seg>註 串聯變壓器中抽頭係數為串聯繞組對給定抽頭 Ur 之電壓比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE One of the tappings is the principal tapping, and other tappings are described in relation to the principal tapping by their respective tapping factors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022012Z" creationid="CCYU" creationdate="20140920T022012Z">
@@ -25688,6 +25696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-05-03, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023332Z" creationid="CCYU" creationdate="20140920T023332Z">
+        <seg>[IEC 60050-421:1990, 421-05-03, 修改]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26612,6 +26628,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022853Z" creationid="CCYU" creationdate="20140920T022853Z">
         <seg>為繞組額定電壓 (請見 3.4.3)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the voltage which would be developed at no-load at the terminals of the winding, at the tapping concerned, by applying rated voltage to an untapped winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023156Z" creationid="CCYU" creationdate="20140920T023156Z">
+        <seg>為具有抽頭之繞組空載時通入額定電壓至未抽頭繞組之端子電壓</seg>
       </tuv>
     </tu>
     <tu>
