@@ -26008,6 +26008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-07-04, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T052754Z" creationid="CCYU" creationdate="20140920T052754Z">
+        <seg>[IEC 60050-421:1990, 421-07-04, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -28028,6 +28036,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z" creationid="CCYU" creationdate="20140918T143450Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the impedance, expressed in ohms per phase at rated frequency, between the line terminals of a three-phase star-connected or zigzag-connected winding, connected together, and its neutral terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T052746Z" creationid="CCYU" creationdate="20140920T052746Z">
+        <seg>於額定頻率下三相星形 (Y) 連接或 Z 連接繞組之線路端子與中性端子相連接之阻抗，以歐姆每相表示</seg>
       </tuv>
     </tu>
     <tu>
