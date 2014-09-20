@@ -13774,6 +13774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 The zero-sequence impedance may be dependent on the value of the current and the temperature, particularly in transformers without any delta-connected winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053354Z" creationid="CCYU" creationdate="20140920T053354Z">
+        <seg>註 2 零序阻抗受電流與溫度值影響，特別是無任何三角連接繞組之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 This quantity can be expressed in relative, dimensionless form, as a fraction z, of the reference impedance Zref, of the same winding of the pair.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044244Z" creationid="CCYU" creationdate="20140920T044244Z">
