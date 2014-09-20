@@ -12694,6 +12694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Losses and no-load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034524Z" creationid="CCYU" creationdate="20140920T034301Z">
+        <seg>損耗和空載電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lot number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
@@ -13654,6 +13662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 This voltage will normally be limited to 105 % of the rated tapping voltage unless a higher voltage is required by the purchaser's specification of the tapping (see 6.4) either explicitly or as a result of a specification according to 6.4.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034249Z" creationid="CCYU" creationdate="20140920T034249Z">
+        <seg>註 2 通常此電壓限制為額定抽頭電壓之 105 %，除非客戶要求較高的抽頭電壓規格 (請見 6.4)，規格需明確符合 6.4.2 規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Voltages and currents are always expressed by their r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143114Z" creationid="CCYU" creationdate="20140919T143114Z">
@@ -13794,6 +13810,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z" creationid="CCYU" creationdate="20140919T125334Z">
         <seg>註 '相繞組' 一詞不用於辨識所有線圈組上之特定相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The values are related to the principal tapping (see 3.5.2), unless another tapping is specifically stated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034444Z" creationid="CCYU" creationdate="20140920T034444Z">
+        <seg>註 除非有特別說明其他抽頭，否則此數值代表主抽頭 (請見 3.5.2)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27020,6 +27044,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165702Z" creationid="Judy" creationdate="20140818T165702Z">
         <seg>氮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no-load loss</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034521Z" creationid="CCYU" creationdate="20140920T034521Z">
+        <seg>空載損耗</seg>
       </tuv>
     </tu>
     <tu>
