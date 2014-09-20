@@ -28555,6 +28555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>zero-sequence impedance (of a three-phase winding)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T051725Z" creationid="CCYU" creationdate="20140920T051725Z">
+        <seg>(三項繞組) 零序阻抗 (zero-sequence impedance)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>zinc</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165655Z" creationid="Judy" creationdate="20140818T165655Z">
