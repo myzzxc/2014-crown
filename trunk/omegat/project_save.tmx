@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(tapping factor) or 100&lt;t0/&gt; (tapping factor expressed as a percentage)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022727Z" creationid="CCYU" creationdate="20140920T022727Z">
+        <seg>(抽頭係數) 或 100 (tapping factor expressed as a percentage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*** Carcinogenicity***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100212Z" creationid="CCYU" creationdate="20140809T100212Z">
