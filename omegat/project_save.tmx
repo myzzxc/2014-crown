@@ -25872,6 +25872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z-connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055528Z" creationid="CCYU" creationdate="20140920T055528Z">
+        <seg>Z-連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[12&lt;t2/&gt;,13&lt;t3/&gt;], where the engine was experimentally studied and numerically analyzed by an improved variant of the second-order model.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112352Z" creationid="Judy" creationdate="20140819T112252Z">
@@ -28304,6 +28312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the winding connection in which the phase windings of a three-phase transformer, or the windings for the same rated voltage of single-phase transformers associated in a three-phase bank, are connected in series without closing one corner of the delta</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055427Z" creationid="CCYU" creationdate="20140920T055427Z">
+        <seg>三相變壓器中每相繞組、或三項組合之單相變壓器每組相同額定電壓之繞組串聯但三角中一角開路未連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the winding connection so arranged that each of the phase windings of a three-phase transformer, or of each of the windings for the same rated voltage of single-phase transformers associated in a three-phase bank, is connected to a common point (the neutral point) and the other end to its appropriate line terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054827Z" creationid="CCYU" creationdate="20140920T054827Z">
@@ -28719,6 +28735,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T051725Z" creationid="CCYU" creationdate="20140920T051725Z">
         <seg>(三項繞組) 零序阻抗 (zero-sequence impedance)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zigzag connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055523Z" creationid="CCYU" creationdate="20140920T055523Z">
+        <seg>交錯連接</seg>
       </tuv>
     </tu>
     <tu>
