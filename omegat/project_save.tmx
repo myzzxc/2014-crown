@@ -27736,6 +27736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the absorbed active power at a rated frequency and reference temperature (see 11.1), associated with a pair of windings when rated current (tapping current) is flowing through the line terminals of one of the windings, and the terminals of the other winding are short-circuited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040129Z" creationid="CCYU" creationdate="20140920T040120Z">
+        <seg>雙繞組於額定頻率及參考溫度 (請見 11.1) 下，額定電流 (抽頭電流) 流經其中一繞組端子、而其他繞組端子短路時消耗之主動功率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the active power absorbed when a rated voltage (tapping voltage) at a rated frequency is applied to the terminals of one of the windings, the other winding or windings being open-circuited</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035324Z" creationid="CCYU" creationdate="20140920T035017Z">
