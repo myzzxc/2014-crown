@@ -13734,6 +13734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE If this factor ranges from 100 + a to 100 &lt;t0/&gt;-&lt;t1/&gt; b, the tapping range is said to be: +a %, &lt;t2/&gt;-&lt;t3/&gt;b % or ±a %, if a = b.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024241Z" creationid="CCYU" creationdate="20140920T024241Z">
+        <seg>NOTE 若此係數範圍由 100 + a 至 100 - b，則抽頭範圍為：+a %、-b % 或當 a = b 時為 ±a %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE One of the tappings is the principal tapping, and other tappings are described in relation to the principal tapping by their respective tapping factors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023821Z" creationid="CCYU" creationdate="20140920T022012Z">
@@ -27580,6 +27588,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142921Z" creationid="CCYU" creationdate="20140918T142921Z">
         <seg>買方於訂購時指定之數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the variation range of the tapping factor, expressed, as a percentage, compared with the value '100'</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024100Z" creationid="CCYU" creationdate="20140920T024100Z">
+        <seg>抽頭係數相對 '100' 之變異範圍，以百分比表示</seg>
       </tuv>
     </tu>
     <tu>
