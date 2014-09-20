@@ -13766,6 +13766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Tapping quantities exist for any winding in 'the transformer, not only for the tapped winding (see 6.2 and 6.3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025452Z" creationid="CCYU" creationdate="20140920T025452Z">
+        <seg>註 抽頭量適用於所有變壓器之繞組，不僅限於抽頭繞組 (請見 6.2 和 6.3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The term 'phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z" creationid="CCYU" creationdate="20140919T125334Z">
@@ -22343,6 +22351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tapping quantities are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025512Z" creationid="CCYU" creationdate="20140920T025512Z">
+        <seg>抽頭量包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature contours in Fig. 8(a) &lt;t0/&gt;show&lt;t1/&gt; that the core temperature in the compression chamber reaches 330.0 K due the compression process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093431Z" creationid="Judy" creationdate="20140823T093431Z">
@@ -27456,6 +27472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping voltage (analogous to rated voltage, 3.4.3);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025540Z" creationid="CCYU" creationdate="20140920T025540Z">
+        <seg>抽頭電壓 (類似額定電壓，3.4.3)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tapping voltage ratio (of a pair of windings)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024325Z" creationid="CCYU" creationdate="20140920T024325Z">
@@ -27724,6 +27748,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134721Z" creationid="CCYU" creationdate="20140919T134721Z">
         <seg>變壓器於 IEC 60076 此部份、製造商保證以及測試指定條件下操作時，所指定之數值量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>those quantities the numerical values of which define the duty of a particular tapping (other than the principal tapping)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025319Z" creationid="CCYU" creationdate="20140920T025319Z">
+        <seg>定義 (主抽頭以外之) 特定抽頭負載量的數值</seg>
       </tuv>
     </tu>
     <tu>
