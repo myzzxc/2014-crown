@@ -25712,6 +25712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-05-081</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024654Z" creationid="CCYU" creationdate="20140920T024654Z">
+        <seg>[IEC 60050-421:1990, 421-05-081]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26204,6 +26212,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092451Z" creationid="CCYU" creationdate="20140809T092451Z">
         <seg>dispersion 分散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>divided by the tapping factor of the tapped winding if this is the low-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024646Z" creationid="CCYU" creationdate="20140920T024646Z">
+        <seg>若為低壓繞組則除以抽頭繞組之抽頭係數。</seg>
       </tuv>
     </tu>
     <tu>
