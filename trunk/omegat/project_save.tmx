@@ -18615,6 +18615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short-circuit impedance and voltage drop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043045Z" creationid="CCYU" creationdate="20140920T043045Z">
+        <seg>短路阻抗和電壓降</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short-term (less than 48-hour) temperature variations during adhesive storage are permitted as long as the temperature remains between 41°F and 104°F (5°C and 40°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134734Z">
@@ -27556,6 +27564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
         <seg>(短期最高溫度 +80°C，長期最高溫度 +50°C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>short-circuit impedance of a pair of windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043058Z" creationid="CCYU" creationdate="20140920T043058Z">
+        <seg>雙繞組之短路阻抗</seg>
       </tuv>
     </tu>
     <tu>
