@@ -13742,6 +13742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 When the windings of the pair have different rated power values, the load loss is referred to rated current in the winding with the lower rated power and the reference power should be mentioned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041616Z" creationid="CCYU" creationdate="20140920T041616Z">
+        <seg>註 2 當一對繞組間有不同額定功率值時，負載損耗值參考較低功率之繞組的額定電流，且必須說明參考功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For a single phase transformer not intended to be connected to form a three phase bank, the rated current is</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015704Z" creationid="CCYU" creationdate="20140920T015704Z">
@@ -28111,6 +28119,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132117Z" creationid="CCYU" creationdate="20140807T132117Z">
         <seg>total &lt;t0/&gt;vapour&lt;t1/&gt; and particulates 總蒸汽量與微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total losses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041627Z" creationid="CCYU" creationdate="20140920T041627Z">
+        <seg>總損耗</seg>
       </tuv>
     </tu>
     <tu>
