@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(tapping factor) or &lt;t0/&gt; (tapping factor expressed as a percentage)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022825Z" creationid="CCYU" creationdate="20140920T022825Z">
+        <seg>(抽頭係數) 或 &lt;t0/&gt; (抽頭係數百分比)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*** Carcinogenicity***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100212Z" creationid="CCYU" creationdate="20140809T100212Z">
@@ -26596,6 +26604,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165659Z" creationid="Judy" creationdate="20140818T165659Z">
         <seg>鐵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the rated voltage of the winding (see 3.4.3);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022853Z" creationid="CCYU" creationdate="20140920T022853Z">
+        <seg>為繞組額定電壓 (請見 3.4.3)；</seg>
       </tuv>
     </tu>
     <tu>
