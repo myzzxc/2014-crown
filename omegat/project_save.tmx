@@ -28363,6 +28363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>voltage drop or rise for .a specified load condition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050006Z" creationid="CCYU" creationdate="20140920T045949Z">
+        <seg>指定負載條件下之電壓降或電壓升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>volume&lt;t0/&gt; (m3)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105121Z" creationid="Judy" creationdate="20140819T105121Z">
