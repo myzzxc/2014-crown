@@ -27920,6 +27920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the sum of the no-load loss and the load loss</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041742Z" creationid="CCYU" creationdate="20140920T041742Z">
+        <seg>空載損耗和負載損耗總和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the tapping to which the rated quantities are related</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022414Z" creationid="CCYU" creationdate="20140920T022414Z">
