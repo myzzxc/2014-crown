@@ -13734,6 +13734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The zero-sequence impedance may have several values because it depends on how the terminals of the other winding or windings are connected and loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053146Z" creationid="CCYU" creationdate="20140920T053146Z">
+        <seg>註 1 零序阻抗可能有多組數值，因為它取決於其他繞組端子如何連接或繞組連接及負載方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 This voltage is limited by Um.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033927Z" creationid="CCYU" creationdate="20140920T033927Z">
