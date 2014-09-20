@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60076-1 © IEC:&lt;t0/&gt; &lt;t1/&gt;2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025916Z" creationid="CCYU" creationdate="20140920T025916Z">
+        <seg>60076-1 © IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60076-1 © IEC&lt;t0/&gt;: 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131145Z" creationid="CCYU" creationdate="20140919T131145Z">
@@ -25632,6 +25640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-05-15]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025913Z" creationid="CCYU" creationdate="20140920T025913Z">
+        <seg>[IEC 60050-421:1990, 421-05-15]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[I&lt;t0/&gt;EC 60050-421:1990, 421-01-16]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142151Z" creationid="CCYU" creationdate="20140918T142151Z">
@@ -25796,6 +25812,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025811Z" creationid="CCYU" creationdate="20140920T025811Z">
         <seg>抽頭功率等於額定功率之抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a tapping whose tapping power is lower than the rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025906Z" creationid="CCYU" creationdate="20140920T025906Z">
+        <seg>抽頭功率小於額定功率之抽頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -27260,6 +27284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141553Z" creationid="CCYU" creationdate="20140917T141553Z">
         <seg>重新確認，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reduced-power tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025853Z" creationid="CCYU" creationdate="20140920T025853Z">
+        <seg>降低功率抽頭 (reduced-power tapping)</seg>
       </tuv>
     </tu>
     <tu>
