@@ -8901,6 +8901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a multi-winding transformer, this percentage is referred to the winding with the highest rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035740Z" creationid="CCYU" creationdate="20140920T035740Z">
+        <seg>對於多繞組變壓器，此百分比依最高額定功率之繞組而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For adhesive anchors that will remain untorqued, ACI 318 D.8.4 applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093526Z">
@@ -13666,6 +13674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151204Z" creationid="CCYU" creationdate="20140919T151204Z">
         <seg>註 2 單相變壓器以星形 (Y) 連接形成三相組合或連接三相系統之火線與中性線時，額定電壓為相間 (phase-to-phase) 除以 √3，例如 400/√3 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 The no-load current of a winding is often expressed as a percentage of the rated current of that winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z" creationid="CCYU" creationdate="20140920T035610Z">
+        <seg>註 2 繞組空載電流通常以繞組額定電流之百分比表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25816,6 +25832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-06-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035748Z" creationid="CCYU" creationdate="20140920T035748Z">
+        <seg>[IEC 60050-421:1990, 421-06-02, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26900,6 +26924,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142006Z" creationid="CCYU" creationdate="20140918T142006Z">
         <seg>油浸式變壓器 (liquid-immersed type transformer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>load loss</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035753Z" creationid="CCYU" creationdate="20140920T035753Z">
+        <seg>負載損耗</seg>
       </tuv>
     </tu>
     <tu>
