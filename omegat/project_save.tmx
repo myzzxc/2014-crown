@@ -12334,6 +12334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is normally expressed as a percentage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045208Z" creationid="CCYU" creationdate="20140920T045208Z">
+        <seg>通常以百分比表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not allowed to move the bar after &lt;t2/&gt;geling&lt;t3/&gt; time to has elapsed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084754Z">
@@ -23367,6 +23375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This applied voltage is referred to as the short-circuit voltage (IEC 60050-421:1990, 421-07-01) of the pair of windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045210Z" creationid="CCYU" creationdate="20140920T045155Z">
+        <seg>此施加電壓為雙繞組之短路電壓 (IEC 60050-421:1990, 421-07-01) ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This approach&lt;t11/&gt; has the advantage that it does not alter any of the pixel values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080614Z" creationid="CCYU" creationdate="20140913T080614Z">
@@ -25956,6 +25972,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T042121Z" creationid="CCYU" creationdate="20140920T042121Z">
         <seg>[IEC 60050-421:1990, 421-06-05, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-07-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045217Z" creationid="CCYU" creationdate="20140920T045217Z">
+        <seg>[IEC 60050-421:1990, 421-07-02, 修訂]</seg>
       </tuv>
     </tu>
     <tu>
