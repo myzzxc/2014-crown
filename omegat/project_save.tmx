@@ -25722,16 +25722,16 @@
       <tuv lang="EN-US">
         <seg>[IEC 60050-421:1990, 421-04-02, modified]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155443Z" creationid="CCYU" creationdate="20140919T155443Z">
-        <seg>[IEC 60050-421:1990, 421-04-02, 修改]</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025649Z" creationid="CCYU" creationdate="20140919T155443Z">
+        <seg>[IEC 60050-421:1990, 421-04-02, 修訂]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[IEC 60050-421:1990, 421-05-03, modified]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023332Z" creationid="CCYU" creationdate="20140920T023332Z">
-        <seg>[IEC 60050-421:1990, 421-05-03, 修改]</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025712Z" creationid="CCYU" creationdate="20140920T023332Z">
+        <seg>[IEC 60050-421:1990, 421-05-03, 修訂]</seg>
       </tuv>
     </tu>
     <tu>
@@ -25740,6 +25740,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024654Z" creationid="CCYU" creationdate="20140920T024654Z">
         <seg>[IEC 60050-421:1990, 421-05-081]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-05-10, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025634Z" creationid="CCYU" creationdate="20140920T025634Z">
+        <seg>[IEC 60050-421:1990, 421-05-10, 修訂]</seg>
       </tuv>
     </tu>
     <tu>
@@ -25780,6 +25788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023528Z" creationid="CCYU" creationdate="20140920T023528Z">
         <seg>抽頭係數小於 1 之抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a tapping whose tapping power is equal to the rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025811Z" creationid="CCYU" creationdate="20140920T025811Z">
+        <seg>抽頭功率等於額定功率之抽頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -26492,6 +26508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043544Z" creationid="MAE" creationdate="20140727T043544Z">
         <seg>灌注之鑽孔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>full-power tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025736Z" creationid="CCYU" creationdate="20140920T025736Z">
+        <seg>全功率抽頭 (full-power tapping)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27440,10 +27464,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping current (analogous to rated current, 3.4.7).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025616Z" creationid="CCYU" creationdate="20140920T025616Z">
+        <seg>抽頭電流 (類似額定電流，3.4.7)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tapping factor (corresponding to a given tapping) the ratio:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022517Z" creationid="CCYU" creationdate="20140920T022517Z">
         <seg>抽頭係數 (對應給定抽頭) 比：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping power (analogous to rated power, 3.4.6);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025601Z" creationid="CCYU" creationdate="20140920T025601Z">
+        <seg>抽頭功率 (類似額定功率，3.4.6)；</seg>
       </tuv>
     </tu>
     <tu>
