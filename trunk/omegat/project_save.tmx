@@ -13686,6 +13686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 In a transformer having a tapped winding, the short-circuit impedance is referred to a particular tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043908Z" creationid="CCYU" creationdate="20140920T043908Z">
+        <seg>註 1 具有抽頭繞組之變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The rated voltages of all windings appear simultaneously at no-load when the voltage applied to one of them has its rated value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T150730Z" creationid="CCYU" creationdate="20140919T150730Z">
@@ -27868,6 +27876,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023946Z" creationid="CCYU" creationdate="20140920T023946Z">
         <seg>抽頭係數或相鄰抽頭之間的差異，以百分比表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the equivalent series impedance Z = R + jX, in ohms, at rated frequency and reference temperature, across the terminals of one winding of a pair, when the terminals of the other winding are short-circuited and further windings, if existing, are open-circuited: for a three-phase transformer the impedance is expressed as phase impedance (equivalent star connection)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043721Z" creationid="CCYU" creationdate="20140920T043721Z">
+        <seg>於額定頻率及參考溫度下，兩繞組端子間之等效串聯阻抗 Z = R + jX (單位為歐姆)，當另一繞組為短路而其他繞組 (若存在) 為開路：三相變壓器之阻抗以相阻抗表示 (等效星形連接)</seg>
       </tuv>
     </tu>
     <tu>
