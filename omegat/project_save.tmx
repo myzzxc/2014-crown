@@ -26856,6 +26856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>multiplied by the tapping factor of the tapped winding if this is the high-voltage winding;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024559Z" creationid="CCYU" creationdate="20140920T024559Z">
+        <seg>若為高壓繞組則乘以抽頭繞組之抽頭係數；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122423Z" creationid="CCYU" creationdate="20140919T122423Z">
@@ -27416,6 +27424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping voltage ratio (of a pair of windings)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024325Z" creationid="CCYU" creationdate="20140920T024325Z">
+        <seg>(雙繞組之) 抽頭電壓比 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
@@ -27540,6 +27556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155440Z" creationid="CCYU" creationdate="20140919T155440Z">
         <seg>一繞組與另一額定電壓低於或相等之繞組的額定電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the ratio which is equal to the rated voltage ratio:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024435Z" creationid="CCYU" creationdate="20140920T024435Z">
+        <seg>相等於額定電壓比之比率：</seg>
       </tuv>
     </tu>
     <tu>
