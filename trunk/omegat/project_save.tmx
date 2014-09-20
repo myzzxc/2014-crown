@@ -8903,8 +8903,8 @@
       <tuv lang="EN-US">
         <seg>For a multi-winding transformer, there are several values of load loss corresponding to the different two-winding&lt;t0/&gt; combinations (see Clause 7 of I&lt;t1/&gt;EC 60076-8:1997).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040341Z" creationid="CCYU" creationdate="20140920T040341Z">
-        <seg>多繞組變壓器有多種負載損耗，此百分比依最高額定功率之繞組而定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040533Z" creationid="CCYU" creationdate="20140920T040341Z">
+        <seg>多繞組變壓器有多組對應至不同雙繞組組合之負載損耗數值 (請見 IEC 60076-8:1997 第 7 條款)。</seg>
       </tuv>
     </tu>
     <tu>
