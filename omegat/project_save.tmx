@@ -13606,6 +13606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For single-phase transformer windings intended to be connected in delta to form a three-phase bank, the rated current is indicated as line current divided by -NE,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015553Z" creationid="CCYU" creationdate="20140920T015545Z">
+        <seg>註 2 單相變壓器繞組以星形 (Y) 連接形成三相組合時，額定電流為線路電流除以√3，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 For single-phase transformers intended to be connected in star to form a three-phase bank or to be connected between the line and the neutral of a three phase system, the rated voltage is indicated as the phase-to-phase voltage, divided by &lt;t0/&gt;√3&lt;t1/&gt; for example 400/&lt;t2/&gt;√3&lt;t3/&gt; kV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151204Z" creationid="CCYU" creationdate="20140919T151204Z">
@@ -13618,6 +13626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143114Z" creationid="CCYU" creationdate="20140919T143114Z">
         <seg>註 2 電壓與電流皆以其方均根 (r.m.s.) 表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 For a single phase transformer not intended to be connected to form a three phase bank, the rated current is</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015704Z" creationid="CCYU" creationdate="20140920T015704Z">
+        <seg>註 3 單相變壓器未連接成三相組合時，額定電流為</seg>
       </tuv>
     </tu>
     <tu>
