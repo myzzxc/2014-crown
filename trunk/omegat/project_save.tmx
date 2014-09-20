@@ -13630,6 +13630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 This voltage is limited by Um.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033927Z" creationid="CCYU" creationdate="20140920T033927Z">
+        <seg>註 1 此電壓受 Um 限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 For single-phase transformer windings intended to be connected in delta to form a three-phase bank, the rated current is indicated as line current divided by -NE,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015553Z" creationid="CCYU" creationdate="20140920T015545Z">
@@ -27796,6 +27804,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023810Z" creationid="CCYU" creationdate="20140919T143729Z">
         <seg>介於兩無抽頭繞組端子之間或連接至主抽頭之抽頭繞組 (請見 3.5.2) 指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the voltage at rated frequency a transformer is designed to withstand continuously without damage at any particular tap position at the relevant tapping power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033905Z" creationid="CCYU" creationdate="20140920T033905Z">
+        <seg>變壓器於額定頻率下，設計可於所有特定抽頭位置及其抽頭功率下連續使用不損壞之電壓</seg>
       </tuv>
     </tu>
     <tu>
