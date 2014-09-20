@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60076-1 0 IEC&lt;t0/&gt;: 2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050812Z" creationid="CCYU" creationdate="20140920T050812Z">
+        <seg>60076-1 © IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>60076-1 CD IEC&lt;t0/&gt;: 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160458Z" creationid="CCYU" creationdate="20140919T160458Z">
@@ -13866,6 +13874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124614Z" creationid="CCYU" creationdate="20140919T124614Z">
         <seg>註 三相變壓器之 '繞組' 為相繞組之組合 (見 3.3.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE For multi-winding transformers, the voltage drop or rise depends not only on the load and power factor of the winding itself, but also on the load and power factor of the other windings (see IEC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050807Z" creationid="CCYU" creationdate="20140920T050807Z">
+        <seg>註 多繞組變壓器之電壓降與電壓升不僅取決於繞組本身之負載和功率因子，同時也取決於其他繞組之負載和功率因子 (請見 IEC 60076-8)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28575,6 +28591,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135541Z" creationid="CCYU" creationdate="20140917T135541Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>— 17</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050818Z" creationid="CCYU" creationdate="20140920T050818Z">
+        <seg>— 17 —</seg>
       </tuv>
     </tu>
     <tu>
