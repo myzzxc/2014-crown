@@ -10360,8 +10360,8 @@
       <tuv lang="EN-US">
         <seg>IEC 60214-1:2003, Tap-changers — Part 1: Performance requirements and test methods</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135624Z" creationid="CCYU" creationdate="20140918T135013Z">
-        <seg>IEC 60214-1: 2003，分接開關 — 第 1 部分：性能規範和測試方法</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023712Z" creationid="CCYU" creationdate="20140918T135013Z">
+        <seg>IEC 60214-1: 2003，抽頭開關 — 第 1 部分：性能規範和測試方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -13608,8 +13608,8 @@
       <tuv lang="EN-US">
         <seg>NOTE 1 For transformers having tappings, rated quantities are related to the principal tapping (see 3.5.2), unless otherwise specified.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T142517Z" creationid="CCYU" creationdate="20140919T142517Z">
-        <seg>註 1 對於具有抽頭之變壓器，除非另有說明，否則額定量的與主分接 (principal tapping) 相關 (請見 3.5.2)，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023757Z" creationid="CCYU" creationdate="20140919T142517Z">
+        <seg>註 1 對於具有抽頭之變壓器，除非另有說明，否則與額定量的與主抽頭 (principal tapping) 相關 (請見 3.5.2)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13736,8 +13736,8 @@
       <tuv lang="EN-US">
         <seg>NOTE One of the tappings is the principal tapping, and other tappings are described in relation to the principal tapping by their respective tapping factors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022012Z" creationid="CCYU" creationdate="20140920T022012Z">
-        <seg>註 其中一抽頭為主分接，其他抽頭與主分接之間的關係依個別抽頭係數而定，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023821Z" creationid="CCYU" creationdate="20140920T022012Z">
+        <seg>註 其中一抽頭為主抽頭，其他抽頭與主抽頭之間的關係依個別抽頭係數而定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27058,8 +27058,8 @@
       <tuv lang="EN-US">
         <seg>principal tapping</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022339Z" creationid="CCYU" creationdate="20140920T022339Z">
-        <seg>主分接 (principal tapping)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023824Z" creationid="CCYU" creationdate="20140920T022339Z">
+        <seg>主抽頭 (principal tapping)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27392,6 +27392,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024000Z" creationid="CCYU" creationdate="20140920T024000Z">
+        <seg>抽頭範圍 (tapping range)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping step</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023703Z" creationid="CCYU" creationdate="20140920T023703Z">
+        <seg>抽頭級 (tapping step)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
@@ -27460,6 +27476,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160335Z" creationid="CCYU" creationdate="20140919T160335Z">
         <seg>通過繞組之線路端子的電流，由繞組之額定功率 Sr 和及額定電壓 Ur 求得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the difference between the tapping factors, expressed as a percentage, of two adjacent tappings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023946Z" creationid="CCYU" creationdate="20140920T023946Z">
+        <seg>抽頭係數或相鄰抽頭之間的差異，以百分比表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27562,8 +27586,8 @@
       <tuv lang="EN-US">
         <seg>the voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or of a tapped winding connected on the principal tapping (see 3.5.2), for a three-phase winding it is the voltage between line terminals</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143729Z" creationid="CCYU" creationdate="20140919T143729Z">
-        <seg>介於兩無抽頭繞組端子之間或連接至主分接之抽頭繞組 (請見 3.5.2) 指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023810Z" creationid="CCYU" creationdate="20140919T143729Z">
+        <seg>介於兩無抽頭繞組端子之間或連接至主抽頭之抽頭繞組 (請見 3.5.2) 指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
       </tuv>
     </tu>
     <tu>
