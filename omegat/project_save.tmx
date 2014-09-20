@@ -23407,6 +23407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This difference is generally expressed as a percentage of the no-load voltage of the winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050612Z" creationid="CCYU" creationdate="20140920T050612Z">
+        <seg>此差異通常以繞組空載電壓之百分比表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This edition includes the following significant technical changes with respect to the previous edition:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134739Z" creationid="CCYU" creationdate="20140917T134739Z">
@@ -27008,6 +27016,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>its rated value if the transformer is connected on the principal tapping (the no-load voltage of the winding is then equal to its rated value);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050453Z" creationid="CCYU" creationdate="20140920T050453Z">
+        <seg>其額定值，若連接至變壓器主要抽頭 (繞組之空載電壓則等於其額定值)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>l0 	lap length, according to EN 1992-1-1:2004+AC:2010, Section 8.7.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040934Z">
@@ -28068,6 +28084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022414Z" creationid="CCYU" creationdate="20140920T022414Z">
         <seg>與額定量相關之抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the tapping voltage if the transformer is connected on another tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050534Z" creationid="CCYU" creationdate="20140920T050534Z">
+        <seg>抽頭電壓，若連接至變壓器其他抽頭。</seg>
       </tuv>
     </tu>
     <tu>
