@@ -8901,6 +8901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a multi-winding transformer, there are several values of load loss corresponding to the different two-winding&lt;t0/&gt; combinations (see Clause 7 of I&lt;t1/&gt;EC 60076-8:1997).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040341Z" creationid="CCYU" creationdate="20140920T040341Z">
+        <seg>多繞組變壓器有多種負載損耗，此百分比依最高額定功率之繞組而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a multi-winding transformer, this percentage is referred to the winding with the highest rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035740Z" creationid="CCYU" creationdate="20140920T035740Z">
@@ -9370,6 +9378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z" creationid="CCYU" creationdate="20140809T102105Z">
         <seg>Further information: 更多資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further windings, if existing, are open-circuited</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040203Z" creationid="CCYU" creationdate="20140920T040203Z">
+        <seg>若有更多的繞組，則皆為開路</seg>
       </tuv>
     </tu>
     <tu>
@@ -13634,6 +13650,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160449Z" creationid="CCYU" creationdate="20140919T160449Z">
         <seg>註 1 三相繞組之額定電流 ir 為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 For a two-winding transformer, there is only one winding combination and one value of load loss.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040305Z" creationid="CCYU" creationdate="20140920T040305Z">
+        <seg>註 1 雙繞組變壓器只有一種繞組組合及一組負載損耗數值。</seg>
       </tuv>
     </tu>
     <tu>
