@@ -27016,6 +27016,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>on-load tap-changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033200Z" creationid="CCYU" creationdate="20140920T033200Z">
+        <seg>加載抽頭開關 (on-load tap-changer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130135Z" creationid="CCYU" creationdate="20140808T130135Z">
