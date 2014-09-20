@@ -26952,6 +26952,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is the reference value of rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044625Z" creationid="CCYU" creationdate="20140920T044625Z">
+        <seg>為額定功率參考值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the voltage (rated voltage or tapping voltage) of the winding to which Z and Zref belong;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044614Z" creationid="CCYU" creationdate="20140920T044614Z">
+        <seg>為繞組 Z 和 Zref 之電壓 (額定電壓或抽頭電壓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is the voltage which would be developed at no-load at the terminals of the winding, at the tapping concerned, by applying rated voltage to an untapped winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023156Z" creationid="CCYU" creationdate="20140920T023156Z">
