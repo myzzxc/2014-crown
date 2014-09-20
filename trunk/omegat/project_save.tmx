@@ -25728,6 +25728,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a tapping whose tapping factor is higher than 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023454Z" creationid="CCYU" creationdate="20140920T023454Z">
+        <seg>抽頭係數大於 1 之抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a tapping whose tapping factor is lower than 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023528Z" creationid="CCYU" creationdate="20140920T023528Z">
+        <seg>抽頭係數小於 1 之抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a terminal intended for connection to a line conductor of a network</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143852Z" creationid="CCYU" creationdate="20140918T143852Z">
@@ -26800,6 +26816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minus tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023514Z" creationid="CCYU" creationdate="20140920T023514Z">
+        <seg>負抽頭 (minus tapping)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012902Z">
@@ -26972,6 +26996,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165649Z" creationid="Judy" creationdate="20140818T165649Z">
         <seg>磷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>plus tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023429Z" creationid="CCYU" creationdate="20140920T023429Z">
+        <seg>正抽頭 (plus tapping)</seg>
       </tuv>
     </tu>
     <tu>
