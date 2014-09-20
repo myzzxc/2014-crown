@@ -13646,6 +13646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 4 For open windings (see 3.1 0.5.) of a transformer, the rated current of the open windings is the rated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015909Z" creationid="CCYU" creationdate="20140920T015909Z">
+        <seg>of a transformer, the rated current of the open windings is the rated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 4 For the series winding of a three-phase series transformer, which is designed as an open winding (see 3.10.5), the rated voltage is indicated as if the windings were connected in star.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T151520Z" creationid="CCYU" creationdate="20140919T151520Z">
