@@ -13910,6 +13910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Delta connection is sometimes referred to as D-connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055210Z" creationid="CCYU" creationdate="20140920T055210Z">
+        <seg>註 三角連接也稱作 D-連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE For a series transformer, the winding having the lower rated voltage may be that having the higher insulation level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131645Z" creationid="CCYU" creationdate="20140919T131645Z">
@@ -26104,6 +26112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-10-02, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055136Z" creationid="CCYU" creationdate="20140920T055136Z">
+        <seg>[IEC 60050-421:1990, 421-10-02, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -27448,6 +27464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>open-delta connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055254Z" creationid="CCYU" creationdate="20140920T055254Z">
+        <seg>開口三角連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ot&lt;t0/&gt; discharge product unmonitored into the environment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130135Z" creationid="CCYU" creationdate="20140808T130135Z">
@@ -28284,6 +28308,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054827Z" creationid="CCYU" creationdate="20140920T054827Z">
         <seg>三相變壓器中每相繞組、或三項組合之單相變壓器每組相同額定電壓之繞組連接至共點 (中性點)，而另一端連至適當線路端子之繞組連接方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding connection so arranged that the phase windings of a three-phase transformer, or the windings for the same rated voltage of single-phase transformers associated in a three-phase bank, are connected in series to form a closed circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055131Z" creationid="CCYU" creationdate="20140920T055131Z">
+        <seg>三相變壓器中每相繞組、或三項組合之單相變壓器每組相同額定電壓之繞組串聯形成閉迴路之繞組連接方式</seg>
       </tuv>
     </tu>
     <tu>
