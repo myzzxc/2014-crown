@@ -13974,6 +13974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Star connection is sometimes referred to as Y-connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054854Z" creationid="CCYU" creationdate="20140920T054854Z">
+        <seg>註 星形連接也稱作 Y-連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Tapping quantities exist for any winding in 'the transformer, not only for the tapped winding (see 6.2 and 6.3).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025452Z" creationid="CCYU" creationdate="20140920T025452Z">
@@ -26088,6 +26096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-10-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054831Z" creationid="CCYU" creationdate="20140920T054831Z">
+        <seg>[IEC 60050-421:1990, 421-10-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26596,6 +26612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033408Z" creationid="CCYU" creationdate="20140920T033408Z">
         <seg>斷電抽頭開關 (de-energized tap-changer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>delta connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054908Z" creationid="CCYU" creationdate="20140920T054908Z">
+        <seg>三角連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,6 +28276,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033905Z" creationid="CCYU" creationdate="20140920T033905Z">
         <seg>變壓器於額定頻率下，設計可於所有特定抽頭位置及其抽頭功率下連續使用不損壞之電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding connection so arranged that each of the phase windings of a three-phase transformer, or of each of the windings for the same rated voltage of single-phase transformers associated in a three-phase bank, is connected to a common point (the neutral point) and the other end to its appropriate line terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054827Z" creationid="CCYU" creationdate="20140920T054827Z">
+        <seg>三相變壓器中每相繞組、或三項組合之單相變壓器每組相同額定電壓之繞組連接至共點 (中性點)，而另一端連至適當線路端子之繞組連接方式</seg>
       </tuv>
     </tu>
     <tu>
