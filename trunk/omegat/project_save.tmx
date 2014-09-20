@@ -25800,6 +25800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-06-01, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035021Z" creationid="CCYU" creationdate="20140920T035021Z">
+        <seg>[IEC 60050-421:1990, 421-06-01, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -27048,6 +27056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>no-load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035026Z" creationid="CCYU" creationdate="20140920T035026Z">
+        <seg>空載電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>no-load loss</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034521Z" creationid="CCYU" creationdate="20140920T034521Z">
@@ -27680,6 +27696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the active power absorbed when a rated voltage (tapping voltage) at a rated frequency is applied to the terminals of one of the windings, the other winding or windings being open-circuited</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035017Z" creationid="CCYU" creationdate="20140920T035017Z">
+        <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組端子、其他繞組或繞組開路時消耗之主動功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the assembly of turns forming an electrical circuit associated with one of the voltages assigned to the transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124416Z" creationid="CCYU" creationdate="20140919T124416Z">
@@ -27756,6 +27780,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123548Z" creationid="CCYU" creationdate="20140919T123548Z">
         <seg>電壓之對稱系統點，通常為零電位點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035047Z" creationid="CCYU" creationdate="20140920T035047Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
