@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(formula valid for both three-phase and single-phase transformers);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044402Z" creationid="CCYU" creationdate="20140920T044402Z">
+        <seg>(公式適用於三相及單相變壓器)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(in.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012909Z">
@@ -11270,6 +11278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In percentage notation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044306Z" creationid="CCYU" creationdate="20140920T044306Z">
+        <seg>以百分比標記：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In regenerative channel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T114830Z" creationid="Judy" creationdate="20140823T114830Z">
@@ -13730,6 +13746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z" creationid="CCYU" creationdate="20140920T035610Z">
         <seg>註 2 繞組空載電流通常以繞組額定電流之百分比表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 This quantity can be expressed in relative, dimensionless form, as a fraction z, of the reference impedance Zref, of the same winding of the pair.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044244Z" creationid="CCYU" creationdate="20140920T044244Z">
+        <seg>註 2 此數值於同一對繞組中可使用 z 相對參考阻抗 Zref 之分量以無因次形式表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24540,6 +24564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004808Z">
         <seg>單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the principal tapping applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043922Z" creationid="CCYU" creationdate="20140920T043922Z">
+        <seg>若無特別說明，其短路阻抗代表主抽頭。</seg>
       </tuv>
     </tu>
     <tu>
