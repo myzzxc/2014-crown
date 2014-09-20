@@ -27920,6 +27920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the arithmetic difference between the no-load voltage of a winding and the voltage developed at the terminals of the same winding at a specified load and power factor, the voltage supplied to (one of) the other winding(s) being equal to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050330Z" creationid="CCYU" creationdate="20140920T050330Z">
+        <seg>指定的負載和功率因子下，同繞組之空載電壓與端子電壓之差異，供應至其他 (一組) 繞組之電壓等於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the assembly of turns forming an electrical circuit associated with one of the voltages assigned to the transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124416Z" creationid="CCYU" creationdate="20140919T124416Z">
