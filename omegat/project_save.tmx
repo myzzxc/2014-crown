@@ -13614,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 For a three-phase transformer, the value is the arithmetic mean of the values of current in the three lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035511Z" creationid="CCYU" creationdate="20140920T035511Z">
+        <seg>註 1 對於三相變壓器，其值為三線路電流算術平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For a three-phase winding the rated current /r is given by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160449Z" creationid="CCYU" creationdate="20140919T160449Z">
@@ -27698,8 +27706,8 @@
       <tuv lang="EN-US">
         <seg>the active power absorbed when a rated voltage (tapping voltage) at a rated frequency is applied to the terminals of one of the windings, the other winding or windings being open-circuited</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035017Z" creationid="CCYU" creationdate="20140920T035017Z">
-        <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組端子、其他繞組或繞組開路時消耗之主動功率。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035324Z" creationid="CCYU" creationdate="20140920T035017Z">
+        <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組、其他繞組端子或繞組開路時消耗之主動功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28087,6 +28095,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z" creationid="CCYU" creationdate="20140809T030317Z">
         <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of the current flowing through a line terminal of a winding when rated voltage (tapping voltage) is applied at a rated frequency to that winding, the other&lt;t0/&gt; winding or windings being open &lt;t1/&gt;circuited</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035250Z" creationid="CCYU" creationdate="20140920T035250Z">
+        <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組、其他繞組或繞組開路時流經繞組線路端子之電流方均根值。</seg>
       </tuv>
     </tu>
     <tu>
