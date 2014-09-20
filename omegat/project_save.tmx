@@ -22231,6 +22231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The relative value is also equal to the ratio between the applied voltage during a short-circuit measurement which causes the relevant rated current (or tapping current) to flow, and rated voltage (or &lt;t0/&gt;tapping voltage).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045110Z" creationid="CCYU" creationdate="20140920T045110Z">
+        <seg>相對值也等於短路量測時產生額定電流 (或抽頭電流) 之施加電壓與額定電壓 (或抽頭電壓) 的比值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reported landslides are dissimilar to the catastrophic events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043353Z" creationid="CCYU" creationdate="20140911T130215Z">
