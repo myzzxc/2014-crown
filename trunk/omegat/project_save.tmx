@@ -13710,6 +13710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE One of the tappings is the principal tapping, and other tappings are described in relation to the principal tapping by their respective tapping factors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022012Z" creationid="CCYU" creationdate="20140920T022012Z">
+        <seg>註 其中一抽頭為主分接，其他抽頭與主分接之間的關係依個別抽頭係數而定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Other terms use the meanings ascribed to them in the International Electrotechnical Vocabulary (IEV).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130508Z" creationid="CCYU" creationdate="20140918T140116Z">
@@ -18291,6 +18299,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084927Z" creationid="CCYU" creationdate="20140809T084927Z">
         <seg>See advice in chapter 8 請參閱第 8 章之建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See definitions of these terms below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022024Z" creationid="CCYU" creationdate="20140920T022024Z">
+        <seg>請見下列定義。</seg>
       </tuv>
     </tu>
     <tu>
