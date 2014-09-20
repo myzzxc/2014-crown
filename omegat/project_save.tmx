@@ -13878,6 +13878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The power consumption of the auxiliary plant is not included in the total losses and is stated separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T042117Z" creationid="CCYU" creationdate="20140920T042117Z">
+        <seg>註 輔助裝置的功率消耗值單獨列出，不包含於總損耗中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The term 'phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z" creationid="CCYU" creationdate="20140919T125334Z">
@@ -25884,6 +25892,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035748Z" creationid="CCYU" creationdate="20140920T035748Z">
         <seg>[IEC 60050-421:1990, 421-06-02, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-06-05, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T042121Z" creationid="CCYU" creationdate="20140920T042121Z">
+        <seg>[IEC 60050-421:1990, 421-06-05, 修訂]</seg>
       </tuv>
     </tu>
     <tu>
