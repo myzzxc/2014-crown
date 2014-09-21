@@ -28747,6 +28747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>total harmonic content</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084902Z" creationid="CCYU" creationdate="20140921T084902Z">
+        <seg>總諧波含量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>total losses</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041627Z" creationid="CCYU" creationdate="20140920T041627Z">
