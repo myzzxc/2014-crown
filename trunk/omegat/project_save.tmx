@@ -27696,6 +27696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>damaging fumes and vapours;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163539Z" creationid="CCYU" creationdate="20140921T163441Z">
+        <seg>侵蝕性煙霧和氣體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dark brown</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134110Z" creationid="CCYU" creationdate="20140808T134110Z">
@@ -27748,6 +27756,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024646Z" creationid="CCYU" creationdate="20140920T024646Z">
         <seg>若為低壓繞組則除以抽頭繞組之抽頭係數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dripping water;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163600Z" creationid="CCYU" creationdate="20140921T163600Z">
+        <seg>滴水；</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +27948,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061650Z" creationid="MAE" creationdate="20140810T061650Z">
         <seg>極佳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>excessive and abrasive dust;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163701Z" creationid="CCYU" creationdate="20140921T163701Z">
+        <seg>過量和研磨粉塵 ；</seg>
       </tuv>
     </tu>
     <tu>
@@ -28180,6 +28204,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123632Z">
         <seg>hmin&lt;t0/&gt; = 最小構件厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>humidity in excess of the limit prescribed in 4.2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163552Z" creationid="CCYU" creationdate="20140921T163552Z">
+        <seg>濕度超出 4.2 規定之限制；</seg>
       </tuv>
     </tu>
     <tu>
@@ -28992,6 +29024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>salt spray;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163612Z" creationid="CCYU" creationdate="20140921T163612Z">
+        <seg>鹽水噴霧；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>see Annexes B2, Figures B1 &lt;t0/&gt;Comments: The minimum concrete cover acc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T042059Z">
@@ -29148,6 +29188,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125134Z" creationid="CCYU" creationdate="20140918T125134Z">
         <seg>起動變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>steam;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163519Z" creationid="CCYU" creationdate="20140921T163519Z">
+        <seg>蒸汽；</seg>
       </tuv>
     </tu>
     <tu>
