@@ -7853,6 +7853,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ei&lt;t0/&gt; represents the &lt;t1/&gt;r.m.s&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090528Z" creationid="CCYU" creationdate="20140921T090528Z">
+        <seg>Ei 為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either the Hard Case Truck Spill Kit or the Soft Case Truck Spill Kit is a huge winner here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131340Z" creationid="CCYU" creationdate="20140817T131340Z">
@@ -28787,6 +28795,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>total&lt;t0/&gt; harmonic content &lt;t1/&gt;=&lt;t2/&gt; &lt;t3/&gt;(for &lt;t4/&gt;voltage&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090457Z" creationid="CCYU" creationdate="20140921T090457Z">
+        <seg>總諧波含量 = (電壓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total&lt;t0/&gt; harmonic content = &lt;t1/&gt; &lt;t2/&gt;(for current)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090510Z" creationid="CCYU" creationdate="20140921T090510Z">
+        <seg>總諧波含量 = (電流)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>traction transformers and traction reactors (IEC 60310);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132555Z" creationid="CCYU" creationdate="20140918T132555Z">
@@ -28863,6 +28887,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084711Z" creationid="CCYU" creationdate="20140921T084711Z">
         <seg>繞組在任何條件下運作之電流值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of voltage of the ith harmonic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090616Z" creationid="CCYU" creationdate="20140921T090616Z">
+        <seg>第 i 個諧波之電壓方均根值</seg>
       </tuv>
     </tu>
     <tu>
