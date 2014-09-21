@@ -20791,6 +20791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test classification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043431Z" creationid="CCYU" creationdate="20140921T043431Z">
+        <seg>測試分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test correspondences</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142836Z" creationid="CCYU" creationdate="20140809T142836Z">
@@ -26168,6 +26176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-10-09, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043420Z" creationid="CCYU" creationdate="20140921T043420Z">
+        <seg>[IEC 60050-421:1990, 421-10-09, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -26252,6 +26268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143852Z" creationid="CCYU" creationdate="20140918T143852Z">
         <seg>連接線路網中的導線之端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a test to which each individual transformer is subjected</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043546Z" creationid="CCYU" creationdate="20140921T043546Z">
+        <seg>每組變壓器需進行之測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -27848,6 +27872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>routine test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043502Z" creationid="CCYU" creationdate="20140921T043502Z">
+        <seg>例行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rugged&lt;t0/&gt; Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044059Z" creationid="JUDY" creationdate="20140827T044059Z">
@@ -28631,6 +28663,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125509Z" creationid="CCYU" creationdate="20140918T123820Z">
         <seg>無繞組且額定電壓高於 1000 V 之變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043607Z" creationid="CCYU" creationdate="20140921T043607Z">
+        <seg>型式測試</seg>
       </tuv>
     </tu>
     <tu>
