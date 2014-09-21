@@ -22535,6 +22535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The method for calculating the permissible loading can be found in IEC 60076-7 for liquid immersed transformers and in IEC 60076-12 for dry-type transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T130423Z" creationid="CCYU" creationdate="20140921T130423Z">
+        <seg>計算允許負載之方法收錄於 IEC 60076-7 油浸式變壓器，和 IEC 60076-12  乾式變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum anchorage length (&lt;t0/&gt;lb,min&lt;t1/&gt;) and the minimum lap length (l0,min) according to EN 1992-1-1:2004+AC:2010 , (&lt;t2/&gt;lb,min&lt;t3/&gt;) acc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085633Z">
