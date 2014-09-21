@@ -22991,6 +22991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rated frequency shall be specified by the purchaser to be the normal undisturbed frequency of the network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141408Z" creationid="CCYU" creationdate="20140921T141408Z">
+        <seg>買方應指明與電網相符不受干擾之額定頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rated power for each winding shall either be specified by the purchaser or the purchaser shall provide sufficient information to the manufacturer to determine the rated power at the enquiry stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112326Z" creationid="CCYU" creationdate="20140921T112245Z">
