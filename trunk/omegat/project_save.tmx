@@ -28514,8 +28514,8 @@
       <tuv lang="EN-US">
         <seg>the ratio of the effective value of all the harmonics to the effective value of the fundamental (E1, /1)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T085202Z" creationid="CCYU" creationdate="20140921T085202Z">
-        <seg>所有諧波有效值與基波 (E1, f1) 有效值之比率</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091241Z" creationid="CCYU" creationdate="20140921T085202Z">
+        <seg>所有諧波有效值與基波 (E1, I1) 有效值之比率</seg>
       </tuv>
     </tu>
     <tu>
