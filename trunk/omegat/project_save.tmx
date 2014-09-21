@@ -25784,6 +25784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>V/Hz in excess of 5.4.3 above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164741Z" creationid="CCYU" creationdate="20140921T164741Z">
+        <seg>V/Hz 超出 5.4.3 規範；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VAPOR DENSITY (AIR = 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174534Z" creationid="Judy" creationdate="20140818T174534Z">
