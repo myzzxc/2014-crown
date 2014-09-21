@@ -20783,6 +20783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature of cooling medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095537Z" creationid="CCYU" creationdate="20140921T095537Z">
+        <seg>冷媒溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature range B: Maximum short term temperature = 162°F (72°C), Maximum long term Temperature = 122°F (50°C) Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a result of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T030150Z">
@@ -22835,6 +22843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040539Z" creationid="JUDY" creationdate="20140827T040130Z">
         <seg>溫度為塗料黏合及色彩良好的關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature of cooling air at the inlet to the cooling equipment not exceeding: 40 °C at any time;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095632Z" creationid="CCYU" creationdate="20140921T095632Z">
+        <seg>冷卻設備入口之冷卻空氣溫度不超過： 40 ° C 任何時間；</seg>
       </tuv>
     </tu>
     <tu>
@@ -26684,6 +26700,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
         <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095529Z" creationid="CCYU" creationdate="20140921T095529Z">
+        <seg> b)</seg>
       </tuv>
     </tu>
     <tu>
