@@ -8109,6 +8109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environmental conditions within the following definitions according to &lt;t0/&gt;I&lt;t1/&gt;EC 60721-3-4:1995:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110652Z" creationid="CCYU" creationdate="20140921T110652Z">
+        <seg>下列為根據 IEC 60721-3-4:1995 定義之環境條件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environmental exposure controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z" creationid="CCYU" creationdate="20140807T134936Z">
@@ -26068,6 +26076,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061301Z" creationid="CCYU" creationdate="20140817T061301Z">
         <seg>當油和水混合時，&lt;t3/&gt; SaveSorb &lt;t4/&gt; 將油從水中分離並封鎖住，不外滲回到水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the transformer is installed in an enclosure not supplied by the transformer manufacturer remotely from the cooling equipment, for example in an acoustic enclosure, the temperature of the air surrounding the transformer is not exceeding 40 °C at any time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110601Z" creationid="CCYU" creationdate="20140921T110601Z">
+        <seg>當變壓器安裝於密閉環境中，變壓器製造商為提供外部冷卻設備時，例如在隔音罩中，變壓器周圍空氣溫度在任何時間不超過 40 °C 。</seg>
       </tuv>
     </tu>
     <tu>
