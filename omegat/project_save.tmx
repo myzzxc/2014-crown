@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;tapping&lt;t1/&gt; factor) or &lt;t2/&gt; (tapping factor expressed as a percentage)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111838Z" creationid="CCYU" creationdate="20140921T111838Z">
+        <seg>(抽頭係數) 或 (抽頭係數百分比)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;ϕ &lt;t1/&gt;: Nominal diameter of the bar; h: Rip height of the bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015344Z">
@@ -11118,6 +11126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ii&lt;t0/&gt; &lt;t1/&gt;represents the &lt;t2/&gt;r.m.s&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111902Z" creationid="CCYU" creationdate="20140921T111902Z">
+        <seg>Ii 為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ii&lt;t0/&gt; &lt;t1/&gt;represents the r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090816Z" creationid="CCYU" creationdate="20140921T090816Z">
@@ -17195,6 +17211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022559Z" creationid="CCYU" creationdate="20140809T022559Z">
         <seg>Rabbit&lt;t0/&gt; 兔子     &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111907Z" creationid="CCYU" creationdate="20140921T111907Z">
+        <seg>額定功率</seg>
       </tuv>
     </tu>
     <tu>
@@ -28152,6 +28176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>one-&lt;t0/&gt;twelfth of the sum of the monthly average temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111853Z" creationid="CCYU" creationdate="20140921T111853Z">
+        <seg>十二個月均溫之平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>one-twelfth of the sum of the monthly average temperatures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084538Z" creationid="CCYU" creationdate="20140921T084538Z">
@@ -29622,6 +29654,14 @@
         <seg>yearly average temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084223Z" creationid="CCYU" creationdate="20140921T084223Z">
+        <seg>年均溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yearly&lt;t0/&gt; average temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111842Z" creationid="CCYU" creationdate="20140921T111842Z">
         <seg>年均溫</seg>
       </tuv>
     </tu>
