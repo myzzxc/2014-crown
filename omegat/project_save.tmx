@@ -9430,6 +9430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For water-cooled transformers, a temperature of cooling water at the inlet not exceeding: 25 °C at any time;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T101208Z" creationid="CCYU" creationdate="20140921T101208Z">
+        <seg>水冷變壓器冷卻水入口溫度不超過：25 °C 任何時候；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For what our spill kits will absorb, we are significantly less expensive than virtually every spill kit on the market.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133553Z" creationid="CCYU" creationdate="20140817T133553Z">
@@ -13914,6 +13922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053146Z" creationid="CCYU" creationdate="20140920T053146Z">
         <seg>註 1 零序阻抗可能有多組數值，因為它取決於其他繞組端子如何連接或繞組連接及負載方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 This paragraph above is intended to allow the use of an alternative insulating liquid which does not meet minimum temperature requirements in circumstances where the minimum temperature of —25 ''C is not appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T101123Z" creationid="CCYU" creationdate="20140921T101123Z">
+        <seg>註 1 允許使用不符合最低溫度要求之替代絕緣液體，若當地環境不會達到最低溫度 -25 °C。</seg>
       </tuv>
     </tu>
     <tu>
