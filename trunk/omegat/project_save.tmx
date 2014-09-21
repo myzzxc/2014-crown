@@ -9189,6 +9189,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For additional information see IEC 60076-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132807Z" creationid="CCYU" creationdate="20140921T132807Z">
+        <seg>更多資訊請見 IEC 60076-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For adhesive anchors that will remain untorqued, ACI 318 D.8.4 applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093526Z">
@@ -11146,6 +11154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z">
         <seg>若電源線損壞，整組暖腳機必須丟棄處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the user has particular requirements for the cooling method(s) or cooling equipment, this shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132754Z" creationid="CCYU" creationdate="20140921T132754Z">
+        <seg>若使用者對冷卻模式或冷卻設備有特定要求，應於詢問時說明。</seg>
       </tuv>
     </tu>
     <tu>
