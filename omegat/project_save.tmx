@@ -15686,6 +15686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation at higher than rated voltage and/or at other than rated frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T143134Z" creationid="CCYU" creationdate="20140921T143134Z">
+        <seg>高於額定電壓或未於額定頻率下操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation indicator lamp initially lights up green, then it flashes red and subsequently it lights up red for the remainder of the warm- up phase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111151Z">
