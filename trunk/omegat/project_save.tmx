@@ -17423,6 +17423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated voltage and rated frequency 5.4.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135911Z" creationid="CCYU" creationdate="20140921T135911Z">
+        <seg>額定電壓和額定的頻率 5.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134149Z" creationid="CCYU" creationdate="20140919T134149Z">
@@ -25124,6 +25132,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135759Z" creationid="CCYU" creationdate="20140817T135759Z">
         <seg>火車洩漏量比其它任何大型機台更多，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers intended to be connected directly to generators in such a way that they may be subjected to load rejection conditions shall be able to withstand 1,4 times rated voltage for 5 s at the transformer terminals to which the generator is to be connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135833Z" creationid="CCYU" creationdate="20140921T135833Z">
+        <seg>直接連接至發電機之變壓器可能有卸除負載的情況，此情況下連接至發電機之端子應該能承受 1,4 倍之額定電壓 5 秒。</seg>
       </tuv>
     </tu>
     <tu>
