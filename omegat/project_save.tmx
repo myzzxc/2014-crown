@@ -2659,6 +2659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A height above sea-level not exceeding 1 000 m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094257Z" creationid="CCYU" creationdate="20140921T094257Z">
+        <seg>海拔高度不超過 1000 公尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of all parts of the IEC 60076 series can be found, under the general title Power transformers, on the IEC website.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141156Z" creationid="CCYU" creationdate="20140917T141156Z">
@@ -3511,6 +3519,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T084136Z" creationid="Judy" creationdate="20140819T084136Z">
         <seg>雖然計算流體力學法已經廣泛應用於工業使特林引擎之研究與開發，但現有文獻中並沒有 γ-型史特林引擎循環中基本熱傳導過程的詳細計算流體力學研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Altitude</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094228Z" creationid="CCYU" creationdate="20140921T094228Z">
+        <seg>海拔高度</seg>
       </tuv>
     </tu>
     <tu>
@@ -23923,6 +23939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T152330Z" creationid="CCYU" creationdate="20140917T152330Z">
         <seg>此 IEC 60076 部分適用於三相及單相電力變壓器 (包括自耦變壓器)，未包含某類小型和特殊變壓器如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This part of IEC 60076 gives detailed requirements for transformers for use under the following conditions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094156Z" creationid="CCYU" creationdate="20140921T094156Z">
+        <seg>IEC 60076 此部分包含變壓器在下列條件下使用之詳細規定：</seg>
       </tuv>
     </tu>
     <tu>
