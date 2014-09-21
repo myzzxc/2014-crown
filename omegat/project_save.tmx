@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>21 -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103254Z" creationid="CCYU" creationdate="20140921T103254Z">
+        <seg>- 21 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z">
@@ -4327,6 +4335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
         <seg>採用性能穩定性評估與審核 (AVCP) 系統，並參照其法律基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At any time and yearly average are defined in 3.12, Further limitations, with regard to cooling are given for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103430Z" creationid="CCYU" creationdate="20140921T103413Z">
+        <seg>任何時間和年平均溫如 3.12 中定義，進一步的冷卻限制參閱：</seg>
       </tuv>
     </tu>
     <tu>
