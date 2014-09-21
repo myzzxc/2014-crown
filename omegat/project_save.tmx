@@ -13974,6 +13974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For transformers with both air/water and water/liquid heat exchangers, the temperature of cooling medium refers to the external air temperature rather than the water temperature in the intermediate circuit which may exceed the normal value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103808Z" creationid="CCYU" creationdate="20140921T103808Z">
+        <seg>註 2 具有空氣/水和水/液體熱交換器之變壓器，冷媒溫度指外部空氣溫度，而非可能會超出正常值的內部迴路之水溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The high-voltage winding phasor is taken as reference, and the displacement for any other winding is conventionally expressed by the 'clock notation', that is, the hour indicated by the winding phasor when the H.V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042627Z" creationid="CCYU" creationdate="20140921T042627Z">
@@ -14050,6 +14058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052638Z" creationid="CCYU" creationdate="20140921T052638Z">
         <seg>註 3 功率低於 20 MVA 和 Um ≤ 72,5  kV 之變壓器，若通過型式測試要求則可以接受重大設計變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 The relevant temperature is at the inlet to the cooling equipment rather than the outside air temperature, this means that the user should take care that if the installation can create conditions where air recirculation from the output of the cooler can occur, that this is taken into account when assessing the cooling air temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104053Z" creationid="CCYU" creationdate="20140921T104053Z">
+        <seg>註 3 相關溫度為冷卻設備入口處而非外部空氣溫度，這意味著使用者應注意安裝條件會造成冷卻器輸出的空氣再循環，當評估冷卻空氣溫度需考慮此點。</seg>
       </tuv>
     </tu>
     <tu>
