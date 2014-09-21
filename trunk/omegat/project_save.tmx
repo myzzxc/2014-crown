@@ -2843,6 +2843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A two-winding transformer has only one value of rated power, identical for both windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113706Z" creationid="CCYU" creationdate="20140921T113706Z">
+        <seg>雙繞組變壓器只有一額定功率值，兩組繞組皆相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A very important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061936Z" creationid="MAE" creationdate="20140810T061936Z">
@@ -10850,6 +10858,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z" creationid="CCYU" creationdate="20140817T133825Z">
         <seg>如果事故發生在雨中，我們吸收劑仍有作用然會工作，消除警察人員會檢查的現場油性光澤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If different values of apparent power are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113418Z" creationid="CCYU" creationdate="20140921T113418Z">
+        <seg>若不同的情況下有不同的視在功率值，例如使用不同的冷卻方法時，最高為額定的功率值。</seg>
       </tuv>
     </tu>
     <tu>
