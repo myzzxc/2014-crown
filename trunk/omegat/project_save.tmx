@@ -3611,6 +3611,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An environment not exposed to seismic disturbance which would require special consideration in the design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105845Z" creationid="CCYU" creationdate="20140921T105845Z">
+        <seg>不會受到地震擾動並需要於設計中特別考慮之環境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An environment with a pollution rate (see IEC 60137 and IEC/TS 60815) that does not require special consideration regarding the external insulation of transformer bushings or of the transformer itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105752Z" creationid="CCYU" creationdate="20140921T105723Z">
+        <seg>污染等級 (請見 IEC 60137 和 IEC/TS 60815) 無需特別考慮變壓器套管或變壓器本身外部絕緣之環境 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061908Z" creationid="MAE" creationdate="20140810T061908Z">
