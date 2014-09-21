@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5.1.3 'Minimum power under alternative cooling modes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122801Z" creationid="CCYU" creationdate="20140921T122801Z">
+        <seg>5.1.3 替代冷卻模式下之最低功率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.10 &lt;t0/&gt;Minimum anchor spacing and edge distance, as well as minimum member thickness, must comply with the values given in this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034645Z">
@@ -26292,6 +26300,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110601Z" creationid="CCYU" creationdate="20140921T110601Z">
         <seg>當變壓器安裝於密閉環境中，變壓器製造商為提供外部冷卻設備時，例如在隔音罩中，變壓器周圍空氣溫度在任何時間不超過 40 °C 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the user has a particular requirement for a minimum power under a particular cooling mode other than the cooling mode for rated power, this shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T123039Z" creationid="CCYU" creationdate="20140921T123039Z">
+        <seg>使用者若有在一般冷卻模式外之特定冷卻模式的最小功率要求，應於詢價時說明。</seg>
       </tuv>
     </tu>
     <tu>
