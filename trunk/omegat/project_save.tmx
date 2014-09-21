@@ -13974,6 +13974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE See Annex D for cases where the winding sections have equal voltages,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040421Z" creationid="CCYU" creationdate="20140921T040421Z">
+        <seg>註NOTE See Annex D for cases where the winding sections have equal voltages,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Series transformers were called booster transformers in earlier editions of this standard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141948Z" creationid="CCYU" creationdate="20140918T141948Z">
@@ -26236,6 +26244,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141735Z" creationid="CCYU" creationdate="20140918T141735Z">
         <seg>與自耦變壓器不同，其中一組繞組與電路串聯以變換電壓或轉移其相位之變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a winding connection consisting of two winding sections, the first section connected in star, the second connected in series between the first section and the line terminals: the two sections are arranged so that each phase of the second section is wound on a different limb of the transformer to the part of the first section to which it is connected</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040415Z" creationid="CCYU" creationdate="20140921T040415Z">
+        <seg>繞組連接包含兩段繞組，第一段以星形連接，第二段串聯於第一段和線路端子之間： 第二段中每相繞於變壓器不同心柱上並連至第一段不同部份</seg>
       </tuv>
     </tu>
     <tu>
