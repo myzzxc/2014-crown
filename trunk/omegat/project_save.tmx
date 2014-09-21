@@ -17415,6 +17415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141147Z" creationid="CCYU" creationdate="20140921T141147Z">
+        <seg>額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111907Z" creationid="CCYU" creationdate="20140921T111907Z">
@@ -23467,6 +23475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112339Z" creationid="CCYU" creationdate="20140921T112323Z">
         <seg>變壓器每組繞組應具有指定之額定功率並應在銘牌上標明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall have an assigned rated voltage for each winding which shall be marked on the rating plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141139Z" creationid="CCYU" creationdate="20140921T141139Z">
+        <seg>變壓器每組繞組應有額定電壓值並標示於銘板上。</seg>
       </tuv>
     </tu>
     <tu>
