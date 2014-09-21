@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is assumed to be the case when the ground acceleration level ag is below 2 ms-2 or approximately 0,2 g.) See IEC 60068-3-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110113Z" creationid="CCYU" creationdate="20140921T110113Z">
+        <seg>(此處假設地面加速度 ag 低於 2 ms-2 或大約 0.2 g)。請見 IEC 60068-3-3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(VOCV 814.018 VOC regulation CH)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104625Z" creationid="CCYU" creationdate="20140809T104625Z">
