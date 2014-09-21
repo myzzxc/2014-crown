@@ -4451,6 +4451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At a current K times the transformer rated current (0 5_ K &lt; 1), the overfluxing shall be limited in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162719Z" creationid="CCYU" creationdate="20140921T162719Z">
+        <seg>於變壓器 K 倍之額定電流 (0 ≤ K ≤ 1) 下，過通量應符合下列公式限制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At any time and yearly average are defined in 3.12, Further limitations, with regard to cooling are given for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103430Z" creationid="CCYU" creationdate="20140921T103413Z">
