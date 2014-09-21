@@ -9486,6 +9486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers intended to be installed indoors, some of these environmental conditions may not be applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z" creationid="CCYU" creationdate="20140921T110954Z">
+        <seg>對於室內安裝之變壓器，上述某些環境條件可能不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z" creationid="CCYU" creationdate="20140817T125153Z">
@@ -26952,6 +26960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>biological conditions 4B1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110848Z" creationid="CCYU" creationdate="20140921T110848Z">
+        <seg>生物條件 4B1；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>boron</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165700Z" creationid="Judy" creationdate="20140818T165700Z">
@@ -27040,10 +27056,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>chemically active substances 4C2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110902Z" creationid="CCYU" creationdate="20140921T110902Z">
+        <seg>化學活性物質 4C2；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chocolate-like</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142444Z" creationid="CCYU" creationdate="20140807T142444Z">
         <seg>chocolate-like 巧克力氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>climatic conditions 4K2 except that the minimum external cooling medium temperature is -25 °C;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110826Z" creationid="CCYU" creationdate="20140921T110826Z">
+        <seg>氣候條件 4K2，除了外部冷煤溫度外之最小值為 -25 °C；</seg>
       </tuv>
     </tu>
     <tu>
@@ -27920,6 +27952,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mechanical conditions 4M4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110924Z" creationid="CCYU" creationdate="20140921T110924Z">
+        <seg>機械條件 4M4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mechanically active substances 4S3;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110914Z" creationid="CCYU" creationdate="20140921T110914Z">
+        <seg>機械活性物質 4S3；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mg/m3 Total dust</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165439Z" creationid="Judy" creationdate="20140818T165439Z">
@@ -28508,6 +28556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143159Z" creationid="CCYU" creationdate="20140807T143159Z">
         <seg>soluble 可溶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>special climatic conditions 4Z2, 4Z4, 4Z7;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110841Z" creationid="CCYU" creationdate="20140921T110841Z">
+        <seg>特殊的氣候條件 4Z2、4Z4、4Z7；</seg>
       </tuv>
     </tu>
     <tu>
