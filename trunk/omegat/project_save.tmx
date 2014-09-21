@@ -4171,6 +4171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approximately symmetrical shall be taken to mean that the highest phase to phase voltage is no more than 1 % higher than the lowest phase to phase voltage continuously or 2 % higher for short periods (approximately 30 min) under exceptional conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105354Z" creationid="CCYU" creationdate="20140921T105354Z">
+        <seg>近似對稱應為最高與最低相間電壓不持續超過 1 % 或在例外情況下短時間 (大約 30 分鐘) 不超過 2% 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aquatic &lt;t0/&gt;ecotoxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024345Z" creationid="CCYU" creationdate="20140809T024345Z">
@@ -12130,6 +12138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003553Z">
         <seg>安裝說明 (續)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation environment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105359Z" creationid="CCYU" creationdate="20140921T105359Z">
+        <seg>安裝環境</seg>
       </tuv>
     </tu>
     <tu>
