@@ -6429,6 +6429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooling mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132613Z" creationid="CCYU" creationdate="20140921T132613Z">
+        <seg>冷卻模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2014 &lt;t0/&gt;Page 1 of 16</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T053005Z">
@@ -9538,6 +9546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025144Z">
         <seg>抗壓強度範圍 4,500 psi &lt; f&lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi 將增加 6%，而抗壓強度範圍 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c&lt;t10/&gt; 8,000 psi 表列特徵黏結強度將增加 10%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For these transformers, if such a capability is required, it should be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132600Z" creationid="CCYU" creationdate="20140921T132600Z">
+        <seg>此類型變壓器若有負載要求，應另外指明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14314,6 +14330,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053823Z" creationid="CCYU" creationdate="20140920T053823Z">
         <seg>註 3 零序阻抗也可如 (正序) 短路阻抗 (請見 3.7.1) 相同的方式以相對值表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 These requirements do not apply to transformers for special applications, which do not need a loading capability beyond rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132501Z" creationid="CCYU" creationdate="20140921T132501Z">
+        <seg>註 3 此類規範不適用負載能力超過額定電壓之特殊應用變壓器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23419,6 +23443,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100020Z">
         <seg>電毯三層設計包含外部兩層蓬鬆超細纖絨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user shall specify the cooling medium (air or water).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132639Z" creationid="CCYU" creationdate="20140921T132639Z">
+        <seg>使用者應指明冷媒 (空氣或水)。</seg>
       </tuv>
     </tu>
     <tu>
