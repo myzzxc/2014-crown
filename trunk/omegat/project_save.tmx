@@ -9021,6 +9021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For any unusual service conditions which require special consideration in the design of a transformer see 5.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T092946Z" creationid="CCYU" creationdate="20140921T092946Z">
+        <seg>任何非常規運作條件，對變壓器有特殊需求請參見 5.5。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For bore holes &lt;t0/&gt;larger than 20 mm or deeper 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002533Z">
@@ -19971,6 +19979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133148Z" creationid="CCYU" creationdate="20140918T133128Z">
         <seg>此類協議由製造商和買方之間決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such conditions include high altitude, extreme high or low external cooling medium temperature, tropical humidity, seismic activity, severe contamination, unusual voltage or load current wave shapes, high solar radiation and intermittent loading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093137Z" creationid="CCYU" creationdate="20140921T093137Z">
+        <seg>這些條件包括高海拔、極高或極低外部冷煤溫度、濕熱、地震區、嚴重污染、電壓或負載電流波形異常、高太陽輻射和間歇負載等。</seg>
       </tuv>
     </tu>
     <tu>
