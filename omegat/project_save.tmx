@@ -23215,6 +23215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer shall be capable, of carrying, in continuous service, the rated power (for a multi-winding transformer: the, specified combination(s) of winding rated power(s)) under conditions listed in Clause 4 and without exceeding the temperature-rise limitations specified in IEC 60076-2 for liquid immersed transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T114728Z" creationid="CCYU" creationdate="20140921T114728Z">
+        <seg>變壓器應能在第 4 條款所列條件下連續供應額定功率 (多繞組變壓器：指明繞組額定功率組合) 而不超過 IEC 60076-2 液浸式變壓器中所規定之的溫度上升限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformer shall have an assigned rated power for each winding which shall be marked on the rating plate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112339Z" creationid="CCYU" creationdate="20140921T112323Z">
