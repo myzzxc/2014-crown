@@ -13750,6 +13750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 See Clause 7 and Annex D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042230Z" creationid="CCYU" creationdate="20140921T042230Z">
+        <seg>註 請參閱第 7 條款和附件 D。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The rated voltages of all windings appear simultaneously at no-load when the voltage applied to one of them has its rated value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T150730Z" creationid="CCYU" creationdate="20140919T150730Z">
@@ -26144,6 +26152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-10-08, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042140Z" creationid="CCYU" creationdate="20140921T042140Z">
+        <seg>[IEC 60050-421:1990, 421-10-08, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -28132,6 +28148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035324Z" creationid="CCYU" creationdate="20140920T035017Z">
         <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組、其他繞組端子或繞組開路時消耗之主動功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the angular difference between the phasors representing the voltages between the neutral point (real or imaginary) and the corresponding terminals of two windings, a positive-sequence voltage system being applied to the high-voltage terminals, following each other in alphabetical sequence if they are lettered, or in numerical sequence if they are numbered: the phasors are assumed to rotate in a counter-clockwise sense</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042135Z" creationid="CCYU" creationdate="20140921T042135Z">
+        <seg>相對中性點 (真實或虛擬) 之間的相量和兩組繞組之相應端子之間的電壓相位差，高壓端子使用正序電壓系統，按字母順序或按數字順序編號：假設相量以逆時針旋轉</seg>
       </tuv>
     </tu>
     <tu>
