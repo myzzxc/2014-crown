@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- 19</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052029Z" creationid="CCYU" creationdate="20140921T052029Z">
+        <seg>- 19 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0&lt;t0/&gt;0&lt;t1/&gt;Common tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T051533Z" creationid="MAE" creationdate="20140810T051533Z">
@@ -13704,8 +13712,8 @@
       <tuv lang="EN-US">
         <seg>NOITE 2 Design variations that cause a reduction in values and stresses relevant to a particular type test do not require a new type test if accepted by the purchaser and the manufacturer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T051934Z" creationid="CCYU" creationdate="20140921T051934Z">
-        <seg>註 2 若客戶與製造商同意，設計變化導致數值與應力下降特定型式測試不需要新的型式試驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052022Z" creationid="CCYU" creationdate="20140921T051934Z">
+        <seg>註 2 若客戶與製造商同意，設計變化導致特定型式測試之數值與應力下降無須進行新的型式測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28004,6 +28012,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143159Z" creationid="CCYU" creationdate="20140807T143159Z">
         <seg>soluble 可溶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>special test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052035Z" creationid="CCYU" creationdate="20140921T052035Z">
+        <seg>特殊測試</seg>
       </tuv>
     </tu>
     <tu>
