@@ -22599,6 +22599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The service conditions set out in 4.2 represent the normal scope of operation of a transformer specified to this standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T092315Z" creationid="CCYU" creationdate="20140921T092315Z">
+        <seg>4.2 中所訂之運作條件為此標準中指定之變壓器一般操作範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The shelf life, as indicated by the expiration date, corresponds to an unopened pack stored in a dry, dark environment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134217Z">
