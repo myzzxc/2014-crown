@@ -26272,6 +26272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a test made on a transformer which is representative of other transformers, to demonstrate that these transformers comply with the specified requirements not covered by the routine tests: a transformer is considered to be representative of others if it is built to the same drawings using the same techniques and materials in the same factory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T044244Z" creationid="CCYU" creationdate="20140921T044244Z">
+        <seg>其它類型之代表性變壓器測試，用以證明此類變壓器符合例行測試以外指定之要求：若變壓器使用相同設計、相同技術和材料於同一家工廠生產，則此變壓器具代表性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a test to which each individual transformer is subjected</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043546Z" creationid="CCYU" creationdate="20140921T043546Z">
