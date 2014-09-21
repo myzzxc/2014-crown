@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(...100, 125, 160, 200, 250, 315, 400, 500, 630, 800, 1 000, etc.) kVA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122300Z" creationid="CCYU" creationdate="20140921T122300Z">
+        <seg>(...100, 125, 160, 200, 250, 315, 400, 500, 630, 800, 1 000, 等) kVA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(0-3 years)!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084544Z">
@@ -9530,6 +9538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z" creationid="CCYU" creationdate="20140921T110954Z">
         <seg>對於室內安裝之變壓器，上述某些環境條件可能不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers up to 20 MVA, values of rated power should preferably be taken from the R10 series given in ISO 3:1973, Preferred numbers — series of preferred numbers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122255Z" creationid="CCYU" creationdate="20140921T122255Z">
+        <seg>功率小於 20 MVA 之變壓器，額定功率值應依據 ISO 3:1973 建議數值 - 建議數值系列 (Preferred numbers — series of preferred numbers) 中 R10 系列建議：</seg>
       </tuv>
     </tu>
     <tu>
