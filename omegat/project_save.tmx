@@ -28763,6 +28763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>total harmonic content &lt;t0/&gt;=&lt;t1/&gt; &lt;t2/&gt;(for current)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T085850Z" creationid="CCYU" creationdate="20140921T085850Z">
+        <seg>總諧波含量 &lt;t0/&gt;=&lt;t1/&gt; &lt;t2/&gt;(電流)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>total losses</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041627Z" creationid="CCYU" creationdate="20140920T041627Z">
