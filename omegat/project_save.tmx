@@ -4195,6 +4195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any specific requirements for loading beyond rated power, operation at higher external cooling medium temperatures or reduced temperature rise limits shall be specified by the purchaser in the enquiry and the contract.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131236Z" creationid="CCYU" creationdate="20140921T131236Z">
+        <seg>所有超出額定功率負載、高於外部冷煤溫度或降低溫升限制之特殊需求應由買方於詢問及立約時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z" creationid="CCYU" creationdate="20140809T092413Z">
