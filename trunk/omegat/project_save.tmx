@@ -27576,6 +27576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>phase displacement (of a three-phase winding)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040858Z" creationid="CCYU" creationdate="20140921T040858Z">
+        <seg>(三相繞組) 相位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>phase winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125029Z" creationid="CCYU" creationdate="20140919T125029Z">
