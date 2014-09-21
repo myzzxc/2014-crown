@@ -14126,6 +14126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 4 Transformers where total harmonic content of the load current exceeds 5 % of rated current, or transformers specifically intended to supply power electronic or rectifier loads should be specified according to IEC 61378 series.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104630Z" creationid="CCYU" creationdate="20140921T104630Z">
+        <seg>註 4 負載電流之諧波含量超過額定電流的 5 % 之變壓器，或專門用於供應功率電子性或整流性負載之變壓器應符合 IEC 61378 系列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
