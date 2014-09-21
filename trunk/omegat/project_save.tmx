@@ -13262,6 +13262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meteorological data with respect to cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083821Z" creationid="CCYU" creationdate="20140921T083821Z">
+        <seg>冷卻氣象資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Method Detail</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021736Z" creationid="CCYU" creationdate="20140809T021736Z">
@@ -14034,6 +14042,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141948Z" creationid="CCYU" creationdate="20140918T141948Z">
         <seg>註 串聯變壓器於此標準的早期版本中稱為升壓變壓器 (booster transformer)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Special tests can be carried out on one transformer or all transformers of a particular design, as specified by the purchaser in the enquiry and order for every special test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083741Z" creationid="CCYU" creationdate="20140921T083635Z">
+        <seg>註 特殊測試可以針對特定設計之單一變壓器或所有變壓器進行測試，每種特別測試由買方在詢價和訂購時註明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26314,8 +26330,8 @@
       <tuv lang="EN-US">
         <seg>a test other than a type test or a routine test, agreed by the manufacturer and the purchaser</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083400Z" creationid="CCYU" creationdate="20140921T083400Z">
-        <seg>型式測試或例行測試以外之測試，依製造商和客戶協議</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083638Z" creationid="CCYU" creationdate="20140921T083400Z">
+        <seg>型式測試或例行測試以外之測試，依製造商和買方協議</seg>
       </tuv>
     </tu>
     <tu>
