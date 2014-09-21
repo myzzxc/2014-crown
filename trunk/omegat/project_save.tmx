@@ -27992,6 +27992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extreme mechanical shock and vibrations;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164559Z" creationid="CCYU" creationdate="20140921T164559Z">
+        <seg>極端機械性衝擊和振動；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fair</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062009Z" creationid="MAE" creationdate="20140810T062009Z">
@@ -29008,6 +29016,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>regular frequent energisation in excess of 24 times per year;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164657Z" creationid="CCYU" creationdate="20140921T164657Z">
+        <seg>經常重新啟動，每年超過 24 次；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regular frequent short-circuits;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164714Z" creationid="CCYU" creationdate="20140921T164714Z">
+        <seg>經常短路；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>replaced by a revised edition, or</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141659Z" creationid="CCYU" creationdate="20140917T141629Z">
@@ -29060,6 +29084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064934Z" creationid="MAE" creationdate="20140807T064934Z">
         <seg>see section 16 所有警示性質標準詞全文：請見第 16 節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>seismic qualification which would otherwise require special considerations in the design, see 4.2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164534Z" creationid="CCYU" creationdate="20140921T164534Z">
+        <seg>設計特殊之抗震能力，請見 4.2；</seg>
       </tuv>
     </tu>
     <tu>
@@ -29124,6 +29156,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165654Z" creationid="Judy" creationdate="20140818T165654Z">
         <seg>鈉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>solar radiation;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164604Z" creationid="CCYU" creationdate="20140921T164604Z">
+        <seg>太陽輻射；</seg>
       </tuv>
     </tu>
     <tu>
