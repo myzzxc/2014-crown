@@ -12902,6 +12902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load current harmonic content</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104341Z" creationid="CCYU" creationdate="20140921T104341Z">
+        <seg>負載電流諧波含量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load current harmonic content Total harmonic content of the load current not exceeding 5 % of rated current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104306Z" creationid="CCYU" creationdate="20140921T104306Z">
@@ -24548,6 +24556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141630Z">
         <seg>扭矩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total harmonic content of the load current not exceeding 5 % of rated current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104407Z" creationid="CCYU" creationdate="20140921T104407Z">
+        <seg>負載電流之總諧波含量不超過額定電流的 5%。</seg>
       </tuv>
     </tu>
     <tu>
