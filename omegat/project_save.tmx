@@ -17423,6 +17423,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T140007Z" creationid="CCYU" creationdate="20140921T140007Z">
+        <seg>額定電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated voltage and rated frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T140003Z" creationid="CCYU" creationdate="20140921T140003Z">
+        <seg>額定電壓和額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated voltage and rated frequency 5.4.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135911Z" creationid="CCYU" creationdate="20140921T135911Z">
@@ -22979,6 +22995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112454Z" creationid="CCYU" creationdate="20140921T112444Z">
         <seg>額定功率為適用連續負載之功率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rated voltage shall either be specified by the purchaser or for special applications the purchaser shall provide sufficient information to the manufacturer to determine the rated voltage at the enquiry stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T140150Z" creationid="CCYU" creationdate="20140921T140150Z">
+        <seg>額定電壓應於詢問階段由買方指定，或買方依特殊的應用提供足夠的資訊予以製造商以確定額定電壓。</seg>
       </tuv>
     </tu>
     <tu>
