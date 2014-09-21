@@ -22511,6 +22511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchaser may specify a higher minimum temperature of cooling medium in which case the minimum temperature of cooling medium shall be stated on the rating plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100805Z" creationid="CCYU" creationdate="20140921T100805Z">
+        <seg>買方可以指定較高的冷煤最低溫度，此情況下的冷媒最低溫應標示於銘板上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pushing of gas by the displacer and power pistons creates an effect similar to impingement that largely compresses the isothermal lines towards the hot or cold ends and increases the local temperature gradient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
