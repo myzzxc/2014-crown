@@ -14150,6 +14150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 This option is intended to be used in particular to give a basis for design and guarantees concerning temporary emergency loading of power transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131705Z" creationid="CCYU" creationdate="20140921T131652Z">
+        <seg>註 1 此選項旨在用以設計及保證電力變壓器之臨時緊急負載，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 This paragraph above is intended to allow the use of an alternative insulating liquid which does not meet minimum temperature requirements in circumstances where the minimum temperature of —25 ''C is not appropriate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111403Z" creationid="CCYU" creationdate="20140921T101123Z">
@@ -21867,6 +21875,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073553Z" creationid="CCYU" creationdate="20140817T073553Z">
         <seg>使用吸收墊的好處為去除正常洩漏外流的油污且能吸附所有大量洩漏的油污。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bushings, tap-changers, current transformers and other auxiliary equipment shall be selected so as not to restrict the loading capability of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131810Z" creationid="CCYU" creationdate="20140921T131702Z">
+        <seg>應選擇套管、抽頭開關、整流器和其它輔助設備，以避免限制變壓器之負載力。</seg>
       </tuv>
     </tu>
     <tu>
