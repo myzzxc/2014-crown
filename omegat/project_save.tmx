@@ -15254,6 +15254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other definitions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084542Z" creationid="CCYU" creationdate="20140921T084542Z">
+        <seg>其他定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other hazards</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063857Z" creationid="MAE" creationdate="20140807T063857Z">
@@ -27416,6 +27424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084545Z" creationid="CCYU" creationdate="20140921T084545Z">
+        <seg>負載電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>load loss</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035753Z" creationid="CCYU" creationdate="20140920T035753Z">
@@ -27644,6 +27660,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033200Z" creationid="CCYU" creationdate="20140920T033200Z">
         <seg>加載抽頭開關 (on-load tap-changer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one-twelfth of the sum of the monthly average temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084538Z" creationid="CCYU" creationdate="20140921T084538Z">
+        <seg>十二個月均溫之平均</seg>
       </tuv>
     </tu>
     <tu>
@@ -28807,6 +28831,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035250Z" creationid="CCYU" creationdate="20140920T035250Z">
         <seg>於額定頻率下，額定電壓 (抽頭電壓) 施加於其中一繞組、其他繞組或繞組開路時流經繞組線路端子之電流方均根值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of the current in any winding under service conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084711Z" creationid="CCYU" creationdate="20140921T084711Z">
+        <seg>繞組在任何條件下運作之電流值</seg>
       </tuv>
     </tu>
     <tu>
