@@ -4155,6 +4155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any additional tests or calculations required to verify compliance with these specific requirements shall also be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131453Z" creationid="CCYU" creationdate="20140921T131332Z">
+        <seg>任何額外的測試或驗證符合此類特定要求所需之計算也應指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any change in the anchor product being installed or the personnel performing the installation requires an initial inspection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131724Z">
@@ -4197,8 +4205,8 @@
       <tuv lang="EN-US">
         <seg>Any specific requirements for loading beyond rated power, operation at higher external cooling medium temperatures or reduced temperature rise limits shall be specified by the purchaser in the enquiry and the contract.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131236Z" creationid="CCYU" creationdate="20140921T131236Z">
-        <seg>所有超出額定功率負載、高於外部冷煤溫度或降低溫升限制之特殊需求應由買方於詢問及立約時指明。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131334Z" creationid="CCYU" creationdate="20140921T131236Z">
+        <seg>所有超出額定功率負載、高於外部冷煤溫度或降低溫升限制之特殊需求應由買方於詢問及立約時指明，</seg>
       </tuv>
     </tu>
     <tu>
