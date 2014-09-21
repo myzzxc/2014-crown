@@ -14158,6 +14158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 For t&lt;t0/&gt;ransformers below 20 MVA and Um ≤ 72&lt;t1/&gt;,&lt;t2/&gt;5&lt;t3/&gt; kV significant design variations may be acceptable if&lt;t4/&gt; &lt;t5/&gt;supported by demonstration of compliance with type test requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111726Z" creationid="CCYU" creationdate="20140921T111726Z">
+        <seg>註 3 功率低於 20 MVA 和 Um ≤ 72,5  kV 之變壓器，若通過型式測試要求則可以接受重大設計變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 The relevant temperature is at the inlet to the cooling equipment rather than the outside air temperature, this means that the user should take care that if the installation can create conditions where air recirculation from the output of the cooler can occur, that this is taken into account when assessing the cooling air temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104053Z" creationid="CCYU" creationdate="20140921T104053Z">
@@ -14170,6 +14178,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053823Z" creationid="CCYU" creationdate="20140920T053823Z">
         <seg>註 3 零序阻抗也可如 (正序) 短路阻抗 (請見 3.7.1) 相同的方式以相對值表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 4 &lt;t0/&gt;For&lt;t1/&gt; open windings (see 3.1 0.5.) of a transformer, the rated current of the open windings is the rated&lt;t2/&gt; &lt;t3/&gt;power divided by the number of phases and by the rated voltage of the open winding:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111732Z" creationid="CCYU" creationdate="20140921T111732Z">
+        <seg>註 4 變壓器之開放繞組 (請見 3.1 0.5.)，繞組額定電流為額定功率除以相數以及開放繞組之額定電壓：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26706,8 +26722,8 @@
       <tuv lang="EN-US">
         <seg>a test made on a transformer which is representative of other transformers, to demonstrate that these transformers comply with the specified requirements not covered by the routine tests: a transformer is considered to be representative of others if it is built to the same drawings using the same techniques and materials in the same factory</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T044244Z" creationid="CCYU" creationdate="20140921T044244Z">
-        <seg>其它類型之代表性變壓器測試，用以證明此類變壓器符合例行測試以外指定之要求：若變壓器使用相同設計、相同技術和材料於同一家工廠生產，則此變壓器具代表性</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111656Z" creationid="CCYU" creationdate="20140921T044244Z">
+        <seg>其它類型之代表性變壓器測試，用以證明此類變壓器符合例行測試以外指定之規範：若變壓器使用相同設計、相同技術和材料於同一家工廠生產，則此變壓器具代表性</seg>
       </tuv>
     </tu>
     <tu>
