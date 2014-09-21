@@ -14110,6 +14110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For a multi-winding transformer, half the arithmetic sum of the rated power values of all windings (separate windings, not auto-connected) gives a rough estimate of its physical size as compared with a two-winding transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T121639Z" creationid="CCYU" creationdate="20140921T121639Z">
+        <seg>註 2 對於多繞組變壓器，所有繞組 (獨立繞組，非自藕) 之額定功率平均可粗估其相對雙繞組變壓器之尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 For single-phase transformer windings intended to be connected in delta to form a three-phase bank, the rated current is indicated as line current divided by -NE,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015553Z" creationid="CCYU" creationdate="20140920T015545Z">
