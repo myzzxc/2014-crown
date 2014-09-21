@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 Service conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z" creationid="CCYU" creationdate="20140921T091935Z">
+        <seg>4 運作條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4.&lt;t0/&gt; &lt;t1/&gt;FIRST AID MEASURES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145238Z" creationid="CCYU" creationdate="20140808T145055Z">
@@ -10354,6 +10362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133846Z">
         <seg>I: - &lt;t0/&gt;40 °C 至 +40 °C (長期最高溫度 +24 °C 和短期最高溫度 +40 °C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;i represents the r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091818Z" creationid="CCYU" creationdate="20140921T091818Z">
+        <seg>Ii 為</seg>
       </tuv>
     </tu>
     <tu>
@@ -27024,6 +27040,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>even harmonic content &lt;t0/&gt;- &lt;t1/&gt;=&lt;t2/&gt; &lt;t3/&gt;(for current)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091755Z" creationid="CCYU" creationdate="20140921T091755Z">
+        <seg>偶諧波含量 = (電流)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>even harmonic content =&lt;t0/&gt; &lt;t1/&gt;  (for voltage)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091654Z" creationid="CCYU" creationdate="20140921T091654Z">
+        <seg>偶諧波含量 = (電壓)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>excellent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061650Z" creationid="MAE" creationdate="20140810T061650Z">
@@ -28923,6 +28955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>value of current of the it&lt;t1/&gt;h&lt;t2/&gt; harmonic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091827Z" creationid="CCYU" creationdate="20140921T091827Z">
+        <seg>第 i 個諧波之電流方均根值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value of current of the ith harmonic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090833Z" creationid="CCYU" creationdate="20140921T090833Z">
@@ -28943,6 +28983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084711Z" creationid="CCYU" creationdate="20140921T084711Z">
         <seg>繞組在任何條件下運作之電流值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of voltage of the it&lt;t0/&gt;h&lt;t1/&gt; harmonic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091815Z" creationid="CCYU" creationdate="20140921T091815Z">
+        <seg>第 i 個諧波之電壓方均根值</seg>
       </tuv>
     </tu>
     <tu>
