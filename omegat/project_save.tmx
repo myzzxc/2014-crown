@@ -13670,6 +13670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Methods for the specification of suitable rated voltage values and tapping range to cope with a set of loading cases (loading power and power factor, corresponding line-to-line service voltages) are described in IEC 60076-8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T161435Z" creationid="CCYU" creationdate="20140921T161435Z">
+        <seg>IEC 60076-8 中介紹了處理一組負載情況下 (負載功率及功率因子，對應之線對線供應電壓) 適用額定電壓值規範和抽頭範圍之方法 ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Methods of analysis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T045638Z" creationid="CCYU" creationdate="20140913T045638Z">
