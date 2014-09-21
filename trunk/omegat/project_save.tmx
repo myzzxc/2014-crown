@@ -2851,6 +2851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer and its component parts in accordance with this standard is able under some circumstances to carry loading beyond rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T125047Z" creationid="CCYU" creationdate="20140921T124957Z">
+        <seg>符合此標準之變壓器及其各零件能在某些情況下超出額定功率負載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A two drum system is ideal in this situation again as these companies have a large amount of oil and oily mist on the floors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115128Z" creationid="CCYU" creationdate="20140817T115128Z">
@@ -13062,6 +13070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading beyond rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T124911Z" creationid="CCYU" creationdate="20140921T124911Z">
+        <seg>超出額定功率負載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loads applied to the anchors must be adjusted in accordance with Section 1605.2 of the IBC for strength design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081406Z">
@@ -14314,6 +14330,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105043Z" creationid="CCYU" creationdate="20140921T105043Z">
         <seg>註 5 變壓器可在不超過電流諧波含量 5% 下以額定電流運轉而不會大幅減少壽命，然而應注意所有諧波負載會使溫度上升且可能超過額定上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;An&lt;t1/&gt; example of this is where the transformer is required to o&lt;t2/&gt;perate at a particular minimum percentage of rated power with the forced cooling out of service (ONAN) to allow for the loss of auxiliary supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T124848Z" creationid="CCYU" creationdate="20140921T124848Z">
+        <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
       </tuv>
     </tu>
     <tu>
