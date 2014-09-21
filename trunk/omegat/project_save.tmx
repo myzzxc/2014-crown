@@ -2763,6 +2763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A sinusoidal supply voltage with a total harmonic content not exceeding 5 % and an even harmonic content not exceeding 1 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104230Z" creationid="CCYU" creationdate="20140921T104230Z">
+        <seg>正弦波供應電壓之總諧波含量不超過 5 % 而偶諧波含量不超過 1 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A spill that goes under pallets or under a rack system can be hours to clean up.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113501Z" creationid="CCYU" creationdate="20140817T113501Z">
@@ -12890,6 +12898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020411Z" creationid="JUDY" creationdate="20140827T020411Z">
         <seg>以下列出幾種常見的應用中如何使用紅外感應器的幾個例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load current harmonic content Total harmonic content of the load current not exceeding 5 % of rated current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104306Z" creationid="CCYU" creationdate="20140921T104306Z">
+        <seg>負載電流諧波含量的負載電流不超過 5%的額定電流的諧波含量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25652,6 +25668,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074534Z">
         <seg>水飽和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wave shape of supply voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104112Z" creationid="CCYU" creationdate="20140921T104112Z">
+        <seg>供應電壓之波形</seg>
       </tuv>
     </tu>
     <tu>
