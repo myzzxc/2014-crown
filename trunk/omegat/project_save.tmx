@@ -13798,6 +13798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 The high-voltage winding phasor is taken as reference, and the displacement for any other winding is conventionally expressed by the 'clock notation', that is, the hour indicated by the winding phasor when the H.V.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042627Z" creationid="CCYU" creationdate="20140921T042627Z">
+        <seg>註 2 以高壓繞組相量為參考點，其他繞組之相位移一般以 '時鐘標記法' 表示，高壓繞組相量位於 12 點鐘方向 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The no-load current of a winding is often expressed as a percentage of the rated current of that winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z" creationid="CCYU" creationdate="20140920T035610Z">
@@ -28743,6 +28751,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123847Z" creationid="CCYU" creationdate="20140919T123847Z">
         <seg>繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>winding phasor is at 12 o'clock (rising numbers indicate increasing phase lag).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042729Z" creationid="CCYU" creationdate="20140921T042729Z">
+        <seg>(數字增加代表相位延遲增加)。</seg>
       </tuv>
     </tu>
     <tu>
