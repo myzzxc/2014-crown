@@ -14062,6 +14062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The interpretation of rated power according to this subclause implies that it is a value of apparent power input to the transformer - including its own absorption of active and reactive power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T115007Z" creationid="CCYU" creationdate="20140921T115007Z">
+        <seg>註 1 額定功率按本小節定義為輸入變壓器之視在功率值 - 包括其自身消耗主動功率和無功功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The rated voltages of all windings appear simultaneously at no-load when the voltage applied to one of them has its rated value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T150730Z" creationid="CCYU" creationdate="20140919T150730Z">
