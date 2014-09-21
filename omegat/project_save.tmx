@@ -14686,6 +14686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal service conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094055Z" creationid="CCYU" creationdate="20140921T094055Z">
+        <seg>正常運作條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal-weight concrete must comply with Sections 1903 and 1905 of the IBC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z">
@@ -27112,6 +27120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>external insulation at high altitude: IEC 60076-3 for liquid-filled transformers, and IEC 60076-11 for dry-type transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094005Z" creationid="CCYU" creationdate="20140921T094005Z">
+        <seg>高海拔外部絕緣：IEC 60076-3 油浸式變壓器，和 IEC 60076-11  乾式變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fair</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062009Z" creationid="MAE" creationdate="20140810T062009Z">
@@ -28388,6 +28404,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083855Z" creationid="CCYU" creationdate="20140921T083855Z">
         <seg>冷煤在任何時間之溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>temperature rise and cooling in high external cooling medium temperature or at high altitude: IEC 60076-2 for liquid-immersed transformers, -and IEC 60076-11 for dry-type transformers;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093901Z" creationid="CCYU" creationdate="20140921T093901Z">
+        <seg>外部冷煤於高海拔之溫度上升和冷卻：IEC 60076-2 油浸式變壓器，和 IEC 60076-11 乾式變壓器；</seg>
       </tuv>
     </tu>
     <tu>
