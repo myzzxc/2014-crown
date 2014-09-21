@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084258Z" creationid="CCYU" creationdate="20140921T084258Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0&lt;t0/&gt;0&lt;t1/&gt;Common tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T051533Z" creationid="MAE" creationdate="20140810T051533Z">
@@ -27160,6 +27168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>half the sum of the average of the daily maxima and the average of the daily minima during a particular month over many years</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084214Z" creationid="CCYU" creationdate="20140921T084214Z">
+        <seg>多年間特定月份之每日最高溫和最低溫平均值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>heat&lt;t0/&gt; flux or heat transfer rate per unit area (Wm-2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104213Z" creationid="Judy" creationdate="20140819T104213Z">
@@ -28967,6 +28983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064650Z" creationid="CCYU" creationdate="20140913T064445Z">
         <seg>xs&lt;t0/&gt; &lt;t1/&gt;=&lt;t2/&gt; f &lt;t3/&gt;(xi,&lt;t4/&gt; &lt;t5/&gt;yi&lt;t6/&gt;)&lt;t7/&gt; 和 &lt;t8/&gt;ys&lt;t9/&gt; &lt;t10/&gt;= &lt;t11/&gt;g &lt;t12/&gt;(&lt;t13/&gt;xiyi&lt;t14/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yearly average temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084223Z" creationid="CCYU" creationdate="20140921T084223Z">
+        <seg>年均溫</seg>
       </tuv>
     </tu>
     <tu>
