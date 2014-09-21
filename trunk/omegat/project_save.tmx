@@ -4491,6 +4491,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At no load, transformers shall be capable of continuous operation at a V/Hz of 110 % of the rated V/Hz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162510Z" creationid="CCYU" creationdate="20140921T162510Z">
+        <seg>空載時，變壓器應能夠於 110% 之額定 V/Hz 條件下連續運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At several places in this part it is specified or recommended that an 'agreement' should be reached concerning alternative or additional technical solutions or procedures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133107Z" creationid="CCYU" creationdate="20140918T133107Z">
@@ -26644,6 +26652,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070603Z" creationid="CCYU" creationdate="20140817T070418Z">
         <seg>他們有各式機台 (壓縮機、發電機、液壓泵)，必定會有許多經常性的小範圍洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Within the prescribed values of Urn, for the transformer windings, a transformer shall be capable of continuous operation at rated power without damage under conditions of 'overfluxing' where the value of voltage divided by frequency (V/Hz) exceeds the corresponding value at 'rated voltage and rated frequency by no more than 5 %, unless otherwise specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162331Z" creationid="CCYU" creationdate="20140921T162331Z">
+        <seg>除非買家另有規範，否則變壓器繞組不超出規定值 Um 時應能於額定功率下連續運作，並於電壓除以頻率 (V/Hz) 值不超過對應之額定電壓和頻率值 5 % 之 '過通量' 條件下不損壞。</seg>
       </tuv>
     </tu>
     <tu>
