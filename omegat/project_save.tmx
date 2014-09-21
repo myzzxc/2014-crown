@@ -23351,6 +23351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage across the secondary terminals differs from rated voltage by the voltage drop (or rise) in the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T120036Z" creationid="CCYU" creationdate="20140921T120036Z">
+        <seg>二次端子間的電壓與額定電壓相差值為電壓降 (或升)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way they operate, they cannot be in a contained system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115537Z" creationid="CCYU" creationdate="20140817T115537Z">
