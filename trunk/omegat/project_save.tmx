@@ -26312,6 +26312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a test other than a type test or a routine test, agreed by the manufacturer and the purchaser</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083400Z" creationid="CCYU" creationdate="20140921T083400Z">
+        <seg>型式測試或例行測試以外之測試，依製造商和客戶協議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a test to which each individual transformer is subjected</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043546Z" creationid="CCYU" creationdate="20140921T043546Z">
