@@ -26152,6 +26152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the transformer has rated voltage applied to a primary winding, and rated current flows through the terminals of a secondary winding, the transformer receives the relevant rated power for that pair of windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T114348Z" creationid="CCYU" creationdate="20140921T114348Z">
+        <seg>當變壓器使用額定電壓至一次繞組，而額定電流通過二次繞組端子時，變壓器之雙繞組額定功率相關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where &lt;t0/&gt;ρpixel&lt;t1/&gt; is the precision error determined by the image width in pixels, and L is patch size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123306Z" creationid="CCYU" creationdate="20140913T123306Z">
