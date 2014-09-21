@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 Rating and general requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111351Z" creationid="CCYU" creationdate="20140921T111328Z">
+        <seg>5 額定值和一般規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5.10 &lt;t0/&gt;Minimum anchor spacing and edge distance, as well as minimum member thickness, must comply with the values given in this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034645Z">
@@ -14032,8 +14040,8 @@
       <tuv lang="EN-US">
         <seg>NOTE 1 This paragraph above is intended to allow the use of an alternative insulating liquid which does not meet minimum temperature requirements in circumstances where the minimum temperature of —25 ''C is not appropriate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T101123Z" creationid="CCYU" creationdate="20140921T101123Z">
-        <seg>註 1 允許使用不符合最低溫度要求之替代絕緣液體，若當地環境不會達到最低溫度 -25 °C。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111403Z" creationid="CCYU" creationdate="20140921T101123Z">
+        <seg>註 1 允許使用不符合最低溫度規範之替代絕緣液體，若當地環境不會達到最低溫度 -25 °C。</seg>
       </tuv>
     </tu>
     <tu>
