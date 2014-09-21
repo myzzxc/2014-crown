@@ -27752,6 +27752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>distortion of the supply voltage waveform exceeding the limits of 4.2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163855Z" creationid="CCYU" creationdate="20140921T163855Z">
+        <seg>供應電壓之波形失真超出 4.2 規定之限制；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>divided by the tapping factor of the tapped winding if this is the low-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024646Z" creationid="CCYU" creationdate="20140920T024646Z">
@@ -28180,6 +28188,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104026Z" creationid="Judy" creationdate="20140819T104026Z">
         <seg>換氣活塞高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high harmonic content of the load current exceeding the requirements of 4.2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163804Z" creationid="CCYU" creationdate="20140921T163804Z">
+        <seg>負載電流之高諧波含量超出 4.2 規定之限制；</seg>
       </tuv>
     </tu>
     <tu>
@@ -29927,6 +29943,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043607Z" creationid="CCYU" creationdate="20140921T043607Z">
         <seg>型式測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unusual high frequency switching transients, see Clause 13;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164021Z" creationid="CCYU" creationdate="20140921T164021Z">
+        <seg>異常高頻切換暫態，請見第 13 條款；</seg>
       </tuv>
     </tu>
     <tu>
