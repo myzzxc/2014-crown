@@ -9438,6 +9438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For three-phase transformers, a set of three-phase supply voltages which are approximately symmetrical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105146Z" creationid="CCYU" creationdate="20140921T105146Z">
+        <seg>三相變壓器之一組三相供應電壓近似對稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z" creationid="CCYU" creationdate="20140817T125153Z">
@@ -14130,6 +14138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104630Z" creationid="CCYU" creationdate="20140921T104630Z">
         <seg>註 4 負載電流之諧波含量超過額定電流的 5 % 之變壓器，或專門用於供應功率電子性或整流性負載之變壓器應符合 IEC 61378 系列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 5 Transformers can operate at rated current without excessive loss of life with a current harmonic content of less than 5 %, however it should be noted that the temperature rise will increase for any harmonic loading and may exceed rated rise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105043Z" creationid="CCYU" creationdate="20140921T105043Z">
+        <seg>註 5 變壓器可在不超過電流諧波含量 5% 下以額定電流運轉而不會大幅減少壽命，然而應注意所有諧波負載會使溫度上升且可能超過額定上升量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20259,6 +20275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
         <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symmetry of three-phase supply voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105053Z" creationid="CCYU" creationdate="20140921T105053Z">
+        <seg>對稱三相供應電壓</seg>
       </tuv>
     </tu>
     <tu>
