@@ -21687,6 +21687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The apparent power that the transformer delivers to the circuit connected to the terminals of the secondary winding under rated loading differs from the rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T115306Z" creationid="CCYU" creationdate="20140921T115306Z">
+        <seg>變壓器於額定負載下傳輸至連接二次繞組端子之電路的視在功率與額定功率不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The appearance of any image may be affected by many natural and artificial factors, such as the change of vegetation and artificial objects on the ground, the incident angle of the sun (or the time of taking photographs), the error from orthorectification and etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142422Z" creationid="CCYU" creationdate="20140913T142422Z">
