@@ -14206,6 +14206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 Th&lt;t0/&gt;e relevant component standards I&lt;t1/&gt;EC 60137 for bushings and &lt;t2/&gt;IEC &lt;t3/&gt;60214-1 for tap-changers should be consulted for the loading capability of those components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132235Z" creationid="CCYU" creationdate="20140921T132235Z">
+        <seg>註2 相關元件負載力請參閱套管標準 IEC 60137 和抽頭開關標準 IEC 60214-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The high-voltage winding phasor is taken as reference, and the displacement for any other winding is conventionally expressed by the 'clock notation', that is, the hour indicated by the winding phasor when the H.V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042627Z" creationid="CCYU" creationdate="20140921T042627Z">
