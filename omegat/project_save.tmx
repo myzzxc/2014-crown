@@ -3563,6 +3563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allowance for voltage drop, with regard to load power factor, is made in the specification of the rated voltage and the tapping range (see Clause 7 of IEC 60076-8:1997).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T120341Z" creationid="CCYU" creationdate="20140921T120341Z">
+        <seg>電壓降依據負載功率因子之容許值依額定電壓和抽頭範圍規定 (請見 IEC 60076-8:1997 第 7 條款)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along this creek, we found bending of layers at the foot of the slope (Fig. 3) and a main scarp (Fig. 4) which supports the &lt;t0/&gt;sliding of the formations in this area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T045425Z" creationid="CCYU" creationdate="20140913T045425Z">
@@ -14474,6 +14482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050145Z" creationid="MAE" creationdate="20140808T050026Z">
         <seg>National Threshold Limit Values of the corresponding countries as amended in each case. 依相對應國家修訂之美國國家閥限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>National practices may be different.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T120456Z" creationid="CCYU" creationdate="20140921T120456Z">
+        <seg>各國規範可能有所不同。</seg>
       </tuv>
     </tu>
     <tu>
