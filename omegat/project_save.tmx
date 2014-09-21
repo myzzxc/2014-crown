@@ -13976,8 +13976,8 @@
       <tuv lang="EN-US">
         <seg>NOTE See Annex D for cases where the winding sections have equal voltages,</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040421Z" creationid="CCYU" creationdate="20140921T040421Z">
-        <seg>註NOTE See Annex D for cases where the winding sections have equal voltages,</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040641Z" creationid="CCYU" creationdate="20140921T040421Z">
+        <seg>註 具有等電壓之繞組區段請見附錄 D </seg>
       </tuv>
     </tu>
     <tu>
@@ -26136,6 +26136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[IEC 60050-421:1990, 421-10-05, modified]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040756Z" creationid="CCYU" creationdate="20140921T040756Z">
+        <seg>[IEC 60050-421:1990, 421-10-05, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z" creationid="CCYU" creationdate="20140918T143752Z">
@@ -27488,6 +27496,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>open windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040655Z" creationid="CCYU" creationdate="20140921T040655Z">
+        <seg>開繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>open-delta connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055254Z" creationid="CCYU" creationdate="20140920T055254Z">
@@ -28204,6 +28220,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133400Z" creationid="CCYU" creationdate="20140919T133400Z">
         <seg>自耦變壓器繞組或串聯變壓器繞組的一部分，用於串聯電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the phase windings of a three-phase transformer which are not interconnected within the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040752Z" creationid="CCYU" creationdate="20140921T040752Z">
+        <seg>三相變壓器內不相連之相繞組</seg>
       </tuv>
     </tu>
     <tu>
