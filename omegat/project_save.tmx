@@ -11174,6 +11174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer is to be operated at V/Hz in excess of those stated above, this shall be identified by the purchaser in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162926Z" creationid="CCYU" creationdate="20140921T162926Z">
+        <seg>若變壓器將於超過上述 V/Hz 條件下運作，買方應在詢問時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the user has particular requirements for the cooling method(s) or cooling equipment, this shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132754Z" creationid="CCYU" creationdate="20140921T132754Z">
@@ -17179,6 +17187,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T115619Z" creationid="CCYU" creationdate="20140807T115619Z">
         <seg>Provide good ventilation of working area (local exhaust ventilation, if necessary). 於工作區提供良好通風 (若有需要則使用局部通風)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provision for unusual service conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163003Z" creationid="CCYU" creationdate="20140921T163003Z">
+        <seg>非正常運作條件之規定</seg>
       </tuv>
     </tu>
     <tu>
