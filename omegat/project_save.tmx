@@ -22743,6 +22743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rated power refers to continuous loading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112454Z" creationid="CCYU" creationdate="20140921T112444Z">
+        <seg>額定功率為適用連續負載之功率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rates of heat input and output are calculated by integration along all solid boundaries:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203641Z" creationid="Judy" creationdate="20140823T203632Z">
@@ -24091,6 +24099,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T041510Z" creationid="JUDY" creationdate="20140827T041510Z">
         <seg>此為許多工業、維護和品管應用中的決定性優勢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a reference value for guarantees and tests concerning load losses and temperature rises.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112724Z" creationid="CCYU" creationdate="20140921T112724Z">
+        <seg>此為關於負載損耗和溫度上升之保證與測試參考值。</seg>
       </tuv>
     </tu>
     <tu>
