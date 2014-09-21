@@ -26176,6 +26176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a conventional notation indicating the connections of the high-voltage, intermediate-voltage (if any), and low-voltage windings and their relative phase displacement(s) expressed as a combination of letters and clock-hour figure(s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043231Z" creationid="CCYU" creationdate="20140921T043113Z">
+        <seg>標示高電壓、中電壓 (若存在) 以及低電壓繞組連接，其相位移以字母與及時鐘圖表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a device for changing the tapping connections of a winding, suitable for operation only while the transformer is de-energized (isolated from the system)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033512Z" creationid="CCYU" creationdate="20140920T033512Z">
@@ -26588,6 +26596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
         <seg>壓縮空氣工具手滑閥 (至少 6 bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connection symbol</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042739Z" creationid="CCYU" creationdate="20140921T042739Z">
+        <seg>連接符號</seg>
       </tuv>
     </tu>
     <tu>
