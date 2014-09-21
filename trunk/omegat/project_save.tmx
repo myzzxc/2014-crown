@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>30 °C monthly average of the hottest month;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095955Z" creationid="CCYU" creationdate="20140921T095955Z">
+        <seg>30 °C 最熱月均溫；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>30 °C!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130121Z">
