@@ -22735,6 +22735,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rated power for each winding shall either be specified by the purchaser or the purchaser shall provide sufficient information to the manufacturer to determine the rated power at the enquiry stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112326Z" creationid="CCYU" creationdate="20140921T112245Z">
+        <seg>每組繞組之額定功率須由買方指明或買方應於詢價階段向製造商提供足夠的資訊以確定額定功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rates of heat input and output are calculated by integration along all solid boundaries:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203641Z" creationid="Judy" creationdate="20140823T203632Z">
@@ -23171,6 +23179,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T035113Z">
         <seg>新混凝土和現存結構中的剪力轉移，應另外根據 EN 1992-1-1:2004+AC:2010 設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall have an assigned rated power for each winding which shall be marked on the rating plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112339Z" creationid="CCYU" creationdate="20140921T112323Z">
+        <seg>變壓器每組繞組應具有指定之額定功率並應在銘牌上標明。</seg>
       </tuv>
     </tu>
     <tu>
