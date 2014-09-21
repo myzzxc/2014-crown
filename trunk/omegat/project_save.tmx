@@ -13710,6 +13710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Design variations that are clearly irrelevant to a particular type test would not require that type test to be repeated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T050443Z" creationid="CCYU" creationdate="20140921T050440Z">
+        <seg>註 1 與特定型式測試明顯無關之設計變化無須重複型式測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For a three-phase transformer, the value is the arithmetic mean of the values of current in the three lines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035511Z" creationid="CCYU" creationdate="20140920T035511Z">
