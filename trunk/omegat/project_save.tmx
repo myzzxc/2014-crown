@@ -22991,6 +22991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rated frequency is the basis for the guaranteed values such as losses, impedance, and sound level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T142627Z" creationid="CCYU" creationdate="20140921T142627Z">
+        <seg>額定頻率為損耗、阻抗、音量等的數值之計算基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rated frequency shall be specified by the purchaser to be the normal undisturbed frequency of the network.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141408Z" creationid="CCYU" creationdate="20140921T141408Z">
