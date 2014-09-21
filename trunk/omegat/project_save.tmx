@@ -27512,6 +27512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>monthly average temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084011Z" creationid="CCYU" creationdate="20140921T084011Z">
+        <seg>月均溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>months</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123338Z" creationid="CCYU" creationdate="20140807T123338Z">
@@ -28232,6 +28240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>temperature of cooling medium at any time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083855Z" creationid="CCYU" creationdate="20140921T083855Z">
+        <seg>冷煤在任何時間之溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature&lt;t0/&gt; (K)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z" creationid="Judy" creationdate="20140819T104825Z">
@@ -28372,6 +28388,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T052746Z" creationid="CCYU" creationdate="20140920T052746Z">
         <seg>於額定頻率下三相星形 (Y) 連接或 Z 連接繞組之線路端子與中性端子相連接之阻抗，以歐姆每相表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the maximum temperature of the cooling medium measured over many years</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084004Z" creationid="CCYU" creationdate="20140921T083917Z">
+        <seg>冷煤多年間量測之最高溫度</seg>
       </tuv>
     </tu>
     <tu>
