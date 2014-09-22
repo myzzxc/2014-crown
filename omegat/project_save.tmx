@@ -10752,8 +10752,8 @@
       <tuv lang="EN-US">
         <seg>IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134619Z" creationid="CCYU" creationdate="20140918T134619Z">
-        <seg>IEC 60076-10:2001，電力變壓器 — 第 10 部分：噪音等級測定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155933Z" creationid="CCYU" creationdate="20140918T134619Z">
+        <seg>IEC 60076-10:2001，電力變壓器 — 第 10 部分：音量等級測定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11266,6 +11266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155311Z" creationid="CCYU" creationdate="20140922T155311Z">
         <seg>若零序阻抗有高、低限值之規範，應由買方提出，並可能會影響核心配置和三角繞組之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a particular requirement for either a bank of single phase transformer or a three phase unit, then this shall be specified by the user; otherwise the manufacturer shall make it clear in the tender document what type of transformer is being offered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155825Z" creationid="CCYU" creationdate="20140922T155825Z">
+        <seg>若有任何單相變壓器組或三相單元之特別規範，使用者應指明；而製造商應於投標時明確說明提供之變壓器類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19863,6 +19871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155922Z" creationid="CCYU" creationdate="20140922T155844Z">
+        <seg>音量等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sources of key data used to compile the data sheet:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044259Z" creationid="MAE" creationdate="20140808T044259Z">
@@ -26708,6 +26724,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061301Z" creationid="CCYU" creationdate="20140817T061301Z">
         <seg>當油和水混合時，&lt;t3/&gt; SaveSorb &lt;t4/&gt; 將油從水中分離並封鎖住，不外滲回到水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where the purchaser has a specific requirement for a guaranteed maximum sound level, this shall be given in the enquiry and should preferably be expressed as a sound power level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155911Z" creationid="CCYU" creationdate="20140922T155911Z">
+        <seg>當買方有最高音量等級的具體要求，這應在專題訪問中，最好應表述為聲功率級。</seg>
       </tuv>
     </tu>
     <tu>
