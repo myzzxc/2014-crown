@@ -11062,6 +11062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If higher accelerations are specified by the customer, the manufacturer shall demonstrate compliance by means of calculation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162738Z" creationid="CCYU" creationdate="20140922T162738Z">
+        <seg>若客戶指定更高的加速度，製造商應藉由計算證明法符合規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it becomes damp it must be air-dried.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151025Z">
@@ -11254,10 +11262,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer is intended to be used as a mobile transformer, this shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162819Z" creationid="CCYU" creationdate="20140922T162819Z">
+        <seg>若變壓器用作移動型變壓器，必須於詢問時表明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is to be operated at V/Hz in excess of those stated above, this shall be identified by the purchaser in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162926Z" creationid="CCYU" creationdate="20140921T162926Z">
         <seg>若變壓器將於超過上述 V/Hz 條件下運作，買方應在詢問時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the transport is not the responsibility of the manufacturer and an acceleration in excess of 1 g is expected during transport, the accelerations and frequencies shall be defined in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162648Z" creationid="CCYU" creationdate="20140922T162648Z">
+        <seg>若製造商無需負責運輸，且運輸過程中預期加速超過 1 g，應在詢問時確定加速度和發生頻率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14770,6 +14794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025050Z" creationid="CCYU" creationdate="20140920T025050Z">
         <seg>註 依照定義，額定電壓比至少等於 1 時，對於某些特定抽頭之額定電壓接近 1 時，其抽頭電壓比可小於 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162826Z" creationid="CCYU" creationdate="20140922T162826Z">
+        <seg>註 </seg>
       </tuv>
     </tu>
     <tu>
