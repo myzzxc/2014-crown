@@ -25112,6 +25112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total harmonic content of the load current &lt;t0/&gt;not exceeding&lt;t1/&gt; 5 % of rated current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T132625Z" creationid="CCYU" creationdate="20140922T132625Z">
+        <seg>負載電流之總諧波含量不超過額定電流的 5%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total harmonic content of the load current not exceeding 5 % of rated current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104407Z" creationid="CCYU" creationdate="20140921T104407Z">
