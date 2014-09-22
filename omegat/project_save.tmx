@@ -11238,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the purchaser requires a load current sound level measurement test or a guarantee of the total noise level of the transformers, including load noise, this shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161222Z" creationid="CCYU" creationdate="20140922T161222Z">
+        <seg>若買方要求變壓器之負載電流音量等級量測測試或變壓器總噪音 (包含負載噪音) 等級保證，必須於詢問時提出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is to be operated at V/Hz in excess of those stated above, this shall be identified by the purchaser in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162926Z" creationid="CCYU" creationdate="20140921T162926Z">
