@@ -24825,8 +24825,8 @@
       <tuv lang="EN-US">
         <seg>This might include a restriction on the transportation with insulating liquid or different environmental conditions expected to be experienced during transportation than those expected in service.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161830Z" creationid="CCYU" creationdate="20140922T161830Z">
-        <seg>這可能包括與絕緣液體運輸限制或不同環境條件下預期比那些預期服務在運輸過程中要經歷。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162013Z" creationid="CCYU" creationdate="20140922T161830Z">
+        <seg>這可能包括與絕緣液體同時運輸之限制或運輸過程中預期有與運作不同之環境條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25532,6 +25532,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T042010Z" creationid="MAE" creationdate="20140808T042010Z">
         <seg>Transport IMDG 運輸 IMDG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport acceleration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162027Z" creationid="CCYU" creationdate="20140922T162027Z">
+        <seg>運輸加速度</seg>
       </tuv>
     </tu>
     <tu>
