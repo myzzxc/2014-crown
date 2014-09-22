@@ -11030,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any other special conditions apply during transportation, they shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161832Z" creationid="CCYU" creationdate="20140922T161824Z">
+        <seg>若運輸過程中有任何其他特殊條件，必須於詢問時表明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If different values of apparent power are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113418Z" creationid="CCYU" creationdate="20140921T113418Z">
@@ -11330,6 +11338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075902Z" creationid="CCYU" creationdate="20140913T075817Z">
         <seg>若發生此類情型，必須使用重新取樣技術以從原始影像中選擇像素值並複製到新影像中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If transport size or weight limits apply, they shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161747Z" creationid="CCYU" creationdate="20140922T161747Z">
+        <seg>若具有運輸大小或重量限制，必須於詢問時表明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14454,6 +14470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 For t&lt;t0/&gt;ransformers below 20 MVA and Um ≤ 72,&lt;t1/&gt;5 kV significant design variations may be acceptable if supported by demonstration of compliance with type test requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161655Z" creationid="CCYU" creationdate="20140922T161655Z">
+        <seg>註 3 功率低於 20 MVA 和 Um ≤ 72,5  kV 之變壓器，若通過型式測試要求則可以接受重大設計變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For t&lt;t0/&gt;ransformers below 20 MVA and Um ≤ 72&lt;t1/&gt;,&lt;t2/&gt;5&lt;t3/&gt; kV significant design variations may be acceptable if&lt;t4/&gt; &lt;t5/&gt;supported by demonstration of compliance wit&lt;t6/&gt;h type test requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052638Z" creationid="CCYU" creationdate="20140921T052638Z">
@@ -14570,6 +14594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
         <seg>註 只有當繞組不用於三相連接至外部電路時才可稱為穩定繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE An example of this is where the transformer is required to operate at a particular minimum percentage of rated power with the forced cooling out of service (ONAN) to allow for the loss of auxiliary supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161708Z" creationid="CCYU" creationdate="20140922T161708Z">
+        <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
       </tuv>
     </tu>
     <tu>
@@ -23695,6 +23727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer shall be capable of carrying, in continuous service, the specified minimum power (for a multi-winding transformer: the specified combination(s) of winding rated power(s)&lt;t0/&gt;under conditions listed in Clause 4, and under the specified cooling mode, without exceeding the temperature-rise limitations specified in IEC 60076-2 for liquid immersed transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161659Z" creationid="CCYU" creationdate="20140922T161659Z">
+        <seg>變壓器應能在第 4 條款所列條件下與特定冷卻模式下連續供應額定功率 (多繞組變壓器：指明繞組額定功率組合) 而不超過 IEC 60076-2 液浸式變壓器中所規定之的溫度上升限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformer shall be capable of carrying, in continuous service, the specified minimum&lt;t0/&gt; &lt;t1/&gt;power (for a multi-winding transformer: the specified combination(s) of winding rated power(s)&lt;t2/&gt;under conditions listed in Clause 4, and under the specified cooling mode, without exceeding the temperature-rise limitations specified in IEC 60076-2 for liquid immersed transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T123356Z" creationid="CCYU" creationdate="20140921T123356Z">
@@ -24779,6 +24819,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
         <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This might include a restriction on the transportation with insulating liquid or different environmental conditions expected to be experienced during transportation than those expected in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161830Z" creationid="CCYU" creationdate="20140922T161830Z">
+        <seg>這可能包括與絕緣液體運輸限制或不同環境條件下預期比那些預期服務在運輸過程中要經歷。</seg>
       </tuv>
     </tu>
     <tu>
