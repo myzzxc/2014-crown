@@ -22591,6 +22591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The guaranteed maximum sound level is a limit without tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161508Z" creationid="CCYU" creationdate="20140922T161508Z">
+        <seg>保證最高音量等級之限制無容許誤差範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hand-pump can be used for anchor sizes up to bore &lt;t0/&gt;hole&lt;t1/&gt; diameter 20 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002001Z">
@@ -23459,6 +23467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160853Z" creationid="CCYU" creationdate="20140922T160853Z">
         <seg>運轉中的音量等級受負載電流影響 (請見 IEC 60076-10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sound level measured in the test according to IEC 60076-10 shall not exceed the guaranteed maximum sound level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161418Z" creationid="CCYU" creationdate="20140922T161418Z">
+        <seg>測試中依據 IEC 60076-10 所量測之音量等級不得超過保證的最高音量等級，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25440,6 +25456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transport</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161512Z" creationid="CCYU" creationdate="20140922T161512Z">
+        <seg>運輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transport ADR/RID/ADN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T041828Z" creationid="MAE" creationdate="20140808T041828Z">
@@ -25476,6 +25500,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101210Z" creationid="CCYU" creationdate="20140809T101210Z">
         <seg>Transport information 運輸資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport limitation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161532Z" creationid="CCYU" creationdate="20140922T161532Z">
+        <seg>運輸限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -27530,8 +27562,8 @@
       <tuv lang="EN-US">
         <seg>addition of a subclause on transport;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T130031Z" creationid="CCYU" creationdate="20140917T135032Z">
-        <seg>增加關於輸送的子條款；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161549Z" creationid="CCYU" creationdate="20140917T135032Z">
+        <seg>增加關於運輸的子條款；</seg>
       </tuv>
     </tu>
     <tu>
