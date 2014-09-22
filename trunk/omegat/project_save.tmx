@@ -14496,8 +14496,8 @@
       <tuv lang="EN-US">
         <seg>NOTE For a series transformer, the winding having the lower rated voltage may be that having the higher insulation level.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131645Z" creationid="CCYU" creationdate="20140919T131645Z">
-        <seg>註 串聯變壓器之繞組具有較低的額定電壓具有較高的絕緣等級。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T131319Z" creationid="CCYU" creationdate="20140919T131645Z">
+        <seg>註 串聯變壓器之繞組具有較低的額定電壓者可能具有較高的絕緣等級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29634,8 +29634,8 @@
       <tuv lang="EN-US">
         <seg>the requirements formerly in Annex A are now incorporated in the text and Annex A is now an informative checklist;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135713Z" creationid="CCYU" creationdate="20140917T140349Z">
-        <seg>於前一版之附件 A 所列之規範中加入文字，附件 A 現在為參考性的對照表 ；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T131259Z" creationid="CCYU" creationdate="20140917T140349Z">
+        <seg>於前一版之附件 A 所列之規範中加入文字，此版本附件 A 為參考性的對照表 ；</seg>
       </tuv>
     </tu>
     <tu>
