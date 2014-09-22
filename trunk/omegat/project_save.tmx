@@ -11246,6 +11246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the zero sequence requirements dictated the use of a delta connected winding that was not directly specified by the purchaser, then this shall be clearly stated by the manufacturer in the tender documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155546Z" creationid="CCYU" creationdate="20140922T155546Z">
+        <seg>若零序規範取決於使用買方未直接指定之三角連接繞組，則製造商於投標時應當明確說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are leaks or sprays where the operators stand, using a mat for the operator to stand on can make a big difference.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T093712Z" creationid="CCYU" creationdate="20140817T093712Z">
