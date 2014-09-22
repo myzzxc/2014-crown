@@ -11254,6 +11254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are requirements for high and low limits for the zero sequence impedance, this shall be stated by the purchaser and may influence the core configuration and the requirement for a delta winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155311Z" creationid="CCYU" creationdate="20140922T155311Z">
+        <seg>若零序阻抗有高、低限值之規範，應由買方提出，並可能會影響核心配置和三角繞組之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these requirements are not maintained, the application has to be renewed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045233Z">
@@ -14520,8 +14528,8 @@
       <tuv lang="EN-US">
         <seg>NOTE A closed magnetic circuit for zero sequence flux exists in a shell-form transformer, and in a core-form transformer with an unwound limb or limbs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154906Z" creationid="CCYU" creationdate="20140922T154906Z">
-        <seg>註 A closed magnetic circuit for zero sequence flux exists in a shell-form transformer, and in a core-form transformer with an unwound limb or limbs.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155140Z" creationid="CCYU" creationdate="20140922T154906Z">
+        <seg>註 閉磁路之零序磁通存在於殼型變壓器，以及含未繞線或心柱之心型變壓器。</seg>
       </tuv>
     </tu>
     <tu>
