@@ -22631,6 +22631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The kind of transformer, for example, separate winding transformer, auto-transformer or series transformer shall be specified by the user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135913Z" creationid="CCYU" creationdate="20140922T135913Z">
+        <seg>使用者應指明變壓器種類，例如，分離繞組變壓器、自耦變壓器或串聯變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lamp then lights up again constantly in red for the remainder of the warm-up phase.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111415Z">
@@ -23203,6 +23211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043353Z" creationid="CCYU" creationdate="20140911T130215Z">
         <seg>所紀錄之地滑與遽變型山崩相異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The required winding connection shall be specified by the user in accordance with the terminology given in Clause 7 to suit the application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140204Z" creationid="CCYU" creationdate="20140922T140204Z">
+        <seg>使用者應根據第 7 條款所列名稱指明所需之繞組連接以符合其應用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26708,6 +26724,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175154Z" creationid="Judy" creationdate="20140818T175154Z">
         <seg>不會發生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winding connection and number of phases</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135933Z" creationid="CCYU" creationdate="20140922T135933Z">
+        <seg>繞組連接及相位數</seg>
       </tuv>
     </tu>
     <tu>
