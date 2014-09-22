@@ -28272,6 +28272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if a generator step up transformer is intended to be used in back-feed mode when not&lt;t0/&gt; &lt;t1/&gt;connected to the generator without protection on the lower voltage side;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134128Z" creationid="CCYU" creationdate="20140922T134128Z">
+        <seg>若發電機升壓變壓器用於回授模式下，當低電壓側未使用報保護連接至發電機；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in a transformer having a tapped winding, a specific connection of that winding, representing a definite effective number of turns in the tapped winding and, consequently, a definite turns ratio between this winding and any other winding with a fixed number of turns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020528Z" creationid="CCYU" creationdate="20140920T020528Z">
