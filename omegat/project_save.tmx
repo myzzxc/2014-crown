@@ -3179,6 +3179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information required for enquiry</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135750Z" creationid="CCYU" creationdate="20140922T135750Z">
+        <seg>詢問所需之額外資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z" creationid="CCYU" creationdate="20140808T133646Z">
@@ -9624,8 +9632,8 @@
       <tuv lang="EN-US">
         <seg>For transformer windings with a highest voltage for equipment greater than (&gt;) 72,5 kV the purchaser shall specify whether any neutral terminals for that winding are to be directly earthed in service or not, and if not, the Urn for the neutral terminals shall be specified by the purchaser.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135310Z" creationid="CCYU" creationdate="20140922T135310Z">
-        <seg>變壓器繞組對於設備5 最高電壓的大於號 (&gt;) 72.5 kV 買方應指定任何中立的終端機，供該繞組是否或不直接接地在服務和如果不應由買方指定為中性終端甕。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135558Z" creationid="CCYU" creationdate="20140922T135310Z">
+        <seg>變壓器繞組對於設備之最高電壓大於 (&gt;) 72.5 kV 時，買方應指定是否於繞組使用任何中性端子直接接地，若不不直接接地，買方應指明中性端子之 Um。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25304,6 +25312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer classification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135801Z" creationid="CCYU" creationdate="20140922T135801Z">
+        <seg>變壓器分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformer specification for operation under such abnormal conditions shall be subject to agreement between the supplier and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134533Z" creationid="CCYU" creationdate="20140922T134533Z">
@@ -25660,6 +25676,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004808Z">
         <seg>單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified by the purchaser, dielectric test levels shall be taken to be the lowest applicable value corresponding to Um, given in IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135729Z" creationid="CCYU" creationdate="20140922T135729Z">
+        <seg>除非買方另外指明，介電測試等級應根據 Um 使用 IEC 60076-3 給定之最低適用值。</seg>
       </tuv>
     </tu>
     <tu>
