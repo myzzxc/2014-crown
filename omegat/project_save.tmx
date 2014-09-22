@@ -11022,6 +11022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an alternative cooling mode is specified (see 5.1.3) the sound level for each alternative mode, may be specified by the purchaser and if specified shall be guaranteed by the manufacturer and measured on test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160810Z" creationid="CCYU" creationdate="20140922T160810Z">
+        <seg>若有指明其他各種冷卻模式 (請參閱 5.1.3)，可由買方指定音量等級，若指定音量等級則製造商應保證並於測試中量測音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If different values of apparent power are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113418Z" creationid="CCYU" creationdate="20140921T113418Z">
@@ -23435,6 +23443,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090941Z" creationid="CCYU" creationdate="20140817T090941Z">
         <seg>工具組的大小取決於潛在洩漏的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sound level in service is influenced by the load current (see IEC 60076-10).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160853Z" creationid="CCYU" creationdate="20140922T160853Z">
+        <seg>運轉中的音量等級受負載電流影響 (請見 IEC 60076-10)。</seg>
       </tuv>
     </tu>
     <tu>
