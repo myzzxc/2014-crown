@@ -6132,6 +6132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components and materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162945Z" creationid="CCYU" creationdate="20140922T162945Z">
+        <seg>元件和材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Composition/information on ingredients</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082036Z" creationid="CCYU" creationdate="20140809T082036Z">
@@ -23835,6 +23843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100020Z">
         <seg>電毯三層設計包含外部兩層蓬鬆超細纖絨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of impact or shock recorders during transportation for large transformer is common practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162929Z" creationid="CCYU" creationdate="20140922T162929Z">
+        <seg>大型變壓器運輸過程中常使用衝擊或振動記錄器。</seg>
       </tuv>
     </tu>
     <tu>
