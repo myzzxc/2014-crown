@@ -9622,6 +9622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformer windings with a highest voltage for equipment greater than (&gt;) 72,5 kV the purchaser shall specify whether any neutral terminals for that winding are to be directly earthed in service or not, and if not, the Urn for the neutral terminals shall be specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135310Z" creationid="CCYU" creationdate="20140922T135310Z">
+        <seg>變壓器繞組對於設備5 最高電壓的大於號 (&gt;) 72.5 kV 買方應指定任何中立的終端機，供該繞組是否或不直接接地在服務和如果不應由買方指定為中性終端甕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers intended to be installed indoors, some of these environmental conditions may not be applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z" creationid="CCYU" creationdate="20140921T110954Z">
