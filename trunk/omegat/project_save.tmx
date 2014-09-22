@@ -9397,6 +9397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For line terminals, unless otherwise specified by the purchaser, Um shall be taken to be the lowest value that exceeds the rated voltage of each winding given in IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135158Z" creationid="CCYU" creationdate="20140922T135158Z">
+        <seg>除非買方另有指明，對於線路端子之 Um 應超過 IEC 60076-3 中每組繞組額定電壓之最小值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformers, the purchaser shall specify the required power-loading combinations, stating, when necessary, the active and reactive outputs separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113949Z" creationid="CCYU" creationdate="20140921T113949Z">
@@ -10434,6 +10442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142241Z" creationid="CCYU" creationdate="20140809T141228Z">
         <seg>使用包含非自然光譜、增強的紫外線輻射之快速時間推移測試，可於短時間內得到測試結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highest voltage for equipment Um and dielectric tests levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135018Z" creationid="CCYU" creationdate="20140922T135018Z">
+        <seg>設備 Um 之最高電壓和介電測試等級</seg>
       </tuv>
     </tu>
     <tu>
