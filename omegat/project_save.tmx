@@ -10792,8 +10792,8 @@
       <tuv lang="EN-US">
         <seg>IEC Publications have the form of recommendations for international use and are accepted by &lt;t0/&gt;IEC&lt;t1/&gt; National Committees in that sense&lt;t2/&gt;.&lt;t3/&gt; While all reasonable efforts are made to ensure that the technical content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132151Z" creationid="CCYU" creationdate="20140917T132151Z">
-        <seg>IEC 出版物附有供國際使用之建議表，其為所有 IEC 國家委員會所接受。IEC 盡最大努力以確保其出版物之技術內容精確，但 IEC 不對其使用行為任何使用者的誤解負責。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T130013Z" creationid="CCYU" creationdate="20140917T132151Z">
+        <seg>IEC 出版物附有供國際使用之建議表，其為所有 IEC 國家委員會所接受。IEC 盡最大努力以確保其出版物之技術內容精確，但 IEC 不對其使用行為或任何使用者的誤解負責。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27330,7 +27330,7 @@
       <tuv lang="EN-US">
         <seg>addition of a subclause on transport;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135032Z" creationid="CCYU" creationdate="20140917T135032Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T130031Z" creationid="CCYU" creationdate="20140917T135032Z">
         <seg>增加關於輸送的子條款；</seg>
       </tuv>
     </tu>
