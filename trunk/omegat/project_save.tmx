@@ -9535,8 +9535,8 @@
       <tuv lang="EN-US">
         <seg>For star-star connected transformers or autotransformers, if the design has a closed magnetic circuit for zero sequence flux and no delta winding is specified, then the requirement shall be discussed between the manufacturer and the purchaser (see IEC 60076-8).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154617Z" creationid="CCYU" creationdate="20140922T154617Z">
-        <seg>Read timed out</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154919Z" creationid="CCYU" creationdate="20140922T154617Z">
+        <seg>對於 Y-Y 連接之變壓器或自耦變壓器，若設計有閉磁路之零序磁通且無指定三角繞組，則規範應由製造商和買方之間討論 (請見 IEC 60076-8)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14514,6 +14514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T133334Z" creationid="CCYU" creationdate="20140922T133334Z">
         <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE A closed magnetic circuit for zero sequence flux exists in a shell-form transformer, and in a core-form transformer with an unwound limb or limbs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154906Z" creationid="CCYU" creationdate="20140922T154906Z">
+        <seg>註 A closed magnetic circuit for zero sequence flux exists in a shell-form transformer, and in a core-form transformer with an unwound limb or limbs.</seg>
       </tuv>
     </tu>
     <tu>
