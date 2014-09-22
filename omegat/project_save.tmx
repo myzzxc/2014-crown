@@ -25768,6 +25768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the sound level shall be taken as the no load sound level with all cooling equipment required to achieve rated power in operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160435Z" creationid="CCYU" creationdate="20140922T160435Z">
+        <seg>除非另外說明，否則音量等級為無負載運轉下並包含達額定功率操作所需之所有冷卻設備的音量等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unplug it from the mains outlet immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T091734Z">
