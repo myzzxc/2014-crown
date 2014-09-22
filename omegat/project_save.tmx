@@ -25272,6 +25272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer specification for operation under such abnormal conditions shall be subject to agreement between the supplier and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134533Z" creationid="CCYU" creationdate="20140922T134533Z">
+        <seg>於此類異常的條件下操作之變壓器規範須經買方與供應商之間同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers intended to be connected directly to generators in such a way that they may be subjected to load rejection conditions shall be able to withstand 1,4 times rated voltage for 5 s at the transformer terminals to which the generator is to be connected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135833Z" creationid="CCYU" creationdate="20140921T135833Z">
@@ -27696,6 +27704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>corrosion protection, according to the kind of installation and the installation&lt;t0/&gt; &lt;t1/&gt;environment (see 4.2), the purchaser should choose classes of protection in ISO 12944 or by agreement between purchaser and manufacturer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134324Z" creationid="CCYU" creationdate="20140922T134324Z">
+        <seg>依據安裝類型和安裝環境 (請見 4.2) 之腐蝕保護，買方應該選擇 ISO 12944 等級之保護，或依照買家和製造商之間的協定；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>crank&lt;t0/&gt; angle of the displacer density (kg m-3)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105518Z" creationid="Judy" creationdate="20140819T105518Z">
@@ -28484,6 +28500,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035753Z" creationid="CCYU" creationdate="20140920T035753Z">
         <seg>負載損耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>load rejection conditions for generator transformers more severe than those given in&lt;t0/&gt; &lt;t1/&gt;5.3 above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134441Z" creationid="CCYU" creationdate="20140922T134441Z">
+        <seg>發電機變壓器之卸除負載條件相對 5.3 更為嚴苛。</seg>
       </tuv>
     </tu>
     <tu>
