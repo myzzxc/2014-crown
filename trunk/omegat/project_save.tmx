@@ -20639,6 +20639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supplementary requirements, within defined limits, for the rating and testing of transformers designed for other than normal service conditions listed in Clause 4, such as high temperature of cooling air or altitude above 1 000 m are given in IEC 60076-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134928Z" creationid="CCYU" creationdate="20140922T134928Z">
+        <seg>定義限制範圍內用於非正常服務條件的變壓器評等和測試之補充要求列於第 4 條款中，冷卻空氣高溫或海拔超過 1000 公尺列於 IEC 60076-2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplementary rules for rating and testing are given in the following publications:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093406Z" creationid="CCYU" creationdate="20140921T093406Z">
