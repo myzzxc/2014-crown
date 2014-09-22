@@ -9533,6 +9533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For star-star connected transformers or autotransformers, if the design has a closed magnetic circuit for zero sequence flux and no delta winding is specified, then the requirement shall be discussed between the manufacturer and the purchaser (see IEC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154617Z" creationid="CCYU" creationdate="20140922T154617Z">
+        <seg>Read timed out</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For terms and definitions relating to insulation, see IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054035Z" creationid="CCYU" creationdate="20140920T054035Z">
