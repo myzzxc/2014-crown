@@ -14462,6 +14462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;An&lt;t1/&gt; example of this is where the transformer is required to operate at a particular minimum percentage of rated power with the forced cooling out of service (ONAN) to allow for the loss of auxiliary supply</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T133334Z" creationid="CCYU" creationdate="20140922T133334Z">
+        <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z" creationid="CCYU" creationdate="20140919T132913Z">
