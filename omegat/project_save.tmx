@@ -3483,6 +3483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All &lt;t0/&gt;tappings&lt;t1/&gt; shall be full-power &lt;t2/&gt;tappings&lt;t3/&gt;, that is, the rate&lt;t4/&gt;d tapping current at each tapping&lt;t5/&gt; shall be the rated power divided by the rated tapping voltage at each&lt;t6/&gt; tap except as specifies&lt;t7/&gt; below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145805Z" creationid="CCYU" creationdate="20140923T145805Z">
+        <seg>所有抽頭皆為全功率抽頭，即代表每組抽頭之額定電流應為額定功率除以額定電壓，但下列情況例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All &lt;t0/&gt;temperature ranges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055559Z" creationid="MAE" creationdate="20140727T055559Z">
