@@ -22976,6 +22976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following shall apply unless the voltage and current at each tapping is &lt;t0/&gt;otherwise&lt;t1/&gt; specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145356Z" creationid="CCYU" creationdate="20140923T145356Z">
+        <seg>以下條文除各抽頭之電壓和電流另行指定外皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following warranty terms apply:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114712Z">
