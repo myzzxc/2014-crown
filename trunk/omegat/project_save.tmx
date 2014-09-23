@@ -11574,6 +11574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a multi-winding transformer, the statements apply to the combination of the tapped winding with either of the untapped windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T131217Z" creationid="CCYU" creationdate="20140923T131217Z">
+        <seg>對於多繞組變壓器，聲明適用於抽頭繞組與無抽頭繞組的結合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
@@ -22627,6 +22635,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T153748Z">
         <seg>fischer FIS EM 黏結錨固系統由以下元件組成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following &lt;t0/&gt;subclauses&lt;t1/&gt; apply to transformers in which only one of the windings is a tapped winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T131115Z" creationid="CCYU" creationdate="20140923T131115Z">
+        <seg>以下子條款適用於僅有一抽頭繞組之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
