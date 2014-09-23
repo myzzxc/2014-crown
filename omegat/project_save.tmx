@@ -6062,8 +6062,8 @@
       <tuv lang="EN-US">
         <seg>Combined voltage variation (&lt;t0/&gt;CbVV&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141329Z" creationid="CCYU" creationdate="20140923T141329Z">
-        <seg>結合電壓變化 (CbVV)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141634Z" creationid="CCYU" creationdate="20140923T141329Z">
+        <seg>組合電壓變化 (CbVV)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +11914,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T112810Z">
         <seg>輕型窗架結構、承重或非承重牆、混凝土錨固的剪力強度少於或等於 1 英吋 [25 毫米] .3.3.5.3(a) through (c) when the design strength of the anchors is determined in accordance with D.6.2.1(c).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many applications and particularly with transformers having a large tapping range, a combination is specified using both principles applied to different parts of the range: combined voltage variation (&lt;t0/&gt;CbVV&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141806Z" creationid="CCYU" creationdate="20140923T141631Z">
+        <seg>在許多應用中，特別是大抽頭範圍之變壓器，對於不同範圍的部份組合使兩種方式：組合電壓變化 (CbVV)</seg>
       </tuv>
     </tu>
     <tu>
