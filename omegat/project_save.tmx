@@ -2392,6 +2392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;See Figure la.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140659Z" creationid="CCYU" creationdate="20140923T140659Z">
+        <seg>請見圖 1a。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Simple kit with a &lt;t1/&gt;Spillow&lt;t2/&gt; sock and a small bag.&lt;t3/&gt; The pitch is that it will allow the lift operator to contain the spill quickly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113314Z" creationid="CCYU" creationdate="20140817T113314Z">
@@ -6391,8 +6399,8 @@
       <tuv lang="EN-US">
         <seg>Constant flux voltage variation (CFVV)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140401Z" creationid="CCYU" creationdate="20140923T140401Z">
-        <seg>恒通量電壓變化 (CFVV)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140734Z" creationid="CCYU" creationdate="20140923T140401Z">
+        <seg>恆定通量電壓變化 (CFVV)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23919,6 +23927,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tapping voltage in any untapped winding is constant from tapping to tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140610Z" creationid="CCYU" creationdate="20140923T140610Z">
+        <seg>任何無抽頭繞組之抽頭間的電壓為恒定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tapping voltage in the tapped winding is constant from tapping to tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140830Z" creationid="CCYU" creationdate="20140923T140830Z">
+        <seg>抽頭繞組之抽頭間的電壓為恒定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tapping voltages in the tapped winding are proportional to the tapping factors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140644Z" creationid="CCYU" creationdate="20140923T140644Z">
+        <seg>抽頭繞組中的抽頭電壓與抽頭係數成正比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature contours in Fig. 8(a) &lt;t0/&gt;show&lt;t1/&gt; that the core temperature in the compression chamber reaches 330.0 K due the compression process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093431Z" creationid="Judy" creationdate="20140823T093431Z">
@@ -26520,6 +26552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Variable flux voltage variation (VFVV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140807Z" creationid="CCYU" creationdate="20140923T140807Z">
+        <seg>可變通量電壓變化 (VFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Various peak fit algorithms are available which recover the sub-pixel displacement of the value (peak) of cross-correlation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025413Z" creationid="CCYU" creationdate="20140914T024824Z">
@@ -28060,14 +28100,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
         <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>b)</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095529Z" creationid="CCYU" creationdate="20140921T095529Z">
-        <seg> b)</seg>
       </tuv>
     </tu>
     <tu>
