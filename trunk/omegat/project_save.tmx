@@ -2601,6 +2601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;tapping&lt;t3/&gt;'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141905Z" creationid="CCYU" creationdate="20140923T141905Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
@@ -5231,6 +5239,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
         <seg>謹慎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CFVV applies for &lt;t0/&gt;tappings&lt;t1/&gt; with tapping factors below the maximum voltage tapping factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142050Z" creationid="CCYU" creationdate="20140923T142050Z">
+        <seg>CFVV 適用於抽頭係數低於最大電壓抽頭係數之抽頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9706,6 +9722,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145639Z">
         <seg>因此，裝置開啟時控制器不得被覆蓋或放置在暖腳機上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this system the following applies:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141955Z" creationid="CCYU" creationdate="20140923T141955Z">
+        <seg>以下為此系統應用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22479,6 +22503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The change-over point is called 'maximum voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141845Z" creationid="CCYU" creationdate="20140923T141845Z">
+        <seg>切換點稱為 '最大電壓抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The classes of controlled products listed in the CPR, Section 32, &lt;t2/&gt;Part&lt;t3/&gt; IV, have been reviewed and based on Professional Judgment this product has been determined not to be WHMIS controlled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185034Z" creationid="Judy" creationdate="20140818T185034Z">
@@ -26468,6 +26500,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173109Z" creationid="Judy" creationdate="20140818T173109Z">
         <seg>通風：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VFVV applies for &lt;t0/&gt;tappings&lt;t1/&gt; with tapping factors above the maximum voltage tapping factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142110Z" creationid="CCYU" creationdate="20140923T142110Z">
+        <seg>VFVV 適用於抽頭係數高於最大電壓抽頭係數之抽頭。</seg>
       </tuv>
     </tu>
     <tu>
