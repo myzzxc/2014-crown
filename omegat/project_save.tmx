@@ -6389,6 +6389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Constant flux voltage variation (CFVV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140401Z" creationid="CCYU" creationdate="20140923T140401Z">
+        <seg>恒通量電壓變化 (CFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consult your municipal authority or your dealer for information about disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113529Z">
@@ -10962,6 +10970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134534Z" creationid="CCYU" creationdate="20140917T134534Z">
         <seg>IEC 無須負責標示任何或所有的專利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC&lt;t0/&gt;: 2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140222Z" creationid="CCYU" creationdate="20140923T140222Z">
+        <seg>IEC: 2011</seg>
       </tuv>
     </tu>
     <tu>
