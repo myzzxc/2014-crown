@@ -3459,6 +3459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All components and materials used in the construction of the transformer shall comply with the requirements of the relevant IEC standards where they exist unless otherwise agreed or specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130454Z" creationid="CCYU" creationdate="20140923T130454Z">
+        <seg>除非另有協議或指定，否組裝變壓器之所有元件和材料皆應符合 IEC 標準之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All components are listed on the TSCA Inventory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T182032Z" creationid="Judy" creationdate="20140818T182032Z">
@@ -11810,6 +11818,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132656Z" creationid="CCYU" creationdate="20140917T132656Z">
         <seg>為了促進國際上統一，IEC 國家委員會盡最大努力使 IEC 出版物適用於其國家和區域性的出版物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular bushings shall comply with IEC 60137, tap-changers shall comply with IEC 60214-1, and insulating liquid shall comply with IEC 60296 for mineral oil or as agreed for other liquids.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130459Z" creationid="CCYU" creationdate="20140923T130459Z">
+        <seg>其中襯套應符合 IEC 60137、抽頭開關應符合 IEC 60214-1 以及和礦物油或作為商定的其他液體絕緣液體須符合 IEC 60296。</seg>
       </tuv>
     </tu>
     <tu>
