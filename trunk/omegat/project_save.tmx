@@ -7973,6 +7973,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXAMPLE A transformer with a tapped 160 kV wind&lt;t0/&gt;ing with a tapping range of ±15 &lt;t1/&gt;having&lt;t2/&gt; &lt;t3/&gt;21 &lt;t4/&gt;tappings&lt;t5/&gt;, symmetrically arranged around the rated voltage, is designated:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132933Z" creationid="CCYU" creationdate="20140923T132933Z">
+        <seg>範例 A 變壓器具有 160 kV 抽頭繞組，繞組範圍 ± 15 中有 21 組於額定電壓對稱排列之抽頭，標示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXPLOSIVE PROPERTIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174257Z" creationid="Judy" creationdate="20140818T174257Z">
