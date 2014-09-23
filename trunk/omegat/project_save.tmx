@@ -9565,6 +9565,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For such transformers, unless they are specified in accordance with 6.4.2, the tapping particulars are subject to agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132002Z" creationid="CCYU" creationdate="20140923T132002Z">
+        <seg>此類變壓器，除非指明需符合 6.4.2，否則抽頭之規格依照雙方協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For terms and definitions relating to insulation, see IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054035Z" creationid="CCYU" creationdate="20140920T054035Z">
@@ -11650,6 +11658,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084430Z" creationid="CCYU" creationdate="20140913T084430Z">
         <seg>此外，某些研究使用 PIV 技術由多時相影像中產生位移圖 (Chambon 等人，2003 年)，藉由此功能可使用 PIV 進行單色空拍照微小網格的運動分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In auto-connected transformers, &lt;t0/&gt;tappings&lt;t1/&gt; are sometimes arranged at the neutral which means that the effective number of turns is changed simultaneously in both windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T131807Z" creationid="CCYU" creationdate="20140923T131807Z">
+        <seg>對於自耦變壓器，繞組有時排列於中性點，代表兩個繞組之有效匝數同時變化。</seg>
       </tuv>
     </tu>
     <tu>
