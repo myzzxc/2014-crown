@@ -11334,6 +11334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the tapping range is specified asymmetrically around the rated voltage, this is designated as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133045Z" creationid="CCYU" creationdate="20140923T133045Z">
+        <seg>若抽頭範圍不對稱於額定電壓，則標示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is intended to be used as a mobile transformer, this shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162819Z" creationid="CCYU" creationdate="20140922T162819Z">
