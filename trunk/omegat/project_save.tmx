@@ -5139,6 +5139,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But the assigned values of tapping quantities are not fully defined by this alone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145423Z" creationid="CCYU" creationdate="20140923T145423Z">
+        <seg>但抽頭量並非完全由此定義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By appropriate&lt;t0/&gt; use of the product no health damage is known.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T145055Z" creationid="CCYU" creationdate="20140807T145055Z">
@@ -25076,6 +25084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080614Z" creationid="CCYU" creationdate="20140913T080614Z">
         <seg>此方法的優點為不改變任何像素值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be given either in tabular form with tapping power, tapping voltage &lt;t0/&gt;and tapping current for each tapping, or as text, indicating 'category of voltage variation' and possible limitations of the range within which the &lt;t1/&gt;tappings&lt;t2/&gt; are 'full-power &lt;t3/&gt;tappings&lt;t4/&gt;'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145448Z" creationid="CCYU" creationdate="20140923T145448Z">
+        <seg>可使用表格形式，其中包含抽頭功率、抽頭電壓以及抽頭電流；或以文字形式，指明 '電壓變化之類別' 以及 '全功率抽頭' 中可能之限制範圍。</seg>
       </tuv>
     </tu>
     <tu>
