@@ -2400,6 +2400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Standard categories of tapping voltage variation.&lt;t1/&gt; Maximum voltage tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T134034Z" creationid="CCYU" creationdate="20140923T134034Z">
+        <seg>抽頭電壓變化之標準類別，最大電壓抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The following is excluded under&lt;t1/&gt; &lt;t2/&gt;the warranty:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074800Z">
@@ -21513,8 +21521,8 @@
       <tuv lang="EN-US">
         <seg>Tapping voltage — tapping current.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133923Z" creationid="CCYU" creationdate="20140923T133923Z">
-        <seg>抽頭電壓 — 抽頭電流</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133940Z" creationid="CCYU" creationdate="20140923T133923Z">
+        <seg>抽頭電壓 — 抽頭電流，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23153,8 +23161,8 @@
       <tuv lang="EN-US">
         <seg>The number of &lt;t2/&gt;tappings&lt;t3/&gt; and the range of variation of the transformer ratio may be expressed in short notation by the deviations of the tapping factor percentages from the value 100 (for definitions of terms, see 3.5).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132557Z" creationid="CCYU" creationdate="20140923T132557Z">
-        <seg>抽頭數量和變壓器比之變化範圍以抽頭係數百分比表示 (名詞之定義請見 3.5)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T134057Z" creationid="CCYU" creationdate="20140923T132557Z">
+        <seg>抽頭數量和變壓器比之變化範圍以抽頭係數百分比簡寫表示 (名詞之定義請見 3.5)。</seg>
       </tuv>
     </tu>
     <tu>
