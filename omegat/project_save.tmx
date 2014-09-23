@@ -3731,6 +3731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An additional, optional &lt;t4/&gt;maximum&lt;t5/&gt; current tapping (in the CFVV range) is also shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144003Z" creationid="CCYU" creationdate="20140923T143942Z">
+        <seg>額外最大電流抽頭 (於 CFVV 範圍內) 也同時繪出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An environment not exposed to seismic disturbance which would require special consideration in the design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105845Z" creationid="CCYU" creationdate="20140921T105845Z">
@@ -13274,6 +13282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T084114Z" creationid="CCYU" creationdate="20140817T084045Z">
         <seg>將油自此類桶子上方匯集並使其流至下方是一場持久戰，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key for Figure la, &lt;t0/&gt;lb&lt;t1/&gt; and &lt;t2/&gt;lc&lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144115Z" creationid="CCYU" creationdate="20140923T144115Z">
+        <seg>圖 1a、1b 以及 1c 之說明：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26084,6 +26100,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
         <seg>"雙槽"式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UA ,&lt;t0/&gt; /A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144133Z" creationid="CCYU" creationdate="20140923T144133Z">
+        <seg>UA , IA</seg>
       </tuv>
     </tu>
     <tu>
