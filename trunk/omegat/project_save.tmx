@@ -9686,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers specified in accordance with 6.4.2, the notation shall be as specified by the purchaser in item 3 of that &lt;t0/&gt;subclause&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T131542Z" creationid="CCYU" creationdate="20140923T131542Z">
+        <seg>對於符合 6.4.2 規範之變壓器，應依買方指定該條款第 3 項標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers up to 20 MVA, values of rated power should preferably be taken from the R10 series given in ISO 3:1973, Preferred numbers — series of preferred numbers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122255Z" creationid="CCYU" creationdate="20140921T122255Z">
