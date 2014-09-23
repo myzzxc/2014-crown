@@ -3043,6 +3043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abscissa tapping factor, percentage (indicating relative number of effective turns in tapped winding)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144438Z" creationid="CCYU" creationdate="20140923T144419Z">
+        <seg>橫軸 抽頭係數、百分比 (代表抽頭繞組之相對有效匝數)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absorb with an inert material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013845Z" creationid="CCYU" creationdate="20140809T013756Z">
@@ -26112,6 +26120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UB ,&lt;t0/&gt; /8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144225Z" creationid="CCYU" creationdate="20140923T144221Z">
+        <seg>UB , IB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UN number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030912Z" creationid="CCYU" creationdate="20140809T030912Z">
@@ -30176,6 +30192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144249Z" creationid="CCYU" creationdate="20140923T144249Z">
+        <seg>抽頭功率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tapping power (analogous to rated power, 3.4.6);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025601Z" creationid="CCYU" creationdate="20140920T025601Z">
@@ -30212,6 +30236,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025540Z" creationid="CCYU" creationdate="20140920T025540Z">
         <seg>抽頭電壓 (類似額定電壓，3.4.3)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping voltage and tapping current in the tapped winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144214Z" creationid="CCYU" creationdate="20140923T144214Z">
+        <seg>抽頭繞組之抽頭電壓與抽頭電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping voltage and tapping current in the untapped winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144238Z" creationid="CCYU" creationdate="20140923T144238Z">
+        <seg>無抽頭繞組之抽頭電壓與抽頭電流。</seg>
       </tuv>
     </tu>
     <tu>
