@@ -6060,6 +6060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Combined voltage variation (&lt;t0/&gt;CbVV&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141329Z" creationid="CCYU" creationdate="20140923T141329Z">
+        <seg>結合電壓變化 (CbVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175305Z" creationid="Judy" creationdate="20140818T175305Z">
@@ -19599,6 +19607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Figure 1b.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141259Z" creationid="CCYU" creationdate="20140923T141259Z">
+        <seg>請見圖 1b。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Section 4.1.10 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020518Z">
@@ -23939,6 +23955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140830Z" creationid="CCYU" creationdate="20140923T140830Z">
         <seg>抽頭繞組之抽頭間的電壓為恒定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tapping voltages in any untapped winding are inversely proportional to the tapping factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141252Z" creationid="CCYU" creationdate="20140923T141252Z">
+        <seg>無抽頭繞組中的抽頭電壓與抽頭係數成正比。</seg>
       </tuv>
     </tu>
     <tu>
