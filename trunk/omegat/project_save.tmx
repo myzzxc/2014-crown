@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 Requirements for transformers having a tapped winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130923Z" creationid="CCYU" creationdate="20140923T130923Z">
+        <seg>6 具有抽頭繞組之變壓器規範 winding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 bar) &lt;t1/&gt;must &lt;t2/&gt;be &lt;t3/&gt;used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002534Z">
@@ -9662,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformer windings with a highest voltage for equipment greater than (&gt;) 72&lt;t0/&gt;,5&lt;t1/&gt; kV the purchaser shall specify whether any neutral terminals for that winding are to be directly earthed in service or not, and if not, the Urn for the neutral terminals shall be specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130744Z" creationid="CCYU" creationdate="20140923T130744Z">
+        <seg>變壓器繞組對於設備之最高電壓大於 (&gt;) 72.5 kV 時，買方應指定是否於繞組使用任何中性端子直接接地，若不不直接接地，買方應指明中性端子之 Um。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers intended to be installed indoors, some of these environmental conditions may not be applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z" creationid="CCYU" creationdate="20140921T110954Z">
@@ -9978,6 +9994,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095939Z" creationid="CCYU" creationdate="20140809T095939Z">
         <seg>General toxicological information: 一般毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General — Notation of tapping range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130949Z" creationid="CCYU" creationdate="20140923T130949Z">
+        <seg>一般 — 抽頭範圍標示</seg>
       </tuv>
     </tu>
     <tu>
@@ -10842,6 +10866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135517Z" creationid="CCYU" creationdate="20140918T135517Z">
         <seg>IEC 60721-3-4:1995，環保條件分類 — 第 3 部分：環境參數及其嚴重度分類級別 — 第 4 部分：無遮蔽環境中固定式使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC Publications have the form of recommendations for international use and are accepted by &lt;t0/&gt;IEC&lt;t1/&gt; National Committees in that sense&lt;t2/&gt;.&lt;t3/&gt; While all reasonable efforts are made to ensure that the &lt;t4/&gt;technical&lt;t5/&gt; content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130754Z" creationid="CCYU" creationdate="20140923T130754Z">
+        <seg>IEC 出版物附有供國際使用之建議表，其為所有 IEC 國家委員會所接受。IEC 盡最大努力以確保其出版物之技術內容精確，但 IEC 不對其使用行為或任何使用者的誤解負責。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12673,6 +12705,14 @@
         <seg>Inte&lt;t4/&gt;rnational, governmental and non-&lt;t5/&gt;governmental organizations liaising with the IEC also participate in this preparation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130053Z" creationid="CCYU" creationdate="20140917T130053Z">
+        <seg>與 IEC 相關之國際性政府和非政府組織也參與籌劃工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inte&lt;t8/&gt;rnational, governmental and non-&lt;t9/&gt;governmental organizations liaising with the IEC also participate in this preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130751Z" creationid="CCYU" creationdate="20140923T130751Z">
         <seg>與 IEC 相關之國際性政府和非政府組織也參與籌劃工作。</seg>
       </tuv>
     </tu>
@@ -21935,6 +21975,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The International &lt;t0/&gt;Electrotechnical&lt;t1/&gt; Commission (IEC) is a worldwide organization for standardization comprising all national &lt;t2/&gt;electrotechnical&lt;t3/&gt; committees (&lt;t4/&gt;IEC&lt;t5/&gt; National Committees).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130746Z" creationid="CCYU" creationdate="20140923T130746Z">
+        <seg>國際電工委員會 (IEC) 為一間世界性的標準制定組織，由所有國家電工委員會 (IEC 國家委員會) 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising all national electrotechnical committees (&lt;t0/&gt;IEC&lt;t1/&gt; National Committees).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T124428Z" creationid="CCYU" creationdate="20140917T124428Z">
@@ -24018,6 +24066,14 @@
         <seg>Their preparation is entrusted to technical committees; any &lt;t2/&gt;IEC&lt;t3/&gt; National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130056Z" creationid="CCYU" creationdate="20140917T125742Z">
+        <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their preparation is entrusted to technical committees; any &lt;t6/&gt;IEC&lt;t7/&gt; National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130748Z" creationid="CCYU" creationdate="20140923T130748Z">
         <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
       </tuv>
     </tu>
