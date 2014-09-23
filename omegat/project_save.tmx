@@ -3195,6 +3195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T135751Z" creationid="CCYU" creationdate="20140923T135751Z">
+        <seg>需要更多的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information required for enquiry</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135750Z" creationid="CCYU" creationdate="20140922T135750Z">
@@ -5087,6 +5095,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172011Z" creationid="Judy" creationdate="20140818T172011Z">
         <seg>表面火源被撲滅後，袋子或堆疊內部可能持續燃燒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the assigned values of tapp&lt;t0/&gt;ing quantities are not fully defined by this alone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T135732Z" creationid="CCYU" creationdate="20140923T135709Z">
+        <seg>但抽頭量並非完全由此定義，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23683,6 +23699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134217Z">
         <seg>有校日期為未開封之包裝儲存在乾燥、黑暗的環境中之保質期，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The short notation of tapping range and tapping steps indicates the variation range of the ratio of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T135712Z" creationid="CCYU" creationdate="20140923T135621Z">
+        <seg>抽頭範圍和抽頭級標示出變壓器比之變化範圍，</seg>
       </tuv>
     </tu>
     <tu>
