@@ -9093,6 +9093,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1 — Different types of voltage variation 6.3 Tapping power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144918Z" creationid="CCYU" creationdate="20140923T144918Z">
+        <seg>圖 1 — 不同類型之電壓變化
+6.3 抽頭功率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1&lt;t0/&gt;c -- Combined voltage variation (&lt;t1/&gt;CbVV&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142332Z" creationid="CCYU" creationdate="20140923T142332Z">
@@ -9938,6 +9947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140821Z" creationid="CCYU" creationdate="20140917T140821Z">
         <seg>此標準審核表決之完整資訊收錄於上表中之表決報告內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full-power &lt;t0/&gt;tappings&lt;t1/&gt; —reduced-power &lt;t2/&gt;tappings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145031Z" creationid="CCYU" creationdate="20140923T145031Z">
+        <seg>全功率抽頭 — 降低功率抽頭</seg>
       </tuv>
     </tu>
     <tu>
