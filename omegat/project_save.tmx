@@ -11382,6 +11382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transport is not the responsibility of the manufacturer and &lt;t0/&gt;an acceleration&lt;t1/&gt; in excess of 1 g is expected during transport, the accelerations and frequencies shall be defined in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140117Z" creationid="CCYU" creationdate="20140923T140117Z">
+        <seg>若製造商無需負責運輸，且運輸過程中預期加速超過 1 g，應在詢問時確定加速度和發生頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transport is not the responsibility of the manufacturer and an acceleration in excess of 1 g is expected during transport, the accelerations and frequencies shall be defined in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162648Z" creationid="CCYU" creationdate="20140922T162648Z">
@@ -22415,6 +22423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The categories of tapping voltage variation are defined as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140109Z" creationid="CCYU" creationdate="20140923T140109Z">
+        <seg>抽頭攻絲電壓變化類別定義，如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The classes of controlled products listed in the CPR, Section 32, &lt;t2/&gt;Part&lt;t3/&gt; IV, have been reviewed and based on Professional Judgment this product has been determined not to be WHMIS controlled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185034Z" creationid="Judy" creationdate="20140818T185034Z">
@@ -24835,6 +24851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080614Z" creationid="CCYU" creationdate="20140913T080614Z">
         <seg>此方法的優點為不改變任何像素值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be given either in tabular form with tapping power, tapping voltage &lt;t1/&gt;and tapping current for each tapping, or as text, indicating 'category of voltage variation' and possible limitations of the range within which the &lt;t2/&gt;tappings&lt;t3/&gt; are 'full-power &lt;t4/&gt;tappings&lt;t5/&gt;'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140054Z" creationid="CCYU" creationdate="20140923T140054Z">
+        <seg>可使用表格形式，其中包含抽頭功率、抽頭電壓以及抽頭電流；或以文字形式，指明 '電壓變化之類別' 以及 '全功率抽頭' 中可能之限制範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28251,6 +28275,14 @@
         <seg>corrosion protection, according to the kind of installation and the installation&lt;t0/&gt; &lt;t1/&gt;environment (see 4.2), the purchaser should choose classes of protection in ISO 12944 or by agreement between purchaser and manufacturer;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134324Z" creationid="CCYU" creationdate="20140922T134324Z">
+        <seg>依據安裝類型和安裝環境 (請見 4.2) 之腐蝕保護，買方應該選擇 ISO 12944 等級之保護，或依照買家和製造商之間的協定；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>corrosion&lt;t0/&gt; protection, according to the kind of installation and the installation&lt;t1/&gt; &lt;t2/&gt;environment (see 4.2), the purchaser should choose classes of protection in ISO 12944 or by agreement between purchaser and manufacturer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140131Z" creationid="CCYU" creationdate="20140923T140131Z">
         <seg>依據安裝類型和安裝環境 (請見 4.2) 之腐蝕保護，買方應該選擇 ISO 12944 等級之保護，或依照買家和製造商之間的協定；</seg>
       </tuv>
     </tu>
