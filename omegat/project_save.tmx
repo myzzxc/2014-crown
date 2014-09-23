@@ -13030,6 +13030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It constitutes both a maximum voltage tapping (UA) &lt;t0/&gt;an &lt;t1/&gt;(&lt;t2/&gt; a&lt;t3/&gt; maximum current tapping (1B constant, not rising above the change-over point).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T143648Z" creationid="CCYU" creationdate="20140923T143648Z">
+        <seg>其包含最大電壓抽頭 (UA) 以及最大電流抽頭 (IB 定值，不超過切換點)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains important information about starting up and operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081700Z">
