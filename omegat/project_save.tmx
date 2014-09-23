@@ -9077,6 +9077,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1&lt;t0/&gt;c -- Combined voltage variation (&lt;t1/&gt;CbVV&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142332Z" creationid="CCYU" creationdate="20140923T142332Z">
+        <seg>圖 1c — 組合電壓變化 (CbVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t0/&gt;1&lt;t1/&gt;a — Constant flux voltage variation (CFVV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142204Z" creationid="CCYU" creationdate="20140923T142204Z">
+        <seg>圖 1a — 恆定通量電壓變化 (CFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t0/&gt;1&lt;t1/&gt;b -- Variable flux voltage variation (VFVV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142319Z" creationid="CCYU" creationdate="20140923T142319Z">
+        <seg>圖 1b — 可變通量電壓變化 (VFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A1&lt;t0/&gt;: Overlapping joint for rebar connections of slabs and beams</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T151718Z">
@@ -16134,6 +16158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optional maximum current tapping shown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142256Z" creationid="CCYU" creationdate="20140923T142256Z">
+        <seg>額外最大電流抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orthorectification technique</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062917Z" creationid="CCYU" creationdate="20140913T062917Z">
@@ -19647,6 +19679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Figure &lt;t0/&gt;1&lt;t1/&gt;c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142125Z" creationid="CCYU" creationdate="20140923T142125Z">
+        <seg>請見圖 1c。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Section 4.1.10 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020518Z">
@@ -21611,6 +21651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120220Z" creationid="CCYU" creationdate="20140817T080428Z">
         <seg>我們的產品非常適合用於油罐區，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tapping factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142304Z" creationid="CCYU" creationdate="20140923T142304Z">
+        <seg>抽頭係數</seg>
       </tuv>
     </tu>
     <tu>
