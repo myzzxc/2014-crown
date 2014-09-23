@@ -16054,6 +16054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other &lt;t0/&gt;tappings&lt;t1/&gt; are identified by their tapping factors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132236Z" creationid="CCYU" creationdate="20140923T132236Z">
+        <seg>其他抽頭依其抽頭係數標識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other adverse effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154324Z" creationid="CCYU" creationdate="20140807T154324Z">
@@ -23095,6 +23103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of &lt;t2/&gt;tappings&lt;t3/&gt; and the range of variation of the transformer ratio may be expressed in short notation by the deviations of the tapping factor percentages from the value 100 (for definitions of terms, see 3.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132557Z" creationid="CCYU" creationdate="20140923T132557Z">
+        <seg>抽頭數量和變壓器比之變化範圍以抽頭係數百分比表示 (名詞之定義請見 3.5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of cells in the computational domain is ﬁxed, and the expansion or compression&lt;t8/&gt; &lt;t9/&gt;of engine volume is performed by moving the local boundaries of&lt;t10/&gt; &lt;t11/&gt;cells to increase or decrease the v&lt;t12/&gt;olumes of the cells, and collec&lt;t13/&gt;tively, they can simulate the expansion or compression of the engine volume just like the action of an accordion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T141148Z" creationid="Judy" creationdate="20140820T141148Z">
@@ -23475,6 +23491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140204Z" creationid="CCYU" creationdate="20140922T140204Z">
         <seg>使用者應根據第 7 條款所列名稱指明所需之繞組連接以符合其應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements of this &lt;t2/&gt;subclause&lt;t3/&gt; should be used as far as applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132118Z" creationid="CCYU" creationdate="20140923T132118Z">
+        <seg>應盡可能使用此條款之規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26044,6 +26068,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043922Z" creationid="CCYU" creationdate="20140920T043922Z">
         <seg>若無特別說明，其短路阻抗代表主抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the principal tapping is located in the middle of the tapping range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132202Z" creationid="CCYU" creationdate="20140923T132156Z">
+        <seg>除非另外指定，否則主抽頭位於抽頭範圍中間。</seg>
       </tuv>
     </tu>
     <tu>
