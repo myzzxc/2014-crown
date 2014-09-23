@@ -20023,6 +20023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some &lt;t0/&gt;tappings&lt;t1/&gt; may be 'reduced-power &lt;t2/&gt;tappings&lt;t3/&gt;' due to restrictions in either tapping voltage or tapping current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133737Z" creationid="CCYU" creationdate="20140923T133701Z">
+        <seg>某些抽頭因為抽頭電壓或抽頭電流之限制而為 '降低功率抽頭' ，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some conclusion remarks from this study can be drawn as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212147Z" creationid="Judy" creationdate="20140823T212147Z">
@@ -21503,6 +21511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tapping voltage — tapping current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133923Z" creationid="CCYU" creationdate="20140923T133923Z">
+        <seg>抽頭電壓 — 抽頭電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tappings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020118Z" creationid="CCYU" creationdate="20140920T020118Z">
@@ -22339,6 +22355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073553Z" creationid="CCYU" creationdate="20140817T073553Z">
         <seg>使用吸收墊的好處為去除正常洩漏外流的油污且能吸附所有大量洩漏的油污。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The boundary &lt;t4/&gt;tappings&lt;t5/&gt; where such limitations appear are called 'maximum voltage tapping' and 'maximum current tapping' (see Figures la, 1 b and 1c).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133901Z" creationid="CCYU" creationdate="20140923T133735Z">
+        <seg>此限制出現之邊界抽頭稱為 '最大電壓抽頭' 和 '最大電流抽頭' (請見圖 1a、1 b 和 1 c)。</seg>
       </tuv>
     </tu>
     <tu>
