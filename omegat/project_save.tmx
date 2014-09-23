@@ -29120,6 +29120,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>indicates 'maximum-voltage tapping', 'maximum current tapping' and range of reduced power &lt;t0/&gt;tappings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144718Z" creationid="CCYU" creationdate="20140923T144718Z">
+        <seg>代表 '最大電壓抽頭'、'最大電流抽頭' 以及降低功率抽頭範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>indicates full-power &lt;t0/&gt;tappings&lt;t1/&gt; throughout the tapping range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144739Z" creationid="CCYU" creationdate="20140923T144620Z">
+        <seg>代表所有抽頭範圍皆為全功率抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>informative annexes have been added on facilities for condition monitoring and</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140544Z" creationid="CCYU" creationdate="20140917T140404Z">
