@@ -9959,6 +9959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From this tapping onwards the tapping current values for the winding are then specified to be constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125445Z" creationid="CCYU" creationdate="20140924T125445Z">
+        <seg>則由此抽頭起之繞組抽頭電流值為常數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost-sensitive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085236Z" creationid="CCYU" creationdate="20140809T085236Z">
@@ -25404,6 +25412,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123551Z" creationid="CCYU" creationdate="20140924T123551Z">
         <seg>代表主抽頭為 '最大電流抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that the remaining &lt;t8/&gt;tappings&lt;t9/&gt; towards the extreme tapping are reduced-power &lt;t10/&gt;tappings&lt;t11/&gt; (see Figures la, 1 b and 1c).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125615Z" creationid="CCYU" creationdate="20140924T125615Z">
+        <seg>代表相對極限抽頭外之其他的抽頭為降低功率抽頭 (請見圖 1a、1b 以及 1c)。</seg>
       </tuv>
     </tu>
     <tu>
