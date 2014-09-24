@@ -7301,6 +7301,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direction of power flow (can be both directions).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142043Z" creationid="CCYU" creationdate="20140924T142043Z">
+        <seg>電力傳輸方向 (兩個方向皆可)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directive 67/548/EEC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181245Z" creationid="Judy" creationdate="20140818T181245Z">
@@ -23556,6 +23564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T141148Z" creationid="Judy" creationdate="20140820T141148Z">
         <seg>計算範圍中的網格數目為固定，引擎體積膨脹和壓縮藉由改變網格邊界以增加和減少網格體積，如手風琴運動般模擬引擎整體的膨脹或壓縮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of tapping steps and the size of the tapping step expressed as a &lt;t0/&gt;percentage&lt;t1/&gt; of the rated voltage at the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142256Z" creationid="CCYU" creationdate="20140924T142256Z">
+        <seg>以主抽頭之額定電壓百分比表示之抽頭級數及抽頭級大小。</seg>
       </tuv>
     </tu>
     <tu>
