@@ -24488,6 +24488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer shall be able to supply the rated current on the secondary winding of all tapping positions consistent with the above operating conditions, without exceeding the temperature rise requirements defined by IEC 60076-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144352Z" creationid="CCYU" creationdate="20140924T144352Z">
+        <seg>變壓器應能對符合上述操作條件的所有抽頭位置之二次繞組供應額定之電流，且不超出 IEC 60076-2 所規範之溫度上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformer shall be capable of carrying, in continuous service, the specified minimum power (for a multi-winding transformer: the specified combination(s) of winding rated power(s)&lt;t0/&gt;under conditions listed in Clause 4, and under the specified cooling mode, without exceeding the temperature-rise limitations specified in IEC 60076-2 for liquid immersed transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161659Z" creationid="CCYU" creationdate="20140922T161659Z">
