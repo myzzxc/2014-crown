@@ -11567,10 +11567,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the tapping range is not symmetrical &lt;t2/&gt;about&lt;t3/&gt; the principal tapping then this shall be indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142432Z" creationid="CCYU" creationdate="20140924T142432Z">
+        <seg>若抽頭範圍非對稱主抽頭則需指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range is specified asymmetrically around the rated voltage, this is designated as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133045Z" creationid="CCYU" creationdate="20140923T133045Z">
         <seg>若抽頭範圍不對稱於額定電壓，則標示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tapping steps are not equal across the range then this shall be indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142515Z" creationid="CCYU" creationdate="20140924T142515Z">
+        <seg>若範圍內之抽頭級不相等則需指明。</seg>
       </tuv>
     </tu>
     <tu>
