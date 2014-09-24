@@ -4389,8 +4389,8 @@
       <tuv lang="EN-US">
         <seg>As Figure I &lt;t2/&gt;a illustrates&lt;t3/&gt;, this applies for minus &lt;t4/&gt;tappings&lt;t5/&gt;, on the tapped winding, under CFVV, and for plus &lt;t6/&gt;tappings&lt;t7/&gt; on the untapped winding under VFVV (Figure 1 b).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125028Z" creationid="CCYU" creationdate="20140924T125028Z">
-        <seg>如圖 1a 所示，適用於抽頭繞組之負抽頭於 CFVV 情況下, and for plus &lt;t6/&gt;tappings&lt;t7/&gt; on the untapped winding under VFVV (Figure 1 b).</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125130Z" creationid="CCYU" creationdate="20140924T125028Z">
+        <seg>如圖 1a 所示，適用於抽頭繞組之負抽頭於 CFVV 情況下, 以及無抽頭繞組之正抽頭於 VFVV (圖 1b) 情況下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12059,6 +12059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043533Z" creationid="CCYU" creationdate="20140913T023551Z">
         <seg>為了進一步瞭解非遽變性地滑現象，我們使用位移檢測技術來量測整體位移模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to limit the corresponding reinforcement of the winding in question, it is possible to specify a maximum current tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125326Z" creationid="CCYU" creationdate="20140924T125321Z">
+        <seg>為了解決繞組相對應之強化問題，可以指明最大電流抽頭，</seg>
       </tuv>
     </tu>
     <tu>
