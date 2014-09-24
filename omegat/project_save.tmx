@@ -26441,6 +26441,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under &lt;t0/&gt;CbVV&lt;t1/&gt;, the 'maximum voltage tapping', the change-over point between CFVV and VFVV shall at the same time be a 'maximum current tapping' unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130001Z" creationid="CCYU" creationdate="20140924T130001Z">
+        <seg>除非另有指明，於 CbVV '最大電壓抽頭' 情況下，CFVV 和 VFVV 之間的切換點應同時為 '最大電流抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under the IBC, additional requirements as set forth in &lt;t0/&gt;Sections 1705, 1706, or 1707 must be observed, where applicable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132835Z">
