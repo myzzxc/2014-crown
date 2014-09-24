@@ -4387,6 +4387,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Figure I &lt;t2/&gt;a illustrates&lt;t3/&gt;, this applies for minus &lt;t4/&gt;tappings&lt;t5/&gt;, on the tapped winding, under CFVV, and for plus &lt;t6/&gt;tappings&lt;t7/&gt; on the untapped winding under VFVV (Figure 1 b).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125028Z" creationid="CCYU" creationdate="20140924T125028Z">
+        <seg>如圖 1a 所示，適用於抽頭繞組之負抽頭於 CFVV 情況下, and for plus &lt;t6/&gt;tappings&lt;t7/&gt; on the untapped winding under VFVV (Figure 1 b).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a result, it also promotes heat transfer in a way similar to ﬂow impingement does.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083326Z" creationid="Judy" creationdate="20140823T083326Z">
@@ -27421,6 +27429,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z">
         <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the tapping factor deviates from unity, the tapping current for full-power &lt;t0/&gt;tappings&lt;t1/&gt; may rise above rated current on one of the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T124749Z" creationid="CCYU" creationdate="20140924T124749Z">
+        <seg>當抽頭係數不一致時，其中一組繞組中全功率抽頭之抽頭電流可能上升超過額定電流。</seg>
       </tuv>
     </tu>
     <tu>
