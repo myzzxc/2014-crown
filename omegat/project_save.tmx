@@ -4307,6 +4307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any requirements for fixing the ratio of turns between two particular windings on a &lt;t0/&gt;more&lt;t1/&gt; than two winding transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143710Z" creationid="CCYU" creationdate="20140924T143710Z">
+        <seg>對於兩組以上繞組之變壓器，任何固定兩特定繞組之匝數比之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any specific requirements for loading beyond rated power, operation at higher external cooling medium temperatures or reduced temperature rise limits shall be specified by the purchaser in the enquiry and the contract.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131334Z" creationid="CCYU" creationdate="20140921T131236Z">
@@ -14355,6 +14363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141716Z">
         <seg>最小邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum full load power factor (this affects the voltage drop of the transformer).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143803Z" creationid="CCYU" creationdate="20140924T143803Z">
+        <seg>最低全負載功率因子 (這將影響變壓器電壓降)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29789,6 +29805,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110914Z" creationid="CCYU" creationdate="20140921T110914Z">
         <seg>機械活性物質 4S3；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>method&lt;t0/&gt; of specification is adopted, the rated tapping voltage cannot be used to determine the rated tapping power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143456Z" creationid="CCYU" creationdate="20140924T143456Z">
+        <seg>當使用規格之功能性方法時，額定抽頭電壓不能用於決定額定抽頭功率。</seg>
       </tuv>
     </tu>
     <tu>
