@@ -12271,6 +12271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In separate-winding transformers up to and including 2 500 kVA with a tapping range no exceeding ±5 %, the rated tapping current at all minus &lt;t0/&gt;tappings&lt;t1/&gt; shall be equal to the rated &lt;t2/&gt;tapping current at the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150704Z" creationid="CCYU" creationdate="20140924T150704Z">
+        <seg>功率小於或等於 2500 kVA 之分離繞組變壓器，其抽頭範圍不超過 ± 5%，於所有負抽頭之額定抽頭電流應等於主抽頭之額定電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In separate-winding transformers up to and including 2 500 kVA with a tapping range no&lt;t0/&gt; &lt;t1/&gt;exceeding ±5 %, the rated tapping current at all minus &lt;t2/&gt;tapp&lt;t3/&gt;ings&lt;t4/&gt; shall be equal to the rated &lt;t5/&gt;tapping current at the principal tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123510Z" creationid="CCYU" creationdate="20140924T123501Z">
