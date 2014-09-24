@@ -14831,6 +14831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 &lt;t0/&gt;The&lt;t1/&gt; rated tapping voltage is needed to determine the impedance base for each tap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143334Z" creationid="CCYU" creationdate="20140924T143334Z">
+        <seg>註 2 額定抽頭電壓需針對每組抽頭以阻抗決定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 For a multi-winding transformer, half the arithmetic sum of the rated power values of all windings (separate windings, not auto-connected) gives a rough estimate of its physical size as compared with a two-winding transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T121639Z" creationid="CCYU" creationdate="20140921T121639Z">
@@ -27737,6 +27745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where the functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143342Z" creationid="CCYU" creationdate="20140924T143342Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where the purchaser has a specific requirement for a guaranteed maximum sound level, this shall be given in the enquiry and should preferably be expressed as a sound power level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160113Z" creationid="CCYU" creationdate="20140922T155911Z">
@@ -27781,6 +27797,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163431Z" creationid="CCYU" creationdate="20140913T163431Z">
         <seg>其中 ρpixel 為由影像像素寬所決定之精度誤差，L 為區塊尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Which voltage shall vary for the purpose of defining rated tapping &lt;t0/&gt;voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143204Z" creationid="CCYU" creationdate="20140924T143204Z">
+        <seg>應以改變何電壓以定義額定抽頭電壓。</seg>
       </tuv>
     </tu>
     <tu>
