@@ -3795,6 +3795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An agreement shall be reached between the manufacturer and the purchase on the design tapping quantities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145651Z" creationid="CCYU" creationdate="20140924T145651Z">
+        <seg>設計抽頭量需由製造商與買家雙方同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An environment not exposed to seismic disturbance which would require special consideration in the design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105845Z" creationid="CCYU" creationdate="20140921T105845Z">
@@ -4895,6 +4903,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082137Z" creationid="CCYU" creationdate="20140809T082137Z">
         <seg>Base substances of preparation: 製備基礎物質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on this information, the manufacture will then select the tapped winding and specify rated quantities and tapping quantities in hi tender proposal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145610Z" creationid="CCYU" creationdate="20140924T145610Z">
+        <seg>根據此資訊，製造商將選擇抽頭繞組並於投標書中指明額定量與抽頭量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20604,6 +20620,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130213Z" creationid="CCYU" creationdate="20140924T130213Z">
         <seg>詢價和訂購之抽頭規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification of short-circuit impedance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145712Z" creationid="CCYU" creationdate="20140924T145712Z">
+        <seg>短路阻抗規格</seg>
       </tuv>
     </tu>
     <tu>
