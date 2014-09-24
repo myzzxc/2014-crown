@@ -3715,6 +3715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, the impedanc&lt;t8/&gt;e&lt;t9/&gt; may be specified in accordance with one of the methods below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150402Z" creationid="CCYU" creationdate="20140924T150402Z">
+        <seg>另外，阻抗應根據下列其中一種方法指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, the user may submit a set of loading cases with values of active and reactive power (clearly indicating the direction of power flow), and corresponding on-load voltages These cases should indicate the extreme values of voltage ratio under full and reduced &lt;t0/&gt;power&lt;t1/&gt; (see "the six-parameter method" of IEC 60076-8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145406Z" creationid="CCYU" creationdate="20140924T145406Z">
