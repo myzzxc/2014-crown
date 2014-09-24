@@ -2585,6 +2585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;Subclause&lt;t3/&gt; 6.4.3 defines overall voltage and current requirements and requires the manufacturer to select which winding or windings will be tapped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131334Z" creationid="CCYU" creationdate="20140924T131334Z">
+        <seg>第 6.4.3 定義整體電壓和電流規範並要求製造商選擇哪個繞組為抽頭，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;The foregoing may be neglected if building components are new and not carbonated and if building components are in dry conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030822Z">
@@ -6465,6 +6473,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140734Z" creationid="CCYU" creationdate="20140923T140401Z">
         <seg>恆定通量電壓變化 (CFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constructional specification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131522Z" creationid="CCYU" creationdate="20140924T131522Z">
+        <seg>製造規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -11019,6 +11035,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134451Z" creationid="CCYU" creationdate="20140918T134451Z">
         <seg>IEC 60076-5:2006， 電力變壓器 — — 部分 5： 能夠承受短路 IEC 60076-10:2001、 電力變壓器 — — 部分 10： 聲音測定各級 IEC 60076-11:2004、 電力變壓器 — — 部分 11： 幹式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-8 gives details of tapping' arrangements and voltage drop calculations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131459Z" creationid="CCYU" creationdate="20140924T131459Z">
+        <seg>IEC 60076-8 提供了抽頭配置及電壓降計算之詳細資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21108,6 +21132,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205530Z" creationid="Judy" creationdate="20140823T205530Z">
         <seg>如此低的效率主要是由於熱端與冷端溫差不大以及低引擎速率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such a specification may result in a variety of possible transformer designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131402Z" creationid="CCYU" creationdate="20140924T131402Z">
+        <seg>此類規範可能會形成各種可能之變壓器設計。</seg>
       </tuv>
     </tu>
     <tu>
