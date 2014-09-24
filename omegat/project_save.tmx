@@ -2633,6 +2633,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;and&lt;t4/&gt; if so, for which &lt;t5/&gt;tappings&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132448Z" creationid="CCYU" creationdate="20140924T132448Z">
+        <seg>若需使用則指明用於哪組抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;( 0.08&lt;t5/&gt; - 0.12 g/cm ) Moisture Content: 10-15% by weight</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174903Z" creationid="Judy" creationdate="20140818T174903Z">
@@ -30913,6 +30921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; category of voltage variation and, if combined variation is applied, the change-over point ('maximum voltage tapping', see 6.2);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132318Z" creationid="CCYU" creationdate="20140924T132318Z">
+        <seg>電壓變化類別 (當使用組合變化時)、切換點 ('最大電壓抽頭'，請見 6.2)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the&lt;t0/&gt; number of steps and the tapping step (or the tapping range and number of steps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131821Z" creationid="CCYU" creationdate="20140924T131821Z">
@@ -31320,6 +31336,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204903Z" creationid="Judy" creationdate="20140823T204903Z">
         <seg>其中等式右側之負號代表此研究之負 ω，而環積分由最小值 &lt;t1/&gt;zp&lt;t2/&gt; 至最大值 &lt;t3/&gt;zp&lt;t4/&gt; 再回到最小值 &lt;t5/&gt;zp&lt;t6/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether&lt;t0/&gt; maximum current limitation (reduced power &lt;t1/&gt;tappings&lt;t2/&gt;) shall apply,.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
+        <seg>是否應使用最大電流限制 (降低功率抽頭)，</seg>
       </tuv>
     </tu>
     <tu>
