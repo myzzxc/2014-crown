@@ -23720,6 +23720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchaser shall specify if the tap changer or tap changers are intended to be operated on load or de-energized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130425Z" creationid="CCYU" creationdate="20140924T130425Z">
+        <seg>買方應指明抽頭開關於負載或斷電情況下操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purchaser shall specify the requirements for tapping either according to 6.4.2 or 6.4.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130259Z" creationid="CCYU" creationdate="20140924T130259Z">
