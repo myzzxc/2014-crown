@@ -23072,6 +23072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following data are necessary to define the design of the transformer:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131605Z" creationid="CCYU" creationdate="20140924T131605Z">
+        <seg>以下資料為必須確定之變壓器設計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following parts are included:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z">
@@ -30889,6 +30897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; number of steps and the tapping step (or the tapping range and number of steps).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131821Z" creationid="CCYU" creationdate="20140924T131821Z">
+        <seg>級數與抽頭級 (或抽頭範圍與級數)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>thermal&lt;t0/&gt; conductivity (Wm-1 K-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104140Z" creationid="Judy" creationdate="20140819T103612Z">
@@ -31288,6 +31304,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204903Z" creationid="Judy" creationdate="20140823T204903Z">
         <seg>其中等式右側之負號代表此研究之負 ω，而環積分由最小值 &lt;t1/&gt;zp&lt;t2/&gt; 至最大值 &lt;t3/&gt;zp&lt;t4/&gt; 再回到最小值 &lt;t5/&gt;zp&lt;t6/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which&lt;t0/&gt; winding shall be tapped;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131648Z" creationid="CCYU" creationdate="20140924T131648Z">
+        <seg>抽頭繞組為何；</seg>
       </tuv>
     </tu>
     <tu>
