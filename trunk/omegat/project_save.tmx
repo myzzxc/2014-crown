@@ -3715,6 +3715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, the user may submit a set of loading cases with values of active and reactive power (clearly indicating the direction of power flow), and corresponding on-load voltages These cases should indicate the extreme values of voltage ratio under full and reduced &lt;t0/&gt;power&lt;t1/&gt; (see "the six-parameter method" of IEC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145406Z" creationid="CCYU" creationdate="20140924T145406Z">
+        <seg>另外，使用者應提供包含主動及無功功率值之負載情況 (明確指出電力傳輸方向)，以及相對應之負載電壓。此類情況應指明全功率和降低功率之電壓比極值 (請見 IEC 60076-8 之 "六組參數方法" ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although a Stirling engine is a close system where precise boundaries can be deﬁned, the problem is unsteady, multiphasic, and multi-scale in nature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070659Z" creationid="Judy" creationdate="20140819T070659Z">
