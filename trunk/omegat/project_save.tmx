@@ -12375,6 +12375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In transformers with a tapping range wider than ±5 %, restrictions may be specified on values of tapping voltage or tapping current which would otherwise rise considerably above the rated values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123810Z" creationid="CCYU" creationdate="20140924T123810Z">
+        <seg>抽頭範圍大於 ± 5% 之變壓器，應指明可超過額定值之抽頭電壓或抽頭電流限制值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In wet concrete the curing time &lt;t0/&gt;tcure,dry&lt;t1/&gt; has to be doubled up</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044336Z">
@@ -27365,6 +27373,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114216Z">
         <seg>收納裝置時，請勿放置任何物品於保溫電毯上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When such restrictions are specified, the &lt;t0/&gt;tappings&lt;t1/&gt; concerned will be 'reduced-power &lt;t2/&gt;tappings&lt;t3/&gt;'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123900Z" creationid="CCYU" creationdate="20140924T123900Z">
+        <seg>當具有此類限制時，抽頭為 '降低功率抽頭'。</seg>
       </tuv>
     </tu>
     <tu>
