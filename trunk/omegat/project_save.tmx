@@ -23736,6 +23736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchaser shall specify where the design ratio shall match the specified ratio, e.g. extreme taps, principal and maximum tap or principal and &lt;t0/&gt;minimum&lt;t1/&gt; tap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130900Z" creationid="CCYU" creationdate="20140924T130900Z">
+        <seg>買方應指定設計比率應於何處與指定比率匹配，例如極端抽頭、主要和最大抽頭或最小抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pushing of gas by the displacer and power pistons creates an effect similar to impingement that largely compresses the isothermal lines towards the hot or cold ends and increases the local temperature gradient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
@@ -27581,6 +27589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T070912Z">
         <seg>若數值未確定或未說明，則鋼材必須視為脆性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where variable flux voltage variation VFVV is used, it is normally only possible for the design ratio to match the specified ratio at two positions over the regulation range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130726Z" creationid="CCYU" creationdate="20140924T130726Z">
+        <seg>當使用可變通量電壓變化 VFVV，通常在設計比率只可能於規範範圍內的兩個位置與指定比率匹配，</seg>
       </tuv>
     </tu>
     <tu>
