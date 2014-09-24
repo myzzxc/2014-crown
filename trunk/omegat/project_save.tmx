@@ -2755,6 +2755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A calculation showing that this condition is satisfied shall be supplied to th&lt;t2/&gt;e&lt;t3/&gt; purchaser on request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144717Z" creationid="CCYU" creationdate="20140924T144700Z">
+        <seg>必須依要求提供證明滿足此條件之計算，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A combined load loss figure for the complete transformer is referred to a specified winding load combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041006Z" creationid="CCYU" creationdate="20140920T040844Z">
@@ -3791,6 +3799,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105752Z" creationid="CCYU" creationdate="20140921T105723Z">
         <seg>污染等級 (請見 IEC 60137 和 IEC/TS 60815) 無需特別考慮變壓器套管或變壓器本身外部絕緣之環境 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example is given in Annex B (example 4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144742Z" creationid="CCYU" creationdate="20140924T144742Z">
+        <seg>附件 B 提供了範例 (範例 4)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24524,6 +24540,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162452Z" creationid="CCYU" creationdate="20140922T162452Z">
         <seg>變壓器的設計和製造應能承受至少所有方向 1 g (垂直方向需再加上重力加速度) 的恒定加速度不受損，於恒定加速度下以靜力計算驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall be designed to withstand without damage the voltages and fluxes arising from the above specified loading conditions (including any specified &lt;t0/&gt;overload &lt;t1/&gt;(conditions).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144702Z" creationid="CCYU" creationdate="20140924T144617Z">
+        <seg>變壓器設計應能承受上述負載條件下之電壓和電通量而不損壞 (包含所有指定之超載條件)，</seg>
       </tuv>
     </tu>
     <tu>
