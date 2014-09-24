@@ -11327,6 +11327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If for some reason, the design has unequal steps, this shall be indicated in the tender;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132055Z" creationid="CCYU" creationdate="20140924T132055Z">
+        <seg>若基於某種原因，該設計具有不相等之抽頭級，應於投標時說明；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If higher accelerations are specified by the customer, the manufacturer shall demonstrate compliance by means of calculation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162738Z" creationid="CCYU" creationdate="20140922T162738Z">
@@ -26597,6 +26605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135729Z" creationid="CCYU" creationdate="20140922T135729Z">
         <seg>除非買方另外指明，介電測試等級應根據 Um 使用 IEC 60076-3 給定之最低適用值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, it shall be assumed that the range is symmetrical around the principal tapping and that the tapping steps in the tapped winding are equal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131958Z" creationid="CCYU" creationdate="20140924T131958Z">
+        <seg>除非另行指定，否則須假設其範圍為對稱主抽頭且抽頭繞組之抽頭級相等。</seg>
       </tuv>
     </tu>
     <tu>
