@@ -11359,6 +11359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not otherwise specified, the two extreme taps shall be the ratios to match.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131005Z" creationid="CCYU" creationdate="20140924T131005Z">
+        <seg>若無另行指定，應以兩極端抽頭為匹配比率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not, or if they are moved around, they should be moved with a drum skirt.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T101246Z" creationid="CCYU" creationdate="20140817T101150Z">
@@ -14939,6 +14947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T133334Z" creationid="CCYU" creationdate="20140922T133334Z">
         <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;Subclause&lt;t1/&gt; 6.4.2 requires the user to specify which winding is to be tapped and particular tapping powers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131210Z" creationid="CCYU" creationdate="20140924T131159Z">
+        <seg>註 第 6.4.2 條要求使用者指明哪個繞組為抽頭以及特定之抽頭功率。</seg>
       </tuv>
     </tu>
     <tu>
