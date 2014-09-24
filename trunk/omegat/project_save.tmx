@@ -2665,6 +2665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;For example +5 % to -&lt;t5/&gt;10 % in 11 steps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143047Z" creationid="CCYU" creationdate="20140924T143047Z">
+        <seg>例如 11 級中 +5 % 至 -10 % 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Raytek&lt;t5/&gt; and &lt;t6/&gt;Ircon&lt;t7/&gt; sensors, with digi­tal electronics and 2-way communi­cations, can be configured remotely from the safety of the control room.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T223217Z" creationid="JUDY" creationdate="20140826T223217Z">
@@ -12415,6 +12423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case the range of variation and the number of steps may be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143004Z" creationid="CCYU" creationdate="20140924T142944Z">
+        <seg>此情況下變化範圍與級數應指明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, any variation in the transverse direction that is important for predicting the engine’s performance accurately will not be accounted for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T221245Z" creationid="Judy" creationdate="20140818T221222Z">
@@ -14699,6 +14715,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;It&lt;t1/&gt; may be that the range of variation and the number of steps is more important than achieving the &lt;t2/&gt;exact&lt;t3/&gt; voltage at the principal tap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142947Z" creationid="CCYU" creationdate="20140924T142826Z">
+        <seg>註 1 變化範圍與級數可能比主抽頭處達到正確電壓更為重要，</seg>
       </tuv>
     </tu>
     <tu>
