@@ -23480,6 +23480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The manufacturer will choose the arrangement of windings, the winding or windings that &lt;t0/&gt;are&lt;t1/&gt; tapped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144026Z" creationid="CCYU" creationdate="20140924T144026Z">
+        <seg>製造商將決定繞組或抽頭繞組之配置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The manufacturer’s printed installation instructions (MPII), as included with each adhesive unit package, are shown in Figure 4 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130621Z">
@@ -27813,6 +27821,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163431Z" creationid="CCYU" creationdate="20140913T163431Z">
         <seg>其中 ρpixel 為由影像像素寬所決定之精度誤差，L 為區塊尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether any tapping or range of &lt;t0/&gt;tappings&lt;t1/&gt; can be reduced power &lt;t2/&gt;tappings&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143919Z" creationid="CCYU" creationdate="20140924T143919Z">
+        <seg>任何抽頭或抽頭範圍是否為降低功率抽頭。</seg>
       </tuv>
     </tu>
     <tu>
