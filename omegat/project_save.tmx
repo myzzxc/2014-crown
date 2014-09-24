@@ -20432,6 +20432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specification of &lt;t0/&gt;tappings&lt;t1/&gt; in enquiry and order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130213Z" creationid="CCYU" creationdate="20140924T130213Z">
+        <seg>詢價和訂購之抽頭規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specification of the intended use in accordance with the applicable European&lt;t0/&gt; &lt;t1/&gt;Assessment Document</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015903Z">
@@ -23712,6 +23720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchaser shall specify the requirements for tapping either according to 6.4.2 or 6.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130259Z" creationid="CCYU" creationdate="20140924T130259Z">
+        <seg>買方應根據 6.4.2 或 6.4.3. 指明抽頭規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pushing of gas by the displacer and power pistons creates an effect similar to impingement that largely compresses the isothermal lines towards the hot or cold ends and increases the local temperature gradient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
@@ -25424,6 +25440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that the untapped winding current stays constant up to the extreme plus tapping (Figure &lt;t2/&gt;lc&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130132Z" creationid="CCYU" creationdate="20140924T130132Z">
+        <seg>代表無抽頭繞組電流於達到正抽頭極值前為定值 (圖 1c)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that they are not very accurate in terms of the optimization of the geometries and dimensions of individual components during the design of a Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
@@ -26443,8 +26467,8 @@
       <tuv lang="EN-US">
         <seg>Under &lt;t0/&gt;CbVV&lt;t1/&gt;, the 'maximum voltage tapping', the change-over point between CFVV and VFVV shall at the same time be a 'maximum current tapping' unless otherwise specified.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130001Z" creationid="CCYU" creationdate="20140924T130001Z">
-        <seg>除非另有指明，於 CbVV '最大電壓抽頭' 情況下，CFVV 和 VFVV 之間的切換點應同時為 '最大電流抽頭'。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130136Z" creationid="CCYU" creationdate="20140924T130001Z">
+        <seg>除非另有指明，於 CbVV '最大電壓抽頭' 情況下，CFVV 和 VFVV 之間的切換點應同時為 '最大電流抽頭'，</seg>
       </tuv>
     </tu>
     <tu>
