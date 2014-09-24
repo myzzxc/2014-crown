@@ -23112,6 +23112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following information shall be given by the purchaser in the enquiry in addition to the rated voltage and rated power defined in Clause 5:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141928Z" creationid="CCYU" creationdate="20140924T141928Z">
+        <seg>買家需於詢價時提供除了第 5 條定義之額定電壓及電流之外的以下資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following parts are included:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062736Z">
@@ -25556,6 +25564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
         <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method of specification is not applicable to separate-winding transformers up to &lt;t0/&gt;and&lt;t1/&gt; including 2 500 kVA with a tapping range not exceeding ±5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141733Z" creationid="CCYU" creationdate="20140924T141733Z">
+        <seg>此規格方法不適用於功率小於等於 2500 kVA、抽頭範圍不超過 ±5 % 之分離繞組變壓器。</seg>
       </tuv>
     </tu>
     <tu>
