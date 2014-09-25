@@ -3715,6 +3715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively maximum and minimum impedances in terms of z or Z may be specified for each tapping across the whole tapping range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130408Z" creationid="CCYU" creationdate="20140925T130408Z">
+        <seg>全抽頭範圍內之每個抽頭應另外以 z 或 Z 表示最大和最小阻抗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, the impedanc&lt;t8/&gt;e&lt;t9/&gt; may be specified in accordance with one of the methods below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150402Z" creationid="CCYU" creationdate="20140924T150402Z">
