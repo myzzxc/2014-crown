@@ -24664,6 +24664,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The temperature-rise limits are valid for all &lt;t5/&gt;tappings&lt;t6/&gt;, at the appropriate tapping power, tapping voltage and tapping current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133738Z" creationid="CCYU" creationdate="20140925T133738Z">
+        <seg>溫度上升測試於適當抽頭功率抽頭電壓以及抽頭電流下適用於所有抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature-rise type test shall be carried out on one tapping only, unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133841Z" creationid="CCYU" creationdate="20140925T133841Z">
+        <seg>除另有規定外，溫度上升試驗僅於一組抽頭上測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tested sample does not show any changes in color / fading of the outer white coat.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062937Z" creationid="MAE" creationdate="20140810T062937Z">
