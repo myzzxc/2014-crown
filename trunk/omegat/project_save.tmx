@@ -6565,6 +6565,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection and phase displacement symbols for three-phase transformers and&lt;t0/&gt; &lt;t1/&gt;for single phase transformers connected in a three phase bank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142415Z" creationid="CCYU" creationdate="20140925T142415Z">
+        <seg>三相變壓器與三相組合單相變壓器之連接與相位移符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection symbol</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T141436Z" creationid="CCYU" creationdate="20140925T141436Z">
@@ -11723,6 +11731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073831Z" creationid="CCYU" creationdate="20140817T073831Z">
         <seg>若機台位於密閉區域中，去除正常洩漏外流的油污是最重要的是；若非位於密閉區域中，能吸附所有大量洩漏的油污則是很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the neutral point of a star-connected or zigzag-connected winding is brought out, th&lt;t0/&gt;e&lt;t1/&gt; indication shall be YN (&lt;t2/&gt;yn&lt;t3/&gt;) or ZN (&lt;t4/&gt;zn&lt;t5/&gt;) respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142621Z" creationid="CCYU" creationdate="20140925T142557Z">
+        <seg>若有星形連接或交錯連接之中性點，應分別以 YN (yn) 或 ZN (zn) 表示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24564,6 +24580,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012238Z">
         <seg>靜態混合器內之旋轉原料混合器必須清晰可見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The star, delta, or zigzag connection of a set of phase windings of a three-phase transforme&lt;t0/&gt;r&lt;t1/&gt; or of windings of the same voltage of single-phase transformers associated in a three-phas&lt;t2/&gt;e&lt;t3/&gt; bank shall be indicated by the capital letters Y, D or Z for the high-voltage (HV) winding an&lt;t4/&gt;d&lt;t5/&gt; small letters y, d or z for the intermediate and low-voltage (LV) windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142433Z" creationid="CCYU" creationdate="20140925T142433Z">
+        <seg>一組三相變壓器或三相組合之單相變壓器中同電壓繞組之星形、三角或交錯連接應以大寫字母 Y、D 或 Z 代表高電壓 (HV) 繞組和小寫字母 y、d 或 z 代表中或低電壓 (LV) 繞組。</seg>
       </tuv>
     </tu>
     <tu>
