@@ -12351,6 +12351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In principle, the temperature-rise type test shall demonstrate that the cooling equipment is sufficient for dissipation of maximum total loss on any tapping, and that the temperature rise over external cooling medium temperature of any winding, at any tapping, does not exceed the specified maximum value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135045Z" creationid="CCYU" creationdate="20140925T135045Z">
+        <seg>原則上，溫度上升測試應展現出冷卻設備足以帶走所有抽頭最大總損耗產生之熱，於任何抽頭處皆不超出指定之最高溫度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In regenerative channel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T114830Z" creationid="Judy" creationdate="20140823T114830Z">
