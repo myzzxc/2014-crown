@@ -11695,6 +11695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the tapping range exceeds ±5 % or the rated power is above 2 500 kVA, the guaranteed losses shall be stated on the principal tapping position, unless otherwise specified by the purchaser at the &lt;t0/&gt;enquiry stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132713Z" creationid="CCYU" creationdate="20140925T132713Z">
+        <seg>若抽頭範圍超過 ±5 % 或額定功率超率超過 2500 kVA，, the guaranteed losses shall be stated on the principal tapping position, unless otherwise specified by the purchaser at the &lt;t0/&gt;enquiry stage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range is not symmetrical &lt;t2/&gt;about&lt;t3/&gt; the principal tapping then this shall be indicated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142432Z" creationid="CCYU" creationdate="20140924T142432Z">
@@ -11713,8 +11721,8 @@
       <tuv lang="EN-US">
         <seg>If the tapping range is within ±5 %, and the rated power not above 2 500 kVA, load loss guarantees and temperature rise refer to the principal tapping only, and the temperature rise test is run on that tapping.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132613Z" creationid="CCYU" creationdate="20140925T132613Z">
-        <seg>若抽頭範圍在 ±5 % 以內，且額定功率不超過 2500 kVA，負載損耗和溫度上升僅參考主抽頭，且溫度上升測試於該抽頭進行。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132719Z" creationid="CCYU" creationdate="20140925T132613Z">
+        <seg>若抽頭範圍在 ±5 % 以內，且額定功率不超過 2500 kVA，保證負載損耗和溫度上升僅參考主抽頭，且溫度上升測試於該抽頭進行。</seg>
       </tuv>
     </tu>
     <tu>
