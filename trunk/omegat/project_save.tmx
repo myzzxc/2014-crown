@@ -9710,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For information about rules and tests regarding the temperature rise of liquid-immersed transformers, see IEC 60076-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134634Z" creationid="CCYU" creationdate="20140925T134634Z">
+        <seg>關於油浸式變壓器溫度上升規範與測試，請見 IEC 60076-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For line terminals, unless otherwise specified by the purchaser, Um shall be taken to be the lowest value that exceeds the rated voltage of each winding given in IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135158Z" creationid="CCYU" creationdate="20140922T135158Z">
