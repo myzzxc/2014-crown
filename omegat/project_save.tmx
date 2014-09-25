@@ -2537,6 +2537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;if&lt;t2/&gt; such a requirement exists, it shall be stated for which &lt;t3/&gt;tappings&lt;t4/&gt;, in addition to the principal tapping, the load losses are to be guaranteed by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133355Z" creationid="CCYU" creationdate="20140925T133355Z">
+        <seg>若有此類規範，應說明除主抽頭外製造商應保證何抽頭之損耗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z">
@@ -25220,6 +25228,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045151Z" creationid="Judy" creationdate="20140819T045151Z">
         <seg>綜合以上因子與其他簡化結果，模型的預測準確度並，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These load losses are referred to the relevant tapping current values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133530Z" creationid="CCYU" creationdate="20140925T133530Z">
+        <seg>此負載損耗依相關抽頭電流值計算。</seg>
       </tuv>
     </tu>
     <tu>
