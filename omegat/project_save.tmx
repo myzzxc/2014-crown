@@ -13503,6 +13503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will, unless otherwise agreed, be the 'maximum current tapping' (which is usually the tapping with the highest load loss).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z" creationid="CCYU" creationdate="20140925T134105Z">
+        <seg>若無另行規定，將以 '最大電流抽頭' (通常為具有最大負載損耗之抽頭) 測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It&lt;t0/&gt;’&lt;t1/&gt;s possible that they need loose absorbent in certain spots throughout the factory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063849Z" creationid="CCYU" creationdate="20140817T063837Z">
