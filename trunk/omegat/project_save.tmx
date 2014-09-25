@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Load loss and temperature rise •</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132406Z" creationid="CCYU" creationdate="20140925T132406Z">
+        <seg>負載損耗和溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;National regulations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032858Z" creationid="CCYU" creationdate="20140809T032858Z">
@@ -11699,6 +11707,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T133045Z" creationid="CCYU" creationdate="20140923T133045Z">
         <seg>若抽頭範圍不對稱於額定電壓，則標示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tapping range is within ±5 %, and the rated power not above 2 500 kVA, load loss guarantees and temperature rise refer to the principal tapping only, and the temperature rise test is run on that tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132613Z" creationid="CCYU" creationdate="20140925T132613Z">
+        <seg>若抽頭範圍在 ±5 % 以內，且額定功率不超過 2500 kVA，負載損耗和溫度上升僅參考主抽頭，且溫度上升測試於該抽頭進行。</seg>
       </tuv>
     </tu>
     <tu>
