@@ -11599,6 +11599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the impedance is expressed in percentage terms z, this shall be referred to the rated tapping voltage (at that tapping) and the rated power of the transformer (at the principal tapping).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T124216Z" creationid="CCYU" creationdate="20140925T124216Z">
+        <seg>若阻抗以百分比 z 表示，應以變壓器 (該抽頭) 額定抽頭電壓與 (主抽頭) 額定功率為參考值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -14811,6 +14819,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142947Z" creationid="CCYU" creationdate="20140924T142826Z">
         <seg>註 1 變化範圍與級數可能比主抽頭處達到正確電壓更為重要，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;The&lt;t1/&gt; selection of an impedance value by the user is subject to conflicting demands: limitation of voltage drop versus limitation of overcurrent under system fault conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T124510Z" creationid="CCYU" creationdate="20140925T124510Z">
+        <seg>註 1 使用者選擇阻抗值有需求衝突：電壓降限制對系統故障時之過電流限制。</seg>
       </tuv>
     </tu>
     <tu>
