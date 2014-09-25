@@ -24680,6 +24680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer specification and design also need to take into account that large changes in impedance between taps can reduce or exaggerate the effect of the &lt;t0/&gt;tappings&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130115Z" creationid="CCYU" creationdate="20140925T130115Z">
+        <seg>變壓器規格和設計也需列入考慮，抽頭間阻抗的大幅變化會降低或加大抽頭效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transient temperature variations by CFD approach are far from the harmonic distributions given by the second-order approach, and CFD model returns much more accurate output power than the second-order model.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073930Z" creationid="Judy" creationdate="20140819T073930Z">
