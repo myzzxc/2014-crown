@@ -10463,6 +10463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great care is therefore needed to ensure that the specified impedance is correct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132229Z" creationid="CCYU" creationdate="20140925T132229Z">
+        <seg>必須特別注意以確保指定之阻抗值正確，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground control points (GCPs) are necessary information on the Earth's surface to determine the relationship, so the GCPs data (read from the 1/5000 photo base map which is measured by Aerial Survey Office, Forestry Bureau) have to be acquired before we start to rectify these images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z" creationid="CCYU" creationdate="20140913T064227Z">
@@ -15155,6 +15163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111732Z" creationid="CCYU" creationdate="20140921T111732Z">
         <seg>註 4 變壓器之開放繞組 (請見 3.1 0.5.)，繞組額定電流為額定功率除以相數以及開放繞組之額定電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 4 Basing the impedance on the rated tapping voltage and the rated power of the transformer at the principal tapping means that the relationship between ohms per phase Z and percentage impedance z will be different for each tap and will also depend on which winding the voltage variation is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132144Z" creationid="CCYU" creationdate="20140925T132144Z">
+        <seg>註 4 根據變壓器於主抽頭之額定抽頭電壓與額定功率，每抽頭之歐姆每相 Z 與百分比阻抗 z 之關係可能不同，也取決於指定之繞組電壓變化，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25764,6 +25780,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232916Z" creationid="Judy" creationdate="20140822T232916Z">
         <seg>此數值遠小於膨脹腔體注入相之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is particularly important for transformers specified with tapping powers different to rated power at principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132342Z" creationid="CCYU" creationdate="20140925T132342Z">
+        <seg>尤其對於抽頭功率與主抽頭之額定功率不同之變壓器特別重要。</seg>
       </tuv>
     </tu>
     <tu>
