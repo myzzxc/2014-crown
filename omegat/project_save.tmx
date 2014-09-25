@@ -15039,6 +15039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 &lt;t0/&gt;For&lt;t1/&gt; some tapping &lt;t2/&gt;arrangements, the tapping winding are&lt;t3/&gt; not carrying current in the maximum current tapping position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135559Z" creationid="CCYU" creationdate="20140925T135559Z">
+        <seg>註 2 對於某些抽頭配置，抽頭繞組於最大電流抽頭位置時不帶電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 &lt;t0/&gt;The&lt;t1/&gt; rated tapping voltage is needed to determine the impedance base for each tap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143334Z" creationid="CCYU" creationdate="20140924T143334Z">
@@ -25132,6 +25140,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124640Z" creationid="Judy" creationdate="20140819T113850Z">
         <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為層流，避免需要使用紊流模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, if the &lt;t4/&gt;temperature rises&lt;t5/&gt; of the tapping winding needs to be determined, another &lt;t6/&gt;tapping&lt;t7/&gt; may be selected or an extra test may be agreed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135732Z" creationid="CCYU" creationdate="20140925T135732Z">
+        <seg>因此，若需確定抽頭繞組之溫度上升，可選擇其他抽頭或進行額外測試。</seg>
       </tuv>
     </tu>
     <tu>
