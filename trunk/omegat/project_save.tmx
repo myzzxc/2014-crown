@@ -30067,8 +30067,8 @@
       <tuv lang="EN-US">
         <seg>if a generator step up transformer is intended to be used in back-feed mode when not&lt;t0/&gt; &lt;t1/&gt;connected to the generator without protection on the lower voltage side;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134128Z" creationid="CCYU" creationdate="20140922T134128Z">
-        <seg>若發電機升壓變壓器用於回授模式下，當低電壓側未使用報保護連接至發電機；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T154131Z" creationid="CCYU" creationdate="20140922T134128Z">
+        <seg>若發電機升壓變壓器用於回授模式下，當低電壓側未使用保護連接至發電機；</seg>
       </tuv>
     </tu>
     <tu>
