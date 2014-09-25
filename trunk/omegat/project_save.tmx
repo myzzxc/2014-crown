@@ -9959,6 +9959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with &lt;t0/&gt;tappings&lt;t1/&gt; exceeding a voltage variation of ±5 % from the principle tapping, impedance values expressed in terms of Z or z shall be specified for the principal &lt;t2/&gt;tapping and the extreme tapping(s) exceeding 5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T123533Z" creationid="CCYU" creationdate="20140925T123533Z">
+        <seg>對於抽頭電壓變化超出主抽頭 ±5 % 之變壓器，應指明主抽頭和超出 5 % 之極值抽頭阻抗值並以 Z 或 z 表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with no &lt;t0/&gt;tappings&lt;t1/&gt; exceeding a voltage variation of ±5 % from the &lt;t2/&gt;principal&lt;t3/&gt; tapping, the short-circuit impedance of a pair of windings shall be specified at the princip&lt;t4/&gt;al&lt;t5/&gt; tapping only, either in terms of ohms per phase Z or in percentage terms z referred to th&lt;t6/&gt;e&lt;t7/&gt; rated power and rated voltage of the transformer (see 3.7.1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150230Z" creationid="CCYU" creationdate="20140924T150230Z">
