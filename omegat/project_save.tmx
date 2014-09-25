@@ -14911,6 +14911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;For&lt;t1/&gt; an autotransformer, the maximum current in the series and common windings are usually at two different tap positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135221Z" creationid="CCYU" creationdate="20140925T135221Z">
+        <seg>註 1 對於自藕變壓器，串聯與共用繞組之最大電流通常位於不同抽頭位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 &lt;t0/&gt;It&lt;t1/&gt; may be that the range of variation and the number of steps is more important than achieving the &lt;t2/&gt;exact&lt;t3/&gt; voltage at the principal tap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142947Z" creationid="CCYU" creationdate="20140924T142826Z">
@@ -25108,6 +25116,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z" creationid="CCYU" creationdate="20140817T064000Z">
         <seg>可使用較小的雙桶系統 (20g 包裝或更小的 5g 包裝)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore an intermediate tap position may be selected for test to allow the requirements of IEC 60076-2 to be met on both windings during the same test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135441Z" creationid="CCYU" creationdate="20140925T135441Z">
+        <seg>因此測試可選擇中間抽頭位置以於同一測試中同時使兩繞組符合 IEC 60076-2 規範。</seg>
       </tuv>
     </tu>
     <tu>
