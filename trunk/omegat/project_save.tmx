@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7 Connection phase displacement symbols</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T141218Z" creationid="CCYU" creationdate="20140925T141218Z">
+        <seg>7 連接相位移符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z" creationid="CCYU" creationdate="20140809T013855Z">
@@ -6537,6 +6545,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143438Z" creationid="CCYU" creationdate="20140808T143438Z">
         <seg>Conforms to Regulation (EC) No. 1907/2006 (REACH), Annex II - Germany 符合規章 (EC) 編號 1907/2006 號 (REACH)，附件 II - 德國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection and phase displacement symbols for three-phase transformers and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T141353Z" creationid="CCYU" creationdate="20140925T141300Z">
+        <seg>三相變壓器之連接與相位移符號</seg>
       </tuv>
     </tu>
     <tu>
@@ -29685,6 +29701,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043544Z" creationid="MAE" creationdate="20140727T043544Z">
         <seg>灌注之鑽孔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for&lt;t0/&gt; single phase transformers connected in a three phase bank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T141359Z" creationid="CCYU" creationdate="20140925T141336Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
