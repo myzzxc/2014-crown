@@ -15079,6 +15079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 &lt;t0/&gt;The&lt;t1/&gt; specified maximum and minimum impedances should allow an impedance tolerance at least as great as the tolerances given in Clause 10 but where necessary a tighter tolerance may be used by agreement between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131732Z" creationid="CCYU" creationdate="20140925T131732Z">
+        <seg>註 3 指明之最大與最小阻抗大於應第 10 條所列之阻抗容許公差，但當有需要時可能依製造商與買方協議使用更小公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For a single phase transformer not intended to be connected to form a three phase bank, the rated current is</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015704Z" creationid="CCYU" creationdate="20140920T015704Z">
