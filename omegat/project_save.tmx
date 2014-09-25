@@ -14983,6 +14983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 If an enquiry contains a specification of not only the impedance at the principal tapping but also its variation across the tapping range, this can impose an important restriction on the design of the transformer (the arrangement of the windings in relation to each other and their geometry).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T125746Z" creationid="CCYU" creationdate="20140925T125746Z">
+        <seg>註 2 若詢價規格不只包含只抽頭之阻抗，同時也包含抽頭範圍內的變化，可能會對變壓器設計造成重要的限制 (繞組之間的片至與其外型)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Th&lt;t0/&gt;e relevant component standards I&lt;t1/&gt;EC 60137 for bushings and &lt;t2/&gt;IEC &lt;t3/&gt;60214-1 for tap-changers should be consulted for the loading capability of those components.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132235Z" creationid="CCYU" creationdate="20140921T132235Z">
