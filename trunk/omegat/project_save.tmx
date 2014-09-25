@@ -16327,6 +16327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On such transformers, these values of impedance shall also be measured during the short-circuit impedance and load losses test (see 11.4) and shall be subject to the tolerances given in Clause 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T123955Z" creationid="CCYU" creationdate="20140925T123955Z">
+        <seg>此類變壓器中，阻抗值應同時於短路阻抗和負載損耗測試 (see 11.4) 時同時測量，並符合第 10 條之公差規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the contrary, Fig. 4 shows that from h = 269.0° to 360.0°, the ejection phase of the expansion chamber coincides with the compression of total engine volume, thus the gas inside the expansion chamber is heated not only by the hot-end wall but also by the compression effect.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095354Z" creationid="Judy" creationdate="20140823T095354Z">
