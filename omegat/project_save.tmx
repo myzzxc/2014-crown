@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The directions of induced voltages are on the upper part of the windings as indicate in Figure 2.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153610Z" creationid="CCYU" creationdate="20140925T153610Z">
+        <seg>(感應電壓方向標於繞組上方，如圖 2 所示)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is assumed to be the case when the ground acceleration level ag is below 2 ms-2 or approximately 0,2 g.) See IEC 60068-3-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110113Z" creationid="CCYU" creationdate="20140921T110113Z">
@@ -8709,6 +8717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples of connections in general use, with connection diagrams, are shown in Annex D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153605Z" creationid="CCYU" creationdate="20140925T153605Z">
+        <seg>一邊使用之連接範例及連接圖收錄於附錄 D 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of such conditions are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163204Z" creationid="CCYU" creationdate="20140921T163204Z">
@@ -9586,6 +9602,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154706Z" creationid="Judy" creationdate="20140820T154706Z">
         <seg>絕熱循環中， p 和 V 之間的精確關係為 pV1.4 = C，其中 C 為常數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an auto-connected pair of windings, the symbol of the lower voltage winding is replace&lt;t0/&gt;d&lt;t1/&gt; by the letter a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153552Z" creationid="CCYU" creationdate="20140925T153552Z">
+        <seg>對於自藕繞組，低電壓繞組之符號以字母 a 取代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10539,6 +10563,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z" creationid="CCYU" creationdate="20140913T064227Z">
         <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得地面控制點數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guidance may&lt;t1/&gt; be found in IEC/TR 60616.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153617Z" creationid="CCYU" creationdate="20140925T153617Z">
+        <seg>可參考 IEC/TR 60616 指示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13855,6 +13887,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Letter symbols for the different windings of a transformer are noted in descending order c rated voltage independently of the intended power flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153602Z" creationid="CCYU" creationdate="20140925T153602Z">
+        <seg>不同變壓器繞組之字母符號以額定電壓 (不考慮電力輸送方向) 降冪順序標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Letting them know that the refill is much cheaper because it doesn’t come with the disposal container can be very appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124953Z" creationid="CCYU" creationdate="20140817T124953Z">
@@ -15535,6 +15575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE This numbering is arbitrary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153615Z" creationid="CCYU" creationdate="20140925T153615Z">
+        <seg>註 此數字無意義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Where there is a need to express that a transformer is not auto-connected, use is made of terms such as separate winding transformer, or double-wound transformer (see IEC 60050-421:1990, 421-01-13).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T131532Z" creationid="CCYU" creationdate="20140918T140753Z">
@@ -16647,6 +16695,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open windings do not have a clock number notation because the phase relationship of these windings with other windings depends on the external connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153618Z" creationid="CCYU" creationdate="20140925T153618Z">
+        <seg>開繞組無時鐘數標記，因為其繞組各相之間關係取決於外部連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open windings in a three-phase transformer (that are not connected together in th&lt;t0/&gt;e&lt;t1/&gt; transformer but have both ends of each phase winding brought out to t&lt;t2/&gt;erminals, for example&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153558Z" creationid="CCYU" creationdate="20140925T153558Z">
+        <seg>三相變壓器之開繞組 (位於變壓器中相連接，但每相繞組之兩端點連至端子，例如</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100239Z">
@@ -17443,6 +17507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094855Z" creationid="MAE" creationdate="20140807T094855Z">
         <seg>Personal protective equipment (PPE) - see Section 8. 個人防護裝備 (PPE) - 請見第 8 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase displacement in clock number notation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153606Z" creationid="CCYU" creationdate="20140925T153606Z">
+        <seg>相位移之時鐘數記號</seg>
       </tuv>
     </tu>
     <tu>
@@ -22496,6 +22568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terminal marking on the transformer follow&lt;t0/&gt;s national practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153616Z" creationid="CCYU" creationdate="20140925T153616Z">
+        <seg>變壓器上之端子標記依照各國習慣，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Terminals and neutral point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143646Z" creationid="CCYU" creationdate="20140918T143646Z">
@@ -22604,6 +22684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065339Z" creationid="MAE" creationdate="20140810T065339Z">
         <seg>測試之顏色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Th&lt;t0/&gt;e&lt;t1/&gt; phase I phasor of the low-voltage winding is oriented according to the induced voltage relatio&lt;t2/&gt;n&lt;t3/&gt; which results for the connection shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153612Z" creationid="CCYU" creationdate="20140925T153612Z">
+        <seg>低壓繞組 I 相的相量指向根據連接所造成的感應電壓關係而定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23144,6 +23232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The clock number symbol is the hour on which th&lt;t4/&gt;e&lt;t5/&gt; low voltage points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153613Z" creationid="CCYU" creationdate="20140925T153613Z">
+        <seg>時鐘數符號為低電壓時針指向位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The combined heat transfer effects can be demonstrated by velocity vectors, temperature contours, and local heat ﬂux distributions in the compression chamber at h = 54.0° shown in Fig. 8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093052Z" creationid="Judy" creationdate="20140823T093052Z">
@@ -23188,6 +23284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065244Z" creationid="MAE" creationdate="20140810T065244Z">
         <seg>根據以上測試條件所得到的測試結論為抗光性穩定度相當優良。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connection diagrams show the high-voltage winding above, and the low-voltage windin&lt;t0/&gt;g&lt;t1/&gt; below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153608Z" creationid="CCYU" creationdate="20140925T153608Z">
+        <seg>連接圖中高電壓繞組在上，低電壓繞組在下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23480,6 +23584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following conventions of notation apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153607Z" creationid="CCYU" creationdate="20140925T153607Z">
+        <seg>以下為使用之標記法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following data are necessary to define the design of the transformer:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131605Z" creationid="CCYU" creationdate="20140924T131605Z">
@@ -23628,6 +23740,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>保溫電毯將於連續使用大約 3 個小時後自動關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The high-voltage winding phasor diagram is oriented with phase I pointing at 12 o'clock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153611Z" creationid="CCYU" creationdate="20140925T153611Z">
+        <seg>高壓繞組相量圖以 I 相指向 12 點鐘位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24456,6 +24576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sense of rotation of the phasor diagrams is counter-clockwise, giving the sequence I Il — III.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153614Z" creationid="CCYU" creationdate="20140925T153614Z">
+        <seg>相量圖旋轉方向依逆時鐘方向順序為 I - II - III。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The service &lt;t0/&gt;center &lt;t1/&gt;address&lt;t2/&gt; &lt;t3/&gt;is shown&lt;t4/&gt; &lt;t5/&gt;on the attached leaflet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075733Z">
@@ -25036,6 +25164,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115537Z" creationid="CCYU" creationdate="20140817T115537Z">
         <seg>由於操作方式的因素，油無法留在系統中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winding connection letter for an intermediate and low-voltage winding is immediately followed by its phase displacement 'cloc&lt;t0/&gt;k&lt;t1/&gt; number' (see 3.10.6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153604Z" creationid="CCYU" creationdate="20140925T153604Z">
+        <seg>中或低電壓繞組之繞組連接代號接於其相位移 '時鐘數' 之後 (請見 3.10.6)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25732,6 +25868,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044719Z">
         <seg>本節說明了馬達供應、安裝、連接和測試的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This also applies to transformers when the neutral end &lt;t6/&gt;connection for each phase winding is&lt;t7/&gt; brought out separately but are&lt;t8/&gt; connected together to form a neutral point for service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153555Z" creationid="CCYU" creationdate="20140925T153555Z">
+        <seg>這也適用於當中性端點連接由各相獨立繞組連接形中性點之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31285,6 +31429,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T052746Z" creationid="CCYU" creationdate="20140920T052746Z">
         <seg>於額定頻率下三相星形 (Y) 連接或 Z 連接繞組之線路端子與中性端子相連接之阻抗，以歐姆每相表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the line windings of series and phase-shifting transformers) are indicated as Ill (HV), or i (intermediate or low-voltage windings).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153559Z" creationid="CCYU" creationdate="20140925T153559Z">
+        <seg>串聯和相移變壓器之線繞組) 以 III (HV) 或 iii (中或低電壓繞組)。</seg>
       </tuv>
     </tu>
     <tu>
