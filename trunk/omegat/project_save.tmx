@@ -14295,6 +14295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured values shall not fall outside the boundaries, which are limits without tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131403Z" creationid="CCYU" creationdate="20140925T131301Z">
+        <seg>量測值不應超出無容許值之限制邊界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical resistance and stability (BWR 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
@@ -22916,6 +22924,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073553Z" creationid="CCYU" creationdate="20140817T073553Z">
         <seg>使用吸收墊的好處為去除正常洩漏外流的油污且能吸附所有大量洩漏的油污。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The boundaries should where possible be at least as far apart as to permit the double-sided tolerances of Clause 10 to be applied on a median value between them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131207Z" creationid="CCYU" creationdate="20140925T131207Z">
+        <seg>邊界距離應至少大於第 10 條所列之中間值雙邊容許值，</seg>
       </tuv>
     </tu>
     <tu>
