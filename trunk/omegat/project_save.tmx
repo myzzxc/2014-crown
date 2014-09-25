@@ -8245,6 +8245,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Economic optimization of the design, bearing in mind loss, leads towards a certain range of impedance values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T125046Z" creationid="CCYU" creationdate="20140925T125011Z">
+        <seg>設計之經濟最化需考慮損耗造成特定範圍之阻抗值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edge distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044506Z" creationid="MAE" creationdate="20140727T044506Z">
