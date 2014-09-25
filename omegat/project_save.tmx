@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Annex C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130508Z" creationid="CCYU" creationdate="20140925T130508Z">
+        <seg>(請見附件 C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is assumed to be the case when the ground acceleration level ag is below 2 ms-2 or approximately 0,2 g.) See IEC 60068-3-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110113Z" creationid="CCYU" creationdate="20140921T110113Z">
@@ -25780,6 +25788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T044812Z" creationid="CCYU" creationdate="20140913T041206Z">
         <seg>此地滑區面積約為 1.2 平方公里 (1500 公尺 × 800 公尺)，其北邊界有一條小溪河和頂水堀斷層通過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be done with the aid of a graph or a table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130510Z" creationid="CCYU" creationdate="20140925T130456Z">
+        <seg>可使用圖示或列表輔助，</seg>
       </tuv>
     </tu>
     <tu>
