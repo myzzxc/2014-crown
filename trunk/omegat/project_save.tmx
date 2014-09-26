@@ -3027,6 +3027,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A three-phase series transformer designed for a 400 kV network and with a 40 kV excitation winding delta connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145848Z" creationid="CCYU" creationdate="20140926T145848Z">
+        <seg>三相串聯變壓器，設計為用於 400 kV 電網與 40 kV 激發繞組三角連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A three-phase three winding transformer designed for a 220 kV star connected HV with a 40 kV open winding and a 10 kV third winding delta connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145726Z" creationid="CCYU" creationdate="20140926T145726Z">
+        <seg>三相三繞組變壓器，設計為高電壓 220 kV 星形連接與 40 kV 開繞組以及 10 kV 第三繞組三角連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-phase transformer designed for a 20 kV delta connected HV and with a 10 kV &lt;t0/&gt;open&lt;t1/&gt; winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145234Z" creationid="CCYU" creationdate="20140926T145234Z">
@@ -21984,6 +22000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;III&lt;t1/&gt;d</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145903Z" creationid="CCYU" creationdate="20140926T145903Z">
+        <seg>符號：IIId</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: &lt;t0/&gt;YNaO+d</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144509Z" creationid="CCYU" creationdate="20140926T144509Z">
@@ -22044,6 +22068,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132922Z" creationid="CCYU" creationdate="20140926T132922Z">
         <seg>符號：YNd11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: YNiiid5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145739Z" creationid="CCYU" creationdate="20140926T145739Z">
+        <seg>符號：YNiiid5</seg>
       </tuv>
     </tu>
     <tu>
