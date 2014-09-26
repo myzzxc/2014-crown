@@ -21770,8 +21770,8 @@
       <tuv lang="EN-US">
         <seg>Symbol: YNa0+d.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130757Z" creationid="CCYU" creationdate="20140926T130757Z">
-        <seg>符號lSymbol: YNa0+d.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130823Z" creationid="CCYU" creationdate="20140926T130757Z">
+        <seg>符號：YNa0+d，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30605,6 +30605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055254Z" creationid="CCYU" creationdate="20140920T055254Z">
         <seg>開口三角連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or &lt;t0/&gt;YNaO+y&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130832Z" creationid="CCYU" creationdate="20140926T130832Z">
+        <seg>或 YNaO+y。</seg>
       </tuv>
     </tu>
     <tu>
