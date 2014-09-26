@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>220 (110) 10&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132942Z" creationid="CCYU" creationdate="20140926T132942Z">
+        <seg>220 (110) / 10,5 kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 g (without&lt;t1/&gt; &lt;t2/&gt;mains adapter)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073402Z">
@@ -11495,6 +11503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If HV can be 220 kV or 110 kV (dual voltage) but star-connection is required for both voltages and the transformer is delivered in 220 kV configuration and LV is 10&lt;t0/&gt;,5&lt;t1/&gt; kV delta connected:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132856Z" creationid="CCYU" creationdate="20140926T132856Z">
+        <seg>若高電壓為 220 kV 或 110 kV (雙電壓) 但兩電壓皆需星形連接，且變壓器原廠設置為 220 kV 而低電壓為 10,5 kV 三角連接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a delta connected stabilizing winding is required, it shall be specified by the purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140304Z" creationid="CCYU" creationdate="20140922T140215Z">
@@ -21788,6 +21804,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130823Z" creationid="CCYU" creationdate="20140926T130757Z">
         <seg>符號：YNa0+d，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: YNd&lt;t0/&gt;1&lt;t1/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132922Z" creationid="CCYU" creationdate="20140926T132922Z">
+        <seg>符號：YNd11</seg>
       </tuv>
     </tu>
     <tu>
