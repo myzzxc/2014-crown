@@ -734,10 +734,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>110 / 11 (5&lt;t0/&gt;,5&lt;t1/&gt;) kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152035Z" creationid="CCYU" creationdate="20140926T152035Z">
+        <seg>110 / 11 (5,5) kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>110 / 11 (6&lt;t0/&gt;,35&lt;t1/&gt;) kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133633Z" creationid="CCYU" creationdate="20140926T133633Z">
         <seg>110 / 11 (6,35) kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>110&lt;t0/&gt; /&lt;t1/&gt; 11 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152203Z" creationid="CCYU" creationdate="20140926T152203Z">
+        <seg>110 / 11 kV</seg>
       </tuv>
     </tu>
     <tu>
@@ -8845,6 +8861,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples are shown below and some of their graphical representations are on Figure 4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152223Z" creationid="CCYU" creationdate="20140926T152223Z">
+        <seg>下圖 4 為範例與其代表圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples are shown below and their graphical representations are shown in Figures 2 and 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142102Z" creationid="CCYU" creationdate="20140926T142102Z">
@@ -11671,6 +11695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If LV can be 11 kV in 0 and 5&lt;t0/&gt;,5&lt;t1/&gt; kV in 6 and the transformer is delivered in 11 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151940Z" creationid="CCYU" creationdate="20140926T151940Z">
+        <seg>若低電壓可為 11 kV 或 5,5 kV 相位移為 6，變壓器原廠設置為 11 kV 星形連接而高電壓為 110 kV 星形連接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If LV can be 11 kV in star and 6&lt;t0/&gt;,35&lt;t1/&gt; kV in delta and the transformer is delivered in 11 kV star configuration and HV is 110 kV star connected:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T141930Z" creationid="CCYU" creationdate="20140926T133358Z">
@@ -11875,6 +11907,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120131Z" creationid="CCYU" creationdate="20140817T120101Z">
         <seg>若沒有效果，吸收墊與護邊也絕對可以用於液壓機台週邊 (雖然機台量可能不多)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the LV vector group is reconfigurable without changing the rated voltages (11 kV i&lt;t0/&gt;n &lt;t1/&gt;this example) and the transformer is delivered in i0 and the HV is 110 kV: Symbol: HO (i6)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152155Z" creationid="CCYU" creationdate="20140926T152155Z">
+        <seg>若低電壓組為無須改變額定電壓 (此範例為 11 kV) 之可變設置而變壓器原廠設置為 i0 且高電壓為 110 kV：
+符號：Ii0 (i6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22088,6 +22129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: HO (i6)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152027Z" creationid="CCYU" creationdate="20140926T152027Z">
+        <seg>符號：Ii0 (i6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: Ii0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151714Z" creationid="CCYU" creationdate="20140926T151714Z">
@@ -24996,6 +25045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T222831Z" creationid="JUDY" creationdate="20140826T220008Z">
         <seg>Raytek 和 Ircon 所生產之堅固且可靠的非接觸式紅外測溫器適合安裝於廠房和機器中，可透過各產業特定介面整合至加工監測系統中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The same con&lt;t0/&gt;vention as in Figure 2 applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152256Z" creationid="CCYU" creationdate="20140926T152256Z">
+        <seg>符號標記與圖 2 相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,6 +29934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063941Z">
         <seg>壓縮空氣工具手滑閥 (至少 6 bar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>configuration and HV is 110 kV:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151942Z" creationid="CCYU" creationdate="20140926T151942Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
