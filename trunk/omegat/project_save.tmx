@@ -18800,6 +18800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reconnectable&lt;t0/&gt; windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132316Z" creationid="CCYU" creationdate="20140926T132316Z">
+        <seg>多電壓繞組 (Reconnectable windings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction for seismic shear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013350Z">
