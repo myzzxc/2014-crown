@@ -2995,6 +2995,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A three-phase autotransformer designed for a 400 kV HV and a 130 kV intermediate&lt;t0/&gt; &lt;t1/&gt;voltage with 22 kV tertiary windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144302Z" creationid="CCYU" creationdate="20140926T144302Z">
+        <seg>三相自耦變壓器，設計為高電壓 400 kV，中電壓 130 kV 及三次繞組 22 kV，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-winding transformer with the high-voltage winding rated 123 kV, star connected with neutral brought out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142806Z" creationid="CCYU" creationdate="20140926T142716Z">
@@ -11831,6 +11839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the delta winding is not brought out to three line terminals but only provided as stabilizing winding, the symbol would indicate this by a plus sign.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144402Z" creationid="CCYU" creationdate="20140926T144402Z">
+        <seg>若三角繞組未連接至三線路端子而僅用為穩定繞組時，將以加號表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the engine is removed or if it is still in place, use our product liberally in the containment area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135059Z" creationid="CCYU" creationdate="20140817T135059Z">
@@ -20464,6 +20480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See example below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144236Z" creationid="CCYU" creationdate="20140926T144236Z">
+        <seg>請見以下範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See section reactivity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095645Z" creationid="CCYU" creationdate="20140809T095645Z">
@@ -23328,6 +23352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The auto-connected windings are connected it star, while the tertiary windings are connected in delta.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144327Z" creationid="CCYU" creationdate="20140926T144327Z">
+        <seg>自藕繞組為星形連接，而三次繞組為三角連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bar should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045209Z">
@@ -25028,6 +25060,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021101Z">
         <seg>未調查自然資源的永續使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The symbol would be the same for a three-phase auto-transformer with the same&lt;t0/&gt; &lt;t1/&gt;connection, internally with the exception of the voltage notation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144213Z" creationid="CCYU" creationdate="20140926T144213Z">
+        <seg>具有相同連接之三相自藕變壓器的符號相同，除了內部電壓標記外。</seg>
       </tuv>
     </tu>
     <tu>
