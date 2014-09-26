@@ -3003,6 +3003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A three-phase generator step up transformer designed for a 20 kV network and a&lt;t0/&gt;t&lt;t1/&gt; 8&lt;t2/&gt;,4&lt;t3/&gt; kV generator side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144653Z" creationid="CCYU" creationdate="20140926T144653Z">
+        <seg>三個發電機升壓變壓器，設計用於 20 kV 電網，發電機側為 8,4 kV，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-winding transformer with the high-voltage winding rated 123 kV, star connected with neutral brought out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142806Z" creationid="CCYU" creationdate="20140926T142716Z">
@@ -11833,16 +11841,16 @@
       <tuv lang="EN-US">
         <seg>If the delta winding is not brought out to three line terminals but only provided as a stabilizing winding, the symbol would indicate this by a plus sign.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143824Z" creationid="CCYU" creationdate="20140926T143824Z">
-        <seg>若三角繞組未連接至線路端子而僅用為穩定繞組時，將以加號表示。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144438Z" creationid="CCYU" creationdate="20140926T143824Z">
+        <seg>若三角繞組未連接至三線路端子而僅作為穩定繞組時，將以加號表示。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the delta winding is not brought out to three line terminals but only provided as stabilizing winding, the symbol would indicate this by a plus sign.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144402Z" creationid="CCYU" creationdate="20140926T144402Z">
-        <seg>若三角繞組未連接至三線路端子而僅用為穩定繞組時，將以加號表示。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144431Z" creationid="CCYU" creationdate="20140926T144402Z">
+        <seg>若三角繞組未連接至三線路端子而僅作為穩定繞組時，將以加號表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15883,6 +15891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020142Z" creationid="CCYU" creationdate="20140809T020142Z">
         <seg>No &lt;t0/&gt;exposure limit&lt;t1/&gt; value known. 無已知暴露限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No &lt;t0/&gt;phase&lt;t1/&gt; displacement notation would then apply for the stabilizing winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144454Z" creationid="CCYU" creationdate="20140926T144454Z">
+        <seg>穩定繞組不適用相位移標記。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21924,6 +21940,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
         <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;YNaO+d</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144509Z" creationid="CCYU" creationdate="20140926T144509Z">
+        <seg>符號：YNa0+d</seg>
       </tuv>
     </tu>
     <tu>
