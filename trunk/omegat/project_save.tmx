@@ -23600,6 +23600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The clock number of single-phase transformers is determined as for three phase transformer but can only be 0 if both windings are in phase or 6 if they are in opposition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151026Z" creationid="CCYU" creationdate="20140926T151026Z">
+        <seg>單相變壓器之時鐘數標示法與三相變壓器相同但只能為 0 (繞組相位相同) 或 6 (繞組相位相反)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clock number symbol is the hour on which th&lt;t4/&gt;e&lt;t5/&gt; low voltage points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153613Z" creationid="CCYU" creationdate="20140925T153613Z">
