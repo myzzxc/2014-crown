@@ -6669,6 +6669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection and phase displacement symbols for single phase transformers not in three phase bank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150008Z" creationid="CCYU" creationdate="20140926T150008Z">
+        <seg>非三相組合單相變壓器之連接與相位移符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection and phase displacement symbols for three-phase transformers and</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T141430Z" creationid="CCYU" creationdate="20140925T141300Z">
@@ -23636,6 +23644,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153608Z" creationid="CCYU" creationdate="20140925T153608Z">
         <seg>連接圖中高電壓繞組在上，低電壓繞組在下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connection of a set of phase windings of single-phase transformers is indicated by the capital letter I for the high-voltage (HV) winding and small letter i for the intermediate and low-voltage (LV) windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150228Z" creationid="CCYU" creationdate="20140926T150228Z">
+        <seg>一組單相變壓器之相繞組連接以大寫字母 I 代表高電壓 (HV) 繞組，小寫字母 i 代表低電壓 (LV) 繞組。</seg>
       </tuv>
     </tu>
     <tu>
