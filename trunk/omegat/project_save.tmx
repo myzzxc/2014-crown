@@ -21768,6 +21768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: YNa0+d.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130757Z" creationid="CCYU" creationdate="20140926T130757Z">
+        <seg>符號lSymbol: YNa0+d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symmetry of three-phase supply voltage</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105053Z" creationid="CCYU" creationdate="20140921T105053Z">
@@ -23540,6 +23548,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021047Z">
         <seg>使用安全的重要特性屬於基本工程要求之機械阻力和穩定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The existence of a stabilizing or a test winding (a delta or star-connected winding which is not terminated for external three-phase loading) is indicated, after the symbols of loadable windings, with the symbol '+d' or '+y ' according to its connection as in the examples below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130752Z" creationid="CCYU" creationdate="20140926T130752Z">
+        <seg>穩定繞組或相繞組 (不連接負載之三角或星形連接繞組) 根據其連接方式以符號 '+d' 或 '+y ' 標示於負載繞組後，如以下範例：</seg>
       </tuv>
     </tu>
     <tu>
