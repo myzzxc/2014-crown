@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>110 / 11 (6&lt;t0/&gt;,35&lt;t1/&gt;) kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133633Z" creationid="CCYU" creationdate="20140926T133633Z">
+        <seg>110 / 11 (6,35) kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12.3   &lt;t0/&gt;Bioaccumulative&lt;t1/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154141Z" creationid="CCYU" creationdate="20140807T154141Z">
@@ -11505,8 +11513,16 @@
       <tuv lang="EN-US">
         <seg>If HV can be 220 kV or 110 kV (dual voltage) but star-connection is required for both voltages and the transformer is delivered in 220 kV configuration and LV is 10&lt;t0/&gt;,5&lt;t1/&gt; kV delta connected:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132856Z" creationid="CCYU" creationdate="20140926T132856Z">
-        <seg>若高電壓為 220 kV 或 110 kV (雙電壓) 但兩電壓皆需星形連接，且變壓器原廠設置為 220 kV 而低電壓為 10,5 kV 三角連接：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133405Z" creationid="CCYU" creationdate="20140926T132856Z">
+        <seg>若高電壓可為 220 kV 或 110 kV (雙電壓) 但兩電壓皆需星形連接，且變壓器原廠設置為 220 kV 而低電壓為 10,5 kV 三角連接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If LV can be 11 kV in star and 6&lt;t0/&gt;,35&lt;t1/&gt; kV in delta and the transformer is delivered in 11 kV star configuration and HV is 110 kV star connected:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133539Z" creationid="CCYU" creationdate="20140926T133358Z">
+        <seg>若低電壓可為 11 kV 星形連接或 6,35 kV 三角連接，變壓器原廠設置為 11 kV 星形連接而高電壓為 11 kV 星形連接：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21796,6 +21812,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
         <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;YNyO&lt;t1/&gt; (d11)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133610Z" creationid="CCYU" creationdate="20140926T133610Z">
+        <seg>符號：YNy0 (d11)</seg>
       </tuv>
     </tu>
     <tu>
