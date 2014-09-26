@@ -22064,6 +22064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: Ii0+i.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151424Z" creationid="CCYU" creationdate="20140926T151424Z">
+        <seg>符號：Ii0+i。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: YNa0+d</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143949Z" creationid="CCYU" creationdate="20140926T143949Z">
@@ -23940,6 +23948,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130752Z" creationid="CCYU" creationdate="20140926T130752Z">
         <seg>穩定繞組或相繞組 (不連接負載之三角或星形連接繞組) 根據其連接方式以符號 '+d' 或 '+y ' 標示於負載繞組後，如以下範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The existence of a test or additional winding, which is not terminated for external loading, i&lt;t0/&gt;f&lt;t1/&gt; indicated, after the symbols of loadable windings, with the s&lt;t2/&gt;ymbol '+i' as in the example below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151408Z" creationid="CCYU" creationdate="20140926T151408Z">
+        <seg>若要標示不連接至外部負載之測試或額外繞組，以符號 '+i' 標示可負載繞組後，如以下範例所示：</seg>
       </tuv>
     </tu>
     <tu>
