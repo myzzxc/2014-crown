@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>123 / 36 / 7&lt;t0/&gt;,2&lt;t1/&gt; kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143010Z" creationid="CCYU" creationdate="20140926T143010Z">
+        <seg>123 / 36 / 7,2 kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>13.1&lt;t0/&gt; &lt;t1/&gt;Waste&lt;t2/&gt; &lt;t3/&gt;treatment&lt;t4/&gt; &lt;t5/&gt;methods</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134627Z" creationid="CCYU" creationdate="20140808T134627Z">
@@ -3941,8 +3949,8 @@
       <tuv lang="EN-US">
         <seg>An intermediate-voltage winding of 36 kV, star connected with neutral brought out, in phase with the high-voltage winding but not auto-connected, and a 7&lt;t0/&gt;,2&lt;t1/&gt; kV delta-connected third winding, lagging by 150°.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142803Z" creationid="CCYU" creationdate="20140926T142803Z">
-        <seg>中電壓繞組為 36 kV、星形連接至中性點，, star connected with neutral brought out, in phase with the high-voltage winding but not auto-connected, and a 7&lt;t0/&gt;,2&lt;t1/&gt; kV delta-connected third winding, lagging by 150°.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142951Z" creationid="CCYU" creationdate="20140926T142803Z">
+        <seg>中電壓繞組為 36 kV、星形連接至中性點，與高壓繞組同相但非自藕。第三繞組 7,2 kV 星形連接，落後 150°。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21900,6 +21908,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132922Z" creationid="CCYU" creationdate="20140926T132922Z">
         <seg>符號：YNd11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: YNynOd5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143002Z" creationid="CCYU" creationdate="20140926T143002Z">
+        <seg>符號：YNyn0d5</seg>
       </tuv>
     </tu>
     <tu>
