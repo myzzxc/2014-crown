@@ -9758,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For an auto-connected pair of windings, the symbol of the lower voltage winding is replaced&lt;t0/&gt; &lt;t1/&gt;by the letter a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150711Z" creationid="CCYU" creationdate="20140926T150711Z">
+        <seg>對於自藕繞組，低電壓繞組之符號以字母 a 取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For anchors in lightweight concrete see ACI 318-11 D.3.6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072139Z">
@@ -14082,6 +14090,14 @@
         <seg>Letter symbols for the different windings of a transformer are noted in descending order c rated voltage independently of the intended power flow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153602Z" creationid="CCYU" creationdate="20140925T153602Z">
+        <seg>不同變壓器繞組之字母符號以額定電壓 (不考慮電力輸送方向) 降冪順序標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Letter symbols for the different windings of a transformer are noted in descending order of rated voltage independently of the intended power flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150459Z" creationid="CCYU" creationdate="20140926T150459Z">
         <seg>不同變壓器繞組之字母符號以額定電壓 (不考慮電力輸送方向) 降冪順序標示。</seg>
       </tuv>
     </tu>
@@ -25556,6 +25572,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153604Z" creationid="CCYU" creationdate="20140925T153604Z">
         <seg>中或低電壓繞組之繞組連接代號接於其相位移 '時鐘數' 之後 (請見 3.10.6)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winding connection letter for any intermediate and low-voltage winding is immediately followed by its phase displacement 'clock number' (see definition 3.10.6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150652Z" creationid="CCYU" creationdate="20140926T150652Z">
+        <seg>所有中或低電壓繞組之繞組連接代號接於其相位移 '時鐘數' 之後 (請見 3.10.6 定義)。</seg>
       </tuv>
     </tu>
     <tu>
