@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>220 (110) / 27&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151726Z" creationid="CCYU" creationdate="20140926T151726Z">
+        <seg>220 (110) / 27,5 kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>220 (110) 10&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132942Z" creationid="CCYU" creationdate="20140926T132942Z">
@@ -11655,6 +11663,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If HV can be 220 kV or 110 kV (dual voltage) but with&lt;t0/&gt; the same connection required for&lt;t1/&gt; both voltages</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151703Z" creationid="CCYU" creationdate="20140926T151703Z">
+        <seg>若高電壓可為 220 kV 或 110 kV (雙電壓) 但兩電壓連接皆相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If LV can be 11 kV in star and 6&lt;t0/&gt;,35&lt;t1/&gt; kV in delta and the transformer is delivered in 11 kV star configuration and HV is 110 kV star connected:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T141930Z" creationid="CCYU" creationdate="20140926T133358Z">
@@ -11679,10 +11695,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer is specified with a reconfigurable winding connection, the alternative couplin&lt;t0/&gt;g&lt;t1/&gt; voltage and connection is noted in brackets after the delivered configuration as indicated b&lt;t2/&gt;y&lt;t3/&gt; the following examples</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151553Z" creationid="CCYU" creationdate="20140926T151553Z">
+        <seg>若變壓器具有可改變接線配置之繞組，可變換之耦合電壓及連接需使用括號標注於原廠配置之後，如以下範例所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a transformer is specified with a reconfigurable winding connection, the alternative coupling voltage and connection is noted in brackets after the delivered configuration as indicated by the following examples:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132634Z" creationid="CCYU" creationdate="20140926T132634Z">
-        <seg>若變壓器具有可改變接線配置之繞組，可變換之耦合電壓及連接需依下列範例於外殼上標注於原廠配置之後：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151557Z" creationid="CCYU" creationdate="20140926T132634Z">
+        <seg>若變壓器具有可改變接線配置之繞組，可變換之耦合電壓及連接需使用括號標注於原廠配置之後，如以下範例所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22060,6 +22084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142519Z" creationid="CCYU" creationdate="20140926T142519Z">
         <seg>符號：Dyn11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: Ii0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151714Z" creationid="CCYU" creationdate="20140926T151714Z">
+        <seg>符號：Ii0</seg>
       </tuv>
     </tu>
     <tu>
