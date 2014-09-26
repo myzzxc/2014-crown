@@ -9358,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 2 Illustration of 'clock number' notation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142131Z" creationid="CCYU" creationdate="20140926T142131Z">
+        <seg>圖 2 '時鐘數' 標記圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t0/&gt;1&lt;t1/&gt;a — Constant flux voltage variation (CFVV)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142204Z" creationid="CCYU" creationdate="20140923T142204Z">
@@ -32368,6 +32376,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050818Z" creationid="CCYU" creationdate="20140920T050818Z">
         <seg>— 17 —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>— A transformer with the high-voltage winding rated 20 kV, delta-&lt;t0/&gt;connected,&lt;t1/&gt; the low-voltage winding rated 400 V star-connected with neutral brought out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142434Z" creationid="CCYU" creationdate="20140926T142208Z">
+        <seg>— 高壓繞組額定電壓 20 kV、三角連接、低壓繞組額定 400 V 星形連接至中性點之變壓器，</seg>
       </tuv>
     </tu>
     <tu>
