@@ -11823,6 +11823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the delta winding is not brought out to three line terminals but only provided as a stabilizing winding, the symbol would indicate this by a plus sign.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143824Z" creationid="CCYU" creationdate="20140926T143824Z">
+        <seg>若三角繞組未連接至線路端子而僅用為穩定繞組時，將以加號表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the engine is removed or if it is still in place, use our product liberally in the containment area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135059Z" creationid="CCYU" creationdate="20140817T135059Z">
@@ -16035,6 +16043,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
         <seg>性能未確定 (NPD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No phase displacement notation would then apply for the stabilizing winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143937Z" creationid="CCYU" creationdate="20140926T143937Z">
+        <seg>穩定繞組不適用相位移標記。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21900,6 +21916,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142519Z" creationid="CCYU" creationdate="20140926T142519Z">
         <seg>符號：Dyn11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: YNa0+d</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143949Z" creationid="CCYU" creationdate="20140926T143949Z">
+        <seg>符號：YNa0+d</seg>
       </tuv>
     </tu>
     <tu>
