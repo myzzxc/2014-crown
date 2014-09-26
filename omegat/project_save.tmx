@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>20 / 8&lt;t0/&gt;,4&lt;t1/&gt; kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144935Z" creationid="CCYU" creationdate="20140926T144935Z">
+        <seg>20 / 8,4 kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20 °C yearly average.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100407Z" creationid="CCYU" creationdate="20140921T100407Z">
@@ -2741,6 +2749,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T223217Z" creationid="JUDY" creationdate="20140826T223217Z">
         <seg>Raytek 和 Ircon 之感測器含有數位電子技術與雙向通訊功能，能於控制室安全地進行遠端設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;The delta winding lag5 the high-voltage winding by 330°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144910Z" creationid="CCYU" creationdate="20140926T144910Z">
+        <seg>三角繞組落後高壓繞組 330°。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21952,6 +21968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;YNdl&lt;t1/&gt; 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144929Z" creationid="CCYU" creationdate="20140926T144929Z">
+        <seg>符號：YNd11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: &lt;t0/&gt;YNyO&lt;t1/&gt; (d11)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T133610Z" creationid="CCYU" creationdate="20140926T133610Z">
@@ -25468,6 +25492,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130357Z" creationid="CCYU" creationdate="20140919T130357Z">
         <seg>由供電源接收主動電力之的繞組稱為 '一次繞組 (primary winding)'，而傳輸主動電力至負載之繞組為為 '二次繞組 (secondary winding)'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The windings connected to the generator are connected in delta, while the network side windings are connected in star.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144836Z" creationid="CCYU" creationdate="20140926T144836Z">
+        <seg>連接至發電機之繞組為三角連接，而電網側之繞組為星形連接，</seg>
       </tuv>
     </tu>
     <tu>
