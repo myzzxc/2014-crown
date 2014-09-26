@@ -11511,6 +11511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer is specified with a reconfigurable winding connection, the alternative coupling voltage and connection is noted in brackets after the delivered configuration as indicated by the following examples:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132634Z" creationid="CCYU" creationdate="20140926T132634Z">
+        <seg>若變壓器具有可改變接線配置之繞組，可變換之耦合電壓及連接需依下列範例於外殼上標注於原廠配置之後：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an accident occurs in the rain, our absorbent will still work, eliminating the oily sheen that officers will be looking to spot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z" creationid="CCYU" creationdate="20140817T133825Z">
