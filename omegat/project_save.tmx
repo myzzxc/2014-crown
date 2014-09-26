@@ -28433,6 +28433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windings not intended to be loaded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130347Z" creationid="CCYU" creationdate="20140926T130347Z">
+        <seg>無負載之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With &lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; sensors, factory operators can control the temperature of their process, result­ing in significant energy and time savings, as well as increased safety, productivity and product quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T224541Z" creationid="JUDY" creationdate="20140826T224541Z">
