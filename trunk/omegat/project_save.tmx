@@ -2875,6 +2875,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A group of three single-phase auto-transformers designed for a 400 kV HV and a 130 kV intermediate voltage with 22 kV tertiary windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143400Z" creationid="CCYU" creationdate="20140926T143217Z">
+        <seg>三個單相自耦變壓器，設計為高電壓 400 kV，中電壓 130 kV 及三次繞組 22 kV，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A height above sea-level not exceeding 1 000 m.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094257Z" creationid="CCYU" creationdate="20140921T094257Z">
@@ -23276,6 +23284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213316Z" creationid="Judy" creationdate="20140823T213051Z">
         <seg>某些零維或一維模型假設均勻溫度分布並固定熱對流係數來計算熱傳導效應無法呈現真實的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The auto-connected windings are connected in star, while the tertiary windings are connected in delta.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143354Z" creationid="CCYU" creationdate="20140926T143354Z">
+        <seg>自藕繞組為星形連接，而三次繞組為三角連接，</seg>
       </tuv>
     </tu>
     <tu>
