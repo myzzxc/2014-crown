@@ -3027,6 +3027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A three-phase transformer designed for a 20 kV delta connected HV and with a 10 kV &lt;t0/&gt;open&lt;t1/&gt; winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145234Z" creationid="CCYU" creationdate="20140926T145234Z">
+        <seg>三相變壓器，設計為高電壓 20 kV 三角連接及 10 kV 開繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-winding transformer with the high-voltage winding rated 123 kV, star connected with neutral brought out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142806Z" creationid="CCYU" creationdate="20140926T142716Z">
@@ -9426,6 +9434,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142131Z" creationid="CCYU" creationdate="20140926T142131Z">
         <seg>圖 2 '時鐘數' 標記圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3 — Illustration of 'clock number' notation for transformers with open windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145114Z" creationid="CCYU" creationdate="20140926T145114Z">
+        <seg>圖 3 開繞組變壓器之 '時鐘數' 標記圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -21956,6 +21972,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004806Z">
         <seg>符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;Diii</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145245Z" creationid="CCYU" creationdate="20140926T145245Z">
+        <seg>符號：Diii</seg>
       </tuv>
     </tu>
     <tu>
