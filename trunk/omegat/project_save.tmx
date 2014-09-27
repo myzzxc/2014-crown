@@ -10342,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For larger transformers by measurement or calculation as agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162019Z" creationid="CCYU" creationdate="20140927T162019Z">
+        <seg>經量測或計算之更大型的變壓器依製造商和買方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For line terminals, unless otherwise specified by the purchaser, Um shall be taken to be the lowest value that exceeds the rated voltage of each winding given in IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135158Z" creationid="CCYU" creationdate="20140922T135158Z">
@@ -18100,6 +18108,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095432Z" creationid="CCYU" creationdate="20140809T095432Z">
         <seg>Other information: 其他資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other tests for transformers may be defined in the specific documents for specialized transformers such as dry-type, self-protected and other groups.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162224Z" creationid="CCYU" creationdate="20140927T162224Z">
+        <seg>特殊變壓器如乾式、自我保護以及其他類別之變壓器測試於特定文件中定義。</seg>
       </tuv>
     </tu>
     <tu>
