@@ -20825,6 +20825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sealed-tank system with gas cushion, in which a volume of gas above the liquid surface in a stiff tank accommodates the liquid expansion under variable pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070906Z" creationid="CCYU" creationdate="20140927T070906Z">
+        <seg>含氣體緩衝之密封槽系統，無彈性槽中的液體上方的氣體體積於不同壓力系隨意體膨脹而改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sealing / &lt;t0/&gt;Screw cap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
