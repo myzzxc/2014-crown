@@ -3155,6 +3155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer is considered as complying with this part when the quantities subject to tolerances are not outside the tolerances given in Table 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080339Z" creationid="CCYU" creationdate="20140927T080339Z">
+        <seg>當變壓器之量值不超過表 1 所列之公差範圍時，視為符合此部份規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A transformer with a grounded neutral can be influenced by DC currents flowing through the neutral.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072046Z" creationid="CCYU" creationdate="20140927T072046Z">
@@ -29606,6 +29614,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T091526Z" creationid="CCYU" creationdate="20140913T091526Z">
         <seg>其中 C(s) 代表相關程度或匹配程度，I1 和 I2 為分析區域 (IA，色度矩陣)，而 s 為位移。displacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a tolerance in one direction is omitted, there is no restriction on the value in that direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080449Z" creationid="CCYU" creationdate="20140927T080438Z">
+        <seg>當一個方向的公差被忽略時，代表該方向無限制值。</seg>
       </tuv>
     </tu>
     <tu>
