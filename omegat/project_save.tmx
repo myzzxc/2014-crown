@@ -16032,6 +16032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Allowance should be made for the variation of the coefficient of thermal expansion that may be experienced for diff&lt;t0/&gt;erent liquids of the same type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T071832Z" creationid="CCYU" creationdate="20140927T071832Z">
+        <seg>註 應設計有不同液體熱膨脹係數之間差異的容許公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE An example of this is where the transformer is required to operate at a particular minimum percentage of rated power with the forced cooling out of service (ONAN) to allow for the loss of auxiliary supply</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161708Z" creationid="CCYU" creationdate="20140922T161708Z">
@@ -25709,6 +25717,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140912T170424Z" creationid="CCYU" creationdate="20140912T165457Z">
         <seg>九份二山順向坡山崩面積約 200 公頃 (ha) 而體積為 3600 萬立方公尺，其中包含頁岩和砂岩，山崩阻塞兩條小溪而形成兩座堰塞湖，兩堰塞湖總體積為 190 萬立方公尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The size of the conservator or expansion system shall be sufficient to accommodate the change in liquid volume from the coldest ambient when the transformer is de-energized to the highest mean liquid temperature experienced when the transformer is loaded to the highest level allowed by the provisions of the loading guide in IEC 60076-7 for mineral oil or as specified for an alternative cooling liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T071652Z" creationid="CCYU" creationdate="20140927T071652Z">
+        <seg>儲油槽或膨脹系統之尺寸應足以應付液體由變壓器斷電時之最低溫至 IEC 60076-7 規範之變壓器最大負載運作之最高平均溫度所產生的礦物油或指定帶冷媒之體積變化。</seg>
       </tuv>
     </tu>
     <tu>
