@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+15 % of each component loss, provided that the tolerance for total losses is not exceeded</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083234Z" creationid="CCYU" creationdate="20140927T083234Z">
+        <seg>各元件損耗 +15 %，此公差不超過總耗公差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 19</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052029Z" creationid="CCYU" creationdate="20140921T052029Z">
