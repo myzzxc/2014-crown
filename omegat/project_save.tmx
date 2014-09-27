@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+30 % of the design value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085309Z" creationid="CCYU" creationdate="20140927T085309Z">
+        <seg>設計值 +30 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 19</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052029Z" creationid="CCYU" creationdate="20140921T052029Z">
@@ -15184,6 +15192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured no-load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085250Z" creationid="CCYU" creationdate="20140927T085250Z">
+        <seg>量測空載電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measured short-circuit impedance for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083956Z" creationid="CCYU" creationdate="20140927T083956Z">
@@ -27921,6 +27937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To be agreed, but .-±15 %</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085212Z" creationid="CCYU" creationdate="20140927T085212Z">
+        <seg>依協議，但 ≥±15 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To better understand the characteristics of such non-catastrophic and unobvious landslide, we try to characterize in detail the sliding directions, their magnitudes and region of the landslide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124500Z" creationid="CCYU" creationdate="20140911T130559Z">
@@ -34033,6 +34057,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083847Z" creationid="CCYU" creationdate="20140927T083847Z">
         <seg>主抽頭實際阻抗百分比 ±1/10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>±10 % of the design value for that tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085111Z" creationid="CCYU" creationdate="20140927T085111Z">
+        <seg>該抽頭設計值 ±10 %</seg>
       </tuv>
     </tu>
     <tu>
