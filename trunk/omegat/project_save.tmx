@@ -6829,6 +6829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consideration shall be given to the long term performance of items such as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033702Z" creationid="CCYU" creationdate="20140927T033702Z">
+        <seg>對於長期效能應考慮之事項如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Considering the above mentioned difficulties, we define for excellent HDPE pipe quality:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054735Z" creationid="MAE" creationdate="20140810T054735Z">
@@ -27858,6 +27866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer manufacturers shall consider the effective containment of the liquid of the transformer and take effective measures to prevent leakage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033618Z" creationid="CCYU" creationdate="20140927T033618Z">
+        <seg>變壓器製造商應慎重考慮有效的變壓器液體裝載方式並採取有效的防止洩漏措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformer specification for operation under such abnormal conditions shall be subject to agreement between the supplier and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134533Z" creationid="CCYU" creationdate="20140922T134533Z">
@@ -31278,6 +31294,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050453Z" creationid="CCYU" creationdate="20140920T050453Z">
         <seg>其額定值，若連接至變壓器主要抽頭 (繞組之空載電壓則等於其額定值)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>joint design;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033715Z" creationid="CCYU" creationdate="20140927T033715Z">
+        <seg>接點設計；</seg>
       </tuv>
     </tu>
     <tu>
