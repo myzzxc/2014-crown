@@ -9862,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all current transformers installed inside the transformer, the location, ratio(s), accuracy class and rated output (VA rating) of the current transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032548Z" creationid="CCYU" creationdate="20140927T032548Z">
+        <seg>所有安裝於變壓器內部之電流變壓器，其位置、比率、精確等級以及額定輸出 (VA 額定量)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For all other transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024155Z" creationid="CCYU" creationdate="20140927T024155Z">
@@ -15204,6 +15212,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102711Z">
         <seg>最小指定降伏強度 0.2% 偏移量 (&lt;t0/&gt;f&lt;t1/&gt;ya&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum temperature of cooling medium if not —5 °C for indoor transformers or —25 °C for outdoor transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032717Z" creationid="CCYU" creationdate="20140927T032704Z">
+        <seg>最低冷媒溫度，若非 -5 °C (室內變壓器) 或 -25 °C (室外變壓器)</seg>
       </tuv>
     </tu>
     <tu>
