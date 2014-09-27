@@ -12423,6 +12423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If test methods are not prescribed in this standard, or if tests other than those listed above are specified in the contract, such test methods are subject to agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162402Z" creationid="CCYU" creationdate="20140927T162402Z">
+        <seg>若測試方法未列於此標準中，或合約中指明有別於上述所列之測試，需經由雙方同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that doesn’t work, the mats and berms can definitely be used around their hydraulic machines (though they likely won’t have a lot).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120131Z" creationid="CCYU" creationdate="20140817T120101Z">
@@ -15588,6 +15596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152004Z" creationid="CCYU" creationdate="20140927T152004Z">
         <seg>電壓比量測和相位移檢查 (11.3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of winding resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162416Z" creationid="CCYU" creationdate="20140927T162416Z">
+        <seg>繞組電阻量測</seg>
       </tuv>
     </tu>
     <tu>
