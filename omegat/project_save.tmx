@@ -16040,6 +16040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE ISO 14122 series, Safety of machinery — Permanent means of access to machinery, should be consulted where ladders, platforms and similar means of access are provided with the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035312Z" creationid="CCYU" creationdate="20140927T035312Z">
+        <seg>註 ISO 14122 系列，機械裝置安全 — 進入機械裝置應藉由梯子、平台或變壓器所提供之類似方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE If this factor ranges from 100 + a to 100 &lt;t0/&gt;-&lt;t1/&gt; b, the tapping range is said to be: +a %, &lt;t2/&gt;-&lt;t3/&gt;b % or ±a %, if a = b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024241Z" creationid="CCYU" creationdate="20140920T024241Z">
