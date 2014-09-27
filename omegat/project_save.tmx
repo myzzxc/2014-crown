@@ -4667,6 +4667,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any inability of the manufacturer to perform the test or measurement at the rated frequency shall be stated by the manufacturer at the tender stage and appropriate conversion factors agreed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151431Z" creationid="CCYU" creationdate="20140927T151431Z">
+        <seg>任何製造商無法於額定頻率進行之量測與測試應由製造商於投標階段說明並取得合適的轉換係數協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
@@ -12460,6 +12468,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161222Z" creationid="CCYU" creationdate="20140922T161222Z">
         <seg>若買方要求變壓器之負載電流音量等級量測測試或變壓器總噪音 (包含負載噪音) 等級保證，必須於詢問時提出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the purchaser requires the tests performed in a particular order, this shall be included in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151539Z" creationid="CCYU" creationdate="20140927T151539Z">
+        <seg>若買方要求依特定順序進行測試，應於詢價時註明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20433,6 +20449,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Routine test for all transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151556Z" creationid="CCYU" creationdate="20140927T151556Z">
+        <seg>所有變壓器之例行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Routine tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151543Z" creationid="CCYU" creationdate="20140927T151543Z">
+        <seg>例行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAFETY DATA SHEET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160604Z" creationid="CCYU" creationdate="20140808T143324Z">
@@ -25053,6 +25085,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141928Z" creationid="CCYU" creationdate="20140924T141928Z">
         <seg>買家需於詢價時提供除了第 5 條定義之額定電壓及電流之外的以下資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following list of tests is not in any specific order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151500Z" creationid="CCYU" creationdate="20140927T151500Z">
+        <seg>下列測試清單無任何特定順序，</seg>
       </tuv>
     </tu>
     <tu>
