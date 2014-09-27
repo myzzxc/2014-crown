@@ -3859,6 +3859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All external components and fittings that are likely to affect the performance of the transformer during the test shall be in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T124822Z" creationid="CCYU" creationdate="20140927T124822Z">
+        <seg>變壓器於測試期間所有可能影響性能之外部元件和配件皆應安裝於其位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the oil and lubricant used in a machine shop has to be stored somewhere.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100651Z" creationid="CCYU" creationdate="20140817T100651Z">
