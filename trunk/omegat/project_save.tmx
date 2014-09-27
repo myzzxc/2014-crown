@@ -11583,6 +11583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC:&lt;t0/&gt; &lt;t1/&gt;201&lt;t2/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015817Z" creationid="CCYU" creationdate="20140927T015817Z">
+        <seg>© IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC&lt;t0/&gt;: 2011</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140222Z" creationid="CCYU" creationdate="20140923T140222Z">
@@ -14584,6 +14592,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacturer's name, country and town where the transformer was assembled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015931Z" creationid="CCYU" creationdate="20140927T015931Z">
+        <seg>製造商名稱、生產國家及城鎮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manufacturer's serial number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015945Z" creationid="CCYU" creationdate="20140927T015945Z">
+        <seg>製造商之序號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufacturing plant</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100022Z">
@@ -16684,6 +16708,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>此時可由電源插座拔下保溫電毯插頭。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of phases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020002Z" creationid="CCYU" creationdate="20140927T020002Z">
+        <seg>相數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of this standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015844Z" creationid="CCYU" creationdate="20140927T015844Z">
+        <seg>此標準之編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29202,6 +29242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Year of manufacture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015951Z" creationid="CCYU" creationdate="20140927T015951Z">
+        <seg>製造年份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yet, resolving these sophisticated physical processes and the effects from some geometrical features are crucial to the prediction of the overall engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T050039Z" creationid="Judy" creationdate="20140819T050039Z">
@@ -29734,6 +29782,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144124Z" creationid="CCYU" creationdate="20140918T144124Z">
         <seg>a) 三相變壓器或單相變壓器之三相組：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt;) Kind of transformer (for example transformer, auto-transfor&lt;t1/&gt;mer, series transformer, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015751Z" creationid="CCYU" creationdate="20140927T015751Z">
+        <seg>a) 變壓器種類 (例如變壓器、自藕變壓器、串聯變壓器…等)。</seg>
       </tuv>
     </tu>
     <tu>
