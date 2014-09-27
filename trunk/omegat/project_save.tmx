@@ -15928,6 +15928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085802Z" creationid="CCYU" creationdate="20140927T085802Z">
+        <seg>註 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 &lt;t0/&gt;For&lt;t1/&gt; some tapping &lt;t2/&gt;arrangements, the tapping winding are&lt;t3/&gt; not carrying current in the maximum current tapping position.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135559Z" creationid="CCYU" creationdate="20140925T135559Z">
@@ -25133,6 +25141,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140459Z" creationid="Judy" creationdate="20140822T140459Z">
         <seg>局部熱通量 q 可由下列方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The loss tolerances of multi-winding transformers apply to every pair of windings unless the guarantee&lt;t0/&gt; &lt;t1/&gt;states that they apply to a given load condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085758Z" creationid="CCYU" creationdate="20140927T085758Z">
+        <seg>多繞組變壓器之損耗公差適用於每一對繞組，除非保證說明其適用於給定的負載條件下。</seg>
       </tuv>
     </tu>
     <tu>
