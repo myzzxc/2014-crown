@@ -7661,6 +7661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dimensioning of neutral connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z" creationid="CCYU" creationdate="20140927T035339Z">
+        <seg>中性點連接標注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151714Z">
@@ -24981,6 +24989,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T142504Z" creationid="Judy" creationdate="20140820T142504Z">
         <seg>網格移動邊界之局部移動框架速度分量為 u ~; v ~; w ~。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neutral conductor and terminal of transformers intended to carry a load between phase and neutral (for example, distribution transformers) shall be rated for the appropriate load curren&lt;t0/&gt;t and earth-fault current (see I&lt;t1/&gt;EC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035941Z" creationid="CCYU" creationdate="20140927T035941Z">
+        <seg>變壓器各相與中性點之間負載 (例如，配電變壓器) 之中性導體和端子應能輸送適當的額定負載電流和故障接地電流 (請見 IEC 60076-8)。</seg>
       </tuv>
     </tu>
     <tu>
