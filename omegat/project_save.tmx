@@ -3867,6 +3867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All measuring systems used for the tests shall have &lt;t0/&gt;certified&lt;t1/&gt; traceable accuracy and be subjected to periodic calibration, according to the rules given in ISO 9001.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130514Z" creationid="CCYU" creationdate="20140927T130514Z">
+        <seg>所有用於量測之系統應依 ISO 9001 給定之規範具有可追蹤之精度認證並定期校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the oil and lubricant used in a machine shop has to be stored somewhere.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100651Z" creationid="CCYU" creationdate="20140817T100651Z">
@@ -26373,6 +26381,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133841Z" creationid="CCYU" creationdate="20140925T133841Z">
         <seg>除另有規定外，溫度上升試驗僅於一組抽頭上測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test basis for -all characteristics other than insulation is the rated condition, unless the test clause states otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z" creationid="CCYU" creationdate="20140927T130307Z">
+        <seg>除絕緣測試外的所有特性之測試皆於額定條件下進行。</seg>
       </tuv>
     </tu>
     <tu>
