@@ -30858,6 +30858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a) for dry-type transformers, the reference temperature shall be according to the general requirements for tests in IEC 60076-11;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131226Z" creationid="CCYU" creationdate="20140927T131226Z">
+        <seg>a) 乾式變壓器，參考溫度應符合 IEC 60076-11 用於測試之一般規範；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) for three-phase transformers and three-phase banks of single-phase transformers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144124Z" creationid="CCYU" creationdate="20140918T144124Z">
@@ -31094,6 +31102,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105616Z" creationid="MAE" creationdate="20140813T105139Z">
         <seg>SaveSorb&lt;t0/&gt; 為一家吸收劑和洩漏控制公司，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b) for liquid-immersed transformers with rated average winding temperature rise less than or equal to 65 K for OF or ON, or 70 K for OD;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131408Z" creationid="CCYU" creationdate="20140927T131408Z">
+        <seg>b) 油浸式變壓器之額定繞組溫度上升小於或等於 65 K (OF 或 ON)，或 70 K (OD)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -32830,6 +32846,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025853Z" creationid="CCYU" creationdate="20140920T025853Z">
         <seg>降低功率抽頭 (reduced-power tapping)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reference temperature is 75 °C;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131423Z" creationid="CCYU" creationdate="20140927T131423Z">
+        <seg>參考溫度為 75 °C；</seg>
       </tuv>
     </tu>
     <tu>
