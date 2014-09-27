@@ -10345,8 +10345,8 @@
       <tuv lang="EN-US">
         <seg>For transformers equipped with winding temperature indicators (WTI), the settings for each WTI.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032008Z" creationid="CCYU" creationdate="20140927T032008Z">
-        <seg>對於裝有繞組溫度指示器 (WTI) 之變壓器，每組 WTI 之設置。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032250Z" creationid="CCYU" creationdate="20140927T032008Z">
+        <seg>對於裝有繞組溫度指示器 (WTI) 之變壓器，每組 WTI 之設置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11995,6 +11995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013335Z" creationid="CCYU" creationdate="20140808T150640Z">
         <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink. 若已將物料吞下，在人員意識清醒下給予少量的水飲用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If more than one cooling method is specified, different settings may be required for each cooling method.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032338Z" creationid="CCYU" creationdate="20140927T032338Z">
+        <seg>若指定了多種冷卻方法，每種冷卻方法可能需要不同的設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27013,6 +27021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232916Z" creationid="Judy" creationdate="20140822T232916Z">
         <seg>此數值遠小於膨脹腔體注入相之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is normally the difference between the winding hot-spot temperature at rated power and the top liquid temperature calculated from temperature rise test results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032247Z" creationid="CCYU" creationdate="20140927T032247Z">
+        <seg>通常此溫度與繞組與溫度上升測試中所計算之額定功率下熱點溫度與填充液體溫度不同。</seg>
       </tuv>
     </tu>
     <tu>
