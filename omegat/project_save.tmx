@@ -28282,6 +28282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Untanking&lt;t0/&gt; mass (for transformers exceeding 5 t total mass).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T031117Z" creationid="CCYU" creationdate="20140927T031117Z">
+        <seg>器身重量 (超過 5 t 總重之變壓器)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updated from November 9, 2012 Revision Number:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185549Z" creationid="Judy" creationdate="20140818T185549Z">
