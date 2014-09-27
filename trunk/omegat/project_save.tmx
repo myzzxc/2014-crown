@@ -10527,6 +10527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freely breathing system or conservator system where there is free communication between the ambient air and an air-filled expansion space above the surface of the liquid, in the tank or in a separate expansion vessel (conservator).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065612Z" creationid="CCYU" creationdate="20140927T065612Z">
+        <seg>換氣系統或儲油槽系統，大氣或液體表面上之氣體膨脹空間與油槽或分離膨脹腔 (儲油槽) 之間能自由流通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the expansion and compression chambers’ point of view, both go through one phase of receiving gas injection from the other chamber and the other phase of gas ejection to the other chamber through the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100030Z" creationid="Judy" creationdate="20140821T100023Z">
@@ -24581,6 +24589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145356Z" creationid="CCYU" creationdate="20140923T145356Z">
         <seg>以下條文除各抽頭之電壓和電流另行指定外皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following types are distinguished:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065050Z" creationid="CCYU" creationdate="20140927T065050Z">
+        <seg>以下為其類型：</seg>
       </tuv>
     </tu>
     <tu>
