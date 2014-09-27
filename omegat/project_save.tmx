@@ -12240,6 +12240,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer is designed for installation at high altitude, the (reduced)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025658Z" creationid="CCYU" creationdate="20140927T025658Z">
+        <seg>若變壓器設計安裝於高海拔地區，其額定功率下於正常外部冷媒溫度條件之 (降低) 溫度上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the transformer is designed for normal external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025854Z" creationid="CCYU" creationdate="20140927T025854Z">
+        <seg>若變壓器設計用於正常外部冷媒溫度條件下，於正常外部冷媒溫度條件下保證溫度上升量之額定功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is intended to be used as a mobile transformer, this shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162819Z" creationid="CCYU" creationdate="20140922T162819Z">
@@ -30314,6 +30330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>conditions, the rated power for guaranteed temperature rise under normal external cooling medium temperature conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025857Z" creationid="CCYU" creationdate="20140927T025857Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>configuration and HV is 110 kV:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151942Z" creationid="CCYU" creationdate="20140926T151942Z">
@@ -32214,6 +32238,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093901Z" creationid="CCYU" creationdate="20140921T093901Z">
         <seg>外部冷煤於高海拔之溫度上升和冷卻：IEC 60076-2 油浸式變壓器，和 IEC 60076-11 乾式變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>temperature rise for rated power under normal external cooling medium temperature conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025704Z" creationid="CCYU" creationdate="20140927T025704Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
