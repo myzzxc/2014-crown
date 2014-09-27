@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8 Rating plates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015326Z" creationid="CCYU" creationdate="20140927T015326Z">
+        <seg>8 額定銘牌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 to 25 mm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090447Z">
@@ -12128,6 +12136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the third winding is not intended to be loaded, the symbol would indicate this by a&lt;t0/&gt; &lt;t1/&gt;plus sign.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015147Z" creationid="CCYU" creationdate="20140927T015147Z">
+        <seg>若第三繞組不加負載，將以加號表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is intended to be used as a mobile transformer, this shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162819Z" creationid="CCYU" creationdate="20140922T162819Z">
@@ -16250,8 +16266,16 @@
       <tuv lang="EN-US">
         <seg>No phase displacement notation would then apply for the stabilizing winding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143937Z" creationid="CCYU" creationdate="20140926T143937Z">
-        <seg>穩定繞組不適用相位移標記。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015220Z" creationid="CCYU" creationdate="20140926T143937Z">
+        <seg>穩定繞組不使用相位移標記。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No phase displacement notation would then apply for the third winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015212Z" creationid="CCYU" creationdate="20140927T015212Z">
+        <seg>第三繞組不使用相位移標記。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22121,6 +22145,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: 110+1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015306Z" creationid="CCYU" creationdate="20140927T015306Z">
+        <seg>符號：Ii0+i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: &lt;t0/&gt;Diii</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145245Z" creationid="CCYU" creationdate="20140926T145245Z">
@@ -22245,6 +22277,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143002Z" creationid="CCYU" creationdate="20140926T143002Z">
         <seg>符號：YNyn0d5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: la0i0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015054Z" creationid="CCYU" creationdate="20140927T015054Z">
+        <seg>符號：Ia0i0</seg>
       </tuv>
     </tu>
     <tu>
