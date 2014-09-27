@@ -3091,6 +3091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer with the high-voltage winding rated 20 kV, the low-voltage winding rated 400 V, the LV winding being in phase with the high voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T014727Z" creationid="CCYU" creationdate="20140927T014658Z">
+        <seg>高壓繞組額定電壓 20 kV、三角連接、低壓繞組額定 400 V，而低電壓與高電壓同相位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A two drum system is ideal in this situation again as these companies have a large amount of oil and oily mist on the floors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115128Z" creationid="CCYU" creationdate="20140817T115128Z">
