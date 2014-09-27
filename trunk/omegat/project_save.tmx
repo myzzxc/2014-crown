@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11.2.2 &lt;t0/&gt;D&lt;t1/&gt;ry-type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162737Z" creationid="CCYU" creationdate="20140927T162737Z">
+        <seg>11.2.2 乾式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>110 / 11 (5&lt;t0/&gt;,5&lt;t1/&gt;) kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152035Z" creationid="CCYU" creationdate="20140926T152035Z">
@@ -13044,6 +13052,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084430Z" creationid="CCYU" creationdate="20140913T084430Z">
         <seg>此外，某些研究使用 PIV 技術由多時相影像中產生位移圖 (Chambon 等人，2003 年)，藉由此功能可使用 PIV 進行單色空拍照微小網格的運動分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In all resistance measurements, care shall be taken that the effects of self-induction are minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162716Z" creationid="CCYU" creationdate="20140927T162716Z">
+        <seg>所有電阻量測中，應注意使自感效應降到最低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26357,6 +26373,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132118Z" creationid="CCYU" creationdate="20140923T132118Z">
         <seg>應盡可能使用此條款之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resistance of each winding, the terminals between which it is measured and the temperature of the windings shall be recorded.&lt;t0/&gt; Direct current shall be used for the measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162616Z" creationid="CCYU" creationdate="20140927T162616Z">
+        <seg>應紀錄各繞組之電阻、量測之端子以及繞組溫度，量測應使用直流電。</seg>
       </tuv>
     </tu>
     <tu>
