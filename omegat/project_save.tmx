@@ -7829,6 +7829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dielectric type tests (IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153934Z" creationid="CCYU" creationdate="20140927T153934Z">
+        <seg>絕緣之型式測試 (IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z" creationid="CCYU" creationdate="20140927T035339Z">
@@ -15442,8 +15450,8 @@
       <tuv lang="EN-US">
         <seg>Measurement of dissolved gasses in dielectric liquid from each separate oil compartment except diverter switch compartment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153544Z" creationid="CCYU" creationdate="20140927T153544Z">
-        <seg>分流器開關除各分離油槽Measurement of dissolved gasses in dielectric liquid from each separate oil compartment except diverter switch compartment.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153721Z" creationid="CCYU" creationdate="20140927T153544Z">
+        <seg>除分流器開關箱外的各分離油槽之絕緣液體中的氣體溶解量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15452,6 +15460,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152059Z" creationid="CCYU" creationdate="20140927T152059Z">
         <seg>空載損耗和電流量測 (11.5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of no-load loss and current at 90 % and 110 % of rated voltage (11.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153828Z" creationid="CCYU" creationdate="20140927T153828Z">
+        <seg>於 90 % 和 110 % 額定電壓下之空載損耗和電流量測 (11.5)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28906,6 +28922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153835Z" creationid="CCYU" creationdate="20140927T153835Z">
+        <seg>型式測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UA ,&lt;t0/&gt; /A</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144133Z" creationid="CCYU" creationdate="20140923T144133Z">
@@ -31118,6 +31142,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131853Z" creationid="CCYU" creationdate="20140919T131853Z">
         <seg>多繞組變壓器中，額定電壓介於最高與最低繞組額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a) Temperatur&lt;t0/&gt;e-rise type test (IEC 60076-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153916Z" creationid="CCYU" creationdate="20140927T153916Z">
+        <seg>a) 溫度上升之型式測試 (IEC 60076-2)。</seg>
       </tuv>
     </tu>
     <tu>
