@@ -6733,6 +6733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection and phase displacement symbol.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020439Z" creationid="CCYU" creationdate="20140927T020439Z">
+        <seg>連接相位移符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection and phase displacement symbols for single phase transformers not in three phase bank</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150008Z" creationid="CCYU" creationdate="20140926T150008Z">
@@ -11387,6 +11395,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125846Z" creationid="CCYU" creationdate="20140817T125846Z">
         <seg>不包括油罐車隊或油品 / 燃油運輸卡車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I) Short-circuit impedance, measured value in percentage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020548Z" creationid="CCYU" creationdate="20140927T020548Z">
+        <seg>l) 短路阻抗量測值百分比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18897,10 +18913,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated currents (in A or kA).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020431Z" creationid="CCYU" creationdate="20140927T020431Z">
+        <seg>額定電流 (單位 A 或 kA)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated frequency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141147Z" creationid="CCYU" creationdate="20140921T141147Z">
         <seg>額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated frequency (in Hz).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020343Z" creationid="CCYU" creationdate="20140927T020343Z">
+        <seg>額定頻率 (單位 Hz)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18941,6 +18973,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135911Z" creationid="CCYU" creationdate="20140921T135911Z">
         <seg>額定電壓和額定的頻率 5.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated voltages (in V or kV) and tapping range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020408Z" creationid="CCYU" creationdate="20140927T020408Z">
+        <seg>額定的電壓 (單位 V 或 kV) 和抽頭範圍。</seg>
       </tuv>
     </tu>
     <tu>
