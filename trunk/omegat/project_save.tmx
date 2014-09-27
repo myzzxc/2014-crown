@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1'1.1.4 Special tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154224Z" creationid="CCYU" creationdate="20140927T154224Z">
+        <seg>11.1.4 特殊測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)&lt;t0/&gt; Calculation of the displacement 6N0 = (5No-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055447Z" creationid="MAE" creationdate="20140727T055447Z">
@@ -7793,6 +7801,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152915Z" creationid="CCYU" creationdate="20140927T152838Z">
         <seg>繞組-接地和繞組間之電容測定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determination of sound level (IEC 60076-10) for each method of cooling for which a guaranteed sound level is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154113Z" creationid="CCYU" creationdate="20140927T154113Z">
+        <seg>對於各冷卻方法指定保證音量之音量測定 (IEC 60076-10)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15468,6 +15484,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153828Z" creationid="CCYU" creationdate="20140927T153828Z">
         <seg>於 90 % 和 110 % 額定電壓下之空載損耗和電流量測 (11.5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of no-load loss and current at.90 % and 110 % of rated voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154209Z" creationid="CCYU" creationdate="20140927T154209Z">
+        <seg>於 90 % 和 110 % 額定電壓下之空載損耗和電流量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of the power taken by the fan and liquid pump motors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154148Z" creationid="CCYU" creationdate="20140927T154148Z">
+        <seg>風扇液體泵馬達消耗功率量測。</seg>
       </tuv>
     </tu>
     <tu>
