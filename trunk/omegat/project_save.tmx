@@ -6316,6 +6316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check of external coating (ISO 2178 and ISO 2409 or as specified).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161520Z" creationid="CCYU" creationdate="20140927T161520Z">
+        <seg>外部塗層檢查 (ISO 2178 和 ISO 2409 或依指定內容)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check of the ratio and polarity of built-in current transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152505Z" creationid="CCYU" creationdate="20140927T152505Z">
@@ -11783,6 +11791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I) Measurement of frequency response (Frequency Response Analysis or FRA).&lt;t0/&gt; The test procedure shall be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161415Z" creationid="CCYU" creationdate="20140927T161415Z">
+        <seg>l) 頻率響應量測 (頻率響應分析或 FRA)，測試程序應由製造商和買方之間同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I) Short-circuit impedance, measured value in percentage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020548Z" creationid="CCYU" creationdate="20140927T020548Z">
@@ -15506,8 +15522,16 @@
       <tuv lang="EN-US">
         <seg>Measurement of dissolved gasses in dielectric liquid from each separate oil compartment except diverter switch compartment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153721Z" creationid="CCYU" creationdate="20140927T153544Z">
-        <seg>除分流器開關箱外的各分離油槽之絕緣液體中的氣體溶解量測。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161604Z" creationid="CCYU" creationdate="20140927T153544Z">
+        <seg>除分流器開關箱外的各分離油槽之絕緣液體中的溶解氣體量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of dissolved gasses in dielectric liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161554Z" creationid="CCYU" creationdate="20140927T161554Z">
+        <seg>絕緣液體中的溶解氣體量測。</seg>
       </tuv>
     </tu>
     <tu>
