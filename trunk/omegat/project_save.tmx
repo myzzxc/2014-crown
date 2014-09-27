@@ -22977,6 +22977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tapping designations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T023640Z" creationid="CCYU" creationdate="20140927T023640Z">
+        <seg>抽頭代號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tapping factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142304Z" creationid="CCYU" creationdate="20140923T142304Z">
@@ -33121,6 +33129,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142530Z" creationid="CCYU" creationdate="20140926T142208Z">
         <seg>- 高壓繞組額定電壓 20 kV、三角連接、低壓繞組額定 400 V 星形連接至中性點之變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>— short notation of insulation levels (withstand voltages) as described in IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T023539Z" creationid="CCYU" creationdate="20140927T023539Z">
+        <seg>- 依 IEC 60076-3 所述標示絕緣等級 (耐受電壓) 縮寫。</seg>
       </tuv>
     </tu>
     <tu>
