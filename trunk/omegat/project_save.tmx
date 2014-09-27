@@ -23889,6 +23889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tests shall be made at the manufacturer's works, unless otherwise agreed between the manufacturer and the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T124635Z" creationid="CCYU" creationdate="20140927T124635Z">
+        <seg>製造商之產品，除製造商和買方之間另有協定外，應進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Th&lt;t0/&gt;e&lt;t1/&gt; phase I phasor of the low-voltage winding is oriented according to the induced voltage relatio&lt;t2/&gt;n&lt;t3/&gt; which results for the connection shown.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153612Z" creationid="CCYU" creationdate="20140925T153612Z">
