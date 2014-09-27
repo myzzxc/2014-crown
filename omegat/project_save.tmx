@@ -12079,6 +12079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a purchaser needs to make a comparison between the losses of transformers in category b) with transformers in categories a) and c) (with different insulation systems and with different average winding temperature rises) it is necessary for the reference temperature to be determined according to b&lt;t0/&gt;)2&lt;t1/&gt; above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132241Z" creationid="CCYU" creationdate="20140927T132241Z">
+        <seg>若買方需比較類別 b) 與類別 a) 和 c) 之間的變壓器損耗 (不同絕緣系統及不同平均繞組溫度上升) it is necessary for the reference temperature to be determined according to b&lt;t0/&gt;)2&lt;t1/&gt; above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a spill occurs in a waterway (stream, lake or river), using our product will contain the oil within the water, again eliminating that telltale sheen and protecting the water system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134049Z" creationid="CCYU" creationdate="20140817T134049Z">
@@ -31172,8 +31180,8 @@
       <tuv lang="EN-US">
         <seg>c) for liquid-immersed transformers with other rated average winding temperature rise, the reference temperature is equal to rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131954Z" creationid="CCYU" creationdate="20140927T131742Z">
-        <seg>c) 油浸式變壓器具有其他繞組額定平均溫度上升時，參考溫度等於繞組額定平均溫度上升 + 20 °C，或繞組額定平均溫度上升+ 外部冷媒年均溫，取較高者。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132301Z" creationid="CCYU" creationdate="20140927T131742Z">
+        <seg>c) 油浸式變壓器具有其他額定繞組平均溫度上升時，參考溫度等於額定繞組平均溫度上升 + 20 °C，或繞組額定平均溫度上升+ 外部冷媒年均溫，取較高者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32516,8 +32524,8 @@
       <tuv lang="EN-US">
         <seg>on request by the customer, reference temperature is rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132002Z" creationid="CCYU" creationdate="20140927T131705Z">
-        <seg>依客戶要求，參考溫度為繞組額定平均溫度上升 + 20 °C，或繞組額定平均溫度上升 + 外部冷媒年均溫，取較高者；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132309Z" creationid="CCYU" creationdate="20140927T131705Z">
+        <seg>依客戶要求，參考溫度為繞組額定平均溫度上升 + 20 °C，或額定繞組平均溫度上升 + 外部冷媒年均溫，取較高者；</seg>
       </tuv>
     </tu>
     <tu>
