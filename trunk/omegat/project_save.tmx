@@ -12007,6 +12007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer may be subject to DC currents, then the levels of these currents shall &lt;t0/&gt;be .&lt;t1/&gt; &lt;t2/&gt;stated&lt;t3/&gt; by the purchaser in the enquiry together with any required limits on the consequences of these current levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T074703Z" creationid="CCYU" creationdate="20140927T074703Z">
+        <seg>若變壓器可能產生直流電流，則買家應於詢價時說明電流等級與其限制規範，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an accident occurs in the rain, our absorbent will still work, eliminating the oily sheen that officers will be looking to spot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z" creationid="CCYU" creationdate="20140817T133825Z">
@@ -21117,6 +21125,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084927Z" creationid="CCYU" creationdate="20140809T084927Z">
         <seg>See advice in chapter 8 請參閱第 8 章之建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also 4.11 of IEC 60076-8:1997.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T074732Z" creationid="CCYU" creationdate="20140927T074732Z">
+        <seg>請見 IEC 60076-8:1997 之 4.11。</seg>
       </tuv>
     </tu>
     <tu>
