@@ -15432,6 +15432,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement of dissipation factor (tan 6) of the insulation system capacitances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153351Z" creationid="CCYU" creationdate="20140927T153351Z">
+        <seg>絕緣系統電容之功耗因數 (tan δ) 量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of dissolved gasses in dielectric liquid from each separate oil compartment except diverter switch compartment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153544Z" creationid="CCYU" creationdate="20140927T153544Z">
+        <seg>分流器開關除各分離油槽Measurement of dissolved gasses in dielectric liquid from each separate oil compartment except diverter switch compartment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of no-load loss and current (11.5).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152059Z" creationid="CCYU" creationdate="20140927T152059Z">
