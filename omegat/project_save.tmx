@@ -14728,6 +14728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liquid-immersed transformers shall be tested with the same type and specification of liquid that they will contain in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T133500Z" creationid="CCYU" creationdate="20140927T133500Z">
+        <seg>油浸式變壓器需以運作使用之相同類型與規格之液體進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z" creationid="CCYU" creationdate="20140807T131746Z">
@@ -16204,6 +16212,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111726Z" creationid="CCYU" creationdate="20140921T111726Z">
         <seg>註 3 功率低於 20 MVA 和 Um ≤ 72,5  kV 之變壓器，若通過型式測試要求則可以接受重大設計變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 The intention is that the transformer is tested with a liquid such that the test results are fully representative of the performance of the transformer in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T134124Z" creationid="CCYU" creationdate="20140927T134116Z">
+        <seg>註 3 目的為變壓器使用之測試液體能夠完全代表變壓器運行之效能。</seg>
       </tuv>
     </tu>
     <tu>
