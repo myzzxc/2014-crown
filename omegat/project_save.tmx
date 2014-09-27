@@ -24963,8 +24963,8 @@
       <tuv lang="EN-US">
         <seg>The magnetizing current becomes strongly asymmetrical and will have a high harmonic content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072848Z" creationid="CCYU" creationdate="20140927T072848Z">
-        <seg>勵磁電流將變得極度不對並具有較高的諧波含量，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073102Z" creationid="CCYU" creationdate="20140927T072848Z">
+        <seg>磁化電流將變得極度不對並具有較高的諧波含量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25293,6 +25293,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020521Z">
         <seg>第 3 部分所描述的性能，僅在鋼筋連接符合附件 B 規格條件時適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The phenomenon depends on the ability of the.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073205Z" creationid="CCYU" creationdate="20140927T073205Z">
+        <seg>此現象取於</seg>
       </tuv>
     </tu>
     <tu>
@@ -30514,6 +30522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>an increase of sound level;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072924Z" creationid="CCYU" creationdate="20140927T072924Z">
+        <seg>音量增加；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>anchor spacing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015530Z">
@@ -31482,6 +31498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>increase in no-load losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073116Z" creationid="CCYU" creationdate="20140927T073116Z">
+        <seg>空載損耗增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>indicates 'maximum-voltage tapping', 'maximum current tapping' and range of reduced power &lt;t0/&gt;tappings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144718Z" creationid="CCYU" creationdate="20140923T144718Z">
@@ -32306,6 +32330,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>relay malfunction and false tripping;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072939Z" creationid="CCYU" creationdate="20140927T072939Z">
+        <seg>繼電器故障和誤動作；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>replaced by a revised edition, or</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141659Z" creationid="CCYU" creationdate="20140917T141629Z">
@@ -32406,6 +32438,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043058Z" creationid="CCYU" creationdate="20140920T043058Z">
         <seg>雙繞組之短路阻抗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>significant increase in magnetizing current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073058Z" creationid="CCYU" creationdate="20140927T073058Z">
+        <seg>磁化電流大幅度增加；</seg>
       </tuv>
     </tu>
     <tu>
@@ -32526,6 +32566,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163519Z" creationid="CCYU" creationdate="20140921T163519Z">
         <seg>蒸汽；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stray flux overheating;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073032Z" creationid="CCYU" creationdate="20140927T073032Z">
+        <seg>雜散磁通過熱；</seg>
       </tuv>
     </tu>
     <tu>
