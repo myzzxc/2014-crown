@@ -29730,6 +29730,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the impedance value is &lt;10 % ±10 % of the specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084635Z" creationid="CCYU" creationdate="20140927T084635Z">
+        <seg>當阻抗值 &lt; 指定值 10 % ± 10 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the impedance value is ≥ 10 % ±7,5 % of the specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084612Z" creationid="CCYU" creationdate="20140927T084612Z">
+        <seg>當阻抗值 ≥ 指定值 10 % ± 7,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the impedance value is ≥ ±10 % of the specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084649Z" creationid="CCYU" creationdate="20140927T084649Z">
+        <seg>當阻抗值 ≥ 指定值 10 % ± 10 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the next warm-up phase begins, operation indicator lamp lights up red again.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z">
@@ -30626,6 +30650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; &lt;t1/&gt;specified first pair of separate windings in a multi-winding transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084425Z" creationid="CCYU" creationdate="20140927T084425Z">
+        <seg>多繞組變壓器指定分離繞組第一對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a&lt;t0/&gt;) Kind of transformer (for example transformer, auto-transfor&lt;t1/&gt;mer, series transformer, etc.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015751Z" creationid="CCYU" creationdate="20140927T015751Z">
@@ -30790,6 +30822,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100415Z" creationid="CCYU" creationdate="20140921T100415Z">
         <seg>不得低於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>any other tapping of the pair</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084449Z" creationid="CCYU" creationdate="20140927T084449Z">
+        <seg>其他抽頭</seg>
       </tuv>
     </tu>
     <tu>
