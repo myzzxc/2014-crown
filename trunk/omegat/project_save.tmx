@@ -14256,6 +14256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080942Z" creationid="CCYU" creationdate="20140927T080942Z">
+        <seg>項目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item number: 60227</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114522Z">
@@ -27966,6 +27974,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013055Z" creationid="JUDY" creationdate="20140827T013055Z">
         <seg>日本，東京</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080946Z" creationid="CCYU" creationdate="20140927T080946Z">
+        <seg>公差</seg>
       </tuv>
     </tu>
     <tu>
