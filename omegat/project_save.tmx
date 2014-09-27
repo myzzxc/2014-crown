@@ -31170,6 +31170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c) for liquid-immersed transformers with other rated average winding temperature rise, the reference temperature is equal to rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131742Z" creationid="CCYU" creationdate="20140927T131742Z">
+        <seg>c) 油浸式變壓器具有其他for liquid-immersed transformers with other rated average winding temperature rise, the reference temperature is equal to rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c.&lt;t0/&gt; &lt;t1/&gt;Damage&lt;t2/&gt; &lt;t3/&gt;which has arisen during&lt;t4/&gt; &lt;t5/&gt;transport from the&lt;t6/&gt; &lt;t7/&gt;manufacturer to the&lt;t8/&gt; &lt;t9/&gt;consumer&lt;t10/&gt; &lt;t11/&gt;or during transport to the service &lt;t12/&gt;center&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075240Z">
@@ -32502,6 +32510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z" creationid="CCYU" creationdate="20140808T134136Z">
         <seg>of &lt;t0/&gt;liquorice 甘草氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on request by the customer, reference temperature is rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131705Z" creationid="CCYU" creationdate="20140927T131705Z">
+        <seg>依客戶要求，餐考溫度為繞組平均額定溫度上升 + 20 °C，或平均額定溫度上升 + 外部冷媒年均溫，取較高者；</seg>
       </tuv>
     </tu>
     <tu>
