@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9 Safety, environmental and other requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033302Z" creationid="CCYU" creationdate="20140927T033302Z">
+        <seg>9 安全、環保和其他規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9.&lt;t0/&gt; &lt;t1/&gt;PHYSICAL AND CHEMICAL PROPERTIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020149Z" creationid="CCYU" creationdate="20140809T020149Z">
@@ -9864,8 +9872,8 @@
       <tuv lang="EN-US">
         <seg>For all current transformers installed inside the transformer, the location, ratio(s), accuracy class and rated output (VA rating) of the current transformer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032548Z" creationid="CCYU" creationdate="20140927T032548Z">
-        <seg>所有安裝於變壓器內部之電流變壓器，其位置、比率、精確等級以及額定輸出 (VA 額定量)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033133Z" creationid="CCYU" creationdate="20140927T032548Z">
+        <seg>所有安裝於變壓器內部之電流比流器，其位置、比率、精確等級以及額定輸出 (VA 額定量)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14432,6 +14440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liquid leaks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033322Z" creationid="CCYU" creationdate="20140927T033322Z">
+        <seg>液體洩漏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z" creationid="CCYU" creationdate="20140807T131746Z">
@@ -18232,6 +18248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plates with identification and characteristics of auxiliary equipment according to standards for such components (bushings, tap-changers, current transformers, special cooling equipment) shall be provided either on the components themselves or on the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033241Z" creationid="CCYU" creationdate="20140927T033118Z">
+        <seg>輔助設備根據其元件 (電刷、抽頭開關、電流比流器、特殊冷卻設備) 標準之標示及特性銘牌應設於元件上或變壓器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that the device is complete and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094548Z">
@@ -20613,6 +20637,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173446Z" creationid="Judy" creationdate="20140818T173446Z">
         <seg>安全眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety and environmental requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033308Z" creationid="CCYU" creationdate="20140927T033308Z">
+        <seg>安全和環保規範</seg>
       </tuv>
     </tu>
     <tu>
