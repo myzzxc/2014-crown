@@ -3483,6 +3483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional information to be given when applicable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021951Z" creationid="CCYU" creationdate="20140927T021951Z">
+        <seg>其他資訊 (如適用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z" creationid="CCYU" creationdate="20140808T133646Z">
@@ -12196,6 +12204,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015147Z" creationid="CCYU" creationdate="20140927T015147Z">
         <seg>若第三繞組不加負載，將以加號表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the transformer has more than one set of ratings, depending upon different connections windings which have been specifically allowed for in the design, the additional ratings shall be given on the rating plate, or separate rating plates shall be fitted for each set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021925Z" creationid="CCYU" creationdate="20140927T021925Z">
+        <seg>若變壓器有超過一組以上額定值，根據設計特別允許之不同連接繞組，額外的額定值應標示於銘牌上，或各組分別使用不同額定銘牌。</seg>
       </tuv>
     </tu>
     <tu>
