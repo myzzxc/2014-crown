@@ -15176,6 +15176,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured voltage ratio at no load on principal tapping for a specified first pair of windings or the extreme tappings, if specified</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083459Z" creationid="CCYU" creationdate="20140927T083459Z">
+        <seg>主抽頭無負載時對指定第一對繞組或極端繞組之量測電壓比，若有指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measured voltage ratio for further pairs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083716Z" creationid="CCYU" creationdate="20140927T083716Z">
+        <seg>其他對之量測電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measured voltage ratio on other tappings, same pair</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083604Z" creationid="CCYU" creationdate="20140927T083604Z">
+        <seg>對其他抽頭之量測電壓比，同一對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical resistance and stability (BWR 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
