@@ -29362,6 +29362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where installation may affect any of the above, suitable installation instructions shall be provided with the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034919Z" creationid="CCYU" creationdate="20140927T034919Z">
+        <seg>當安裝可能會影響上述任何一點時，應與變壓器一併提供適當的安裝說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where non-linear resistors or fuses are employed within the transformer, the location and connection of such equipment shall be shown on the connection diagram plate with terminal markings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030619Z" creationid="CCYU" creationdate="20140927T030619Z">
@@ -30198,6 +30206,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055351Z" creationid="CCYU" creationdate="20140817T055351Z">
         <seg>吸收劑為 100% 天然，採自可再生的沼澤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>access for maintenance, where maintenance is&lt;t0/&gt; &lt;t1/&gt;required;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034716Z" creationid="CCYU" creationdate="20140927T034716Z">
+        <seg>需進行維修處之維修通道；</seg>
       </tuv>
     </tu>
     <tu>
@@ -33321,6 +33337,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141600Z" creationid="CCYU" creationdate="20140917T141600Z">
         <seg>撤回，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>working at height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034748Z" creationid="CCYU" creationdate="20140927T034748Z">
+        <seg>高空作業。</seg>
       </tuv>
     </tu>
     <tu>
