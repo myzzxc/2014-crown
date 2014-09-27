@@ -15480,6 +15480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement of &lt;t0/&gt;d.c.&lt;t1/&gt; insulation resistance each winding to earth and between windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161056Z" creationid="CCYU" creationdate="20140927T161056Z">
+        <seg>繞組-接地和繞組間之直流絕緣電阻量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of dissipation factor (tan 5) of the insulation system capacitances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160808Z" creationid="CCYU" creationdate="20140927T160808Z">
@@ -15548,6 +15556,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151936Z" creationid="CCYU" creationdate="20140927T151936Z">
         <seg>繞組電阻量測 (11.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of zero-sequence impedance(s) on three-phase transformers (11.6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161009Z" creationid="CCYU" creationdate="20140927T161009Z">
+        <seg>三相變壓器之零序阻抗量測 (11.6)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +19112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure deflection test on liquid immersed •transformers (11.10).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161213Z" creationid="CCYU" creationdate="20140927T161213Z">
+        <seg>油浸式變壓器壓力偏轉 (11.10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prevention</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163302Z" creationid="Judy" creationdate="20140818T163302Z">
@@ -21813,6 +21837,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043045Z" creationid="CCYU" creationdate="20140920T043045Z">
         <seg>短路阻抗和電壓降</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short-circuit withstand test (IEC 60076-5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161041Z" creationid="CCYU" creationdate="20140927T161041Z">
+        <seg>短路耐受性測試 (IEC 60076-5)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29558,6 +29590,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T031845Z" creationid="CCYU" creationdate="20140927T031845Z">
         <seg>水箱、儲油槽、抽頭開關以及冷卻設備之真空承受度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum deflection test on liquid immersed transformers (11.9).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161157Z" creationid="CCYU" creationdate="20140927T161157Z">
+        <seg>油浸式變壓器真空偏轉測試 (11.9)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum tightness test on site on liquid immersed transformers (11.11).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161242Z" creationid="CCYU" creationdate="20140927T161242Z">
+        <seg>油浸式變壓器現場真空密封性測試 (11.11)。</seg>
       </tuv>
     </tu>
     <tu>
