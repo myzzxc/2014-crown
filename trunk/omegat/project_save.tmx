@@ -12081,8 +12081,8 @@
       <tuv lang="EN-US">
         <seg>If a transformer is intended for delivery with liquid/SF6 bushings, by agreement between manufacturer and purchaser the test can be conducted with equivalent liquid/air bushings instead provided that the liquid-immersed end of the test bushing is identical to the service bushing and the service bushing is tested to at least the same level as the transformer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125511Z" creationid="CCYU" creationdate="20140927T125457Z">
-        <seg>若變壓器出廠時預期包含液體 / SF6 套管，bushings, by agreement between manufacturer and purchaser the test can be conducted with equivalent liquid/air bushings instead provided that the liquid-immersed end of the test bushing is identical to the service bushing and the service bushing is tested to at least the same level as the transformer.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125932Z" creationid="CCYU" creationdate="20140927T125457Z">
+        <seg>若變壓器出廠時預期包含液體 / SF6 套管，可依製造商與買方協議以相等之液體 / 空氣套管進行測試，而不提供與運作相同之測試套液浸端，而運作套管需進行與變壓器至少同等及之測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,8 +23499,8 @@
       <tuv lang="EN-US">
         <seg>Tapped windings shall be connected on their principal tapping, unless the relevant test clause requires otherwise or unless the manufacturer and the purchaser agree otherwise.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125505Z" creationid="CCYU" creationdate="20140927T125505Z">
-        <seg>apped windings shall be connected on their principal tapping, unless the relevant test clause requires otherwise or unless the manufacturer and the purchaser agree otherwise.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130131Z" creationid="CCYU" creationdate="20140927T125505Z">
+        <seg>除相關測試條款要求或製造商與買方協議外，抽頭繞組應連接至其主抽頭。</seg>
       </tuv>
     </tu>
     <tu>
