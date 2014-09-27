@@ -30634,6 +30634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cathodic&lt;t0/&gt; protection systems;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072315Z" creationid="CCYU" creationdate="20140927T072315Z">
+        <seg>陰極保護系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>char&lt;t0/&gt;acteristic&lt;t1/&gt;; sweetish</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131935Z" creationid="CCYU" creationdate="20140808T131935Z">
@@ -31278,6 +31286,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033804Z" creationid="CCYU" creationdate="20140927T033804Z">
         <seg>墊料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>geomagnetically&lt;t0/&gt; induced currents (GIC).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072536Z" creationid="CCYU" creationdate="20140927T072536Z">
+        <seg>地磁感應電流 (GIC)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32230,6 +32246,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141553Z" creationid="CCYU" creationdate="20140917T141553Z">
         <seg>重新確認，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rectifier systems;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072503Z" creationid="CCYU" creationdate="20140927T072503Z">
+        <seg>整流系統；</seg>
       </tuv>
     </tu>
     <tu>
