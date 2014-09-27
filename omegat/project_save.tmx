@@ -14184,6 +14184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not always possible, particularly in large, multi-winding transformers with relatively low rated voltages, to accommodate turns ratios which correspond to specified • rated voltage ratios with high &lt;t0/&gt;accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075926Z" creationid="CCYU" creationdate="20140927T075926Z">
+        <seg>對於變壓器，尤其是額定電壓相對較低之大型、多繞組變壓器，其匝數比無法永遠精確地符合指定之額定電壓比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must not be installed in flooded holes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T042944Z">
