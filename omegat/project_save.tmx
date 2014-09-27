@@ -24537,6 +24537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information listed below shall be included on the rating plate when it is applicable to particular transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T022245Z" creationid="CCYU" creationdate="20140927T022245Z">
+        <seg>以下列出特定變壓器於適用情況下應包含的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The initial&lt;t22/&gt; &lt;t23/&gt;conditions are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021102Z" creationid="Judy" creationdate="20140820T021102Z">
