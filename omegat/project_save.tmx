@@ -2997,8 +2997,8 @@
       <tuv lang="EN-US">
         <seg>A moisture-removing breather is fitted in the connection to the atmosphere.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065751Z" creationid="CCYU" creationdate="20140927T065751Z">
-        <seg>與大氣連接口裝有水汽去除換氣口，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070333Z" creationid="CCYU" creationdate="20140927T065751Z">
+        <seg>與大氣連接口裝有水汽去除換氣口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7671,8 +7671,8 @@
       <tuv lang="EN-US">
         <seg>Diaphragm or bladder-type liquid preservation system where an expansion volume of air at atmospheric pressure is provided above the liquid but prevented from direct contact with the liquid by a flexible diaphragm or bladder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070107Z" creationid="CCYU" creationdate="20140927T070107Z">
-        <seg>薄膜或氣囊式液體儲存系統中，於液體上方提供了於大氣壓下之氣體膨脹體積，但液體不與彈性薄膜或氣囊直接接觸，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070424Z" creationid="CCYU" creationdate="20140927T070107Z">
+        <seg>薄膜或氣囊式液體儲存系統，於液體上方提供了於大氣壓下之氣體膨脹體積，但液體不與彈性薄膜或氣囊直接接觸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13428,6 +13428,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083428Z" creationid="CCYU" creationdate="20140809T083428Z">
         <seg>Indication of any immediate medical attention and special treatment needed: 任何需要即時醫療照護和特殊治療的適應症：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inert gas pressure system where an expansion space above the liquid is filled with dry inert gas at slight over-pressure, being connected to either a pressure controlled source or an elastic bladder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070618Z" creationid="CCYU" creationdate="20140927T070420Z">
+        <seg>惰性氣體壓力系統，液體上方膨脹空間充滿乾燥的惰性氣體於些微的高壓下，連接至一個壓力控制源或彈性氣囊。</seg>
       </tuv>
     </tu>
     <tu>
