@@ -3563,6 +3563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional routine tests for transformers with Um &gt; 72&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152731Z" creationid="CCYU" creationdate="20140927T152731Z">
+        <seg>變壓器 Um &gt; 72,5 kV 之額外例行檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z" creationid="CCYU" creationdate="20140808T133646Z">
@@ -6300,6 +6308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check of the ratio and polarity of built-in current transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152505Z" creationid="CCYU" creationdate="20140927T152505Z">
+        <seg>內建電流比流器之比率與極性檢查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the position of the existing &lt;t0/&gt;rebars&lt;t1/&gt; (if the position of existing &lt;t2/&gt;rebars&lt;t3/&gt; is not known, it shall be determined using a rebar detector suitable for this purpose as well as on the basis of the construction documentation and then marked on the building component for the overlap joint).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033729Z">
@@ -7769,6 +7785,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080730Z" creationid="CCYU" creationdate="20140809T080730Z">
         <seg>Details of the supplier of the safety data sheet: 安全資料表供應商詳細資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determination of capacitances windings-to-earth and between windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152915Z" creationid="CCYU" creationdate="20140927T152838Z">
+        <seg>繞組-接地和繞組間之電容測定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14456,6 +14480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>J) Check of core and frame insulation for liquid immersed transformers with core or frame insulation (11.12).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152625Z" creationid="CCYU" creationdate="20140927T152625Z">
+        <seg>j) 含鐵心或外框架絕緣之油浸式變壓器鐵心和外框架絕緣檢查 (11.12)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Judging from the values of maximum velocity, heat input, and work output within a cycle, grid and time-step independent solutions can be achieved by the grid with 110,569 cells at 200 time steps per cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154207Z" creationid="Judy" creationdate="20140820T153907Z">
@@ -15388,6 +15420,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083604Z" creationid="CCYU" creationdate="20140927T083604Z">
         <seg>對其他抽頭之量測電壓比，同一對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of &lt;t0/&gt;d.c.&lt;t1/&gt; insulation resistance between each winding to earth and between windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152926Z" creationid="CCYU" creationdate="20140927T152910Z">
+        <seg>繞組-接地和繞組間之直流絕緣電阻量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28269,6 +28309,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124516Z" creationid="CCYU" creationdate="20140913T024408Z">
         <seg>因此，我們利用 PIV 技術來量測此非遽變性地滑以進一步地瞭解其位移之方向和規模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tightness tests and pressure tests for tanks for gas-filled transformers (refer to 60076¬15)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152418Z" creationid="CCYU" creationdate="20140927T152418Z">
+        <seg>氣體填充式變壓器腔體密封性測試和壓力測試 (請參閱 60076-15)</seg>
       </tuv>
     </tu>
     <tu>
