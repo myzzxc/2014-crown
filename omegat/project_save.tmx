@@ -10319,6 +10319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers having one or more windings with 'highest voltage for equipment' L. equal to or above 3&lt;t0/&gt;,6&lt;t1/&gt; kV:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T023416Z" creationid="CCYU" creationdate="20140927T023416Z">
+        <seg>具有一組或多組繞組之變壓器，其 '設備最高電壓' 等於或大於 3,6 kV：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers intended to be installed indoors, some of these environmental conditions may not be applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z" creationid="CCYU" creationdate="20140921T110954Z">
