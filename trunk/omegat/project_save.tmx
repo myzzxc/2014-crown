@@ -26481,6 +26481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are also other quantities which may not be accurately explored at the time of tender, or are subject to manufacturing and measuring uncertainty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080223Z" creationid="CCYU" creationdate="20140927T080106Z">
+        <seg>也有其他無法於投標時仔細探討、或受加工及量測不確定性影響之量值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are certain areas in every plant where either large &lt;t0/&gt;releases&lt;t1/&gt; have happened before or where a large amount of oil is contained (generators rooms, hydraulic pumps, fuel transfer areas, processing lines using hydraulic equipment).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090755Z" creationid="CCYU" creationdate="20140817T090716Z">
@@ -26549,6 +26557,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124640Z" creationid="Judy" creationdate="20140819T113850Z">
         <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為層流，避免需要使用紊流模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore tolerances are necessary on certain specified and design values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080221Z" creationid="CCYU" creationdate="20140927T080221Z">
+        <seg>因此某些指定和設計值之間需有公差。</seg>
       </tuv>
     </tu>
     <tu>
