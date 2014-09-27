@@ -5395,6 +5395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before measurement the external cooling medium temperature shall not have changed by more than 3 °C for at least 3 h and all winding temperatures of the trans&lt;t0/&gt;former measured by the internal &lt;t1/&gt;temperature sensors shall• not differ from the external cooling medium&lt;t2/&gt; temperature by more than 2 °C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T163117Z" creationid="CCYU" creationdate="20140927T163117Z">
+        <seg>量測前至少 3 小時以上之外部冷媒之溫度變化應小於 3 °C，且所有以內部溫度感測器量測之繞組溫度與外部冷媒溫度差異應小於 2 °C。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berlin, Germany</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014315Z" creationid="JUDY" creationdate="20140827T014315Z">
