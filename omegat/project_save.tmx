@@ -15168,6 +15168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured short-circuit impedance for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083956Z" creationid="CCYU" creationdate="20140927T083956Z">
+        <seg>量測短路阻抗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measured values shall not fall outside the boundaries, which are limits without tolerance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131403Z" creationid="CCYU" creationdate="20140925T131301Z">
@@ -25097,6 +25105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lower of the following values:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083759Z" creationid="CCYU" creationdate="20140927T083759Z">
+        <seg>下列較低值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The magnetizing current becomes strongly asymmetrical and will have a high harmonic content.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073102Z" creationid="CCYU" creationdate="20140927T072848Z">
@@ -33881,6 +33897,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165655Z" creationid="Judy" creationdate="20140818T165655Z">
         <seg>鋅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>±0,5 % of the design value of turns ratio</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083930Z" creationid="CCYU" creationdate="20140927T083930Z">
+        <seg>匝數比設計值 ±0,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>±0,5 % of the specified ratio</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083811Z" creationid="CCYU" creationdate="20140927T083811Z">
+        <seg>指定比 ±0,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>±1/10 of the actual percentage impedance on the principal tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083847Z" creationid="CCYU" creationdate="20140927T083847Z">
+        <seg>主抽頭實際阻抗百分比 ±1/10</seg>
       </tuv>
     </tu>
     <tu>
