@@ -2673,6 +2673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;if&lt;t2/&gt; such a requirement exists, it shall be stated for which tappings, in addition to the principal tapping, the load losses are to be guaranteed by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084125Z" creationid="CCYU" creationdate="20140927T084125Z">
+        <seg>若有此類規範，應說明除主抽頭外製造商應保證何抽頭之損耗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z">
@@ -10539,6 +10547,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150230Z" creationid="CCYU" creationdate="20140924T150230Z">
         <seg>對於沒有抽頭超出主抽頭 ±5 % 電壓變化之變壓器，一對繞組之短路阻抗只需在主抽頭處指明，以每 Z 相歐姆或相對額定功率及額定電壓 z 項百分比的形式皆可 (請見 3.7.1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers with tappings exceeding a voltage variation of ±5 % from the principle tapping, impedance values expressed in terms of Z or z shall be specified for the principal &lt;t0/&gt;tapping and the extreme tapping(s) exceeding 5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084144Z" creationid="CCYU" creationdate="20140927T084144Z">
+        <seg>對於抽頭電壓變化超出主抽頭 ±5 % 之變壓器，應指明主抽頭和超出 5 % 之極值抽頭阻抗值並以 Z 或 z 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26201,6 +26217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The temperature-rise limits are valid for all tappings, at the appropriate tapping power, tapping voltage and tapping current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084126Z" creationid="CCYU" creationdate="20140927T084126Z">
+        <seg>溫度上升測試於適當抽頭功率抽頭電壓以及抽頭電流下適用於所有抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature-rise type test shall be carried out on one tapping only, unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133841Z" creationid="CCYU" creationdate="20140925T133841Z">
@@ -26324,6 +26348,14 @@
         <seg>The transformer specification and design also need to take into account that large changes in impedance between taps can reduce or exaggerate the effect of the &lt;t0/&gt;tappings&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130115Z" creationid="CCYU" creationdate="20140925T130115Z">
+        <seg>變壓器規格和設計也需列入考慮，抽頭間阻抗的大幅變化會降低或加大抽頭效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer specification and design also need to take into account that large changes in impedance between taps can reduce or exaggerate the effect of the tappings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084134Z" creationid="CCYU" creationdate="20140927T084134Z">
         <seg>變壓器規格和設計也需列入考慮，抽頭間阻抗的大幅變化會降低或加大抽頭效應。</seg>
       </tuv>
     </tu>
@@ -30382,6 +30414,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043420Z" creationid="CCYU" creationdate="20140921T043420Z">
         <seg>[IEC 60050-421:1990, 421-10-09, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a &lt;t0/&gt;separate-winding transformer with two windings, or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084228Z" creationid="CCYU" creationdate="20140927T084228Z">
+        <seg>具有兩繞組之分離繞組變壓器，或</seg>
       </tuv>
     </tu>
     <tu>
