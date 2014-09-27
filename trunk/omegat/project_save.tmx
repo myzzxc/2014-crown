@@ -7837,6 +7837,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of weight with transformer arranged for transport, For transformers up to 1&lt;t0/&gt;,6&lt;t1/&gt; MVA by measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161924Z" creationid="CCYU" creationdate="20140927T161924Z">
+        <seg>對於量測值小於 1,6 MVA 之變壓器運輸重量測定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diameter of clearance hole in the fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141509Z">
@@ -15596,6 +15604,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
         <seg>機械阻力和穩定性 (BWR 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical test or assessment of tank for suitability for transport (to customer specification).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161730Z" creationid="CCYU" creationdate="20140927T161730Z">
+        <seg>油槽運輸合適性之機械測試或評估 (依客戶規格)。</seg>
       </tuv>
     </tu>
     <tu>
