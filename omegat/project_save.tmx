@@ -15792,6 +15792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085341Z" creationid="CCYU" creationdate="20140927T085341Z">
+        <seg>註 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 &lt;t0/&gt;For&lt;t1/&gt; an autotransformer, the maximum current in the series and common windings are usually at two different tap positions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135221Z" creationid="CCYU" creationdate="20140925T135221Z">
