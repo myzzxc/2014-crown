@@ -31172,8 +31172,8 @@
       <tuv lang="EN-US">
         <seg>c) for liquid-immersed transformers with other rated average winding temperature rise, the reference temperature is equal to rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131742Z" creationid="CCYU" creationdate="20140927T131742Z">
-        <seg>c) 油浸式變壓器具有其他for liquid-immersed transformers with other rated average winding temperature rise, the reference temperature is equal to rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131954Z" creationid="CCYU" creationdate="20140927T131742Z">
+        <seg>c) 油浸式變壓器具有其他繞組額定平均溫度上升時，參考溫度等於繞組額定平均溫度上升 + 20 °C，或繞組額定平均溫度上升+ 外部冷媒年均溫，取較高者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32516,8 +32516,8 @@
       <tuv lang="EN-US">
         <seg>on request by the customer, reference temperature is rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131705Z" creationid="CCYU" creationdate="20140927T131705Z">
-        <seg>依客戶要求，餐考溫度為繞組平均額定溫度上升 + 20 °C，或平均額定溫度上升 + 外部冷媒年均溫，取較高者；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132002Z" creationid="CCYU" creationdate="20140927T131705Z">
+        <seg>依客戶要求，參考溫度為繞組額定平均溫度上升 + 20 °C，或繞組額定平均溫度上升 + 外部冷媒年均溫，取較高者；</seg>
       </tuv>
     </tu>
     <tu>
