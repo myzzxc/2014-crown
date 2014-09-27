@@ -12079,6 +12079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer is intended for delivery with liquid/SF6 bushings, by agreement between manufacturer and purchaser the test can be conducted with equivalent liquid/air bushings instead provided that the liquid-immersed end of the test bushing is identical to the service bushing and the service bushing is tested to at least the same level as the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125511Z" creationid="CCYU" creationdate="20140927T125457Z">
+        <seg>若變壓器出廠時預期包含液體 / SF6 套管，bushings, by agreement between manufacturer and purchaser the test can be conducted with equivalent liquid/air bushings instead provided that the liquid-immersed end of the test bushing is identical to the service bushing and the service bushing is tested to at least the same level as the transformer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a transformer is specified with a reconfigurable winding connection, the alternative couplin&lt;t0/&gt;g&lt;t1/&gt; voltage and connection is noted in brackets after the delivered configuration as indicated b&lt;t2/&gt;y&lt;t3/&gt; the following examples</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151553Z" creationid="CCYU" creationdate="20140926T151553Z">
@@ -12482,8 +12490,8 @@
       <tuv lang="EN-US">
         <seg>If the transformer cannot be mounted in its intended operating condition for testing (for example if the transformer is fitted with test-turrets and test-bushings or the arrangement of cooling equipment cannot be mounted in the in-service position, during the relevant factory test), an agreement shall be found between manufacturer and purchaser before the commencement of tests.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125304Z" creationid="CCYU" creationdate="20140927T125228Z">
-        <seg>若變壓器無反安裝於其預期操作條件下 (例如於工廠射測試期間，變壓器裝有測試回轉台及測試套筒，或冷卻設備之配置無法裝於操作位置)，製造商與買方於進行測試前應有協議 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125517Z" creationid="CCYU" creationdate="20140927T125228Z">
+        <seg>若變壓器無反安裝於其預期操作條件下 (例如於工廠射測試期間，變壓器裝有測試回轉台及測試套管，或冷卻設備之配置無法裝於操作位置)，製造商與買方於進行測試前應有協議 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,6 +12564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155546Z" creationid="CCYU" creationdate="20140922T155546Z">
         <seg>若零序規範取決於使用買方未直接指定之三角連接繞組，則製造商於投標時應當明確說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are any limitations known at the tender stage, these shall be made clear by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125355Z" creationid="CCYU" creationdate="20140927T125355Z">
+        <seg>於投標期間已知有任何限制，製造商應說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23477,6 +23493,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120220Z" creationid="CCYU" creationdate="20140817T080428Z">
         <seg>我們的產品非常適合用於油罐區，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tapped windings shall be connected on their principal tapping, unless the relevant test clause requires otherwise or unless the manufacturer and the purchaser agree otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125505Z" creationid="CCYU" creationdate="20140927T125505Z">
+        <seg>apped windings shall be connected on their principal tapping, unless the relevant test clause requires otherwise or unless the manufacturer and the purchaser agree otherwise.</seg>
       </tuv>
     </tu>
     <tu>
