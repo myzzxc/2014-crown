@@ -4083,6 +4083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An indication of any built-in current transformers when used shall be presented on the diagram.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030821Z" creationid="CCYU" creationdate="20140927T030821Z">
+        <seg>當使用任何內建電流變壓器時應標明於圖上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An institution established by the Federal and &lt;t0/&gt;Laender&lt;t1/&gt; Governments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145057Z">
@@ -27866,6 +27874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transportation mass (if different from total mass).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030844Z" creationid="CCYU" creationdate="20140927T030844Z">
+        <seg>運輸重量 (若與總重量不同)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trees and grass covered Jiujiufeng initially, but after the Chi-Chi earthquake the stripping, that is the removal of all the trees and grass, took place during the earthquake shaking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140912T172210Z" creationid="CCYU" creationdate="20140912T172210Z">
@@ -29206,6 +29222,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081333Z">
         <seg>若依照 ACI 318 D.5.2.6 分析顯示無龜裂，則 &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; 必須使用 &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; 和 &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0 計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where non-linear resistors or fuses are employed within the transformer, the location and connection of such equipment shall be shown on the connection diagram plate with terminal markings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030619Z" creationid="CCYU" creationdate="20140927T030619Z">
+        <seg>當變壓器使用非線性電阻或保險絲時，此類設備之位置與接線圖應標示於接線圖板上並包含端子標示。</seg>
       </tuv>
     </tu>
     <tu>
