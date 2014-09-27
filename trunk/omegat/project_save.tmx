@@ -14704,6 +14704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mass and type of insulating liquid with reference to the relevant IEC standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021405Z" creationid="CCYU" creationdate="20140927T021405Z">
+        <seg>重量和絕緣液體種類及其參考相關 IEC 標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Massachusetts’s hazardous substance(s):</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184000Z" creationid="Judy" creationdate="20140818T184000Z">
@@ -14836,6 +14844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044410Z">
         <seg>最大埋設深度/工作時間和固化時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum system &lt;t0/&gt;short-circuits&lt;t1/&gt; power or current used to determine the transform withstand capability if not infinite.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021555Z" creationid="CCYU" creationdate="20140927T021555Z">
+        <seg>最大系統短路功率或電流，用於決定變壓器承受力 (若非無窮大)，</seg>
       </tuv>
     </tu>
     <tu>
