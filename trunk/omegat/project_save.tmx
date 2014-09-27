@@ -14104,6 +14104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not take precedence over any l&lt;t0/&gt;imits specified in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080921Z" creationid="CCYU" creationdate="20140927T080921Z">
+        <seg>其無法取代詢價時所指明之任何限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a low to medium temperature differential engine; therefore it can run on temperature difference from just tens of degree to a couple of hundreds of degree.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081226Z" creationid="Judy" creationdate="20140819T081207Z">
@@ -22929,6 +22937,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 1 — Tolerances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080937Z" creationid="CCYU" creationdate="20140927T080937Z">
+        <seg>表 1 — 公差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 10</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045658Z">
@@ -27157,6 +27173,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125107Z" creationid="CCYU" creationdate="20140817T125107Z">
         <seg>此類別包括擁有自己的卡車車隊、以及那些僅提供外部維修的公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This clause is for the purposes of acceptance or rejection only and does not replace the purchasers' prescribed guarantees for economic evaluation purposes (for example penalties on losses).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080820Z" creationid="CCYU" creationdate="20140927T080820Z">
+        <seg>此條款僅用於接受或拒絕，不用於取代買方訂定之經濟評估用途保證 (例如，損耗之代價)。</seg>
       </tuv>
     </tu>
     <tu>
