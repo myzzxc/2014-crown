@@ -21217,6 +21217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;t4/&gt;IEC&lt;t5/&gt; 60076-2 for temperature rise tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090643Z" creationid="CCYU" creationdate="20140927T090643Z">
+        <seg>溫度上升測試請見 IEC 60076-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020746Z">
@@ -23869,6 +23877,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090324Z" creationid="CCYU" creationdate="20140927T090324Z">
         <seg>測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests other than temperature rise tests shall be made at an external cooling medium temperature between 10 &lt;t0/&gt;°C&lt;t1/&gt; and 40 &lt;t2/&gt;°C&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090649Z" creationid="CCYU" creationdate="20140927T090616Z">
+        <seg>除了溫度上升測試外之測試必須於外部冷煤溫度介於 10 °C 至 40 °C 之間進行 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28414,6 +28430,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034053Z" creationid="CCYU" creationdate="20140927T034053Z">
         <seg>變壓器之設計應無洩漏，且於保固期內於現場發生之任何洩漏應由負責供應商修復。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers shall be subjected to tests as specified below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090449Z" creationid="CCYU" creationdate="20140927T090449Z">
+        <seg>變壓器須按照以下規範進行測試。</seg>
       </tuv>
     </tu>
     <tu>
