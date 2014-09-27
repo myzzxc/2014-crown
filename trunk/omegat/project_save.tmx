@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If the transformer has several assigned cooling methods, the respectiv&lt;t0/&gt;e&lt;t1/&gt; power values may be expressed as percentages of rated power, for example ONAN/ONA 70/100 %.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021211Z" creationid="CCYU" creationdate="20140927T021211Z">
+        <seg>(若變壓器有多種指定冷卻方法，個別功率值應以額定功率百分比表示，例如 ONAN/ONA 70/100 %。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Rate 0 on scale of 0-6)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070503Z" creationid="MAE" creationdate="20140810T070503Z">
@@ -10297,8 +10305,8 @@
       <tuv lang="EN-US">
         <seg>For transformers having a tapped winding, see als&lt;t2/&gt;o&lt;t3/&gt; 6.5 and item b) of 8.3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020736Z" creationid="CCYU" creationdate="20140927T020736Z">
-        <seg>對於For transformers having a tapped winding, see als&lt;t2/&gt;o&lt;t3/&gt; 6.5 and item b) of 8.3.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021035Z" creationid="CCYU" creationdate="20140927T020736Z">
+        <seg>對於具有抽頭繞組之變壓器，請見 6.5 和 8.3 b) 項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27506,6 +27514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total mass.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021223Z" creationid="CCYU" creationdate="20140927T021223Z">
+        <seg>總重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T152750Z" creationid="CCYU" creationdate="20140807T152750Z">
@@ -27774,6 +27790,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
         <seg>"雙槽"式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of cooling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021100Z" creationid="CCYU" creationdate="20140927T021100Z">
+        <seg>冷卻類型。</seg>
       </tuv>
     </tu>
     <tu>
