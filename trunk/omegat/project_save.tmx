@@ -4675,6 +4675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any special tolerances should be indicated in the enquiry, and any revised tolerances agreed upon between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090319Z" creationid="CCYU" creationdate="20140927T090319Z">
+        <seg>任何特殊的公差應於詢價時指明，且任何公差變更應由製造商和買方之間協定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any specific requirements for loading beyond rated power, operation at higher external cooling medium temperatures or reduced temperature rise limits shall be specified by the purchaser in the enquiry and the contract.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131334Z" creationid="CCYU" creationdate="20140921T131236Z">
@@ -10899,6 +10907,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145247Z" creationid="CCYU" creationdate="20140808T145247Z">
         <seg>General recommendation 一般建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General requirements for routine, type and special tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090415Z" creationid="CCYU" creationdate="20140927T090415Z">
+        <seg>例行、類別以及特殊測試之一般規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -17464,6 +17480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, for example, when a transformer is to be combined with previously existing units, it may be justified to specify and agree on narrower impedance tolerances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090213Z" creationid="CCYU" creationdate="20140927T090213Z">
+        <seg>另一方面，例如，當變壓器與固有裝置結合，必須指明並同意較小的阻抗公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, the cross-correlation has evaluation deviation which is proportional to displacement, so the PIV analysis is not suitable for analysis of large displacement, but for small scale creep or non-catastrophic landslides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163119Z" creationid="CCYU" creationdate="20140913T163119Z">
@@ -23837,6 +23861,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065339Z" creationid="MAE" creationdate="20140810T065339Z">
         <seg>測試之顏色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090324Z" creationid="CCYU" creationdate="20140927T090324Z">
+        <seg>測試</seg>
       </tuv>
     </tu>
     <tu>
