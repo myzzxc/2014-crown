@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+10 % of the total losses</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T081918Z" creationid="CCYU" creationdate="20140927T081918Z">
+        <seg>總損耗 +10 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 19</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052029Z" creationid="CCYU" creationdate="20140921T052029Z">
