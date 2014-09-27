@@ -2987,6 +2987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A single-phase autotransformer designed for a 400 kV HV and a 130 kV intermediate&lt;t0/&gt; v&lt;t1/&gt;oltage with 22 kV tertiary windings all in phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015030Z" creationid="CCYU" creationdate="20140927T015030Z">
+        <seg>單相自耦變壓器，設計為高電壓 400 kV，中電壓 130 kV 及三次繞組 22 kV，皆同相位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A sinusoidal supply voltage with a total harmonic content not exceeding 5 % and an even harmonic content not exceeding 1 %.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104230Z" creationid="CCYU" creationdate="20140921T104230Z">
@@ -3079,6 +3087,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142806Z" creationid="CCYU" creationdate="20140926T142716Z">
         <seg>三繞組變壓器，高壓繞組額定 123 kV、星形連接至中性點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A three-winding transformer: with a 123 kV HV, an intermediate voltage winding of 36 kV, in phase with the HV winding but not auto-connected, and a 7&lt;t0/&gt;,2&lt;t1/&gt; kV third winding, lagging by 180°.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T014922Z" creationid="CCYU" creationdate="20140927T014922Z">
+        <seg>三繞組變壓器：高電壓為 123 kV，中電壓繞組為 36 kV，與高壓繞組同相但非自藕。第三繞組 7,2 kV 星形連接，落後 180°。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22097,10 +22113,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Symbol: 110</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T014754Z" creationid="CCYU" creationdate="20140927T014754Z">
+        <seg>符號：Ii0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Symbol: &lt;t0/&gt;Diii</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145245Z" creationid="CCYU" creationdate="20140926T145245Z">
         <seg>符號：Diii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol: &lt;t0/&gt;I&lt;t1/&gt;in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T014957Z" creationid="CCYU" creationdate="20140927T014957Z">
+        <seg>符號：Ii0i6</seg>
       </tuv>
     </tu>
     <tu>
