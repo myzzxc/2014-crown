@@ -10102,6 +10102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For liquid-immersed transformers, the type of liquid preservation system may be specified in the enquiry and order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T064938Z" creationid="CCYU" creationdate="20140927T064938Z">
+        <seg>油浸式變壓器之液體儲存系統類型應於詢價及訂購時指明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformer: several impedances for different two-winding combinations are to be given with th&lt;t0/&gt;e&lt;t1/&gt; respective reference power values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020719Z" creationid="CCYU" creationdate="20140927T020719Z">
@@ -14460,6 +14468,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033322Z" creationid="CCYU" creationdate="20140927T033322Z">
         <seg>液體洩漏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liquid preservation system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T064847Z" creationid="CCYU" creationdate="20140927T064847Z">
+        <seg>液體儲存系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -31286,6 +31302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T154131Z" creationid="CCYU" creationdate="20140922T134128Z">
         <seg>若發電機升壓變壓器用於回授模式下，當低電壓側未使用保護連接至發電機；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if not specified, the manufacturer shall indicate the liquid preservation system in the tender.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065022Z" creationid="CCYU" creationdate="20140927T065022Z">
+        <seg>若未指明，製造商應於投標書上標明液體儲存系統，</seg>
       </tuv>
     </tu>
     <tu>
