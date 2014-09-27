@@ -23769,6 +23769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;centre&lt;t1/&gt; of gravity of the transformer in the transport configuration shall be permanently marked on at least two adjacent sides of the transformer for transformers with a transport mass in excess of 5 &lt;t2/&gt;tonnes&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075535Z" creationid="CCYU" creationdate="20140927T075535Z">
+        <seg>重量超過 5 噸之變壓器運輸時，其之重心應至少永久標記於變壓器兩相鄰側邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;noncatastrophic phenomenon was reported by local residents about 3 to 5 days after the Chi-Chi earthquake.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041627Z" creationid="CCYU" creationdate="20140912T173558Z">
@@ -27902,6 +27910,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013055Z" creationid="JUDY" creationdate="20140827T013055Z">
         <seg>日本，東京</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075539Z" creationid="CCYU" creationdate="20140927T075539Z">
+        <seg>公差</seg>
       </tuv>
     </tu>
     <tu>
