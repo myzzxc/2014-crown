@@ -29826,6 +29826,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a table showing the short-circuit impedance values for the principal tapping and least the extreme tappings in % with the reference power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024921Z" creationid="CCYU" creationdate="20140927T024921Z">
+        <seg>說明主抽頭之短路阻抗值和最小極端抽頭百分比與其參考功率之表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a table stating tapping voltage and maximum allowable tapping service volta&lt;t0/&gt;ge&lt;t1/&gt; tapping current, tapping power, and internal connection for all tappings,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024732Z" creationid="CCYU" creationdate="20140927T024732Z">
+        <seg>標明所有抽頭之抽頭電壓與最大容許抽頭運作電壓、抽頭電流、抽頭功率以及內部連接之表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a tapping whose tapping factor is higher than 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023454Z" creationid="CCYU" creationdate="20140920T023454Z">
