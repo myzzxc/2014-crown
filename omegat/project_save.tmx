@@ -12104,6 +12104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the connections can be changed inside the transformer, this shall be indicated either on the same plate, a separate plate or with duplicate or reversible rating plates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030347Z" creationid="CCYU" creationdate="20140927T030347Z">
+        <seg>若變壓器內部連接可以變更，應標示於同一銘牌上或獨立銘牌上，或使用重複或雙面額定銘牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the delta winding is not brought out to three line terminals but only provided as a stabilizing winding, the symbol would indicate this by a plus sign.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144438Z" creationid="CCYU" creationdate="20140926T143824Z">
@@ -24061,6 +24069,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153608Z" creationid="CCYU" creationdate="20140925T153608Z">
         <seg>連接圖中高電壓繞組在上，低電壓繞組在下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connection fitted at delivery shall be indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030417Z" creationid="CCYU" creationdate="20140927T030417Z">
+        <seg>應標明出廠連接配置。</seg>
       </tuv>
     </tu>
     <tu>
