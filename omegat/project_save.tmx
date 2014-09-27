@@ -21969,6 +21969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific requirements on the accuracy and verification of the measuring systems are described in IEC 60060 series and IEC 60076-8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130640Z" creationid="CCYU" creationdate="20140927T130640Z">
+        <seg>量測系統之精度與認證之具體規範收錄於 IEC 60060 系列與 IEC 60076-8 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specification for nuts&lt;t0/&gt;3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103408Z">
@@ -30006,6 +30014,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034919Z" creationid="CCYU" creationdate="20140927T034919Z">
         <seg>當安裝可能會影響上述任何一點時，應與變壓器一併提供適當的安裝說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where it is required that test results are to be corrected to a reference temperature, this shall be</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130803Z" creationid="CCYU" creationdate="20140927T130803Z">
+        <seg>測試結果需對參考溫度進行校正之處為：</seg>
       </tuv>
     </tu>
     <tu>
