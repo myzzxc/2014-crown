@@ -9846,6 +9846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all other transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024155Z" creationid="CCYU" creationdate="20140927T024155Z">
+        <seg>所有其他變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For an adiabatic cycle, the exact relation between p and V is pV1.4 = C, where C is a constant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154706Z" creationid="Judy" creationdate="20140820T154706Z">
@@ -10355,6 +10363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T123533Z" creationid="CCYU" creationdate="20140925T123533Z">
         <seg>對於抽頭電壓變化超出主抽頭 ±5 % 之變壓器，應指明主抽頭和超出 5 % 之極值抽頭阻抗值並以 Z 或 z 表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers with highest rated voltage less than or equal to 72,5 kV and wi&lt;t0/&gt;th&lt;t1/&gt; rated power less than or equal to 20 MVA (three phase) or 6,7 MVA (single phas&lt;t2/&gt;e&lt;t3/&gt; having a tapping range not exceeding ±5 %, tapping voltages on the tapped windi&lt;t4/&gt;ng&lt;t5/&gt; for all tappings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024258Z" creationid="CCYU" creationdate="20140927T024124Z">
+        <seg>對於最高額定電壓小於等於 72,5 kV 且額定功率小於等於 20 MVA (三相) 或 6,7 MVA (單相) 之變壓器，其抽頭範圍不超過 ±5 %，需於所有抽頭標示抽頭電壓於抽頭繞組上。</seg>
       </tuv>
     </tu>
     <tu>
