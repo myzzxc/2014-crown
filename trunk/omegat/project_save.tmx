@@ -14856,6 +14856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loss measurements should not be corrected downwards to account for harmonics in the supply voltage except as allowed in 11.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151037Z" creationid="CCYU" creationdate="20140927T151037Z">
+        <seg>除 11.5 准許以外之損耗量測不應下修以包含供應電壓內之諧波。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Losses and no-load current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034524Z" creationid="CCYU" creationdate="20140920T034301Z">
@@ -25473,6 +25481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum voltage across each phase winding under test shall not differ from the minimum voltage by more than 3 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151238Z" creationid="CCYU" creationdate="20140927T151238Z">
+        <seg>測試之每相繞組最大電壓與最小電壓差異不得大於 3 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mechanical properties might remain at 95% of the initial values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064642Z" creationid="MAE" creationdate="20140810T064642Z">
@@ -30078,6 +30094,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T091526Z" creationid="CCYU" creationdate="20140913T091526Z">
         <seg>其中 C(s) 代表相關程度或匹配程度，I1 和 I2 為分析區域 (IA，色度矩陣)，而 s 為位移。displacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where a three-phase supply is used, the supply voltage shall be symmetrical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151107Z" creationid="CCYU" creationdate="20140927T151107Z">
+        <seg>當使用三相電源時，供應電壓應對稱，</seg>
       </tuv>
     </tu>
     <tu>
