@@ -24995,8 +24995,16 @@
       <tuv lang="EN-US">
         <seg>The neutral conductor and terminal of transformers intended to carry a load between phase and neutral (for example, distribution transformers) shall be rated for the appropriate load curren&lt;t0/&gt;t and earth-fault current (see I&lt;t1/&gt;EC 60076-8).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035941Z" creationid="CCYU" creationdate="20140927T035941Z">
-        <seg>變壓器各相與中性點之間負載 (例如，配電變壓器) 之中性導體和端子應能輸送適當的額定負載電流和故障接地電流 (請見 IEC 60076-8)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T040021Z" creationid="CCYU" creationdate="20140927T035941Z">
+        <seg>傳導變壓器各相與中性點之間負載 (例如，配電變壓器) 之中性導體和端子應能傳導適當的額定負載電流和故障接地電流 (請見 IEC 60076-8)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neutral conductor and terminal of transformers not intended to carry load between phase and neutral shall be designed to carry earth-fault current as if the transformer was directly earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T040140Z" creationid="CCYU" creationdate="20140927T040140Z">
+        <seg>不傳導變壓器各相與中性點之間負載之中性導體和端子，當變壓器直接接地時應能傳導適當的故障接地電流。</seg>
       </tuv>
     </tu>
     <tu>
