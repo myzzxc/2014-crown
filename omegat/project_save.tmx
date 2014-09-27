@@ -10062,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For certain auto-transformers and series transformers the low value of their impedance may justify a more liberal tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085904Z" creationid="CCYU" creationdate="20140927T085904Z">
+        <seg>某些自耦變壓器和串聯變壓器之阻抗低值可能有更大的公差，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For concrete &lt;t0/&gt;C20/25</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055557Z" creationid="MAE" creationdate="20140727T055557Z">
@@ -28350,6 +28358,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134533Z" creationid="CCYU" creationdate="20140922T134533Z">
         <seg>於此類異常的條件下操作之變壓器規範須經買方與供應商之間同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers having large tapping ranges, particularly if the range is asymmetrical, may also require special consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090017Z" creationid="CCYU" creationdate="20140927T090017Z">
+        <seg>具有較大抽頭範圍之變壓器，特別是其範圍非對稱時，可能還需要特別考量。</seg>
       </tuv>
     </tu>
     <tu>
