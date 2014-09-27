@@ -30578,6 +30578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>corrosion&lt;t0/&gt; prevention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033846Z" creationid="CCYU" creationdate="20140927T033846Z">
+        <seg>防鏽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>corrosion&lt;t0/&gt; protection, according to the kind of installation and the installation&lt;t1/&gt; &lt;t2/&gt;environment (see 4.2), the purchaser should choose classes of protection in ISO 12944 or by agreement between purchaser and manufacturer;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140131Z" creationid="CCYU" creationdate="20140923T140131Z">
@@ -31046,6 +31054,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104223Z" creationid="Judy" creationdate="20140819T104223Z">
         <seg>氣體常數 (Jkg-1 K-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gasket materials;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033804Z" creationid="CCYU" creationdate="20140927T033804Z">
+        <seg>墊料；</seg>
       </tuv>
     </tu>
     <tu>
@@ -33145,6 +33161,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125144Z" creationid="CCYU" creationdate="20140918T125144Z">
         <seg>焊接變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>welds;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033820Z" creationid="CCYU" creationdate="20140927T033820Z">
+        <seg>焊接；</seg>
       </tuv>
     </tu>
     <tu>
