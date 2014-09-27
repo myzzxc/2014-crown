@@ -12664,6 +12664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this condition is not satisfied then the effect of the &lt;t2/&gt;waveshape&lt;t3/&gt; on the measured parameter shall be evaluated by the manufacturer and subject to approval by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T145216Z" creationid="CCYU" creationdate="20140927T145216Z">
+        <seg>若無法滿足此條件，製造商應評估波形對量測參數的影響並取得買方同意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this happens,&lt;t26/&gt; &lt;t27/&gt;we need the resampling technique, so that we can choose the&lt;t28/&gt; &lt;t29/&gt;pixel value from the original image to copy into the new image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075902Z" creationid="CCYU" creationdate="20140913T075817Z">
@@ -24123,8 +24131,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;waveshape&lt;t1/&gt; of the supply voltage shall be such that the total harmonic content does not exceed 5 %.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T140355Z" creationid="CCYU" creationdate="20140927T140355Z">
-        <seg>供應電壓波形之總諧波含量不超過 5 %。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T145107Z" creationid="CCYU" creationdate="20140927T140355Z">
+        <seg>供應電壓波形之總諧波含量不超過 5 %，</seg>
       </tuv>
     </tu>
     <tu>
