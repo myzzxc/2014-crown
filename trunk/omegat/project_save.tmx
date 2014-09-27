@@ -24121,6 +24121,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;waveshape&lt;t1/&gt; of the supply voltage shall be such that the total harmonic content does not exceed 5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T140355Z" creationid="CCYU" creationdate="20140927T140355Z">
+        <seg>供應電壓波形之總諧波含量不超過 5 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t1/&gt;rebars&lt;t2/&gt; &lt;t3/&gt;sre&lt;t4/&gt; stressed in compression</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023158Z">
