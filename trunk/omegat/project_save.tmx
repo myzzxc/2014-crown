@@ -12081,8 +12081,8 @@
       <tuv lang="EN-US">
         <seg>If a purchaser needs to make a comparison between the losses of transformers in category b) with transformers in categories a) and c) (with different insulation systems and with different average winding temperature rises) it is necessary for the reference temperature to be determined according to b&lt;t0/&gt;)2&lt;t1/&gt; above.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132241Z" creationid="CCYU" creationdate="20140927T132241Z">
-        <seg>若買方需比較類別 b) 與類別 a) 和 c) 之間的變壓器損耗 (不同絕緣系統及不同平均繞組溫度上升) it is necessary for the reference temperature to be determined according to b&lt;t0/&gt;)2&lt;t1/&gt; above.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132521Z" creationid="CCYU" creationdate="20140927T132241Z">
+        <seg>若買方需比較類別 b) 與類別 a) 和 c) 之間的變壓器損耗 (不同絕緣系統及不同平均繞組溫度上升)，參考溫度必須依上述 b)2 決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12452,6 +12452,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161222Z" creationid="CCYU" creationdate="20140922T161222Z">
         <seg>若買方要求變壓器之負載電流音量等級量測測試或變壓器總噪音 (包含負載噪音) 等級保證，必須於詢問時提出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the purchaser wishes to make such a comparison, he shall state this in the tender inquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132636Z" creationid="CCYU" creationdate="20140927T132636Z">
+        <seg>若買方欲進行比較時應於投標詢價時說明。</seg>
       </tuv>
     </tu>
     <tu>
