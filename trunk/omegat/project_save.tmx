@@ -29738,6 +29738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the impedance value is &lt;10 % ±15 % of the specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084740Z" creationid="CCYU" creationdate="20140927T084740Z">
+        <seg>當阻抗值 &lt; 指定值 10 % ± 15 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the impedance value is ≥ 10 % ±7,5 % of the specified value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084612Z" creationid="CCYU" creationdate="20140927T084612Z">
@@ -29748,8 +29756,8 @@
       <tuv lang="EN-US">
         <seg>When the impedance value is ≥ ±10 % of the specified value</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084649Z" creationid="CCYU" creationdate="20140927T084649Z">
-        <seg>當阻抗值 ≥ 指定值 10 % ± 10 %</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084715Z" creationid="CCYU" creationdate="20140927T084649Z">
+        <seg>當阻抗值 ≥ 指定值 ± 10 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -30482,6 +30490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a specified second pair of separate windings in a multi-winding transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084855Z" creationid="CCYU" creationdate="20140927T084855Z">
+        <seg>多繞組變壓器指定分離繞組第二對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140601Z" creationid="CCYU" creationdate="20140918T140601Z">
@@ -30802,6 +30818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>an auto-connected pair of winding, or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084804Z" creationid="CCYU" creationdate="20140927T084804Z">
+        <seg>自藕繞組對，或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>an increase of sound level;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072924Z" creationid="CCYU" creationdate="20140927T072924Z">
@@ -30828,8 +30852,8 @@
       <tuv lang="EN-US">
         <seg>any other tapping of the pair</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084449Z" creationid="CCYU" creationdate="20140927T084449Z">
-        <seg>其他抽頭</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084924Z" creationid="CCYU" creationdate="20140927T084449Z">
+        <seg>同對中其他抽頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -31574,6 +31598,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025736Z" creationid="CCYU" creationdate="20140920T025736Z">
         <seg>全功率抽頭 (full-power tapping)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>further pairs of windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084941Z" creationid="CCYU" creationdate="20140927T084941Z">
+        <seg>其他抽頭對</seg>
       </tuv>
     </tu>
     <tu>
@@ -34001,6 +34033,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083847Z" creationid="CCYU" creationdate="20140927T083847Z">
         <seg>主抽頭實際阻抗百分比 ±1/10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>±10 % of the specified value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084951Z" creationid="CCYU" creationdate="20140927T084951Z">
+        <seg>指定值 ±10 %</seg>
       </tuv>
     </tu>
     <tu>
