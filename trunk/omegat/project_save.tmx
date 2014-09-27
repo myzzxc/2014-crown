@@ -14328,6 +14328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not intended that any type tests, including the temperature rise test, would need to be repeated solely as a result of chan&lt;t0/&gt;ging the reference temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T133101Z" creationid="CCYU" creationdate="20140927T133101Z">
+        <seg>將不進行包含溫度上升測試之任何測試，只需於當參考溫度改變時重複進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must not be installed in flooded holes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T042944Z">
@@ -15932,6 +15940,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040305Z" creationid="CCYU" creationdate="20140920T040305Z">
         <seg>註 1 雙繞組變壓器只有一種繞組組合及一組負載損耗數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 For existing designs, the conversion between losses at alternative reference temperatures is performed by calculation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132805Z" creationid="CCYU" creationdate="20140927T132756Z">
+        <seg>註 1 對於現有設計，於替代參考溫度之損耗轉換以計算方式進行，</seg>
       </tuv>
     </tu>
     <tu>
