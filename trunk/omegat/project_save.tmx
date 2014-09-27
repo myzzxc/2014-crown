@@ -5787,6 +5787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centre of gravity marking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075331Z" creationid="CCYU" creationdate="20140927T075331Z">
+        <seg>重心標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change all contaminated clothing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083053Z" creationid="CCYU" creationdate="20140809T083053Z">
