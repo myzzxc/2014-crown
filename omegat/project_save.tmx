@@ -7797,6 +7797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dielectric routine tests (IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152135Z" creationid="CCYU" creationdate="20140927T152135Z">
+        <seg>絕緣體例行測試 (IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z" creationid="CCYU" creationdate="20140927T035339Z">
@@ -14656,6 +14664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leak testing with pressure for liquid-immersed transformers (tightness test) (11.8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152221Z" creationid="CCYU" creationdate="20140927T152221Z">
+        <seg>油浸式變壓器加壓洩漏測試 (11.8)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Least Square Gauss Fit is similar to the 3-point Gauss Fit but uses all eight points surrounding the maximum.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025553Z" creationid="CCYU" creationdate="20140914T025553Z">
@@ -15372,6 +15388,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083604Z" creationid="CCYU" creationdate="20140927T083604Z">
         <seg>對其他抽頭之量測電壓比，同一對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of no-load loss and current (11.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152059Z" creationid="CCYU" creationdate="20140927T152059Z">
+        <seg>空載損耗和電流量測 (11.5)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of voltage ratio and check of phase displacement (11.3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152004Z" creationid="CCYU" creationdate="20140927T152004Z">
+        <seg>電壓比量測和相位移檢查 (11.3)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24057,6 +24089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tests on on-load tap-changers, where appropriate (11.7).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152157Z" creationid="CCYU" creationdate="20140927T152157Z">
+        <seg>加載抽頭開關測試，如適用 (11.7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tests other than temperature rise tests shall be made at an external cooling medium temperature between 10 &lt;t0/&gt;°C&lt;t1/&gt; and 40 &lt;t2/&gt;°C&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090649Z" creationid="CCYU" creationdate="20140927T090616Z">
@@ -31334,6 +31374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132301Z" creationid="CCYU" creationdate="20140927T131742Z">
         <seg>c) 油浸式變壓器具有其他額定繞組平均溫度上升時，參考溫度等於額定繞組平均溫度上升 + 20 °C，或繞組額定平均溫度上升+ 外部冷媒年均溫，取較高者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c), Measurement of short-circuit impedance and load loss (11.4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152038Z" creationid="CCYU" creationdate="20140927T152038Z">
+        <seg>c) 短路阻抗和負載損耗量測 (11.4)。</seg>
       </tuv>
     </tu>
     <tu>
