@@ -12480,6 +12480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer cannot be mounted in its intended operating condition for testing (for example if the transformer is fitted with test-turrets and test-bushings or the arrangement of cooling equipment cannot be mounted in the in-service position, during the relevant factory test), an agreement shall be found between manufacturer and purchaser before the commencement of tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125304Z" creationid="CCYU" creationdate="20140927T125228Z">
+        <seg>若變壓器無反安裝於其預期操作條件下 (例如於工廠射測試期間，變壓器裝有測試回轉台及測試套筒，或冷卻設備之配置無法裝於操作位置)，製造商與買方於進行測試前應有協議 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer has more than one set of ratings, depending upon different connections windings which have been specifically allowed for in the design, the additional ratings shall be given on the rating plate, or separate rating plates shall be fitted for each set.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021925Z" creationid="CCYU" creationdate="20140927T021925Z">
