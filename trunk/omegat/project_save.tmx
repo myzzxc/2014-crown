@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;DC current to magnetize the core and on the core design.&lt;t1/&gt; The resulting effects are a function of the magnitude and duration of the DC current, core type and general transformer design features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073441Z" creationid="CCYU" creationdate="20140927T073441Z">
+        <seg>直流電流磁化鐵心的能力與鐵心之設計。產生之效果受直流電流的強度與持續時間、鐵心類型及一般變壓器設計特點影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Defects in material or workmanship will be removed&lt;t1/&gt; &lt;t2/&gt;free of charge&lt;t3/&gt; &lt;t4/&gt;within the warranty&lt;t5/&gt; &lt;t6/&gt;period.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074626Z">
