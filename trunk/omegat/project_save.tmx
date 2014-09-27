@@ -7805,10 +7805,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of capacitances windings-to-earth, and between windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160802Z" creationid="CCYU" creationdate="20140927T160802Z">
+        <seg>繞組-接地和繞組間之電容測定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of sound level (IEC 60076-10) for each method of cooling for which a guaranteed sound level is specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154113Z" creationid="CCYU" creationdate="20140927T154113Z">
         <seg>對於各冷卻方法指定保證音量之音量測定 (IEC 60076-10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determination of transient voltage transfer characteristics (Annex B of IEC 60076-3:2000).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160926Z" creationid="CCYU" creationdate="20140927T160926Z">
+        <seg>暫態電壓輸送特性測定 (IEC 60076-3:2000 附錄 B)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7841,6 +7857,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152135Z" creationid="CCYU" creationdate="20140927T152135Z">
         <seg>絕緣體例行測試 (IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dielectric special tests (IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160726Z" creationid="CCYU" creationdate="20140927T160726Z">
+        <seg>絕緣體特殊測試 (IEC 60076-3)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15452,6 +15476,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152926Z" creationid="CCYU" creationdate="20140927T152910Z">
         <seg>繞組-接地和繞組間之直流絕緣電阻量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of dissipation factor (tan 5) of the insulation system capacitances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160808Z" creationid="CCYU" creationdate="20140927T160808Z">
+        <seg>絕緣系統電容之功耗因數 (tan δ) 量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30470,6 +30502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135933Z" creationid="CCYU" creationdate="20140922T135933Z">
         <seg>繞組連接及相位數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winding hot-spot temperature-rise measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160752Z" creationid="CCYU" creationdate="20140927T160752Z">
+        <seg>繞組熱點溫度上升量測。</seg>
       </tuv>
     </tu>
     <tu>
