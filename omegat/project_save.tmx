@@ -13248,6 +13248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information to be given in all cases</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015656Z" creationid="CCYU" creationdate="20140927T015656Z">
+        <seg>所有情況下皆需提供的資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Infrared Solutions for the Steel Industry</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012328Z" creationid="JUDY" creationdate="20140827T012328Z">
@@ -24097,6 +24105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entries on the plate shall be indelibly marked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015631Z" creationid="CCYU" creationdate="20140927T015631Z">
+        <seg>銘牌上之內容應為無法抹除之標記。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The equation for the cross-correlation is:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090839Z" creationid="CCYU" creationdate="20140913T090839Z">
@@ -25605,6 +25621,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144702Z" creationid="CCYU" creationdate="20140924T144617Z">
         <seg>變壓器設計應能承受上述負載條件下之電壓和電通量而不損壞 (包含所有指定之超載條件)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall be provided with a rating plate of weatherproof material, fitted in a visible position, showing the appropriate items indicated below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015507Z" creationid="CCYU" creationdate="20140927T015507Z">
+        <seg>變壓器應設有以防水材料製成之額定銘牌，設於可見位置，並包含以下資訊。</seg>
       </tuv>
     </tu>
     <tu>
