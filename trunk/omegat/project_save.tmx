@@ -16080,6 +16080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For yearly average external cooling medium temperatures significantly different than 20 °C, the actual losses experienced in service may be different than the losses derived at the reference temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T133248Z" creationid="CCYU" creationdate="20140927T133248Z">
+        <seg>註 2 外部冷媒年平均溫度遠大於 20 °C ，實際運作損耗可能與由參考溫度所計算之數值不同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 If an enquiry contains a specification of not only the impedance at the principal tapping but also its variation across the tapping range, this can impose an important restriction on the design of the transformer (the arrangement of the windings in relation to each other and their geometry).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T125746Z" creationid="CCYU" creationdate="20140925T125746Z">
@@ -24293,6 +24301,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200349Z" creationid="Judy" creationdate="20140823T200349Z">
         <seg>正功大於負功之絕對值，使輸出至引擎軸正淨功增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The actual losses experienced in service will depend on both the load and temperature profile.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T133352Z" creationid="CCYU" creationdate="20140927T133352Z">
+        <seg>實際運作損耗取決於負載和溫度數據。</seg>
       </tuv>
     </tu>
     <tu>
