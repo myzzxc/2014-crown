@@ -24961,6 +24961,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The magnetizing current becomes strongly asymmetrical and will have a high harmonic content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072848Z" creationid="CCYU" creationdate="20140927T072848Z">
+        <seg>勵磁電流將變得極度不對並具有較高的諧波含量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The major function of a regenerative channel is to pre-heat the gas during the injection phase of the expansion chamber and to pre-cool the gas during the injection phase of the compression chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T192516Z" creationid="Judy" creationdate="20140823T115052Z">
@@ -25317,6 +25325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135059Z">
         <seg>在設計圖中註明錨固位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The possible consequences are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072901Z" creationid="CCYU" creationdate="20140927T072901Z">
+        <seg>可能造成下列影響：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29390,6 +29406,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025335Z" creationid="CCYU" creationdate="20140927T025335Z">
         <seg>當電壓器將安裝於高海拔地區時，其海拔高度、額定功率以及該海拔之溫度上升皆需依以下所列之一標示於銘牌上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a transformer is subjected to DC currents in the neutral, a DC magnetization bias of the magnetic circuit will result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072727Z" creationid="CCYU" creationdate="20140927T072727Z">
+        <seg>當變壓器中性點有電流時，將造成磁路之直流磁化偏差，</seg>
       </tuv>
     </tu>
     <tu>
