@@ -30202,6 +30202,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>accessibility of live parts;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034457Z" creationid="CCYU" creationdate="20140927T034457Z">
+        <seg>接觸通電零件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>accessibility of moving parts;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034513Z" creationid="CCYU" creationdate="20140927T034513Z">
+        <seg>接觸活動零件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>accessibility to parts with high temperatures;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034424Z" creationid="CCYU" creationdate="20140927T034424Z">
+        <seg>接觸高溫零件；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>according to EN 1992-1-1:2004+AC:2010 for good bond conditions (for all other bond conditions multiply the values by 0.7)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090438Z">
@@ -31390,6 +31414,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082618Z">
         <seg>水平標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lifting and handling provisions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034546Z" creationid="CCYU" creationdate="20140927T034546Z">
+        <seg>吊掛及搬運規範；</seg>
       </tuv>
     </tu>
     <tu>
