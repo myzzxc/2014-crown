@@ -29042,6 +29042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a transformer is intended for installation at high altitude, the altitude, power rati&lt;t0/&gt;ng&lt;t1/&gt; and temperature rise at that altitude shall be indicated on the nameplate to&lt;t2/&gt;gether with o of the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025335Z" creationid="CCYU" creationdate="20140927T025335Z">
+        <seg>當電壓器將安裝於高海拔地區時，其海拔高度、額定功率以及該海拔之溫度上升皆需依以下所列之一標示於銘牌上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When combined with oil, it makes the floors an absolute nightmare.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114456Z" creationid="CCYU" creationdate="20140817T114359Z">
@@ -30190,6 +30198,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040241Z">
         <seg>c 	安裝後鋼筋的混凝土保護層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c) Guaranteed maximum temperature rises of top liquid and windings (if not normal values)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025050Z" creationid="CCYU" creationdate="20140927T025050Z">
+        <seg>c) 保證填充液體與繞組最大溫度上升量 (若非正常值)</seg>
       </tuv>
     </tu>
     <tu>
