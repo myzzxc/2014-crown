@@ -10078,6 +10078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For multi-winding transformers, any restriction on power-loading combinations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T031912Z" creationid="CCYU" creationdate="20140927T031912Z">
+        <seg>多繞組變壓器對電力負載組合之任何限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformers, the purchaser shall specify the required power-loading combinations, stating, when necessary, the active and reactive outputs separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113949Z" creationid="CCYU" creationdate="20140921T113949Z">
@@ -10331,6 +10339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130744Z" creationid="CCYU" creationdate="20140923T130744Z">
         <seg>變壓器繞組對於設備之最高電壓大於 (&gt;) 72.5 kV 時，買方應指定是否於繞組使用任何中性端子直接接地，若不不直接接地，買方應指明中性端子之 Um。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers equipped with winding temperature indicators (WTI), the settings for each WTI.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T032008Z" creationid="CCYU" creationdate="20140927T032008Z">
+        <seg>對於裝有繞組溫度指示器 (WTI) 之變壓器，每組 WTI 之設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28486,6 +28502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121457Z" creationid="CCYU" creationdate="20140817T121457Z">
         <seg>重型設備維修 &amp; 庫房</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum &lt;t0/&gt;withstand&lt;t1/&gt; capability of the tank, conservator, tap-changers and cooling equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T031845Z" creationid="CCYU" creationdate="20140927T031845Z">
+        <seg>水箱、儲油槽、抽頭開關以及冷卻設備之真空承受度。</seg>
       </tuv>
     </tu>
     <tu>
