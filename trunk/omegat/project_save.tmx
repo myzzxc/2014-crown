@@ -6831,8 +6831,8 @@
       <tuv lang="EN-US">
         <seg>Consideration shall be given to the long term performance of items such as:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033702Z" creationid="CCYU" creationdate="20140927T033702Z">
-        <seg>對於長期效能應考慮之事項如：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034120Z" creationid="CCYU" creationdate="20140927T033702Z">
+        <seg>對於長期效能應注意之事項如：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20657,6 +20657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety considerations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034137Z" creationid="CCYU" creationdate="20140927T034108Z">
+        <seg>安全注意事項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety data sheet in accordance with 1907/2006/EC</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051358Z" creationid="MAE" creationdate="20140808T051358Z">
@@ -24833,6 +24841,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The manufacturer shall consider the safety of operators and maintenance staff in the design of the transformer in particular the following aspects:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034235Z" creationid="CCYU" creationdate="20140927T034235Z">
+        <seg>製造商於變壓器的設計上應考慮操作員和維修人員之安全，特別是以下幾方面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The manufacturer will choose the arrangement of windings, the winding or windings that &lt;t0/&gt;are&lt;t1/&gt; tapped.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144026Z" creationid="CCYU" creationdate="20140924T144026Z">
@@ -27868,8 +27884,8 @@
       <tuv lang="EN-US">
         <seg>Transformer manufacturers shall consider the effective containment of the liquid of the transformer and take effective measures to prevent leakage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033618Z" creationid="CCYU" creationdate="20140927T033618Z">
-        <seg>變壓器製造商應慎重考慮有效的變壓器液體裝載方式並採取有效的防止洩漏措施。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034129Z" creationid="CCYU" creationdate="20140927T033618Z">
+        <seg>變壓器製造商應慎重注意有效的變壓器液體裝載方式並採取有效的防止洩漏措施。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27886,6 +27902,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135833Z" creationid="CCYU" creationdate="20140921T135833Z">
         <seg>直接連接至發電機之變壓器可能有卸除負載的情況，此情況下連接至發電機之端子應該能承受 1,4 倍之額定電壓 5 秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers shall be designed to be leak free and any leakage found on site at the end of commissioning shall be corrected by the responsible supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034053Z" creationid="CCYU" creationdate="20140927T034053Z">
+        <seg>變壓器之設計應無洩漏，且於保固期內於現場發生之任何洩漏應由負責供應商修復。</seg>
       </tuv>
     </tu>
     <tu>
