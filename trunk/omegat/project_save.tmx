@@ -24481,6 +24481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 12R loss (R being &lt;t0/&gt;d.c.&lt;t1/&gt; resistance) is taken as varying directly with the temperature and all other losses inversely with the temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021114Z" creationid="CCYU" creationdate="20140928T021114Z">
+        <seg>I2R 損耗 (R 為直流電阻) 直接隨溫度變化且所有其他損耗與溫度成反比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;Ircon&lt;t1/&gt; Sensors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043713Z" creationid="JUDY" creationdate="20140827T043713Z">
@@ -25925,6 +25933,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T020425Z" creationid="CCYU" creationdate="20140928T020402Z">
         <seg>負載損耗量測值應將測試電流乘以額定電流 (抽頭電流) 比之平方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measurement of winding resistance shall be made according to 11.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021213Z" creationid="CCYU" creationdate="20140928T021156Z">
+        <seg>繞組溫度量測應依據 11.2 進行，</seg>
       </tuv>
     </tu>
     <tu>
