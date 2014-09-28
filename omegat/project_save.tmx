@@ -3811,6 +3811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the transformer has been under liquid without excitation for at least 3 h, the average liquid temperature shall be determined and the temperature of the winding shall be deemed to be the same as the average liquid temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012607Z" creationid="CCYU" creationdate="20140928T012607Z">
+        <seg>變壓器已裝載液體並斷電 3 小時以上後，方可測定平均液體溫度且繞組溫度應視為與平均液體溫度相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After-Market Auto &amp; Trucking Large Manufacturing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164836Z" creationid="CCYU" creationdate="20140816T164836Z">
@@ -24861,6 +24869,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144327Z" creationid="CCYU" creationdate="20140926T144327Z">
         <seg>自藕繞組為星形連接，而三次繞組為三角連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The average liquid temperature is taken as the mean of the top and bottom liquid temperatures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012713Z" creationid="CCYU" creationdate="20140928T012713Z">
+        <seg>平均液體溫度為頂部液體與底部液體溫度之平均。</seg>
       </tuv>
     </tu>
     <tu>
