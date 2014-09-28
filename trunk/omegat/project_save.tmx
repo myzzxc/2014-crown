@@ -4715,6 +4715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any errors and external circuit losses should be minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T024153Z" creationid="CCYU" creationdate="20140928T024153Z">
+        <seg>應將任何誤差和外部電路損耗降至最低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any inability of the manufacturer to perform the test or measurement at the rated frequency shall be stated by the manufacturer at the tender stage and appropriate conversion factors agreed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151431Z" creationid="CCYU" creationdate="20140927T151431Z">
@@ -16524,6 +16532,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042627Z" creationid="CCYU" creationdate="20140921T042627Z">
         <seg>註 2 以高壓繞組相量為參考點，其他繞組之相位移一般以 '時鐘標記法' 表示，高壓繞組相量位於 12 點鐘方向 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 The measurement of load loss on a large transformer requires considerable care and good measuring equipment because of the low power factor and the often large test currents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T024117Z" creationid="CCYU" creationdate="20140928T024117Z">
+        <seg>註 2 大型變壓器之負載損耗量測需特別注意與良好的量測設備，因其具有低功率係數和較大的測試電流，</seg>
       </tuv>
     </tu>
     <tu>
