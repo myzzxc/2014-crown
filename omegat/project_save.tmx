@@ -19588,8 +19588,8 @@
       <tuv lang="EN-US">
         <seg>Pressure deflection test on liquid immersed •transformers (11.10).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161213Z" creationid="CCYU" creationdate="20140927T161213Z">
-        <seg>油浸式變壓器壓力偏轉 (11.10)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100747Z" creationid="CCYU" creationdate="20140927T161213Z">
+        <seg>油浸式變壓器壓力變形 (11.10)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30390,16 +30390,16 @@
       <tuv lang="EN-US">
         <seg>Vacuum deflection test for liquid immersed transformers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100215Z" creationid="CCYU" creationdate="20140928T100215Z">
-        <seg>油浸式變壓器真空偏轉測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100742Z" creationid="CCYU" creationdate="20140928T100215Z">
+        <seg>油浸式變壓器真空變形測試</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vacuum deflection test on liquid immersed transformers (11.9).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161157Z" creationid="CCYU" creationdate="20140927T161157Z">
-        <seg>油浸式變壓器真空偏轉測試 (11.9)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100730Z" creationid="CCYU" creationdate="20140927T161157Z">
+        <seg>油浸式變壓器真空變形測試 (11.9)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31264,6 +31264,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T061301Z" creationid="CCYU" creationdate="20140817T061301Z">
         <seg>當油和水混合時，&lt;t3/&gt; SaveSorb &lt;t4/&gt; 將油從水中分離並封鎖住，不外滲回到水中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where specified the deflection of the tank when vacuum is applied and the permanent deflection of the tank when the vacuum is released shall be measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100936Z" creationid="CCYU" creationdate="20140928T100936Z">
+        <seg>當有指明時，應量測油槽於真空下變形與破除真空後油槽之永久變形。</seg>
       </tuv>
     </tu>
     <tu>
