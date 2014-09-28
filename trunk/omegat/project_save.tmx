@@ -12930,6 +12930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no agreement, a pressure of at least 30 &lt;t0/&gt;kPa&lt;t1/&gt; over the normal liquid pressure shall be applied and maintained for 24 h for transformers greater than 20 MVA or 72,5 kV, and 8 h for transformers of lower rating and voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095821Z" creationid="CCYU" creationdate="20140928T095821Z">
+        <seg>若無協議，應以至少高於一般液體壓力 30 kPa 之壓力進行測試，大於 20 MVA 或 72,5 kV 之變壓器需維持 24 小時，而額定功率和電壓較低之變壓器需維持 8 小時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If these requirements are not maintained, the application has to be renewed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045233Z">
@@ -29768,6 +29776,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153835Z" creationid="CCYU" creationdate="20140927T153835Z">
         <seg>型式測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, this is applied either using a liquid column or gas pressure in the conservator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095954Z" creationid="CCYU" creationdate="20140928T095954Z">
+        <seg>通常壓力以液壓或氣壓施加於儲油槽中，</seg>
       </tuv>
     </tu>
     <tu>
