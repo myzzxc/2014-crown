@@ -16802,6 +16802,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 An additional zero-sequence impedance test may be required for transformers with delta windings with two connections to one corner brought out so that it can be either open or closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T093728Z" creationid="CCYU" creationdate="20140928T093728Z">
+        <seg>註 3 含有三角繞組且其中一角有兩連接因而可為開路或閉路之變壓器，可能需要額外零序阻抗測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For a single phase transformer not intended to be connected to form a three phase bank, the rated current is</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015704Z" creationid="CCYU" creationdate="20140920T015704Z">
@@ -16926,6 +16934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105043Z" creationid="CCYU" creationdate="20140921T105043Z">
         <seg>註 5 變壓器可在不超過電流諧波含量 5% 下以額定電流運轉而不會大幅減少壽命，然而應注意所有諧波負載會使溫度上升且可能超過額定上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;4 Further guidance&lt;t1/&gt; is given in IEC 60076-8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T093821Z" creationid="CCYU" creationdate="20140928T093821Z">
+        <seg>註 4 額外的指示說命收錄於 IEC 60076-8 中。</seg>
       </tuv>
     </tu>
     <tu>
