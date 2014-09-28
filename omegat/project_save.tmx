@@ -25665,6 +25665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The impedance is corrected to reference temperature assuming that the reactance is constant and that the &lt;t2/&gt;a.c&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022040Z" creationid="CCYU" creationdate="20140928T022040Z">
+        <seg>阻抗對參考溫度校正時假設電抗為定值且由負載損耗所得之交流電阻如上述變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The indications given on the working life cannot be interpreted as a guarantee given by the producer, but are to be regarded only as a means for choosing the right products in relation to the expected economically reasonable working life of the works&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120644Z">
@@ -33622,6 +33630,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141659Z" creationid="CCYU" creationdate="20140917T141629Z">
         <seg>以修訂版取代，或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resistance derived from the load loss varies as described above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022044Z" creationid="CCYU" creationdate="20140928T022044Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
