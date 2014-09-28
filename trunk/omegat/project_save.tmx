@@ -12585,6 +12585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not, remedial actions, for example adding additional stiffening to the tank, shall be carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104039Z" creationid="CCYU" creationdate="20140928T104039Z">
+        <seg>若不穩定，If not, remedial actions, for example adding additional stiffening to the tank, shall be carried out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If required use brush extension.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z">
@@ -12726,6 +12734,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135059Z" creationid="CCYU" creationdate="20140817T135059Z">
         <seg>無論引擎被拆除或仍留在原處，皆能在引擎室中自由地使用我們的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the expected values are exceeded, the test shall be repeated to see if the tank dimensions have stabilized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104042Z" creationid="CCYU" creationdate="20140928T104024Z">
+        <seg>若超出期望值，應重複測試確定油槽尺寸已經穩定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32468,6 +32484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>b) large power transformers (with plain tank walls), above 100 MVA:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103911Z" creationid="CCYU" creationdate="20140928T103911Z">
+        <seg>b) 大功率變壓器 (具有平面油槽壁)，超過 100 MVA：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>biological conditions 4B1;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110848Z" creationid="CCYU" creationdate="20140921T110848Z">
@@ -34008,6 +34032,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103754Z" creationid="CCYU" creationdate="20140928T103754Z">
         <seg>破除真空後之永久變形：1 mm；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>permanent deflection after vacuum is released: 5 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103921Z" creationid="CCYU" creationdate="20140928T103921Z">
+        <seg>破除真空後之永久變形：5 mm。</seg>
       </tuv>
     </tu>
     <tu>
