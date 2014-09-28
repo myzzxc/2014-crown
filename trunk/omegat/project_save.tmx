@@ -10158,6 +10158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a three-phase transformer, the selection of the winding and the connection to the test power source shall be made to provide, as far as possible, symmetrical and sinusoidal voltages across the three phases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055107Z" creationid="CCYU" creationdate="20140928T055107Z">
+        <seg>對於三相變壓器，繞組和連接至測試電源之選擇應盡可能提供於三相間對稱和正弦電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For additional information see IEC 60076-2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132807Z" creationid="CCYU" creationdate="20140921T132807Z">
