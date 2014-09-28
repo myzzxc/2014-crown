@@ -14632,6 +14632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z" creationid="CCYU" creationdate="20140928T070447Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It must not be installed in flooded holes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T042944Z">
@@ -27601,6 +27609,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The zero-sequence impedance is measured at rated frequency between the line terminals of a star-connected or zigzag-connected winding connected together, and its neutral terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070445Z" creationid="CCYU" creationdate="20140928T070445Z">
+        <seg>零序阻抗於額定頻率下，星形連接或交錯連接繞組相連接，量測線路端子之間和中性端子的阻抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ﬁrst step of any CFD simulation is to determine a proper grid and time step interval to obtain grid and time-step independent solutions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151932Z" creationid="Judy" creationdate="20140820T151932Z">
@@ -32694,6 +32710,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125301Z" creationid="CCYU" creationdate="20140918T125301Z">
         <seg>防爆型與礦用變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>expressed in ohms per phase and is given by 3U, where U is the test voltage and 1 is the test current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070606Z" creationid="CCYU" creationdate="20140928T070606Z">
+        <seg>以每相歐姆表示，其值為 3U，其中 U 為測試電壓而 I 為測試電流。</seg>
       </tuv>
     </tu>
     <tu>
