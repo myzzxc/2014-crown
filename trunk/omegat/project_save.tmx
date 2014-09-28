@@ -15784,6 +15784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement of zero-sequence impedance(s) on three-phase transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070051Z" creationid="CCYU" creationdate="20140928T070051Z">
+        <seg>三相變壓器之零序阻抗量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of zero-sequence impedance(s) on three-phase transformers (11.6).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161009Z" creationid="CCYU" creationdate="20140927T161009Z">
@@ -24613,6 +24621,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T061807Z">
         <seg>感謝您對我們的信任並恭喜您！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That means, if no-load tests are carried out after resistance measurements and/or lightning impulse tests, the core of the transformer should be demagnetized by &lt;t0/&gt;overexcitation&lt;t1/&gt; before the no-load test is carried out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070045Z" creationid="CCYU" creationdate="20140928T065854Z">
+        <seg>也就是若空載測試於電阻量測和光脈衝測試之後進行，變壓器鐵心應於空載測試前進行勵磁以消磁。</seg>
       </tuv>
     </tu>
     <tu>
