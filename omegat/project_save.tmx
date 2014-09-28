@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For selection of tapping for the test, see 6.5 and 6.6).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T014856Z" creationid="CCYU" creationdate="20140928T014856Z">
+        <seg>(測試抽頭之選擇，請見 6.5 和 6.6)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(German &lt;t0/&gt;VwVwS&lt;t1/&gt; of &lt;t2/&gt;July  27&lt;t3/&gt;, 2005 )</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104719Z" creationid="CCYU" creationdate="20140809T104719Z">
@@ -26605,6 +26613,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T135712Z" creationid="CCYU" creationdate="20140923T135621Z">
         <seg>抽頭範圍和抽頭級標示出變壓器比之變化範圍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The short-circuit impedance and load loss for a pair of windings shall be measured at rated frequency with voltage applied to the terminals of one winding, with the terminals of the other winding short-circuited, and with possible other windings open-circuited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T014817Z" creationid="CCYU" creationdate="20140928T014817Z">
+        <seg>一對繞組之短路阻抗和負載損耗應於額定頻率下量測，施加電壓至一繞組之端子，另一繞組端子短路，其他繞組開路。</seg>
       </tuv>
     </tu>
     <tu>
