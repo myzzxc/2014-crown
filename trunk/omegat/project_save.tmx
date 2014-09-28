@@ -30650,6 +30650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Winding &lt;t0/&gt;resistance and winding temperature shall be measured at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012139Z" creationid="CCYU" creationdate="20140928T012118Z">
+        <seg>繞組電阻和繞組溫度應於同一時間量測，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Winding connection and number of phases</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135933Z" creationid="CCYU" creationdate="20140922T135933Z">
