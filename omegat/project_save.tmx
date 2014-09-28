@@ -25921,6 +25921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measured value of load loss shall be multiplied with the square of the ratio of rated current (tapping current) to test current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T020425Z" creationid="CCYU" creationdate="20140928T020402Z">
+        <seg>負載損耗量測值應將測試電流乘以額定電流 (抽頭電流) 比之平方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measurements shall be performed quickly so that temperature rises do not cause significant errors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015130Z" creationid="CCYU" creationdate="20140928T015130Z">
