@@ -26513,6 +26513,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The resulting figure shall then be corrected to reference temperature (11.1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T020913Z" creationid="CCYU" creationdate="20140928T020913Z">
+        <seg>所得到的結果應對參考溫度校正 (11.1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resulting normalized correlation plane C(s) indicates the “degree of match” between the test and search (I2) patch over the &lt;t0/&gt;offset range in the domain of s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092348Z" creationid="CCYU" creationdate="20140913T092133Z">
