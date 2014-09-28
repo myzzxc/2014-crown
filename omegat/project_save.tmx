@@ -11415,6 +11415,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HV with LV &lt;t0/&gt;open&lt;t1/&gt; circuit; HV with LV short circuit; LV with HV open circuit;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085218Z" creationid="CCYU" creationdate="20140928T085218Z">
+        <seg>高電壓搭配低電壓開路 ；
+高電壓搭配低電壓短路；
+低電壓搭配高電壓開路；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammer drilling (HD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041853Z">
@@ -14892,6 +14902,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125759Z" creationid="CCYU" creationdate="20140919T125759Z">
         <seg>LV 繞組*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LV with HV short circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085236Z" creationid="CCYU" creationdate="20140928T085236Z">
+        <seg>低電壓搭配高電壓短路。</seg>
       </tuv>
     </tu>
     <tu>
