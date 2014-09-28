@@ -10638,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For tanks that are specifically designed to be flexible for liquid expansion (corrugated), leak and lifetime tests need to be agreed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100203Z" creationid="CCYU" creationdate="20140928T100203Z">
+        <seg>對於特殊彈性設計可供液體膨脹之油槽 (波紋式)，洩漏與壽命需依雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For terms and definitions relating to insulation, see IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054035Z" creationid="CCYU" creationdate="20140920T054035Z">
@@ -27939,6 +27947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thereafter, the entire transformer shall be visually inspected for leaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100028Z" creationid="CCYU" creationdate="20140928T100028Z">
+        <seg>接著目測檢查整個變壓器有無洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thereby, the series winding and the common winding together form one measuring circuit, and the common winding alone forms the other.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090000Z" creationid="CCYU" creationdate="20140928T085733Z">
@@ -30352,6 +30368,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T031845Z" creationid="CCYU" creationdate="20140927T031845Z">
         <seg>水箱、儲油槽、抽頭開關以及冷卻設備之真空承受度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum deflection test for liquid immersed transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100215Z" creationid="CCYU" creationdate="20140928T100215Z">
+        <seg>油浸式變壓器真空偏轉測試</seg>
       </tuv>
     </tu>
     <tu>
