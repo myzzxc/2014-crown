@@ -4099,6 +4099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative equivalent methods of measurement may be used and additional measurements on the opposite side of the transformer may be required to compensate for tank movement during the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103348Z" creationid="CCYU" creationdate="20140928T103348Z">
+        <seg>可使用等效替代量測方法，且可能需要於變壓器另一側進行額外量測以補償油槽於測試中的位移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively maximum and minimum impedances in terms of z or Z may be specified for each tapping across the whole tapping range.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130408Z" creationid="CCYU" creationdate="20140925T130408Z">
