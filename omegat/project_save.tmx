@@ -5467,6 +5467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before vacuum is applied, a suitable measuring reference point, attached rigidly to the test room structure or floor, independent of the transformer shall be established as close as possible to the point on the tank where the maximum deflection under vacuum is expected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101541Z" creationid="CCYU" creationdate="20140928T101541Z">
+        <seg>抽真空之前，應量測緊貼於測試間結構或地面之參考點，與變壓器分離之參考點應盡可能靠近油槽於真空下預期之最大變形點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berlin, Germany</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014315Z" creationid="JUDY" creationdate="20140827T014315Z">
