@@ -12952,6 +12952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If winding balancing ampere-turns are missing in the zero-sequence system, for example, in a star-star-connected transformer without delta winding, the applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083610Z" creationid="CCYU" creationdate="20140928T083610Z">
+        <seg>若零續系統中缺乏繞組平衡電流匝，例如無三角連接繞組之 Y-Y 連接變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If workplace exposure limits are exceeded, a respiration protection approved for this particular job must be worn.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015057Z" creationid="CCYU" creationdate="20140807T132534Z">
@@ -25417,6 +25425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current in the neutral and the duration of application should be limited to avoid excessive temperatures of metallic constructional - parts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083804Z" creationid="CCYU" creationdate="20140928T083804Z">
+        <seg>應限制中性點之電流與持續時間以避免金屬結構零件溫度過高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050804Z" creationid="MAE" creationdate="20140808T050804Z">
@@ -35121,6 +35137,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055452Z" creationid="CCYU" creationdate="20140928T055452Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage shall not exceed the phase-to-neutral voltage at normal operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083651Z" creationid="CCYU" creationdate="20140928T083651Z">
+        <seg>一般運作下，施加電壓不應超過相-接地電壓。</seg>
       </tuv>
     </tu>
     <tu>
