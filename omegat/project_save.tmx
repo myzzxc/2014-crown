@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1'1.2.3 Liquid-immersed type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012354Z" creationid="CCYU" creationdate="20140928T012354Z">
+        <seg>11.2.3 油浸式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)&lt;t0/&gt; Calculation of the displacement 6N0 = (5No-factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055447Z" creationid="MAE" creationdate="20140727T055447Z">
@@ -27141,6 +27149,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150652Z" creationid="CCYU" creationdate="20140926T150652Z">
         <seg>所有中或低電壓繞組之繞組連接代號接於其相位移 '時鐘數' 之後 (請見 3.10.6 定義)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winding temperature shall be measured by sensors placed at representative positions, preferably inside the set of windings, for example, in a duct between the high-voltage and low-voltage windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012339Z" creationid="CCYU" creationdate="20140928T012339Z">
+        <seg>繞組溫度應將感測器置於具代表性的位置，最好位於繞組內部，例如位於高壓與低壓繞組之間的管道。</seg>
       </tuv>
     </tu>
     <tu>
