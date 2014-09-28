@@ -5187,6 +5187,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-transformers with a neutral terminal intended to be permanently connected to earth shall be treated as normal transformers with two star-connected windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085735Z" creationid="CCYU" creationdate="20140928T085659Z">
+        <seg>對於中性端子將永久接地之自耦變壓器，視為兩星形連接繞組的一般變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -10162,6 +10170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013644Z">
         <seg>&lt;t0/&gt;公制：&lt;t1/&gt;1 英吋 = 25.4 毫米, 1lbf = 4.448 N, 1 psi = 0.006897 MPa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For YD transformers, the zero sequence impedance is measured from the Y side only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085453Z" creationid="CCYU" creationdate="20140928T085453Z">
+        <seg>對於 YD 變壓器，只量測 Y 側之零序阻抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27831,6 +27847,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z" creationid="CCYU" creationdate="20140817T064000Z">
         <seg>可使用較小的雙桶系統 (20g 包裝或更小的 5g 包裝)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thereby, the series winding and the common winding together form one measuring circuit, and the common winding alone forms the other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085733Z" creationid="CCYU" creationdate="20140928T085733Z">
+        <seg>從而，系列繞線並且共同的纏繞在一起形成一測量電路和其他繞組單獨形式的共同。</seg>
       </tuv>
     </tu>
     <tu>
