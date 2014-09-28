@@ -16592,6 +16592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 In deciding the place of the no-load test in the complete test sequence, it should be borne in mind that no-load loss measurements performed before impulse tests and/or resistance measurements are, in general, representative of the average loss level over long time in service, assuming, that the core is not pre-magnetized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T065746Z" creationid="CCYU" creationdate="20140928T065746Z">
+        <seg>註 2 決定空載測試於完整測試程序中之順序時，應記得空載量測通常於進行脈衝測試和電阻量測之前進行，代表長時間運作之平均損耗水準中假設鐵心未預磁化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Th&lt;t0/&gt;e relevant component standards I&lt;t1/&gt;EC 60137 for bushings and &lt;t2/&gt;IEC &lt;t3/&gt;60214-1 for tap-changers should be consulted for the loading capability of those components.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132235Z" creationid="CCYU" creationdate="20140921T132235Z">
