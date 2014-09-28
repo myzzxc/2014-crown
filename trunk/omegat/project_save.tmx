@@ -13482,6 +13482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular, for a transformer with a zigzag winding the zero sequence impedance measured between line terminals connected together and the neutral may result in a different value to that obtained when a three phase symmetrical voltage is applied and one line terminal is connected to the neutral.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T091106Z" creationid="CCYU" creationdate="20140928T091106Z">
+        <seg>尤其是具有交錯繞組之變壓器，量測相連接之線路端子的零序阻抗，當施加三相對稱電壓而一線路端子連接至中性點時可能造成不同數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In percentage notation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044306Z" creationid="CCYU" creationdate="20140920T044306Z">
