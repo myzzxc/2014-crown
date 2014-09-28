@@ -26595,8 +26595,8 @@
       <tuv lang="EN-US">
         <seg>The results are re-calculated, allocating impedances and losses to individual windings (see IEC 60076-8).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023115Z" creationid="CCYU" creationdate="20140928T023115Z">
-        <seg>重新計算個別繞組之阻抗和損耗結果 (請見 IEC 60076-8)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023200Z" creationid="CCYU" creationdate="20140928T023115Z">
+        <seg>重新計算個別繞組之阻抗和損耗結果 (請見 IEC 60076-8)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29030,6 +29030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T081711Z" creationid="CCYU" creationdate="20140927T081711Z">
         <seg>總損耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total losses for specified loading cases involving all these windings are determined accordingly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023245Z" creationid="CCYU" creationdate="20140928T023158Z">
+        <seg>並依結果決定所有繞組於特定負載情況下之總損耗。</seg>
       </tuv>
     </tu>
     <tu>
