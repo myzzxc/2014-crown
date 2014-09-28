@@ -24699,6 +24699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tests on on-load tap-changers — Operation test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T093848Z" creationid="CCYU" creationdate="20140928T093848Z">
+        <seg>加載抽頭開關測試 — 運作測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tests on on-load tap-changers, where appropriate (11.7).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152157Z" creationid="CCYU" creationdate="20140927T152157Z">
@@ -31384,6 +31392,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070603Z" creationid="CCYU" creationdate="20140817T070418Z">
         <seg>他們有各式機台 (壓縮機、發電機、液壓泵)，必定會有許多經常性的小範圍洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the tap-changer fully assembled on the transformer, the following sequence of operations shall be performed without failure:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094054Z" creationid="CCYU" creationdate="20140928T094054Z">
+        <seg>當抽頭開關完全組裝於變壓器上，應執行下列操作程序無故障：</seg>
       </tuv>
     </tu>
     <tu>
