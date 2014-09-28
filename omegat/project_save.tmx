@@ -5091,6 +5091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the same time, a voltmeter responsive to the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055616Z" creationid="CCYU" creationdate="20140928T055616Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At this date, the publication will be</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141542Z" creationid="CCYU" creationdate="20140917T141542Z">
@@ -34897,6 +34905,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090616Z" creationid="CCYU" creationdate="20140921T090616Z">
         <seg>第 i 個諧波之電壓方均根值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of voltage shall be connected in parallel with the mean-value voltmeter and its indicated voltage U shall be recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055737Z" creationid="CCYU" creationdate="20140928T055737Z">
+        <seg>同時，電壓表對電壓方均根值應與平均值電壓表並聯，並應紀錄其指示電壓 U。</seg>
       </tuv>
     </tu>
     <tu>
