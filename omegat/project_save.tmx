@@ -3035,6 +3035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A larger difference may be acceptable at higher than rated voltage unless this measurement is subject to guarantee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060700Z" creationid="CCYU" creationdate="20140928T060700Z">
+        <seg>除非本量測結果關係到保證，否則高於額定電壓時可接受較大的差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of all parts of the IEC 60076 series can be found, under the general title Power transformers, on the IEC website.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141156Z" creationid="CCYU" creationdate="20140917T141156Z">
@@ -12604,6 +12612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144431Z" creationid="CCYU" creationdate="20140926T144402Z">
         <seg>若三角繞組未連接至三線路端子而僅作為穩定繞組時，將以加號表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the difference between voltmeter readings is larger than 3 %, the validity of the test is subject to agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060519Z" creationid="CCYU" creationdate="20140928T060519Z">
+        <seg>若電壓表之間的讀值差異大於 3 %，該測試的有效性需經雙方協議。</seg>
       </tuv>
     </tu>
     <tu>
