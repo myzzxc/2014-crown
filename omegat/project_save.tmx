@@ -27451,6 +27451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and on all compartments that require vacuum to be applied on-site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101202Z" creationid="CCYU" creationdate="20140928T101202Z">
+        <seg>測試於變壓器組裝完成且所有現場所需之真空腔體皆安裝後進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test voltage shall be adjusted according to a voltmeter responsive to the mean value of voltage but scaled to read the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055445Z" creationid="CCYU" creationdate="20140928T055445Z">
