@@ -10678,6 +10678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For tanks that are specifically designed to be flexible for liquid expansion (corrugated), this test is not applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104354Z" creationid="CCYU" creationdate="20140928T104354Z">
+        <seg>對於特殊彈性設計可供液體膨脹之油槽 (波紋式)，此測試不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For terms and definitions relating to insulation, see IEC 60076-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054035Z" creationid="CCYU" creationdate="20140920T054035Z">
@@ -12587,8 +12595,8 @@
       <tuv lang="EN-US">
         <seg>If not, remedial actions, for example adding additional stiffening to the tank, shall be carried out.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104039Z" creationid="CCYU" creationdate="20140928T104039Z">
-        <seg>若不穩定，If not, remedial actions, for example adding additional stiffening to the tank, shall be carried out.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104157Z" creationid="CCYU" creationdate="20140928T104039Z">
+        <seg>若不穩定，應進行補救措施如油槽額外補強。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19638,6 +19646,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T022348Z">
         <seg>擠壓錨固原料至孔洞底部並於擠壓同時慢慢旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure deflection test for liquid immersed transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104226Z" creationid="CCYU" creationdate="20140928T104226Z">
+        <seg>油浸式變壓器壓力變形</seg>
       </tuv>
     </tu>
     <tu>
@@ -31368,6 +31384,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100936Z" creationid="CCYU" creationdate="20140928T100936Z">
         <seg>當有指明時，應量測油槽於真空下變形與破除真空後油槽之永久變形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where specified, the deflection of the tank when pressure is applied and the permanent deflection of the tank when the pressure is released shall be measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104327Z" creationid="CCYU" creationdate="20140928T104327Z">
+        <seg>當有指明時，應量測油槽加壓下變形與釋放壓力後油槽之永久變形。</seg>
       </tuv>
     </tu>
     <tu>
