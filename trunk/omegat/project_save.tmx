@@ -15026,6 +15026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leak testing with pressure for liquid immersed transformers (tightness test)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095322Z" creationid="CCYU" creationdate="20140928T095322Z">
+        <seg>油浸式變壓器加壓洩漏測試 (密封測試)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leak testing with pressure for liquid-immersed transformers (tightness test) (11.8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152221Z" creationid="CCYU" creationdate="20140927T152221Z">
@@ -35395,6 +35403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042729Z" creationid="CCYU" creationdate="20140921T042729Z">
         <seg>(數字增加代表相位延遲增加)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with one winding short-circuited and, as far as practicable, rated current in the tapped winding, 10 cycles of tap-change operations across the range of two steps on each side from where a coarse or reversing changeover selector operates, or otherwise from the middle tapping (the &lt;t0/&gt;tapchanger&lt;t1/&gt; will pass 20 times through the changeover position).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095244Z" creationid="CCYU" creationdate="20140928T095244Z">
+        <seg>繞組短路且繞組電流盡可能為額定值，抽頭開關由各端之粗調或反轉切換選擇器處橫跨兩級操作 10 次循環，或由抽頭中段 (抽頭切換開關會通過切換位置 20 次)。</seg>
       </tuv>
     </tu>
     <tu>
