@@ -26681,6 +26681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The short-circuit impedance is represented as reactance and &lt;t0/&gt;a.c&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021822Z" creationid="CCYU" creationdate="20140928T021822Z">
+        <seg>短路阻抗以電抗和串聯交流電阻表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sill plate is 2-inch or 3-inch nominal thickness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110039Z">
@@ -26933,6 +26941,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T093431Z" creationid="Judy" creationdate="20140823T093431Z">
         <seg>圖 8(a) 之等溫線圖顯示出壓縮腔體中由於壓縮過程使核心溫度達到 330.0 K，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature correction procedure is detailed in Annex E.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021624Z" creationid="CCYU" creationdate="20140928T021624Z">
+        <seg>詳細溫度校正程序請參閱附錄 E。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33606,6 +33622,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141659Z" creationid="CCYU" creationdate="20140917T141629Z">
         <seg>以修訂版取代，或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resistance in series.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021824Z" creationid="CCYU" creationdate="20140928T021824Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
