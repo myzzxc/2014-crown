@@ -35399,6 +35399,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>with the transformer de-energized, and with the auxiliary voltage reduced to 85 % of its rated value, one complete cycle of operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094432Z" creationid="CCYU" creationdate="20140928T094432Z">
+        <seg>變壓器斷電，輔助電壓降低至其額定值 85 %，一次完整操作循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with the transformer de-energized, eight complete cycles of operation (a cycle of operation goes from one end of the tapping range to the other, and back again).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094442Z" creationid="CCYU" creationdate="20140928T094329Z">
+        <seg>變壓器斷電，八次完整操作循環 (一次操作循環為由抽頭範圍一端移至另一端後再移回原位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>withdrawn,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141600Z" creationid="CCYU" creationdate="20140917T141600Z">
