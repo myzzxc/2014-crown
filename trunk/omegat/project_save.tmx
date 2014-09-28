@@ -10278,6 +10278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For autotransformers and YY transformers, there are several combinations of tests to perform:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T084255Z" creationid="CCYU" creationdate="20140928T084255Z">
+        <seg>對於自藕變壓器與 YY 變壓器，有多種測試組合需執行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For bore holes &lt;t0/&gt;larger than 20 mm or deeper 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002533Z">
