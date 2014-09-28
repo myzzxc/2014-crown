@@ -16368,6 +16368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 For transformers with two secondary windings having the same rated power and rated voltage and equal impedance to the primary (sometimes referred to as 'dual-secondary transformers'), it may be agreed that the symmetrical loading case is investigated by an extra test with both secondary windings short-circuited simultaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023845Z" creationid="CCYU" creationdate="20140928T023845Z">
+        <seg>註 1 對於具有兩個相同額定功率和額定電壓之二次繞組並與一次繞組有相同阻抗之變壓器 (也稱為 '雙二次繞組變壓器')，應協議針對稱負載情況，將兩組二次繞組同時短路進行額外的測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 In a transformer having a tapped winding, the short-circuit impedance is referred to a particular tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043908Z" creationid="CCYU" creationdate="20140920T043908Z">
