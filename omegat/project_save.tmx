@@ -27483,6 +27483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer manufacturer shall perform an agreed test to prove the transformer tank will not leak in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095442Z" creationid="CCYU" creationdate="20140928T095442Z">
+        <seg>變壓器製造商應依協議進行測試以證明變壓器油槽不會於運轉中洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformer shall be able to supply the rated current on the secondary winding of all tapping positions consistent with the above operating conditions, without exceeding the temperature rise requirements defined by IEC 60076-2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144352Z" creationid="CCYU" creationdate="20140924T144352Z">
