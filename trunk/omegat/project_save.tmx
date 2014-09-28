@@ -14664,6 +14664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shall be ensured that the current in the neutral connection is compatible with its current-:` carrying capability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070903Z" creationid="CCYU" creationdate="20140928T070903Z">
+        <seg>必須確認中性連接之電流與其電流承載力相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will, unless otherwise agreed, be the 'maximum current tapping' (which is usually the tapping with the highest load loss).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z" creationid="CCYU" creationdate="20140925T134105Z">
@@ -27261,6 +27269,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z" creationid="CCYU" creationdate="20140927T130307Z">
         <seg>除絕緣測試外的所有特性之測試皆於額定條件下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test current per phase 3 —/ shall be stated in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070736Z" creationid="CCYU" creationdate="20140928T070736Z">
+        <seg>應於測試報告中說明每相測試電流 I/3。</seg>
       </tuv>
     </tu>
     <tu>
