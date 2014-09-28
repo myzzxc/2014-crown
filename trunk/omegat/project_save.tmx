@@ -18992,6 +18992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phase to phase voltages may be derived from phase to ground measurements, but phase to neutral voltages shall not be derived from phase to phase measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060224Z" creationid="CCYU" creationdate="20140928T060224Z">
+        <seg>相對相電壓可由相對地量測所得，但相對中性點電壓不應由相對象量測求得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080746Z" creationid="CCYU" creationdate="20140809T080746Z">
@@ -27165,6 +27173,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055445Z" creationid="CCYU" creationdate="20140928T055445Z">
         <seg>測試電壓應根據電壓表對平均電壓值之響應進行調整，但進行縮放以使正弦波之方均根電壓有相同的平均讀值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test voltage wave shape is satisfactory if the readings U' and U are equal within 3 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060354Z" creationid="CCYU" creationdate="20140928T060354Z">
+        <seg>若 U' 和 U 之讀值差異小於 3 % 則測試電壓波形合格，</seg>
       </tuv>
     </tu>
     <tu>
