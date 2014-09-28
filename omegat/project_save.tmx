@@ -26227,6 +26227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measurements are carried out with a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090007Z" creationid="CCYU" creationdate="20140928T090007Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measurements shall be performed quickly so that temperature rises do not cause significant errors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015130Z" creationid="CCYU" creationdate="20140928T015130Z">
@@ -27853,8 +27861,8 @@
       <tuv lang="EN-US">
         <seg>Thereby, the series winding and the common winding together form one measuring circuit, and the common winding alone forms the other.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085733Z" creationid="CCYU" creationdate="20140928T085733Z">
-        <seg>從而，系列繞線並且共同的纏繞在一起形成一測量電路和其他繞組單獨形式的共同。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090000Z" creationid="CCYU" creationdate="20140928T085733Z">
+        <seg>串聯繞組和共繞組結合成一量測電路，而共繞組形成另一電路。</seg>
       </tuv>
     </tu>
     <tu>
