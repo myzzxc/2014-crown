@@ -15712,6 +15712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurements at other tap positions m&lt;t0/&gt;ay be specified in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022530Z" creationid="CCYU" creationdate="20140928T022530Z">
+        <seg>其他抽頭位置之量測應於詢價時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical resistance and stability (BWR 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112054Z">
