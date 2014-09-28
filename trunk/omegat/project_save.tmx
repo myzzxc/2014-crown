@@ -25257,6 +25257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference in temperature between the top liquid and the bottom liquid shall be small enough to enable the mean temperature to be determined accurately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015332Z" creationid="CCYU" creationdate="20140928T015332Z">
+        <seg>液體頂部與底部溫度差異應夠小以確保平均溫度測定準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different results of six algorithms of peak detection provided from PIV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025011Z" creationid="CCYU" creationdate="20140914T024821Z">
@@ -25901,6 +25909,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151238Z" creationid="CCYU" creationdate="20140927T151238Z">
         <seg>測試之每相繞組最大電壓與最小電壓差異不得大於 3 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measurements shall be performed quickly so that temperature rises do not cause significant errors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015130Z" creationid="CCYU" creationdate="20140928T015130Z">
+        <seg>量測應儘快進行以避免溫度上升造成重大的誤差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26781,6 +26797,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015606Z">
         <seg>本歐洲技術評估主題為遵照鋼筋混凝土施工法規，使用 "連接鋼筋的 Multifix 注膠系統 MF-EX1"，經由錨固或重疊連接接頭，將鋼筋安裝後連接於現有的正常混凝土結構中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The supplied current should be equal to the relevant rated current (tapping current) but shall not be less than 50 % thereof.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015040Z" creationid="CCYU" creationdate="20140928T015040Z">
+        <seg>供應電流應等於對應之額定電流 (抽頭電流) 但不應小於 50 %。</seg>
       </tuv>
     </tu>
     <tu>
