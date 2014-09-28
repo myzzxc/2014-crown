@@ -12287,6 +12287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a voltage measurement is used, the voltages of both windings shall be measured simultaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013324Z" creationid="CCYU" creationdate="20140928T013324Z">
+        <seg>若使用電壓量測，則應同時測量兩繞組之電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an accident occurs in the rain, our absorbent will still work, eliminating the oily sheen that officers will be looking to spot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z" creationid="CCYU" creationdate="20140817T133825Z">
@@ -15628,6 +15636,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154209Z" creationid="CCYU" creationdate="20140927T154209Z">
         <seg>於 90 % 和 110 % 額定電壓下之空載損耗和電流量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of short-circuit impedance and load loss</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013333Z" creationid="CCYU" creationdate="20140928T013333Z">
+        <seg>短路阻抗和負載損耗量測</seg>
       </tuv>
     </tu>
     <tu>
@@ -26153,6 +26169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The polarity of single-phase trans-formers and the connection symbol of three-phase transformers shall be checked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013259Z" creationid="CCYU" creationdate="20140928T013247Z">
+        <seg>應檢查單相變壓器之極性和三相變壓器之連接符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The position of the anchor is indicated on the design drawings (e.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135059Z">
@@ -27163,8 +27187,8 @@
       <tuv lang="EN-US">
         <seg>The voltage ratio shall be measured on each tapping.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013149Z" creationid="CCYU" creationdate="20140928T013149Z">
-        <seg>應量測每繞組之電壓比，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013254Z" creationid="CCYU" creationdate="20140928T013149Z">
+        <seg>應量測每繞組之電壓比。</seg>
       </tuv>
     </tu>
     <tu>
