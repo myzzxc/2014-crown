@@ -24701,8 +24701,8 @@
       <tuv lang="EN-US">
         <seg>Tests on on-load tap-changers — Operation test</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T093848Z" creationid="CCYU" creationdate="20140928T093848Z">
-        <seg>加載抽頭開關測試 — 運作測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094445Z" creationid="CCYU" creationdate="20140928T093848Z">
+        <seg>加載抽頭開關測試 — 操作測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -35411,6 +35411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094442Z" creationid="CCYU" creationdate="20140928T094329Z">
         <seg>變壓器斷電，八次完整操作循環 (一次操作循環為由抽頭範圍一端移至另一端後再移回原位)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>with the transformer energized at rated voltage and frequency at no load, one complete cycle of operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094608Z" creationid="CCYU" creationdate="20140928T094608Z">
+        <seg>變壓器通電處於額定電壓和頻率下且無負載，一次完整操作循環。</seg>
       </tuv>
     </tu>
     <tu>
