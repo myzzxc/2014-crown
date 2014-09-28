@@ -11223,6 +11223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally, these transformers are transported without liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100548Z" creationid="CCYU" creationdate="20140928T100548Z">
+        <seg>通常此類變壓器於無液體的情況下運送。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generators and compressors leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080209Z" creationid="CCYU" creationdate="20140817T080209Z">
@@ -29039,6 +29047,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T025936Z" creationid="CCYU" creationdate="20140913T025936Z">
         <seg>此技術也用於分析顆粒材料受伸展剪力時之位移場 (Chambon 等人，2003年)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test is applicable to transformers designed to be vacuum filled in their own tanks on site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100550Z" creationid="CCYU" creationdate="20140928T100506Z">
+        <seg>此測試適用於買方於現場使用自家真空槽之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
