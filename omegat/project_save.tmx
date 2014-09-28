@@ -12672,6 +12672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the tapping range is asymmetrical, if specified by the purchaser, measurements shall also be made on the middle tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022833Z" creationid="CCYU" creationdate="20140928T022833Z">
+        <seg>抽頭範圍非對稱時，若買方指定，也應量測中間抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range is not symmetrical &lt;t2/&gt;about&lt;t3/&gt; the principal tapping then this shall be indicated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142432Z" creationid="CCYU" creationdate="20140924T142432Z">
@@ -17948,6 +17956,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T140343Z" creationid="CCYU" creationdate="20140911T140343Z">
         <seg>1999 年 9 月 21 日，台灣中部發生了集集大地震，震央位於北緯 23.85°、東經 120.81°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a three-winding transformer, measurements are performed on the three different two-winding combinations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022952Z" creationid="CCYU" creationdate="20140928T022952Z">
+        <seg>對於三繞組變壓器，應量測三種兩繞組組合，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26573,6 +26589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092348Z" creationid="CCYU" creationdate="20140913T092133Z">
         <seg>由此產生的無因次化相關平面 C(s) 顯示測試和搜尋 (I2) 區塊對於 s 域中的偏移範圍之間的 "匹配度"，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results are re-calculated, allocating impedances and losses to individual windings (see IEC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023115Z" creationid="CCYU" creationdate="20140928T023115Z">
+        <seg>重新計算個別繞組之阻抗和損耗結果 (請見 IEC 60076-8)。</seg>
       </tuv>
     </tu>
     <tu>
