@@ -5483,6 +5483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before pressure is applied, whilst the tank is at its normal working liquid level, a suitable measuring reference point, attached rigidly to the test room structure or floor, independent of the transformer shall be established as close as possible to the point on the tank where the maximum deflection under pressure is expected, taking into account the expected deflection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105513Z" creationid="CCYU" creationdate="20140928T105513Z">
+        <seg>加壓前，當油槽處於一般工作液體水準時，應量測緊貼於測試間結構或地面之參考點，與變壓器分離之參考點應盡可能靠近油槽於加壓下預期之最大變形點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before vacuum is applied, a suitable measuring reference point, attached rigidly to the test room structure or floor, independent of the transformer shall be established as close as possible to the point on the tank where the maximum deflection under vacuum is expected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101541Z" creationid="CCYU" creationdate="20140928T101541Z">
@@ -10178,6 +10186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180644Z" creationid="Judy" creationdate="20140818T180644Z">
         <seg>按所在國家、州或地方當局之廢棄物處理規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following the application of the additional pressure, the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105548Z" creationid="CCYU" creationdate="20140928T105548Z">
+        <seg>施加額外壓力，再次量測參考點至油槽壁面的垂直距離，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17862,6 +17878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z">
         <seg>混凝土必須遵守各節 1903 年和 1905 中型散貨箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally the expected deflection under pressure and the permanent deflection shall be calculated and declared by the manufacturer before the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105653Z" creationid="CCYU" creationdate="20140928T105653Z">
+        <seg>通常製造商應於測試前計算並聲明加壓下變形與永久變形，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25683,6 +25707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The deflection under pressure is the difference between this measure&lt;t0/&gt;ment and the first measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105601Z" creationid="CCYU" creationdate="20140928T105601Z">
+        <seg>加壓下之變形量為此量測值與第一次量測直的差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The deflection under vacuum is the difference between this measurement and the first measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T102947Z" creationid="CCYU" creationdate="20140928T102947Z">
@@ -25750,6 +25782,14 @@
         <seg>The distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured an&lt;t0/&gt;d noted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101644Z" creationid="CCYU" creationdate="20140928T101644Z">
+        <seg>應量測並紀錄參考點至油槽壁之垂直距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured and noted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105525Z" creationid="CCYU" creationdate="20140928T105525Z">
         <seg>應量測並紀錄參考點至油槽壁之垂直距離。</seg>
       </tuv>
     </tu>
@@ -26767,6 +26807,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204149Z" creationid="Judy" creationdate="20140823T204149Z">
         <seg>功率可由以下方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pressure shall then be reduced back to the originally established level and a third measurement of the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be taken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105629Z" creationid="CCYU" creationdate="20140928T105629Z">
+        <seg>接著釋放壓力並進行第三次量測參考點至油槽壁面的垂直距離，</seg>
       </tuv>
     </tu>
     <tu>
