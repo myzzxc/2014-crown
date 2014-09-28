@@ -14818,6 +14818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shall be carried out on all separate compartments that contain liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104549Z" creationid="CCYU" creationdate="20140928T104549Z">
+        <seg>必須測試所有裝載液體的箱體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It shall be ensured that the current in the neutral connection is compatible with its current-:` carrying capability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070903Z" creationid="CCYU" creationdate="20140928T070903Z">
@@ -27547,6 +27555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and filled with liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104445Z" creationid="CCYU" creationdate="20140928T104445Z">
+        <seg>測試於變壓器組裝完成並填充液體後進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and on all compartments that require vacuum to be applied on-site.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101202Z" creationid="CCYU" creationdate="20140928T101202Z">
@@ -30240,6 +30256,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160435Z" creationid="CCYU" creationdate="20140922T160435Z">
         <seg>除非另外說明，否則音量等級為無負載運轉下並包含達額定功率操作所需之所有冷卻設備的音量等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the test pressure in the tank shall be 35 &lt;t0/&gt;kPa&lt;t1/&gt; over the normal operating pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104712Z" creationid="CCYU" creationdate="20140928T104617Z">
+        <seg>除另行指定外，油箱中的測試壓力應高於一般操作壓力 35 kPa，</seg>
       </tuv>
     </tu>
     <tu>
