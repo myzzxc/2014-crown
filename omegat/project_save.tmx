@@ -26537,6 +26537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reading of this voltmeter is U'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055515Z" creationid="CCYU" creationdate="20140928T055515Z">
+        <seg>電壓表讀值為 U'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for the elevated gas temperature is due to the heating from the compression of the entire engine volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194131Z" creationid="Judy" creationdate="20140823T194131Z">
@@ -27141,6 +27149,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z" creationid="CCYU" creationdate="20140927T130307Z">
         <seg>除絕緣測試外的所有特性之測試皆於額定條件下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test voltage shall be adjusted according to a voltmeter responsive to the mean value of voltage but scaled to read the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055445Z" creationid="CCYU" creationdate="20140928T055445Z">
+        <seg>測試電壓應根據電壓表對平均電壓值之響應進行調整，但進行縮放以使正弦波之方均根電壓有相同的平均讀值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34913,6 +34929,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050006Z" creationid="CCYU" creationdate="20140920T045949Z">
         <seg>指定負載條件下之電壓降或電壓升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage of a sinusoidal wave having the same mean value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055452Z" creationid="CCYU" creationdate="20140928T055452Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
