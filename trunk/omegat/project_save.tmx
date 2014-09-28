@@ -10751,6 +10751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with tappings exceeding a voltage variation of 5 % from the principal tapping, impedance values shall be measured for the principal tapping and the extreme tapping(s) exceeding 5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022455Z" creationid="CCYU" creationdate="20140928T022303Z">
+        <seg>對於抽頭電壓變化超出主抽頭 5 % 之變壓器，應量測主抽頭和超出 5 % 之極值抽頭阻抗值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with tappings exceeding a voltage variation of ±5 % from the principle tapping, impedance values expressed in terms of Z or z shall be specified for the principal &lt;t0/&gt;tapping and the extreme tapping(s) exceeding 5 %.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084144Z" creationid="CCYU" creationdate="20140927T084144Z">
@@ -17972,6 +17980,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080845Z" creationid="Judy" creationdate="20140823T080845Z">
         <seg>另一方面，當換氣與動力活塞移向彼此，壓縮腔體體積減少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On transformers having a tapped winding with tapping range not exceeding ±5 %, the short-circuit impedance shall be measured on the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022241Z" creationid="CCYU" creationdate="20140928T022241Z">
+        <seg>具有抽頭繞組之變壓器且抽頭範圍不超過 ± 5% 時，短路阻抗應於主抽頭上量測。</seg>
       </tuv>
     </tu>
     <tu>
