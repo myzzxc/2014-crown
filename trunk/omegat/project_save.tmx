@@ -10166,6 +10166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following the application of the vacuum to the level required for the site operation, the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T102847Z" creationid="CCYU" creationdate="20140928T102847Z">
+        <seg>施加與現場操作相同之真空水準，再次量測參考點至油槽壁面的垂直距離，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foot warmer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150456Z">
@@ -25595,6 +25603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The deflection under vacuum is the difference between this measurement and the first measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T102947Z" creationid="CCYU" creationdate="20140928T102947Z">
+        <seg>真空下之變形量為此量測值與第一次量測直的差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The delta winding lags the high-voltage winding by 330°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143444Z" creationid="CCYU" creationdate="20140926T143444Z">
@@ -26599,6 +26615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020521Z">
         <seg>第 3 部分所描述的性能，僅在鋼筋連接符合附件 B 規格條件時適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The permanent deflection is the difference between this measurement and the first measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103102Z" creationid="CCYU" creationdate="20140928T103102Z">
+        <seg>永久變形量為此量測值與第一次量測直的差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27679,6 +27703,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132639Z" creationid="CCYU" creationdate="20140921T132639Z">
         <seg>使用者應指明冷媒 (空氣或水)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vacuum shall then be released and a third measurement of the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be taken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103048Z" creationid="CCYU" creationdate="20140928T103048Z">
+        <seg>接著破除真空並進行第三次量測參考點至油槽壁面的垂直距離，</seg>
       </tuv>
     </tu>
     <tu>
