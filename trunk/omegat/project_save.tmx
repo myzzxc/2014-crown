@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(usually negative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061112Z" creationid="CCYU" creationdate="20140928T061112Z">
+        <seg>(通常為負)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*** Carcinogenicity***</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100212Z" creationid="CCYU" creationdate="20140809T100212Z">
@@ -16440,6 +16448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 It is recognized that the most severe loading conditions for test voltage source accuracy are usually imposed by large single-phase transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061005Z" creationid="CCYU" creationdate="20140928T061005Z">
+        <seg>註 1 為了測試電壓源之精確度，多數高負載條件下通常會使用大型單相變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 See Clause 7 and Annex D.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042230Z" creationid="CCYU" creationdate="20140921T042230Z">
@@ -26053,6 +26069,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151238Z" creationid="CCYU" creationdate="20140927T151238Z">
         <seg>測試之每相繞組最大電壓與最小電壓差異不得大於 3 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measured no-load loss is Pm, and the corrected no load loss is taken as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061101Z" creationid="CCYU" creationdate="20140928T061101Z">
+        <seg>空載損耗量測值為 Pm，而校正空載損耗為：</seg>
       </tuv>
     </tu>
     <tu>
