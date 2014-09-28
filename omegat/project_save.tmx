@@ -26113,6 +26113,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The no-load loss and the no-load current shall be measured on one of the windings at rated frequency and at a voltage corresponding to rated voltage if the test is performed on the principal &lt;t0/&gt;tapping,&lt;t1/&gt; or to the appropriate tapping voltage if the test is performed on another tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054455Z" creationid="CCYU" creationdate="20140928T054455Z">
+        <seg>空載損耗和空載電流應於其中一繞組上於額定頻率下量測，若量測主抽頭時需使用與額定電壓對應之電壓，若測試其他抽頭應使用合適的抽頭電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The nominal bond strength &lt;t7/&gt;&lt;t8/&gt;cr &lt;t9/&gt;must be adjusted by &lt;t10/&gt;α&lt;t11/&gt;N,seis &lt;t12/&gt;as noted in Tables 7 and 10.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095122Z">
