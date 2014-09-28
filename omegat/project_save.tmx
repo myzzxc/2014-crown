@@ -13578,6 +13578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In that case, several measurements at different values of current may give useful information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090458Z" creationid="CCYU" creationdate="20140928T090458Z">
+        <seg>此時，於不同電流值下量測可以獲得有用的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Figures no transverse reinforcement is plotted, the transverse reinforcement shall comply with EN 1992-1-1:20044,&lt;t0/&gt; &lt;t1/&gt;AC&lt;t2/&gt;:2010&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023052Z">
@@ -16726,6 +16734,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z" creationid="CCYU" creationdate="20140920T035610Z">
         <seg>註 2 繞組空載電流通常以繞組額定電流之百分比表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 The zero-sequence impedance is dependent upon the physical disposition of the windings and the magnetic parts, measurements on different windings may therefore not agree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090706Z" creationid="CCYU" creationdate="20140928T090706Z">
+        <seg>註 2 零序阻抗取決於繞組和磁性元件之物理性質，因此不同繞組之量測結果可能不同。</seg>
       </tuv>
     </tu>
     <tu>
