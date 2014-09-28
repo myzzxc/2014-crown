@@ -26577,6 +26577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The remaining winding or windings shall be left open-circuited and any windings which can be connected in open delta shall have the delta closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054643Z" creationid="CCYU" creationdate="20140928T054643Z">
+        <seg>其餘繞組應為開路，且任何能開三角連接之繞組應使三角為閉路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reported landslides are dissimilar to the catastrophic events.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043353Z" creationid="CCYU" creationdate="20140911T130215Z">
@@ -27173,6 +27181,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144352Z" creationid="CCYU" creationdate="20140924T144352Z">
         <seg>變壓器應能對符合上述操作條件的所有抽頭位置之二次繞組供應額定之電流，且不超出 IEC 60076-2 所規範之溫度上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall be approximately at factory ambient temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054907Z" creationid="CCYU" creationdate="20140928T054907Z">
+        <seg>變壓器應大約處於工廠周圍溫度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30806,6 +30822,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081333Z">
         <seg>若依照 ACI 318 D.5.2.6 分析顯示無龜裂，則 &lt;t11/&gt;N&lt;t12/&gt;b&lt;t13/&gt; 必須使用 &lt;t14/&gt;k&lt;t15/&gt;c,uncr&lt;t16/&gt; 和 &lt;t17/&gt;Ψ&lt;t18/&gt;c,N&lt;t19/&gt; = 1.0 計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where indicated in 11.1.2 and 11.1.3, the measurement shall also be made at 90 % and 110 % of rated voltage (or appropriate tapping voltage).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054817Z" creationid="CCYU" creationdate="20140928T054817Z">
+        <seg>如 11.1.2 和 11.1.3 所示，應於 90 % 和 110 % 額定電壓 (或合適的抽頭電壓) 下量測。</seg>
       </tuv>
     </tu>
     <tu>
