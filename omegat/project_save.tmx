@@ -17242,6 +17242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The specified overpressure may conveniently be applied by adjusting the height of a liquid column (for example by lifting a separate conservator attached to a crane).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105252Z" creationid="CCYU" creationdate="20140928T105252Z">
+        <seg>註 可藉由調整水柱高以簡便地達到指定過壓 (例如以起重機提高分離之儲油槽)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The term 'phase winding' should not be used for identifying the assembly of all coils on a specific leg.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z" creationid="CCYU" creationdate="20140919T125334Z">
