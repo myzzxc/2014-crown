@@ -25257,6 +25257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference in temperature between the top and bottom liquid shall not exceed 5 K. To obtain this result more rapidly, the liquid may be circulated by a pump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T020053Z" creationid="CCYU" creationdate="20140928T020053Z">
+        <seg>液體頂部與底部溫度差異應小於 5 K，為了更快速得到此結果，可使用泵讓液體循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The difference in temperature between the top liquid and the bottom liquid shall be small enough to enable the mean temperature to be determined accurately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015332Z" creationid="CCYU" creationdate="20140928T015332Z">
