@@ -15656,6 +15656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement of no-load loss and current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054023Z" creationid="CCYU" creationdate="20140928T054023Z">
+        <seg>空載損耗和電流量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of no-load loss and current (11.5).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152059Z" creationid="CCYU" creationdate="20140927T152059Z">
