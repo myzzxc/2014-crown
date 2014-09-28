@@ -7197,6 +7197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correction for measuring transformer errors and for resistance of the test connections should be applied unless they are obviously negligible (see [EC 60076-8).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T024406Z" creationid="CCYU" creationdate="20140928T024406Z">
+        <seg>應對變壓器誤差量測和測試連接電阻進行校正，除非其明顯可忽略 (請見 IEC 60076-8)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corresponding quantities with analogous meaning, related to other specific tappings, are called tapping quantities (see 3.5.9).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143005Z" creationid="CCYU" creationdate="20140919T143005Z">
