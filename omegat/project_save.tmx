@@ -19674,6 +19674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure relief devices will therefore need to be blanked off during this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105014Z" creationid="CCYU" creationdate="20140928T105014Z">
+        <seg>因此測試期間應封閉洩壓裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prevention</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T163302Z" creationid="Judy" creationdate="20140818T163302Z">
@@ -33456,6 +33464,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065022Z" creationid="CCYU" creationdate="20140927T065022Z">
         <seg>若未指明，製造商應於投標書上標明液體儲存系統，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>if the transformer is fitted with pressure relief devices, the pressure, applied during this test shall exceed the pressure required to operate the pressure relief device by at least 10 &lt;t2/&gt;kPa&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104913Z" creationid="CCYU" creationdate="20140928T104913Z">
+        <seg>若變壓器裝有洩壓裝置，此測試壓力應高於洩壓裝置所需操作壓力至少 10 kPa 以上，</seg>
       </tuv>
     </tu>
     <tu>
