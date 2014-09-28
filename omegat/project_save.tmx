@@ -4115,6 +4115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively the following typical values shall be used:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103645Z" creationid="CCYU" creationdate="20140928T103645Z">
+        <seg>或者應使用下列代表數值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, the impedanc&lt;t8/&gt;e&lt;t9/&gt; may be specified in accordance with one of the methods below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150402Z" creationid="CCYU" creationdate="20140924T150402Z">
@@ -17814,6 +17822,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T071553Z">
         <seg>混凝土必須遵守各節 1903 年和 1905 中型散貨箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally the expected deflection under vacuum and the permanent deflection shall be calculated and declared by the manufacturer before the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103612Z" creationid="CCYU" creationdate="20140928T103612Z">
+        <seg>通常製造商應於測試前計算並聲明真空下變形與永久變形，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32196,6 +32212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a) medium range transformers between 20 MVA and 100 MVA:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103804Z" creationid="CCYU" creationdate="20140928T103720Z">
+        <seg>a) 介於 20 MVA 至 100 MVA 之中型變壓器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a&lt;t0/&gt; &lt;t1/&gt;specified first pair of separate windings in a multi-winding transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084425Z" creationid="CCYU" creationdate="20140927T084425Z">
@@ -33976,6 +34000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061546Z" creationid="MAE" creationdate="20140810T061546Z">
         <seg>完美</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>permanent deflection after vacuum is released: 1 mm;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103754Z" creationid="CCYU" creationdate="20140928T103754Z">
+        <seg>破除真空後之永久變形：1 mm；</seg>
       </tuv>
     </tu>
     <tu>
