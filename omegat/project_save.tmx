@@ -25651,6 +25651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured an&lt;t0/&gt;d noted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101644Z" creationid="CCYU" creationdate="20140928T101644Z">
+        <seg>應量測並紀錄參考點至油槽壁之垂直距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The drill hole must blown out twice with compressed air (oil•free , 87 psi (6 bar)), brushed two times (minimal by hand) starting from the bottom of the hole and then again blown out twice with compressed air (oil.free Z 87psi (6bar)).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021035Z">
