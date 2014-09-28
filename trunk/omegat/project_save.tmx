@@ -26193,6 +26193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The no load losses shall not be corrected for any effect of temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064551Z" creationid="CCYU" creationdate="20140928T064551Z">
+        <seg>空載損耗不對任何溫度的影響進行校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The no-load loss and the no-load current shall be measured on one of the windings at rated frequency and at a voltage corresponding to rated voltage if the test is performed on the principal &lt;t0/&gt;tapping,&lt;t1/&gt; or to the appropriate tapping voltage if the test is performed on another tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054455Z" creationid="CCYU" creationdate="20140928T054455Z">
