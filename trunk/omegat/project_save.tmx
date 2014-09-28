@@ -30666,6 +30666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a three-phase transformer is tested, the voltages shall be measured between line terminals, if a delta-connected winding is energized, and between phase and neutral terminals if a YN or ZN connected winding is energized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060053Z" creationid="CCYU" creationdate="20140928T060053Z">
+        <seg>當測試三相變壓器，若三角連接繞組通電時應量測線路端子間的電壓，若 YN 或 ZN 連接繞組通電時應應量測相和中性端子之間電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a train comes in for service, part of the service usually includes cleaning out the diesel engine containment car.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134355Z" creationid="CCYU" creationdate="20140817T134355Z">
