@@ -13592,6 +13592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of transformers having more than one star-connected winding with neutral terminal, the zero-sequence impedance is dependent upon the connection (see 3.7.3) and the tests to be made shall be subject to agreement between the manufacturer and the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T084135Z" creationid="CCYU" creationdate="20140928T084135Z">
+        <seg>若變壓器中性端子有超過一組星形連接繞組，零序阻抗則取決於連接 (請見 3.7.3) 而所進行之測試應由製造商與買方之間協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the compression chamber, the average temperature ﬂuctuation is within the rage of 20 K. Both average temperature&lt;t4/&gt; &lt;t5/&gt;variations show only one peak and one valley, corresponding to one injection phase and one ejection phase within an engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201506Z" creationid="Judy" creationdate="20140823T201458Z">
