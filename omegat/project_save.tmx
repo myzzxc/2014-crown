@@ -16546,6 +16546,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 In conditions where winding balancing ampere-turns are missing, the relation between voltage and current is generally not linear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090408Z" creationid="CCYU" creationdate="20140928T090408Z">
+        <seg>註 1 當缺少繞組平衡電流匝時，電壓與電流的關係通常非線性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 It is recognized that the most severe loading conditions for test voltage source accuracy are usually imposed by large single-phase transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061005Z" creationid="CCYU" creationdate="20140928T061005Z">
@@ -32528,6 +32536,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104705Z" creationid="Judy" creationdate="20140819T104705Z">
         <seg>換氣活塞曲柄半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current not&lt;t0/&gt; &lt;t1/&gt;exceeding the difference between the rated currents on the low-voltage side and the high-voltage side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090126Z" creationid="CCYU" creationdate="20140928T090126Z">
+        <seg>量測電流不超過低電壓測與高電壓測之額定電流差異。</seg>
       </tuv>
     </tu>
     <tu>
