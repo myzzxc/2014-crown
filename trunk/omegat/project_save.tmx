@@ -13272,6 +13272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In measuring the cold resistance for the purpose of temperature-rise determination, special efforts shall be made to determine the average winding temperature accurately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012856Z" creationid="CCYU" creationdate="20140928T012856Z">
+        <seg>當量測用於決定溫度上升之冷電阻時，必須特別注意以取得精確的平均繞組溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In no case shall &lt;t26/&gt;ℓ&lt;t27/&gt;e &lt;t28/&gt;exceed 8&lt;t29/&gt;d&lt;t30/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080328Z">
@@ -15628,6 +15636,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154148Z" creationid="CCYU" creationdate="20140927T154148Z">
         <seg>風扇液體泵馬達消耗功率量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement of voltage ratio and check of phase displacement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013118Z" creationid="CCYU" creationdate="20140928T013118Z">
+        <seg>電壓比量測和相位移檢查</seg>
       </tuv>
     </tu>
     <tu>
@@ -27145,6 +27161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage ratio shall be measured on each tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013149Z" creationid="CCYU" creationdate="20140928T013149Z">
+        <seg>應量測每繞組之電壓比，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way they operate, they cannot be in a contained system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115537Z" creationid="CCYU" creationdate="20140817T115537Z">
@@ -28565,6 +28589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024025Z" creationid="CCYU" creationdate="20140809T024025Z">
         <seg>Thus, n&lt;t0/&gt;o further toxicological data/&lt;t1/&gt;ecotoxicological&lt;t2/&gt; data are reported. 因此，無進一步的毒理學資料 / 生態毒理學資料報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, the difference in temperature between the top and bottom liquid shall not exceed 5 K. To obtain this result more rapidly, the liquid may be circulated by a pump.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013108Z" creationid="CCYU" creationdate="20140928T013100Z">
+        <seg>因此液體頂部與底部溫度差異應小於 5 K，為了更快速得到此結果，可使用泵讓液體循環。</seg>
       </tuv>
     </tu>
     <tu>
