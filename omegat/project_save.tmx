@@ -10903,6 +10903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers where the core and frame earth connections are not accessible when the transformer is liquid filled, the insulation shall be tested at 500 V &lt;t0/&gt;d.c.&lt;t1/&gt; for 1 min without breakdown before the active part is installed in the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T131606Z" creationid="CCYU" creationdate="20140929T131606Z">
+        <seg>對於填充液體後無法接觸鐵心和外框架接地連接之變壓器，應於所有主動元件安裝於油槽內之前以 500 V 直流電測試 1 分鐘無故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with &lt;t0/&gt;tappings&lt;t1/&gt; exceeding a voltage variation of ±5 % from the principle tapping, impedance values expressed in terms of Z or z shall be specified for the principal &lt;t2/&gt;tapping and the extreme tapping(s) exceeding 5 %.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T123533Z" creationid="CCYU" creationdate="20140925T123533Z">
