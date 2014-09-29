@@ -23803,6 +23803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switching lightly loaded and/or low power factor (inductively loaded) transformers with vacuum and SF6 interrupters may subject the transformer to potentially damaging voltage transients with frequencies up to the MHz range and voltages exceeding the transformer impulse withstand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T133912Z" creationid="CCYU" creationdate="20140929T133912Z">
+        <seg>於低負載或低功率因子 (電感負載) 之變壓器切換真空與 SF6 斷路器可能破壞變壓器之電壓暫態頻率達到 MHz 範圍與電壓超過變壓凸波承受力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switzerland</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080740Z" creationid="CCYU" creationdate="20140809T080740Z">
