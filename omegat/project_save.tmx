@@ -29243,6 +29243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This test is applicable to transformers designed to be vacuum filled in their own tanks on site and transported without liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T125643Z" creationid="CCYU" creationdate="20140929T125643Z">
+        <seg>此測試適用於買方於現場使用自家真空槽且無液體運送之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This test is applicable to transformers designed to be vacuum filled in their own tanks on site.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100550Z" creationid="CCYU" creationdate="20140928T100506Z">
