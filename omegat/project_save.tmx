@@ -10903,6 +10903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers where the core and frame earth connections are accessible when the transformer is liquid filled, the insulation shall be tested at 2 500 V &lt;t0/&gt;d.c.&lt;t1/&gt; for 1 min without breakdown after the transformer is filled with liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T131649Z" creationid="CCYU" creationdate="20140929T131649Z">
+        <seg>對於填充液體後可接觸鐵心和外框架接地連接之變壓器，應於填充液體後以 2500 V 直流電測試 1 分鐘無故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers where the core and frame earth connections are not accessible when the transformer is liquid filled, the insulation shall be tested at 500 V &lt;t0/&gt;d.c.&lt;t1/&gt; for 1 min without breakdown before the active part is installed in the tank.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T131606Z" creationid="CCYU" creationdate="20140929T131606Z">
@@ -19646,6 +19654,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114314Z">
         <seg>電源供應： 220 - 240 V~ 50 Hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power transformers shall be considered as passive elements in respect to emission of, and Immunity to, electromagnetic disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T131924Z" creationid="CCYU" creationdate="20140929T131924Z">
+        <seg>電力變壓器應不發射電磁干擾且不受電磁干擾。</seg>
       </tuv>
     </tu>
     <tu>
