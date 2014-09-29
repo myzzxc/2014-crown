@@ -6436,6 +6436,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check of core and frame insulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130917Z" creationid="CCYU" creationdate="20140929T130917Z">
+        <seg>鐵心和外框架絕緣檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check of external coating (ISO 2178 and ISO 2409 or as specified).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161520Z" creationid="CCYU" creationdate="20140927T161520Z">
@@ -26203,6 +26211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The increase in pressure shall be less than 0&lt;t0/&gt;,2&lt;t1/&gt; &lt;t2/&gt;kPa&lt;t3/&gt; per hour measured over a period of at least 30 min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130834Z" creationid="CCYU" creationdate="20140929T130834Z">
+        <seg>壓力上升量應於維持至少 30 分鐘以上小於每小時 0,2 kPa。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The indications given on the working life cannot be interpreted as a guarantee given by the producer, but are to be regarded only as a means for choosing the right products in relation to the expected economically reasonable working life of the works&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T120644Z">
@@ -27863,6 +27879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132639Z" creationid="CCYU" creationdate="20140921T132639Z">
         <seg>使用者應指明冷媒 (空氣或水)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vacuum inside the transformer shall then be monitored, using a suitable vacuum gauge until a steady rate of change of vacuum is observed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130650Z" creationid="CCYU" creationdate="20140929T130650Z">
+        <seg>接著使用真空計監測電壓器內的真空直到真空變化率穩定，</seg>
       </tuv>
     </tu>
     <tu>
