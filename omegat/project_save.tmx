@@ -16658,6 +16658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Certain &lt;t0/&gt;accessories&lt;t1/&gt; may be susceptible to electromagnetic interference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132029Z" creationid="CCYU" creationdate="20140929T132029Z">
+        <seg>註 1 某些配件可能容易受電磁干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 Design variations that are clearly irrelevant to a particular type test would not require that type test to be repeated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T050443Z" creationid="CCYU" creationdate="20140921T050440Z">
@@ -16870,6 +16878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T065746Z" creationid="CCYU" creationdate="20140928T065746Z">
         <seg>註 2 決定空載測試於完整測試程序中之順序時，應記得空載量測通常於進行脈衝測試和電阻量測之前進行，代表長時間運作之平均損耗水準中假設鐵心未預磁化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 Passive elements are not liable to cause electromagnetic disturbances and their performance is not liable to be affected by such disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132315Z" creationid="CCYU" creationdate="20140929T132124Z">
+        <seg>註 2 被動元件應不產生電磁干擾且其性能不受電磁干擾影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19660,8 +19676,8 @@
       <tuv lang="EN-US">
         <seg>Power transformers shall be considered as passive elements in respect to emission of, and Immunity to, electromagnetic disturbances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T131924Z" creationid="CCYU" creationdate="20140929T131924Z">
-        <seg>電力變壓器應不發射電磁干擾且不受電磁干擾。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132142Z" creationid="CCYU" creationdate="20140929T131924Z">
+        <seg>電力變壓器應視為不發射電磁干擾且不受電磁干擾之被動元件。</seg>
       </tuv>
     </tu>
     <tu>
