@@ -12697,6 +12697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If specified by the purchaser, the manufacturer shall provide details of natural resonant frequencies and/or high frequency model parameters of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T134516Z" creationid="CCYU" creationdate="20140929T134516Z">
+        <seg>若由買方指定，製造商應提供詳細的自然共振頻率和變壓器高頻模型之參數資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If swallowed do not induce vomiting, give large quantities of water to drink.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171440Z" creationid="Judy" creationdate="20140818T171440Z">
@@ -16342,6 +16350,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093233Z" creationid="CCYU" creationdate="20140809T093233Z">
         <seg>Miscible 互溶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitigation measures, while not part of the transformer, might include means to increase damping through resistor-capacitor &lt;t0/&gt;snubbers&lt;t1/&gt;, pre-insertion resistors within the switches, or switching under load.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T134356Z" creationid="CCYU" creationdate="20140929T134356Z">
+        <seg>對應措施，包含藉由電阻-電感減震器增加阻尼、切換開關預先插入電阻、或於負載下切換。</seg>
       </tuv>
     </tu>
     <tu>
