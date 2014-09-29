@@ -3275,6 +3275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A vacuum to the highest level required by the site operation shall be applied for a period of two hours or until a stable vacuum level is obtained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130505Z" creationid="CCYU" creationdate="20140929T130505Z">
+        <seg>施加現場操作所需之最高真空水準兩小時或直到真空準穩定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A very important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061936Z" creationid="MAE" creationdate="20140810T061936Z">
@@ -27855,6 +27863,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132639Z" creationid="CCYU" creationdate="20140921T132639Z">
         <seg>使用者應指明冷媒 (空氣或水)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vacuum pump shall then be stopped and the transformer sealed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130540Z" creationid="CCYU" creationdate="20140929T130540Z">
+        <seg>然後應關閉真空泵並密封變壓器。</seg>
       </tuv>
     </tu>
     <tu>
