@@ -11825,6 +11825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High frequency switching transients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132426Z" creationid="CCYU" creationdate="20140929T132426Z">
+        <seg>高頻切換暫態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High pressure &lt;t0/&gt;waterjet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104216Z" creationid="CCYU" creationdate="20140809T104216Z">
