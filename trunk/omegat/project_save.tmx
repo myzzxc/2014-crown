@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(informative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T135013Z" creationid="CCYU" creationdate="20140929T135013Z">
+        <seg>(參考性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(percent)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103038Z">
@@ -4479,6 +4487,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042325Z" creationid="MAE" creationdate="20140727T042325Z">
         <seg>附件 B5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T134941Z" creationid="CCYU" creationdate="20140929T134941Z">
+        <seg>附錄 A</seg>
       </tuv>
     </tu>
     <tu>
@@ -17270,6 +17286,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024241Z" creationid="CCYU" creationdate="20140920T024241Z">
         <seg>NOTE 若此係數範圍由 100 + a 至 100 - b，則抽頭範圍為：+a %、-b % 或當 a = b 時為 ±a %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE More information is available in IEEE C57.142 Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T134925Z" creationid="CCYU" creationdate="20140929T134925Z">
+        <seg>註 更多的資訊收錄於 IEEE C57.142 變壓器、切換裝置以及系統相互作用引起之切換暫態發生與解決指南 (Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction) 中</seg>
       </tuv>
     </tu>
     <tu>
