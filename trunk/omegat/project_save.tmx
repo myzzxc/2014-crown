@@ -9037,6 +9037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electromagnetic compatibility (EMC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130246Z" creationid="CCYU" creationdate="20140929T130246Z">
+        <seg>電磁相容性 (EMC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elongation, min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
@@ -10186,6 +10194,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180644Z" creationid="Judy" creationdate="20140818T180644Z">
         <seg>按所在國家、州或地方當局之廢棄物處理規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following erection on-site but before liquid filling, the ability of a transformer that requires the application of vacuum for filling or other site operations to hold a vacuum without admitting air shall be demonstrated as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130222Z" creationid="CCYU" creationdate="20140929T130222Z">
+        <seg>於現場安裝，但液體填充前，應證明變壓器滿足以下所需之真空填充能力或其他現場維持真空密封性操作之條件：</seg>
       </tuv>
     </tu>
     <tu>
