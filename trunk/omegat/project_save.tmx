@@ -25709,16 +25709,16 @@
       <tuv lang="EN-US">
         <seg>The deflection under pressure is the difference between this measure&lt;t0/&gt;ment and the first measurement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105601Z" creationid="CCYU" creationdate="20140928T105601Z">
-        <seg>加壓下之變形量為此量測值與第一次量測直的差。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122406Z" creationid="CCYU" creationdate="20140928T105601Z">
+        <seg>加壓下之變形量為此量測值與第一次量測值的差。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The deflection under vacuum is the difference between this measurement and the first measurement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T102947Z" creationid="CCYU" creationdate="20140928T102947Z">
-        <seg>真空下之變形量為此量測值與第一次量測直的差。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122358Z" creationid="CCYU" creationdate="20140928T102947Z">
+        <seg>真空下之變形量為此量測值與第一次量測值的差。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26741,8 +26741,8 @@
       <tuv lang="EN-US">
         <seg>The permanent deflection is the difference between this measurement and the first measurement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103102Z" creationid="CCYU" creationdate="20140928T103102Z">
-        <seg>永久變形量為此量測值與第一次量測直的差。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122402Z" creationid="CCYU" creationdate="20140928T103102Z">
+        <seg>永久變形量為此量測值與第一次量測值的差。</seg>
       </tuv>
     </tu>
     <tu>
