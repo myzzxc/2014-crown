@@ -22779,6 +22779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short-circuit impedance, or impedance range (see Annex C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141351Z" creationid="CCYU" creationdate="20140930T141351Z">
+        <seg>短路阻抗，或阻抗範圍 (請見附件 C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short-circuit withstand test (IEC 60076-5).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161041Z" creationid="CCYU" creationdate="20140927T161041Z">
