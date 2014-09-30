@@ -15098,6 +15098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kind of transformer, for example, separate winding transformer, auto-transformer or series transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124321Z" creationid="CCYU" creationdate="20140930T124321Z">
+        <seg>壓器種類，例如，分離繞組變壓器、自耦變壓器或串聯變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LABEL FOR SUPPLY:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181303Z" creationid="Judy" creationdate="20140818T181303Z">
@@ -19270,6 +19278,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084001Z" creationid="CCYU" creationdate="20140913T084001Z">
         <seg>質點影像測速 (PIV) 為可量測流體截面的暫態速度向量之全流場技術 (Landreth 和 Adrian， 1988 年；Adrian， 1991 年；Lecordier 和 Mouqallid， 1994 年；Rees， 2001 年；Rhoály 等人，2002 年)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particulars of the specifications to which the transformer shall comply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124203Z" creationid="CCYU" creationdate="20140930T124203Z">
+        <seg>變壓器需符合之詳細規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26143,6 +26159,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141928Z" creationid="CCYU" creationdate="20140924T141928Z">
         <seg>買家需於詢價時提供除了第 5 條定義之額定電壓及電流之外的以下資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following information shall be given in all cases:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124057Z" creationid="CCYU" creationdate="20140930T124057Z">
+        <seg>所有情況下皆需提供的資訊</seg>
       </tuv>
     </tu>
     <tu>
