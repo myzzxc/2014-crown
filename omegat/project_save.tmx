@@ -36015,6 +36015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether 'de-energized' or 'on-load' tap-changing is required;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125701Z" creationid="CCYU" creationdate="20140930T125701Z">
+        <seg>需要 '斷電' 或 '負載' 抽頭切換；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether&lt;t0/&gt; maximum current limitation (reduced power &lt;t1/&gt;tappings&lt;t2/&gt;) shall apply,.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
