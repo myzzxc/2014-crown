@@ -10206,6 +10206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fittings required and an indication of the side from which meters, rating plates, liquid-level indicators, etc., shall be legible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T132414Z" creationid="CCYU" creationdate="20140930T132414Z">
+        <seg>固定規範且含儀表、額定銘牌、液面指示等標示側應清晰易讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flammability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093332Z" creationid="CCYU" creationdate="20140809T093332Z">
@@ -30352,6 +30360,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021100Z" creationid="CCYU" creationdate="20140927T021100Z">
         <seg>冷卻類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of liquid preservation system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T132449Z" creationid="CCYU" creationdate="20140930T132449Z">
+        <seg>液體儲存系統類型。</seg>
       </tuv>
     </tu>
     <tu>
