@@ -7125,6 +7125,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection symbol and neutral terminal requirements for each winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131151Z" creationid="CCYU" creationdate="20140930T131151Z">
+        <seg>各繞組連接符號和中性端子規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequential Cost &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130010Z" creationid="CCYU" creationdate="20140817T130010Z">
@@ -14670,6 +14678,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054007Z" creationid="CCYU" creationdate="20140920T054007Z">
         <seg>絕緣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insulation level and dielectric test levels (see IEC 60076-3), for each wind&lt;t0/&gt;ing line and neutral terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131041Z" creationid="CCYU" creationdate="20140930T131041Z">
+        <seg>各繞組線路與中性端子之絕緣等級和介電測試等級 (請見 IEC 60076-3)。</seg>
       </tuv>
     </tu>
     <tu>
