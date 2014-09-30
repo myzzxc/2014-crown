@@ -4851,6 +4851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any particular maintenance requirements or limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T145011Z" creationid="CCYU" creationdate="20140930T145011Z">
+        <seg>任何特定的維護規範和限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any peculiarities of installation, assembly, transport and handling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131322Z" creationid="CCYU" creationdate="20140930T131322Z">
@@ -16486,6 +16494,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T093025Z">
         <seg>最小構件厚度，&lt;t0/&gt;h&lt;t1/&gt;min&lt;t2/&gt;、錨固間距，&lt;t3/&gt;s&lt;t4/&gt;min&lt;t5/&gt;&lt;t6/&gt;和邊距，&lt;t7/&gt;c&lt;t8/&gt;min&lt;t9/&gt;：取代 ACI 318 D.8.1 和 D.8.3 &lt;t10/&gt;，本報告 (表 6 和表 9) 的 &lt;t11/&gt;s&lt;t12/&gt;min &lt;t13/&gt;和 &lt;t14/&gt;c&lt;t15/&gt;min&lt;t16/&gt; 值需遵照錨固設計和安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum acceleration &lt;t0/&gt;withstand&lt;t1/&gt; values if higher than specified in 5.7.4.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144756Z" creationid="CCYU" creationdate="20140930T144756Z">
+        <seg>最低加速承受值，若高於 5.7.4.2 中所規定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30408,6 +30424,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162027Z" creationid="CCYU" creationdate="20140922T162027Z">
         <seg>運輸加速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport and storage conditions not covered by normal conditions described in 5.7.4 and 4 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144908Z" creationid="CCYU" creationdate="20140930T144820Z">
+        <seg>未包含於 5.7.4 和 4 2 中所述之一般情況之運輸和儲存條件。</seg>
       </tuv>
     </tu>
     <tu>
