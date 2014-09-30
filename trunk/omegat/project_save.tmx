@@ -32100,6 +32100,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whether a disconnection chamber is required for direct cable connections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T145257Z" creationid="CCYU" creationdate="20140930T145257Z">
+        <seg>直接電線連接是否需要斷線腔體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether a stabilizing winding is required and, if so, the method of earthing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141315Z" creationid="CCYU" creationdate="20140930T141315Z">
@@ -32112,6 +32120,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143919Z" creationid="CCYU" creationdate="20140924T143919Z">
         <seg>任何抽頭或抽頭範圍是否為降低功率抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether facilities for condition monitoring are required (see Annex F).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T145350Z" creationid="CCYU" creationdate="20140930T145350Z">
+        <seg>是否需要環境監測設施 (請見附件 F)。</seg>
       </tuv>
     </tu>
     <tu>
