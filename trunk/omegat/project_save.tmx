@@ -20573,8 +20573,8 @@
       <tuv lang="EN-US">
         <seg>Rated power for each winding and, for tapping range exceeding ±5 %, the specified maximum current tapping, if applicable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125007Z" creationid="CCYU" creationdate="20140930T125007Z">
-        <seg>每組繞組之額定功率，以及小於或等於 2500 kVA 之分離繞組變壓器，其抽頭範圍不超過 ± 5%，於所有負抽頭之額定抽頭電流應等於主抽頭之額定電流，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125120Z" creationid="CCYU" creationdate="20140930T125007Z">
+        <seg>每組繞組之額定功率，以及抽頭範圍不超過 ± 5% 之最大抽頭電流，如適用。</seg>
       </tuv>
     </tu>
     <tu>
