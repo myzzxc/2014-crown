@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;If dry-type, degree of protection (see IEC 60529).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124707Z" creationid="CCYU" creationdate="20140930T124707Z">
+        <seg>若為乾式，&lt;t0/&gt;If dry-type, degree of protection (see IEC 60529).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Liability for&lt;t1/&gt; &lt;t2/&gt;direct&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;indirect&lt;t7/&gt; &lt;t8/&gt;consequential losses&lt;t9/&gt; &lt;t10/&gt;caused&lt;t11/&gt; &lt;t12/&gt;by the&lt;t13/&gt; &lt;t14/&gt;unit&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;excluded&lt;t19/&gt; &lt;t20/&gt;even&lt;t21/&gt; &lt;t22/&gt;if the damage to the unit is accepted as a warranty&lt;t23/&gt; &lt;t24/&gt;claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z">
@@ -8581,6 +8589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry-type or liquid-immersed type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124509Z" creationid="CCYU" creationdate="20140930T124509Z">
+        <seg>乾式或油浸式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ductility factor according to CEN/TS 1992-4-5 Section 6.3.2.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z" creationid="MAE" creationdate="20140727T053424Z">
@@ -11071,6 +11087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124446Z" creationid="CCYU" creationdate="20140930T124446Z">
+        <seg>頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the expansion and compression chambers’ point of view, both go through one phase of receiving gas injection from the other chamber and the other phase of gas ejection to the other chamber through the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100030Z" creationid="Judy" creationdate="20140821T100023Z">
@@ -12645,6 +12669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100854Z" creationid="CCYU" creationdate="20140817T100854Z">
         <seg>若存放於油罐區，將會存於油桶內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If liquid-immersed type, whether mineral oil, natural insulating liquid or synthetic insulating liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124648Z" creationid="CCYU" creationdate="20140930T124648Z">
+        <seg>若為油浸式，使用礦物油、天然絕緣液體或合成絕緣液體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18218,6 +18250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of phases in system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124433Z" creationid="CCYU" creationdate="20140930T124433Z">
+        <seg>系統之相數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of phases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020002Z" creationid="CCYU" creationdate="20140927T020002Z">
@@ -22735,6 +22775,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T131906Z" creationid="CCYU" creationdate="20140913T131900Z">
         <seg>因為結果以水平分量表示，如果想要瞭解平行邊坡地床的規模，可乘上此研究區域之地床切線傾角 (19°)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single or three-phase unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124439Z" creationid="CCYU" creationdate="20140930T124358Z">
+        <seg>單相或三相單元。</seg>
       </tuv>
     </tu>
     <tu>
