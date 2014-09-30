@@ -2528,8 +2528,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;If dry-type, degree of protection (see IEC 60529).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124707Z" creationid="CCYU" creationdate="20140930T124707Z">
-        <seg>若為乾式，&lt;t0/&gt;If dry-type, degree of protection (see IEC 60529).</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124735Z" creationid="CCYU" creationdate="20140930T124707Z">
+        <seg>若為乾式，其保護等級 (請見 IEC 60529)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12675,8 +12675,8 @@
       <tuv lang="EN-US">
         <seg>If liquid-immersed type, whether mineral oil, natural insulating liquid or synthetic insulating liquid.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124648Z" creationid="CCYU" creationdate="20140930T124648Z">
-        <seg>若為油浸式，使用礦物油、天然絕緣液體或合成絕緣液體。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124711Z" creationid="CCYU" creationdate="20140930T124648Z">
+        <seg>若為油浸式，其使用礦物油、天然絕緣液體或合成絕緣液體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14206,6 +14206,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083428Z" creationid="CCYU" creationdate="20140809T083428Z">
         <seg>Indication of any immediate medical attention and special treatment needed: 任何需要即時醫療照護和特殊治療的適應症：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indoor or outdoor type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124742Z" creationid="CCYU" creationdate="20140930T124742Z">
+        <seg>室內或室外型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20559,6 +20567,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020025Z" creationid="CCYU" creationdate="20140927T020025Z">
         <seg>額定功率 (單位為 kVA 或 MVA)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated power for each winding and, for tapping range exceeding ±5 %, the specified maximum current tapping, if applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125007Z" creationid="CCYU" creationdate="20140930T125007Z">
+        <seg>每組繞組之額定功率，以及小於或等於 2500 kVA 之分離繞組變壓器，其抽頭範圍不超過 ± 5%，於所有負抽頭之額定抽頭電流應等於主抽頭之額定電流，</seg>
       </tuv>
     </tu>
     <tu>
