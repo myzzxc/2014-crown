@@ -12649,6 +12649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer has alternative winding connections, how they should be changed, and which connection is required ex works.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T142149Z" creationid="CCYU" creationdate="20140930T142149Z">
+        <seg>若變壓器有替代繞組連接，其變更方式以及何組連接需於交貨時施工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a transformer is intended for delivery with liquid/SF6 bushings, by agreement between manufacturer and purchaser the test can be conducted with equivalent liquid/air bushings instead provided that the liquid-immersed end of the test bushing is identical to the service bushing and the service bushing is tested to at least the same level as the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125932Z" creationid="CCYU" creationdate="20140927T125457Z">
@@ -30040,6 +30048,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075539Z" creationid="CCYU" creationdate="20140927T075539Z">
         <seg>公差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerances on voltage ratios and short-circuit impedances as left to agreement in Table 1, or deviating from values given in the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141945Z" creationid="CCYU" creationdate="20140930T141945Z">
+        <seg>如表 1 所協議之電壓比和短路阻抗公差值，或與表中給定值不同之偏差值。</seg>
       </tuv>
     </tu>
     <tu>
