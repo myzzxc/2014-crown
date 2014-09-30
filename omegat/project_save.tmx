@@ -12137,6 +12137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I) Highest voltage for equipment (Um) for each winding line and neutral terminals (with respect to insulation, see IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130804Z" creationid="CCYU" creationdate="20140930T130804Z">
+        <seg>l) 設備 (Um) 每繞組和中性端子之最高電壓 (對應絕緣，請見 IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I) Measurement of frequency response (Frequency Response Analysis or FRA).&lt;t0/&gt; The test procedure shall be agreed between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161415Z" creationid="CCYU" creationdate="20140927T161415Z">
@@ -16254,6 +16262,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021736Z" creationid="CCYU" creationdate="20140809T021736Z">
         <seg>Method Detail 方法內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method of system earthing (for each winding).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130853Z" creationid="CCYU" creationdate="20140930T130853Z">
+        <seg>(各繞組) 系統接地方法。</seg>
       </tuv>
     </tu>
     <tu>
