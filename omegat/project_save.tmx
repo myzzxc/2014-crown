@@ -2518,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;For multi-winding transformers, any impedances that are specified for particular pairs of windings (together with relevant reference ratings if percentage values are given).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141727Z" creationid="CCYU" creationdate="20140930T141703Z">
+        <seg>對於多繞組變壓器，任何特定繞組對指定之阻抗 (以及相關參考額定值，當給定百分比值時)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Helps in cleanup as well.&lt;t1/&gt; Much easier to pull a &lt;t2/&gt;Spillow&lt;t3/&gt; out and replace it than to dump a drip pan into a used oil container and dispose of it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071501Z" creationid="CCYU" creationdate="20140817T071501Z">
