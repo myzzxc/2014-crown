@@ -10678,6 +10678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For multi-winding transformers, required power-loading combinations, stating, when necessary, the active and reactive outputs separately, especially in the case of multi-winding auto-transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T133113Z" creationid="CCYU" creationdate="20140930T133113Z">
+        <seg>多繞組變壓器，買方應指明所需的電力負載組合，在必要時分別標明主動與無功輸出，特別對是使用多繞組自耦變壓器的情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformers, the purchaser shall specify the required power-loading combinations, stating, when necessary, the active and reactive outputs separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113949Z" creationid="CCYU" creationdate="20140921T113949Z">
