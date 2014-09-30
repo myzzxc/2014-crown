@@ -2600,6 +2600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Restrictions on dimensions and mass.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131434Z" creationid="CCYU" creationdate="20140930T131434Z">
+        <seg>尺寸和重量限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;See Figure la.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140659Z" creationid="CCYU" creationdate="20140923T140659Z">
@@ -4815,6 +4823,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T143058Z">
         <seg>任何部分轉載均需如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any peculiarities of installation, assembly, transport and handling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131322Z" creationid="CCYU" creationdate="20140930T131322Z">
+        <seg>安裝、組合、運輸和處理的所有細節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7969,6 +7985,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213536Z" creationid="Judy" creationdate="20140818T213536Z">
         <seg>儘管有這些缺點，史特林引擎技術經過不斷改善產生新一代的高功率 / 重量比、較高功率輸出和高效的引擎；它在未來可能會更受歡迎且更普遍地應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of auxiliary supply voltage (for fans and pumps, tap-changer, alarms, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131548Z" creationid="CCYU" creationdate="20140930T131548Z">
+        <seg>(風扇和泵、抽頭開關、警報等所需) 輔助電源電壓之詳細資訊。</seg>
       </tuv>
     </tu>
     <tu>
