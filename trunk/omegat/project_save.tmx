@@ -4867,6 +4867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any special tests not referred to above which are required by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144359Z" creationid="CCYU" creationdate="20140930T144359Z">
+        <seg>上述未包含之任何買方要求的特殊測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any special tolerances should be indicated in the enquiry, and any revised tolerances agreed upon between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090319Z" creationid="CCYU" creationdate="20140927T090319Z">
@@ -15638,6 +15646,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134216Z" creationid="CCYU" creationdate="20140817T134216Z">
         <seg>散裝產品對於清潔維修區以及火車引擎室中使用是相當理想的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loss evaluation information or maximum losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144422Z" creationid="CCYU" creationdate="20140930T144422Z">
+        <seg>損耗評估資訊或最大損耗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31096,6 +31112,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161242Z" creationid="CCYU" creationdate="20140927T161242Z">
         <seg>油浸式變壓器現場真空密封性測試 (11.11)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacuum withstand of the transformer tank, conservator, and cooling equipment if a specific value is required&lt;t0/&gt;..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144238Z" creationid="CCYU" creationdate="20140930T144238Z">
+        <seg>變壓器水箱、儲油槽、以及冷卻設備之真空承受度，如有指定值。</seg>
       </tuv>
     </tu>
     <tu>
