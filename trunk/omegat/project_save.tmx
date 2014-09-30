@@ -2632,6 +2632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Special installation space restrictions which may influence the insulation clearances and terminal locations on the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144653Z" creationid="CCYU" creationdate="20140930T144653Z">
+        <seg>可能影響絕緣間隙和變壓器上之端子位置的特殊安裝空間限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Standard categories of tapping voltage variation.&lt;t1/&gt; Maximum voltage tapping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T134034Z" creationid="CCYU" creationdate="20140923T134034Z">
@@ -4847,6 +4855,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T131322Z" creationid="CCYU" creationdate="20140930T131322Z">
         <seg>安裝、組合、運輸和處理的所有細節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any physical size limitations, for example for installation on an existing foundation or in a building.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144523Z" creationid="CCYU" creationdate="20140930T144523Z">
+        <seg>任何物理尺寸限制，例如安裝於固有基座上或建築內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22799,6 +22815,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014055Z" creationid="JUDY" creationdate="20140827T014055Z">
         <seg>中國，石路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shipping size and weight limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144700Z" creationid="CCYU" creationdate="20140930T144700Z">
+        <seg>運輸尺寸和重量限制。</seg>
       </tuv>
     </tu>
     <tu>
