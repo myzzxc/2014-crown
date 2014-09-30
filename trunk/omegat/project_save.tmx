@@ -12617,6 +12617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a lightning impulse voltage test is required, and whether or not the test is to include chopped waves (see IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141228Z" creationid="CCYU" creationdate="20140930T141228Z">
+        <seg>若需進行閃電脈衝電壓測試，測試是否包含截波 (請見 IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a purchaser needs to make a comparison between the losses of transformers in category b) with transformers in categories a) and c) (with different insulation systems and with different average winding temperature rises) it is necessary for the reference temperature to be determined according to b&lt;t0/&gt;)2&lt;t1/&gt; above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132521Z" creationid="CCYU" creationdate="20140927T132241Z">
@@ -31968,6 +31976,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163431Z" creationid="CCYU" creationdate="20140913T163431Z">
         <seg>其中 ρpixel 為由影像像素寬所決定之精度誤差，L 為區塊尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether a stabilizing winding is required and, if so, the method of earthing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141315Z" creationid="CCYU" creationdate="20140930T141315Z">
+        <seg>是否需要穩定繞組，若有需要，其接地方法為何。</seg>
       </tuv>
     </tu>
     <tu>
