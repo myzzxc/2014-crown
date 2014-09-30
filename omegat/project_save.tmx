@@ -31862,8 +31862,8 @@
       <tuv lang="EN-US">
         <seg>Which voltage shall vary for the purpose of defining rated tapping &lt;t0/&gt;voltage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143204Z" creationid="CCYU" creationdate="20140924T143204Z">
-        <seg>應以改變何電壓以定義額定抽頭電壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130442Z" creationid="CCYU" creationdate="20140924T143204Z">
+        <seg>應改變何電壓以定義額定抽頭電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33284,6 +33284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>direction&lt;t0/&gt; of power flow (can be both directions);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130331Z" creationid="CCYU" creationdate="20140930T130331Z">
+        <seg>電力傳輸方向 (兩個方向皆可)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dispersion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092451Z" creationid="CCYU" creationdate="20140809T092451Z">
@@ -33844,6 +33852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if the tapping range is more than ±5 %, the type of voltage variation, and the location of the maximum current tapping, if applicable;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130316Z" creationid="CCYU" creationdate="20140930T130316Z">
+        <seg>若抽頭範圍超過 ± 5%，電壓變化類型和最大電流抽頭之位置，如適用；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if the transformer is fitted with pressure relief devices, the pressure, applied during this test shall exceed the pressure required to operate the pressure relief device by at least 10 &lt;t2/&gt;kPa&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104913Z" creationid="CCYU" creationdate="20140928T104913Z">
@@ -34220,6 +34236,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minimum full load power factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130523Z" creationid="CCYU" creationdate="20140930T130523Z">
+        <seg>最低全負載功率因子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>minus tapping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023514Z" creationid="CCYU" creationdate="20140920T023514Z">
@@ -34400,6 +34424,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130832Z" creationid="CCYU" creationdate="20140926T130832Z">
         <seg>或 YNaO+y。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130324Z" creationid="CCYU" creationdate="20140930T130324Z">
+        <seg>或：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36052,6 +36084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
         <seg>是否應使用最大電流限制 (降低功率抽頭)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which voltage shall vary for the purpose of defining rated tapping voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130353Z" creationid="CCYU" creationdate="20140930T130353Z">
+        <seg>應改變何電壓以定義額定抽頭電壓。</seg>
       </tuv>
     </tu>
     <tu>
