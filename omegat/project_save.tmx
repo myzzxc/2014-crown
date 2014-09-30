@@ -10342,6 +10342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a transformer with tappings (see 6.4):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125543Z" creationid="CCYU" creationdate="20140930T125543Z">
+        <seg>具有抽頭之變壓器 (請見 6.4)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For additional information see IEC 60076-2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132807Z" creationid="CCYU" creationdate="20140921T132807Z">
@@ -13070,6 +13078,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162819Z" creationid="CCYU" creationdate="20140922T162819Z">
         <seg>若變壓器用作移動型變壓器，必須於詢問時表明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the transformer is specified with alternative methods of cooling, the respective lower power values are to be stated together with the rated power (which refers to the most efficient cooling).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125424Z" creationid="CCYU" creationdate="20140930T125424Z">
+        <seg>若變壓器指定替代冷卻方法，其較低功率值應與額定功率一同標示 (對應至最高效率冷卻)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20599,6 +20615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135911Z" creationid="CCYU" creationdate="20140921T135911Z">
         <seg>額定電壓和額定的頻率 5.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated voltage for each winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125448Z" creationid="CCYU" creationdate="20140930T125448Z">
+        <seg>每組繞組之額定的電壓。</seg>
       </tuv>
     </tu>
     <tu>
