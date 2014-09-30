@@ -32852,6 +32852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>any requirements for fixing the ratio of turns between two particular windings on a more than two winding transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130002Z" creationid="CCYU" creationdate="20140930T130002Z">
+        <seg>對於兩組以上繞組之變壓器，任何固定兩特定繞組之匝數比之要求；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>arks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z" creationid="CCYU" creationdate="20140808T131551Z">
@@ -35356,6 +35364,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the number of tapping steps and the size of the tapping step or the tapping range; and either:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130153Z" creationid="CCYU" creationdate="20140930T130153Z">
+        <seg>級數與抽頭級或抽頭範圍；
+以及下列之一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the part of the winding of an auto-transformer or the winding of a series transformer which is intended to be connected in series with a circuit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133400Z" creationid="CCYU" creationdate="20140919T133400Z">
@@ -36023,10 +36040,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether any tapping or range of tappings can be reduced power tappings;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130010Z" creationid="CCYU" creationdate="20140930T130010Z">
+        <seg>任何抽頭或抽頭範圍是否為降低功率抽頭；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether&lt;t0/&gt; maximum current limitation (reduced power &lt;t1/&gt;tappings&lt;t2/&gt;) shall apply,.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
         <seg>是否應使用最大電流限制 (降低功率抽頭)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which winding is tapped;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130204Z" creationid="CCYU" creationdate="20140930T130204Z">
+        <seg>抽頭繞組為何；</seg>
       </tuv>
     </tu>
     <tu>
