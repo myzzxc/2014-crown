@@ -8013,6 +8013,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Details of sound-level requirements, guarantees, and special measurements (see IEC 60076-10).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T142501Z" creationid="CCYU" creationdate="20140930T142501Z">
+        <seg>音量等級規範、保證以及特殊量測 (請見 IEC 60076-10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details of the supplier of the safety data sheet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063038Z" creationid="MAE" creationdate="20140807T054636Z">
@@ -22783,6 +22791,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
         <seg>短期混凝土升溫為發生在短時間之內之升溫，例如一天之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short-circuit characteristics of the connected systems (expressed as short-circuit power or current, or system impedance data) and possible limitations affecting the transformer design (see &lt;t0/&gt;IEC&lt;t1/&gt; 60076-5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T142418Z" creationid="CCYU" creationdate="20140930T142418Z">
+        <seg>連些系統之短路特性 (以短路功率或電流、或阻抗資料表示) 以及變壓器設計可能遭遇之限制 (請見 IEC 60076-5).</seg>
       </tuv>
     </tu>
     <tu>
