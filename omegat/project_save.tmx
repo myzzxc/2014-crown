@@ -3307,6 +3307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A.1.1 Normal information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124040Z" creationid="CCYU" creationdate="20140930T124040Z">
+        <seg>A.1.1 一般資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESSORIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z" creationid="JUDY" creationdate="20140827T043113Z">
@@ -6448,6 +6456,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151024Z" creationid="CCYU" creationdate="20140808T151024Z">
         <seg>Check for and remove any contact lenses. 檢查並摘下隱形眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check list of information to be provided with enquiry and order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124012Z" creationid="CCYU" creationdate="20140930T124012Z">
+        <seg>詢價和訂購所需資訊檢查清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -20527,6 +20543,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134149Z" creationid="CCYU" creationdate="20140919T134149Z">
         <seg>額定值 (Rating)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating and general data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124027Z" creationid="CCYU" creationdate="20140930T124027Z">
+        <seg>額定值和一般資料</seg>
       </tuv>
     </tu>
     <tu>
