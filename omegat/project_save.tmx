@@ -15658,6 +15658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load loss at rated current on the principal tapping, corrected to the appropriate&lt;t0/&gt; reference temperature, see 11.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T141016Z" creationid="CCYU" creationdate="20141001T141016Z">
+        <seg>主抽頭於額定電流下之負載損耗，對適當的參考溫度校正，請見 11.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load rejection on transformers directly connected to a generator</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T134828Z" creationid="CCYU" creationdate="20140921T134828Z">
