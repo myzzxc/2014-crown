@@ -15162,6 +15162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be noted that solar-magnetic disturbances can result in telluric currents in transformer neutrals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132259Z" creationid="CCYU" creationdate="20141001T132259Z">
+        <seg>應注意太陽磁場干擾可能於變壓器中性點產生接地電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will, unless otherwise agreed, be the 'maximum current tapping' (which is usually the tapping with the highest load loss).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z" creationid="CCYU" creationdate="20140925T134105Z">
@@ -34324,6 +34332,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>large&lt;t0/&gt; transformers with high-current bus bar arrangements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132412Z" creationid="CCYU" creationdate="20141001T132412Z">
+        <seg>包含大電流匯流端子台之大型變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>length&lt;t0/&gt; of the displacer connection rod (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104014Z" creationid="Judy" creationdate="20140819T104014Z">
@@ -36252,6 +36268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132131Z" creationid="CCYU" creationdate="20141001T132131Z">
         <seg>非正常電壓條件，包括暫態過電壓、共振、切換突波等等，其絕緣設計可能需要特殊考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unusually&lt;t0/&gt; strong magnetic fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132156Z" creationid="CCYU" creationdate="20141001T132156Z">
+        <seg>非正常強磁場，</seg>
       </tuv>
     </tu>
     <tu>
