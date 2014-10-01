@@ -36392,6 +36392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether&lt;t0/&gt; a transformer is to be connected directly or by a short length of overhead line to gas-insulated switchgear (GIS).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125707Z" creationid="CCYU" creationdate="20141001T125707Z">
+        <seg>直接連接至變壓器或使用一小段架空線路接至氣體絕緣切換裝置 (GIS)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether&lt;t0/&gt; a transformer is to be connected to a generator directly or through switchgear, and whether it will be subjected to load rejection conditions and any special load rejection condition&lt;t1/&gt;s&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T124954Z" creationid="CCYU" creationdate="20141001T124954Z">
@@ -36412,6 +36420,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
         <seg>是否應使用最大電流限制 (降低功率抽頭)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether&lt;t0/&gt; transformers will be subjected to frequent &lt;t1/&gt;overcurrents&lt;t2/&gt;, for example, furnace transformers and traction feeding transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125839Z" creationid="CCYU" creationdate="20141001T125839Z">
+        <seg>變壓器是否經常電流過載，例如電爐變壓器和牽引輸送變壓器。</seg>
       </tuv>
     </tu>
     <tu>
