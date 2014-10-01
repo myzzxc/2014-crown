@@ -36384,6 +36384,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether&lt;t0/&gt; a transformer is to be connected to a generator directly or through switchgear, and whether it will be subjected to load rejection conditions and any special load rejection condition&lt;t1/&gt;s&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T124954Z" creationid="CCYU" creationdate="20141001T124954Z">
+        <seg>變壓器直接連接至發電機或經由切換裝置、以及其適用卸除負載條件和任何特殊卸除負載條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether&lt;t0/&gt; load current wave shape will be heavily distorted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125157Z" creationid="CCYU" creationdate="20141001T125125Z">
+        <seg>負載電流波形是否嚴重變形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether&lt;t0/&gt; maximum current limitation (reduced power &lt;t1/&gt;tappings&lt;t2/&gt;) shall apply,.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132404Z" creationid="CCYU" creationdate="20140924T132404Z">
