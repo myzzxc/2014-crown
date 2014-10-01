@@ -33868,6 +33868,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>expected&lt;t0/&gt; seismic activity at the installation site which requires special consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134805Z" creationid="CCYU" creationdate="20141001T134805Z">
+        <seg>安裝現場預期有地震活動，需特殊考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>explosion-proof and mining transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125301Z" creationid="CCYU" creationdate="20140918T125301Z">
