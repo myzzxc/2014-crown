@@ -4309,8 +4309,8 @@
       <tuv lang="EN-US">
         <seg>An example is given in Annex B (example 4).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T144742Z" creationid="CCYU" creationdate="20140924T144742Z">
-        <seg>附件 B 提供了範例 (範例 4)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142452Z" creationid="CCYU" creationdate="20140924T144742Z">
+        <seg>附錄 B 提供了範例 (範例 4)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,6 +4599,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023000Z">
         <seg>附件 A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex B</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142420Z" creationid="CCYU" creationdate="20141001T142420Z">
+        <seg>附錄 B</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +8129,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T161924Z" creationid="CCYU" creationdate="20140927T161924Z">
         <seg>對於量測值小於 1,6 MVA 之變壓器運輸重量測定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagram of connections, or connection symbol, or both.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142237Z" creationid="CCYU" creationdate="20141001T142237Z">
+        <seg>接線圖、或接線符號、或兩者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14820,8 +14836,8 @@
       <tuv lang="EN-US">
         <seg>Instead of items c) and d), tabulation of the same type as used on the rating plate may be used to advantage (see example in Annex B).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132659Z" creationid="CCYU" creationdate="20140924T132659Z">
-        <seg>除了項目 c) 與 d) 外，可使用與額定值銘牌相同的列表 (請見附件 B 之範例)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142447Z" creationid="CCYU" creationdate="20140924T132659Z">
+        <seg>除了項目 c) 與 d) 外，可使用與額定值銘牌相同的列表 (請見附錄 B 之範例)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17100,8 +17116,8 @@
       <tuv lang="EN-US">
         <seg>NOTE 1 See Clause 7 and Annex D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042230Z" creationid="CCYU" creationdate="20140921T042230Z">
-        <seg>註 請參閱第 7 條款和附件 D。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142432Z" creationid="CCYU" creationdate="20140921T042230Z">
+        <seg>註 請參閱第 7 條款和附錄 D。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17614,6 +17630,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122528Z" creationid="CCYU" creationdate="20140921T122528Z">
         <seg>註 各國規範可能有所不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE On multi-winding transformers, supplementary informat&lt;t0/&gt;ion will generally be required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142351Z" creationid="CCYU" creationdate="20141001T142351Z">
+        <seg>註 對於多繞組變壓器，通常需要提供補充資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29157,8 +29181,8 @@
       <tuv lang="EN-US">
         <seg>They may also concern conditions for shipment, storage and installation, such as weight or space limitations (see Annex A).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093314Z" creationid="CCYU" creationdate="20140921T093314Z">
-        <seg>也可能具有運輸、儲存和安裝等重量或空間之限制條件 (請見附件 A) 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142439Z" creationid="CCYU" creationdate="20140921T093314Z">
+        <seg>也可能具有運輸、儲存和安裝等重量或空間之限制條件 (請見附錄 A) 。</seg>
       </tuv>
     </tu>
     <tu>
