@@ -2753,6 +2753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Whether unbalanced three-phase loading is anticipated.&lt;t2/&gt; In both cases, details to be given.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125356Z" creationid="CCYU" creationdate="20141001T125313Z">
+        <seg>是否將使用不平衡三相負載。兩種情況下皆應提供細節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;if&lt;t2/&gt; such a requirement exists, it shall be stated for which &lt;t3/&gt;tappings&lt;t4/&gt;, in addition to the principal tapping, the load losses are to be guaranteed by the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133355Z" creationid="CCYU" creationdate="20140925T133355Z">
@@ -36394,8 +36402,8 @@
       <tuv lang="EN-US">
         <seg>whether&lt;t0/&gt; load current wave shape will be heavily distorted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125157Z" creationid="CCYU" creationdate="20141001T125125Z">
-        <seg>負載電流波形是否嚴重變形。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125316Z" creationid="CCYU" creationdate="20141001T125125Z">
+        <seg>負載電流波形是否嚴重變形，</seg>
       </tuv>
     </tu>
     <tu>
