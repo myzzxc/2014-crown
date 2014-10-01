@@ -15162,6 +15162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be noted that high-current isolated phase bus ducts with accompanying strong magnetic fields may cause unanticipated circulating currents in transformer tanks, covers, and in the bus ducts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132720Z" creationid="CCYU" creationdate="20141001T132720Z">
+        <seg>應注意大電流隔離相匯流座具有強磁場，可能於變壓器油槽、外蓋以及匯流座內產生無法預料的電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should be noted that solar-magnetic disturbances can result in telluric currents in transformer neutrals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132259Z" creationid="CCYU" creationdate="20141001T132259Z">
