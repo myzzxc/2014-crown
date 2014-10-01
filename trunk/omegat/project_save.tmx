@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;informative&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142659Z" creationid="CCYU" creationdate="20141001T142659Z">
+        <seg>(參考性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;tapping&lt;t1/&gt; factor) or &lt;t2/&gt; (tapping factor expressed as a percentage)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111838Z" creationid="CCYU" creationdate="20140921T111838Z">
@@ -232,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>(See Annex C).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130508Z" creationid="CCYU" creationdate="20140925T130508Z">
-        <seg>(請見附件 C)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142535Z" creationid="CCYU" creationdate="20140925T130508Z">
+        <seg>(請見附錄 C)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22981,8 +22989,8 @@
       <tuv lang="EN-US">
         <seg>Short-circuit impedance, or impedance range (see Annex C).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141351Z" creationid="CCYU" creationdate="20140930T141351Z">
-        <seg>短路阻抗，或阻抗範圍 (請見附件 C)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142535Z" creationid="CCYU" creationdate="20140930T141351Z">
+        <seg>短路阻抗，或阻抗範圍 (請見附錄 C)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32262,8 +32270,8 @@
       <tuv lang="EN-US">
         <seg>Whether facilities for condition monitoring are required (see Annex F).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T145350Z" creationid="CCYU" creationdate="20140930T145350Z">
-        <seg>是否需要環境監測設施 (請見附件 F)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142535Z" creationid="CCYU" creationdate="20140930T145350Z">
+        <seg>是否需要環境監測設施 (請見附錄 F)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35150,8 +35158,8 @@
       <tuv lang="EN-US">
         <seg>q) Any particular environmental considerations regarding the impact of the transformer on the environment that shall be taken into account in the transformer &lt;t0/&gt;design,&lt;t1/&gt; see Annex G.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T124129Z" creationid="CCYU" creationdate="20141001T124129Z">
-        <seg>q) 變壓器設計應考量變壓器對於環境的衝擊，請見附件 G。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142535Z" creationid="CCYU" creationdate="20141001T124129Z">
+        <seg>q) 變壓器設計應考量變壓器對於環境的衝擊，請見附錄 G。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35166,8 +35174,8 @@
       <tuv lang="EN-US">
         <seg>r) Any particular health and safety considerations that shall be taken into account in the transformer design regarding manufacture, installation, operation, maintenance and disposal, see Annex G.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T124504Z" creationid="CCYU" creationdate="20141001T124504Z">
-        <seg>r) 變壓器設計應考量所有製造、安裝、操作、維修以及廢棄處置之健康和安全，請見附件 G。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142645Z" creationid="CCYU" creationdate="20141001T124504Z">
+        <seg>r) 變壓器設計應考量所有製造、安裝、操作、維修以及廢棄處置之健康和安全，請見附錄 G。</seg>
       </tuv>
     </tu>
     <tu>
