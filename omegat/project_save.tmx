@@ -15178,6 +15178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be noted that while parallel operation is not unusual, it is advisable that users advise the manufacturer when paralleling with other transformers is planned and identify the transformers involved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T133352Z" creationid="CCYU" creationdate="20141001T133352Z">
+        <seg>應注意雖然並聯操作非不正常條件，仍建議使用者將與其他變壓器並聯時提醒製造商並指明所使用之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will, unless otherwise agreed, be the 'maximum current tapping' (which is usually the tapping with the highest load loss).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z" creationid="CCYU" creationdate="20140925T134105Z">
