@@ -33820,6 +33820,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>excitation&lt;t0/&gt; exceeding either 110 % rated voltage or 110 % rated V / Hz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131636Z" creationid="CCYU" creationdate="20141001T131636Z">
+        <seg>勵磁超過額定電壓的 110 % 或額定 V / Hz 的 110 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>explosion-proof and mining transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125301Z" creationid="CCYU" creationdate="20140918T125301Z">
@@ -34872,6 +34880,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165649Z" creationid="Judy" creationdate="20140818T165649Z">
         <seg>磷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>planned&lt;t0/&gt; short circuits as a part of regular operating or relaying practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131748Z" creationid="CCYU" creationdate="20141001T131748Z">
+        <seg>一般操作或繼電器使用之計畫短路部份。</seg>
       </tuv>
     </tu>
     <tu>
