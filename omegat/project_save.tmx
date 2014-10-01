@@ -33124,6 +33124,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>altitude&lt;t0/&gt; abo&lt;t1/&gt;ve sea-level, if in excess of 1000 m (3&lt;t2/&gt;300 &lt;t3/&gt;ft&lt;t4/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134350Z" creationid="CCYU" creationdate="20141001T134350Z">
+        <seg>海拔高度超過 1000 公尺 (3300 英呎)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>amended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141636Z" creationid="CCYU" creationdate="20140917T141636Z">
@@ -35400,6 +35408,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052035Z" creationid="CCYU" creationdate="20140921T052035Z">
         <seg>特殊測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>special&lt;t0/&gt; external cooling medium temperature conditions, outside the normal range (see 4.2 b)), or restrictions to circulation of cooling air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134612Z" creationid="CCYU" creationdate="20141001T134612Z">
+        <seg>超出正常範圍之特殊外部冷媒溫度條件 (請見 4.2 b)，或冷卻空氣循環限制。</seg>
       </tuv>
     </tu>
     <tu>
