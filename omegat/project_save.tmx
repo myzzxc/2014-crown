@@ -15164,8 +15164,8 @@
       <tuv lang="EN-US">
         <seg>It should be noted that high-current isolated phase bus ducts with accompanying strong magnetic fields may cause unanticipated circulating currents in transformer tanks, covers, and in the bus ducts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132720Z" creationid="CCYU" creationdate="20141001T132720Z">
-        <seg>應注意大電流隔離相匯流座具有強磁場，可能於變壓器油槽、外蓋以及匯流座內產生無法預料的電流，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132832Z" creationid="CCYU" creationdate="20141001T132720Z">
+        <seg>應注意大電流隔離相匯流座具有強磁場，可能於變壓器油槽、外蓋以及匯流座內產生無法預料的電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26835,6 +26835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The losses resulting from these unanticipated currents may result in excessive temperatures when corrective measures are not included in the design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132830Z" creationid="CCYU" creationdate="20141001T132830Z">
+        <seg>若無因應措施，則由此類無法預料之電流造成的損耗可能導致過熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lower gas temperature in the expansion chamber is due to the cooling of gas by the expansion of the entire engine volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194526Z" creationid="Judy" creationdate="20140823T194526Z">
@@ -34824,6 +34832,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142613Z" creationid="CCYU" creationdate="20140807T142613Z">
         <seg>pH&lt;t0/&gt; value 酸鹼值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>parallel&lt;t0/&gt; operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132950Z" creationid="CCYU" creationdate="20141001T132950Z">
+        <seg>並聯操作，</seg>
       </tuv>
     </tu>
     <tu>
