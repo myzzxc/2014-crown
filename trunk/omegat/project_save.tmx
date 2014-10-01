@@ -12897,6 +12897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If parallel operation with existing transformers is required, this shall be stated and the following information on the existing transformers given:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135356Z" creationid="CCYU" creationdate="20141001T135356Z">
+        <seg>若需與現有變壓器並聯操作，應指明並提供以下現有變壓器的資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If required use brush extension.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z">
@@ -19494,6 +19502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104935Z" creationid="CCYU" creationdate="20140809T104935Z">
         <seg>Paraffin wax 石蠟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parallel operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135231Z" creationid="CCYU" creationdate="20141001T135231Z">
+        <seg>並聯操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -33004,6 +33020,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>abnormal&lt;t0/&gt; vibration, tilting, or shock.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135223Z" creationid="CCYU" creationdate="20141001T135223Z">
+        <seg>異常振動、傾斜或衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>absorbent is 100% natural and taken only from renewable bogs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T055351Z" creationid="CCYU" creationdate="20140817T055351Z">
@@ -33576,6 +33600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163539Z" creationid="CCYU" creationdate="20140921T163441Z">
         <seg>侵蝕性煙霧和氣體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>damaging&lt;t0/&gt; fumes of &lt;t1/&gt;vapours&lt;t2/&gt;, excessive or abrasive dust, explosive mixtures of dust or gasses, steam, salt spray, excessive moisture, or dripping water, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135114Z" creationid="CCYU" creationdate="20141001T135114Z">
+        <seg>破壞性的油煙或水汽、過量粉塵、爆炸性粉塵或氣體混和物、蒸氣、鹽霧、過量水汽、或滴水等等。</seg>
       </tuv>
     </tu>
     <tu>
