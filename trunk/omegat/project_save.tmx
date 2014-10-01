@@ -24067,6 +24067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such harmonic currents can cause excessive losses and abnormal heating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131307Z" creationid="CCYU" creationdate="20141001T131307Z">
+        <seg>此類諧波電流會導致過度損耗和異常發熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such standards exist for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132048Z" creationid="CCYU" creationdate="20140918T132048Z">
@@ -34420,6 +34428,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>loads&lt;t0/&gt; involving abnormal harmonic currents such as those that may result where appreciable load currents are controlled by solid-state or similar devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131238Z" creationid="CCYU" creationdate="20141001T131238Z">
+        <seg>包含不正常諧波含量之負載，可能於固態或類似裝置所控制之處造成高負載電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>local&lt;t0/&gt; frame moving velocity components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101427Z" creationid="Judy" creationdate="20140819T105049Z">
@@ -35320,6 +35336,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142846Z" creationid="CCYU" creationdate="20140918T142846Z">
         <seg>指定值 (specified value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specified&lt;t0/&gt; loading conditions (kVA outputs, winding load power factors, and winding voltages) associated with multi-winding &lt;t1/&gt;transformers&lt;t2/&gt; and autotransformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131503Z" creationid="CCYU" creationdate="20141001T131503Z">
+        <seg>多繞組變壓器或自藕變壓器相關之指定負載條件 (kVA 輸出、繞組功率因子以及繞組電壓)。</seg>
       </tuv>
     </tu>
     <tu>
