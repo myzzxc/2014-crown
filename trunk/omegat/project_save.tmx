@@ -13450,6 +13450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impedance on other tappings if available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142158Z" creationid="CCYU" creationdate="20141001T142158Z">
+        <seg>其他抽頭之阻抗，如適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important recommendations concerning your&lt;t0/&gt; &lt;t1/&gt;health</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z">
@@ -22935,6 +22943,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043045Z" creationid="CCYU" creationdate="20140920T043045Z">
         <seg>短路阻抗和電壓降</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short-circuit impedance on the principal tapping and on the extreme tappings, if the voltage on the extreme tappings is more than 5 % different to the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142003Z" creationid="CCYU" creationdate="20141001T142003Z">
+        <seg>主抽頭和極端抽頭之短路阻抗，若極端抽頭與主抽頭之電壓差異超過 5 %。</seg>
       </tuv>
     </tu>
     <tu>
