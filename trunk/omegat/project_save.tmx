@@ -33996,6 +33996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>frequent&lt;t0/&gt; short circuits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134225Z" creationid="CCYU" creationdate="20141001T134225Z">
+        <seg>頻繁短路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>full-power tapping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025736Z" creationid="CCYU" creationdate="20140920T025736Z">
@@ -35180,6 +35188,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>regular&lt;t0/&gt; frequent &lt;t1/&gt;energisation&lt;t2/&gt; in excess of 24 times per year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134213Z" creationid="CCYU" creationdate="20141001T134213Z">
+        <seg>每年定期超過 24 次之頻繁通電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>relay malfunction and false tripping;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072939Z" creationid="CCYU" creationdate="20140927T072939Z">
@@ -35512,6 +35528,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T130503Z" creationid="CCYU" creationdate="20141001T130503Z">
         <seg>偏離正弦波形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>t) Unusual physical environmental conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134247Z" creationid="CCYU" creationdate="20141001T134247Z">
+        <seg>t) 非正常物理環境條件</seg>
       </tuv>
     </tu>
     <tu>
