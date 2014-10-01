@@ -36240,6 +36240,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>unusual&lt;t0/&gt; short-circuit application conditions differing from those in IEC 60076-5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131849Z" creationid="CCYU" creationdate="20141001T131849Z">
+        <seg>與 IEC 60076-5 相異之異常短路應用條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unusual&lt;t0/&gt; voltage conditions including transient &lt;t1/&gt;overvoltages&lt;t2/&gt;, resonance, switching surges, etc. which may require special consideration in insulation design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132131Z" creationid="CCYU" creationdate="20141001T132131Z">
+        <seg>非正常電壓條件，包括暫態過電壓、共振、切換突波等等，其絕緣設計可能需要特殊考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>vPvB&lt;t0/&gt;                    &lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;No.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030322Z" creationid="CCYU" creationdate="20140809T030322Z">
