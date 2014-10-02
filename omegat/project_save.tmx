@@ -11095,6 +11095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this reason only, the voltage variation shall be given as either on the HV or the LV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T150901Z" creationid="CCYU" creationdate="20141002T150901Z">
+        <seg>因此，應給定高壓或低壓之電壓變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this reason, the control unit must not be covered or placed on the foot warmer while the appliance is switched on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145639Z">
