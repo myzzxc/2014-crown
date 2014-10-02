@@ -4251,6 +4251,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, the load current capability may be specified for each tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145817Z" creationid="CCYU" creationdate="20141002T145817Z">
+        <seg>或者於各抽頭指明負載電流承受力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, the user may submit a set of loading cases with values of active and reactive power (clearly indicating the direction of power flow), and corresponding on-load voltages These cases should indicate the extreme values of voltage ratio under full and reduced &lt;t0/&gt;power&lt;t1/&gt; (see "the six-parameter method" of IEC 60076-8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T145406Z" creationid="CCYU" creationdate="20140924T145406Z">
