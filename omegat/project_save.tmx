@@ -9509,6 +9509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 1 — Constant flux voltage variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131115Z" creationid="CCYU" creationdate="20141002T131115Z">
+        <seg>範例 1 — 恆定通量電壓變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142000Z" creationid="CCYU" creationdate="20140926T142000Z">
@@ -9537,6 +9545,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153605Z" creationid="CCYU" creationdate="20140925T153605Z">
         <seg>一邊使用之連接範例及連接圖收錄於附錄 D 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of specifications for transformers&lt;t0/&gt; &lt;t1/&gt;with tappings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T130935Z" creationid="CCYU" creationdate="20141002T130935Z">
+        <seg>含抽頭變壓器規格範例</seg>
       </tuv>
     </tu>
     <tu>
