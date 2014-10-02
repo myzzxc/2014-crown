@@ -9525,6 +9525,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 2 - Variable flux voltage variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132313Z" creationid="CCYU" creationdate="20141002T132313Z">
+        <seg>範例 2 - 可變通量電壓變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142000Z" creationid="CCYU" creationdate="20140926T142000Z">
@@ -28139,6 +28147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tapping current of the HV winding is then limited to 372 A from the tapping -6 % to the extreme tapping -10 % where tapping power is reduced to 38&lt;t0/&gt;,3&lt;t1/&gt; MVA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132234Z" creationid="CCYU" creationdate="20141002T132234Z">
+        <seg>高壓繞組抽頭功率降低至 38,3 MVA 處由抽頭 -6％ 至極端抽頭 -10％，其抽頭電流則限制為 372 A。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tapping quantities are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025512Z" creationid="CCYU" creationdate="20140920T025512Z">
@@ -30511,6 +30527,14 @@
         <seg>Transformer having a 66 kV/20 kV three-phase 40 MVA rating and a ±10 % tapping range on the 66 kV winding, with 11 tapping positions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131410Z" creationid="CCYU" creationdate="20141002T131410Z">
+        <seg>66 kV/20 kV 三相 40 MVA 額定值之變壓器，66 kV 繞組上抽頭範圍為 ±10 %，含有 11 個抽頭位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformer having a 66 kV/6 kV, three-phase 20 MVA rating and a +15 %, -5 % tapping range on the RV winding, but having a constant tapping voltage for the HV winding and a variable tapping voltage for the LV winding, between:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132420Z" creationid="CCYU" creationdate="20141002T132420Z">
         <seg>66 kV/20 kV 三相 40 MVA 額定值之變壓器，66 kV 繞組上抽頭範圍為 ±10 %，含有 11 個抽頭位置。</seg>
       </tuv>
     </tu>
