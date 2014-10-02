@@ -25579,6 +25579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 'tapping current' of the untapped winding (LV) is then limited to 2 020 A from the tapping +5 % to the extreme tapping +15 % where the tapping power is reduced to 18&lt;t0/&gt;,3&lt;t1/&gt; MVA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T135944Z" creationid="CCYU" creationdate="20141002T135944Z">
+        <seg>無抽頭繞組 (LV) 抽頭功率降低至 18,3 MVA 處由抽頭 +5％ 至極端抽頭 +15％，其 '抽頭電流' 則限制為 2020 A。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The 12R loss (R being &lt;t0/&gt;d.c.&lt;t1/&gt; resistance) is taken as varying directly with the temperature and all other losses inversely with the temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021114Z" creationid="CCYU" creationdate="20140928T021114Z">
