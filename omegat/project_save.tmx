@@ -24795,6 +24795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table B.1 — Example of combined voltage variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T142240Z" creationid="CCYU" creationdate="20141002T142240Z">
+        <seg>表 B.1 — 組合電壓變化範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table B1:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141413Z">
@@ -26151,6 +26159,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T143232Z" creationid="CCYU" creationdate="20140923T142531Z">
         <seg>切換點位於正抽頭範圍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The changeover point (maximum voltage tapping), is at +6 %, and there is also a maximum current tapping in the CFVV range at —9 %:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T141945Z" creationid="CCYU" creationdate="20141002T141945Z">
+        <seg>切換點 (最大電壓抽頭) 位於 +6 %，且 CFVV 範圍內也具有最大電流抽頭位於 -9 %：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35832,6 +35848,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131504Z" creationid="CCYU" creationdate="20141002T131504Z">
         <seg>抽頭繞組：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapped&lt;t0/&gt; winding: 160 kV, range ± 10 x 1,5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T142050Z" creationid="CCYU" creationdate="20141002T142050Z">
+        <seg>抽頭繞組：160 kV，範圍 ± 10 x 1,5 %。</seg>
       </tuv>
     </tu>
     <tu>
