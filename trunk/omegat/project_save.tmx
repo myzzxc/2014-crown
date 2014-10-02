@@ -35820,6 +35820,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping +5 %</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T135639Z" creationid="CCYU" creationdate="20141002T135639Z">
+        <seg>抽頭 +5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tapping -6 %</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131854Z" creationid="CCYU" creationdate="20141002T131854Z">
