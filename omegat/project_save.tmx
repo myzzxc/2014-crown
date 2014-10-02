@@ -13434,6 +13434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this transformer shall have reduced power tappings, add for example:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T133109Z" creationid="CCYU" creationdate="20141002T133109Z">
+        <seg>若變壓器需使用降低功率抽頭，加上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this transformer shall have reduced power tappings, say, from tapping -6 %, add:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131836Z" creationid="CCYU" creationdate="20141002T131836Z">
