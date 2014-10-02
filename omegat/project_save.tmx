@@ -26459,6 +26459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference is that the HV tapping voltage, according to the example, does not exceed the 'system highest voltage' of the HV system, which is 170 kV (IEC standardized value).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143347Z" creationid="CCYU" creationdate="20141002T143347Z">
+        <seg>差異為高壓抽頭電壓未超出高電壓系統之 '系統最高電壓'，此範例為 170 kV (IEC 標準化值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different results of six algorithms of peak detection provided from PIV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025011Z" creationid="CCYU" creationdate="20140914T024821Z">
