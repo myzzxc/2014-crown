@@ -23067,6 +23067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short periods of operation at higher LV voltage may be required under load rejection situations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145205Z" creationid="CCYU" creationdate="20141002T145205Z">
+        <seg>卸除負載時需要短時間操作於較高的低電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a results of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
@@ -31168,6 +31176,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131958Z" creationid="CCYU" creationdate="20140924T131958Z">
         <seg>除非另行指定，否則須假設其範圍為對稱主抽頭且抽頭繞組之抽頭級相等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the maximum operating voltage is to be taken as being on any tapping and is an upper limit on the voltage on all windings simultaneously, for example a step down transformer with a +15 % LV tapping and a specified maximum operating voltage of +10 % of rated voltage will not be used at no load on that tapping at HV voltages exceeding —5 % of rated voltage, but on load, the tapping may be used at higher HV voltages to compensate for voltage drop in the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145208Z" creationid="CCYU" creationdate="20141002T145005Z">
+        <seg>除另行指定外，最高操作電壓適用所有抽頭且同時為所有繞組電壓上限，例如降壓變壓器含 +15 % 低壓抽頭及指定最大操作電壓為額定電壓的 +10%，不用於空載時高電壓超出額定電壓的 -5%，而抽頭可能於負載時使用較高的高電壓以補償變壓器之電壓降，</seg>
       </tuv>
     </tu>
     <tu>
