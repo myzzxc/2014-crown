@@ -30548,6 +30548,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer having a 160 kV/20 kV three-phase 40 MVA rating and a ±15 % tapping range on the 160 kV winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T141528Z" creationid="CCYU" creationdate="20141002T141528Z">
+        <seg>160 kV/20 kV 三相 40 MVA 額定值之變壓器，160 kV 繞組上抽頭範圍為 ±15 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformer having a 66 kV/20 kV three-phase 40 MVA rating and a ±10 % tapping range on the 66 kV winding, with 11 tapping positions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131410Z" creationid="CCYU" creationdate="20141002T131410Z">
