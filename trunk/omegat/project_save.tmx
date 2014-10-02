@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>66 kV (tapping range ±10 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131516Z" creationid="CCYU" creationdate="20141002T131516Z">
+        <seg>66 kV (抽頭範圍 ±10 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6&lt;t0/&gt; &lt;t1/&gt;Disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073006Z">
@@ -22971,6 +22979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short notation: (66 ± 5 x 2 %) / 20 kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131421Z" creationid="CCYU" creationdate="20141002T131421Z">
+        <seg>縮寫：(66 ± 5 x 2 %) / 20 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short term elevated concrete temperatures are those that occur over brief intervals, e.g., as a results of diurnal cycling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021459Z">
@@ -30484,6 +30500,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer having a 66 kV/20 kV three-phase 40 MVA rating and a ±10 % tapping range on the 66 kV winding, with 11 tapping positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131410Z" creationid="CCYU" creationdate="20141002T131410Z">
+        <seg>66 kV/20 kV 三相 40 MVA 額定值之變壓器，66 kV 繞組上抽頭範圍為 ±10 %，含有 11 個抽頭位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformer manufacturers shall consider the effective containment of the liquid of the transformer and take effective measures to prevent leakage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034129Z" creationid="CCYU" creationdate="20140927T033618Z">
@@ -33476,6 +33500,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>category&lt;t0/&gt; of voltage variation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131441Z" creationid="CCYU" creationdate="20141002T131441Z">
+        <seg>電壓變化類別：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cathodic&lt;t0/&gt; protection systems;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072315Z" creationid="CCYU" creationdate="20140927T072315Z">
@@ -34876,6 +34908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>number&lt;t0/&gt; of tapping positions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131536Z" creationid="CCYU" creationdate="20141002T131536Z">
+        <seg>抽頭位置數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of &lt;t0/&gt;liquorice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z" creationid="CCYU" creationdate="20140808T134136Z">
@@ -35264,6 +35304,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155215Z" creationid="CCYU" creationdate="20140919T155215Z">
         <seg>額定電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated&lt;t0/&gt; power:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131449Z" creationid="CCYU" creationdate="20141002T131449Z">
+        <seg>額定功率：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated&lt;t0/&gt; voltages:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131455Z" creationid="CCYU" creationdate="20141002T131455Z">
+        <seg>額定電壓：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35696,6 +35752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124705Z" creationid="CCYU" creationdate="20140919T124705Z">
         <seg>抽頭繞組 (tapped winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapped&lt;t0/&gt; winding:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131504Z" creationid="CCYU" creationdate="20141002T131504Z">
+        <seg>抽頭繞組：</seg>
       </tuv>
     </tu>
     <tu>
