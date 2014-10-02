@@ -17082,6 +17082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;On&lt;t1/&gt; completing with data for intermediate tappings, the preceding table can be used on a rating plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T142907Z" creationid="CCYU" creationdate="20141002T142907Z">
+        <seg>註 1 完成中段抽頭三角連接後，可使用上表標示於額定銘牌上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 &lt;t0/&gt;The&lt;t1/&gt; selection of an impedance value by the user is subject to conflicting demands: limitation of voltage drop versus limitation of overcurrent under system fault conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T124510Z" creationid="CCYU" creationdate="20140925T124510Z">
@@ -17254,6 +17262,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143334Z" creationid="CCYU" creationdate="20140924T143334Z">
         <seg>註 2 額定抽頭電壓需針對每組抽頭以阻抗決定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 &lt;t2/&gt;Compare&lt;t3/&gt; this specification and a CFVV specification which would be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143036Z" creationid="CCYU" creationdate="20141002T143025Z">
+        <seg>註 2 將此規格與 CFVV 規格比較為：</seg>
       </tuv>
     </tu>
     <tu>
