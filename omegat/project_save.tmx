@@ -30534,8 +30534,8 @@
       <tuv lang="EN-US">
         <seg>Transformer having a 66 kV/6 kV, three-phase 20 MVA rating and a +15 %, -5 % tapping range on the RV winding, but having a constant tapping voltage for the HV winding and a variable tapping voltage for the LV winding, between:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132420Z" creationid="CCYU" creationdate="20141002T132420Z">
-        <seg>66 kV/20 kV 三相 40 MVA 額定值之變壓器，66 kV 繞組上抽頭範圍為 ±10 %，含有 11 個抽頭位置。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132734Z" creationid="CCYU" creationdate="20141002T132420Z">
+        <seg>66 kV/6 kV 三相 20 MVA 額定值之變壓器，高壓繞組上抽頭範圍為 +15 %、-5％，但高壓繞組具由恆定抽頭電壓而低壓繞組之可變抽頭電壓介於：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35908,6 +35908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tapping&lt;t0/&gt; voltages of 6 kV winding:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132821Z" creationid="CCYU" creationdate="20141002T132821Z">
+        <seg>6 kV 繞組之抽頭電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042041Z" creationid="MAE" creationdate="20140727T042041Z">
@@ -36385,6 +36393,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104736Z" creationid="Judy" creationdate="20140819T104736Z">
         <seg>引擎循環時間區間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132740Z" creationid="CCYU" creationdate="20141002T132740Z">
+        <seg>至</seg>
       </tuv>
     </tu>
     <tu>
