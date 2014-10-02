@@ -19738,6 +19738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Particular care needs to be given to the specification of impedance in percentage terms and the basis in terms of voltage and power shall either be explicit or follow the convention that &lt;t0/&gt;the impedance for a particular tapping is based on the rated power at principal tapping and the voltage of that particular tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T150811Z" creationid="CCYU" creationdate="20141002T150811Z">
+        <seg>應特別注意阻抗之規格以百分比表示且變壓和功率基本表示應明確或依照慣例，特定抽頭之阻抗以主抽頭之額定功率和特定抽頭之電壓為基準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Particulars of the specifications to which the transformer shall comply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124203Z" creationid="CCYU" creationdate="20140930T124203Z">
