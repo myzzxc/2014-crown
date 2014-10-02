@@ -622,6 +622,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- &lt;t0/&gt;the&lt;t1/&gt; impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144216Z" creationid="CCYU" creationdate="20141002T144216Z">
+        <seg>- 阻抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;t0/&gt;the&lt;t1/&gt; load current capability;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144202Z" creationid="CCYU" creationdate="20141002T144202Z">
+        <seg>- 負載電流承受力；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- &lt;t0/&gt;the&lt;t1/&gt; operating voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144136Z" creationid="CCYU" creationdate="20141002T144136Z">
+        <seg>- 操作電壓；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-25 °C in the case of outdoor transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100428Z" creationid="CCYU" creationdate="20140921T100428Z">
@@ -9537,6 +9561,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T132313Z" creationid="CCYU" creationdate="20141002T132313Z">
         <seg>範例 2 - 可變通量電壓變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example 4 — Functional specification of tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143622Z" creationid="CCYU" creationdate="20141002T143622Z">
+        <seg>範例 4 — 繞組功能性規格</seg>
       </tuv>
     </tu>
     <tu>
@@ -27555,6 +27587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principle of the functional specification of a transformer with tappings according to 6.4.3 is to provide a framework for the specification of the operational requirements whilst leaving the detailed design of winding and tapping arrangements to the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144058Z" creationid="CCYU" creationdate="20141002T144058Z">
+        <seg>具有抽頭之變壓器功能性規格主要依據 6.4.3 提供操作規範之規格架構，而繞組和抽頭配置設計細節由製造商決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The procedure of the PIV analysis is shown as flowchart (Fig. 6).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084830Z" creationid="CCYU" creationdate="20140913T084830Z">
@@ -27671,6 +27711,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z" creationid="Judy" creationdate="20140823T083233Z">
         <seg>換氣與動力活塞推動氣體造成類似衝擊的效應，大幅地朝熱或冷端壓縮等溫線並增加局部溫度梯度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quantity 'highest voltage for equipment' which characterizes the insulation of the winding, is also 170 kV (see IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143559Z" creationid="CCYU" creationdate="20141002T143559Z">
+        <seg>'設備最高電壓' 量值決定繞組絕緣亦為 170 kV (請見 IEC 60076-3)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28407,6 +28455,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154241Z" creationid="Judy" creationdate="20140820T154204Z">
         <seg>此網格與本研究中網格密度最高、時間間隔最短之網格相比，所得到的三個數值差異小於 0.5%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three specific requirements that shall be properly defined are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144125Z" creationid="CCYU" creationdate="20141002T144125Z">
+        <seg>應正確定義的三種的具體要求如下：</seg>
       </tuv>
     </tu>
     <tu>
