@@ -13426,6 +13426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this transformer shall have reduced power tappings, say, from tapping -6 %, add:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131836Z" creationid="CCYU" creationdate="20141002T131836Z">
+        <seg>若變壓器需使用降低功率抽頭，例如於抽頭 -6 % 位置，加上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If transport size or weight limits apply, they shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161747Z" creationid="CCYU" creationdate="20140922T161747Z">
@@ -34732,6 +34740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>maximum&lt;t0/&gt; current tapping:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131845Z" creationid="CCYU" creationdate="20141002T131845Z">
+        <seg>最大電流抽頭：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mechanical conditions 4M4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110924Z" creationid="CCYU" creationdate="20140921T110924Z">
@@ -35768,6 +35784,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020124Z" creationid="CCYU" creationdate="20140920T020124Z">
         <seg>抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tapping -6 %</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131854Z" creationid="CCYU" creationdate="20141002T131854Z">
+        <seg>抽頭 -6 %</seg>
       </tuv>
     </tu>
     <tu>
