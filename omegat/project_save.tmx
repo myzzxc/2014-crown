@@ -3331,6 +3331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer specified according to 6.4.3 will be capable of supplying this load current at all tapping positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145512Z" creationid="CCYU" creationdate="20141002T145512Z">
+        <seg>依 6.4.3 指定之變壓器將能於所有抽頭位置供應此負載電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A transformer with a grounded neutral can be influenced by DC currents flowing through the neutral.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072046Z" creationid="CCYU" creationdate="20140927T072046Z">
@@ -26415,6 +26423,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083804Z" creationid="CCYU" creationdate="20140928T083804Z">
         <seg>應限制中性點之電流與持續時間以避免金屬結構零件溫度過高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current on the load side is given by the rated power divided by the rated voltage (at the principal tapping).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145515Z" creationid="CCYU" creationdate="20141002T145340Z">
+        <seg>負載側電流為額定功率除以 (主抽頭處) 之額定電壓，</seg>
       </tuv>
     </tu>
     <tu>
