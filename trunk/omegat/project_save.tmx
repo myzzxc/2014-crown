@@ -17723,6 +17723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;The&lt;t1/&gt; specification is the same as example 4.1 except for the change from HV voltage variation to LV voltage variation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160624Z" creationid="CCYU" creationdate="20141003T160624Z">
+        <seg>註 除了由 HV 電壓變化更改為 LV 電壓變化外，標示規格與範例 4.1 相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A closed magnetic circuit for zero sequence flux exists in a shell-form transformer, and in a core-form transformer with an unwound limb or limbs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155140Z" creationid="CCYU" creationdate="20140922T154906Z">
