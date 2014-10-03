@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+10 % —15 %</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160427Z" creationid="CCYU" creationdate="20141003T160427Z">
+        <seg>+10 % — 15 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+15 % of each component loss, provided that the tolerance for total losses is not exceeded</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083234Z" creationid="CCYU" creationdate="20140927T083234Z">
@@ -5455,6 +5463,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153632Z" creationid="CCYU" creationdate="20141003T153632Z">
         <seg>B.4.1 範例 4.1 — 具有 HV 電壓變化之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B.4.2 Example 4.2 — Transformer specified with LV voltage variation Transformer to be suitable for step down operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160321Z" creationid="CCYU" creationdate="20141003T160321Z">
+        <seg>B.4.2 範例 4.2 — 具有 LV 電壓變化之變壓器
+適用於降壓操作之變壓器peration</seg>
       </tuv>
     </tu>
     <tu>
@@ -17518,6 +17535,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041616Z" creationid="CCYU" creationdate="20140920T041616Z">
         <seg>註 2 當一對繞組間有不同額定功率值時，負載損耗值參考較低功率之繞組的額定電流，且必須說明參考功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 &lt;t0/&gt;The&lt;t1/&gt; impedance of the transformer in terms of ohms per phase is calculated as follows</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160218Z" creationid="CCYU" creationdate="20141003T160218Z">
+        <seg>註 3 變壓器阻抗以每相歐姆表示為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37036,6 +37061,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154426Z" creationid="CCYU" creationdate="20141003T154426Z">
         <seg>HV 電壓變化：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>variation&lt;t0/&gt; on LV voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160422Z" creationid="CCYU" creationdate="20141003T160422Z">
+        <seg>LV 電壓變化：</seg>
       </tuv>
     </tu>
     <tu>
