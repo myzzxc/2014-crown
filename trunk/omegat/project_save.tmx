@@ -16042,6 +16042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MVA at principal tapping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153849Z" creationid="CCYU" creationdate="20141003T153849Z">
+        <seg>MVA 主抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machine shops and cutting shops are a world of oil and leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T092358Z" creationid="CCYU" creationdate="20140817T092358Z">
@@ -30748,6 +30756,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer to be suitable for step down operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153707Z" creationid="CCYU" creationdate="20141003T153707Z">
+        <seg>適用於降壓操作之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers having large tapping ranges, particularly if the range is asymmetrical, may also require special consideration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090017Z" creationid="CCYU" creationdate="20140927T090017Z">
@@ -34972,6 +34988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>maximum&lt;t0/&gt; operating voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153922Z" creationid="CCYU" creationdate="20141003T153922Z">
+        <seg>最大操作電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mechanical conditions 4M4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110924Z" creationid="CCYU" creationdate="20140921T110924Z">
@@ -35544,6 +35568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155215Z" creationid="CCYU" creationdate="20140919T155215Z">
         <seg>額定電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated&lt;t0/&gt; power &lt;t1/&gt;Sr&lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153718Z" creationid="CCYU" creationdate="20141003T153718Z">
+        <seg>額定功率 Sr：</seg>
       </tuv>
     </tu>
     <tu>
