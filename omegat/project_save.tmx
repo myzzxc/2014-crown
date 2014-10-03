@@ -9686,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Except on principal tap, when compared with the transformer in example 1, this transformer will have different &lt;t2/&gt;ohmic&lt;t3/&gt; impedances and therefore different short circuit currents are available at the LV even when the HV voltage and tap-position are the same.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T161004Z" creationid="CCYU" creationdate="20141003T161004Z">
+        <seg>除主抽頭外，當與範例 1 比較時，此變壓器將有不同的歐姆阻抗，因此當 HV 電壓和抽頭位置相同時 LV 端具有不同短路電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T100404Z">
@@ -24976,6 +24984,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154921Z" creationid="CCYU" creationdate="20141003T154921Z">
         <seg>表 B.2 — HV 電壓變化之功能性規格範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B.3 — Example of functional specification with LV voltage variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T161021Z" creationid="CCYU" creationdate="20141003T161021Z">
+        <seg>表 B.3 — LV 電壓變化之功能性規格範例</seg>
       </tuv>
     </tu>
     <tu>
