@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10 % on all tappings on 70 MVA base</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154734Z" creationid="CCYU" creationdate="20141003T154734Z">
+        <seg>70 MVA 主抽頭之 10 % </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10 mg/m3 Total dust</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165423Z" creationid="Judy" creationdate="20140818T165423Z">
@@ -35064,6 +35072,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130523Z" creationid="CCYU" creationdate="20140930T130523Z">
         <seg>最低全負載功率因子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>minimum&lt;t0/&gt; full load power factor:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154742Z" creationid="CCYU" creationdate="20141003T154742Z">
+        <seg>最低全負載功率因子：</seg>
       </tuv>
     </tu>
     <tu>
