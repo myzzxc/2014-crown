@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+10 % —15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154452Z" creationid="CCYU" creationdate="20141003T154452Z">
+        <seg>+10 % — 15 ％</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+15 % of each component loss, provided that the tolerance for total losses is not exceeded</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083234Z" creationid="CCYU" creationdate="20140927T083234Z">
@@ -34644,6 +34652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>impedance&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154506Z" creationid="CCYU" creationdate="20141003T154506Z">
+        <seg>阻抗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in a transformer having a tapped winding, a specific connection of that winding, representing a definite effective number of turns in the tapped winding and, consequently, a definite turns ratio between this winding and any other winding with a fixed number of turns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020528Z" creationid="CCYU" creationdate="20140920T020528Z">
@@ -35176,6 +35192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131536Z" creationid="CCYU" creationdate="20141002T131536Z">
         <seg>抽頭位置數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>number&lt;t0/&gt; of tapping steps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154314Z" creationid="CCYU" creationdate="20141003T154314Z">
+        <seg>抽頭級數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35816,6 +35840,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T123715Z" creationid="CCYU" creationdate="20140918T123715Z">
         <seg>額定功率小於 1 kVA 之單相變壓器和小於 5 kVA 之三相變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>size&lt;t0/&gt; of tapping step:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154342Z" creationid="CCYU" creationdate="20141003T154342Z">
+        <seg>抽頭級大小：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36948,6 +36980,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143204Z" creationid="CCYU" creationdate="20140919T143204Z">
         <seg>除非另有說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vari&lt;t0/&gt;ation&lt;t1/&gt; on HV voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154426Z" creationid="CCYU" creationdate="20141003T154426Z">
+        <seg>HV 電壓變化：</seg>
       </tuv>
     </tu>
     <tu>
