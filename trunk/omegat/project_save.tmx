@@ -5435,6 +5435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B.4.1 Example 4.1 — Transformer specified with HV voltage variation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153632Z" creationid="CCYU" creationdate="20141003T153632Z">
+        <seg>B.4.1 範例 4.1 — 具有 HV 電壓變化之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BELT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071916Z" creationid="CCYU" creationdate="20140817T071916Z">
@@ -26751,6 +26759,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040050Z">
         <seg>以下內容適用於圖 B1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following are examples of such a specification and the resulting transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153504Z" creationid="CCYU" creationdate="20141003T153504Z">
+        <seg>以下為此類變壓器規格範例</seg>
       </tuv>
     </tu>
     <tu>
