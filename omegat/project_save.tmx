@@ -3715,6 +3715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional connections are shown in Figure D.2 below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141618Z" creationid="CCYU" creationdate="20141004T141618Z">
+        <seg>其他連接如下圖 D.2 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064155Z" creationid="MAE" creationdate="20140807T064155Z">
@@ -6989,6 +6997,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Common connections are shown in Figure D.1 below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141549Z" creationid="CCYU" creationdate="20141004T141344Z">
+        <seg>常用的連接如下圖 D.1 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142603Z" creationid="CCYU" creationdate="20140809T142603Z">
@@ -7498,6 +7514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085511Z" creationid="CCYU" creationdate="20140809T085511Z">
         <seg>Control parameters: 管控參數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conventions of drawing are the same as in Figure 2 (Clause 7) of the main document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141528Z" creationid="CCYU" creationdate="20141004T141528Z">
+        <seg>圖示與主文圖 2 (第 7 條) 相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10395,6 +10419,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140828Z" creationid="CCYU" creationdate="20141004T140748Z">
         <seg>圖 C.1 — 邊界短路阻抗規格範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure D.1 — Common connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141545Z" creationid="CCYU" creationdate="20141004T141545Z">
+        <seg>圖 D.1 — 常用連接</seg>
       </tuv>
     </tu>
     <tu>
