@@ -4755,6 +4755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C (informative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T135802Z" creationid="CCYU" creationdate="20141004T135802Z">
+        <seg>附錄 C (參考性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T090526Z">
