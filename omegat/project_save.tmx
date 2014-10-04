@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'&lt;t0/&gt;additional&lt;t1/&gt; loss'.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143748Z" creationid="CCYU" creationdate="20141004T143748Z">
+        <seg>'其他損耗'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(...100, 125, 160, 200, 250, 315, 400, 500, 630, 800, 1 000, etc.) kVA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122300Z" creationid="CCYU" creationdate="20140921T122300Z">
@@ -29116,6 +29124,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The winding resistance measur&lt;t0/&gt;ement is made at a temperature&lt;t1/&gt; Θ&lt;t2/&gt;1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143834Z" creationid="CCYU" creationdate="20141004T143834Z">
+        <seg>繞組電阻之量測於溫度 Θ1 下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The winding temperature shall be measured by sensors placed at representative positions, preferably inside the set of windings, for example, in a duct between the high-voltage and low-voltage windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012339Z" creationid="CCYU" creationdate="20140928T012339Z">
@@ -36241,6 +36257,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012941Z" creationid="CCYU" creationdate="20140809T012941Z">
         <seg>special&lt;t0/&gt; hazard 特殊危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specified load current for loss determination (rated current, tapping current, other specified value related to a particular loading case);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143728Z" creationid="CCYU" creationdate="20141004T143728Z">
+        <seg>測定損耗之指定負載電流 (額定電流、抽頭電流、特定負載情況下的指定值)；</seg>
       </tuv>
     </tu>
     <tu>
