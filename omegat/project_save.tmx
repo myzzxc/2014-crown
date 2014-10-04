@@ -35941,6 +35941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>refers to measurement of 'cold winding resistance' (11.2);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142632Z" creationid="CCYU" creationdate="20141004T142632Z">
+        <seg>對應 '冷繞組電阻' (11.2) 量測；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>regular frequent energisation in excess of 24 times per year;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164657Z" creationid="CCYU" creationdate="20140921T164657Z">
