@@ -4867,6 +4867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex D (informative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140835Z" creationid="CCYU" creationdate="20141004T140835Z">
+        <seg>附錄 D (參考性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex I, part 1 + 2: not mentioned.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043959Z" creationid="MAE" creationdate="20140808T043959Z">
@@ -10371,6 +10379,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033812Z">
         <seg>圖 B1：安裝後鋼筋的一般施工規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure C.1 — Example of specification of short-circuit impedance by boundaries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140828Z" creationid="CCYU" creationdate="20141004T140748Z">
+        <seg>圖 C.1 — 邊界短路阻抗規格範例</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +26600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145515Z" creationid="CCYU" creationdate="20141002T145340Z">
         <seg>負載側電流為額定功率除以 (主抽頭處) 之額定電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dashed line is an example of a transformer short-circuit impedance curve which would satisfy this specification.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140803Z" creationid="CCYU" creationdate="20141004T140714Z">
+        <seg>虛線為符合本規格之變壓器短路阻抗曲線範例。</seg>
       </tuv>
     </tu>
     <tu>
