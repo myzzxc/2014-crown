@@ -27380,6 +27380,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The load loss is measured with the winding at an average temperature &lt;t0/&gt;Θ&lt;t1/&gt;2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143955Z" creationid="CCYU" creationdate="20141004T143955Z">
+        <seg>負載損耗於繞組平均溫度 Θ 2  下量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The loading combinations shall also be indicated unless the rate power of one of the windings is the sum of the rated powers of the other windings.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020325Z" creationid="CCYU" creationdate="20140927T020325Z">
@@ -27548,10 +27556,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measured loss referred to specified current &lt;t2/&gt;I&lt;t3/&gt; is P2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144036Z" creationid="CCYU" creationdate="20141004T144036Z">
+        <seg>指定電流 I 下量測之損耗為 P2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measured no-load loss is Pm, and the corrected no load loss is taken as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061101Z" creationid="CCYU" creationdate="20140928T061101Z">
         <seg>空載損耗量測值為 Pm，而校正空載損耗為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measured value is R1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143846Z" creationid="CCYU" creationdate="20141004T143846Z">
+        <seg>量測值為 R1。</seg>
       </tuv>
     </tu>
     <tu>
