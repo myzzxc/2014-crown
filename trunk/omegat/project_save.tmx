@@ -11640,6 +11640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further guidance is contained in CIGRE brochure 343.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153339Z" creationid="CCYU" creationdate="20141004T153339Z">
+        <seg>進一步的指示收錄於 CIGRE 手冊 343。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further information:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z" creationid="CCYU" creationdate="20140809T102105Z">
@@ -17159,6 +17167,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020128Z" creationid="Judy" creationdate="20140820T020128Z">
         <seg>動量方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monitoring parameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153406Z" creationid="CCYU" creationdate="20141004T153406Z">
+        <seg>監測參數</seg>
       </tuv>
     </tu>
     <tu>
@@ -25436,6 +25452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table F.1 — Facilities for condition monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153403Z" creationid="CCYU" creationdate="20141004T153403Z">
+        <seg>表 F.1 — 環境監測設施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table IV Processing and curing times Temper ture range Working time/ processing M Curing Me rime +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z">
@@ -26328,6 +26352,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T032054Z">
         <seg>現有結構中的鋼筋實際位置應根據施工文件決定，並於設計時納入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The actual sensors and facilities provided shall be agreed between manufacturer and purchaser and will depend on the size and criticality of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153303Z" creationid="CCYU" creationdate="20141004T153303Z">
+        <seg>實際提供之感測器與設施應由製造商與買方協議且將取決於變壓器尺寸與重要性，</seg>
       </tuv>
     </tu>
     <tu>
