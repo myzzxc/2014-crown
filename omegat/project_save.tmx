@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153652Z" creationid="CCYU" creationdate="20141004T153652Z">
+        <seg>警報接點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Algae toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T153117Z" creationid="CCYU" creationdate="20140807T153117Z">
@@ -5936,6 +5944,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044812Z">
         <seg>鑽孔&lt;t0/&gt;使用碳化錘鑽 (HD) 或氣動鑽 (CD)，依照所選鋼筋需要的大小和埋設深度在基材上鑽孔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bottom oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153506Z" creationid="CCYU" creationdate="20141004T153506Z">
+        <seg>底層油溫</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facility to fit sensor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153559Z" creationid="CCYU" creationdate="20141004T153559Z">
+        <seg>安裝感側器之設施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
@@ -11732,6 +11756,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042820Z" creationid="JUDY" creationdate="20140827T042820Z">
         <seg>鍍鋅和退火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gas-in-oil content (single output)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153544Z" creationid="CCYU" creationdate="20141004T153544Z">
+        <seg>油中氣體含量 (單輸出)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17147,6 +17179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moisture in oil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153610Z" creationid="CCYU" creationdate="20141004T153610Z">
+        <seg>油中水分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Molten iron: Temperature monitoring during tapping ensures continuous feedback and product uniformity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T022025Z" creationid="JUDY" creationdate="20140827T022025Z">
@@ -17351,6 +17391,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T233749Z">
         <seg>Multifix&lt;t0/&gt; 注膠系統 MF-EX1 鋼筋連接型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple gas monitor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153727Z" creationid="CCYU" creationdate="20141004T153727Z">
+        <seg>多重氣體監測</seg>
       </tuv>
     </tu>
     <tu>
@@ -19231,6 +19279,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073923Z" creationid="CCYU" creationdate="20140817T073923Z">
         <seg>通常大型機台洩漏包含了漏油和冷卻劑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil level in conservator alarm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153639Z" creationid="CCYU" creationdate="20141004T153639Z">
+        <seg>儲油槽油位警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oil level in conservator indication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153705Z" creationid="CCYU" creationdate="20141004T153705Z">
+        <seg>儲油槽油位指示</seg>
       </tuv>
     </tu>
     <tu>
@@ -23324,6 +23388,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sensor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153502Z" creationid="CCYU" creationdate="20141004T153502Z">
+        <seg>感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensors mounted at the layering area control cooling of overlapping coils to improve product quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032205Z" creationid="JUDY" creationdate="20140827T032205Z">
@@ -24688,6 +24760,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014945Z" creationid="CCYU" creationdate="20140807T133754Z">
         <seg>Sufficient protection is given wearing suitable protective gloves checked according to i.e. EN 374, in the event of risk of skin contact with the &lt;t0/&gt;product. 穿戴符合 EN 374 之合適防護手套能給予手部足夠的保護，例如使用具有與皮膚接觸風險之產品時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suggested preparation for monitoring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153448Z" creationid="CCYU" creationdate="20141004T153448Z">
+        <seg>建議之監測準備</seg>
       </tuv>
     </tu>
     <tu>
@@ -30937,6 +31017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141945Z" creationid="CCYU" creationdate="20140930T141945Z">
         <seg>如表 1 所協議之電壓比和短路阻抗公差值，或與表中給定值不同之偏差值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153454Z" creationid="CCYU" creationdate="20141004T153454Z">
+        <seg>頂層油溫</seg>
       </tuv>
     </tu>
     <tu>
