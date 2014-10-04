@@ -23740,6 +23740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specification of short-circuit&lt;t0/&gt; &lt;t1/&gt;impedance by boundaries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140154Z" creationid="CCYU" creationdate="20141004T140154Z">
+        <seg>邊界短路阻抗規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specification of the intended use in accordance with the applicable European&lt;t0/&gt; &lt;t1/&gt;Assessment Document</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015903Z">
@@ -25304,6 +25312,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142304Z" creationid="CCYU" creationdate="20140923T142304Z">
         <seg>抽頭係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tapping range (%)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140201Z" creationid="CCYU" creationdate="20141004T140201Z">
+        <seg>抽頭範圍 (%)</seg>
       </tuv>
     </tu>
     <tu>
