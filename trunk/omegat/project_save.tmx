@@ -27268,6 +27268,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lower boundary is determined by permissible overcurrent on the secondary side during a through-fault.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140636Z" creationid="CCYU" creationdate="20141004T140636Z">
+        <seg>下邊界為二次繞組側故障期間之容許過電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lower gas temperature in the expansion chamber is due to the cooling of gas by the expansion of the entire engine volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194526Z" creationid="Judy" creationdate="20140823T194526Z">
@@ -28800,6 +28808,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100020Z">
         <seg>電毯三層設計包含外部兩層蓬鬆超細纖絨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The upper boundary is a constant value of short-circuit impedance as a percentage, which is determined by the permissible voltage drop at a specified loading and at a specified power factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140442Z" creationid="CCYU" creationdate="20141004T140442Z">
+        <seg>上邊界為以百分比表示之短路阻抗定值，其為特定負載以及特定功率因子下之容許電壓降。</seg>
       </tuv>
     </tu>
     <tu>
