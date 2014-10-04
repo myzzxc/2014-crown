@@ -3683,6 +3683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active power consumption of motor drive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154342Z" creationid="CCYU" creationdate="20141004T154342Z">
+        <seg>馬達驅動之主動電力消耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acute LC50 &gt;100 mg/l Fresh water</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024540Z" creationid="CCYU" creationdate="20140809T024540Z">
@@ -3751,6 +3759,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134417Z" creationid="CCYU" creationdate="20140808T134417Z">
         <seg>Acute oral toxicity 急性口服毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional &lt;t0/&gt;ct</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154236Z" creationid="CCYU" creationdate="20141004T154236Z">
+        <seg>附加 ct</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,6 +6056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172011Z" creationid="Judy" creationdate="20140818T172011Z">
         <seg>表面火源被撲滅後，袋子或堆疊內部可能持續燃燒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bushing oil pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154302Z" creationid="CCYU" creationdate="20141004T154302Z">
+        <seg>套管油壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -10194,6 +10218,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153802Z" creationid="CCYU" creationdate="20141004T153559Z">
         <seg>安裝感測器之設施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facility to fit transducer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154152Z" creationid="CCYU" creationdate="20141004T154152Z">
+        <seg>安裝傳感器之設施</seg>
       </tuv>
     </tu>
     <tu>
@@ -16135,6 +16167,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020411Z" creationid="JUDY" creationdate="20140827T020411Z">
         <seg>以下列出幾種常見的應用中如何使用紅外感應器的幾個例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154155Z" creationid="CCYU" creationdate="20141004T154155Z">
+        <seg>負載電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -25668,6 +25708,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap-position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154313Z" creationid="CCYU" creationdate="20141004T154313Z">
+        <seg>抽頭位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tapped windings shall be connected on their principal tapping, unless the relevant test clause requires otherwise or unless the manufacturer and the purchaser agree otherwise.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130131Z" creationid="CCYU" creationdate="20140927T125505Z">
@@ -32361,6 +32409,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012908Z" creationid="JUDY" creationdate="20140827T012908Z">
         <seg>請至 www.raytek.com 或 www.ircon.com 以找尋您當地的銷售辦公室。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage at bushing tap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154111Z" creationid="CCYU" creationdate="20141004T154111Z">
+        <seg>套管抽頭電壓</seg>
       </tuv>
     </tu>
     <tu>
