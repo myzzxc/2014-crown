@@ -7614,6 +7614,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooler inlet oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154031Z" creationid="CCYU" creationdate="20141004T154031Z">
+        <seg>冷卻器入口油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooler operation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153956Z" creationid="CCYU" creationdate="20141004T153935Z">
+        <seg>冷卻器運作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooler outlet oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154038Z" creationid="CCYU" creationdate="20141004T154038Z">
+        <seg>冷卻器出口油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153917Z" creationid="CCYU" creationdate="20141004T153917Z">
+        <seg>冷媒溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooling mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132613Z" creationid="CCYU" creationdate="20140921T132613Z">
@@ -7858,6 +7890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T071918Z" creationid="CCYU" creationdate="20140927T071918Z">
         <seg>中性電路之直流電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DC neutral current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153824Z" creationid="CCYU" creationdate="20141004T153824Z">
+        <seg>直流中性電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -9318,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Earth connection brought out</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153904Z" creationid="CCYU" creationdate="20141004T153904Z">
+        <seg>接地連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Earthy odor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174044Z" creationid="Judy" creationdate="20140818T174044Z">
@@ -10144,8 +10192,8 @@
       <tuv lang="EN-US">
         <seg>Facility to fit sensor</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153559Z" creationid="CCYU" creationdate="20141004T153559Z">
-        <seg>安裝感側器之設施</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153802Z" creationid="CCYU" creationdate="20141004T153559Z">
+        <seg>安裝感測器之設施</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,6 +10747,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183925Z" creationid="Judy" creationdate="20140818T183925Z">
         <seg>佛羅里達州毒性物質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flow sensor or auxiliary contact</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154019Z" creationid="CCYU" creationdate="20141004T154019Z">
+        <seg>流量計或輔助接點</seg>
       </tuv>
     </tu>
     <tu>
@@ -16355,6 +16411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magnetic circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153836Z" creationid="CCYU" creationdate="20141004T153836Z">
+        <seg>磁路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main difficulty using this norm is the fact that the main users as textile industry and automotive industry (with some modifications) do have more strength definitions of color quality but for a much shorter product period.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054456Z" creationid="MAE" creationdate="20140810T054456Z">
@@ -20095,6 +20159,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123815Z" creationid="CCYU" creationdate="20140917T123815Z">
         <seg>第一部分：總論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partial discharge sensor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153755Z" creationid="CCYU" creationdate="20141004T153755Z">
+        <seg>局部放電感測器</seg>
       </tuv>
     </tu>
     <tu>
