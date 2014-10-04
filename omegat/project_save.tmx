@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;normative&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142105Z" creationid="CCYU" creationdate="20141004T142105Z">
+        <seg>(規範性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;tapping&lt;t1/&gt; factor) or &lt;t2/&gt; (tapping factor expressed as a percentage)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111838Z" creationid="CCYU" creationdate="20140921T111838Z">
@@ -4879,6 +4887,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140835Z" creationid="CCYU" creationdate="20141004T140835Z">
         <seg>附錄 D (參考性)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex E</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142054Z" creationid="CCYU" creationdate="20141004T142054Z">
+        <seg>附錄 E</seg>
       </tuv>
     </tu>
     <tu>
@@ -10451,6 +10467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141943Z" creationid="CCYU" creationdate="20141004T141943Z">
         <seg>圖 D.3 - 連接符號表示之三相自藕變壓器連接代號 (自藕變壓器 Ya0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure D.4 - Example of three single-phase transformers connected to form a three-pha&lt;t0/&gt;se bank (connection symbol Yd5)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142049Z" creationid="CCYU" creationdate="20141004T142032Z">
+        <seg>圖 D.4 - 三組單相變壓器連接成三相組合範例 (連接符號 Yd5)</seg>
       </tuv>
     </tu>
     <tu>
