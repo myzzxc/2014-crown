@@ -10118,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facilities for future fitting of condition&lt;t0/&gt; &lt;t1/&gt;monitoring systems to transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T152904Z" creationid="CCYU" creationdate="20141004T152904Z">
+        <seg>未來用於安裝變壓器環境監測系統之設施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085909Z">
@@ -32809,6 +32817,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034919Z" creationid="CCYU" creationdate="20140927T034919Z">
         <seg>當安裝可能會影響上述任何一點時，應與變壓器一併提供適當的安裝說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where it is desired to provide the necessary facilities for the future fitting of a monitoring system to a transformer, the following sensors and facilities should be considered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153111Z" creationid="CCYU" creationdate="20141004T153111Z">
+        <seg>於需要提供必要設施以便未來安裝變壓器環境監測系統之處，應考慮以下感測器與設施。</seg>
       </tuv>
     </tu>
     <tu>
