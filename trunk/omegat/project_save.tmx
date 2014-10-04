@@ -4963,6 +4963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex G</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154612Z" creationid="CCYU" creationdate="20141004T154612Z">
+        <seg>附錄 G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex I, part 1 + 2: not mentioned.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043959Z" creationid="MAE" creationdate="20140808T043959Z">
@@ -5527,6 +5535,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
         <seg>自動關機：約 3 小時後 開關設置： 0 - 1 - 2 - 3 - 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auxiliary contacts in diverter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154601Z" creationid="CCYU" creationdate="20141004T154601Z">
+        <seg>分流器輔助接點</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,6 +8642,46 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084907Z" creationid="CCYU" creationdate="20140809T084907Z">
         <seg>Dispose of contaminated material as waste according to Chapter 13. 依第 13 章處理受污染之廢棄物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter oil condition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154540Z" creationid="CCYU" creationdate="20141004T154540Z">
+        <seg>分流器油狀態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter oil level alarm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154520Z" creationid="CCYU" creationdate="20141004T154520Z">
+        <seg>分流器油位警報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter oil level indication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154513Z" creationid="CCYU" creationdate="20141004T154513Z">
+        <seg>分流器油位指示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter switch compartment oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154411Z" creationid="CCYU" creationdate="20141004T154411Z">
+        <seg>分流器開關室油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diverter switching supervision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154553Z" creationid="CCYU" creationdate="20141004T154553Z">
+        <seg>分流器開關監測</seg>
       </tuv>
     </tu>
     <tu>
@@ -16467,6 +16523,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main tank temperature near tap-changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154448Z" creationid="CCYU" creationdate="20141004T154448Z">
+        <seg>主油箱接近抽頭開關處之溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mains lead length: approx. 2.3 m</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114509Z">
@@ -23488,6 +23552,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133529Z">
         <seg>性能類別 C1 之地震作用：M12 至 M30，鋼筋&lt;t0/&gt;Φ&lt;t1/&gt;12 至 &lt;t2/&gt;Φ&lt;t3/&gt;32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selector compartment oil temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154421Z" creationid="CCYU" creationdate="20141004T154421Z">
+        <seg>選擇器室油溫</seg>
       </tuv>
     </tu>
     <tu>
@@ -33265,6 +33337,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135933Z" creationid="CCYU" creationdate="20140922T135933Z">
         <seg>繞組連接及相位數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Winding hot-spot temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154607Z" creationid="CCYU" creationdate="20141004T154607Z">
+        <seg>繞組熱點溫度</seg>
       </tuv>
     </tu>
     <tu>
