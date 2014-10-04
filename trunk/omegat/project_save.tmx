@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;copper&lt;t1/&gt;)&lt;t2/&gt; &lt;t3/&gt;Rr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144531Z" creationid="CCYU" creationdate="20141004T144531Z">
+        <seg>(&lt;t0/&gt;銅&lt;t1/&gt;)&lt;t2/&gt; &lt;t3/&gt;Rr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;informative&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142659Z" creationid="CCYU" creationdate="20141001T142659Z">
@@ -4919,6 +4927,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142054Z" creationid="CCYU" creationdate="20141004T142054Z">
         <seg>附錄 E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex F (informative)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144555Z" creationid="CCYU" creationdate="20141004T144555Z">
+        <seg>附錄 F (參考性)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10535,6 +10551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finally:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144547Z" creationid="CCYU" creationdate="20141004T144547Z">
+        <seg>最終：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the Right Products for your Applications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014849Z" creationid="JUDY" creationdate="20140827T014849Z">
@@ -11027,6 +11051,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T135158Z" creationid="CCYU" creationdate="20140922T135158Z">
         <seg>除非買方另有指明，對於線路端子之 Um 應超過 IEC 60076-3 中每組繞組額定電壓之最小值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For liquid-immersed transformers with reference temperature 75 °C, the formulae become as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144523Z" creationid="CCYU" creationdate="20141004T144523Z">
+        <seg>油浸式變壓器參考溫度為 75 °C 時，方程式如下：</seg>
       </tuv>
     </tu>
     <tu>
