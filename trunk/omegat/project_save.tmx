@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;aluminum&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144230Z" creationid="CCYU" creationdate="20141004T144230Z">
+        <seg>(&lt;t0/&gt;鋁&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;copper&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144218Z" creationid="CCYU" creationdate="20141004T144218Z">
+        <seg>(&lt;t0/&gt;銅&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;informative&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142659Z" creationid="CCYU" creationdate="20141001T142659Z">
@@ -5359,6 +5375,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162510Z" creationid="CCYU" creationdate="20140921T162510Z">
         <seg>空載時，變壓器應能夠於 110% 之額定 V/Hz 條件下連續運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At reference temperature &lt;t0/&gt;Θ&lt;t1/&gt;r&lt;t2/&gt;, the winding resistance is &lt;t3/&gt;Rr&lt;t4/&gt;, the additional loss Par, the whole load loss Pr.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144433Z" creationid="CCYU" creationdate="20141004T144433Z">
+        <seg>於參考溫度 &lt;t0/&gt;Θ&lt;t1/&gt;r&lt;t2/&gt;下，繞組電阻為 &lt;t3/&gt;Rr&lt;t4/&gt;，其他損耗為 Par，總負載損耗 Pr。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30228,6 +30252,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This loss is composed of '&lt;t4/&gt;ohmic&lt;t5/&gt; loss': &lt;t6/&gt;I&lt;t7/&gt;2R2 and 'additional loss': Pa&lt;t8/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144157Z" creationid="CCYU" creationdate="20141004T144157Z">
+        <seg>此損耗包含 '歐姆損耗'：&lt;t6/&gt;I&lt;t7/&gt;2R2 以及 '其他損耗'：Pa&lt;t8/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may be done with the aid of a graph or a table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130510Z" creationid="CCYU" creationdate="20140925T130456Z">
@@ -35105,6 +35137,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023156Z" creationid="CCYU" creationdate="20140920T023156Z">
         <seg>為具有抽頭之繞組空載時通入額定電壓至未抽頭繞組之端子電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is&lt;t0/&gt; sum of the &lt;t1/&gt;d.c.&lt;t2/&gt; resistive losses in all windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144311Z" creationid="CCYU" creationdate="20141004T144311Z">
+        <seg>為所有繞組之直流電阻損耗總和。</seg>
       </tuv>
     </tu>
     <tu>
