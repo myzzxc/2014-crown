@@ -14675,6 +14675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143234Z" creationid="CCYU" creationdate="20141004T143234Z">
+        <seg>指標 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicates information that has changed from previously issued version.&lt;t0/&gt; &lt;t1/&gt;Notice to reader</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033946Z" creationid="CCYU" creationdate="20140809T033946Z">
@@ -34965,6 +34973,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>indicates conditions at 'reference temperature' (11.1);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143455Z" creationid="CCYU" creationdate="20141004T143402Z">
+        <seg>代表於 '參考溫度' 時之條件 (11.1)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>indicates conditions during measurement of load loss (11.4);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143329Z" creationid="CCYU" creationdate="20141004T143254Z">
+        <seg>代表負載損耗量測期間之條件 (11.4)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>indicates full-power &lt;t0/&gt;tappings&lt;t1/&gt; throughout the tapping range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144739Z" creationid="CCYU" creationdate="20140923T144620Z">
@@ -35177,6 +35201,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035753Z" creationid="CCYU" creationdate="20140920T035753Z">
         <seg>負載損耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>load loss;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143525Z" creationid="CCYU" creationdate="20141004T143525Z">
+        <seg>負載損耗；</seg>
       </tuv>
     </tu>
     <tu>
@@ -35943,8 +35975,8 @@
       <tuv lang="EN-US">
         <seg>refers to measurement of 'cold winding resistance' (11.2);</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142632Z" creationid="CCYU" creationdate="20141004T142632Z">
-        <seg>對應 '冷繞組電阻' (11.2) 量測；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143419Z" creationid="CCYU" creationdate="20141004T142632Z">
+        <seg>代表 '冷繞組電阻' 量測 (11.2)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -36001,6 +36033,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T021824Z" creationid="CCYU" creationdate="20140928T021824Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resistance;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143452Z" creationid="CCYU" creationdate="20141004T143452Z">
+        <seg>電阻；</seg>
       </tuv>
     </tu>
     <tu>
@@ -37501,6 +37541,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042729Z" creationid="CCYU" creationdate="20140921T042729Z">
         <seg>(數字增加代表相位延遲增加)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>winding temperature in °C;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143516Z" creationid="CCYU" creationdate="20141004T143516Z">
+        <seg>繞組溫度，單位 °C；</seg>
       </tuv>
     </tu>
     <tu>
