@@ -7520,8 +7520,16 @@
       <tuv lang="EN-US">
         <seg>Conventions of drawing are the same as in Figure 2 (Clause 7) of the main document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141528Z" creationid="CCYU" creationdate="20141004T141528Z">
-        <seg>圖示與主文圖 2 (第 7 條) 相同。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141646Z" creationid="CCYU" creationdate="20141004T141528Z">
+        <seg>圖行表示方式示與主文圖 2 (第 7 條) 相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conventions of drawing are the same as in Figure 2 (clause 7) of the main document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141644Z" creationid="CCYU" creationdate="20141004T141644Z">
+        <seg>圖行表示方式示與主文圖 2 (第 7 條) 相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10302,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figu&lt;t0/&gt;re D.2 — Additional connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141700Z" creationid="CCYU" creationdate="20141004T141700Z">
+        <seg>圖 D.2 — 其他連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
@@ -10427,6 +10443,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141545Z" creationid="CCYU" creationdate="20141004T141545Z">
         <seg>圖 D.1 — 常用連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure D.3 - Designation of connections of three-phase auto-transformers by connection symbols (auto-transformer Ya0)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141943Z" creationid="CCYU" creationdate="20141004T141943Z">
+        <seg>圖 D.3 - 連接符號表示之三相自藕變壓器連接代號 (自藕變壓器 Ya0)</seg>
       </tuv>
     </tu>
     <tu>
