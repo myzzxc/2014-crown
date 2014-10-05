@@ -3563,6 +3563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ANSI/IEEE C57.12.90, IEEE standard test code for liquid-immersed distribution, power and regulating transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094701Z" creationid="JUDY" creationdate="20141005T094701Z">
+        <seg>ANSI/IEEE C57.12.90，IEEE 液浸式配電、電力以及整流變壓器之標準測試規章 (IEEE standard test code for liquid-immersed distribution, power and regulating transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>APPEARANCE - COLOR:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173916Z" creationid="Judy" creationdate="20140818T173916Z">
@@ -13240,6 +13248,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140222Z" creationid="CCYU" creationdate="20140923T140222Z">
         <seg>IEC: 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEEE C57.142, Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094931Z" creationid="JUDY" creationdate="20141005T094931Z">
+        <seg>IEEE C57.142，變壓器、切換裝置以及系統相互作用引起之切換暫態發生與解決指南 (Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction)</seg>
       </tuv>
     </tu>
     <tu>
