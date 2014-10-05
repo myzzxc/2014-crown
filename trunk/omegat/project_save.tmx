@@ -34949,6 +34949,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>elimination or minimisation of the use of hazardous or environmentally damaging materials;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071240Z" creationid="JUDY" creationdate="20141005T071240Z">
+        <seg>消除或減少使用危險性或破壞環境之材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>embedment depth</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015206Z">
@@ -34969,6 +34977,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070516Z" creationid="JUDY" creationdate="20141005T070516Z">
         <seg>提煉、精煉和生產之能源消耗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy consumption during the lifetime of the transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071101Z" creationid="JUDY" creationdate="20141005T071101Z">
+        <seg>變壓器生命週期內之能源消耗；</seg>
       </tuv>
     </tu>
     <tu>
@@ -36865,6 +36881,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164350Z" creationid="CCYU" creationdate="20140921T164350Z">
         <seg>重疊直流電流 (superimposed DC current)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sustainable use of raw materials in the transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071144Z" creationid="JUDY" creationdate="20141005T071144Z">
+        <seg>變壓器原料之再利用；</seg>
       </tuv>
     </tu>
     <tu>
