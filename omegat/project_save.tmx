@@ -6308,6 +6308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CIGRE Brochure 343, Recommendations for Condition Monitoring and Condition Assessment Facilities for Transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131936Z" creationid="CCYU" creationdate="20141005T131936Z">
+        <seg>CIGRE 手冊 343，變壓器環境監測和環境評估設施建議 (Recommendations for Condition Monitoring and Condition Assessment Facilities for Transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPANY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104843Z" creationid="MAE" creationdate="20140813T104843Z">
