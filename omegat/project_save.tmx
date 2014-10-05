@@ -12930,6 +12930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-10-1, Power transformers — Part 10-1: Determination of sound levels — Application guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074408Z" creationid="JUDY" creationdate="20141005T074408Z">
+        <seg>IEC 60076-10-1，電力變壓器 — 第 10-1 部份：音量等級測定 — 應用指南 (Power transformers — Part 10-1: Determination of sound levels — Application guide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155933Z" creationid="CCYU" creationdate="20140918T134619Z">
@@ -12964,8 +12972,8 @@
       <tuv lang="EN-US">
         <seg>IEC 60076-4, Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073857Z" creationid="JUDY" creationdate="20141005T073857Z">
-        <seg>IEC 60076-4，電力變壓器 — 第 4 部份：閃電脈衝和切換脈衝測試指引 — 電力變壓器和反應器 (Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors)</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074239Z" creationid="JUDY" creationdate="20141005T073857Z">
+        <seg>IEC 60076-4，電力變壓器 — 第 4 部份：閃電脈衝和切換脈衝測試指南 — 電力變壓器和反應器 (Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,8 +13004,8 @@
       <tuv lang="EN-US">
         <seg>IEC 60076-7, Power transformers — Part 7: Loading guide for oil-immersed power transformers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074103Z" creationid="JUDY" creationdate="20141005T074103Z">
-        <seg>IEC 60076-7，電力變壓器 — 第 7 部份：油浸式電力變壓器負載指引 (Power transformers — Part 7: Loading guide for oil-immersed power transformers)</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074246Z" creationid="JUDY" creationdate="20141005T074103Z">
+        <seg>IEC 60076-7，電力變壓器 — 第 7 部份：油浸式電力變壓器負載指南 (Power transformers — Part 7: Loading guide for oil-immersed power transformers)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13012,8 +13020,8 @@
       <tuv lang="EN-US">
         <seg>IEC 60076-8:1997, Power transformers — Part 8: Application guide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074204Z" creationid="JUDY" creationdate="20141005T074204Z">
-        <seg>IEC 60076-8:1997，電力變壓器 — 第 8 部份：應用指引 (Power transformers — Part 8: Application guide)</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074256Z" creationid="JUDY" creationdate="20141005T074204Z">
+        <seg>IEC 60076-8:1997，電力變壓器 — 第 8 部份：應用指南 (Power transformers — Part 8: Application guide)</seg>
       </tuv>
     </tu>
     <tu>
