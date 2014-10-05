@@ -12922,6 +12922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60068-3-3, Environmental testing — Part 3: Guidance — Seismic test methods for equipments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073632Z" creationid="JUDY" creationdate="20141005T073632Z">
+        <seg>IEC 60068-3-3，環境測試 — 第 3 部份：指示 — 設備之地震測試方法 (Environmental testing — Part 3: Guidance — Seismic test methods for equipments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155933Z" creationid="CCYU" creationdate="20140918T134619Z">
@@ -12950,6 +12958,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134305Z" creationid="CCYU" creationdate="20140918T134305Z">
         <seg>IEC 60076-3:2000，電力變壓器 — 第 3 部分：絕緣等級、介電試驗和外部空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-4, Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073857Z" creationid="JUDY" creationdate="20141005T073857Z">
+        <seg>IEC 60076-4，電力變壓器 — 第 4 部份：閃電脈衝和切換脈衝測試指引 — 電力變壓器和反應器 (Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors)</seg>
       </tuv>
     </tu>
     <tu>
