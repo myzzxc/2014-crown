@@ -3555,6 +3555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ANSI/IEEE C57.12.00, General requirements for liquid-immersed distribution, power and regulating transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094335Z" creationid="JUDY" creationdate="20141005T094335Z">
+        <seg>ANSI/IEEE C57.12.00，, General requirements for liquid-immersed distribution, power and regulating transformers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>APPEARANCE - COLOR:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173916Z" creationid="Judy" creationdate="20140818T173916Z">
@@ -13336,6 +13344,15 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T093037Z" creationid="JUDY" creationdate="20141005T093037Z">
         <seg>ISO 12944 (所有部份)，色漆和清漆 — 鋼結構保護漆系統之防鏽保護 (Paints and varnishes — Corrosion protection of steel structures by protective paint systems)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISO 14001, Environmental management systems — Specification with guidance for use ISO 14122 (all parts), Safety of machinery Permanent means of access to machinery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094343Z" creationid="JUDY" creationdate="20141005T094326Z">
+        <seg>ISO 14001，環境管理系統 —  使用規範指南 (Environmental management systems — Specification with guidance for use) 
+ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety of machinery — Permanent means of access to machinery)</seg>
       </tuv>
     </tu>
     <tu>
