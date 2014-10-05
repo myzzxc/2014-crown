@@ -12971,6 +12971,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-16, Power transformers — Part &lt;t0/&gt;16:&lt;t1/&gt; Transformers for wind turbines application&lt;t2/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T084840Z" creationid="JUDY" creationdate="20141005T084840Z">
+        <seg>IEC 60076-16，電力變壓器 — 第 16 部份：風力渦輪機變壓器應用 (Power transformers — Part &lt;t0/&gt;16:&lt;t1/&gt; Transformers for wind turbines application)&lt;t2/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-2, Power transformers — Part 2: Temperature rise for liquid-immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134112Z" creationid="CCYU" creationdate="20140918T134112Z">
@@ -13055,6 +13063,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023712Z" creationid="CCYU" creationdate="20140918T135013Z">
         <seg>IEC 60214-1: 2003，抽頭開關 — 第 1 部分：性能規範和測試方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60270, High voltage test techniques — Partial discharge measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T084943Z" creationid="JUDY" creationdate="20141005T084943Z">
+        <seg>IEC 60270，高電壓測試技術 — 局部放電量測 (High voltage test techniques — Partial discharge measurements)</seg>
       </tuv>
     </tu>
     <tu>
