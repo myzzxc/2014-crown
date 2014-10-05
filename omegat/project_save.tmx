@@ -13148,6 +13148,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC/TR 60616:1978, Terminal and tapping markings for power transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T085956Z" creationid="JUDY" creationdate="20141005T085956Z">
+        <seg>IEC/TR 60616:1978，電力變壓器端子和抽頭標記 (Terminal and tapping markings for power transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC/TS 60076-14, Power transformers — Part 14: Design and application of liquid-immersed power transformers using high-temperature insulation materials</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T084544Z" creationid="JUDY" creationdate="20141005T084544Z">
