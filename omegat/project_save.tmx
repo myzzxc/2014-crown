@@ -34637,6 +34637,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>containment of any hazardous or environmentally damaging materials;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071358Z" creationid="JUDY" creationdate="20141005T071358Z">
+        <seg>包覆所有危險性或破壞環境之材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>conventional value of apparent power assigned to a winding which, together with the rated voltage of the winding, determines its rated current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155944Z" creationid="CCYU" creationdate="20140919T155944Z">
@@ -37201,6 +37209,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023946Z" creationid="CCYU" creationdate="20140920T023946Z">
         <seg>抽頭係數或相鄰抽頭之間的差異，以百分比表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the disposal of the transformer, eliminating or minimising the use of materials or mixtures of materials that will be difficult or impossible to re-use or recycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071633Z" creationid="JUDY" creationdate="20141005T071633Z">
+        <seg>對於丟棄變壓器，消除或儘量減少使用無法再利用或回收之原料或原料之混合物。</seg>
       </tuv>
     </tu>
     <tu>
