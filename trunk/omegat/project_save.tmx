@@ -13332,6 +13332,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ISO 2178:1982, Non-magnetic coatings on magnetic substrates — Measurement of coating thickness — Magnetic method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T091928Z" creationid="JUDY" creationdate="20141005T091928Z">
+        <seg>ISO 2178:1982，磁性機體上之非磁性鍍層 — 鍍層厚度量測 — 磁性法 (Non-magnetic coatings on magnetic substrates — Measurement of coating thickness — Magnetic method)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ISO 3506-1Class A4 Stainless</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013516Z">
