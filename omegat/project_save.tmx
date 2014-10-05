@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1EC/TS 60815 (all parts), Selection and dimensioning of high-voltage insulators intended for use in polluted conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090400Z" creationid="JUDY" creationdate="20141005T090400Z">
+        <seg>1EC/TS 60815 (所有部份)，污染環境用之高壓絕緣選擇和標注 (Selection and dimensioning of high-voltage insulators intended for use in polluted conditions)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1Kly (kilolangly)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143205Z" creationid="CCYU" creationdate="20140809T143205Z">
@@ -13096,6 +13104,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135517Z" creationid="CCYU" creationdate="20140918T135517Z">
         <seg>IEC 60721-3-4:1995，環保條件分類 — 第 3 部分：環境參數及其嚴重度分類級別 — 第 4 部分：無遮蔽環境中固定式使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 61378 (all parts), Convertor transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090536Z" creationid="JUDY" creationdate="20141005T090536Z">
+        <seg>IEC 61378 (所有部份)，轉換器變壓器 (Convertor transformers)</seg>
       </tuv>
     </tu>
     <tu>
