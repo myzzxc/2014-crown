@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6280,6 +6280,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T164816Z" creationid="Judy" creationdate="20140818T164816Z">
         <seg>過度暴露之慢性影響：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIGRE Brochure 156, Guide for &lt;t0/&gt;customers&lt;t1/&gt; specifications for transformers 100 MVA and 123 kV and above</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131800Z" creationid="CCYU" creationdate="20141005T131800Z">
+        <seg>CIGRE 手冊 156，100 MVA 和 123 kV 以上變壓器規格之客戶指南 (Guide for customers specifications for transformers 100 MVA and 123 kV and above)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,6 +12962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60050-421:1990, International &lt;t0/&gt;Electrotechnical&lt;t1/&gt; Vocabulary — Chapter 421: Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131735Z" creationid="CCYU" creationdate="20141005T131735Z">
+        <seg>IEC 60050-421:1990，國際電工詞彙  — 第 421 章：電力變壓器和反應器 (International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60050-421:1990, International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073459Z" creationid="JUDY" creationdate="20141005T073312Z">
@@ -12964,8 +12980,16 @@
       <tuv lang="EN-US">
         <seg>IEC 60060 (all parts), High-voltage test techniques</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073441Z" creationid="JUDY" creationdate="20141005T073400Z">
-        <seg>IEC 60060 (所有部份)，高電壓測試技術 (High-voltage test techniques)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131739Z" creationid="JUDY" creationdate="20141005T073400Z">
+        <seg>IEC 60270，高電壓測試技術 — 局部放電量測 (High voltage test techniques — Partial discharge measurements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60068-3-3, Environmental testing — Part 3: Guidance — Seismic test methods for &lt;t0/&gt;equipments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131741Z" creationid="CCYU" creationdate="20141005T131741Z">
+        <seg>IEC 60068-3-3，環境測試 — 第 3 部份：指示 — 設備之地震測試方法 (Environmental testing — Part 3: Guidance — Seismic test methods for equipments)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34936,6 +34960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>containment&lt;t0/&gt; of any hazardous or environmentally damaging materials;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131600Z" creationid="CCYU" creationdate="20141005T131600Z">
+        <seg>包覆所有危險性或破壞環境之材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>conventional value of apparent power assigned to a winding which, together with the rated voltage of the winding, determines its rated current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155944Z" creationid="CCYU" creationdate="20140919T155944Z">
@@ -35128,6 +35160,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>disposal&lt;t0/&gt; or re-use of any packaging material;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131647Z" creationid="CCYU" creationdate="20141005T131647Z">
+        <seg>丟棄或再利用任何包裝材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distortion of the supply voltage waveform exceeding the limits of 4.2;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163855Z" creationid="CCYU" creationdate="20140921T163855Z">
@@ -35272,6 +35312,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>elimination&lt;t0/&gt; or minimisation of the use of hazardous or environmentally damaging materials;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131557Z" creationid="CCYU" creationdate="20141005T131557Z">
+        <seg>消除或減少使用危險性或破壞環境之材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>elimination&lt;t0/&gt; or reduction of environmentally harmful emissions and waste;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131626Z" creationid="CCYU" creationdate="20141005T131626Z">
+        <seg>消除或減少對環境有害之排放物和廢棄物；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>embedment depth</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015206Z">
@@ -35312,6 +35368,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>energy&lt;t0/&gt; consumption during extraction, refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131536Z" creationid="CCYU" creationdate="20141005T131536Z">
+        <seg>提煉、精煉和生產之能源消耗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy&lt;t0/&gt; consumption during the lifetime of the transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131543Z" creationid="CCYU" creationdate="20141005T131543Z">
+        <seg>變壓器生命週期內之能源消耗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy&lt;t0/&gt; use and environmental impact of transport to site;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131639Z" creationid="CCYU" creationdate="20141005T131639Z">
+        <seg>運輸至現場之能源使用和環境衝擊；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>engine&lt;t0/&gt; efficiency crank angle viscosity (Pas)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105555Z" creationid="Judy" creationdate="20140819T105555Z">
@@ -35347,6 +35427,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>environmental impact of the material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070743Z" creationid="JUDY" creationdate="20141005T070743Z">
+        <seg>原料對環境之衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>environmental&lt;t0/&gt; impact of the material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131539Z" creationid="CCYU" creationdate="20141005T131539Z">
         <seg>原料對環境之衝擊。</seg>
       </tuv>
     </tu>
@@ -35667,6 +35755,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>health and safety of the workforce.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072121Z" creationid="JUDY" creationdate="20141005T072121Z">
+        <seg>員工之健康和安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>health&lt;t0/&gt; and safety of the workforce.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131636Z" creationid="CCYU" creationdate="20141005T131636Z">
         <seg>員工之健康和安全。</seg>
       </tuv>
     </tu>
@@ -36800,6 +36896,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>re-use&lt;t0/&gt; or recycling of any waste;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131627Z" creationid="CCYU" creationdate="20141005T131627Z">
+        <seg>再利用或回收任何廢棄物；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reactors in general (IEC 60076-6);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132233Z" creationid="CCYU" creationdate="20140918T132233Z">
@@ -36947,6 +37051,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>safety of persons during manufacture, installation, operation, maintenance and disposal;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071011Z" creationid="JUDY" creationdate="20141005T071011Z">
+        <seg>製造、安裝、操作、維護以及丟棄期間對於人員之安全性；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>safety&lt;t0/&gt; of persons during manufacture, installation, operation, maintenance and disposal;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131542Z" creationid="CCYU" creationdate="20141005T131542Z">
         <seg>製造、安裝、操作、維護以及丟棄期間對於人員之安全性；</seg>
       </tuv>
     </tu>
@@ -37227,6 +37339,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>sustainable use of raw materials in the transformer;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071144Z" creationid="JUDY" creationdate="20141005T071144Z">
+        <seg>變壓器原料之再利用；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sustainable&lt;t0/&gt; use of raw materials in the transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131544Z" creationid="CCYU" creationdate="20141005T131544Z">
         <seg>變壓器原料之再利用；</seg>
       </tuv>
     </tu>
@@ -37857,10 +37977,50 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; disposal of the transformer, eliminating or minimising the use of materials or mixtures of materials that will be difficult or impossible to re-use or recycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131615Z" creationid="CCYU" creationdate="20141005T131615Z">
+        <seg>丟棄變壓器，消除或儘量減少使用無法再利用或回收之原料或原料之混合物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; efficient use of energy and resources;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131623Z" creationid="CCYU" creationdate="20141005T131623Z">
+        <seg>有效使用能源和資源；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; health or environmental impact of any substances which may be generated by potential fault conditions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131725Z" creationid="CCYU" creationdate="20141005T131725Z">
+        <seg>任何可能由潛在故障情況所產生對健康或環境衝擊之物質；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the&lt;t0/&gt; number of steps and the tapping step (or the tapping range and number of steps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131821Z" creationid="CCYU" creationdate="20140924T131821Z">
         <seg>級數與抽頭級 (或抽頭範圍與級數)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; potential for release of environmentally damaging materials during abnormal operation or fault.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131729Z" creationid="CCYU" creationdate="20141005T131729Z">
+        <seg>異常操作或故障期間可能釋放出之破壞環境物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the&lt;t0/&gt; use of an environmental management system (ISO 14001);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131617Z" creationid="CCYU" creationdate="20141005T131617Z">
+        <seg>使用環境管理系統 (ISO 14001)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -38063,6 +38223,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>toxicity or other health effects of the materials or processes on workers during extraction refining and production;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070726Z" creationid="JUDY" creationdate="20141005T070726Z">
+        <seg>提煉、精煉和生產之原料或加工對員工所產生之毒性和健康影響；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toxicity&lt;t0/&gt; or other health effects of the materials or processes on workers during extraction refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131538Z" creationid="CCYU" creationdate="20141005T131538Z">
         <seg>提煉、精煉和生產之原料或加工對員工所產生之毒性和健康影響；</seg>
       </tuv>
     </tu>
@@ -38319,6 +38487,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>waste products and pollution during extraction, refining and production;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070541Z" creationid="JUDY" creationdate="20141005T070541Z">
+        <seg>提煉、精煉和生產之廢料和污染；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waste&lt;t0/&gt; products and pollution during extraction, refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131537Z" creationid="CCYU" creationdate="20141005T131537Z">
         <seg>提煉、精煉和生產之廢料和污染；</seg>
       </tuv>
     </tu>
