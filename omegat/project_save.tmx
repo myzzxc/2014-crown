@@ -13140,6 +13140,22 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 62032, Guide for the application, specification, and testing of phase-shifting transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090915Z" creationid="JUDY" creationdate="20141005T090915Z">
+        <seg>IEC 62032，相移變壓器應用、規格及測試指南 (Guide for the application, specification, and testing of phase-shifting transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 62262, Degrees of protection provided by enclosures for electrical equipment against external mechanical impact (1K code)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T091053Z" creationid="JUDY" creationdate="20141005T091053Z">
+        <seg>IEC 62262，電機設備外殼抗外部機械衝擊保護等級 (Degrees of protection provided by enclosures for electrical equipment against external mechanical impact) (IK 規範)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC Publications have the form of recommendations for international use and are accepted by &lt;t0/&gt;IEC&lt;t1/&gt; National Committees in that sense&lt;t2/&gt;.&lt;t3/&gt; While all reasonable efforts are made to ensure that the &lt;t4/&gt;technical&lt;t5/&gt; content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130754Z" creationid="CCYU" creationdate="20140923T130754Z">
