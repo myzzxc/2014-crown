@@ -34957,6 +34957,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>energy consumption during extraction, refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070516Z" creationid="JUDY" creationdate="20141005T070516Z">
+        <seg>提煉、精煉和生產之能源消耗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>engine&lt;t0/&gt; efficiency crank angle viscosity (Pas)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105555Z" creationid="Judy" creationdate="20140819T105555Z">
@@ -37625,6 +37633,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>toxicity or other health effects of the materials or processes on workers during extraction refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070726Z" creationid="JUDY" creationdate="20141005T070726Z">
+        <seg>提煉、精煉和生產之原料或加工對員工所產生之毒性和健康影響；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>traction transformers and traction reactors (IEC 60310);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132555Z" creationid="CCYU" creationdate="20140918T132555Z">
@@ -37869,6 +37885,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105121Z" creationid="Judy" creationdate="20140819T105121Z">
         <seg>體積 (m3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waste products and pollution during extraction, refining and production;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070541Z" creationid="JUDY" creationdate="20141005T070541Z">
+        <seg>提煉、精煉和生產之廢料和污染；</seg>
       </tuv>
     </tu>
     <tu>
