@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;To be published</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090752Z" creationid="JUDY" creationdate="20141005T090752Z">
+        <seg>1&lt;t0/&gt;即將出版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;Values provided for common reinforcing bar based on specified strength and calculated in accordance with ACI 318-11 Eq.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021755Z">
@@ -13112,6 +13120,22 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090536Z" creationid="JUDY" creationdate="20141005T090536Z">
         <seg>IEC 61378 (所有部份)，轉換器變壓器 (Convertor transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 61378-1, Convertor transformers — Part 1: Transformers for industrial applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090628Z" creationid="JUDY" creationdate="20141005T090628Z">
+        <seg>IEC 61378-1，轉換器變壓器 — 第 1 部份：工業應用變壓器 (Convertor transformers — Part 1: Transformers for industrial applications)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 61378-2, Convertor transformers — Part 2: Transformers for HVDC applications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090729Z" creationid="JUDY" creationdate="20141005T090729Z">
+        <seg>IEC 61378-2，轉換器變壓器 — 第 2 部份：高壓直流應用變壓器 (Convertor transformers — Part 2: Transformers for HVDC applications)</seg>
       </tuv>
     </tu>
     <tu>
