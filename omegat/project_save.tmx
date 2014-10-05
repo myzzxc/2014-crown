@@ -13083,6 +13083,15 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60310, Railway applications — Traction transformers and inductors on board rolling stock IEC 60529:1989, Degrees of prot&lt;t0/&gt;ection provided by enclosures (I&lt;t1/&gt;P Code)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T085543Z" creationid="JUDY" creationdate="20141005T085543Z">
+        <seg>IEC 60310，鐵路應用 — 鐵路車輛用牽引機變壓器和電感器 (Railway applications — Traction transformers and inductors on board rolling stock) 
+IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosures) (IP Code)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60721-3-4:1995, Classification of environmental conditions — Part 3: Classification of groups of environmental parameters and their severities — Section 4: Stationary use at non-weatherprotected locations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135517Z" creationid="CCYU" creationdate="20140918T135517Z">
