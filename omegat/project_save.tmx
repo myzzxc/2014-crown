@@ -12906,6 +12906,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60050-421:1990, International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073459Z" creationid="JUDY" creationdate="20141005T073312Z">
+        <seg>IEC 60050-421:1990，國際電工詞彙  — 第 421 章：電力變壓器和反應器 (International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60060 (all parts), High-voltage test techniques</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073441Z" creationid="JUDY" creationdate="20141005T073400Z">
+        <seg>IEC 60060 (所有部份)，高電壓測試技術 (High-voltage test techniques)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-10:2001, Power transformers — Part 10: Determination of sound levels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155933Z" creationid="CCYU" creationdate="20140918T134619Z">
