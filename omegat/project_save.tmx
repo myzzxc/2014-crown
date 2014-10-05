@@ -12954,6 +12954,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-12, Power transformers — Part 12: Loading guide for dry-type power transformers IEC 60076-13, Power transformers — Part 13: Self-protected liquid-filled transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074638Z" creationid="JUDY" creationdate="20141005T074638Z">
+        <seg>IEC 60076-12，電力變壓器 — 第 12 部份：乾式電力變壓器負載指南 (Power transformers — Part 12: Loading guide for dry-type power transformers) 
+IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓器 (Power transformers — Part 13: Self-protected liquid-filled transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-2, Power transformers — Part 2: Temperature rise for liquid-immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134112Z" creationid="CCYU" creationdate="20140918T134112Z">
