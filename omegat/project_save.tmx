@@ -33463,8 +33463,8 @@
       <tuv lang="EN-US">
         <seg>With regard to the manufacturing phase, the client should consider in the specification and the manufacturer should consider during the manufacturing of the transformer:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072148Z" creationid="JUDY" creationdate="20141005T071752Z">
-        <seg>於製造階段，用戶端應考慮之規格和製造商於變壓器製造過程中應注意之事項：</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072332Z" creationid="JUDY" creationdate="20141005T071752Z">
+        <seg>於製造階段，用戶端應考慮之規格以及製造商於變壓器製造過程中應注意之事項：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34845,6 +34845,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>disposal or re-use of any packaging material;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072457Z" creationid="JUDY" creationdate="20141005T072457Z">
+        <seg>丟棄或再利用任何包裝材料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distortion of the supply voltage waveform exceeding the limits of 4.2;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163855Z" creationid="CCYU" creationdate="20140921T163855Z">
@@ -35017,6 +35025,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071101Z" creationid="JUDY" creationdate="20141005T071101Z">
         <seg>變壓器生命週期內之能源消耗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>energy use and environmental impact of transport to site;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072429Z" creationid="JUDY" creationdate="20141005T072429Z">
+        <seg>運輸至現場之能源使用和環境衝擊；</seg>
       </tuv>
     </tu>
     <tu>
