@@ -5892,6 +5892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073115Z" creationid="JUDY" creationdate="20141005T073115Z">
+        <seg>參考書目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z" creationid="CCYU" creationdate="20140808T134611Z">
@@ -27776,6 +27784,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T125545Z" creationid="CCYU" creationdate="20140913T125545Z">
         <seg>圖 8 中少部份區域中最大的規模為 28 公尺 (~46.28 像素)，而圖 8B 中為 24 公尺 (~39.34 像素)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The life cycle of the transformer may be considered in terms of material and e&lt;t0/&gt;nergy inputs and waste outputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073104Z" creationid="JUDY" creationdate="20141005T073104Z">
+        <seg>應由材料和能量輸入和廢棄物輸出方面考量變壓器之生命週期。</seg>
       </tuv>
     </tu>
     <tu>
