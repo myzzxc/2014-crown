@@ -27446,8 +27446,8 @@
       <tuv lang="EN-US">
         <seg>The following factors should be taken into account during this consideration and efforts made to minimise the overall impact of production, use and disposal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070032Z" creationid="JUDY" creationdate="20141005T070032Z">
-        <seg>以下因素應在此審議並努力減少生產、 使用和處置的總體影響考慮在內。</seg>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070150Z" creationid="JUDY" creationdate="20141005T070032Z">
+        <seg>以下為需考量之因子，並應努力將生產、使用和丟棄處理之影響降到最低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28528,6 +28528,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203641Z" creationid="Judy" creationdate="20140823T203632Z">
         <seg>熱量輸入與輸出率之計算為沿所有固體牆面加總：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The raw materials for the transformer should be evaluated against the following criterion:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070328Z" creationid="JUDY" creationdate="20141005T070328Z">
+        <seg>變壓器原料應將以下標準列入考量：</seg>
       </tuv>
     </tu>
     <tu>
