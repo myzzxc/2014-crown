@@ -27521,8 +27521,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The combined surfaces of the felt or matrix wires create a large heat transfer area that promotes heat transfer rate between working gas and the porous medium, and the metal material itself acts like a heat reservoir to absorb and release large amount of heat.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145032Z" creationid="CCYU" creationdate="20141015T141051Z">
-        <seg>金屬網或線矩陣具有大熱傳導表面積可加速工作氣體與多孔介質間的熱傳導率，而金屬材料本身作為儲熱器以吸收合適放大量熱量。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151729Z" creationid="CCYU" creationdate="20141015T141051Z">
+        <seg>金屬網或線基體具有大熱傳導表面積可加速工作氣體與多孔介質間的熱傳導率，而金屬材料本身作為儲熱器以吸收合適放大量熱量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30667,6 +30667,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083412Z" creationid="CCYU" creationdate="20140817T083403Z">
         <seg>這些操作有很多使用液壓油或潤滑油的機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These parameters include matrix material, matrix arrangement, matrix wire diameter, and fill factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151713Z" creationid="CCYU" creationdate="20141015T151713Z">
+        <seg>這些參數包括基體材料、 矩陣排列、 基體金屬絲直徑，填滿因數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34348,6 +34356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055528Z" creationid="CCYU" creationdate="20140920T055528Z">
         <seg>Z-連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[10] conducted an experimental study to investigate the impacts of several parameters on the performance of the MR in a γ-type &lt;t23/&gt;Stirling&lt;t24/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151639Z" creationid="CCYU" creationdate="20141015T151639Z">
+        <seg>[10] 針對數個影響 γ-型史特林引擎之移動式再生器性能的參數進行實驗研究，</seg>
       </tuv>
     </tu>
     <tu>
