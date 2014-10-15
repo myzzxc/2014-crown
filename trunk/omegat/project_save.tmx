@@ -12818,6 +12818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the porous medium in the moving regenerator also increases pressure loss, and hence slightly reducing the net engine power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121239Z" creationid="CCYU" creationdate="20141015T121239Z">
+        <seg>然而，移動再生器之多孔介質同時增加了壓力損耗，因此略微降低了引擎淨功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, their effects are much&lt;t10/&gt; &lt;t11/&gt;smaller compared to that of the impingement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101240Z" creationid="Judy" creationdate="20140822T101210Z">
@@ -15970,6 +15978,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205226Z" creationid="Judy" creationdate="20140818T205226Z">
         <seg>研究發現衝擊為腔體膨脹和壓縮之主要熱傳導機制，而無論任何時刻引擎內部溫度分布高度不均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is found that the moving regenerator acts as an effective thermal barrier between the expansion and compression chambers, resulting in significant reduction in rates of heat input and output and promotion on engine’s indicated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121045Z" creationid="CCYU" creationdate="20141015T121045Z">
+        <seg>研究發現移動再生器作為膨脹和壓縮腔體之間有效的熱屏障，導致熱輸入和輸出率顯著降低並提昇引擎功率。</seg>
       </tuv>
     </tu>
     <tu>
