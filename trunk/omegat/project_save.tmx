@@ -29015,6 +29015,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results include temperature contours, variations of average temperature, heat transfer rates, integrated rates of heat input and output, engine power, and efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120755Z" creationid="CCYU" creationdate="20141015T120755Z">
+        <seg>結果包括了等溫線、平均溫度變化、熱傳導率、加總體熱量輸入和輸出率、引擎功率以及效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The results include temperature contours, velocity vectors, and distributions of local heat ﬂux at several important stages in an engine cycle as well as average temperature variations, integrated rates of heat input, heat output, and engine power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T212100Z" creationid="Judy" creationdate="20140823T212100Z">
