@@ -2905,6 +2905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t10/&gt;Mahkamov&lt;t11/&gt; [11] used &lt;t12/&gt;both second-order model and an axisymmetric CFD approach to analyze the working process of a solar &lt;t13/&gt;Stirling&lt;t14/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154226Z" creationid="CCYU" creationdate="20141015T154226Z">
+        <seg>Mahkamov [11] 使用二階模型與軸對稱計算流體力學方式以分析太陽能史特林引擎作動過程，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t10/&gt;The study demonstrated the importance of optimizing the regenerator matrix on the overall performance of &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;Stirling&lt;t14/&gt; engine.&lt;t15/&gt; &lt;t16/&gt;In terms of MRs, on the other hand, there have been very few investigations on their performance in open literature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151847Z" creationid="CCYU" creationdate="20141015T150605Z">
@@ -12894,6 +12902,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104915Z" creationid="CCYU" creationdate="20140809T104915Z">
         <seg>Hotmelt&lt;t0/&gt; adhesive 熱熔膠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, applying a CFD analysis on a &lt;t4/&gt;Stirling&lt;t5/&gt; cycle is much more challenging and time consuming than the first-, second-, and third-order models, hence many attempts to apply CFD analyses on &lt;t6/&gt;Stirling&lt;t7/&gt; engines focused on individual components such as combustion chamber of the heater [15].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154042Z" creationid="CCYU" creationdate="20141015T154042Z">
+        <seg>然而，使用計算流體力學分析相對於一階、二階以及三階模型更具挑戰性且更耗時，因此許多史特林引擎的計算連體力學方法將重點放於單一元件，如加熱器燃燒室 [15]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30087,6 +30103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transient temperature variations by the CFD approach are far from the harmonic distributions given by the second-order model, and CFD approach returned more accurate output power than the second-order model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154306Z" creationid="CCYU" creationdate="20141015T154306Z">
+        <seg>使用計算流體力學之暫態溫度變化量比二階法更加均勻分布，且計算流體力學模型相對二階模型傳回了較精準的輸出功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The two components are kept separate in a dual-chambered cartridge.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133459Z">
@@ -30451,6 +30475,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T134421Z" creationid="Judy" creationdate="20140820T134421Z">
         <seg>有兩種常用移動網格技術：一是加入或移除網格以改變計算範圍的體積，另一種為直接改變網格的幾何形貌以膨脹或壓縮其體積。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There have been very limited reports on using CFD approach to study the full cycle of a &lt;t8/&gt;Stirling&lt;t9/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154053Z" creationid="CCYU" creationdate="20141015T154053Z">
+        <seg>使用計算流體力學方法研究史特林引擎全循環的文獻資料非常有限，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30907,6 +30939,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083244Z" creationid="CCYU" creationdate="20140817T083244Z">
         <seg>吸收護邊可被踐踏不會破裂，且能使用較長的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They found significant differences in temperature data and engine performance obtained by the two methods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154244Z" creationid="CCYU" creationdate="20141015T154244Z">
+        <seg>他們發現兩種方法之間的溫度數據與引擎效能有顯著的差異。</seg>
       </tuv>
     </tu>
     <tu>
