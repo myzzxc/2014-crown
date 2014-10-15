@@ -30399,6 +30399,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These include low power/weight ratio compared with IC engines and incapability of changing power swiftly, thus hindering their spread to more general applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T133131Z" creationid="CCYU" creationdate="20141015T133131Z">
+        <seg>包括與內燃機相比之低功率重量比以及無法快速改變功率，因此阻礙了其更一般性應用的普及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These load losses are referred to the relevant tapping current values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133530Z" creationid="CCYU" creationdate="20140925T133530Z">
