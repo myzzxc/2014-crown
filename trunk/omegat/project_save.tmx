@@ -3309,8 +3309,8 @@
       <tuv lang="EN-US">
         <seg>A regenerator is basically a void filled with porous medium made of metal felt or wire matrices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T141321Z" creationid="CCYU" creationdate="20141015T140827Z">
-        <seg>再生器基本上為填充多孔性介質之金屬網，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T141734Z" creationid="CCYU" creationdate="20141015T140827Z">
+        <seg>再生器基本上使用多孔性介質填充金屬網空隙製成，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,6 +12918,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193502Z" creationid="Judy" creationdate="20140823T193502Z">
         <seg>然而有某些例外，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there exist disadvantages associated with a regenerator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T141604Z" creationid="CCYU" creationdate="20141015T141604Z">
+        <seg>然而，使用再生器也有一些缺點。</seg>
       </tuv>
     </tu>
     <tu>
