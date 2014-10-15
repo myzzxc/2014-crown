@@ -32336,6 +32336,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two engines, one with 2 power pistons and the other with four power pistons, were investigated, and both engines adopted MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151011Z" creationid="CCYU" creationdate="20141015T151011Z">
+        <seg>針對兩組引擎進行研究，一組帶有兩動力活塞而另一組帶有四動力活塞，兩組引擎皆使用移動式再生器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type "side-by-side":</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
