@@ -4779,6 +4779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Andersen et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145459Z" creationid="CCYU" creationdate="20141015T145459Z">
+        <seg>Andersen 等人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex &lt;t0/&gt;B 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042325Z" creationid="MAE" creationdate="20140727T042325Z">
@@ -24135,6 +24143,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several correlations have been proposed to characterize pressure drop friction factor for wound woven wire regenerator matrices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145452Z" creationid="CCYU" creationdate="20141015T145323Z">
+        <seg>提出幾種測定傷口縫線再生器矩陣的壓降摩擦係數之相關性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shanghai, China</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014114Z" creationid="JUDY" creationdate="20140827T014114Z">
@@ -34306,8 +34322,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>[7] presented a numerical study on the pressure drop phenomena in a wound woven wire matrix of a &lt;t4/&gt;Stirling&lt;t5/&gt; regenerator.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145214Z" creationid="CCYU" creationdate="20141015T145004Z">
-        <seg>[7] 提出了史特林再生器之傷口縫線矩陣中的壓降現象之數值研究。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145339Z" creationid="CCYU" creationdate="20141015T145004Z">
+        <seg>[7] 進行了史特林再生器之傷口縫線矩陣中的壓降現象之數值研究，</seg>
       </tuv>
     </tu>
     <tu>
