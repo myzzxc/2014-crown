@@ -4547,6 +4547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among them, the model proposed by &lt;t10/&gt;Schmidt is the stereotype, and improved variants of Schmidt’s model are nowadays the most widely adopted models [12-14] in numerical studies of &lt;t11/&gt;Stirling&lt;t12/&gt; engines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152756Z" creationid="CCYU" creationdate="20141015T152756Z">
+        <seg>其中，Schmidt 提出的模型最為經典，Schmidt 模型之改進版本為當今史特林引擎數值分析最廣泛採用的模型 [12-14]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among them, the model proposed by Schmidt is the stereotype, and improved variants of Schmidt’s model are nowadays the most widely adopted models [6–8] for numerical analysis of Stirling engines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T215617Z" creationid="Judy" creationdate="20140818T215617Z">
@@ -12874,6 +12882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, because these models are zero- or one-dimensional models, they can only resolve spatial variations in the axial direction of the engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152805Z" creationid="CCYU" creationdate="20141015T152805Z">
+        <seg>然而，因為這些模型皆為零或一維模型，最多僅能解出引擎軸向空間的變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because these models are zero&lt;t9/&gt;- &lt;t10/&gt;or one-dimensional models, they, at best, only resolve spatial variations in the axial direction of the engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220910Z" creationid="Judy" creationdate="20140818T220910Z">
@@ -15230,6 +15246,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these models, the entire engine is divided into 3, or 5, or more sections (control volumes), so they are practically zero- or one-dimensional models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152728Z" creationid="CCYU" creationdate="20141015T152728Z">
+        <seg>在這些模型中，整個引擎分為 3、或 5 或更多的片段 (控制體積)，因此實際上其為零或一維模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these models, the entire engine is divided into 3, or 5, or more sections (control volumes), so they are practically zero&lt;t4/&gt;- &lt;t5/&gt;or one-dimensional models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T220433Z" creationid="Judy" creationdate="20140818T215125Z">
@@ -15249,6 +15273,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>In this case, any variation in the transverse direction that is important for predicting the engine’s performance accurately will not be accounted for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T221245Z" creationid="Judy" creationdate="20140818T221222Z">
+        <seg>此情況下，便無法將用以預測引擎性能之中重要的橫斷向變化列入考慮，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, any variation in the transverse direction that is important to predict the engine’s performance accurately will not be accounted for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152822Z" creationid="CCYU" creationdate="20141015T152822Z">
         <seg>此情況下，便無法將用以預測引擎性能之中重要的橫斷向變化列入考慮，</seg>
       </tuv>
     </tu>
@@ -19042,6 +19074,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203541Z" creationid="Judy" creationdate="20140823T203446Z">
         <seg>熱量輸出也不能限制於沿壓縮腔體牆面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neither can they resolve the effects caused by changes in some geometrical features such as the shapes and dimensions of displacer and displacer cylinder, regeneration chamber, or the internal gas circuits, all of which can only be defined in multi dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152912Z" creationid="CCYU" creationdate="20141015T152912Z">
+        <seg>也無法解出某些幾何特性變化，如換氣活塞與換氣汽缸、再生室或內部氣體迴路的形狀和尺寸變化所造成的影響，這些性質只能在多維度中測定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31410,6 +31450,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>This means that they are not very accurate in terms of the optimization of the geometries and dimensions of individual components during the design of a Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T044653Z" creationid="Judy" creationdate="20140819T044653Z">
+        <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that they are not very useful in terms of optimizing the geometries and dimensions of individual components during the design of a &lt;t13/&gt;Stirling&lt;t14/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152958Z" creationid="CCYU" creationdate="20141015T152958Z">
         <seg>使得在設計史特林引擎時，針對個別元件幾何尺寸最佳化並不準確。</seg>
       </tuv>
     </tu>
