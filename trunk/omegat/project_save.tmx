@@ -34200,6 +34200,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[6] studied a LTD &lt;t15/&gt;Stirling&lt;t16/&gt; engine numerically and found that the engine’s thermal efficiency resulted &lt;t17/&gt;from regenerator effectiveness of 1.0 is 6 times larger than that resulted from zero regenerator effectiveness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T140344Z" creationid="CCYU" creationdate="20141015T140230Z">
+        <seg>[6] 以數值方法研究低溫差 (LTD) 史特林引擎並發現再生器效應 1.0 之熱效率為零再生器效應的六倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-01, modified]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143742Z" creationid="CCYU" creationdate="20140919T143742Z">
