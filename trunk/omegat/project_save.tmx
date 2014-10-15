@@ -7734,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conventionally, &lt;t0/&gt;Stirling&lt;t1/&gt; engines are classified into &lt;t2/&gt;α&lt;t3/&gt;, &lt;t4/&gt;β&lt;t5/&gt;, and &lt;t6/&gt;γ&lt;t7/&gt; types according to their configurations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T133539Z" creationid="CCYU" creationdate="20141015T133434Z">
+        <seg>史特林引擎一般根據其設置分為&lt;t2/&gt;α&lt;t3/&gt;、&lt;t4/&gt;β&lt;t5/&gt; 以及 &lt;t6/&gt;γ&lt;t7/&gt; 型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conventions of drawing are the same as in Figure 2 (Clause 7) of the main document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141646Z" creationid="CCYU" creationdate="20141004T141528Z">
@@ -30227,6 +30235,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T143035Z" creationid="CCYU" creationdate="20140913T143035Z">
         <seg>因此，若欲獲得最好的 PIV 分析結果，必須更謹慎地選擇合適的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, improving &lt;t6/&gt;Stirling&lt;t7/&gt; engines’ performance, in terms of efficiency and power output, has become the mainstream subject of &lt;t8/&gt;Stirling&lt;t9/&gt; engine research.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T133322Z" creationid="CCYU" creationdate="20141015T133322Z">
+        <seg>因此，提高史特林引擎之效率和輸出功率已成史特林引擎研究之主流。</seg>
       </tuv>
     </tu>
     <tu>
