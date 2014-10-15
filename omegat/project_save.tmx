@@ -16390,6 +16390,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was found that impingement is the major heat transfer mechanism in the expansion and compression chambers, and the temperature distribution is three dimensional and highly non-uniform across the engine volume at any given moment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155124Z" creationid="CCYU" creationdate="20141015T155124Z">
+        <seg>研究發現衝擊為膨脹和壓縮腔體中主要熱傳導機制，而無論任何時刻引擎內部溫度分布為三維且高度不均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will, unless otherwise agreed, be the 'maximum current tapping' (which is usually the tapping with the highest load loss).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z" creationid="CCYU" creationdate="20140925T134105Z">
@@ -29739,6 +29747,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152101Z" creationid="CCYU" creationdate="20141015T152101Z">
         <seg>這項研究指出線基體與氣體流動方向之排列方式的重要性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The study shed light into the complex heat transfer mechanism inside the &lt;t25/&gt;Stirling&lt;t26/&gt; engine, and the findings are of great help to understand the fundamental heat transfer process of the &lt;t27/&gt;Stirling&lt;t28/&gt; engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155230Z" creationid="CCYU" creationdate="20141015T155230Z">
+        <seg>這項研究提出了史特林引擎內部複雜的熱傳機制，對於了解史特林引擎循環的基本過程非常有幫助。</seg>
       </tuv>
     </tu>
     <tu>
