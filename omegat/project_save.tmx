@@ -35088,6 +35088,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>core radius of cylinder&lt;t0/&gt; &lt;t1/&gt;(&lt;t2/&gt;m&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124630Z" creationid="CCYU" creationdate="20141015T124630Z">
+        <seg>汽缸內圍半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>correct&lt;t0/&gt; dispensing tool.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002929Z">
@@ -35796,6 +35804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104223Z" creationid="Judy" creationdate="20140819T104223Z">
         <seg>氣體常數 (Jkg-1 K-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gas&lt;t0/&gt; constant (Jkg&lt;t1/&gt;-1&lt;t2/&gt;K&lt;t3/&gt;-1&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124639Z" creationid="CCYU" creationdate="20141015T124639Z">
+        <seg>氣體常數 (Jkg&lt;t1/&gt;-1&lt;t2/&gt;K&lt;t3/&gt;-1&lt;t4/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36648,6 +36664,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>offset distance from the crank to the center of gear (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124744Z" creationid="CCYU" creationdate="20141015T124744Z">
+        <seg>曲柄至齒輪中心之偏移距離 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>on request by the customer, reference temperature is rated average winding temperature rise + 20 °C, or rated average winding temperature rise + yearly external cooling medium average temperature, whichever is higher;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132309Z" creationid="CCYU" creationdate="20140927T131705Z">
@@ -36732,6 +36756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T104317Z">
         <seg>動力活塞外圍半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>output&lt;t0/&gt; heat transfer rate (W)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124510Z" creationid="CCYU" creationdate="20141015T124510Z">
+        <seg>輸出熱傳導率 (W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36980,6 +37012,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T162614Z" creationid="CCYU" creationdate="20140816T162614Z">
         <seg>&lt;t1/&gt;SaveSorb&lt;t2/&gt; 的目標是能為客戶提供其所需服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>radius of the displacer &lt;t0/&gt;(&lt;t1/&gt;m&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124555Z" creationid="CCYU" creationdate="20141015T124555Z">
+        <seg>換氣活塞半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38281,6 +38321,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>time (s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124750Z" creationid="CCYU" creationdate="20141015T124750Z">
+        <seg>時間 (s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>time&lt;t0/&gt; (s)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104712Z" creationid="Judy" creationdate="20140819T104712Z">
@@ -38480,6 +38528,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125509Z" creationid="CCYU" creationdate="20140918T123820Z">
         <seg>無繞組且額定電壓高於 1000 V 之變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two-dimensional&lt;t0/&gt; &lt;t1/&gt;cylindrical coordinates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124535Z" creationid="CCYU" creationdate="20141015T124535Z">
+        <seg>二維圓柱座標</seg>
       </tuv>
     </tu>
     <tu>
