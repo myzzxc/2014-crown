@@ -19176,8 +19176,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Nomenclature</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103437Z" creationid="Judy" creationdate="20140819T103437Z">
-        <seg>Nomenclature </seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123423Z" creationid="Judy" creationdate="20140819T103437Z">
+        <seg>命名法</seg>
       </tuv>
     </tu>
     <tu>
@@ -35016,6 +35016,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>constant pressure specific heat (kJkg&lt;t0/&gt;-1&lt;t1/&gt;K&lt;t2/&gt;-1&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123442Z" creationid="CCYU" creationdate="20141015T123442Z">
+        <seg>定壓比熱 (kJkg&lt;t0/&gt;-1&lt;t1/&gt;K&lt;t2/&gt;-1&lt;t3/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>constant&lt;t0/&gt; pressure specific heat (kJ kg-1 K-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T103528Z" creationid="Judy" creationdate="20140819T103528Z">
@@ -35204,6 +35212,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T130250Z" creationid="CCYU" creationdate="20141001T130250Z">
         <seg>5.1.4 未包含之預期週期過載的詳細資訊 (以便確立變壓器輔助設備之額定值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>diameter of porous particle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123524Z" creationid="CCYU" creationdate="20141015T123524Z">
+        <seg>多孔粒子直徑</seg>
       </tuv>
     </tu>
     <tu>
