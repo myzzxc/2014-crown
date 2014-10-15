@@ -3507,6 +3507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A well performing regenerator needs to maximize heat transfer rate and heat capacity while minimize dead volume, pressure drop, and energy losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144019Z" creationid="CCYU" creationdate="20141015T144019Z">
+        <seg>良好的再生器需使熱傳導率和熱容量最大化，使無效容積、壓降以及能量損耗最小化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A wide range of optics, includ­ing a remote-controlled, motorized variable focus option on some mod­els, covers an enormous variety of applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T223813Z" creationid="JUDY" creationdate="20140826T223813Z">
@@ -30351,6 +30359,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, regenerator optimization is at the heart of &lt;t18/&gt;Stirling&lt;t19/&gt; engine design (Costa et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144152Z" creationid="CCYU" creationdate="20141015T144152Z">
+        <seg>因此，再生器最佳化為史特林引擎設計之核心 (Costa 等人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the &lt;t10/&gt;γ-type&lt;t11/&gt; engine is very suitable for&lt;t12/&gt; &lt;t13/&gt;domestic use, which can potentially become a very large market, because of the readily availability and low cost of low-grade fuel and the engine’s simplicity to construct and maintain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T083327Z" creationid="Judy" creationdate="20140819T083327Z">
@@ -34244,6 +34260,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T140344Z" creationid="CCYU" creationdate="20141015T140230Z">
         <seg>[6] 以數值方法研究低溫差 (LTD) 史特林引擎並發現再生器效應 1.0 之熱效率為零再生器效應的六倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[7]).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144154Z" creationid="CCYU" creationdate="20141015T144154Z">
+        <seg>[7])。</seg>
       </tuv>
     </tu>
     <tu>
