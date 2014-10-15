@@ -35720,6 +35720,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>force&lt;t0/&gt; components introduced by porous medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123805Z" creationid="CCYU" creationdate="20141015T123805Z">
+        <seg>多孔介質產生之力分量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>frequent&lt;t0/&gt; short circuits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134225Z" creationid="CCYU" creationdate="20141001T134225Z">
@@ -35788,6 +35796,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072536Z" creationid="CCYU" creationdate="20140927T072536Z">
         <seg>地磁感應電流 (GIC)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>geometrical function in porous medium model</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123612Z" creationid="CCYU" creationdate="20141015T123612Z">
+        <seg>多孔介質模型中之幾何函數</seg>
       </tuv>
     </tu>
     <tu>
@@ -36728,6 +36744,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>permeability of porous medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123844Z" creationid="CCYU" creationdate="20141015T123844Z">
+        <seg>多孔介質之滲透率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>phase displacement (of a three-phase winding)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040858Z" creationid="CCYU" creationdate="20140921T040858Z">
@@ -37036,6 +37060,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143419Z" creationid="CCYU" creationdate="20141004T142632Z">
         <seg>代表 '冷繞組電阻' 量測 (11.2)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>regenerative channel gap (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123830Z" creationid="CCYU" creationdate="20141015T123830Z">
+        <seg>再生通道間隙 (m)</seg>
       </tuv>
     </tu>
     <tu>
