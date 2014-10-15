@@ -14686,6 +14686,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, heat transfer rates inside the expansion and compression chambers are often estimated by some simple practices that have over-simplified the complexity of the real heat transfer mechanisms taking place inside these chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153029Z" creationid="CCYU" creationdate="20141015T153029Z">
+        <seg>另外，膨脹及壓縮腔體內的熱傳速率通常以固定熱對流傳導係數來估計，因而過度簡化了腔體內部實際熱傳導的複雜機制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, heat transfer rates inside the expansion and compression chambers are often estimated by using constant convective heat transfer coefﬁcients, a practice that has over-simpliﬁed the complexity of the real heat transfer mechanism taking place inside these chambers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045015Z" creationid="Judy" creationdate="20140819T045015Z">
@@ -30687,6 +30695,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These factors together with other model assumptions result in poor predictive accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153118Z" creationid="CCYU" creationdate="20141015T153118Z">
+        <seg>綜合以上因子與其他簡化結果，模型的預測準確度並不高，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These factors together with other simpliﬁcations result in poor predictive accuracy returned by these models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T045151Z" creationid="Judy" creationdate="20140819T045151Z">
@@ -30947,6 +30963,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164514Z" creationid="CCYU" creationdate="20140816T164514Z">
         <seg>這些產品具由卓越的性能與更多的吸收重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They tend to over-predict engine’s output power and efficiency by the margins from 30% to 100%, or even more [11].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153147Z" creationid="CCYU" creationdate="20141015T153147Z">
+        <seg>常傾向於高估引擎之輸出功率與效率，高估量由 30% 至 100% 或甚至更高 [11]。</seg>
       </tuv>
     </tu>
     <tu>
