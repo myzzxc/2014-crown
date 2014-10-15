@@ -2905,6 +2905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t10/&gt;The study demonstrated the importance of optimizing the regenerator matrix on the overall performance of &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;Stirling&lt;t14/&gt; engine.&lt;t15/&gt; &lt;t16/&gt;In terms of MRs, on the other hand, there have been very few investigations on their performance in open literature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150605Z" creationid="CCYU" creationdate="20141015T150605Z">
+        <seg>研究展現了再生器矩陣最佳化對史特林引擎性能的重要性。另一方面，對於移動式再生器之研究文獻相當稀少，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T025307Z">
@@ -2917,6 +2925,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T135621Z" creationid="CCYU" creationdate="20141015T135621Z">
         <seg>&lt;t13/&gt;Tavakur&lt;t14/&gt; 等人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t17/&gt;Kongtragool&lt;t18/&gt; and &lt;t19/&gt;Wongwises&lt;t20/&gt; [9] conducted an experimental study on low-temperature difference γ-type &lt;t21/&gt;Stirling&lt;t22/&gt; engines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150719Z" creationid="CCYU" creationdate="20141015T150719Z">
+        <seg>Kongtragool 和 Wongwises [9] 對低溫差 γ-型史特林引擎進行了實驗研究，</seg>
       </tuv>
     </tu>
     <tu>
