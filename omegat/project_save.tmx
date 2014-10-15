@@ -15982,6 +15982,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It improves engine’s thermal efficiency by functioning as a thermal heat storage unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T134430Z" creationid="CCYU" creationdate="20141015T134430Z">
+        <seg>它可以作為儲熱單元以提高引擎之熱效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a low to medium temperature differential engine; therefore it can run on temperature difference from just tens of degree to a couple of hundreds of degree.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081226Z" creationid="Judy" creationdate="20140819T081207Z">
