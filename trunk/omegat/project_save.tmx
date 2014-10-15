@@ -25631,6 +25631,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such understanding is the foundation to further improve &lt;t2/&gt;Stirling&lt;t3/&gt; engine’s performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155606Z" creationid="CCYU" creationdate="20141015T155606Z">
+        <seg>瞭解此類機制為進一步提高史特林引擎效能的基礎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sucrose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131715Z" creationid="CCYU" creationdate="20140807T131715Z">
@@ -30195,6 +30203,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162929Z" creationid="CCYU" creationdate="20140922T162929Z">
         <seg>大型變壓器運輸過程中常使用衝擊或振動記錄器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The usefulness of applying a CFD approach to study the complicated physical process in the working cycles of &lt;t0/&gt;Stirling&lt;t1/&gt; engines can be appreciated from the above review.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155410Z" creationid="CCYU" creationdate="20141015T155410Z">
+        <seg>以上文獻回顧顯示了應用 CFD 方法研究史特林引擎工作週期中複雜的物理過程的實用性，</seg>
       </tuv>
     </tu>
     <tu>
