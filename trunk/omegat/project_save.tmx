@@ -2913,6 +2913,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t13/&gt;Tavakur&lt;t14/&gt; et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T135621Z" creationid="CCYU" creationdate="20141015T135621Z">
+        <seg>&lt;t13/&gt;Tavakur&lt;t14/&gt; 等人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;Check brush diameter (Table B5) and attach the brush to a drilling machine or a battery screwdriver.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044937Z">
@@ -7578,6 +7586,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130010Z" creationid="CCYU" creationdate="20140817T130010Z">
         <seg>間接成本 –</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consequently, less heat input is needed at the hot end, and less waste heat is discharged to the cold end, resulting in huge improvement on engine’s thermal efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T135606Z" creationid="CCYU" creationdate="20141015T135606Z">
+        <seg>因此可減少熱端所需熱量以及冷端廢熱排放，進而使得引擎之熱效率顯著改進。</seg>
       </tuv>
     </tu>
     <tu>
