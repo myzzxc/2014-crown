@@ -34536,6 +34536,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yet, to authors’ best knowledge; there has been no CFD study on MR in open literature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155705Z" creationid="CCYU" creationdate="20141015T155705Z">
+        <seg>然而，盡作者所知；在公開的文獻中無移動式再生器之計算流體力學研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yet, understanding the fundamental processes of its engine cycle in great detail is a key step to improve the engine’s performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T084316Z" creationid="Judy" creationdate="20140819T084316Z">
