@@ -30015,6 +30015,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The void in regenerator increases the dead volume of the engine, and the porous medium structure inside the regenerator increases pressure drop as working gas flows forwards and backwards through the regenerator in engine cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T143041Z" creationid="CCYU" creationdate="20141015T143041Z">
+        <seg>再生器之空隙增加了引擎無效容積，且再生器內部多孔介質結構使工作氣體來回流經再生器而增加壓降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage across the secondary terminals differs from rated voltage by the voltage drop (or rise) in the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T120036Z" creationid="CCYU" creationdate="20140921T120036Z">
