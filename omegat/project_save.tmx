@@ -34336,6 +34336,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[8] conducted a detailed numerical study on the regenerator of a SM5 α-type &lt;t6/&gt;Stirling&lt;t7/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145603Z" creationid="CCYU" creationdate="20141015T145603Z">
+        <seg>[8] 對 SM5 α-型史特林引擎之再生器進行了詳細的數值研究，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[&lt;t0/&gt;IEC &lt;t1/&gt;60050-421:1990, 421-04-01, modified]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143742Z" creationid="CCYU" creationdate="20140919T143742Z">
