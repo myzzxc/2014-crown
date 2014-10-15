@@ -3307,6 +3307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A regenerator is basically a void filled with porous medium made of metal felt or wire matrices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T140833Z" creationid="CCYU" creationdate="20141015T140827Z">
+        <seg>再生器基本上為金屬網製成多孔性介質之填充物，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A series of seven PIV analyses were conducted, in which the entire 3228×2448 pixels random image was covered in square patches with side length, L, 8, 16 and 32 pixels respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120221Z" creationid="CCYU" creationdate="20140913T120221Z">
@@ -27403,6 +27411,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T021206Z" creationid="Judy" creationdate="20140821T021206Z">
         <seg>換氣活塞與動力活塞的聯合運動使氣體來回流經膨脹和壓縮腔體之間，當動力活塞的運動使得引擎總體積膨脹與壓縮，而造成工作氣體冷卻或加熱效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The combined surfaces of the felt or matrix wires create a large heat transfer area that promotes heat transfer rate between working gas and the porous medium, and the metal material itself acts like a heat reservoir to absorb and release large amount of heat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T141051Z" creationid="CCYU" creationdate="20141015T141051Z">
+        <seg>金屬網具有大熱傳導表面積可加速與工作氣體間的The combined surfaces of the felt or matrix wires create a large heat transfer area that promotes heat transfer rate between working gas and the porous medium, and the metal material itself acts like a heat reservoir to absorb and release large amount of heat.</seg>
       </tuv>
     </tu>
     <tu>
