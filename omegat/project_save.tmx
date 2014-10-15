@@ -16262,6 +16262,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keywords:&lt;t0/&gt; &lt;t1/&gt;β&lt;t2/&gt;-type &lt;t3/&gt;Stirling&lt;t4/&gt; engine, CFD, moving regenerator, porous medium.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T122032Z" creationid="CCYU" creationdate="20141015T122032Z">
+        <seg>關鍵字：β-型史特林引擎、計算流體力學、移動再生器、多孔介質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind of transformer, for example, separate winding transformer, auto-transformer or series transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124321Z" creationid="CCYU" creationdate="20140930T124321Z">
