@@ -27111,6 +27111,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The CFD analysis identified some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154715Z" creationid="CCYU" creationdate="20141015T154715Z">
+        <seg>計算流體力學分析找出了某些降低引擎功率的關鍵因子：幾何形狀造成再生器、連接兩端壓縮空間管路所包含的氣體以及管路造成的無效容積之高度流體損失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CFD method identiﬁed some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T114132Z" creationid="Judy" creationdate="20140819T080529Z">
@@ -29714,6 +29722,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The study also highlighted the usefulness of adopting a CFD approach to identify and solve problems during the design of a Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T080855Z" creationid="Judy" creationdate="20140819T080855Z">
+        <seg>研究同時強調於設計史特林引擎時使用計算流體力學法找出並解決問題的實用性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The study highlighted the usefulness of adopting a CFD approach to identify and solve problems during the design of a &lt;t19/&gt;Stirling&lt;t20/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154727Z" creationid="CCYU" creationdate="20141015T154727Z">
         <seg>研究同時強調於設計史特林引擎時使用計算流體力學法找出並解決問題的實用性。</seg>
       </tuv>
     </tu>
@@ -34588,6 +34604,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T144957Z" creationid="Judy" creationdate="20140820T144859Z">
         <seg>[16] 所提出之壓力-速度耦合方式進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[17] conducted &lt;t21/&gt;a 3D&lt;t22/&gt; CFD study on the heat transfer characteristics of the working cycle of a γ-type &lt;t23/&gt;Stirling&lt;t24/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154918Z" creationid="CCYU" creationdate="20141015T154918Z">
+        <seg>[17] 對 γ-型史特林引擎工作循環之熱傳導特性進行了三維計算流體力學研究，</seg>
       </tuv>
     </tu>
     <tu>
