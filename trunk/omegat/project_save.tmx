@@ -3105,6 +3105,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t8/&gt;T&lt;t9/&gt;hey found that power output decreased sharply for low fill factors and large wire diameters, which resulted in smaller total heat transfer area in the regenerator matrix.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150220Z" creationid="CCYU" creationdate="20141015T150220Z">
+        <seg>並發現了低填充因子及大線徑使得再生器矩陣中的熱傳導面積較小而使輸出功率急劇下降，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>= diameter of clearance hole in the fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123458Z">
@@ -30769,8 +30777,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>They investigated the effects of two parameters, regenerator matrix wire diameter and fill factor, on electric power, efficiency, regenerator loss, and heat intake.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145856Z" creationid="CCYU" creationdate="20141015T145856Z">
-        <seg>他們研究了再生器矩陣線徑和填充因子兩個參數對電力、效率、、再生器損耗以及吸收熱量的影響，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150225Z" creationid="CCYU" creationdate="20141015T145856Z">
+        <seg>他們研究了再生器矩陣線徑和填充因子兩個參數對電力、效率、再生器損耗以及吸收熱量的影響，</seg>
       </tuv>
     </tu>
     <tu>
