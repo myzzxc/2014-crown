@@ -36368,6 +36368,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>local frame moving velocity components respectively in &lt;t0/&gt;x&lt;t1/&gt;- and &lt;t2/&gt;r&lt;t3/&gt;-directions (ms&lt;t4/&gt;-1&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125113Z" creationid="CCYU" creationdate="20141015T125113Z">
+        <seg>&lt;t0/&gt;x&lt;t1/&gt;- 和 &lt;t2/&gt;r&lt;t3/&gt;-方向之框架局部移動速度分量 (ms&lt;t4/&gt;-1&lt;t5/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>local&lt;t0/&gt; frame moving velocity components respectively in x-, y-, and z-directions (ms-1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101427Z" creationid="Judy" creationdate="20140819T105049Z">
@@ -37776,6 +37784,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>temperature (K)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124829Z" creationid="CCYU" creationdate="20141015T124829Z">
+        <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature of cooling medium at any time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T083855Z" creationid="CCYU" creationdate="20140921T083855Z">
@@ -38329,6 +38345,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>time period of an engine cycle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124826Z" creationid="CCYU" creationdate="20141015T124826Z">
+        <seg>單一引擎循環時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>time&lt;t0/&gt; (s)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104712Z" creationid="Judy" creationdate="20140819T104712Z">
@@ -38688,6 +38712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160422Z" creationid="CCYU" creationdate="20141003T160422Z">
         <seg>LV 電壓變化：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>velocity components respectively in &lt;t0/&gt;x&lt;t1/&gt;- and &lt;t2/&gt;r&lt;t3/&gt;-directions (ms&lt;t4/&gt;-1&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125003Z" creationid="CCYU" creationdate="20141015T125003Z">
+        <seg>&lt;t0/&gt;x&lt;t1/&gt;- 和 &lt;t2/&gt;r&lt;t3/&gt;-方向之速度分量 (ms&lt;t4/&gt;-1&lt;t5/&gt;) (ms&lt;t4/&gt;-1&lt;t5/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
