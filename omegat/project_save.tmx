@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125731Z" creationid="CCYU" creationdate="20141015T125731Z">
+        <seg>導論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Liability for&lt;t1/&gt; &lt;t2/&gt;direct&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;indirect&lt;t7/&gt; &lt;t8/&gt;consequential losses&lt;t9/&gt; &lt;t10/&gt;caused&lt;t11/&gt; &lt;t12/&gt;by the&lt;t13/&gt; &lt;t14/&gt;unit&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;excluded&lt;t19/&gt; &lt;t20/&gt;even&lt;t21/&gt; &lt;t22/&gt;if the damage to the unit is accepted as a warranty&lt;t23/&gt; &lt;t24/&gt;claim.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075549Z">
@@ -25199,6 +25207,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Su&lt;t0/&gt;b&lt;t1/&gt;scripts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125705Z" creationid="CCYU" creationdate="20141015T125705Z">
+        <seg>下標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject: Bacteria</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023424Z" creationid="CCYU" creationdate="20140809T023424Z">
@@ -35098,8 +35114,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>core radius of cylinder&lt;t0/&gt; &lt;t1/&gt;(&lt;t2/&gt;m&lt;t3/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124630Z" creationid="CCYU" creationdate="20141015T124630Z">
-        <seg>汽缸內圍半徑 (m)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125603Z" creationid="CCYU" creationdate="20141015T124630Z">
+        <seg>汽缸核心半徑 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35140,6 +35156,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140131Z" creationid="CCYU" creationdate="20140923T140131Z">
         <seg>依據安裝類型和安裝環境 (請見 4.2) 之腐蝕保護，買方應該選擇 ISO 12944 等級之保護，或依照買家和製造商之間的協定；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crank&lt;t0/&gt; angle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125626Z" creationid="CCYU" creationdate="20141015T125626Z">
+        <seg>曲柄角度</seg>
       </tuv>
     </tu>
     <tu>
@@ -35528,6 +35552,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>engine speed (rads&lt;t0/&gt;-1&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125640Z" creationid="CCYU" creationdate="20141015T125640Z">
+        <seg>引擎轉速 (rads&lt;t0/&gt;-1&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>engine&lt;t0/&gt; efficiency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125615Z" creationid="CCYU" creationdate="20141015T125615Z">
+        <seg>引擎效率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>engine&lt;t0/&gt; efficiency crank angle viscosity (Pas)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105555Z" creationid="Judy" creationdate="20140819T105555Z">
@@ -35756,6 +35796,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T043544Z" creationid="MAE" creationdate="20140727T043544Z">
         <seg>灌注之鑽孔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>fluid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125713Z" creationid="CCYU" creationdate="20141015T125713Z">
+        <seg>流體</seg>
       </tuv>
     </tu>
     <tu>
@@ -36936,6 +36984,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>porous medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125717Z" creationid="CCYU" creationdate="20141015T125717Z">
+        <seg>多孔介質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>porous medium porosity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125406Z" creationid="CCYU" creationdate="20141015T125406Z">
@@ -37460,6 +37516,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164604Z" creationid="CCYU" creationdate="20140921T164604Z">
         <seg>太陽輻射；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>solid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125720Z" creationid="CCYU" creationdate="20141015T125720Z">
+        <seg>固體</seg>
       </tuv>
     </tu>
     <tu>
@@ -38824,6 +38888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105121Z" creationid="Judy" creationdate="20140819T105121Z">
         <seg>體積 (m3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wall thickness of the core cylinder (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125525Z" creationid="CCYU" creationdate="20141015T125525Z">
+        <seg>核心汽缸壁厚度 (m)</seg>
       </tuv>
     </tu>
     <tu>
