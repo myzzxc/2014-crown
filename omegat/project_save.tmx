@@ -12586,6 +12586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height of the engine (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123928Z" creationid="CCYU" creationdate="20141015T123928Z">
+        <seg>引擎高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z" creationid="Judy" creationdate="20140823T200832Z">
@@ -35256,6 +35264,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>distance between two gears (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124138Z" creationid="CCYU" creationdate="20141015T124138Z">
+        <seg>兩齒輪之距離 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>distortion of the supply voltage waveform exceeding the limits of 4.2;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163855Z" creationid="CCYU" creationdate="20140921T163855Z">
@@ -35888,6 +35904,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>height of displacer (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123917Z" creationid="CCYU" creationdate="20141015T123917Z">
+        <seg>換氣活塞高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>height&lt;t0/&gt; of displacer (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104026Z" creationid="Judy" creationdate="20140819T104026Z">
@@ -36188,6 +36212,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z" creationid="Judy" creationdate="20140819T103718Z">
         <seg>動力活塞連動桿長 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lengths of the linkages of the rhombic drive mechanism (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124102Z" creationid="CCYU" creationdate="20141015T124102Z">
+        <seg>菱形驅動機構之連動桿長 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38141,6 +38173,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131617Z" creationid="CCYU" creationdate="20141005T131617Z">
         <seg>使用環境管理系統 (ISO 14001)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thermal conductivity (Wm&lt;t0/&gt;-1&lt;t1/&gt;K&lt;t2/&gt;-1&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123906Z" creationid="CCYU" creationdate="20141015T123906Z">
+        <seg>熱導係數 (Wm&lt;t0/&gt;-1&lt;t1/&gt;K&lt;t2/&gt;-1&lt;t3/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
