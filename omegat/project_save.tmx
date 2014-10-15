@@ -4805,8 +4805,8 @@
       <tuv lang="EN-US">
         <seg>Andersen et al.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145459Z" creationid="CCYU" creationdate="20141015T145459Z">
-        <seg>Andersen 等人</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151313Z" creationid="CCYU" creationdate="20141015T145459Z">
+        <seg>Andersen 等人 </seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +7065,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T161043Z" creationid="Judy" creationdate="20140818T161043Z">
         <seg>Chemtrec&lt;t0/&gt; &lt;t1/&gt;國際  703&lt;t2/&gt;-527-3887</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chen et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151306Z" creationid="CCYU" creationdate="20141015T151306Z">
+        <seg>Chen 等人 </seg>
       </tuv>
     </tu>
     <tu>
@@ -12982,6 +12990,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T070220Z" creationid="Judy" creationdate="20140819T070209Z">
         <seg>然而，使用計算流體力學方法於史特林循環上仍存有許多問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, there was little information regarding the impact of the effectiveness of MR on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151259Z" creationid="CCYU" creationdate="20141015T151259Z">
+        <seg>然而，關於移動式再生器效應對引擎性能之影響的資訊相當稀少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29283,6 +29299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T204827Z" creationid="Judy" creationdate="20140818T204827Z">
         <seg>結果涵蓋了等溫線、速度向量、以及於數個重要時間點上沿固體邊緣局部熱通量，也包含了平均溫度變化、熱量輸入率、熱量輸出率以及引擎功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results included variations of engine torque, shaft power, and engine’s thermal efficiency versus heat input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151135Z" creationid="CCYU" creationdate="20141015T151135Z">
+        <seg>結果包括引擎扭矩、軸功率和引擎之熱效率對熱輸入的變化。</seg>
       </tuv>
     </tu>
     <tu>
