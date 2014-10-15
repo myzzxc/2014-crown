@@ -12866,6 +12866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are also some disadvantages associated with &lt;t4/&gt;Stirling&lt;t5/&gt; engines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T132815Z" creationid="CCYU" creationdate="20141015T132742Z">
+        <seg>然而，史特林引擎也有一些缺點，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there are exceptions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T193502Z" creationid="Judy" creationdate="20140823T193502Z">
@@ -19570,6 +19578,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
         <seg>此時可由電源插座拔下保溫電毯插頭。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nowadays, they have been applied successfully to power generation, combined heat power systems, and even automobiles, and new industries centered on this technology have been well established and are flourishing [4].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T132730Z" creationid="CCYU" creationdate="20141015T132730Z">
+        <seg>如今，史特林引擎已經被成功地應用於發電、結合式熱電系統、以及汽車上，以此科技為中心的新產業已經蓬勃發展 [4]。</seg>
       </tuv>
     </tu>
     <tu>
