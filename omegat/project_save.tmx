@@ -14422,6 +14422,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improvement on &lt;t0/&gt;Stirling&lt;t1/&gt; engine’s performance relies heavily on extensive numerical and experimental research on engine cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125848Z" creationid="CCYU" creationdate="20141015T125848Z">
+        <seg>改進史特林引擎的效能主要藉由廣泛的引擎循環之數值和實驗研究，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Improvement on Stirling engine’s performance relies heavily on extensive numerical and experimental research on engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213723Z" creationid="Judy" creationdate="20140818T213723Z">
@@ -30207,6 +30215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, many numerical models for &lt;t4/&gt;Stirling&lt;t5/&gt; engine cycles have been developed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125901Z" creationid="CCYU" creationdate="20141015T125901Z">
+        <seg>因此已開發出了許多史特林引擎循環之數值模型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, many numerical models for Stirling engine cycle have been developed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214152Z" creationid="Judy" creationdate="20140818T214152Z">
@@ -31499,6 +31515,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135348Z" creationid="Judy" creationdate="20140822T135342Z">
         <seg>為了展現此效應，圖 6 繪製了膨脹腔體於 h = 90.0° 之速度向量與等溫線以及局部熱通量分布放大圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To design a new &lt;t2/&gt;Stirling&lt;t3/&gt; engine, a numerical analysis often precedes experiment to find some general directions to follow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125834Z" creationid="CCYU" creationdate="20141015T125834Z">
+        <seg>為了設計新的史特林引擎，通常會在實驗進行前運用數值分析以找出整體方向，</seg>
       </tuv>
     </tu>
     <tu>
