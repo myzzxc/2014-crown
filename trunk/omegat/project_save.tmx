@@ -3163,6 +3163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A compressible CFD code has been developed to study the effects of a moving regenerator on heat transfer characteristics and performance of a &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine &lt;t4/&gt;with a very simple design and geometry&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120526Z" creationid="CCYU" creationdate="20141015T120526Z">
+        <seg>開發可壓縮計算流體力學程式碼以研究一組設計與幾何形狀簡單之 β-型史特林引擎內部移動再生器之熱傳導特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A computational fluid dynamics study on the heat transfer characteristics of a moving regenerator in a &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120219Z" creationid="CCYU" creationdate="20141015T115450Z">
