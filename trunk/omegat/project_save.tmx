@@ -2907,8 +2907,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t10/&gt;The study demonstrated the importance of optimizing the regenerator matrix on the overall performance of &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;Stirling&lt;t14/&gt; engine.&lt;t15/&gt; &lt;t16/&gt;In terms of MRs, on the other hand, there have been very few investigations on their performance in open literature.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150605Z" creationid="CCYU" creationdate="20141015T150605Z">
-        <seg>研究展現了再生器矩陣最佳化對史特林引擎性能的重要性。另一方面，對於移動式再生器之研究文獻相當稀少，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151847Z" creationid="CCYU" creationdate="20141015T150605Z">
+        <seg>研究展現了再生器基體最佳化對史特林引擎性能的重要性。另一方面，對於移動式再生器之研究文獻相當稀少，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,8 +3123,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t8/&gt;T&lt;t9/&gt;hey found that power output decreased sharply for low fill factors and large wire diameters, which resulted in smaller total heat transfer area in the regenerator matrix.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150220Z" creationid="CCYU" creationdate="20141015T150220Z">
-        <seg>並發現了低填充因子及大線徑使得再生器矩陣中的熱傳導面積較小而使輸出功率急劇下降，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151841Z" creationid="CCYU" creationdate="20141015T150220Z">
+        <seg>並發現了低填充因子及大線徑使得再生器基體中的熱傳導面積較小而使輸出功率急劇下降，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3333,8 +3333,8 @@
       <tuv lang="EN-US">
         <seg>A regenerator is basically a void filled with porous medium made of metal felt or wire matrices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145019Z" creationid="CCYU" creationdate="20141015T140827Z">
-        <seg>再生器基本上使用多孔性介質填充金屬網或線矩陣空隙製成，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151751Z" creationid="CCYU" creationdate="20141015T140827Z">
+        <seg>再生器基本上使用多孔性介質填充金屬網或線基體空隙製成，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30673,8 +30673,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>These parameters include matrix material, matrix arrangement, matrix wire diameter, and fill factor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151713Z" creationid="CCYU" creationdate="20141015T151713Z">
-        <seg>這些參數包括基體材料、 矩陣排列、 基體金屬絲直徑，填滿因數。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151933Z" creationid="CCYU" creationdate="20141015T151713Z">
+        <seg>這些參數包括基體材料、基體排列、基體線徑以及填充因子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30825,8 +30825,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>They investigated the effects of two parameters, regenerator matrix wire diameter and fill factor, on electric power, efficiency, regenerator loss, and heat intake.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T150225Z" creationid="CCYU" creationdate="20141015T145856Z">
-        <seg>他們研究了再生器矩陣線徑和填充因子兩個參數對電力、效率、再生器損耗以及吸收熱量的影響，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151836Z" creationid="CCYU" creationdate="20141015T145856Z">
+        <seg>他們研究了再生器基體線徑和填充因子兩個參數對電力、效率、再生器損耗以及吸收熱量的影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34402,8 +34402,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>[7] presented a numerical study on the pressure drop phenomena in a wound woven wire matrix of a &lt;t4/&gt;Stirling&lt;t5/&gt; regenerator.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T145339Z" creationid="CCYU" creationdate="20141015T145004Z">
-        <seg>[7] 進行了史特林再生器之傷口縫線矩陣中的壓降現象之數值研究，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151759Z" creationid="CCYU" creationdate="20141015T145004Z">
+        <seg>[7] 進行了史特林再生器之傷口縫線基體中的壓降現象之數值研究，</seg>
       </tuv>
     </tu>
     <tu>
