@@ -12272,6 +12272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greeks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125359Z" creationid="CCYU" creationdate="20141015T125359Z">
+        <seg>希臘字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground control points (GCPs) are necessary information on the Earth's surface to determine the relationship, so the GCPs data (read from the 1/5000 photo base map which is measured by Aerial Survey Office, Forestry Bureau) have to be acquired before we start to rectify these images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z" creationid="CCYU" creationdate="20140913T064227Z">
@@ -15992,8 +16000,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It is found that the moving regenerator acts as an effective thermal barrier between the expansion and compression chambers, resulting in significant reduction in rates of heat input and output and promotion on engine’s indicated power.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121045Z" creationid="CCYU" creationdate="20141015T121045Z">
-        <seg>研究發現移動再生器作為膨脹和壓縮腔體之間有效的熱屏障，導致熱輸入和輸出率顯著降低並提昇引擎功率。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125319Z" creationid="CCYU" creationdate="20141015T121045Z">
+        <seg>研究發現移動再生器作為膨脹和壓縮腔體之間有效的熱屏障，導致熱輸入和輸出率顯著降低並提昇引擎指示功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35208,6 +35216,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>density (kgm&lt;t0/&gt;-3&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125412Z" creationid="CCYU" creationdate="20141015T125412Z">
+        <seg>密度 (kgm&lt;t0/&gt;-3&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>depth of drill hole</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123524Z">
@@ -35252,6 +35268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092451Z" creationid="CCYU" creationdate="20140809T092451Z">
         <seg>dispersion 分散</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>displacer&lt;t0/&gt; power, indicated power, and net output power (W)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125347Z" creationid="CCYU" creationdate="20141015T125249Z">
+        <seg>換氣活塞功率、指示功率以及淨輸出功率 (W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36912,6 +36936,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>porous medium porosity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125406Z" creationid="CCYU" creationdate="20141015T125406Z">
+        <seg>多孔介質孔隙率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>position of the anchor relative to reinforcement or to supports, etc.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135234Z">
@@ -37476,6 +37508,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012941Z" creationid="CCYU" creationdate="20140809T012941Z">
         <seg>special&lt;t0/&gt; hazard 特殊危害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specific&lt;t0/&gt; volume of working gas (m&lt;t1/&gt;3&lt;t2/&gt;kg&lt;t3/&gt;-1&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125150Z" creationid="CCYU" creationdate="20141015T125150Z">
+        <seg>工作氣體之比容 (m&lt;t1/&gt;3&lt;t2/&gt;kg&lt;t3/&gt;-1&lt;t4/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38768,6 +38808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T130438Z" creationid="CCYU" creationdate="20141001T130438Z">
         <seg>或交流系統電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>volume (m&lt;t0/&gt;3&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125159Z" creationid="CCYU" creationdate="20141015T125159Z">
+        <seg>體積 (m&lt;t0/&gt;3&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
