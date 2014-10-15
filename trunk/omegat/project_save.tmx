@@ -30223,6 +30223,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are different ways of incorporating a regenerator into a &lt;t0/&gt;Stirling&lt;t1/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144343Z" creationid="CCYU" creationdate="20141015T144343Z">
+        <seg>於史特林引擎上使用再生器有多種不同方式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are multiple places where our mats and berms come in handy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141226Z" creationid="CCYU" creationdate="20140817T141226Z">
