@@ -3235,6 +3235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A detailed overview of the existing numerical models for the analysis on different &lt;t6/&gt;Stirling&lt;t7/&gt; engine cycles can be found in &lt;t8/&gt;Mahkamov&lt;t9/&gt; [11].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152656Z" creationid="CCYU" creationdate="20141015T152656Z">
+        <seg>Mahkamov [11] 的著作中詳細記載了現有的分析不同史特林引擎循環之數值模型概觀，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A detailed overview of the existing numerical models for the analysis on different Stirling engine cycles can be found in &lt;t2/&gt;Mahkamov&lt;t3/&gt; [5].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214543Z" creationid="Judy" creationdate="20140818T214543Z">
@@ -30391,6 +30399,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was no information regarding pressure, temperature, and heat transfer variations in engine chambers within the engine cycles to facilitate better understanding on the complicated physical processes taking place in the regenerator and the engine chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152612Z" creationid="CCYU" creationdate="20141015T152612Z">
+        <seg>沒有引擎循環期間於引擎室中關於壓力、溫度和熱傳導變化的資訊，以便更進一步理解發生於再生器和引擎室內的複雜物理過程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you might look at a two bucket system that is smaller (20g &lt;t2/&gt;overpack&lt;t3/&gt; or even just 5g buckets).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z" creationid="CCYU" creationdate="20140817T064000Z">
@@ -30659,6 +30675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T063906Z" creationid="MAE" creationdate="20140810T063906Z">
         <seg>這些微裂紋以肉眼無法辨識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These models are basically classified as the first-, second-, or third-order models, according to the model hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152705Z" creationid="CCYU" creationdate="20141015T152705Z">
+        <seg>這些模型依據模型結構基本上可分為一階、二階以及三階模型。</seg>
       </tuv>
     </tu>
     <tu>
