@@ -30711,6 +30711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the objective of this study is to investigate the characteristics of the heat transfer process in &lt;t4/&gt;Stirling&lt;t5/&gt; engine cycles with and without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155927Z" creationid="CCYU" creationdate="20141015T155927Z">
+        <seg>因此，本研究的目的為探討具有移動式再生器與無移動式再生器之史特林引擎中熱傳導過程的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
@@ -31939,6 +31947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T132323Z" creationid="CCYU" creationdate="20140911T132323Z">
         <seg>此方法可藉由比較兩張空拍照的影像像素以求得位移向量場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Through the study, the importance of MR and its impact on the performance of such &lt;t6/&gt;Stirling&lt;t7/&gt; engines can be better understood.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T160135Z" creationid="CCYU" creationdate="20141015T160135Z">
+        <seg>藉由此研究，可更瞭解移動式再生器的重要性和其對史特林引擎效能的影響。</seg>
       </tuv>
     </tu>
     <tu>
