@@ -14598,6 +14598,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, there are energy losses in the regenerator due to temperature oscillation and heat conduction caused by the alternating gas flow and steep temperature gradient throughout the regenerator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T143826Z" creationid="CCYU" creationdate="20141015T143826Z">
+        <seg>此外，來回氣體流產生之溫度振盪和熱傳導量以及再生器之高溫度梯度會產生能量損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all resistance measurements, care shall be taken that the effects of self-induction are minimized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162716Z" creationid="CCYU" creationdate="20140927T162716Z">
