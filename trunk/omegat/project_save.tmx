@@ -7445,6 +7445,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computational fluid dynamics (CFD) approach is one of such numerical models by far that are capable of simulating those complicated processes taking place in &lt;t0/&gt;Stirling&lt;t1/&gt; engine and hence returning more accurate prediction on the overall engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153741Z" creationid="CCYU" creationdate="20141015T153741Z">
+        <seg>計算流體力學 (CFD) 為此類數值模型中的一種，可模擬史特林引擎內部複雜的機制且能更精準的預測整體引擎效能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Computational ﬂuid dynamics (CFD) approach is one of such numerical models by far that are capable of simulating those complicated processes taking place in Stirling engine and hence returning more accurate prediction on the overall engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T051003Z" creationid="Judy" creationdate="20140819T051003Z">
@@ -11968,6 +11976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the above review, it is realized that more sophisticated models are needed to resolve these complicated physical processes and the effects from some parameters crucial to the prediction of the overall engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153729Z" creationid="CCYU" creationdate="20141015T153729Z">
+        <seg>根據以上文獻回顧，必須使用更複雜的模型解出此類複雜的物理機制與某些幾何形狀的影響以預測整體引擎效能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the expansion and compression chambers’ point of view, both go through one phase of receiving gas injection from the other chamber and the other phase of gas ejection to the other chamber through the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100030Z" creationid="Judy" creationdate="20140821T100023Z">
@@ -16186,6 +16202,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T065802Z" creationid="Judy" creationdate="20140819T065802Z">
         <seg>同時也能解出由微小幾何尺寸變化造成之效應，且具有潛力作為設計與發展新型史特林引擎的良好工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also capable of resolving the effects caused by those changes in detailed geometrical features and potentially be a great tool for the design and development process of a new &lt;t2/&gt;Stirling&lt;t3/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153758Z" creationid="CCYU" creationdate="20141015T153758Z">
+        <seg>同時也能解出由細微幾何尺寸變化造成之效應，且具有潛力作為設計與發展新型史特林引擎的良好工具。</seg>
       </tuv>
     </tu>
     <tu>
