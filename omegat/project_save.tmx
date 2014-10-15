@@ -2915,8 +2915,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t10/&gt;The study demonstrated the importance of optimizing the regenerator matrix on the overall performance of &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;Stirling&lt;t14/&gt; engine.&lt;t15/&gt; &lt;t16/&gt;In terms of MRs, on the other hand, there have been very few investigations on their performance in open literature.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151847Z" creationid="CCYU" creationdate="20141015T150605Z">
-        <seg>研究展現了再生器基體最佳化對史特林引擎性能的重要性。另一方面，對於移動式再生器之研究文獻相當稀少，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154507Z" creationid="CCYU" creationdate="20141015T150605Z">
+        <seg>研究展現了再生器基體最佳化對史特林引擎效能的重要性。另一方面，對於移動式再生器之研究文獻相當稀少，</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,6 +2933,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T135621Z" creationid="CCYU" creationdate="20141015T135621Z">
         <seg>&lt;t13/&gt;Tavakur&lt;t14/&gt; 等人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t15/&gt;Mahkamov&lt;t16/&gt; [16] also reported a 3D CFD approach on a prototype biomass &lt;t17/&gt;Stirling&lt;t18/&gt; engine to improve its performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154412Z" creationid="CCYU" creationdate="20141015T154412Z">
+        <seg>Mahkamov [16] 也提出一個三維計算流體力學法用於生質史特林引擎原形以改進效能，</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,8 +3229,8 @@
       <tuv lang="EN-US">
         <seg>A compressible CFD code has been developed to study the effects of a moving regenerator on heat transfer characteristics and performance of a &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine &lt;t4/&gt;with a very simple design and geometry&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120526Z" creationid="CCYU" creationdate="20141015T120526Z">
-        <seg>開發可壓縮計算流體力學程式碼以研究一組設計與幾何形狀簡單之 β-型史特林引擎內部移動再生器之熱傳導特性，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154427Z" creationid="CCYU" creationdate="20141015T120526Z">
+        <seg>開發可壓縮計算流體力學程式碼以研究一組設計與幾何形狀簡單之 β-型史特林引擎內部移動再生器之熱傳導特性和效能，</seg>
       </tuv>
     </tu>
     <tu>
@@ -13060,8 +13068,8 @@
       <tuv lang="EN-US">
         <seg>However, there was little information regarding the impact of the effectiveness of MR on engine performance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151259Z" creationid="CCYU" creationdate="20141015T151259Z">
-        <seg>然而，關於移動式再生器效應對引擎性能之影響的資訊相當稀少。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154511Z" creationid="CCYU" creationdate="20141015T151259Z">
+        <seg>然而，關於移動式再生器效應對引擎效能之影響的資訊相當稀少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15320,8 +15328,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this case, any variation in the transverse direction that is important to predict the engine’s performance accurately will not be accounted for.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152822Z" creationid="CCYU" creationdate="20141015T152822Z">
-        <seg>此情況下，便無法將用以預測引擎性能之中重要的橫斷向變化列入考慮，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154524Z" creationid="CCYU" creationdate="20141015T152822Z">
+        <seg>此情況下，便無法將用以預測引擎效能之中重要的橫斷向變化列入考慮，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25145,8 +25153,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Stationary regenerators are widely adopted in most &lt;t2/&gt;Stirling&lt;t3/&gt; engines, and there have been many reports on the performance of them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144836Z" creationid="CCYU" creationdate="20141015T144836Z">
-        <seg>固定式再生器廣泛用於多數史特林引擎中，且有許多其性能之研究報告，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154500Z" creationid="CCYU" creationdate="20141015T144836Z">
+        <seg>固定式再生器廣泛用於多數史特林引擎中，且有許多其效能之研究報告，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28003,6 +28011,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051810Z">
         <seg>尾端印上識別標記且嵌入端為鈍切或切開於斜角上 (鑿點)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The engine was also analyzed by the first-order and second-order models.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154552Z" creationid="CCYU" creationdate="20141015T154552Z">
+        <seg>同時也以一階與二階法分析引擎，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34546,8 +34562,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>[10] conducted an experimental study to investigate the impacts of several parameters on the performance of the MR in a γ-type &lt;t23/&gt;Stirling&lt;t24/&gt; engine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151639Z" creationid="CCYU" creationdate="20141015T151639Z">
-        <seg>[10] 針對數個影響 γ-型史特林引擎之移動式再生器性能的參數進行實驗研究，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154514Z" creationid="CCYU" creationdate="20141015T151639Z">
+        <seg>[10] 針對數個影響 γ-型史特林引擎之移動式再生器效能的參數進行實驗研究，</seg>
       </tuv>
     </tu>
     <tu>
