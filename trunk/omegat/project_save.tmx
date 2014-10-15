@@ -33520,6 +33520,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When hot gas heated at the hot end flows through the regenerator from one direction, the regenerator absorbs part of the heat from the gas and later releases the heat back into the gas, which now has been cooled at the cold end, as it flows through the regenerator from the other direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T135130Z" creationid="CCYU" creationdate="20141015T135130Z">
+        <seg>當熱端之熱氣體加熱後由一個方向流經再生器時，再生器由氣體吸收部份熱量並於之後釋放熱量至氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When picked up, treat material as prescribed under heading "Disposal considerations".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100002Z" creationid="MAE" creationdate="20140807T100002Z">
