@@ -20190,6 +20190,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall, engine’s performance, in terms of net output power and efficiency, is largely improved by the introduction of the moving regenerator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121620Z" creationid="CCYU" creationdate="20141015T121620Z">
+        <seg>總體而言，引擎淨輸出功率和效率藉由加入移動再生器大幅地提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overhead installation allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141214Z">
@@ -31195,6 +31203,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135722Z" creationid="CCYU" creationdate="20140918T131758Z">
         <seg>此標準未包含適合安裝於公共場所之變壓器規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This study also examines the mechanism on how the moving regenerator achieves these effects and the influence of porosity on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121828Z" creationid="CCYU" creationdate="20141015T121828Z">
+        <seg>本研究同時檢視移動再生器達成此效應之機制以及孔隙率對引擎效能的影響。</seg>
       </tuv>
     </tu>
     <tu>
