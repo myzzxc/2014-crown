@@ -35896,10 +35896,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>heat&lt;t0/&gt; flux or heat transfer rate per unit area (Wm&lt;t1/&gt;-2&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124451Z" creationid="CCYU" creationdate="20141015T124451Z">
+        <seg>熱通量或單位面積之熱傳導率 (Wm&lt;t1/&gt;-2&lt;t2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>heat&lt;t0/&gt; transfer rate (W)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104102Z" creationid="Judy" creationdate="20140819T104102Z">
         <seg>熱傳導率 (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>height from the linkage &lt;t0/&gt;l&lt;t1/&gt;1&lt;t2/&gt; to top surface of the piston (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124329Z" creationid="CCYU" creationdate="20141015T124329Z">
+        <seg>連動桿 &lt;t0/&gt;l&lt;t1/&gt;1&lt;t2/&gt; 至活塞頂面之長度 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36088,6 +36104,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>input&lt;t0/&gt; heat transfer rate (W)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124505Z" creationid="CCYU" creationdate="20141015T124505Z">
+        <seg>輸入熱傳導率 (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>instrument transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T124517Z" creationid="CCYU" creationdate="20140918T124517Z">
@@ -36180,6 +36204,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132412Z" creationid="CCYU" creationdate="20141001T132412Z">
         <seg>包含大電流匯流端子台之大型變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>length from the linkage &lt;t0/&gt;l&lt;t1/&gt;4&lt;t2/&gt; to top surface of the displacer (m)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124248Z" creationid="CCYU" creationdate="20141015T124248Z">
+        <seg>連動桿 &lt;t0/&gt;l&lt;t1/&gt;4&lt;t2/&gt; 至換氣活塞頂面之長度 (m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36348,6 +36380,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T165657Z" creationid="Judy" creationdate="20140818T165657Z">
         <seg>錳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mass of working gas (kg)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124351Z" creationid="CCYU" creationdate="20141015T124351Z">
+        <seg>工作氣體之重量 (kg)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36868,6 +36908,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130124Z" creationid="CCYU" creationdate="20140808T130124Z">
         <seg>ppropiate&lt;t0/&gt; use of the product no health damage is known. 適當使用產品的情況下，無損害健康案例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pressure &lt;t0/&gt;(&lt;t1/&gt;Pa or &lt;t2/&gt;Nm&lt;t3/&gt;-2&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124402Z" creationid="CCYU" creationdate="20141015T124402Z">
+        <seg>壓力 &lt;t0/&gt;(&lt;t1/&gt;Pa 或 &lt;t2/&gt;Nm&lt;t3/&gt;-2&lt;t4/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
