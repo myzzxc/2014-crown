@@ -30327,6 +30327,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These advantages together with others such as low noise and requiring little maintenance have attracted much attention globally; hence, &lt;t2/&gt;Stirling&lt;t3/&gt; engines have been studied intensively by many academic and industrial institutes in recent decades [1-3].</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T132343Z" creationid="CCYU" creationdate="20141015T132343Z">
+        <seg>這些優點加上其他如低噪音和低維護要求，使其備受全球關注；因此，近數十年來已有許多學術和工業機構深入地研究史特林引擎 [1-3]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These belt systems leak and free should not be present in these areas.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T075936Z" creationid="CCYU" creationdate="20140817T075936Z">
