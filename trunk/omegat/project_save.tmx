@@ -28063,6 +28063,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The engine is very small with a core cylinder radius of just 0.0205 m, thus the flow inside the engine remains laminar even at high engine speed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T135052Z" creationid="Judy" creationdate="20141016T135052Z">
+        <seg>引擎尺寸非常小，核心汽缸半徑僅 0.0205 m，即使引擎高轉速時引擎內部仍維持層流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The engine was also analyzed by the first-order and second-order models.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154552Z" creationid="CCYU" creationdate="20141015T154552Z">
