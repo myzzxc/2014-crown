@@ -5996,6 +5996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before any CFD simulation can begin, the correctness of the code has to be validated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212432Z" creationid="CCYU" creationdate="20141016T212432Z">
+        <seg>進行所有計算流體力學模擬前，必須驗證程式碼的正確性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before cleaning the foot warmer, always disconnect the plug from the mains and allow it to cool down.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150717Z">
