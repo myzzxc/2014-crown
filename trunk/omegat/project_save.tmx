@@ -28103,6 +28103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dimensions of the simulated &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine are given in Table 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211445Z" creationid="CCYU" creationdate="20141016T211445Z">
+        <seg>表 1 列出了模擬之 &lt;t0/&gt;β&lt;t1/&gt;-型史特林引擎尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured an&lt;t0/&gt;d noted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101644Z" creationid="CCYU" creationdate="20140928T101644Z">
@@ -28491,6 +28499,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T021812Z" creationid="Judy" creationdate="20140821T021812Z">
         <seg>來回流經膨脹和壓縮腔體的氣體流於兩個腔體中造成非常強烈的熱對流效應，因而造成氣體與固體邊界之間複雜的熱傳特性，且所有時間下腔體之間的溫度分布皆高度不均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The gear in the rhombic driving mechanism shown in Fig. 1 is rotating at &lt;t4/&gt; direction, therefore &lt;t5/&gt; is negative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211633Z" creationid="CCYU" creationdate="20141016T211633Z">
+        <seg>圖 1 所示之菱形驅動機構中的齒輪以 &lt;t4/&gt; 方向旋轉，因此 &lt;t5/&gt; 為負。</seg>
       </tuv>
     </tu>
     <tu>
