@@ -12842,6 +12842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, &lt;t3/&gt;U&lt;t4/&gt;, &lt;t5/&gt;R&lt;t6/&gt;, and &lt;t7/&gt;R&lt;t8/&gt;i&lt;t9/&gt; are dimensionless &lt;t10/&gt;streamwise&lt;t11/&gt; velocity, dimensionless radius, and radius ratio between the porous core and pipe, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T215825Z" creationid="CCYU" creationdate="20141016T215636Z">
+        <seg>此處 &lt;t3/&gt;U&lt;t4/&gt;、&lt;t5/&gt;R&lt;t6/&gt; 以及 &lt;t7/&gt;R&lt;t8/&gt;i&lt;t9/&gt; 為分別為無因次流場速度、無因次半徑以及多孔芯與管道半徑比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, g is calculated by dividing the engine power by the&lt;t11/&gt; &lt;t12/&gt;rate of heat input.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205305Z" creationid="Judy" creationdate="20140823T205305Z">
@@ -32508,6 +32516,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T022747Z" creationid="Judy" creationdate="20140821T022747Z">
         <seg>因此某些二階模型使用均勻溫度分布及使用固定熱對流係數的假設來計算膨脹和壓縮腔體內的熱傳效應顯然無法呈現引擎內部真正的熱傳特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To validate its application to porous medium, the test case of the flow in a pipe partially blocked by a porous core reported in [19] has been simulated by USTREAM, and the results in terms of fully-developed &lt;t1/&gt;streamwise&lt;t2/&gt; velocity distributions are shown in Fig. 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T215558Z" creationid="CCYU" creationdate="20141016T215558Z">
+        <seg>為了驗證其應用於多孔介質中的可行性，以 USTREAM 模擬文獻 [19] 中所紀錄之多孔芯部份阻擋的管內流場測試，全發展之流場速度分佈結果如圖 3 所示。</seg>
       </tuv>
     </tu>
     <tu>
