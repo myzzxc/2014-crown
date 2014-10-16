@@ -14918,6 +14918,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In equation (11), &lt;t0/&gt;K&lt;t1/&gt; and &lt;t2/&gt;F&lt;t3/&gt;ε&lt;t4/&gt; are respectively permeability and geometric function of the porous medium and expressed as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205106Z" creationid="CCYU" creationdate="20141016T205106Z">
+        <seg>方程式 (11) 中，&lt;t0/&gt;K&lt;t1/&gt; 和 &lt;t2/&gt;F&lt;t3/&gt;ε&lt;t4/&gt; 分別為多孔介質之滲透率和幾何函數並表示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, it is usually not accessible for&lt;t2/&gt; direct measurement in testing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041024Z" creationid="CCYU" creationdate="20140920T040946Z">
@@ -39712,6 +39720,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140618Z" creationid="Judy" creationdate="20141016T140618Z">
         <seg>其中相對速度分量為流體與局部移動框架相對 &lt;t4/&gt;x&lt;t5/&gt; 和 &lt;t6/&gt;r&lt;t7/&gt; 移動之方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt;d&lt;t2/&gt;p&lt;t3/&gt; is the diameter of solid particle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205140Z" creationid="CCYU" creationdate="20141016T205140Z">
+        <seg>其中 &lt;t0/&gt; &lt;t1/&gt;d&lt;t2/&gt;p&lt;t3/&gt; 為固體粒子之直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt;is effective viscosity in porous medium and is set to &lt;t2/&gt;μ&lt;t3/&gt; according to [19]; &lt;t4/&gt;F&lt;t5/&gt;u&lt;t6/&gt; and &lt;t7/&gt;F&lt;t8/&gt;v&lt;t9/&gt; are force components introduced by the porous medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T204932Z" creationid="CCYU" creationdate="20141016T204932Z">
+        <seg>其中 &lt;t0/&gt; &lt;t1/&gt; 為多孔介質有效黏滯性並依據 [19] 設定為 &lt;t2/&gt;μ&lt;t3/&gt;； &lt;t4/&gt;F&lt;t5/&gt;u&lt;t6/&gt; 和 &lt;t7/&gt;F&lt;t8/&gt;v&lt;t9/&gt; 為多孔介質產生之力分量：</seg>
       </tuv>
     </tu>
     <tu>
