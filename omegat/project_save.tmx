@@ -10750,6 +10750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 4 shows the comparison of adiabatic &lt;t21/&gt;p-V&lt;t22/&gt; relations between the exact values and the present CFD results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T221114Z" creationid="CCYU" creationdate="20141016T221114Z">
+        <seg>Fig. 4 為實際值與此計算流體力學結果之絕熱 &lt;t21/&gt;p-V&lt;t22/&gt; 關係比較圖，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 4 shows the variations of total, expansion chamber, and compression chamber volumes versus crank angle over an engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160248Z" creationid="Judy" creationdate="20140820T160131Z">
