@@ -11784,6 +11784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the second code validation task, the engine has been run through an adiabatic cycle at a very low engine speed of 60 rpm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220246Z" creationid="CCYU" creationdate="20141016T220246Z">
+        <seg>第二個程式碼驗證，引擎絕熱循環以 60 rpm 之非常低轉速運轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For these transformers, if such a capability is required, it should be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132600Z" creationid="CCYU" creationdate="20140921T132600Z">
@@ -24679,6 +24687,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the current CFD code does not consider mechanical friction or viscous heat dissipation, an adiabatic cycle at low engine speed would be close to an ideal reversible adiabatic cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220754Z" creationid="CCYU" creationdate="20141016T220754Z">
+        <seg>由於當前之計算流體力學程式碼未考慮機械摩擦力或黏滯性散熱，低引擎轉速之絕熱循環接近理想可逆絕熱循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the engine in Chen’s [13] experiment is quite large, the ﬂow inside the engine could become turbulent at relatively low engine speed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T113649Z" creationid="Judy" creationdate="20140819T113649Z">
@@ -28283,6 +28299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021047Z">
         <seg>使用安全的重要特性屬於基本工程要求之機械阻力和穩定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exact &lt;t14/&gt;p-V&lt;t15/&gt; relation in a reversible adiabatic cycle of air &lt;t16/&gt;is &lt;t17/&gt;, where &lt;t18/&gt;C&lt;t19/&gt; is a &lt;t20/&gt;constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220513Z" creationid="CCYU" creationdate="20141016T220513Z">
+        <seg>於空氣之可逆絕熱循環中確切的 &lt;t14/&gt;p-V&lt;t15/&gt; 關係為 &lt;t16/&gt;&lt;t17/&gt;，其中 &lt;t18/&gt;C&lt;t19/&gt; 為常數。</seg>
       </tuv>
     </tu>
     <tu>
