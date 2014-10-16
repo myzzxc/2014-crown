@@ -27087,6 +27087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;Stirling&lt;t1/&gt; engine examined in this study is the rhombic-drive &lt;t2/&gt;β&lt;t3/&gt;-type &lt;t4/&gt;Stirling&lt;t5/&gt; engine developed by Cheng and Yu [18], where the engine was analyzed by an improved variant of the second-order model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T131855Z" creationid="Judy" creationdate="20141016T131855Z">
+        <seg>本研究檢驗 Cheng 和 Yu [18] 所開發之菱形驅動 &lt;t2/&gt;β&lt;t3/&gt;-型史特林引擎，其中引擎以改進之二階模型進行分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;centre&lt;t1/&gt; of gravity of the transformer in the transport configuration shall be permanently marked on at least two adjacent sides of the transformer for transformers with a transport mass in excess of 5 &lt;t2/&gt;tonnes&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075535Z" creationid="CCYU" creationdate="20140927T075535Z">
@@ -29491,6 +29499,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063338Z" creationid="CCYU" creationdate="20140913T063338Z">
         <seg>這些照片的比例為 1: 5000 而原始解析度為 0.375 公尺 / 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The schematic of the geometrical configuration of the engine is given in Fig. 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T131918Z" creationid="Judy" creationdate="20141016T131918Z">
+        <seg>圖 1 為引擎的幾何配置示意圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35388,6 +35404,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100415Z" creationid="CCYU" creationdate="20140921T100415Z">
         <seg>不得低於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and&lt;t0/&gt; the velocities of piston and displacer are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T131947Z" creationid="Judy" creationdate="20141016T131947Z">
+        <seg>活塞和換氣活塞的速度為：</seg>
       </tuv>
     </tu>
     <tu>
