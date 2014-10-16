@@ -27711,6 +27711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The configuration of the computational domain is illustrated in Fig. 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T132222Z" creationid="Judy" creationdate="20141016T132222Z">
+        <seg>計算範圍的設置如圖 2 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The connection diagrams show the high-voltage winding above, and the low-voltage windin&lt;t0/&gt;g&lt;t1/&gt; below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153608Z" creationid="CCYU" creationdate="20140925T153608Z">
