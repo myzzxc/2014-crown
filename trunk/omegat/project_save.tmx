@@ -16302,6 +16302,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be seen that the simulated &lt;t23/&gt;p-V&lt;t24/&gt; relation is almost identical to the exact relation, thus validating the correctness of the code to apply to the compressible flow caused by the change of engine volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T221317Z" creationid="CCYU" creationdate="20141016T221317Z">
+        <seg>可看出模擬 &lt;t23/&gt;p-V&lt;t24/&gt; 關係與實際關係幾乎相同，因此驗證了程式碼應用於引擎體積變化產生之可壓縮流的正確性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It constitutes both a maximum voltage tapping (UA) &lt;t0/&gt;an &lt;t1/&gt;(&lt;t2/&gt; a&lt;t3/&gt; maximum current tapping (1B constant, not rising above the change-over point).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T143648Z" creationid="CCYU" creationdate="20140923T143648Z">
