@@ -29351,6 +29351,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The regenerator of the engine is porous medium attached to the outer surface of the displacer cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T135613Z" creationid="Judy" creationdate="20141016T135613Z">
+        <seg>引擎之再生器為貼於換氣活塞外表面之多孔介質，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reinforcing bar is placed into a drilled hole&lt;t5/&gt; &lt;t6/&gt;filled with injection mortar and is anchored via the bond between embedded element, injection&lt;t7/&gt; &lt;t8/&gt;mortar and concrete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015704Z">
