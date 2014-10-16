@@ -11768,6 +11768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purpose of grid and time-step independency test, an engine speed of 1,800 rpm was selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230043Z" creationid="CCYU" creationdate="20141016T225948Z">
+        <seg>為了進行網格和時間步驟獨立測試，選擇了引擎轉速為 1,800 rpm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purposes of this document, the following terms and definitions apply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130449Z" creationid="CCYU" creationdate="20140918T135857Z">
