@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10866,6 +10866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101648Z" creationid="Judy" creationdate="20140822T101648Z">
         <seg>圖 7，壓縮腔體於 h = 270.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 8 (b) shows that for the case without MR, the gas is able to maintain its temperature and travels quite a distance into the regenerative channel before its temperature is gradually changed by the wall temperature of the core cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T235420Z" creationid="CCYU" creationdate="20141016T235420Z">
+        <seg>圖 8 (b) 顯示了無移動式再生器的情形，氣體能於溫度受核心汽缸影響逐漸改變前維持溫度並移動一段距離至再生通道，</seg>
       </tuv>
     </tu>
     <tu>
