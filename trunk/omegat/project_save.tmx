@@ -28439,6 +28439,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The focus of this study is on discussing the differences in heat transfer characteristics and engine performance caused by the introduction of MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231610Z" creationid="CCYU" creationdate="20141016T231610Z">
+        <seg>這項研究的重點為討論加入移動式再生器後所產生的熱傳導特性和引擎效能差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following &lt;t0/&gt;subclauses&lt;t1/&gt; apply to transformers in which only one of the windings is a tapped winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T131115Z" creationid="CCYU" creationdate="20140923T131115Z">
@@ -35164,6 +35172,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211301Z" creationid="CCYU" creationdate="20141016T211229Z">
         <seg>[22] 所提出之壓力-速度耦合方式進行模擬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[23] and will not be repeated here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231447Z" creationid="CCYU" creationdate="20141016T231447Z">
+        <seg>[23] 發表，因此本文不再賛述。</seg>
       </tuv>
     </tu>
     <tu>
