@@ -19950,6 +19950,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Numerical Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210335Z" creationid="CCYU" creationdate="20141016T210335Z">
+        <seg>數值程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Numerical procedure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021900Z" creationid="Judy" creationdate="20140820T021900Z">
@@ -20256,8 +20264,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>On the solid/fluid interface (at &lt;t3/&gt;r&lt;t4/&gt;=&lt;t5/&gt;r&lt;t6/&gt;2&lt;t7/&gt;):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210043Z" creationid="CCYU" creationdate="20141016T210043Z">
-        <seg>在固/液介面上 (當 &lt;t3/&gt;r&lt;t4/&gt;=&lt;t5/&gt;r&lt;t6/&gt;2&lt;t7/&gt;)：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210248Z" creationid="CCYU" creationdate="20141016T210043Z">
+        <seg>在固/液介面上 (於 &lt;t3/&gt;r&lt;t4/&gt;=&lt;t5/&gt;r&lt;t6/&gt;2&lt;t7/&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29031,6 +29039,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The numerical procedure in this study is based on&lt;t0/&gt; an in-house unstructured-mesh, fully collocated, finite-volume code, ‘USTREAM’ developed by the corresponding author.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210404Z" creationid="CCYU" creationdate="20141016T210404Z">
+        <seg>這項研究中的數值程式基於自行撰寫的非結構網格、完全交錯式、有限體積程式碼、由相應的作者所開發之 ‘USTREAM’，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The object of IEC is to promote international co-operation on all questions concerning standardization in the electrical and electronic fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T124958Z" creationid="CCYU" creationdate="20140917T124958Z">
@@ -29083,6 +29099,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141826Z" creationid="CCYU" creationdate="20140918T141826Z">
         <seg>另一組繞組為激發繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The outer wall of the core cylinder (at &lt;t0/&gt;r&lt;t1/&gt;=&lt;t2/&gt;r&lt;t3/&gt;2&lt;t4/&gt;+δ&lt;t5/&gt;) is assumed to maintain a fixed temperature distribution:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210322Z" creationid="CCYU" creationdate="20141016T210220Z">
+        <seg>假設核心汽缸之外牆 (於 &lt;t0/&gt;r&lt;t1/&gt;=&lt;t2/&gt;r&lt;t3/&gt;2&lt;t4/&gt;+δ&lt;t5/&gt;) 溫度保持固定線性分布：</seg>
       </tuv>
     </tu>
     <tu>
