@@ -14902,6 +14902,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In clear gas:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140253Z" creationid="Judy" creationdate="20141016T140253Z">
+        <seg>純氣體中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In consultation with the responsible local authority, must be subjected to special treatment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101155Z" creationid="CCYU" creationdate="20140809T101155Z">
