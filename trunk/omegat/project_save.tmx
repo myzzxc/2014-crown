@@ -12344,6 +12344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General physical characteristics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231136Z" creationid="CCYU" creationdate="20141016T231136Z">
+        <seg>一般物理特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General protective and hygiene measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122317Z" creationid="CCYU" creationdate="20140807T122317Z">
@@ -16642,6 +16650,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154207Z" creationid="Judy" creationdate="20140820T153907Z">
         <seg>由每次循環之最大速度、 輸入熱量以及輸出功的數值判斷，每循環 200 步及 110,569 個單位網格可得到網格和時間的獨立解，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Judging from the values of maximum velocity, heat input, and work output within a cycle, grid and time-step independent solutions can be achieved by the grid with 7,864 cells at 500 time steps per cycle, and this grid and the time step number have been used in this paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231115Z" creationid="CCYU" creationdate="20141016T231115Z">
+        <seg>由每次循環之最大速度、 輸入熱量以及輸出功的數值判斷，每循環 500 步及 7,864 個單位網格可得到網格和時間的獨立解，本論文中使用此網格和時間步數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27859,6 +27875,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T141945Z" creationid="CCYU" creationdate="20141002T141945Z">
         <seg>切換點 (最大電壓抽頭) 位於 +6 %，且 CFVV 範圍內也具有最大電流抽頭位於 -9 %：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The characteristics of the heat transfer process in the current &lt;t0/&gt;Stirling&lt;t1/&gt; engine without MR have been reported in Salazar et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231352Z" creationid="CCYU" creationdate="20141016T231352Z">
+        <seg>無移動式再生器之史特林引擎的熱傳導特性已由 Salazar 等人 </seg>
       </tuv>
     </tu>
     <tu>
