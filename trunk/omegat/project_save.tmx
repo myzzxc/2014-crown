@@ -15286,6 +15286,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In terms of the porous medium in MR, the solid material is assumed to be copper, with density, thermal conductivity, and specific heat of 8954 &lt;t12/&gt;kgm&lt;t13/&gt;-3&lt;t14/&gt;, 386 &lt;t15/&gt;Wm&lt;t16/&gt;-1&lt;t17/&gt;K&lt;t18/&gt;-1&lt;t19/&gt; and 383 Jkg&lt;t20/&gt;-1&lt;t21/&gt;K&lt;t22/&gt;-1&lt;t23/&gt;, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231957Z" creationid="CCYU" creationdate="20141016T231957Z">
+        <seg>移動式再生器中之多孔介質，固體材料為銅，其密度、熱導率以及比熱分別為 8954 &lt;t12/&gt;kgm&lt;t13/&gt;-3&lt;t14/&gt;、386 &lt;t15/&gt;Wm&lt;t16/&gt;-1&lt;t17/&gt;K&lt;t18/&gt;-1&lt;t19/&gt; 以及 383 Jkg&lt;t20/&gt;-1&lt;t21/&gt;K&lt;t22/&gt;-1&lt;t23/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In that case, several measurements at different values of current may give useful information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090458Z" creationid="CCYU" creationdate="20140928T090458Z">
@@ -29351,6 +29359,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The parameters of porous medium are: &lt;t24/&gt;ε&lt;t25/&gt;=0.9 and &lt;t26/&gt;d&lt;t27/&gt;p&lt;t28/&gt;=&lt;t29/&gt;1.0×10&lt;t30/&gt;-4&lt;t31/&gt; m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T232027Z" creationid="CCYU" creationdate="20141016T232027Z">
+        <seg>多孔介質參數為：&lt;t24/&gt;ε&lt;t25/&gt;=0.9 和 &lt;t26/&gt;d&lt;t27/&gt;p&lt;t28/&gt;=&lt;t29/&gt;1.0×10&lt;t30/&gt;-4&lt;t31/&gt; m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patch size consists of a matrix of randomly generated pixel intensities, in the range 0 to 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T115527Z" creationid="CCYU" creationdate="20140913T115527Z">
@@ -32555,6 +32571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092931Z" creationid="CCYU" creationdate="20140913T092931Z">
         <seg>為了提高解析度，可以選擇較小的區間，但相對應的計算負擔將會增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To investigate the differences caused by &lt;t2/&gt;MR, the following operation parameters were first adopted: engine speed=600 rpm (or &lt;t3/&gt; rads&lt;t4/&gt;-1&lt;t5/&gt;), &lt;t6/&gt;T&lt;t7/&gt;h&lt;t8/&gt;=800K, &lt;t9/&gt;T&lt;t10/&gt;l&lt;t11/&gt;=300K.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231752Z" creationid="CCYU" creationdate="20141016T231752Z">
+        <seg>為了研究移動式再生器造成的差異，最初使用以下操作參數：引擎轉速=600 rpm (或 &lt;t3/&gt; rads&lt;t4/&gt;-1&lt;t5/&gt;)，&lt;t6/&gt;T&lt;t7/&gt;h&lt;t8/&gt;=800K, &lt;t9/&gt;T&lt;t10/&gt;l&lt;t11/&gt;=300K。</seg>
       </tuv>
     </tu>
     <tu>
