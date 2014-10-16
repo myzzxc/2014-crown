@@ -5451,6 +5451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As seen, the domain is axisymmetric, allowing the engine cycle to be simulated by using two-&lt;t0/&gt;dimensional mathematical model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T132509Z" creationid="Judy" creationdate="20141016T132509Z">
+        <seg>範圍為軸對稱，可使用二維數學模型模擬引擎循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As shown in Fig. 5, this phase in the individual chamber can be characterized by the appearance of a major thermal plume in that chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135117Z" creationid="Judy" creationdate="20140822T135010Z">
