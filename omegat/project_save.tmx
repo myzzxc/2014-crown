@@ -3907,6 +3907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional assumptions to facilitate CFD simulation are as follows: fluid viscosity and thermal properties of all materials are assumed constant, the working gas is air and assumed to be ideal gas, and effects from mechanical friction and thermal radiation are ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140004Z" creationid="Judy" creationdate="20141016T140004Z">
+        <seg>其他加速計算流體力學模擬的假設如下：所有材料之流體黏度與熱學性質為定值，工作氣體為空氣並假設為理想氣體，忽略機械摩擦力與熱輻射影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional connections are shown in Figure D.2 below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141618Z" creationid="CCYU" creationdate="20141004T141618Z">
@@ -19126,6 +19134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navier&lt;t0/&gt;-Stokes equations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140042Z" creationid="Judy" creationdate="20141016T140042Z">
+        <seg>納維-斯托克斯 (Navier–Stokes) 方程式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ne pas utiliser d'agents blanchissants!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130155Z">
@@ -25591,6 +25607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such a simple engine is ideal for the study of basic &lt;t1/&gt;Stirling&lt;t2/&gt; engine cycle, allowing the computational domain to be meshed by a structured grid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T135943Z" creationid="Judy" creationdate="20141016T135943Z">
+        <seg>此簡單的引擎相當適合研究基本史特林引擎循環，可以結構化網格將計算域網點化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such a specification may result in a variety of possible transformer designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131402Z" creationid="CCYU" creationdate="20140924T131402Z">
@@ -30747,6 +30771,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140244Z" creationid="Judy" creationdate="20140822T140244Z">
         <seg>因此，注入膨脹腔體之冷空氣被迅速加熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the flow and heat transfer phenomena of the engine cycle can be solved by transient two-dimensional axisymmetric laminar and compressible &lt;t3/&gt;Navier&lt;t4/&gt;-Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140014Z" creationid="Judy" creationdate="20141016T140014Z">
+        <seg>因此，引擎循環的流動和熱傳遞現象可藉由暫態三維層流和可壓縮納維-斯托克斯 (Navier–Stokes) 方程式加上能量方程以及理想氣體方程式解出，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
