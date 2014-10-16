@@ -13074,6 +13074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, for the case with MR, the temperature gradients in theses chambers are smaller, and the high temperature region in the expansion chamber and the low temperature region in the compressor chamber appear to be larger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T232805Z" creationid="CCYU" creationdate="20141016T232805Z">
+        <seg>然而，具有移動式再生器的情況下，腔體中溫度梯度較小，且膨脹腔體之高溫區以及壓縮腔體之低溫區更大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it can produce resampled images which have jagged edges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080722Z" creationid="CCYU" creationdate="20140913T080722Z">
@@ -29715,6 +29723,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194131Z" creationid="Judy" creationdate="20140823T194131Z">
         <seg>氣體溫度上升的原因為引擎總體積壓縮而加熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reason is that due to its larger heat capacity, the porous medium in MR is able to keep a steady temperature gradient in the axial direction within the entire engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233003Z" creationid="CCYU" creationdate="20141016T232956Z">
+        <seg>原因是由於其較大的熱容量，移動式再生器中的多孔介質中能夠於整個引擎週期中保持軸向溫度梯度的穩定，</seg>
       </tuv>
     </tu>
     <tu>
