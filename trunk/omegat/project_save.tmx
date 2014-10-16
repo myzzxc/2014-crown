@@ -10126,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though this is the coarsest grid, 20 cells have been allocated within the span of the regenerative channel, and they are concentrated towards all solid boundaries to resolve the flow and thermal boundary layers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230710Z" creationid="CCYU" creationdate="20141016T230710Z">
+        <seg>即使此為最粗糙的網格，再生通道內也有 20 個單位網格，且集中於固體邊界處以解出流場和熱邊界層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everett</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013045Z" creationid="JUDY" creationdate="20140827T013045Z">
