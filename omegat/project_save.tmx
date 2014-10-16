@@ -15078,6 +15078,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In porous medium&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205840Z" creationid="CCYU" creationdate="20141016T205840Z">
+        <seg>多孔介質中&lt;t0/&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In principle, the temperature-rise type test shall demonstrate that the cooling equipment is sufficient for dissipation of maximum total loss on any tapping, and that the temperature rise over external cooling medium temperature of any winding, at any tapping, does not exceed the specified maximum value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135045Z" creationid="CCYU" creationdate="20140925T135045Z">
@@ -15106,6 +15114,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123510Z" creationid="CCYU" creationdate="20140924T123501Z">
         <seg>功率小於或等於 2500 kVA 之分離繞組變壓器，其抽頭範圍不超過 ± 5%，於所有負抽頭之額定抽頭電流應等於主抽頭之額定電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In solid:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205754Z" creationid="CCYU" creationdate="20141016T205754Z">
+        <seg>固體中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31463,6 +31479,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This gives rise to a single equation for the saturated porous medium regime as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205553Z" creationid="CCYU" creationdate="20141016T205553Z">
+        <seg>得到飽和多孔介質機制之單一方程式為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This happens when the gas with a temperature lower than the wall temperature in the expansion chamber entering the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194410Z" creationid="Judy" creationdate="20140823T194410Z">
@@ -39744,6 +39768,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T204932Z" creationid="CCYU" creationdate="20141016T204932Z">
         <seg>其中 &lt;t0/&gt; &lt;t1/&gt; 為多孔介質有效黏滯性並依據 [19] 設定為 &lt;t2/&gt;μ&lt;t3/&gt;； &lt;t4/&gt;F&lt;t5/&gt;u&lt;t6/&gt; 和 &lt;t7/&gt;F&lt;t8/&gt;v&lt;t9/&gt; 為多孔介質產生之力分量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt;k&lt;t2/&gt;eff&lt;t3/&gt;  &lt;t4/&gt;is the effective coefficient of thermal conductivity defined as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205741Z" creationid="CCYU" creationdate="20141016T205741Z">
+        <seg>其中 &lt;t0/&gt; &lt;t1/&gt;k&lt;t2/&gt;eff&lt;t3/&gt;  &lt;t4/&gt;為熱導率之有效係數，定義為：</seg>
       </tuv>
     </tu>
     <tu>
