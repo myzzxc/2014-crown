@@ -10798,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 6 shows temperature contours for the engines with and without MR at 10 different time steps, starting at &lt;t0/&gt;θ&lt;t1/&gt;=36° and with an increment of 36°, in one engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T232349Z" creationid="CCYU" creationdate="20141016T232349Z">
+        <seg>圖 6 繪出了具有以及不具有移動式再生器之引擎，於一次引擎循環中 10 個不同時間步驟時之等溫線，由 &lt;t0/&gt;θ&lt;t1/&gt;=36° 開始，間隔為 36°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 6(a) show that gas injection produces a jet of cold gas that impinges on the bottom heated wall of the chamber (the hot-end wall).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140015Z" creationid="Judy" creationdate="20140822T135826Z">
