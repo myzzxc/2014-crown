@@ -11439,6 +11439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each simulation, about 10 cycles were needed for the solution to become periodical, and each cycle took about 2 to 4 hours in a PC, depending on grid size and time step number in a cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230918Z" creationid="CCYU" creationdate="20141016T230918Z">
+        <seg>每個模擬約需 10 次循環以得到週期性解，而每循環依其網格子尺寸和時間區間數，使用個人電腦約需 2 至 4 個鐘頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each simulation, about 4 cycles were needed for the solution to become periodical.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153450Z" creationid="Judy" creationdate="20140820T153435Z">
