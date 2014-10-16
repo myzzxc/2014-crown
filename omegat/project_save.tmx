@@ -28287,6 +28287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The external wall temperature distribution in equation (16) is assumed as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212024Z" creationid="CCYU" creationdate="20141016T212024Z">
+        <seg>假設方程式 (16) 中外牆溫度分佈為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The factor of patch size discussed above is related to how we decided the interrogation size during the process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142216Z" creationid="CCYU" creationdate="20140913T142035Z">
@@ -30667,6 +30675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144836Z" creationid="CCYU" creationdate="20140926T144836Z">
         <seg>連接至發電機之繞組為三角連接，而電網側之繞組為星形連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The working gas is air with a gas constant of 287 Jkg&lt;t6/&gt;-1&lt;t7/&gt;K&lt;t8/&gt;-1&lt;t9/&gt;, and the core cylinder material is stainless steel with density, thermal conductivity, and specific heat of &lt;t10/&gt;7,840 kgm&lt;t11/&gt;-3&lt;t12/&gt;, 43 Wm&lt;t13/&gt;-1&lt;t14/&gt;K&lt;t15/&gt;-1&lt;t16/&gt;, and 0.45 &lt;t17/&gt;kJkg&lt;t18/&gt;-1&lt;t19/&gt;K&lt;t20/&gt;-1&lt;t21/&gt;, respectively.&lt;t22/&gt; The initial crank angle and gas pressure are zero degree and 101 &lt;t23/&gt;kPa&lt;t24/&gt;, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211929Z" creationid="CCYU" creationdate="20141016T211929Z">
+        <seg>工作氣體為空氣，氣體常數為 287 Jkg&lt;t6/&gt;-1&lt;t7/&gt;K&lt;t8/&gt;-1&lt;t9/&gt;。核心汽缸材料為不鏽鋼，其密度、熱導率以及比熱分別為 &lt;t10/&gt;7,840 kgm&lt;t11/&gt;-3&lt;t12/&gt;、 43 Wm&lt;t13/&gt;-1&lt;t14/&gt;K&lt;t15/&gt;-1&lt;t16/&gt; 以及 0.45 &lt;t17/&gt;kJkg&lt;t18/&gt;-1&lt;t19/&gt;K&lt;t20/&gt;-1&lt;t21/&gt;。&lt;t22/&gt; 起始曲柄軸角度與氣體壓力分別為零度及 101 &lt;t23/&gt;kPa&lt;t24/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
