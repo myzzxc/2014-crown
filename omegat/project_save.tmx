@@ -31215,6 +31215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the regenerator is acting like a thermal barrier to keep the temperature in the expansion chamber high and the temperature in the compression chamber low.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233148Z" creationid="CCYU" creationdate="20141016T233148Z">
+        <seg>因此，再生器功能為維持膨脹腔體高溫度和壓縮腔體低溫的熱屏障，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z" creationid="Judy" creationdate="20140819T125425Z">
