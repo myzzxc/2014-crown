@@ -7277,6 +7277,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code validation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211407Z" creationid="CCYU" creationdate="20141016T211407Z">
+        <seg>程式碼驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coke Plant</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043850Z" creationid="JUDY" creationdate="20140827T043850Z">
@@ -23119,6 +23127,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Results and Discussion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211303Z" creationid="CCYU" creationdate="20141016T211303Z">
+        <seg>結果與討論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Results and discussion</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151031Z" creationid="Judy" creationdate="20140820T151031Z">
@@ -24627,6 +24643,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025831Z" creationid="CCYU" creationdate="20140914T025803Z">
         <seg>由於最小平方高斯擬合對於峰值位置使用較多的數據，其結果之雜訊通常小於其他較簡化的擬合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since USTREAM is a pressure-based SIMPLE [21] finite volume code, the pressure correction equation has to be modified to account for variable density in compressible flows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211140Z" creationid="CCYU" creationdate="20141016T211140Z">
+        <seg>由於 USTREAM 為壓力架構之 SIMPLEC [15] 有限體積程式碼，壓力校正方程式必須修正以計算可壓縮流之密度變化，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29283,6 +29307,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105629Z" creationid="CCYU" creationdate="20140928T105629Z">
         <seg>接著釋放壓力並進行第三次量測參考點至油槽壁面的垂直距離，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pressure-velocity coupling scheme in &lt;t0/&gt;Lebon&lt;t1/&gt; et al.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211217Z" creationid="CCYU" creationdate="20141016T211217Z">
+        <seg>此處使用 &lt;t0/&gt;Lebon&lt;t1/&gt; 等人 </seg>
       </tuv>
     </tu>
     <tu>
@@ -34932,6 +34964,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140757Z" creationid="Judy" creationdate="20141016T140757Z">
         <seg>[19] 之數學模型以模擬多孔介質中流體：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[22] is used here to perform this task.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211301Z" creationid="CCYU" creationdate="20141016T211229Z">
+        <seg>[22] 所提出之壓力-速度耦合方式進行模擬。</seg>
       </tuv>
     </tu>
     <tu>
