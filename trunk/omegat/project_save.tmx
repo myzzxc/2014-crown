@@ -5547,6 +5547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At &lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205924Z" creationid="CCYU" creationdate="20141016T205924Z">
+        <seg>當 &lt;t0/&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a current K times the transformer rated current (0 5_ K &lt; 1), the overfluxing shall be limited in accordance with the following formula:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162719Z" creationid="CCYU" creationdate="20140921T162719Z">
@@ -20246,6 +20254,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the solid/fluid interface (at &lt;t3/&gt;r&lt;t4/&gt;=&lt;t5/&gt;r&lt;t6/&gt;2&lt;t7/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210043Z" creationid="CCYU" creationdate="20141016T210043Z">
+        <seg>在固/液介面上 (當 &lt;t3/&gt;r&lt;t4/&gt;=&lt;t5/&gt;r&lt;t6/&gt;2&lt;t7/&gt;)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On transformers having a tapped winding with tapping range not exceeding ±5 %, the short-circuit impedance shall be measured on the principal tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022241Z" creationid="CCYU" creationdate="20140928T022241Z">
@@ -28527,6 +28543,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initial conditions are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205845Z" creationid="CCYU" creationdate="20141016T205845Z">
+        <seg>初始條件為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The initial&lt;t22/&gt; &lt;t23/&gt;conditions are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021102Z" creationid="Judy" creationdate="20140820T021102Z">
@@ -29907,6 +29931,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015040Z" creationid="CCYU" creationdate="20140928T015040Z">
         <seg>供應電流應等於對應之額定電流 (抽頭電流) 但不應小於 50 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The surface of displacer is assumed adiabatic, thus the conditions on displacer surfaces are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205941Z" creationid="CCYU" creationdate="20141016T205941Z">
+        <seg>假設換氣活塞表面絕熱，因此換氣活塞表面條件為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39776,6 +39808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205741Z" creationid="CCYU" creationdate="20141016T205741Z">
         <seg>其中 &lt;t0/&gt; &lt;t1/&gt;k&lt;t2/&gt;eff&lt;t3/&gt;  &lt;t4/&gt;為熱導率之有效係數，定義為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt;n&lt;t2/&gt; is the direction normal to the wall of displacer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210006Z" creationid="CCYU" creationdate="20141016T210006Z">
+        <seg>其中&lt;t0/&gt; &lt;t1/&gt;n&lt;t2/&gt;為垂直換氣活塞壁的方向。</seg>
       </tuv>
     </tu>
     <tu>
