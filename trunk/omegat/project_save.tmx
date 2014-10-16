@@ -30855,6 +30855,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There have been two new features added to the USTRAM code to extend its capability to simulate the current problem; one is the handling of the flow in porous medium governed by equations (8-12), and the other is to simulate the compressibility of gas caused by the change of engine volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T215050Z" creationid="CCYU" creationdate="20141016T215050Z">
+        <seg>於 USTRAM 程式碼中增加了兩個新功能以擴展其模擬當前問題能力；一為處理多孔介質中由方程式  (8-12) 所支配之流場，而另一為模擬引擎容量變化所造成之氣體的可壓縮性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There have been very limited reports on using CFD approach to study the full cycle of a &lt;t8/&gt;Stirling&lt;t9/&gt; engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154053Z" creationid="CCYU" creationdate="20141015T154053Z">
