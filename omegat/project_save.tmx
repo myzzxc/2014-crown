@@ -34864,6 +34864,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the correctness of the code been validated, the next step is to determine a proper grid and time step interval to obtain grid and time-step independent solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T224614Z" creationid="CCYU" creationdate="20141016T224614Z">
+        <seg>驗證程式碼的正確性後，下一步為決定適當的網格和時間區間以得到網格和時間步驟獨立的解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the data of monochromatic orthorectified aerial photographs which possess good appearance of ground objects, such as relatively hardly changeable objects of houses, towers and etc., PIV will show fine results.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161928Z" creationid="CCYU" creationdate="20140913T161928Z">
