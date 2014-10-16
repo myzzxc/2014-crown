@@ -29783,6 +29783,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selection of &lt;t0/&gt;is based on the fact that this kind of engines normally are equipped with a larger heat sink thus creating a larger low-temperature wall region.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212320Z" creationid="CCYU" creationdate="20141016T212320Z">
+        <seg>選擇 &lt;t0/&gt; 是基於此類引擎一般設有較大的散熱器，因此有較大的低溫牆區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sense of rotation of the phasor diagrams is counter-clockwise, giving the sequence I Il — III.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153614Z" creationid="CCYU" creationdate="20140925T153614Z">
