@@ -10774,6 +10774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 5 shows the grid with 6,264 cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230343Z" creationid="CCYU" creationdate="20141016T230343Z">
+        <seg>圖 5 為含 6,264 個單位網格之網格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 5.&lt;t0/&gt; Temperature contours across the whole engine at 10 different crank angles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160139Z" creationid="Judy" creationdate="20140820T160002Z">
@@ -32323,6 +32331,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050246Z">
         <seg>螺紋鋼柱：&lt;t0/&gt;螺紋鋼柱需如本報告表 5 中所述，為乾淨、截面方向連續之螺紋 (所有螺紋)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three different grids with cell numbers of 6,264, 7,864, and 9,260, respectively were tested by using three different time-step intervals of 8.333×10&lt;t0/&gt;-5&lt;t1/&gt; s, 5.555×10&lt;t2/&gt;-5&lt;t3/&gt; s, and 4.166×10&lt;t4/&gt;-5&lt;t5/&gt; s, which respectively correspond to time-step numbers per cycle of 400, 500, and 800.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230321Z" creationid="CCYU" creationdate="20141016T230321Z">
+        <seg>測試了三個不同的網格分別有 6,264、7,864 以及 9,260個單位網格，每步驟時間間隔分別為 8.333×10&lt;t0/&gt;-5&lt;t1/&gt; s、5.555×10&lt;t2/&gt;-5&lt;t3/&gt; s 以及 4.166×10&lt;t4/&gt;-5&lt;t5/&gt; s，個別對應之每循環的時間步驟數為 400、500 以及 800。</seg>
       </tuv>
     </tu>
     <tu>
