@@ -28319,6 +28319,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The figure shows the results returned by USTREAM agree very well with those by &lt;t12/&gt;Rong&lt;t13/&gt; et al., hence validating the correctness of USTREAM code’s capability to handle porous medium flows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220022Z" creationid="CCYU" creationdate="20141016T220022Z">
+        <seg>由 USTREAM 所得到之圖形結果顯示和 &lt;t12/&gt;Rong&lt;t13/&gt; 等人之結果吻合，因此驗證了 USTREAM 程式碼處理多孔性介質流場的正確性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fischer FIS EM Adhesive Anchor System described in this report is a suitable alternative to what is specified in the codes listed in Section 1.0 of this report, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030911Z">
