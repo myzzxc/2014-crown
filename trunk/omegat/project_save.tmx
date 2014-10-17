@@ -30871,6 +30871,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The variations of heat transfer rates in the expansion and compression chambers are given in Fig. 11.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T074222Z" creationid="Judy" creationdate="20141017T074222Z">
+        <seg>膨脹和壓縮腔體中的熱傳導率變化繪於圖 11 中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The velocities of piston and displacer are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112815Z" creationid="Judy" creationdate="20140819T112815Z">
