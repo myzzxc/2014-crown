@@ -7774,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, the gas poses very little effect on the temperature of the MR, and the MR is able to maintain its temperature gradient in the axial direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T071621Z" creationid="Judy" creationdate="20141017T071621Z">
+        <seg>因此氣體對移動式再生器的溫度影響非常小，且移動式再生器能維持其軸向溫度梯度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequently, the negative local heat ﬂux on top plate and wall of power&lt;t2/&gt; &lt;t3/&gt;cylinder is largely boosted&lt;t4/&gt; &lt;t5/&gt;as can be seen&lt;t6/&gt; &lt;t7/&gt;in Fig. &lt;t8/&gt;8(b).&lt;t9/&gt; The absolute maximum heat ﬂux reaches &lt;t10/&gt;6.8 kWm&lt;t11/&gt;-&lt;t12/&gt;2&lt;t13/&gt;,&lt;t14/&gt; &lt;t15/&gt;which is more than twice the maximum value during the injection phase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T094038Z" creationid="Judy" creationdate="20140823T094038Z">
@@ -10718,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 10 illustrates the variations of average temperature in the expansion and compression chambers within one engine cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072147Z" creationid="Judy" creationdate="20141017T072147Z">
+        <seg>圖 10 繪製出單一引擎循環中膨脹和壓縮腔體中的平均溫度變化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 10.&lt;t0/&gt; &lt;t1/&gt;pave-V&lt;t2/&gt; diagram in the expansion and compression chambers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203019Z" creationid="Judy" creationdate="20140823T203019Z">
@@ -10882,6 +10898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T100736Z" creationid="Judy" creationdate="20140823T100736Z">
         <seg>圖 8，壓縮腔體於 h = 54.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 9(b), on the other hand, shows that the gas temperature from the expansion chamber is assimilated by the porous medium temperature as soon as the gas enters the regenerative channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T070746Z" creationid="Judy" creationdate="20141017T070746Z">
+        <seg>另一方面，圖 9(b) 顯示來自膨脹腔體之氣體溫度一進入再生通道便與多孔介質溫度平衡，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15546,6 +15570,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154524Z" creationid="CCYU" creationdate="20141015T152822Z">
         <seg>此情況下，便無法將用以預測引擎效能之中重要的橫斷向變化列入考慮，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the high temperature gas from the expansion chamber cannot be cooled enough before it reaches the compression chamber; on the contrary, the cold gas from the compression chamber cannot be heated up enough before it reaches the expansion chamber.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T070234Z" creationid="Judy" creationdate="20141017T070207Z">
+        <seg>此處，來自膨脹腔體之高溫氣體無法於進入壓縮腔體前充分冷卻；另一方面，來自壓縮腔體之冷空氣無法於進入膨脹腔體前充分加熱，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27311,6 +27343,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That is, the regeneration effect by the wall of core cylinder alone is not very effective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T071258Z" creationid="Judy" creationdate="20141017T070231Z">
+        <seg>即核心汽缸牆面之再生效應並不非常有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That means, if no-load tests are carried out after resistance measurements and/or lightning impulse tests, the core of the transformer should be demagnetized by &lt;t0/&gt;overexcitation&lt;t1/&gt; before the no-load test is carried out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070045Z" creationid="CCYU" creationdate="20140928T065854Z">
@@ -27819,6 +27859,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012713Z" creationid="CCYU" creationdate="20140928T012713Z">
         <seg>平均液體溫度為頂部液體與底部液體溫度之平均。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The average temperature variations are consistent with the observation from the temperature contours in Fig. 6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T073405Z" creationid="Judy" creationdate="20141017T073405Z">
+        <seg>平均溫度變化與圖 6 之等溫線觀察值相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The average temperature variations further confirm that the MR is an effective thermal barrier, and it has posed significant impact on the heat transfer behaviors in these chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T073715Z" creationid="Judy" creationdate="20141017T073715Z">
+        <seg>平均溫度變化進一步確認了移動式再生器為有效的熱屏障，且其對腔體的熱傳到過程產生了顯著的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28479,6 +28535,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The figure indicates that in general, the temperature in the expansion chamber from the case with MR is higher than that from the case without MR, but in the compression chamber, the temperature from the former is lower than the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072544Z" creationid="Judy" creationdate="20141017T072544Z">
+        <seg>圖形顯示出一般情況下，具有移動式再生器之膨脹腔體溫度較不具移動式再生器之膨脹腔體高，而壓縮腔體則相反，前者溫度較低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The figure shows the results returned by USTREAM agree very well with those by &lt;t12/&gt;Rong&lt;t13/&gt; et al., hence validating the correctness of USTREAM code’s capability to handle porous medium flows.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220022Z" creationid="CCYU" creationdate="20141016T220022Z">
@@ -28807,6 +28871,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The influence of MR on engine performance can be better understood from the variations of average and integrated quantities which will be presented in the next subsection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072035Z" creationid="Judy" creationdate="20141017T072021Z">
+        <seg>下節將提出平均和加總變化量，可藉此更進一步的了解移動式再生器對引擎效能的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The information listed below shall be included on the rating plate when it is applicable to particular transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T022245Z" creationid="CCYU" creationdate="20140927T022245Z">
@@ -29083,6 +29155,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T171229Z" creationid="Judy" creationdate="20140822T171229Z">
         <seg>熱端牆之最大局部熱通量可高達 5.4 &lt;t8/&gt;kWm&lt;t9/&gt;-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum temperature and the range of change in temperature in the expansion chamber are 823.17 K and 83.41 K for the case with MR, and these are 811.25 K and 117.16 K for the case without MR; whereas, these quantities in the compression chamber are 321.38 K and 30.90 K for the case with MR, and are 341.48 K and 45.7 K for the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072940Z" creationid="Judy" creationdate="20141017T072829Z">
+        <seg>具有移動式再生器之膨脹腔體中的最高溫度及溫度變化範圍為 823.17 K 和 83.41 K，不具移動式再生器時則為 811.25 K 和 117.16 K；而具有移動式再生器之壓縮腔體量值為 321.38 K 和 30.90 K，不具移動式再生器的情況下則為 341.48 K 和 45.7 K。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30107,6 +30187,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090941Z" creationid="CCYU" creationdate="20140817T090941Z">
         <seg>工具組的大小取決於潛在洩漏的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The smaller ranges of change in temperature for the case with MR suggest that there exist smaller temperature gradients in its expansion and compression chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T073518Z" creationid="Judy" creationdate="20141017T073518Z">
+        <seg>具有移動式再生器時溫度變化較小，顯示出其膨脹和壓縮腔體具有較小的溫度梯度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32291,6 +32379,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T072713Z">
         <seg>此產品不得作為一般垃圾丟棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This proves the effectiveness of MR to change gas &lt;t6/&gt;temperature, and MR, as the role of a regenerator, is much more efficient than the wall of core cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T071238Z" creationid="Judy" creationdate="20141017T071238Z">
+        <seg>此結果證明了移動式再生器改變氣體溫度的有效性，以及移動式再生器比起核心汽缸牆面作為再生器更為有效。</seg>
       </tuv>
     </tu>
     <tu>
