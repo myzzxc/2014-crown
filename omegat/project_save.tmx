@@ -3073,6 +3073,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;The integrated rates of heat input and output as well as engine indicated power and displacer power for the case without MR are 38.65 W, 33.40W, 5.07 W, and -0.02 W respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091338Z" creationid="Judy" creationdate="20141017T091338Z">
+        <seg>無移動式再生器之熱量輸入和輸出率總值為以及引擎指示功率和換氣活塞功率分別為 38.65 W、33.40W、5.07 W 以及 -0.02 W。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;and&lt;t4/&gt; if so, for which &lt;t5/&gt;tappings&lt;t6/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132448Z" creationid="CCYU" creationdate="20140924T132448Z">
@@ -3149,6 +3157,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124513Z" creationid="CCYU" creationdate="20140817T124513Z">
         <seg>洩漏吸收枕可用於擦淨小量洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;Therefore, &lt;t7/&gt;the net engine power is calculated by adding indicated power and displacer power together:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090513Z" creationid="Judy" creationdate="20141017T090513Z">
+        <seg>因此，引擎淨功率計算值為指示功率和換氣活塞功率加總：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3253,8 +3269,8 @@
       <tuv lang="EN-US">
         <seg>A computational fluid dynamics study on the heat transfer characteristics of a moving regenerator in a &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120219Z" creationid="CCYU" creationdate="20141015T115450Z">
-        <seg>β-型史特林引擎內部移動再生器熱傳導特性之計算流體力學研究</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T111758Z" creationid="CCYU" creationdate="20141015T115450Z">
+        <seg>β-型史特林引擎內部移動式再生器熱傳導特性之計算流體力學研究</seg>
       </tuv>
     </tu>
     <tu>
@@ -3367,6 +3383,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125730Z" creationid="CCYU" creationdate="20140817T125730Z">
         <seg>小袋穿刺破裂會導致車廂內一片混亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A reasonable explanation to this phenomenon is as follows: the heat capacity of copper is three orders higher than that of air; therefore, a small amount of &lt;t8/&gt;copper is sufficient to maintain its temperature against the heat transfer effect induced by the gas flow inside this engine and enables MR to retain its temperature gradient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T100145Z" creationid="Judy" creationdate="20141017T100145Z">
+        <seg>以下為此現象合理的解釋：銅的熱容量較空氣高三階；因此少量的銅已足夠維持溫度不受此引擎內部氣流所造成的熱傳效應影響並使移動式再生器維持其溫度梯度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3831,6 +3855,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084120Z" creationid="CCYU" creationdate="20140809T084120Z">
         <seg>Acetic acid 醋酸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledgment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104321Z" creationid="Judy" creationdate="20141017T104321Z">
+        <seg>致謝</seg>
       </tuv>
     </tu>
     <tu>
@@ -4587,6 +4619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Among the 6 cases tested in this study, the highest engine efficiency occurs at &lt;t0/&gt;ε&lt;t1/&gt;=0.99 due to the combination of a slight reduction in indicated power but a huge reduction in displacer power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103422Z" creationid="Judy" creationdate="20141017T103422Z">
+        <seg>本研究中測試之 6 種情況下，當 &lt;t0/&gt;ε&lt;t1/&gt;=0.99 時，綜合指示功率些微降低但換氣活塞功率大幅降低的影響而有最高的引擎效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Among them, the model proposed by &lt;t10/&gt;Schmidt is the stereotype, and improved variants of Schmidt’s model are nowadays the most widely adopted models [12-14] in numerical studies of &lt;t11/&gt;Stirling&lt;t12/&gt; engines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152756Z" creationid="CCYU" creationdate="20141015T152756Z">
@@ -4647,6 +4687,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061908Z" creationid="MAE" creationdate="20140810T061908Z">
         <seg>明顯的變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An in-house CFD code has been developed and applied to a rhombic-drive &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine to study the effects of MR on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101511Z" creationid="Judy" creationdate="20141017T101452Z">
+        <seg>本研究開發了一組自行撰寫之計算流體力學程式碼並套用至菱形驅動 &lt;t0/&gt;β&lt;t1/&gt;-型史特林引擎以研究移動式再生器對引擎效能的影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5427,10 +5475,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, less heat input is need at the hot end, and less waste heat is discharged to the cold end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T102239Z" creationid="Judy" creationdate="20141017T102136Z">
+        <seg>結果顯示熱端需要較少的熱量輸入，且冷端排放廢熱較少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a result, the approximate amount of displacement is about 25 m, which would be more consistent to really local condition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T132111Z" creationid="CCYU" creationdate="20140913T132111Z">
         <seg>所得之結果顯示其位移量約為 25 公尺，此結果更加符合實地的情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a result, the case with porosity of 0.99 yields the highest engine efficiency among the 6 cases because this case doesn’t suffer much reduction in indicated power but enjoys a huge reduction in displacer power, thus producing the largest net engine power among the 6 cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101310Z" creationid="Judy" creationdate="20141017T101310Z">
+        <seg>結果顯示 6 種情況下，孔隙率 0.99 可得到最高的引擎效率，因此其為 6 種情況中產生最大的引擎淨功率的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6116,6 +6180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Between the two cases, the maximum pressure difference with MR is 24 times larger than that in the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T080504Z" creationid="Judy" creationdate="20141017T080504Z">
+        <seg>兩種情況中，具有移動式再生器的最大壓差為不具移動式再生器的 24 倍大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bibliography</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073115Z" creationid="JUDY" creationdate="20141005T073115Z">
@@ -6616,6 +6688,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T074044Z">
         <seg>卡匣：雙槽 (999、1400 ml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cases with and without MR have been investigated to understand the differences caused by the introduction of MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101643Z" creationid="Judy" creationdate="20141017T101643Z">
+        <seg>檢視了具有及不具有移動式再生器的情況以了解使用移動式再生器所造成之差異，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7529,6 +7609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041858Z">
         <seg>氣動鑽鑽孔 (CD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compression</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110756Z" creationid="Judy" creationdate="20141017T110756Z">
+        <seg>壓縮</seg>
       </tuv>
     </tu>
     <tu>
@@ -8670,6 +8758,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite of the energy loss due to regenerative channel pressure drop, MR has been shown to largely improve both engine’s power and efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T102835Z" creationid="Judy" creationdate="20141017T102835Z">
+        <seg>雖然再生通道之壓降造成能源損耗，移動式再生器仍大幅改進引擎功率和效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the advantages in heat transfer introduced by MR, the porous material in MR also acts as a barrier to the gas flowing forwards and backwards between the expansion and compression chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T075725Z" creationid="Judy" creationdate="20141017T075725Z">
+        <seg>除了使用移動式再生器對熱傳導有優點外，多孔性介質同時也作為氣體來回流經膨脹和壓縮腔體間的屏障，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Despite the large difference in porosity, the two cases return very similar temperature variations, signifying that heat transfer variations in both cases are similar too.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T095653Z" creationid="Judy" creationdate="20141017T095653Z">
+        <seg>即使孔隙率有很大的差異，兩種情況下皆得到非常近似的溫度變化，顯示出兩種情況下的熱傳導變化也相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despite these disadvantages, Stirling engine technology has been constantly improved to produce new generation of engines with higher power/weight ratio and higher power output and efﬁciency; and it might become more popular and widespread into more applications &lt;t4/&gt;in the future.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213536Z" creationid="Judy" creationdate="20140818T213536Z">
@@ -8930,6 +9042,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T121957Z">
         <seg>張力和剪力負荷下之位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displacer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110750Z" creationid="Judy" creationdate="20141017T110744Z">
+        <seg>換氣活塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displacer power is very sensitive to porosity, but other quantities such as indicated power, rates of heat input and output are not sensitive to porosity when porosity is smaller than 0.99.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103115Z" creationid="Judy" creationdate="20141017T103115Z">
+        <seg>換氣活塞功率對孔隙率變化非常敏感，但其他量值如指示功率、熱量輸入及輸出率當孔隙率小於 0.99 時受孔隙率影響不甚明顯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9846,6 +9974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effects of porosity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092406Z" creationid="Judy" creationdate="20141017T092406Z">
+        <seg>孔隙率效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ei represents the r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090805Z" creationid="CCYU" creationdate="20140921T090805Z">
@@ -10302,6 +10438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expansion</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110804Z" creationid="Judy" creationdate="20141017T110804Z">
+        <seg>膨脹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Experiment&lt;t0/&gt;          &lt;t1/&gt;Result</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023147Z" creationid="CCYU" creationdate="20140809T023147Z">
@@ -10742,6 +10886,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 10:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110955Z" creationid="Judy" creationdate="20141017T110955Z">
+        <seg>圖 10：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 10: Comparison of the variations of heat transfer rates in the expansion and compression chambers for cases with and without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110419Z" creationid="Judy" creationdate="20141017T110419Z">
+        <seg>圖 10：具有和不具有移動式再生器之膨脹和壓縮腔體中的熱傳導率變化比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 11(a) indicates that average temperature ﬂuctuation in the expansion chamber is within the range of 28 K, and due to the compression effect mentioned &lt;t2/&gt;earlier,&lt;t3/&gt; the maximum average temperature is 401.0 K which is slightly higher than the hot-end temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201234Z" creationid="Judy" creationdate="20140823T201234Z">
@@ -10766,6 +10926,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 11:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110958Z" creationid="Judy" creationdate="20141017T110958Z">
+        <seg>圖 11：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 11: Comparison of the variations of pressure difference between the expansion and compression chambers for cases with and without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110520Z" creationid="Judy" creationdate="20141017T110520Z">
+        <seg>圖 11：具有和不具有移動式再生器之膨脹和壓縮腔體中的壓差變化比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 12:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T111003Z" creationid="Judy" creationdate="20141017T111003Z">
+        <seg>圖 12：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 12: Comparison of the variations of average pressure in the expansion and compression chambers for cases with and without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110541Z" creationid="Judy" creationdate="20141017T110541Z">
+        <seg>圖 12：具有和不具有移動式再生器之膨脹和壓縮腔體中的平均壓力變化比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 13:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T111007Z" creationid="Judy" creationdate="20141017T111007Z">
+        <seg>圖 13：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 13: Comparison of the variations of average temperature in the expansion and compression chambers for cases with ε=0.8 and 0.99.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110657Z" creationid="Judy" creationdate="20141017T110657Z">
+        <seg>圖 13：於 ε=0.8 和 0.99 時膨脹和壓縮腔體中的平均溫度變化比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110732Z" creationid="Judy" creationdate="20141017T110732Z">
+        <seg>圖 1：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 1: The configuration and definition of geometric parameters of the &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105157Z" creationid="Judy" creationdate="20141017T105157Z">
+        <seg>圖 1：&lt;t0/&gt;β&lt;t1/&gt;-型史特林引擎之設置與幾何參數定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 2 shows the grid with 80,566 cells.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T153039Z" creationid="Judy" creationdate="20140820T153039Z">
@@ -10782,6 +11006,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 2:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110851Z" creationid="Judy" creationdate="20141017T110851Z">
+        <seg>圖 2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 2: schematic of the computational domain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105242Z" creationid="Judy" creationdate="20141017T105242Z">
+        <seg>圖 2：計算範圍圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 3 indicates that USTREAM code returns results that ﬁt this relation very well; hence, the correctness of the code has been validated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155310Z" creationid="Judy" creationdate="20140820T155310Z">
@@ -10794,6 +11034,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160206Z" creationid="Judy" creationdate="20140820T155615Z">
         <seg>圖 3，用於程式碼驗證之 γ-型史特林引擎絕熱循環 &lt;t0/&gt;&lt;t1/&gt;p&lt;t2/&gt;ave&lt;t3/&gt;-V&lt;t4/&gt; 圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 3:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110858Z" creationid="Judy" creationdate="20141017T110858Z">
+        <seg>圖 3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 3: Comparison of &lt;t0/&gt;streamwise&lt;t1/&gt; velocity distributions in a pipe partially blocked by a porous medium core.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105452Z" creationid="Judy" creationdate="20141017T105452Z">
+        <seg>圖 3：以多孔性介質芯部分阻塞之管道中流場速度分佈比較圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10822,6 +11078,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 4:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110902Z" creationid="Judy" creationdate="20141017T110902Z">
+        <seg>圖 4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 4: Comparison of &lt;t0/&gt;p-V&lt;t1/&gt; relation between exact values and the present results in an adiabatic cycle with engine speed of 60 rpm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T111630Z" creationid="Judy" creationdate="20141017T105809Z">
+        <seg>圖 4：引擎轉速 60 rpm 下，單一引擎絕熱循環中實際值與此計算流體力學結果之 &lt;t0/&gt;p-V&lt;t1/&gt; 關係比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 5 shows the grid with 6,264 cells.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230343Z" creationid="CCYU" creationdate="20141016T230343Z">
@@ -10834,6 +11106,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T160139Z" creationid="Judy" creationdate="20140820T160002Z">
         <seg>圖 5，全引擎於 10 種不同曲柄角度下之等溫線圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 5:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110905Z" creationid="Judy" creationdate="20141017T110905Z">
+        <seg>圖 5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 5: Computational mesh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105855Z" creationid="Judy" creationdate="20141017T105855Z">
+        <seg>圖 5：計算網格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 6 (a)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110925Z" creationid="Judy" creationdate="20141017T110917Z">
+        <seg>圖 6 (a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 6 (b):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110934Z" creationid="Judy" creationdate="20141017T110934Z">
+        <seg>圖 6 (b)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,6 +11174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 6: Temperature contours across the whole engine at 10 different crank angles; (a) the case with MR, (b) the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105958Z" creationid="Judy" creationdate="20141017T105958Z">
+        <seg>圖 6：全引擎於 10 種不同曲柄角度下之等溫線圖；(a) 具有移動式再生器，(b) 不具有移動式再生器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 7 shows the enlarged views of velocity vectors, temperature contours, and local heat ﬂux distributions on the top plate of the compression chamber at h = 270.0°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101803Z" creationid="Judy" creationdate="20140822T101803Z">
@@ -10882,6 +11194,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101648Z" creationid="Judy" creationdate="20140822T101648Z">
         <seg>圖 7，壓縮腔體於 h = 270.0 ° 之等溫線、速度向量和局部熱通量分布；(a) 等溫線和速度向量，(b) 頂板與動力汽缸牆上之局部熱通量分布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 7:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110944Z" creationid="Judy" creationdate="20141017T110944Z">
+        <seg>圖 7：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 7: Velocity vectors and temperature contours in the expansion chamber at &lt;t0/&gt;θ&lt;t1/&gt;=57.6° for the case without MR; (a) velocity vectors, (b) temperature contours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110158Z" creationid="Judy" creationdate="20141017T110158Z">
+        <seg>圖 7：無移動式再生器之膨脹腔體於 &lt;t0/&gt;θ&lt;t1/&gt;=57.6° 之速度向量和等溫線；(a) 速度向量，(b) 等溫線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10902,6 +11230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig. 8:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110948Z" creationid="Judy" creationdate="20141017T110948Z">
+        <seg>圖 8：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 8: Velocity vectors and temperature contours in the expansion chamber at &lt;t0/&gt;θ&lt;t1/&gt;=57.6° for the case with MR; (a) velocity vectors, (b) temperature contours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110220Z" creationid="Judy" creationdate="20141017T110220Z">
+        <seg>圖 8：具有移動式再生器之膨脹腔體於 &lt;t0/&gt;θ&lt;t1/&gt;=57.6° 之速度向量和等溫線；(a) 速度向量，(b) 等溫線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 9(b), on the other hand, shows that the gas temperature from the expansion chamber is assimilated by the porous medium temperature as soon as the gas enters the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T070746Z" creationid="Judy" creationdate="20141017T070746Z">
@@ -10914,6 +11258,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T202932Z" creationid="Judy" creationdate="20140823T202932Z">
         <seg>圖 9，蓄熱牆於兩個不同曲柄角度之局部熱通量分布 (a) h = 90.0°， (b) h = 252.0°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 9:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110952Z" creationid="Judy" creationdate="20141017T110952Z">
+        <seg>圖 9：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 9: Comparison of the variations of average temperature in the expansion and compression chambers for cases with and without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110337Z" creationid="Judy" creationdate="20141017T110337Z">
+        <seg>圖 9：具有和不具有移動式再生器之膨脹和壓縮腔體中的平均溫度變化比較圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11067,6 +11427,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142049Z" creationid="CCYU" creationdate="20141004T142032Z">
         <seg>圖 D.4 - 三組單相變壓器連接成三相組合範例 (連接符號 Yd5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure captions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105050Z" creationid="Judy" creationdate="20141017T105050Z">
+        <seg>圖片說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110726Z" creationid="Judy" creationdate="20141017T110726Z">
+        <seg>圖示</seg>
       </tuv>
     </tu>
     <tu>
@@ -11848,6 +12224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the case with MR, even with the displacer power loss been taken into account, the net engine power is still larger than the case without MR, and the data yield an engine efficiency of 20.23%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092134Z" creationid="Judy" creationdate="20141017T092134Z">
+        <seg>具有移動式再生器的情況下，即使考慮換氣活塞功率，引擎淨功率仍大於無移動式再生器之情況，且數據顯示引擎效率為 20.23%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the classification and labelling of the product see section 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032818Z" creationid="CCYU" creationdate="20140809T032818Z">
@@ -12228,6 +12612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153339Z" creationid="CCYU" creationdate="20141004T153339Z">
         <seg>進一步的指示收錄於 CIGRE 手冊 343。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further increase on the amount of copper in MR only results in an increase on pressure drop and would only slightly improve MR’s heat transfer performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T100357Z" creationid="Judy" creationdate="20141017T100357Z">
+        <seg>於移動式再生器中增加更多的銅造成壓降增加且僅能些微改進移動式再生器之熱傳導效能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,10 +13346,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here the pressure difference is defined &lt;t0/&gt;as &lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T080016Z" creationid="Judy" creationdate="20141017T080016Z">
+        <seg>此處壓差定義為 &lt;t0/&gt;&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here we are talking about large hydraulic machines that leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072603Z" creationid="CCYU" creationdate="20140817T072603Z">
         <seg>此處我們將討論大型液壓機台的洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, &lt;t0/&gt; is obtained by the same way described in [23] as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090616Z" creationid="Judy" creationdate="20141017T090616Z">
+        <seg>此處，&lt;t0/&gt; 使用與 [23] 相同方式求得：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,6 +13382,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205305Z" creationid="Judy" creationdate="20140823T205305Z">
         <seg>此處 η 由引擎功率除以熱量輸入率所得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, porosity 1.0 corresponds to the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093520Z" creationid="Judy" creationdate="20141017T093520Z">
+        <seg>此處，孔隙率 1.0 代表無移動式再生器的情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, the engine efficiency is calculated by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091921Z" creationid="Judy" creationdate="20141017T091921Z">
+        <seg>此處之引擎效率計算如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13138,6 +13562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in the case with MR, the power to drive displacer becomes significant due to the huge pressure drop caused by the porous medium, hence, it cannot be neglected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090320Z" creationid="Judy" creationdate="20141017T090320Z">
+        <seg>然而，具有移動式再生器的情況下驅動換氣活塞的功率由於多孔性介質造成的壓降而變得顯著，因此無法忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it can produce resampled images which have jagged edges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080722Z" creationid="CCYU" creationdate="20140913T080722Z">
@@ -13198,6 +13630,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142811Z" creationid="CCYU" creationdate="20140913T142737Z">
         <seg>然而，此差異是由於拍攝的時間所造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the phase-lag effect is less pronounced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084529Z" creationid="Judy" creationdate="20141017T084529Z">
+        <seg>然而相遲滯效應較不明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the porous medium in MR largely increases the pressure drop in the regenerative channel and introduces energy deficit to engine’s output work in the form of displacer work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T102622Z" creationid="Judy" creationdate="20141017T102622Z">
+        <seg>然而移動式再生器中的多孔性介質增加了再生通道內之壓降，消耗換氣活塞之功而造成引擎之輸出功降低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,6 +15782,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In terms of calculating engine power output, the power to drive the displacer was not taken into account in [23] because this is only a tiny fraction of the indicated power for the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090055Z" creationid="Judy" creationdate="20141017T090055Z">
+        <seg>計算引擎輸出功率時，文獻 [23] 中不考慮驅動換氣活塞的功率，因為於無移動式再生器的情況下此值僅佔指示功率很小的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In terms of the ejection phase of the compression chamber, Fig. 9(b) shows that at the lower section of displacer cylinder wall (near entrance of the regenerative channel), heat ﬂux is positive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194258Z" creationid="Judy" creationdate="20140823T194258Z">
@@ -15430,10 +15886,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case without MR, the maximum of the absolute value of the pressure difference is 455 pa, which is only a very small fraction of the average pressure; whereas, in the case with MR the maximum value is 10658 pa, which is more than one tenth of the average pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T080324Z" creationid="Judy" creationdate="20141017T080324Z">
+        <seg>無移動式再生器的情況下，壓差絕對值的最大值為 455 pa，僅佔平均壓力非常小的一部分；然而具有移動式再生器的情況下最大值為 10658 pa，超過平均壓力的十分之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the compression chamber, the average temperature ﬂuctuation is within the rage of 20 K. Both average temperature&lt;t4/&gt; &lt;t5/&gt;variations show only one peak and one valley, corresponding to one injection phase and one ejection phase within an engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T201506Z" creationid="Judy" creationdate="20140823T201458Z">
         <seg>壓縮腔體中，平均溫度變化範圍小於 20 K。兩組平均溫度皆只有一峰值與一谷值，分別對應至單一引擎循環中的注入相與排出相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the compressor chamber, on the other hand, Fig. 12 (b) shows that the maximum pressure with MR is still larger than that without MR, but the minimum pressure of the former is smaller.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084400Z" creationid="Judy" creationdate="20141017T084400Z">
+        <seg>另一方面，於壓縮腔體中，圖 12 (b) 顯示出具有移動式再生器的最大壓力較無移動式再生器的情況小，但前者最小壓力較小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15466,6 +15938,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145159Z" creationid="MAE" creationdate="20140807T092701Z">
         <seg>In the event of fire, the following can be released: Carbon monoxide (CO); Carbon dioxide (CO2); Combustion products of this material have to be classed invariably as respiratory poison. 一旦發生火災，可能釋放以下物質：一氧化碳 (CO)；二氧化碳 (CO2)；此類燃燒產物往往歸類為造成呼吸中毒的物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the expansion chamber, Fig. 12 (a) indicates that the pressure in the case with MR is generally higher than the case without MR, and the MR seems to cause some phase-lag effect on the pressure variations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084002Z" creationid="Judy" creationdate="20141017T084002Z">
+        <seg>膨脹腔體中，圖 12 (a) 顯示了具有移動式再生器的情況下壓力通常高於無移動式再生器的情況，且移動式再生器似乎造成壓力變化些許相遲滯效應，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16414,10 +16894,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be noted from the results that only displacer power is sensitive to porosity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093800Z" creationid="Judy" creationdate="20141017T093800Z">
+        <seg>由結果可見僅換氣活塞功率受孔隙率影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be seen in Fig. 4 that in the compression chamber, the ejection phase mostly coincides with the compression process of the entire engine volume, and the negative heat transfer is further boosted by the compression effect which heats up the gas in the compression chamber and creates even larger temperature difference between gas and cold-end wall.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T092336Z" creationid="Judy" creationdate="20140823T090025Z">
         <seg>可由圖 4 看出壓縮腔體中排出相與主要與整個引擎體積壓縮過程相同，而壓縮效應加熱了壓縮腔體內的氣體並進一步加強了負熱傳導而造成氣體與冷端牆更大的溫差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be seen that both the maximum and minimum pressures for the case with MR occur in later phase angles than the case without MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084203Z" creationid="Judy" creationdate="20141017T084203Z">
+        <seg>可見到具有移動式再生器之最大和最小壓力發生之相位角在無移動式再生器之後。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,6 +17086,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is noticeable that for the case without MR, the rate of heat input is much larger, and the displacer power is so small that it can be neglected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091811Z" creationid="Judy" creationdate="20141017T091811Z">
+        <seg>可發現無移動式再生器的情況下，熱量輸入率較大，且換氣活塞功率非常小因此可忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z" creationid="CCYU" creationdate="20140928T070447Z">
@@ -16714,6 +17218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T093940Z">
         <seg>隨機附件及包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its effect on engine power output will be discussed later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084848Z" creationid="Judy" creationdate="20141017T084848Z">
+        <seg>其對引擎輸出功率的影響將於接下來的文章中討論。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17906,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043051Z" creationid="JUDY" creationdate="20140827T043051Z">
         <seg>MR 系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MR is an effective thermal barrier that keeps the temperature in the expansion chamber high and the temperature in the compressor low.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T102056Z" creationid="Judy" creationdate="20141017T102056Z">
+        <seg>移動式再生器為有效的熱屏障，可維持膨脹腔體高溫以及壓縮腔體低溫，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20726,6 +21246,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other quantities such as indicated power and heat input and output rates are not very sensitive to porosity in cases where &lt;t2/&gt;ε&lt;t3/&gt; is less than 0.99.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T094057Z" creationid="Judy" creationdate="20141017T094002Z">
+        <seg>其他量值如指示功率和熱量輸入及輸出率，當 &lt;t2/&gt;ε&lt;t3/&gt; 小於 0.99 時受孔隙率影響不甚明顯，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other tests for transformers may be defined in the specific documents for specialized transformers such as dry-type, self-protected and other groups.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162224Z" creationid="CCYU" creationdate="20140927T162224Z">
@@ -22951,6 +23479,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regenerative</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110817Z" creationid="Judy" creationdate="20141017T110817Z">
+        <seg>再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regenerators can be classified into stationary and moving regenerators (termed MR for the rest of the paper) according to the motion of a regenerator in an engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144624Z" creationid="CCYU" creationdate="20141015T144624Z">
@@ -23323,6 +23859,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T054023Z" creationid="MAE" creationdate="20140810T054023Z">
         <seg>評估結果採用分級方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results in Table 2 show that an increase in porosity reduces indicated power, displacer power, and all heat transfer rates; however, the reduction rate of displacer power is much larger than others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101034Z" creationid="Judy" creationdate="20141017T101034Z">
+        <seg>表 2 列出的結果顯示出增加孔隙率將降低指示功率、換氣活塞功率以及所有熱傳導率；而換氣活塞功率的下降率較其他參數更大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24815,6 +25359,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since &lt;t2/&gt; is negative, the displacer power is negative to signify that it is a deficit to power output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091102Z" creationid="Judy" creationdate="20141017T091102Z">
+        <seg>因為 &lt;t2/&gt; 為負值，換氣活塞功率為負值代表其消耗輸出功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since Least Square Gauss Fit uses more data for the location of the peak, the noise in the result is generally less than with more simple fits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025831Z" creationid="CCYU" creationdate="20140914T025803Z">
@@ -24867,6 +25419,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205747Z" creationid="Judy" creationdate="20140823T205747Z">
         <seg>由於本研究重點為探討史特林引擎循環之熱傳導特性，改進引擎效率將在往後的研究中探討。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since the porous medium plays a very important role on the performance of the engine, it would be interesting to further investigate the impact of some important porous parameters on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093008Z" creationid="Judy" creationdate="20141017T092846Z">
+        <seg>由於多孔性介質對引擎效能相當重要，因此進一步研究多孔參數對引擎效能的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25003,6 +25563,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110910Z" creationid="CCYU" creationdate="20140809T110910Z">
         <seg>Softening point/range 軟化點 / 範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Solid wall</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110812Z" creationid="Judy" creationdate="20141017T110812Z">
+        <seg>固體牆面</seg>
       </tuv>
     </tu>
     <tu>
@@ -26415,6 +26983,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T111517Z" creationid="Judy" creationdate="20141017T111517Z">
+        <seg>表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155314Z" creationid="Judy" creationdate="20140820T155314Z">
@@ -26443,6 +27019,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045658Z">
         <seg>表 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 1: The dimensions of the geometrical parameters of the &lt;t0/&gt;β&lt;t1/&gt;-type &lt;t2/&gt;Stirling&lt;t3/&gt; engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104836Z" creationid="Judy" creationdate="20141017T104836Z">
+        <seg>表 1：&lt;t0/&gt;β&lt;t1/&gt;-型史特林引擎之幾何尺寸參數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 2: Indicated power, displacer power, rates of heat input and output, and engine efficiency at 6 different values of porosity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105005Z" creationid="Judy" creationdate="20141017T105005Z">
+        <seg>表 2：於 6 種不同孔隙率值下之指示功率、換氣活塞功率、熱量輸入及輸出率以及引擎效率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27911,6 +28503,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The behavior of displacer power to the increase in porosity is expected because more porous medium causes larger pressure drop as gas flows through MR, hence requiring more displacer power to drive the gas flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T094800Z" creationid="Judy" creationdate="20141017T094800Z">
+        <seg>換氣活塞功率受孔隙率增加的影響如預期結果，因為多孔性介質量越高則於氣體流經移動式再生器時壓降越高，因而需要更高的換氣活塞功率以驅動氣體流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The benefit is that the mat will eliminate free oil from normal leaks and will catch any oil from a major leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073553Z" creationid="CCYU" creationdate="20140817T073553Z">
@@ -28019,6 +28619,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153613Z" creationid="CCYU" creationdate="20140925T153613Z">
         <seg>時鐘數符號為低電壓時針指向位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The combination of the different reactions among displacer power, indicated power, and rates of heat transfer to the increase in porosity gives rise to an interesting relation between engine efficiency and porosity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T100751Z" creationid="Judy" creationdate="20141017T100751Z">
+        <seg>換氣活塞功率、指示功率以及熱傳導率間的不同反應組合受孔隙率增加的影響顯示出引擎效率與孔隙率之間的關係，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The combined effects of the differences in the variations of temperature and pressure difference result in different pressure variations in the expansion and compression chambers as illustrated in Fig. 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T081012Z" creationid="Judy" creationdate="20141017T081012Z">
+        <seg>溫度與壓力差變化差異的綜合效應造成膨脹和壓縮腔體內不同的壓力變化，如圖 12 所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28335,6 +28951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The displacer power is calculated by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090749Z" creationid="Judy" creationdate="20141017T090749Z">
+        <seg>換氣活塞功率計算如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be measured an&lt;t0/&gt;d noted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101644Z" creationid="CCYU" creationdate="20140928T101644Z">
@@ -28435,6 +29059,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T051810Z">
         <seg>尾端印上識別標記且嵌入端為鈍切或切開於斜角上 (鑿點)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The engine can deliver more engine power with much less heat input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092335Z" creationid="Judy" creationdate="20141017T092335Z">
+        <seg>引擎可使用較少的熱量輸入得到較大的引擎功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28919,6 +29551,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The insensitivity of rates of heat input and output to porosity suggests that very small amount of porous medium is actually sufficient to enable MR to perform very effectively under the current operation conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T095158Z" creationid="Judy" creationdate="20141017T094855Z">
+        <seg>熱量輸入及輸出率不受孔隙率的影響之結果顯示出當前的操作條件下，非常少量的多孔性介質即可使移動式再生器非常有效率，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The installation of post-installed rebar shall be done only by suitable trained installer and under supervision on site; the conditions under which an installer may be considered as suitable trained and the conditions for supervision on site are up to the Member States in which the installation is done.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043038Z">
@@ -28931,6 +29571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T023714Z">
         <seg>安裝扭矩列於表 II。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The integration of heat-input and heat-output rates (&lt;t0/&gt;Q&lt;t1/&gt;in&lt;t2/&gt; and &lt;t3/&gt;Q&lt;t4/&gt;out&lt;t5/&gt;) in one engine cycle is the same as that in [23] and will not be repeated here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T085334Z" creationid="Judy" creationdate="20141017T085334Z">
+        <seg>單一引擎循環中熱量輸入和熱量輸出率總量 (&lt;t0/&gt;Q&lt;t1/&gt;in&lt;t2/&gt; 和 &lt;t3/&gt;Q&lt;t4/&gt;out&lt;t5/&gt;) 與文獻 [23] 相同，因此不在此處賛述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29067,6 +29715,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073102Z" creationid="CCYU" creationdate="20140927T072848Z">
         <seg>磁化電流將變得極度不對並具有較高的諧波含量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The magnitude of pressure difference is closely associated with the pressure drop in the regenerator, which contributes to energy loss.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084703Z" creationid="Judy" creationdate="20141017T084703Z">
+        <seg>壓力差的量與再生器中造成能源損耗的壓降緊密相關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29275,6 +29931,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074255Z" creationid="CCYU" creationdate="20140817T074153Z">
         <seg>漏油漂浮在冷卻水上使得油水混合物難以去除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most important porous parameter is porosity &lt;t0/&gt;ε&lt;t1/&gt; which concerns the amount of porous material in MR, therefore the engine has been run with 6 different porosity values of 0.8, 0.9, 0.95, 0.99, 0.995, and 1.0, respectively to examine its effects on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093437Z" creationid="Judy" creationdate="20141017T093437Z">
+        <seg>最重要的多孔參數為孔隙率 &lt;t0/&gt;ε&lt;t1/&gt;，其為移動式再生器多孔材料的量值，因此以 6 種不同的孔隙率分別為 0.8、0.9、0.95、0.99、0.995 以及 1.0 下進行模擬以檢視其對引擎效能的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29603,6 +30267,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204149Z" creationid="Judy" creationdate="20140823T204149Z">
         <seg>功率可由以下方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The practice might result in less accurate prediction on gas temperature as the gas flows through MR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103854Z" creationid="Judy" creationdate="20141017T103854Z">
+        <seg>實務上對預測當氣體流經移動式再生器時之氣體溫度可能有較低的準確性，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29983,6 +30655,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results in terms of indicated power, displacer power, heat input and output rates, and engine efficiency are shown in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093714Z" creationid="Judy" creationdate="20141017T093714Z">
+        <seg>表 2 列出了指示功率、換氣活塞功率、熱量輸入及輸出率以及引擎效率的模擬結果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results include temperature contours, average temperature and heat transfer rate variations, integrated rates of heat input, heat output, and engine power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101831Z" creationid="Judy" creationdate="20141017T101831Z">
+        <seg>結果包括了等溫線、平均溫度和熱傳導率變化、總熱量輸入和輸出率、以及引擎功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The results include temperature contours, variations of average temperature, heat transfer rates, integrated rates of heat input and output, engine power, and efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T120755Z" creationid="CCYU" creationdate="20141015T120755Z">
@@ -30019,6 +30707,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124505Z" creationid="CCYU" creationdate="20140911T132631Z">
         <seg>PIV 分析結果不僅有助於找尋滑動發生地點，同時也能評估地滑規模與方位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results show that the magnitude of heat transfer in both chambers is much smaller in the case with MR, primarily due to the smaller temperature gradients in both chambers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T074456Z" creationid="Judy" creationdate="20141017T074456Z">
+        <seg>結果顯示具有移動式再生器的兩腔體之熱傳導量皆非常小，主要原因為兩腔體有較小的溫度梯度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31327,6 +32023,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the future work of this study includes: using more sophisticated thermal non-equilibrium model to separately solve the temperatures of the gas and the porous medium as the gas flows through MR, and investigating the effects of more porous parameters on engine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104314Z" creationid="Judy" creationdate="20141017T104314Z">
+        <seg>因此，本研究未來的展望包括：使用更複雜的非平衡熱模型以分別解出氣體溫度和氣體流經移動式再生器時之多孔性介質溫度，並研究引擎上更多的多孔參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the integration of heat input cannot be conﬁned just along the wall of the expansion chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T203449Z" creationid="Judy" creationdate="20140823T203429Z">
@@ -31539,6 +32243,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151933Z" creationid="CCYU" creationdate="20141015T151713Z">
         <seg>這些參數包括基體材料、基體排列、基體線徑以及填充因子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These quantities are only sensitive to porosity when &lt;t4/&gt;ε&lt;t5/&gt; value is very close to 1 (almost void or very little porous medium present).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T094304Z" creationid="Judy" creationdate="20141017T094053Z">
+        <seg>這些量值僅當 &lt;t4/&gt;ε&lt;t5/&gt; 值非常接近 1 (幾乎全為孔洞或多孔介質含量非常低) 時受孔隙率影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These results give rise to an engine efficiency of 13.11%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092152Z" creationid="Judy" creationdate="20141017T091852Z">
+        <seg>此處結果顯示引擎效率提升至 13.11%。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31887,6 +32607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This also suggests that a small amount of porous medium is sufficient to make MR performs very effectively in the current engine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103613Z" creationid="Judy" creationdate="20141017T103613Z">
+        <seg>此結果也顯示出少量的多孔性介質便足以使移動式再生器於當前的引擎中展現非常大的效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This applied voltage is referred to as the short-circuit voltage (IEC 60050-421:1990, 421-07-01) of the pair of windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045210Z" creationid="CCYU" creationdate="20140920T045155Z">
@@ -31915,6 +32643,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140054Z" creationid="CCYU" creationdate="20140923T140054Z">
         <seg>可使用表格形式，其中包含抽頭功率、抽頭電壓以及抽頭電流；或以文字形式，指明 '電壓變化之類別' 以及 '全功率抽頭' 中可能之限制範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be seen from the variations of pressure differences given in Fig. 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T075951Z" creationid="Judy" creationdate="20141017T075933Z">
+        <seg>圖 8 可見壓差變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be verified from the comparison of average temperature variations with &lt;t6/&gt;ε&lt;t7/&gt;=0.8 and 0.99 given in Fig. 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T095352Z" creationid="Judy" creationdate="20141017T095352Z">
+        <seg>此結果可由圖 13 之 &lt;t6/&gt;ε&lt;t7/&gt;=0.8 和 0.99 時之平均溫度變化比較圖來驗證。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31995,6 +32739,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T140138Z" creationid="Judy" creationdate="20140822T140009Z">
         <seg>此衝擊使冷空氣直接接觸熱端牆，產生公認最有效率對流熱傳導機制的衝擊熱傳導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This implies that less heat input is required at the hot end, and less waste heat is discharged to the cold end; therefore the engine becomes more efficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T102144Z" creationid="Judy" creationdate="20141017T075430Z">
+        <seg>此結果顯示熱端需要較少的熱量輸入，且冷端排放廢熱較少；引此引擎效率更高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32447,6 +33199,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This study adopts a thermal equilibrium model to deal with the temperature in porous medium.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103719Z" creationid="Judy" creationdate="20141017T103719Z">
+        <seg>本研究採用熱平衡模型以處理多孔性介質中的溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This study also examines the mechanism on how the moving regenerator achieves these effects and the influence of porosity on engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T121828Z" creationid="CCYU" creationdate="20141015T121828Z">
@@ -32519,10 +33279,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This work was supported by the &lt;t0/&gt;Ministry of Science and Technology&lt;t1/&gt;, Taiwan, Republic of China, under the grant number &lt;t2/&gt;MOST&lt;t3/&gt; &lt;t4/&gt;103-2622-E-168-006-CC3&lt;t5/&gt;.&lt;t6/&gt; The authors are very grateful for the financial support.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104654Z" creationid="Judy" creationdate="20141017T104654Z">
+        <seg>本研究由台灣科技部經費編號 &lt;t2/&gt;MOST&lt;t3/&gt; &lt;t4/&gt;103-2622-E-168-006-CC3&lt;t5/&gt; 贊助。&lt;t6/&gt; 作者對此經濟支援致上最高謝意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those pumps are usually outside or in a contained area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073054Z" creationid="CCYU" creationdate="20140817T073054Z">
         <seg>這些泵通常位於外部或置於密閉區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those quantities for the case with MR are 27.38 W, 21.10 W, 5.97 W, and -0.43 W, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091503Z" creationid="Judy" creationdate="20141017T091354Z">
+        <seg>而具有移動式再生器情況下之數值分別為 27.38 W、21.10 W、5.97 W 以及 -0.43 W。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32844,6 +33620,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T022747Z" creationid="Judy" creationdate="20140821T022747Z">
         <seg>因此某些二階模型使用均勻溫度分布及使用固定熱對流係數的假設來計算膨脹和壓縮腔體內的熱傳效應顯然無法呈現引擎內部真正的熱傳特性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To this end, the advantages of introducing MR are clearly demonstrated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092253Z" creationid="Judy" creationdate="20141017T092253Z">
+        <seg>至此，使用移動式再生器的優點已清楚地展現，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34140,6 +34924,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061928Z" creationid="MAE" creationdate="20140810T061928Z">
         <seg>非常差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very high pressure difference is now needed to drive the gas flow through the regenerative channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T075936Z" creationid="Judy" creationdate="20141017T075820Z">
+        <seg>需要非常高的壓差以驅動氣體流經再生通道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36308,6 +37100,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072315Z" creationid="CCYU" creationdate="20140927T072315Z">
         <seg>陰極保護系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>chamber</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110800Z" creationid="Judy" creationdate="20141017T110800Z">
+        <seg>腔體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>channel&lt;t0/&gt; &lt;t1/&gt;(&lt;t2/&gt;porous medium)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110840Z" creationid="Judy" creationdate="20141017T110840Z">
+        <seg>通道&lt;t0/&gt; &lt;t1/&gt;(&lt;t2/&gt;多孔性介質)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40324,6 +41132,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt; is the pressure difference between the top and bottom plates of the displacer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090852Z" creationid="Judy" creationdate="20141017T090852Z">
+        <seg>其中 &lt;t0/&gt; &lt;t1/&gt; 為換氣活塞頂板與底板之壓力差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where&lt;t0/&gt; &lt;t1/&gt;d&lt;t2/&gt;p&lt;t3/&gt; is the diameter of solid particle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205140Z" creationid="CCYU" creationdate="20141016T205140Z">
@@ -40336,6 +41152,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T204932Z" creationid="CCYU" creationdate="20141016T204932Z">
         <seg>其中 &lt;t0/&gt; &lt;t1/&gt; 為多孔介質有效黏滯性並依據 [19] 設定為 &lt;t2/&gt;μ&lt;t3/&gt;； &lt;t4/&gt;F&lt;t5/&gt;u&lt;t6/&gt; 和 &lt;t7/&gt;F&lt;t8/&gt;v&lt;t9/&gt; 為多孔介質產生之力分量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where&lt;t0/&gt; &lt;t1/&gt;is the pressure acting on the surface of the power piston.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090727Z" creationid="Judy" creationdate="20141017T090646Z">
+        <seg>其中&lt;t0/&gt; &lt;t1/&gt; 為施加於動力活塞表面之壓力。</seg>
       </tuv>
     </tu>
     <tu>
