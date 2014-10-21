@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This should usually be less than 1/2 turn).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T114033Z" creationid="Judy" creationdate="20141020T114033Z">
+        <seg>(通常應小於 1/2 轉)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(VOCV 814.018 VOC regulation CH)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104625Z" creationid="CCYU" creationdate="20140809T104625Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084258Z" creationid="CCYU" creationdate="20140921T084258Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0344 per ATEX directive 94/9/EC</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T074129Z" creationid="Judy" creationdate="20141020T074129Z">
+        <seg>0344 依據 ATEX 指令 94/9/EC</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1234,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T234539Z" creationid="JUDY" creationdate="20140826T234539Z">
         <seg>2008 年 &lt;t0/&gt;Raytek&lt;t1/&gt;和 &lt;t2/&gt;Ircon&lt;t3/&gt; 與世界溫度分析領導者 DATAPAQ® 合併，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2011 and IEC 60079-1: 2007 for &lt;t0/&gt;IECEx&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091636Z" creationid="Judy" creationdate="20141020T091530Z">
+        <seg>2011 和 IECEx 之 IEC 60079-1: 2007 之防爆保護規範，</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z" creationid="CCYU" creationdate="20140809T013855Z">
         <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>78N/760N Series Installation and Operation Instruction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T072930Z" creationid="Judy" creationdate="20141020T072930Z">
+        <seg>78N/760N 安裝及操作指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,6 +3643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wide choice of coils is available for a variety of rated current requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090137Z" creationid="Judy" creationdate="20141020T090137Z">
+        <seg>多種線圈可供選擇以符合額定電流要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A wide range of optics, includ­ing a remote-controlled, motorized variable focus option on some mod­els, covers an enormous variety of applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T223813Z" creationid="JUDY" creationdate="20140826T223813Z">
@@ -4059,6 +4099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjustment Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T113640Z" creationid="Judy" creationdate="20141020T113640Z">
+        <seg>調整步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjustments to the bond strength may also be taken for increased concrete compressive strength as noted in the footnotes to the corresponding tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075201Z">
@@ -4343,6 +4391,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T124822Z" creationid="CCYU" creationdate="20140927T124822Z">
         <seg>變壓器於測試期間所有可能影響性能之外部元件和配件皆應安裝於其位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All fasteners must be of property class 10.9 &lt;t0/&gt;minimum&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102225Z" creationid="Judy" creationdate="20141020T102225Z">
+        <seg>所有固定零件特性等級最低為 10.9。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5383,6 +5439,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
         <seg>附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply a light film of oil to the screw threads and torque per Table 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T110743Z" creationid="Judy" creationdate="20141020T110743Z">
+        <seg>於螺紋上塗佈一層薄油並依表 1 扭力值上緊螺絲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,8 +6582,8 @@
       <tuv lang="EN-US">
         <seg>CAUTION</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083043Z">
-        <seg>謹慎</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085632Z">
+        <seg>注意</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +7990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact Moog for information on the dimensions of the flameproof joints.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091805Z" creationid="Judy" creationdate="20141020T091805Z">
+        <seg>請洽 Moog 以獲得防火接頭尺寸資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contact us!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012148Z" creationid="JUDY" creationdate="20140827T012148Z">
@@ -8406,6 +8478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DISASSEMBLY, MAINTENANCE, OR REPAIR OTHER THAN IN ACCORDANCE WITH THE INSTRUCTIONS HEREIN OR OTHER SPECIFIC WRITTEN DIRECTIONS FROM MOOG WILL INVALIDATE MOOG’S OBLIGATIONS UNDER ITS WARRANTY AND YIELD THE EXPLOSION PROOF PROTECTION PERMIT NULL AND VOID.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085946Z" creationid="Judy" creationdate="20141020T085946Z">
+        <seg>非依造本手冊或其他 MOOG 特定之書面指示拆解、維護或維修將使 MOOG 提供之保固失效並使防爆功失效或損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DISPOSAL CONSIDERATIONS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030330Z" creationid="CCYU" creationdate="20140809T030330Z">
@@ -8434,6 +8514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132235Z">
         <seg>分類： 05 00 00—金屬 章節： 05 05 19—混凝土後錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DO NOT remove self-locking fitting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T114206Z" creationid="Judy" creationdate="20141020T114206Z">
+        <seg>請勿移除自鎖固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9686,6 +9774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ELECTRICAL INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090037Z" creationid="Judy" creationdate="20141020T090037Z">
+        <seg>電氣資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMBEDMENT DEPTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
@@ -10458,6 +10554,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081601Z">
         <seg>符號說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explosion Proof</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073248Z" creationid="Judy" creationdate="20141020T073248Z">
+        <seg>防爆型</seg>
       </tuv>
     </tu>
     <tu>
@@ -11855,6 +11959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details on the flameproof joints contact MOOG Industrial Controls Division.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102120Z" creationid="Judy" creationdate="20141020T102120Z">
+        <seg>請聯繫 MOOG 工業控制部門以取得防火接頭的詳細資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details please take a look at our Technical Information TI 96.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T072842Z" creationid="MAE" creationdate="20140810T072842Z">
@@ -13114,6 +13226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HYDRAULIC SYSTEM PREPARATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102412Z" creationid="Judy" creationdate="20141020T102412Z">
+        <seg>液壓系統準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammer drilling (HD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041853Z">
@@ -14268,10 +14388,26 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>INSTALLATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T105642Z" creationid="Judy" creationdate="20141020T105642Z">
+        <seg>安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>INTERNATIONAL ELECTROTECHNICAL COMMISSION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123723Z" creationid="CCYU" creationdate="20140917T123723Z">
         <seg>國際電工委員會</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>INTRODUCTION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073258Z" creationid="Judy" creationdate="20141020T073258Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -15330,6 +15466,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073758Z">
         <seg>根據我們的產品持續改進政策，我們保留規格更改權，恕不另行通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to other filters&lt;t0/&gt; that are installed in the hydraulic circuit, it is recommended that a large capacity, low pressure ß3&lt;t1/&gt;&lt;t2/&gt;75 filter be installed in the return line.&lt;t3/&gt; &lt;t4/&gt;This filter will increase the interval between filter element &lt;t5/&gt;replacement&lt;t6/&gt; and greatly reduce the system conta&lt;t7/&gt;mination level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T105621Z" creationid="Judy" creationdate="20141020T105621Z">
+        <seg>當安裝其他濾芯至液壓管路時，建議大容量、低壓 ß3≥75 濾芯安裝於返回線路，此濾芯能增加濾芯元件更換時間間隔並大幅降低系統污染等級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17014,6 +17158,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is best to monitor the pressure drop across the filter assembly and replace the filter element when the pressure drop becomes excessive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104943Z" creationid="Judy" creationdate="20141020T104943Z">
+        <seg>最佳方式為監測通過濾芯之壓降並於壓降過大時更換濾芯元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is common to basically use ISO 105 &lt;t0/&gt;A&lt;t1/&gt; 02 a norm for textiles / fabrics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053857Z" creationid="MAE" creationdate="20140810T053844Z">
@@ -17090,6 +17242,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091811Z" creationid="Judy" creationdate="20141017T091811Z">
         <seg>可發現無移動式再生器的情況下，熱量輸入率較大，且換氣活塞功率非常小因此可忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is often desirable to adjust the flow null of a servo valve independent of other system parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112650Z" creationid="Judy" creationdate="20141020T112004Z">
+        <seg>理想情況下應調整伺服閥門流體歸零不與其他系統參數互相影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17846,6 +18006,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MECHANICAL NULL ADJUSTMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112632Z" creationid="Judy" creationdate="20141020T110846Z">
+        <seg>機械歸零調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MELTING POINT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174521Z" creationid="Judy" creationdate="20140818T174521Z">
@@ -18434,6 +18602,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022530Z" creationid="CCYU" creationdate="20140928T022530Z">
         <seg>其他抽頭位置之量測應於詢價時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical feedback elements position the spool relative to the valve body for a given input signal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112547Z" creationid="Judy" creationdate="20141020T112547Z">
+        <seg>機械回饋元件依給定輸入訊號調整捲軸相對閥體位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -20014,6 +20190,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New system filters are installed during the flushing process whenever the pressure drop across the filter element becomes excessive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104241Z" creationid="Judy" creationdate="20141020T104241Z">
+        <seg>沖洗過程中，當通過濾芯元件壓降過大時應安裝新的系統濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064136Z" creationid="MAE" creationdate="20140807T064136Z">
@@ -20794,6 +20978,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023345Z" creationid="CCYU" creationdate="20140809T023345Z">
         <seg>OECD 471 Bacterial Reverse Mutation Test&lt;t0/&gt; 細菌基因逆向變異試驗                    &lt;t1/&gt;Experiment: In vitro 試驗：體外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OPERATION</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T083933Z" creationid="Judy" creationdate="20141020T083933Z">
+        <seg>操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -23423,6 +23615,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the installation drawing of the specific model servo valve for details.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090703Z" creationid="Judy" creationdate="20141020T090703Z">
+        <seg>詳細內容請參閱特定伺服閥門型號之安裝圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reference temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143036Z" creationid="CCYU" creationdate="20140807T143036Z">
@@ -24423,6 +24623,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPECIAL CONDITIONS FOR SAFE USE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T092648Z" creationid="Judy" creationdate="20141020T092648Z">
+        <seg>安全使用之特殊情況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPECIAL FIREFIGHTING PROCEDURES:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171705Z" creationid="Judy" creationdate="20140818T171705Z">
@@ -25155,6 +25363,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144401Z" creationid="CCYU" creationdate="20140807T144401Z">
         <seg>Serious eye damage/irritation 嚴重眼睛損傷 / 刺激性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo valve coils should be driven with current to provide consistency throughout the temperature range.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091055Z" creationid="Judy" creationdate="20141020T091055Z">
+        <seg>伺服閥門應以電流驅動以於溫度範圍內維持穩定性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27983,6 +28199,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The 78N and 760N series servo valves are also approved by CSA and TIIS for hazardous locations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T074553Z" creationid="Judy" creationdate="20141020T074553Z">
+        <seg>78N 和 760N 系列伺服閥門也核准用於 CSA 和 TIIS 危險地區。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 78N and 760N servo valves shall be installed for use with a metallic conduit for the electrical leads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091204Z" creationid="Judy" creationdate="20141020T091204Z">
+        <seg>78N 和 760N 伺服閥門之電線應安裝於金屬線管中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 78N/760N servo valves are approved for explosion-proof protection per EN 60079-0: 2012 and EN 60079-1: 2007 for ATEX and IEC 60079-0:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091547Z" creationid="Judy" creationdate="20141020T091451Z">
+        <seg>78N/760N 伺服閥門符合 EN 60079-0: 2012 和 ATEX 之 EN 60079-1: 2007 和 IEC 60079-0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;Ircon&lt;t1/&gt; Sensors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043713Z" creationid="JUDY" creationdate="20140827T043713Z">
@@ -28163,6 +28403,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142508Z" creationid="CCYU" creationdate="20140926T142508Z">
         <seg>低壓繞組落後高壓 330°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Moog 78N and 760N Series Industrial Servo valves consist of a polarized electrical torque motor and two stages of hydraulic power amplification.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T084132Z" creationid="Judy" creationdate="20141020T084132Z">
+        <seg>Moog 78N 和 760N 系列工業伺服閥門包含極化電動馬達以及兩階段液壓功率放大器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Moog 78N and 760N series industrial servo valves may be mounted in any position, provided the servo valve pressure, piston and return ports match respective manifold ports.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T110126Z" creationid="Judy" creationdate="20141020T110126Z">
+        <seg>Moog 78N 和 760N 系列工業伺服閥門可安裝於任何位置，提供伺服閥門壓力、活塞以及返回接阜與個別歧管接阜相配，</seg>
       </tuv>
     </tu>
     <tu>
@@ -28419,6 +28675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z">
         <seg>此裝置設有防過度加熱裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The approved hazardous location markings include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073945Z" creationid="Judy" creationdate="20141020T073945Z">
+        <seg>核准之危險地區標示包含：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29023,6 +29287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electrical connection of the permanently connected cable shall be made in a certified enclosure in type of explosion protection flameproof enclosure “d” or increased safety “e”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102009Z" creationid="Judy" creationdate="20141020T102009Z">
+        <seg>永久連接之電氣連接電線應使用防爆防火型外殼 “d” 或更高安全性之 “e” 型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The elevated gas temperature even gives rise to small negative heat ﬂux on&lt;t16/&gt; &lt;t17/&gt;bottom plate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095722Z" creationid="Judy" creationdate="20140823T095722Z">
@@ -29183,6 +29455,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The filter for the &lt;t5/&gt;“&lt;t6/&gt;off-line&lt;t7/&gt;”&lt;t8/&gt; &lt;t9/&gt;filtration scheme should be a &lt;t10/&gt;ß3≥7&lt;t11/&gt;5 filter for maximum effectiveness.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103326Z" creationid="Judy" creationdate="20141020T103326Z">
+        <seg>“離線” 過濾方案之濾芯必須為 ß3≥75 濾芯以達最大效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fischer FIS EM Adhesive Anchor System described in this report is a suitable alternative to what is specified in the codes listed in Section 1.0 of this report, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030911Z">
@@ -29195,6 +29475,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T153748Z">
         <seg>fischer FIS EM 黏結錨固系統由以下元件組成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flexure tube acts as a seal between the electromagnetic and hydraulic sections of the valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085122Z" creationid="Judy" creationdate="20141020T085122Z">
+        <seg>彎曲管件作為閥門電磁部分和液壓部分之間的密封。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flushing processes should turn over the fluid in the reservoir between fifty to one hundred times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104710Z" creationid="Judy" creationdate="20141020T104710Z">
+        <seg>沖洗過程應用盡儲水槽液體五十至一百次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29419,6 +29715,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002001Z">
         <seg>手壓泵適用於錨固鑽孔直徑最大 20 mm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The heads shall conform to ISO 4762.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T092614Z" creationid="Judy" creationdate="20141020T092614Z">
+        <seg>螺絲頭應符合 ISO 4762 規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29935,6 +30239,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most effective filtration scheme incorp&lt;t0/&gt;orates the use of a kidney loop or &lt;t1/&gt;“&lt;t2/&gt;off-line&lt;t3/&gt;”&lt;t4/&gt; filtration as one of the major filtration components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103339Z" creationid="Judy" creationdate="20141020T103138Z">
+        <seg>最有效的過濾方案為使用透析循環或 “離線” 過濾為主要過濾元件，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most important porous parameter is porosity &lt;t0/&gt;ε&lt;t1/&gt; which concerns the amount of porous material in MR, therefore the engine has been run with 6 different porosity values of 0.8, 0.9, 0.95, 0.99, 0.995, and 1.0, respectively to examine its effects on engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T093437Z" creationid="Judy" creationdate="20141017T093437Z">
@@ -29947,6 +30259,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020744Z" creationid="Judy" creationdate="20140821T020744Z">
         <seg>換氣活三與動力活塞的運動對引擎內部流場造成不同的影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The motor armature extends into the air gaps of the magnetic flux circuit and is supported in this position by a flexure tube member.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T084743Z" creationid="Judy" creationdate="20141020T084743Z">
+        <seg>馬達裝置延伸至磁通路之空氣間隙並以彎曲管件維持此位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mounting patterns and port locations of the servo valves are shown on Figure 4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T110221Z" creationid="Judy" creationdate="20141020T110221Z">
+        <seg>伺服閥門安裝方式與接阜位置繪於圖 4 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30759,6 +31087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The screw property class must be 10.9 minimum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T092357Z" creationid="Judy" creationdate="20141020T092357Z">
+        <seg>螺絲特性等級最低為 10.9，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second influence, appearance, is the most important of these three.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142219Z" creationid="CCYU" creationdate="20140913T142214Z">
@@ -30811,6 +31147,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T092315Z" creationid="CCYU" creationdate="20140921T092315Z">
         <seg>4.2 中所訂之運作條件為此標準中指定之變壓器一般操作範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The servo valve should be mounted with socket head cap screws.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T110532Z" creationid="Judy" creationdate="20141020T110422Z">
+        <seg>伺服閥門應使用插座頭螺帽＃＃＃＃安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The servo valve should be replaced by a flushing manifold and the hydraulic circuit powered up under conditions of fluid temperature and fluid velocity, reasonably simulating normal operating conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104029Z" creationid="Judy" creationdate="20141020T104029Z">
+        <seg>伺服閥門應更換為沖洗歧管且通入管路液體溫度及液體流速模擬一般操作條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30891,6 +31243,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T073518Z" creationid="Judy" creationdate="20141017T073518Z">
         <seg>具有移動式再生器時溫度變化較小，顯示出其膨脹和壓縮腔體具有較小的溫度梯度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The socket head &lt;t0/&gt;capscrews&lt;t1/&gt; that attach the electrical connector and the motor cap must have a thread conforming to ISO 262 and be of assembly class fit 6g.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T092318Z" creationid="Judy" creationdate="20141020T092235Z">
+        <seg>連接電氣接點和馬達蓋之插座頭螺帽的螺紋應符合 ISO 262 規範並為組裝等級 fit 6g，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31311,6 +31671,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The torque motor leads are individually attached to a flying lead type explosion proof header so that external connections can provide series, parallel, or single coil operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090555Z" creationid="Judy" creationdate="20141020T090555Z">
+        <seg>驅動馬達線路獨立連接至 flying lead 式防爆頭以提供並聯、串聯或單線圈操作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The track is 33 to 68 mil designation thickness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110806Z">
@@ -31459,6 +31827,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133714Z">
         <seg>當兩種材料經過連接至岐管的靜態混合嘴相互結合並反應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two motor coils surround the armature one on each side of the flexure tube.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085327Z" creationid="Judy" creationdate="20141020T085327Z">
+        <seg>彈性管兩側各以一組馬達線圈環繞裝置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31711,10 +32087,34 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The “mechanical null adjustment” on the Moog 78N and 760N Series servo valves allows at least ±20% adjustment of flow null.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112718Z" creationid="Judy" creationdate="20141020T112217Z">
+        <seg>Moog 78N 和 760N 系列伺服閥門之 “機械歸零調整” 允許流體歸零調整最少 ±20%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “mechanical null adjustor” is an eccentric bushing retainer pin located above the “return” port designation on the valve body (see Figure 2) which, when rotated, provides control of the bushing position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T113433Z" creationid="Judy" creationdate="20141020T113433Z">
+        <seg>“機械歸零調整器” 為一位於閥體 “返回” 接阜上之偏心軸襯推針，當其旋轉時能控制軸襯位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ﬁrst step of any CFD simulation is to determine a proper grid and time step interval to obtain grid and time-step independent solutions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151932Z" creationid="Judy" creationdate="20140820T151932Z">
         <seg>所有計算流體力學模擬之第一步為確定一個適當的網格和時間間隔以獲得網格和時間的獨立解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;78N and 760N series servo valves are electro hydraulic equipment for hazardous locations requiring explosion proof protection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073854Z" creationid="Judy" creationdate="20141020T073854Z">
+        <seg>78N 和 760N 系列伺服閥門為用於有防爆需求之危險地區的電動液壓裝置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31931,6 +32331,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080221Z" creationid="CCYU" creationdate="20140927T080221Z">
         <seg>因此某些指定和設計值之間需有公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, a movement of the bushing relative to the body changes the flow null.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T113526Z" creationid="Judy" creationdate="20141020T112627Z">
+        <seg>因此，軸襯相對閥體之運動能改變流體歸零。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32331,6 +32739,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072420Z" creationid="CCYU" creationdate="20140817T072420Z">
         <seg>他們也會拿到客戶長時間鎖住洩漏物的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are approved for explosion proof operation with rated power of 0.28W maximum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091326Z" creationid="Judy" creationdate="20141020T091326Z">
+        <seg>其核准防爆操作之最大額定電流 0.28W。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are intended for directional, position, velocity, pressure, or force control in hydraulic control systems that operate with mineral based &lt;t0/&gt;fluids,&lt;t1/&gt; or others upon request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T083904Z" creationid="Judy" creationdate="20141020T083904Z">
+        <seg>其用於使用含礦物質流體 (或其他指定) 之液壓控制系統之方向、壓力或力之控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32975,6 +33399,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This manual provides the instructions and procedures necessary to install, operate, and troubleshoot the Moog 78N and 760N series servo valves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073557Z" creationid="Judy" creationdate="20141020T073557Z">
+        <seg>本手冊提供 Moog 78N 和 760N 系列伺服閥門之安裝、操作以及故障排除指南及程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may be done with the aid of a graph or a table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130510Z" creationid="CCYU" creationdate="20140925T130456Z">
@@ -33543,10 +33975,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To maintain a clean hydraulic system, the filters must be replaced on a periodic basis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104751Z" creationid="Judy" creationdate="20141020T104751Z">
+        <seg>為了維持液壓系統清潔，應定期更換濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To prevent creases, do not place any objects on the foot warmer when storing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143208Z">
         <seg>且勿放置任何物品於暖腳機上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prolong servo valve operational life and to reduce hydraulic system maintenance, it is recommended that the hydraulic fluid be kept at a cleanliness level of ISO DIS 4406 Code 16/13 maximum, 14/11 recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102807Z" creationid="Judy" creationdate="20141020T102738Z">
+        <seg>為了延長伺服閥門操作壽命並減少液壓系統維護，建議液壓流體潔淨度維持 ISO DIS 4406 規範等級 16/13 以下，建議值為 14/11。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34544,6 +34992,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upon system startup and prior to mounting the servo valve, the entire hydraulic system should be purged of built-in contaminating particles by an adequate flushing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103618Z" creationid="Judy" creationdate="20141020T103618Z">
+        <seg>當系統啟動且接至伺服閥門前，整組液壓系統需進行適當的沖洗以排出內部污染粒子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upper &lt;t0/&gt;flammability&lt;t1/&gt; &lt;t2/&gt;or &lt;t3/&gt;explosive&lt;t4/&gt; limits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134300Z" creationid="CCYU" creationdate="20140808T134300Z">
@@ -34628,6 +35084,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151342Z">
         <seg>僅可使用無溶劑之清潔劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a 3/8 inch offset box wrench, loosen the self-locking fitting until the null adjustor pin can be rotated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T114008Z" creationid="Judy" creationdate="20141020T114008Z">
+        <seg>使用 3/8 英吋 offset box wrench 鬆開自鎖固定直到歸零調整器推針能轉動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39052,6 +39516,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132136Z" creationid="CCYU" creationdate="20140807T132136Z">
         <seg>particulate 微粒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>per&lt;t0/&gt; &lt;t1/&gt;IECEx&lt;t2/&gt; certification scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T074238Z" creationid="Judy" creationdate="20141020T074238Z">
+        <seg>依&lt;t0/&gt; &lt;t1/&gt;IECEx&lt;t2/&gt; 認證方案。</seg>
       </tuv>
     </tu>
     <tu>
