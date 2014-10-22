@@ -29495,6 +29495,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The flapper extends through the flexure tube and passes between two nozzles, creating two variable orifices between the nozzle tips and the flapper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101513Z" creationid="Judy" creationdate="20141022T101513Z">
+        <seg>擋葉延伸通過彎管並通過噴嘴之間，於噴嘴頭與檔葉之間建立兩個可變口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The flapper of the first stage hydraulic amplifier is rigidly attached to the midpoint of the armature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101113Z" creationid="Judy" creationdate="20141022T101113Z">
