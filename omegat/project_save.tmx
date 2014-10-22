@@ -33975,6 +33975,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thread conduit fitting to valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111834Z" creationid="Judy" creationdate="20141022T111834Z">
+        <seg>安裝管道管件至閥門。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threaded</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142254Z">
@@ -36572,6 +36580,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130347Z">
         <seg>無負載之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wire pigtail leads for desired coil configuration and polarity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111654Z" creationid="Judy" creationdate="20141022T111654Z">
+        <seg>依所需配置和極性接線。</seg>
       </tuv>
     </tu>
     <tu>
