@@ -2848,6 +2848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Torque self-locking fitting to 57 inch lbs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112613Z" creationid="Judy" creationdate="20141022T112613Z">
+        <seg>上緊自鎖固定扭矩至 57 英吋磅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Usually clay products.&lt;t1/&gt; Utilizing our two-drum system, they can handle small spills easier and have enough spill capacity for larger spills.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T102649Z">
@@ -7465,6 +7473,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T142750Z">
         <seg>清潔和設置工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clockwise rotation of null adjustor pin produces flow from port P to port B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112748Z" creationid="Judy" creationdate="20141022T112748Z">
+        <seg>順時針旋轉歸零調整器推針將使流體由 P 埠流動至 B 埠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20938,6 +20954,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T234146Z">
         <seg>圖 A1 至 A5 註解：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112641Z" creationid="Judy" creationdate="20141022T112641Z">
+        <seg>註：</seg>
       </tuv>
     </tu>
     <tu>
