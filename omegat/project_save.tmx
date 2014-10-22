@@ -8110,6 +8110,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control Port A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110408Z" creationid="Judy" creationdate="20141022T110408Z">
+        <seg>控制埠 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control Port B</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110349Z" creationid="Judy" creationdate="20141022T110349Z">
+        <seg>控制埠 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control parameters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131447Z">
@@ -16734,6 +16750,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inlet Orifice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110333Z" creationid="Judy" creationdate="20141022T110333Z">
+        <seg>進口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inoculum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025037Z">
@@ -22686,6 +22710,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110426Z" creationid="Judy" creationdate="20141022T110426Z">
+        <seg>壓力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressure deflection test for liquid immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104226Z">
@@ -24203,6 +24235,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154313Z">
         <seg>Results of PBT and &lt;t0/&gt;vPvB&lt;t1/&gt; assessment PBT 和 vPvB 評估結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110418Z" creationid="Judy" creationdate="20141022T110418Z">
+        <seg>返回</seg>
       </tuv>
     </tu>
     <tu>
@@ -31849,8 +31889,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The torque motor leads are individually attached to a flying lead type explosion proof header so that external connections can provide series, parallel, or single coil operation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090555Z">
-        <seg>驅動馬達線路獨立連接至 flying lead 式防爆頭以提供並聯、串聯或單線圈操作，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110610Z">
+        <seg>驅動馬達線路獨立連接至跨線式防爆頭以提供並聯、串聯或單線圈操作，</seg>
       </tuv>
     </tu>
     <tu>
