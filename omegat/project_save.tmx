@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Jerky, possible oscillatory or “hunting” motion in closed loop system).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T115005Z" creationid="Judy" creationdate="20141022T115005Z">
+        <seg>(急衝，可能為閉迴路系統中之振盪或 “擺動” 運動)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Rate 0 on scale of 0-6)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070503Z">
@@ -13726,6 +13734,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083919Z">
         <seg>High pressure waterjet 高壓水柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114702Z" creationid="Judy" creationdate="20141022T114702Z">
+        <seg>高觸發。</seg>
       </tuv>
     </tu>
     <tu>
