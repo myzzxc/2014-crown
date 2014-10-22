@@ -9118,6 +9118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the electrical lead to the servo valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113719Z" creationid="Judy" creationdate="20141022T113719Z">
+        <seg>卸除所有連接至伺服閥門之電線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect the mains adapter from the mains socket immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052610Z">
