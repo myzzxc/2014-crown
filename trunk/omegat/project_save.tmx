@@ -16782,6 +16782,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert a 3/32 inch Allen wrench in null adjustor pin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112333Z" creationid="Judy" creationdate="20141022T112333Z">
+        <seg>插入 3/32 英吋內六角扳手至調整器推針。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert cover (interior)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151144Z">
@@ -35332,6 +35340,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151342Z">
         <seg>僅可使用無溶劑之清潔劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the 3/32 Allen wrench to rotate the mechanical null adjustor pin to obtain desired flow null.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112453Z" creationid="Judy" creationdate="20141022T112453Z">
+        <seg>使用 3/32 內六角扳手旋轉機械歸零調整器推針以達到所需流量歸零。</seg>
       </tuv>
     </tu>
     <tu>
