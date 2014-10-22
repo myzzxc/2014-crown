@@ -7263,8 +7263,8 @@
       <tuv lang="EN-US">
         <seg>Check for dirty hydraulic fluid in system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131719Z" creationid="CCYU" creationdate="20141022T131719Z">
-        <seg>檢查液壓流體髒污。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132009Z" creationid="CCYU" creationdate="20141022T131719Z">
+        <seg>檢查系統中液壓流體髒污。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11575,6 +11575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132019Z" creationid="CCYU" creationdate="20141022T132019Z">
+        <seg>圖 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3 — Illustration of 'clock number' notation for transformers with open windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145114Z">
@@ -13718,6 +13726,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131212Z">
         <seg>六角螺母，EN ISO 4032:2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High Null Bias, (High input current required to maintain hydraulic cylinder or motor stationary).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131844Z" creationid="CCYU" creationdate="20141022T131844Z">
+        <seg>高歸零偏壓，(需高輸入電流以維持液壓汽缸或馬達靜止)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,6 +16550,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect null adjustment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131857Z" creationid="CCYU" creationdate="20141022T131857Z">
+        <seg>歸零調整不正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Incorrect temperature dur­ing the metallurgical process results in poor quality steel products, waste, extra energy consumption, increased refractory wear, surface defects, and time lost due to inaccurate tempera­ture monitoring and control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T101759Z">
@@ -16832,8 +16856,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Inlet Orifice</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110333Z" creationid="Judy" creationdate="20141022T110333Z">
-        <seg>進口</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132055Z" creationid="Judy" creationdate="20141022T110333Z">
+        <seg>進水口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inlet Orifice Assemblies (one each end of body)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132040Z" creationid="CCYU" creationdate="20141022T132040Z">
+        <seg>進水口Inlet Orifice Assemblies (one each end of body)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23791,6 +23823,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Readjust null.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131917Z" creationid="CCYU" creationdate="20141022T131917Z">
+        <seg>重新調整歸零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Real time exposure as well as artificial weathering tests shows very good uv-stability of our NOCX HDPE pipes complying &lt;t0/&gt;to&lt;t1/&gt; the requirements of use in stay cable bridges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T073637Z">
@@ -24235,6 +24275,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142823Z">
         <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace filter element and check for dirty hydraulic fluid in system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132001Z" creationid="CCYU" creationdate="20141022T132001Z">
+        <seg>更換濾芯並檢查系統中液壓流體髒污。</seg>
       </tuv>
     </tu>
     <tu>
