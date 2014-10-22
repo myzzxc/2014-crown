@@ -31145,8 +31145,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The second stage is a conventional 4-way spool design in which output flow from the valve, at a fixed valve pressure drop, is proportional to spool displacement from the null position.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101841Z" creationid="Judy" creationdate="20141022T101841Z">
-        <seg>第二階段為常規的 4 路閥芯設計輸出產生在固定的閥壓降的閥門的流量是閥芯位移從空的位置成正比。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T102216Z" creationid="Judy" creationdate="20141022T101841Z">
+        <seg>第二階段為常規的 4 路短管設計，由閥門以固定閥門壓降輸出流體，固定閥門壓降由歸零點至短管位移成正比。</seg>
       </tuv>
     </tu>
     <tu>
