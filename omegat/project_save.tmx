@@ -3283,6 +3283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A cantilever feedback &lt;t0/&gt;spring is fixed to the flapper and engages a slot at the center of the spool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T102423Z" creationid="Judy" creationdate="20141022T102423Z">
+        <seg>懸臂回饋彈簧固定至擋葉並嵌入短管中心插槽中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A combined load loss figure for the complete transformer is referred to a specified winding load combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041006Z">
