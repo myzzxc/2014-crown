@@ -6812,6 +6812,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carefully position the end caps on the servo valve.&lt;t0/&gt; &lt;t1/&gt;Re-install the end cap screws and torque them to 46 in-&lt;t2/&gt;lbs&lt;t3/&gt; for 760N, or 85 in-&lt;t4/&gt;lbs&lt;t5/&gt; for 78N.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T143138Z" creationid="Judy" creationdate="20141022T143138Z">
+        <seg>仔細定位伺服閥上之端蓋。重新安裝內六角螺絲並將其扭矩上至 46-&lt;t2/&gt;磅  (&lt;t3/&gt;760N)，或 85- &lt;t4/&gt;磅&lt;t5/&gt; (78N)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cartridge type/size</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044529Z">
