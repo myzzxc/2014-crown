@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>(Servo valve output lags electrical command signal).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T115220Z" creationid="Judy" creationdate="20141022T115220Z">
-        <seg>(伺服閥輸出Servo valve output lags electrical command signal).</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131629Z" creationid="Judy" creationdate="20141022T115220Z">
+        <seg>(伺服閥輸出相對電氣訊號遲滯)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7257,6 +7257,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151024Z">
         <seg>Check for and remove any contact lenses. 檢查並摘下隱形眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for dirty hydraulic fluid in system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131719Z" creationid="CCYU" creationdate="20141022T131719Z">
+        <seg>檢查液壓流體髒污。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22210,6 +22218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174035Z">
         <seg>部分降解植物性材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partially plugged filter element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131643Z" creationid="CCYU" creationdate="20141022T131643Z">
+        <seg>濾芯部份阻塞。</seg>
       </tuv>
     </tu>
     <tu>
