@@ -11751,6 +11751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flexure Tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104527Z" creationid="Judy" creationdate="20141022T104527Z">
+        <seg>彎管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flooded holes (not sea water): M8 to M30, Rebar 08 to 032.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141112Z">
@@ -35156,6 +35164,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103618Z">
         <seg>當系統啟動且接至伺服閥門前，整組液壓系統需進行適當的沖洗以排出內部污染粒子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upper &lt;t0/&gt;Polepiece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104511Z" creationid="Judy" creationdate="20141022T104511Z">
+        <seg>上極片</seg>
       </tuv>
     </tu>
     <tu>
