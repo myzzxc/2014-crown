@@ -16678,6 +16678,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input signal induces a magnetic charge in the armature and causes a deflection of the armature and flapper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103326Z" creationid="Judy" creationdate="20141022T103326Z">
+        <seg>輸入的信號使電樞磁荷改變而使得電樞及擋葉彎曲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Input&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z">
