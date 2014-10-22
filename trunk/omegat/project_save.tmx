@@ -31361,8 +31361,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The servo valve should be mounted with socket head cap screws.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T110532Z">
-        <seg>伺服閥門應使用插座頭螺帽＃＃＃＃安裝</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111506Z">
+        <seg>伺服閥門應使用內六角螺絲安裝固定，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31457,8 +31457,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The socket head &lt;t0/&gt;capscrews&lt;t1/&gt; that attach the electrical connector and the motor cap must have a thread conforming to ISO 262 and be of assembly class fit 6g.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110907Z">
-        <seg>連接電氣接點和馬達蓋之插座頭螺帽的螺紋應符合 ISO 262 規範並為組裝緊固件等級 6g，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111527Z">
+        <seg>連接電氣接點和馬達蓋之內六角螺絲的螺紋應符合 ISO 262 規範並為組裝緊固件等級 6g，</seg>
       </tuv>
     </tu>
     <tu>
