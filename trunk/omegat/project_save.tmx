@@ -18318,6 +18318,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubricate and install new O-Rings on the inlet orifices and retainer plugs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142106Z" creationid="Judy" creationdate="20141022T142106Z">
+        <seg>潤滑並於進水口和固定頭上安裝新的 O-形環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lv&lt;t0/&gt;	effective embedment depth, ≥ l0+ ci</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044233Z">
@@ -24395,6 +24403,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141733Z" creationid="Judy" creationdate="20141022T141733Z">
         <seg>由閥體兩側取出濾芯固定頭及進水口，濾芯將由進水口取出。註：每件濾芯上鎖有一個 2-56 螺絲使其可於閥體中拉出，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the new filter from the sealed package being very careful not to introduce contamination into the ID of the filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142302Z" creationid="Judy" creationdate="20141022T142302Z">
+        <seg>非常謹慎地將新濾芯由包裝中取出以避免污染物進入濾芯內緣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36136,6 +36152,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visually inspect all parts for damage or contamination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141953Z" creationid="Judy" creationdate="20141022T141953Z">
+        <seg>目視檢查所有零件之損壞或污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voltage at bushing tap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154111Z">
@@ -39188,14 +39212,6 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132941Z">
         <seg>fyk&lt;t0/&gt;&lt;t1/&gt; 和 k 遵照 EN 1992-1-1/NA:2013 NDP 或 NCL</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>g.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135116Z">
-        <seg>( 例如:</seg>
       </tuv>
     </tu>
     <tu>
