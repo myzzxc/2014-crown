@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Actuator or components are stationary or creeping slowly).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114553Z" creationid="Judy" creationdate="20141022T114553Z">
+        <seg>(傳感器或元件不作動或作動速度緩慢)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Brookfield; Instrument: RVT; 20 °C (68 °F); speed of rotation: 20 min-1; Spindle No: 4)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T111132Z">
@@ -22614,6 +22622,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plugged inlet filter element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114642Z" creationid="Judy" creationdate="20141022T114611Z">
+        <seg>插入進口濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pneumatic tool</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053138Z">
@@ -22866,6 +22882,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T034943Z">
         <seg>安裝前，必須將符合本報告之計算和詳細資訊提交給有關當局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Probable Cause</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114351Z" creationid="Judy" creationdate="20141022T114351Z">
+        <seg>可能原因</seg>
       </tuv>
     </tu>
     <tu>
@@ -24079,6 +24103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remedy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114357Z" creationid="Judy" creationdate="20141022T114357Z">
+        <seg>解決方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that they can be customized if ordered in a reasonable quantity (over 20)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131522Z">
@@ -24147,6 +24179,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T142823Z">
         <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace filter element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114639Z" creationid="Judy" creationdate="20141022T114639Z">
+        <seg>更換濾芯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25619,6 +25659,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
         <seg>伺服閥應以電流驅動以於溫度範圍內維持穩定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Servo valve does not follow input command signal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114429Z" creationid="Judy" creationdate="20141022T114429Z">
+        <seg>伺服閥不受輸入訊號控制。</seg>
       </tuv>
     </tu>
     <tu>
