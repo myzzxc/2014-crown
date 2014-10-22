@@ -30639,6 +30639,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pressure controlled by the flapper and nozzle variable orifice is fed to the end areas of the second stage spool.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101916Z" creationid="Judy" creationdate="20141022T101731Z">
+        <seg>受擋葉和可變噴嘴口控制之壓力輸送至二階短管末端區域，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pressure shall then be reduced back to the originally established level and a third measurement of the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be taken.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105629Z">
@@ -31131,6 +31139,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142219Z">
         <seg>第二項影響因子：外觀，是三項中最重要的一個，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second stage is a conventional 4-way spool design in which output flow from the valve, at a fixed valve pressure drop, is proportional to spool displacement from the null position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101841Z" creationid="Judy" creationdate="20141022T101841Z">
+        <seg>第二階段為常規的 4 路閥芯設計輸出產生在固定的閥壓降的閥門的流量是閥芯位移從空的位置成正比。</seg>
       </tuv>
     </tu>
     <tu>
