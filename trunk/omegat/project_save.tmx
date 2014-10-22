@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(760N shown)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104338Z" creationid="Judy" creationdate="20141022T104338Z">
+        <seg>(760N 實品圖)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(9), the&lt;t15/&gt; &lt;t16/&gt;viscous dissipation effect has not been included.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T020940Z">
@@ -7469,6 +7477,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coil Armature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104407Z" creationid="Judy" creationdate="20141022T104407Z">
+        <seg>電樞線圈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coke Plant</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043850Z">
@@ -9806,6 +9822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ELECTROHYDRAULIC VALVE CUT-AWAY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104310Z" creationid="Judy" creationdate="20141022T104310Z">
+        <seg>電動液壓閥剖面圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EMBEDMENT DEPTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021835Z">
@@ -11422,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1 Moog Series 760N</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104357Z" creationid="Judy" creationdate="20141022T104357Z">
+        <seg>圖 1 Moog 系列 760N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 of this report presents a bond strength design selection flowchart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074631Z">
@@ -11587,6 +11619,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021656Z">
         <seg>由孔洞底部開始填充泥漿至填滿約 2/3 的孔洞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104426Z" creationid="Judy" creationdate="20141022T104426Z">
+        <seg>濾芯</seg>
       </tuv>
     </tu>
     <tu>
@@ -18150,6 +18190,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magnet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104404Z" creationid="Judy" creationdate="20141022T104404Z">
+        <seg>磁鐵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magnetic circuit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153836Z">
@@ -20874,6 +20922,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T132730Z">
         <seg>如今，史特林引擎已經被成功地應用於發電、結合式熱電系統、以及汽車上，以此科技為中心的新產業已經蓬勃發展 [4]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nozzle Spoo&lt;t0/&gt;l</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104419Z" creationid="Judy" creationdate="20141022T104419Z">
+        <seg>噴嘴短管</seg>
       </tuv>
     </tu>
     <tu>
