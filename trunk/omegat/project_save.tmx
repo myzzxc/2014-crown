@@ -18334,6 +18334,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubricate and install end cap to body O-Rings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142748Z" creationid="Judy" creationdate="20141022T142748Z">
+        <seg>潤滑並安裝端蓋至閥體 O 形環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lubricate and install new O-Rings on the inlet orifices and retainer plugs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142106Z" creationid="Judy" creationdate="20141022T142106Z">
@@ -21210,6 +21218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140726T232657Z">
         <seg>註：特別侵略性環境，像是：永久交替性的浸泡在海水或位在海水飛濺區內、接觸室內游泳池的氯或嚴重化學汙染環境 (如：使用除冰材料的脫硫設備或公路隧道)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: These parts should go in most of the way without excessive use of force.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142641Z" creationid="Judy" creationdate="20141022T142641Z">
+        <seg>註：此類零件需盡可能裝入內側但安裝力道不過大，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29955,6 +29971,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T163429Z">
         <seg>圖 7 中的實驗曲線 UB 為精度誤差 ρpixel 之上界，由下列方程式所得：(White 等人，2003 年)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The end caps will push them fully into place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142715Z" creationid="Judy" creationdate="20141022T142715Z">
+        <seg>端蓋將把濾芯完全推至其位置。</seg>
       </tuv>
     </tu>
     <tu>
