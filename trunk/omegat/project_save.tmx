@@ -10318,10 +10318,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End Cap to Body &lt;t0/&gt;Oring&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-001&lt;t6/&gt; &lt;t7/&gt;-42082-007* Filter Tube (I)&lt;t8/&gt; &lt;t9/&gt;1&lt;t10/&gt; &lt;t11/&gt;-23020&lt;t12/&gt; &lt;t13/&gt;C39486-005-060</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132946Z" creationid="CCYU" creationdate="20141022T132946Z">
+        <seg>端蓋至閥體 &lt;t0/&gt;O 型環&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-001&lt;t6/&gt; &lt;t7/&gt;-42082-007* 濾芯管 (I)&lt;t8/&gt; &lt;t9/&gt;1&lt;t10/&gt; &lt;t11/&gt;-23020&lt;t12/&gt; &lt;t13/&gt;C39486-005-060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End Cap-Body O-Rings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132448Z" creationid="CCYU" creationdate="20141022T132448Z">
-        <seg>端帽-體 O 形環</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132825Z" creationid="CCYU" creationdate="20141022T132448Z">
+        <seg>端蓋-閥體 O 形環</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,6 +11755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132349Z" creationid="CCYU" creationdate="20141022T132349Z">
         <seg>濾芯蓋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Plug to Body &lt;t0/&gt;Oring&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-060&lt;t6/&gt; &lt;t7/&gt;-42082-012 End Cap to Bushing ID &lt;t8/&gt;Oring&lt;t9/&gt; (I)&lt;t10/&gt; &lt;t11/&gt;2&lt;t12/&gt; &lt;t13/&gt;-42082-042&lt;t14/&gt; &lt;t15/&gt;–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132909Z" creationid="CCYU" creationdate="20141022T132810Z">
+        <seg>濾芯蓋至閥體 &lt;t0/&gt;O 型環&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-060&lt;t6/&gt; &lt;t7/&gt;-42082-012 端蓋至襯套內徑 &lt;t8/&gt;O 型環&lt;t9/&gt; (I)&lt;t10/&gt; &lt;t11/&gt;2&lt;t12/&gt; &lt;t13/&gt;-42082-042&lt;t14/&gt; &lt;t15/&gt;–</seg>
       </tuv>
     </tu>
     <tu>
@@ -21218,6 +21234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101623Z">
         <seg>螺母必須具有指定保證負荷應力，等於或大於指定螺紋柱的最小拉伸強度。&lt;t7/&gt;5&lt;t8/&gt;碳鋼和合金鋼外螺紋公制緊固件的標準規格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>O-Ring&lt;t0/&gt; &lt;t1/&gt;Inlet Orifice O-Ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133012Z" creationid="CCYU" creationdate="20141022T133012Z">
+        <seg>O-型環&lt;t0/&gt; &lt;t1/&gt;進水口 O-型環</seg>
       </tuv>
     </tu>
     <tu>
