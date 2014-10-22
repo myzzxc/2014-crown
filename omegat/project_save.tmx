@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;Moog • 78N/760N Series Operation Instruction • &lt;t2/&gt;RevE&lt;t3/&gt; 01/14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114042Z" creationid="Judy" creationdate="20141022T114042Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;Moog • 78N/760N 系列操作指南 • &lt;t2/&gt;修訂版本&lt;t3/&gt; 01/14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2&lt;t0/&gt;d&lt;t1/&gt;0 &lt;t2/&gt;= drill hole diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020730Z">
@@ -9120,8 +9128,8 @@
       <tuv lang="EN-US">
         <seg>Disconnect the electrical lead to the servo valve.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113719Z" creationid="Judy" creationdate="20141022T113719Z">
-        <seg>卸除所有連接至伺服閥門之電線。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113941Z" creationid="Judy" creationdate="20141022T113719Z">
+        <seg>卸除所有連接至伺服閥之電線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10216,8 +10224,8 @@
       <tuv lang="EN-US">
         <seg>Electrohydraulic Servo Valve</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T012234Z">
-        <seg>電動液壓伺服閥門</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>電動液壓伺服閥</seg>
       </tuv>
     </tu>
     <tu>
@@ -17416,8 +17424,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It is often desirable to adjust the flow null of a servo valve independent of other system parameters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112650Z">
-        <seg>理想情況下應調整伺服閥門流體歸零不與其他系統參數互相影響，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>理想情況下應調整伺服閥流體歸零不與其他系統參數互相影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23825,8 +23833,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Refer to the installation drawing of the specific model servo valve for details.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T090703Z">
-        <seg>詳細內容請參閱特定伺服閥門型號之安裝圖。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>詳細內容請參閱特定伺服閥型號之安裝圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24031,6 +24039,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relieve the hydraulic system of residual pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113744Z" creationid="Judy" creationdate="20141022T113744Z">
+        <seg>釋放液壓系統之殘餘壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rem&lt;t0/&gt;arks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143151Z">
@@ -24083,6 +24099,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
         <seg>旋轉並拉出外蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the servo valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z" creationid="Judy" creationdate="20141022T113927Z">
+        <seg>拆除伺服閥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25585,8 +25609,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Servo valve coils should be driven with current to provide consistency throughout the temperature range.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091055Z">
-        <seg>伺服閥門應以電流驅動以於溫度範圍內維持穩定性。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>伺服閥應以電流驅動以於溫度範圍內維持穩定性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28425,24 +28449,24 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The 78N and 760N series servo valves are also approved by CSA and TIIS for hazardous locations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T074553Z">
-        <seg>78N 和 760N 系列伺服閥門也核准用於 CSA 和 TIIS 危險地區。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>78N 和 760N 系列伺服閥也核准用於 CSA 和 TIIS 危險地區。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The 78N and 760N servo valves shall be installed for use with a metallic conduit for the electrical leads.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091204Z">
-        <seg>78N 和 760N 伺服閥門之電線應安裝於金屬線管中，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>78N 和 760N 伺服閥之電線應安裝於金屬線管中，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The 78N/760N servo valves are approved for explosion-proof protection per EN 60079-0: 2012 and EN 60079-1: 2007 for ATEX and IEC 60079-0:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T091547Z">
-        <seg>78N/760N 伺服閥門符合 EN 60079-0: 2012 和 ATEX 之 EN 60079-1: 2007 和 IEC 60079-0:</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>78N/760N 伺服閥符合 EN 60079-0: 2012 和 ATEX 之 EN 60079-1: 2007 和 IEC 60079-0:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28633,16 +28657,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The Moog 78N and 760N Series Industrial Servo valves consist of a polarized electrical torque motor and two stages of hydraulic power amplification.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T084132Z">
-        <seg>Moog 78N 和 760N 系列工業伺服閥門包含極化電動馬達以及兩階段液壓功率放大器，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>Moog 78N 和 760N 系列工業伺服閥包含極化電動馬達以及兩階段液壓功率放大器，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Moog 78N and 760N series industrial servo valves may be mounted in any position, provided the servo valve pressure, piston and return ports match respective manifold ports.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111124Z">
-        <seg>Moog 78N 和 760N 系列工業伺服閥門可安裝於任何位置，提供伺服閥門壓力、活塞以及返回接埠與個別歧管接埠相配，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>Moog 78N 和 760N 系列工業伺服閥可安裝於任何位置，提供伺服閥壓力、活塞以及返回接埠與個別歧管接埠相配，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30513,8 +30537,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The mounting patterns and port locations of the servo valves are shown on Figure 4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111128Z">
-        <seg>伺服閥門安裝方式與接埠位置繪於圖 4 中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>伺服閥安裝方式與接埠位置繪於圖 4 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31409,16 +31433,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The servo valve should be mounted with socket head cap screws.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111506Z">
-        <seg>伺服閥門應使用內六角螺絲安裝固定，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>伺服閥應使用內六角螺絲安裝固定，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The servo valve should be replaced by a flushing manifold and the hydraulic circuit powered up under conditions of fluid temperature and fluid velocity, reasonably simulating normal operating conditions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104029Z">
-        <seg>伺服閥門應更換為沖洗歧管且通入管路液體溫度及液體流速模擬一般操作條件。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>伺服閥應更換為沖洗歧管且通入管路液體溫度及液體流速模擬一般操作條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32353,8 +32377,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The “mechanical null adjustment” on the Moog 78N and 760N Series servo valves allows at least ±20% adjustment of flow null.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112718Z">
-        <seg>Moog 78N 和 760N 系列伺服閥門之 “機械歸零調整” 允許流體歸零調整最少 ±20%。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>Moog 78N 和 760N 系列伺服閥之 “機械歸零調整” 允許流體歸零調整最少 ±20%。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32377,8 +32401,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;78N and 760N series servo valves are electro hydraulic equipment for hazardous locations requiring explosion proof protection.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073854Z">
-        <seg>78N 和 760N 系列伺服閥門為用於有防爆需求之危險地區的電動液壓裝置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>78N 和 760N 系列伺服閥為用於有防爆需求之危險地區的電動液壓裝置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33681,8 +33705,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This manual provides the instructions and procedures necessary to install, operate, and troubleshoot the Moog 78N and 760N series servo valves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073557Z">
-        <seg>本手冊提供 Moog 78N 和 760N 系列伺服閥門之安裝、操作以及故障排除指南及程序。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>本手冊提供 Moog 78N 和 760N 系列伺服閥之安裝、操作以及故障排除指南及程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34281,8 +34305,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>To prolong servo valve operational life and to reduce hydraulic system maintenance, it is recommended that the hydraulic fluid be kept at a cleanliness level of ISO DIS 4406 Code 16/13 maximum, 14/11 recommended.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102807Z">
-        <seg>為了延長伺服閥門操作壽命並減少液壓系統維護，建議液壓流體潔淨度維持 ISO DIS 4406 規範等級 16/13 以下，建議值為 14/11。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>為了延長伺服閥操作壽命並減少液壓系統維護，建議液壓流體潔淨度維持 ISO DIS 4406 規範等級 16/13 以下，建議值為 14/11。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35282,8 +35306,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Upon system startup and prior to mounting the servo valve, the entire hydraulic system should be purged of built-in contaminating particles by an adequate flushing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103618Z">
-        <seg>當系統啟動且接至伺服閥門前，整組液壓系統需進行適當的沖洗以排出內部污染粒子，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
+        <seg>當系統啟動且接至伺服閥前，整組液壓系統需進行適當的沖洗以排出內部污染粒子，</seg>
       </tuv>
     </tu>
     <tu>
