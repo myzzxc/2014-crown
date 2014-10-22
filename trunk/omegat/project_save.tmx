@@ -18640,8 +18640,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Mechanical feedback elements position the spool relative to the valve body for a given input signal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112547Z">
-        <seg>機械回饋元件依給定輸入訊號調整捲軸相對閥體位置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103007Z">
+        <seg>機械回饋元件依給定輸入訊號調整短管相對閥體位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,6 +31371,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012238Z">
         <seg>靜態混合器內之旋轉原料混合器必須清晰可見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spool displacement transmits a force in the feedback wire which opposes the original input signal torque.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T102926Z" creationid="Judy" creationdate="20141022T102926Z">
+        <seg>短管位移於回饋線中傳遞與原先輸入之信號扭矩相反之力。</seg>
       </tuv>
     </tu>
     <tu>
