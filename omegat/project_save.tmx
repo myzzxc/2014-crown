@@ -11014,6 +11014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feedback Wire</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105929Z" creationid="Judy" creationdate="20141022T105929Z">
+        <seg>回饋線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fiberoptic&lt;t0/&gt; Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044123Z">
@@ -11739,6 +11747,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134251Z">
         <seg>Flammability (solid, gas) 可燃性 (固體、氣體)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flapper</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105846Z" creationid="Judy" creationdate="20141022T105846Z">
+        <seg>擋葉Flapper</seg>
       </tuv>
     </tu>
     <tu>
@@ -18018,6 +18034,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
         <seg>批號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lower &lt;t0/&gt;Polepiece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105916Z" creationid="Judy" creationdate="20141022T105916Z">
+        <seg>下極片</seg>
       </tuv>
     </tu>
     <tu>
@@ -29609,8 +29633,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The flexure tube acts as a seal between the electromagnetic and hydraulic sections of the valve.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085122Z">
-        <seg>彎曲管件作為閥門電磁部分和液壓部分之間的密封。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105726Z">
+        <seg>彎管作為閥門電磁部分和液壓部分之間的密封。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30393,8 +30417,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The motor armature extends into the air gaps of the magnetic flux circuit and is supported in this position by a flexure tube member.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T084743Z">
-        <seg>馬達裝置延伸至磁通路之空氣間隙並以彎曲管件維持此位置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105744Z">
+        <seg>馬達電樞延伸至磁通路之空氣間隙並以彎管維持此位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31985,8 +32009,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The two motor coils surround the armature one on each side of the flexure tube.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085327Z">
-        <seg>彈性管兩側各以一組馬達線圈環繞裝置，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105823Z">
+        <seg>彎管兩側各以一組馬達線圈環繞電樞，</seg>
       </tuv>
     </tu>
     <tu>
