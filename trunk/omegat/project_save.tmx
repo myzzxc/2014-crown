@@ -29495,6 +29495,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The flapper of the first stage hydraulic amplifier is rigidly attached to the midpoint of the armature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101113Z" creationid="Judy" creationdate="20141022T101113Z">
+        <seg>一階液壓放大器之擋葉緊密固定於電樞的中點，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The flexure tube acts as a seal between the electromagnetic and hydraulic sections of the valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085122Z">
