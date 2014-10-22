@@ -26167,6 +26167,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spool movement continues until the feedback wire force equals the input signal force.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103834Z" creationid="Judy" creationdate="20141022T103834Z">
+        <seg>短管運動持續至回饋線力與輸入信號力相等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stability and reactivity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095444Z">
