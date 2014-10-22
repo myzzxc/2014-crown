@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrohydraulic Servo Valve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T012234Z">
+        <seg>電動液壓伺服閥門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electromagnetic compatibility (EMC)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130246Z">
