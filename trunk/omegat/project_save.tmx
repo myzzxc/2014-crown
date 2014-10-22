@@ -13280,6 +13280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gently pull or pry the end caps from the body.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141131Z" creationid="Judy" creationdate="20141022T141116Z">
+        <seg>輕輕地將端蓋拉出或撬起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Geological background of the Hongtsaiping area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T032410Z">
@@ -24343,6 +24351,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove and discard the &lt;t0/&gt;orings&lt;t1/&gt; from the end caps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141212Z" creationid="Judy" creationdate="20141022T141212Z">
+        <seg>從端蓋取出並丟棄 O 型環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove mechanically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105634Z">
@@ -24363,6 +24379,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z" creationid="Judy" creationdate="20141022T113927Z">
         <seg>拆除伺服閥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the socket head cap screws that retain the end caps to the body using an Allen wrench, 4 mm for 760N or 5 mm for 78N.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141123Z" creationid="Judy" creationdate="20141022T141029Z">
+        <seg>使用內六角扳手 (760N 為 4 mm  或 78N 為 5 mm) 移除固定端蓋至閥體之內六角螺絲，</seg>
       </tuv>
     </tu>
     <tu>
