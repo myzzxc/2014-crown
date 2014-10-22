@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(I) Included in Filter Replacement Kit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133151Z" creationid="CCYU" creationdate="20141022T133151Z">
+        <seg>(I) 包含於濾芯更換套件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the transformer has several assigned cooling methods, the respectiv&lt;t0/&gt;e&lt;t1/&gt; power values may be expressed as percentages of rated power, for example ONAN/ONA 70/100 %.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021211Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T115005Z" creationid="Judy" creationdate="20141022T115005Z">
         <seg>(急衝，可能為閉迴路系統中之振盪或 “擺動” 運動)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Note: 760N shown, 78N similar)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133051Z" creationid="CCYU" creationdate="20141022T133051Z">
+        <seg>(註：圖為 760N，78N 與其類似)</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085419Z">
         <seg>Specific end use(s) 特定用途</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Not included in 78NxxxD or later kit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133227Z" creationid="CCYU" creationdate="20141022T133227Z">
+        <seg>*不包含於 78NxxxD 或之後的套件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6116,6 +6140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base &lt;t0/&gt;Orings&lt;t1/&gt; &lt;t2/&gt;4&lt;t3/&gt; &lt;t4/&gt;-42082-022&lt;t5/&gt; &lt;t6/&gt;-42082-021</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133128Z" creationid="CCYU" creationdate="20141022T133128Z">
+        <seg>基座 &lt;t0/&gt;O 型環&lt;t1/&gt; &lt;t2/&gt;4&lt;t3/&gt; &lt;t4/&gt;-42082-022&lt;t5/&gt; &lt;t6/&gt;-42082-021</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base materials:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T042828Z">
@@ -10320,8 +10352,8 @@
       <tuv lang="EN-US">
         <seg>End Cap to Body &lt;t0/&gt;Oring&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-001&lt;t6/&gt; &lt;t7/&gt;-42082-007* Filter Tube (I)&lt;t8/&gt; &lt;t9/&gt;1&lt;t10/&gt; &lt;t11/&gt;-23020&lt;t12/&gt; &lt;t13/&gt;C39486-005-060</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132946Z" creationid="CCYU" creationdate="20141022T132946Z">
-        <seg>端蓋至閥體 &lt;t0/&gt;O 型環&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-001&lt;t6/&gt; &lt;t7/&gt;-42082-007* 濾芯管 (I)&lt;t8/&gt; &lt;t9/&gt;1&lt;t10/&gt; &lt;t11/&gt;-23020&lt;t12/&gt; &lt;t13/&gt;C39486-005-060</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133115Z" creationid="CCYU" creationdate="20141022T132946Z">
+        <seg>端蓋至閥體 &lt;t0/&gt;O 型環&lt;t1/&gt; (I)&lt;t2/&gt; &lt;t3/&gt;2&lt;t4/&gt; &lt;t5/&gt;-42082-001&lt;t6/&gt; &lt;t7/&gt;-42082-007* 過濾管 (I)&lt;t8/&gt; &lt;t9/&gt;1&lt;t10/&gt; &lt;t11/&gt;-23020&lt;t12/&gt; &lt;t13/&gt;C39486-005-060</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,6 +10946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024353Z">
         <seg>圖 4—FIS EM 安裝資訊 (續)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FILTER ASSEMBLY REPLACEMENT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133236Z" creationid="CCYU" creationdate="20141022T133236Z">
+        <seg>濾芯組件更換</seg>
       </tuv>
     </tu>
     <tu>
@@ -11771,6 +11811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132712Z" creationid="CCYU" creationdate="20141022T132712Z">
         <seg>濾芯更換套件&lt;t0/&gt; &lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;B52555RK004K001&lt;t4/&gt; &lt;t5/&gt;B52555RK052K001 進水口至閥體 &lt;t6/&gt;O 型環&lt;t7/&gt; (I)&lt;t8/&gt; &lt;t9/&gt;2&lt;t10/&gt; &lt;t11/&gt;-42082-059&lt;t12/&gt; &lt;t13/&gt;-42082-189</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Tube</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133108Z" creationid="CCYU" creationdate="20141022T133108Z">
+        <seg>過濾管</seg>
       </tuv>
     </tu>
     <tu>
