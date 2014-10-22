@@ -10318,6 +10318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132218Z" creationid="CCYU" creationdate="20141022T132218Z">
+        <seg>端板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy economy and heat retention (BWR 6&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123455Z">
@@ -11723,6 +11731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104426Z" creationid="Judy" creationdate="20141022T104426Z">
         <seg>濾芯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Plug</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132349Z" creationid="CCYU" creationdate="20141022T132349Z">
+        <seg>濾芯蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -16864,8 +16880,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Inlet Orifice Assemblies (one each end of body)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132040Z" creationid="CCYU" creationdate="20141022T132040Z">
-        <seg>進水口Inlet Orifice Assemblies (one each end of body)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132212Z" creationid="CCYU" creationdate="20141022T132040Z">
+        <seg>進水口組件 (one each end of body)</seg>
       </tuv>
     </tu>
     <tu>
