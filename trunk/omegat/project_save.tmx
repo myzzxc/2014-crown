@@ -9190,6 +9190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard the used filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141925Z" creationid="Judy" creationdate="20141022T141925Z">
+        <seg>丟棄使用過之濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect the electrical lead to the servo valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113941Z" creationid="Judy" creationdate="20141022T113719Z">
@@ -24359,6 +24367,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove and discard the O-Rings from the retainer plugs and inlet orifices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141903Z" creationid="Judy" creationdate="20141022T141903Z">
+        <seg>由固定頭及進水口取出並丟棄 O-型環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove mechanically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105634Z">
@@ -24371,6 +24387,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
         <seg>旋轉並拉出外蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the filter retainer plugs and inlet orifices from both sides of the body.&lt;t0/&gt; &lt;t1/&gt;The filter will come out with one of the inlet orifices.&lt;t2/&gt; &lt;t3/&gt;Note:&lt;t4/&gt; &lt;t5/&gt;A 2-56 screw will thread into each piece so it can be pulled from the body cavity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141733Z" creationid="Judy" creationdate="20141022T141733Z">
+        <seg>由閥體兩側取出濾芯固定頭及進水口，濾芯將由進水口取出。註：每件濾芯上鎖有一個 2-56 螺絲使其可於閥體中拉出，</seg>
       </tuv>
     </tu>
     <tu>
@@ -33275,6 +33299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151933Z">
         <seg>這些參數包括基體材料、基體排列、基體線徑以及填充因子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These parts may be interchanged from side to side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141757Z" creationid="Judy" creationdate="20141022T141757Z">
+        <seg>此零件可互換。</seg>
       </tuv>
     </tu>
     <tu>
