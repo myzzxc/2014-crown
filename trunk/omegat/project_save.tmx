@@ -15045,6 +15045,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If leakage is present and cannot be rectified by replacing O-Rings, remove the discrepant component and return for repair or replacement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134235Z" creationid="CCYU" creationdate="20141023T134235Z">
+        <seg>若有洩漏且更換 O-型環後無法改善，拆除故障元件並送回維修或更換。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If liquid-immersed type, whether mineral oil, natural insulating liquid or synthetic insulating liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124711Z">
@@ -21234,6 +21242,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112641Z" creationid="Judy" creationdate="20141022T112641Z">
         <seg>註：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: If the system components are drifting or &lt;t0/&gt;hardover&lt;t1/&gt;, adjust the mechanical null of the servo valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134428Z" creationid="CCYU" creationdate="20141023T134428Z">
+        <seg>註：若系統元件漂移或失控時，調整伺服閥機械歸零。</seg>
       </tuv>
     </tu>
     <tu>
