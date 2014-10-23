@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 PLACES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141445Z" creationid="CCYU" creationdate="20141023T141445Z">
+        <seg>4 處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 Service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z">
@@ -6884,6 +6892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CONTROL PORT NO.&lt;t0/&gt; 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141554Z" creationid="CCYU" creationdate="20141023T141554Z">
+        <seg>控制埠 2 號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COVERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T083603Z">
@@ -10430,6 +10446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Connector:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141657Z" creationid="CCYU" creationdate="20141023T141657Z">
+        <seg>電氣聯接器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrohydraulic Servo Valve</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
@@ -12123,6 +12147,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183925Z">
         <seg>佛羅里達州毒性物質：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flow out of port B will increase with clockwise rotations of null adjust (3/32 hex key).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141926Z" creationid="CCYU" creationdate="20141023T141922Z">
+        <seg>順時針旋轉歸零調整使接埠 B 流出量增加 (3/32 內六角扳手)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,6 +18630,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141457Z" creationid="CCYU" creationdate="20141023T141457Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAX [120.4]</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140905Z" creationid="CCYU" creationdate="20141023T140905Z">
@@ -18946,6 +18986,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T130855Z">
         <seg>材料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mates with 1/2 - 14 NPT fitting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141724Z" creationid="CCYU" creationdate="20141023T141724Z">
+        <seg>使用 1/2 - 14 NPT 接頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21518,6 +21566,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Null Adjust:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141730Z" creationid="CCYU" creationdate="20141023T141730Z">
+        <seg>歸零調整：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of phases in system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124433Z">
@@ -23963,6 +24019,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013046Z">
         <seg>柱有效截面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ROTATED 180&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;CLOCKWISE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141550Z" creationid="CCYU" creationdate="20141023T141550Z">
+        <seg>順時針轉 180&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36212,6 +36276,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142110Z">
         <seg>VFVV 適用於抽頭係數高於最大電壓抽頭係數之抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VIEW&lt;t0/&gt; &lt;t1/&gt;A-A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141534Z" creationid="CCYU" creationdate="20141023T141534Z">
+        <seg>&lt;t0/&gt; &lt;t1/&gt;A-A 視圖</seg>
       </tuv>
     </tu>
     <tu>
