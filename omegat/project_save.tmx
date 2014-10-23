@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Universal dash No. 13)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140817Z" creationid="CCYU" creationdate="20141023T140817Z">
+        <seg>(通用緩衝 13 號)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(VOCV 814.018 VOC regulation CH)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104625Z">
@@ -1778,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073006Z">
         <seg>6 廢棄處置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6&lt;t0/&gt; &lt;t1/&gt;EXTERNAL NULL ADJUST 3/32 IN.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T141058Z" creationid="CCYU" creationdate="20141023T141058Z">
+        <seg>6&lt;t0/&gt; &lt;t1/&gt;外部歸零調整 3/32 英吋</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,6 +6848,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175009Z">
         <seg>需避免的環境：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTROL PORT NO.&lt;t0/&gt; 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140925Z" creationid="CCYU" creationdate="20141023T140925Z">
+        <seg>控制埠 1 號</seg>
       </tuv>
     </tu>
     <tu>
@@ -18542,6 +18566,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAX [120.4]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140905Z" creationid="CCYU" creationdate="20141023T140905Z">
+        <seg>最大 [120.4]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MAX [8&lt;t0/&gt;4.1]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140841Z" creationid="CCYU" creationdate="20141023T140841Z">
+        <seg>最大 [8&lt;t0/&gt;4.1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MECHANICAL NULL ADJUSTMENT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T112632Z">
@@ -22398,6 +22438,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PRESSURE PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140829Z" creationid="CCYU" creationdate="20141023T140829Z">
+        <seg>壓力埠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PRODUCT COMPOSITION</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140324Z">
@@ -23803,6 +23851,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040506Z">
         <seg>保留以供未來使用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RETURN PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140933Z" creationid="CCYU" creationdate="20141023T140933Z">
+        <seg>返回埠</seg>
       </tuv>
     </tu>
     <tu>
