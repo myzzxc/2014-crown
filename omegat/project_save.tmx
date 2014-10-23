@@ -6124,6 +6124,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BROWN GREEN</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135837Z" creationid="CCYU" creationdate="20141023T135837Z">
+        <seg>棕 綠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BY INDUSTRY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062508Z">
@@ -16874,6 +16882,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124742Z">
         <seg>室內或室外型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Industrial type petroleum base hydraulic fluid, maintained to ISO DIS 4406 Code 14/11 recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140135Z" creationid="CCYU" creationdate="20141023T140135Z">
+        <seg>工業型石油基液壓流體，建議維持 ISO DIS 4406 準則 14/11。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37404,6 +37420,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065317Z">
         <seg>由 SERVOCAM 實驗室，於 1996 至 1999 年間執行 20.000 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>YELLOW VIOLET</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135907Z" creationid="CCYU" creationdate="20141023T135907Z">
+        <seg>黃 藍紫</seg>
       </tuv>
     </tu>
     <tu>
