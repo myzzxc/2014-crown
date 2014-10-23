@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Fluid:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135650Z" creationid="CCYU" creationdate="20141023T135650Z">
+        <seg>1 流體：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Safety Information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081546Z">
@@ -1462,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 MOUNTING HOLES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135702Z" creationid="CCYU" creationdate="20141023T135702Z">
+        <seg>4 安裝孔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 Service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z">
@@ -1818,6 +1834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z">
         <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>760N SERIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135641Z" creationid="CCYU" creationdate="20141023T135641Z">
+        <seg>760N 系列</seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,6 +3335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025944Z">
         <seg>&gt;93 % - Readily - 易降解&lt;t0/&gt; &lt;t1/&gt;-&lt;t2/&gt;              &lt;t3/&gt; -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Declaration of Manufacturer according to Council Directive 94/9/EC is supplied with each servo valve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135558Z" creationid="CCYU" creationdate="20141023T135558Z">
+        <seg>每組伺服閥附上符合委員會指令 94/9/EC 之製造商宣言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19518,6 +19550,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moog • 78N/760N Series Operation Instruction • &lt;t0/&gt;RevE&lt;t1/&gt; 01/14&lt;t2/&gt; &lt;t3/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135632Z" creationid="CCYU" creationdate="20141023T135632Z">
+        <seg>Moog • 78N/760N 系列操作指南 • &lt;t0/&gt;修訂版本&lt;t1/&gt; 01/14&lt;t2/&gt; &lt;t3/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More importantly, if a spill is large enough or threatens a waterway or storm water drain, a third party spill &lt;t0/&gt;response company&lt;t1/&gt; may be called.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130853Z">
@@ -22282,6 +22322,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T144130Z">
         <seg>健康潛在影響：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>POTTED ELECTRICAL CONNECTOR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135817Z" creationid="CCYU" creationdate="20141023T135817Z">
+        <seg>密封式電氣聯接器</seg>
       </tuv>
     </tu>
     <tu>
