@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5539,6 +5539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply required system pressure to servo valve and visually examine for evidence of external leakage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134051Z" creationid="CCYU" creationdate="20141023T134051Z">
+        <seg>通入所需壓力至伺服閥並以目視檢查有無洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appropriate engineering controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T132240Z">
@@ -11050,6 +11058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174611Z">
         <seg>凝固點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FUNCTIONAL CHECKOUT AND CENTERING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T133847Z" creationid="CCYU" creationdate="20141023T133847Z">
+        <seg>功能性檢查和定心</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,6 +17082,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z">
         <seg>安裝安全係數 (灌注之鑽孔)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install servo valve on hydraulic system or test fixture, but do not connect electrical lead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T133933Z" creationid="CCYU" creationdate="20141023T133933Z">
+        <seg>安裝伺服閥於液壓系統或測試裝置中，但不連接電線。</seg>
       </tuv>
     </tu>
     <tu>
