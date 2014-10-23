@@ -3883,6 +3883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AUTHORIZED REPAIR FACILITIES</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134534Z" creationid="CCYU" creationdate="20141023T134534Z">
+        <seg>授權維修機構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTO IGNITION TEMPERATURE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174511Z">
@@ -7978,6 +7986,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143438Z">
         <seg>Conforms to Regulation (EC) No. 1907/2006 (REACH), Annex II - Germany 符合規章 (EC) 編號 1907/2006 號 (REACH)，附件 II - 德國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect electrical lead to servo valve and check phasing in accordance with system requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134523Z" creationid="CCYU" creationdate="20141023T134523Z">
+        <seg>連接電線至伺服閥並檢查相位是否符合系統要求。</seg>
       </tuv>
     </tu>
     <tu>
