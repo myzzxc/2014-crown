@@ -15149,6 +15149,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If servo valve continues to malfunction after all recommended corrective action procedures are performed, defective valve should be returned to Moog for repair.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134904Z" creationid="CCYU" creationdate="20141023T134858Z">
+        <seg>若依建議執行所有改善程序後伺服閥仍持續故障情形，故障閥應送回 Moog 維修，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If signs of wear and tear are noticed then the gloves should be replaced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091849Z">
@@ -19482,6 +19490,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024814Z">
         <seg>監測軋管機內的鋼胚溫度使操作人員能調整輥子以減少加工停機時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moog does not authorize any facilities other than Moog or Moog subsidiaries to repair its servo valves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135029Z" creationid="CCYU" creationdate="20141023T135029Z">
+        <seg>Moog 未授權 Moog 以外其它機構或 Moog 子公司進行伺服閥維修，</seg>
       </tuv>
     </tu>
     <tu>
