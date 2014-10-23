@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 PLACES&lt;t0/&gt; &lt;t1/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142443Z" creationid="CCYU" creationdate="20141023T142443Z">
+        <seg>4 處&lt;t0/&gt; &lt;t1/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 Service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z">
@@ -9326,6 +9334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dimensions in parenthesis are in millimeters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142408Z" creationid="CCYU" creationdate="20141023T142408Z">
+        <seg>括號中尺寸單位為毫米。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensions: approx. 180 x 130 cm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114446Z">
@@ -11835,6 +11851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T145114Z">
         <seg>圖 3 開繞組變壓器之 '時鐘數' 標記圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142448Z" creationid="CCYU" creationdate="20141023T142448Z">
+        <seg>圖 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,6 +14518,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143715Z">
         <seg>物質 / 混和物與公司 / 企業之標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IDENTIFICATION PLATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142428Z" creationid="CCYU" creationdate="20141023T142428Z">
+        <seg>標示銘板</seg>
       </tuv>
     </tu>
     <tu>
@@ -18146,6 +18178,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071903Z">
         <seg>大型液壓機台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LOCATING PIN&lt;t0/&gt; &lt;t1/&gt;PRESSURE PORT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142515Z" creationid="CCYU" creationdate="20141023T142515Z">
+        <seg>定位推針&lt;t0/&gt; &lt;t1/&gt;壓力埠</seg>
       </tuv>
     </tu>
     <tu>
@@ -22534,6 +22574,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>POTTED ELECTRICAL CONNECTOR&lt;t0/&gt; &lt;t1/&gt;5 NULL&lt;t2/&gt; &lt;t3/&gt;ADJUST</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142304Z" creationid="CCYU" creationdate="20141023T142304Z">
+        <seg>密封式電氣聯接器&lt;t0/&gt; &lt;t1/&gt;5 歸零調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>POWER TRANSFORMERS -</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141709Z">
@@ -23514,6 +23562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063536Z">
         <seg>有 30g 或 55g 桶裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process: +120°C max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142243Z" creationid="CCYU" creationdate="20141023T142243Z">
+        <seg>操作：最高 +120°C</seg>
       </tuv>
     </tu>
     <tu>
