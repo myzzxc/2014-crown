@@ -8582,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DECLARATION OF MANUFACTURER</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135418Z" creationid="CCYU" creationdate="20141023T135418Z">
+        <seg>製造商宣言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DECOMPOSITION TEMPERATURE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174516Z">
@@ -17694,6 +17702,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended you contact Moog at (716) 652-2000 to locate your closest Moog repair facility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135201Z" creationid="CCYU" creationdate="20141023T135201Z">
+        <seg>建議撥打電話 (716) 652-2000 聯繫 Moog 以獲得最靠近之 Moog 維修機構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z">
@@ -24563,6 +24579,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011621Z">
         <seg>技術專家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair by an independent (unauthorized) repair house will result in voiding the Moog warranty and could lead to performance degradation or safety problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135347Z" creationid="CCYU" creationdate="20141023T135347Z">
+        <seg>於未授權維修機夠進行維修將使 Moog 保固失效並可能使效能衰退或產生安全性問題。</seg>
       </tuv>
     </tu>
     <tu>
