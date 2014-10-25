@@ -21119,6 +21119,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mount the part at mounting block with two mounting bolts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073347Z" creationid="CCYU" creationdate="20141025T073347Z">
+        <seg>以兩顆固定螺絲將零件固定於安裝台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mounting Manifold</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142056Z" creationid="CCYU" creationdate="20141023T142056Z">
