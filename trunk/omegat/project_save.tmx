@@ -18983,6 +18983,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is submitted in &lt;t0/&gt;confidence for the purposes benefiting the business operations of SENTECH, INC., and may not in whole or in part be reproduced or used for any purpose detrimental to the business of SENTECH, INC.; or disclosed to others, without written authorization from &lt;t1/&gt;SENTECH, INC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075442Z" creationid="CCYU" creationdate="20141025T075442Z">
+        <seg>其用於促進 SENTECH, INC. 商業運作, and may not in whole or in part be reproduced or used for any purpose detrimental to the business of SENTECH, INC.; or disclosed to others, without written authorization from &lt;t1/&gt;SENTECH, INC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z">
@@ -36418,8 +36426,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This document is property of SENTECH, INC.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075258Z" creationid="CCYU" creationdate="20141025T075258Z">
-        <seg>本文件為 SENTECH, INC 財產。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075444Z" creationid="CCYU" creationdate="20141025T075258Z">
+        <seg>本文件為 SENTECH, INC 財產，</seg>
       </tuv>
     </tu>
     <tu>
