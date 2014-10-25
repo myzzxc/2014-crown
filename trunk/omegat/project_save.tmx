@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceptable&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;open&lt;t4/&gt; &lt;t5/&gt;w&lt;t6/&gt;hen&lt;t7/&gt; &lt;t8/&gt;install&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023510Z" creationid="CCYU" creationdate="20141025T023510Z">
+        <seg>當安裝電線時可打開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accidental release measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084409Z">
@@ -6184,6 +6192,14 @@
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160321Z">
         <seg>B.4.2 範例 4.2 — 具有 LV 電壓變化之變壓器
 適用於降壓操作之變壓器peration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&lt;t0/&gt;lanking&lt;t1/&gt; &lt;t2/&gt;E&lt;t3/&gt;lement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023434Z" creationid="CCYU" creationdate="20141025T023434Z">
+        <seg>遮蔽元件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +8766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;o&lt;t1/&gt; &lt;t2/&gt;no&lt;t3/&gt;t&lt;t4/&gt; &lt;t5/&gt;d&lt;t6/&gt;i&lt;t7/&gt;s&lt;t8/&gt;a&lt;t9/&gt;ss&lt;t10/&gt;e&lt;t11/&gt;m&lt;t12/&gt;b&lt;t13/&gt;l&lt;t14/&gt;e&lt;t15/&gt;,&lt;t16/&gt; &lt;t17/&gt;l&lt;t18/&gt;oo&lt;t19/&gt;s&lt;t20/&gt;e.&lt;t21/&gt; &lt;t22/&gt;Acceptable&lt;t23/&gt; &lt;t24/&gt;to&lt;t25/&gt; &lt;t26/&gt;open&lt;t27/&gt; &lt;t28/&gt;the&lt;t29/&gt; &lt;t30/&gt;cover&lt;t31/&gt; &lt;t32/&gt;w&lt;t33/&gt;hen&lt;t34/&gt; &lt;t35/&gt;ins&lt;t36/&gt;t&lt;t37/&gt;alling&lt;t38/&gt; &lt;t39/&gt;the&lt;t40/&gt; &lt;t41/&gt;cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023555Z" creationid="CCYU" creationdate="20141025T023555Z">
+        <seg>請勿拆解、鬆脫。當安裝電線時可打開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D&lt;t0/&gt;o&lt;t1/&gt; &lt;t2/&gt;no&lt;t3/&gt;t&lt;t4/&gt; &lt;t5/&gt;d&lt;t6/&gt;i&lt;t7/&gt;s&lt;t8/&gt;a&lt;t9/&gt;ss&lt;t10/&gt;e&lt;t11/&gt;m&lt;t12/&gt;b&lt;t13/&gt;l&lt;t14/&gt;e&lt;t15/&gt;,&lt;t16/&gt; &lt;t17/&gt;l&lt;t18/&gt;oo&lt;t19/&gt;s&lt;t20/&gt;e.&lt;t21/&gt; &lt;t22/&gt;S&lt;t23/&gt;ee&lt;t24/&gt; &lt;t25/&gt;attached&lt;t26/&gt; &lt;t27/&gt;cable&lt;t28/&gt; gland&lt;t29/&gt; &lt;t30/&gt;instruction&lt;t31/&gt; &lt;t32/&gt;manual&lt;t33/&gt; &lt;t34/&gt;MRJ05010&lt;t35/&gt; &lt;t36/&gt;for&lt;t37/&gt; &lt;t38/&gt;replace&lt;t39/&gt; &lt;t40/&gt;the&lt;t41/&gt; &lt;t42/&gt;Diff&lt;t43/&gt; &lt;t44/&gt;P&lt;t45/&gt;r&lt;t46/&gt;e&lt;t47/&gt;ss&lt;t48/&gt;.&lt;t49/&gt; &lt;t50/&gt;S&lt;t51/&gt;W&lt;t52/&gt;..</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022906Z" creationid="CCYU" creationdate="20141025T022906Z">
@@ -9898,6 +9922,39 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023222Z" creationid="CCYU" creationdate="20141025T023222Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;Disassemble&lt;t4/&gt;,&lt;t5/&gt; &lt;t6/&gt;Loose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023304Z" creationid="CCYU" creationdate="20141025T023304Z">
+        <seg>請勿拆解、鬆脫。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;d&lt;t4/&gt;i&lt;t5/&gt;s&lt;t6/&gt;a&lt;t7/&gt;ss&lt;t8/&gt;e&lt;t9/&gt;m&lt;t10/&gt;b&lt;t11/&gt;l&lt;t12/&gt;e&lt;t13/&gt;,&lt;t14/&gt; &lt;t15/&gt;l&lt;t16/&gt;oo&lt;t17/&gt;s&lt;t18/&gt;e.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023513Z" creationid="CCYU" creationdate="20141025T023513Z">
+        <seg>請勿拆解、鬆脫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;d&lt;t4/&gt;i&lt;t5/&gt;s&lt;t6/&gt;a&lt;t7/&gt;ss&lt;t8/&gt;e&lt;t9/&gt;m&lt;t10/&gt;b&lt;t11/&gt;l&lt;t12/&gt;e&lt;t13/&gt;,&lt;t14/&gt; &lt;t15/&gt;l&lt;t16/&gt;oo&lt;t17/&gt;s&lt;t18/&gt;e.&lt;t19/&gt; &lt;t20/&gt;S&lt;t21/&gt;ee&lt;t22/&gt; &lt;t23/&gt;section&lt;t24/&gt; &lt;t25/&gt;6.3&lt;t26/&gt; &lt;t27/&gt;for&lt;t28/&gt; &lt;t29/&gt;r&lt;t30/&gt;ep&lt;t31/&gt;l&lt;t32/&gt;a&lt;t33/&gt;c&lt;t34/&gt;e&lt;t35/&gt; &lt;t36/&gt;t&lt;t37/&gt;h&lt;t38/&gt;e&lt;t39/&gt; &lt;t40/&gt;L&lt;t41/&gt;V&lt;t42/&gt;D&lt;t43/&gt;T&lt;t44/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023337Z" creationid="CCYU" creationdate="20141025T023337Z">
+        <seg>請勿拆解、鬆脫。更換 LVDT 請見第 6.3 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;d&lt;t4/&gt;i&lt;t5/&gt;s&lt;t6/&gt;a&lt;t7/&gt;ss&lt;t8/&gt;e&lt;t9/&gt;m&lt;t10/&gt;b&lt;t11/&gt;l&lt;t12/&gt;e&lt;t13/&gt;,&lt;t14/&gt; &lt;t15/&gt;l&lt;t16/&gt;oo&lt;t17/&gt;s&lt;t18/&gt;e.&lt;t19/&gt; &lt;t20/&gt;S&lt;t21/&gt;ee&lt;t22/&gt; &lt;t23/&gt;section&lt;t24/&gt; &lt;t25/&gt;6.3&lt;t26/&gt; &lt;t27/&gt;for&lt;t28/&gt; &lt;t29/&gt;replace&lt;t30/&gt; &lt;t31/&gt;the&lt;t32/&gt; &lt;t33/&gt;Servovalve&lt;t34/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023328Z" creationid="CCYU" creationdate="20141025T023328Z">
+        <seg>請勿拆解、鬆脫。更換伺服閥請見第 6.3 節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18250,6 +18307,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021936Z" creationid="CCYU" creationdate="20141025T021057Z">
         <seg>接線盒組經 ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; 認證之防爆元件 (Ex-components) 包含電線接頭及變徑管接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction&lt;t0/&gt; &lt;t1/&gt;B&lt;t2/&gt;ox&lt;t3/&gt; &lt;t4/&gt;(Junction&lt;t5/&gt; &lt;t6/&gt;B&lt;t7/&gt;ox&lt;t8/&gt; &lt;t9/&gt;cover&lt;t10/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023535Z" creationid="CCYU" creationdate="20141025T023535Z">
+        <seg>接線盒 (接線盒蓋)</seg>
       </tuv>
     </tu>
     <tu>
