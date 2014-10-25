@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Fig.4 and Fig.5)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055646Z" creationid="CCYU" creationdate="20141025T055646Z">
+        <seg>(請見圖 4 和圖 5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Fig.7 and Fig.8)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032836Z" creationid="CCYU" creationdate="20141025T032836Z">
@@ -961,6 +969,14 @@
         <seg>1 M-screw (two typ&lt;t0/&gt;e of Straight or Elbow&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033301Z" creationid="CCYU" creationdate="20141025T033301Z">
+        <seg>1 M 型螺絲 (直式或彎頭兩種形式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 M-screw (two type of Straight or Elbo&lt;t0/&gt;w&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055700Z" creationid="CCYU" creationdate="20141025T055700Z">
         <seg>1 M 型螺絲 (直式或彎頭兩種形式)</seg>
       </tuv>
     </tu>
@@ -12471,6 +12487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.4 Internal Structure of Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055713Z" creationid="CCYU" creationdate="20141025T055713Z">
+        <seg>圖 4 電線接頭內部結構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig.5 External Grounding Terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031824Z" creationid="CCYU" creationdate="20141025T031824Z">
@@ -19511,6 +19535,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loose item 11 by Allen &lt;t0/&gt;w&lt;t1/&gt;rench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055844Z" creationid="CCYU" creationdate="20141025T055844Z">
+        <seg>以內六角扳手放鬆零件 11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loose item 11 by Allen w&lt;t1/&gt;rench.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034519Z" creationid="CCYU" creationdate="20141025T034519Z">
@@ -24463,6 +24495,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please disassemble and assemble by the follo&lt;t0/&gt;w&lt;t1/&gt;ing instruction &lt;t2/&gt;when&lt;t3/&gt; you replace the &lt;t4/&gt;Servovalve&lt;t5/&gt; and/or LVDT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055638Z" creationid="CCYU" creationdate="20141025T055638Z">
+        <seg>當更換伺服閥和 LVDT 時請依以下指示拆除和組裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please dispose properly of any packaging material no longer required.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094747Z">
@@ -26152,6 +26192,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove item 1 form &lt;t0/&gt;Servovalve&lt;t1/&gt; or LVDT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055925Z" creationid="CCYU" creationdate="20141025T055925Z">
+        <seg>將零件 1 由伺服閥或 LVDT 上拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove mechanically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105634Z">
@@ -26212,6 +26260,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084824Z">
         <seg>Remove with liquid-absorbing material (sand, peat, sawdust). 使用吸水性材料 (沙子、泥炭、木屑) 吸附清除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove&lt;t0/&gt; &lt;t1/&gt;cables&lt;t2/&gt; &lt;t3/&gt;from&lt;t4/&gt; &lt;t5/&gt;Junction&lt;t6/&gt; &lt;t7/&gt;Box&lt;t8/&gt; &lt;t9/&gt;assembly.&lt;t10/&gt; (&lt;t11/&gt;Refer&lt;t12/&gt; &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;MRJ05002,&lt;t16/&gt; &lt;t17/&gt;6.3” Replace &lt;t18/&gt;Servovalve&lt;t19/&gt; and LVDT”.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055840Z" creationid="CCYU" creationdate="20141025T055840Z">
+        <seg>由接線盒組上拆除電線。(參考 MRJ05002，6.3“更換伺服閥和 LVDT”.)</seg>
       </tuv>
     </tu>
     <tu>
