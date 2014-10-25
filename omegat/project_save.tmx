@@ -11390,6 +11390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure to comply w&lt;t3/&gt;ith these safety instructions can result in serious damage to health and can eve&lt;t4/&gt;n prove fatal in extreme cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020049Z" creationid="CCYU" creationdate="20141025T020049Z">
+        <seg>未能遵守安全指示可能對健康造成嚴重損害，並可能在極端情況下造成致命傷害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fastenings in stand-off installation or with a grout layer are not allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140923Z">
@@ -33419,6 +33427,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151336Z">
         <seg>表 1 列出了模擬之 γ-型史特林引擎尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; symbol on the above and the w&lt;t1/&gt;ord “WARNING” are used to call attention to safety instructions concerning a potential hazard &lt;t2/&gt;for people.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020008Z" creationid="CCYU" creationdate="20141025T020008Z">
+        <seg>文字“警告”上方之符號用以提醒使用者注意潛在危險之安全指示，</seg>
       </tuv>
     </tu>
     <tu>
