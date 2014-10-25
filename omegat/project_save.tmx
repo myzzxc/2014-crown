@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+200 deg C, Code T&lt;t0/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074849Z" creationid="CCYU" creationdate="20141025T074849Z">
+        <seg>+200 度 C、T3 規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+30 % of the design value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085309Z">
@@ -7248,6 +7256,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033911Z" creationid="CCYU" creationdate="20141025T033911Z">
         <seg>電線管道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cable Gland: ATEX certified for flameproof applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075017Z" creationid="CCYU" creationdate="20141025T075017Z">
+        <seg>電線接頭：ATEX 認證之防火應用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19575,6 +19591,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of Standards:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075027Z" creationid="CCYU" creationdate="20141025T075027Z">
+        <seg>標準清單：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of approved workplac&lt;t0/&gt;e exposure limits (WELs) / EH40</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T015008Z">
@@ -27952,6 +27976,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See ATEX certificate &lt;t0/&gt;ITS03ATEX11531X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075042Z" creationid="CCYU" creationdate="20141025T075042Z">
+        <seg>請見 ATEX 認證 &lt;t0/&gt;ITS03ATEX11531X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Annex C 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020746Z">
@@ -28004,6 +28036,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142125Z">
         <seg>請見圖 1c。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See IECEX certificate ITS 13.0012X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075051Z" creationid="CCYU" creationdate="20141025T075051Z">
+        <seg>請見 IECEX 認證 ITS 13.0012X</seg>
       </tuv>
     </tu>
     <tu>
@@ -29756,6 +29796,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093406Z">
         <seg>下列出版物提供評等和測試之補充規則：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supply Voltage: 8 VAC RMS Typ, 5 kHz, 1 VA maximum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074943Z" creationid="CCYU" creationdate="20141025T074943Z">
+        <seg>供應電壓： 8 VAC RMS Typ， 5 kHz，最大 1 VA。</seg>
       </tuv>
     </tu>
     <tu>
