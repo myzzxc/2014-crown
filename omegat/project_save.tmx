@@ -9870,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not open under an explosive atmosphere.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025412Z" creationid="CCYU" creationdate="20141025T025412Z">
+        <seg>請勿於含爆炸性氣體的環境中打開接線盒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not puncture the foot warmer!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T125846Z">
@@ -19239,6 +19247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure never to damage the surface both the body and the cover of Junction Box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025205Z" creationid="CCYU" creationdate="20141025T025205Z">
+        <seg>請確保勿損傷接線盒體與盒蓋表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the pow&lt;t0/&gt;er is OFF before opening the Junction Box cover.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024724Z" creationid="CCYU" creationdate="20141025T024724Z">
@@ -20339,6 +20355,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153727Z">
         <seg>多重氣體監測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be used w&lt;t0/&gt;ithin ambient &lt;t1/&gt;temperature of -15&lt;t2/&gt;℃&lt;t3/&gt;~&lt;t4/&gt; 60&lt;t5/&gt;℃&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025320Z" creationid="CCYU" creationdate="20141025T025320Z">
+        <seg>必須確認環境溫度處於 -15&lt;t2/&gt;℃&lt;t3/&gt;~&lt;t4/&gt; 60&lt;t5/&gt;℃&lt;t6/&gt; 範圍內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33016,6 +33040,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The stainless screw (M8) should be used for Junction Box assembly cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025504Z" creationid="CCYU" creationdate="20141025T025446Z">
+        <seg>接線盒組蓋應使用不鏽鋼螺絲 (M8)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The star, delta, or zigzag connection of a set of phase windings of a three-phase transforme&lt;t0/&gt;r&lt;t1/&gt; or of windings of the same voltage of single-phase transformers associated in a three-phas&lt;t2/&gt;e&lt;t3/&gt; bank shall be indicated by the capital letters Y, D or Z for the high-voltage (HV) winding an&lt;t4/&gt;d&lt;t5/&gt; small letters y, d or z for the intermediate and low-voltage (LV) windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142433Z">
@@ -34716,6 +34748,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020759Z" creationid="CCYU" creationdate="20141025T020759Z">
         <seg>本說明手冊僅說明防爆相關項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Junction Box assembly can be used in both Zone1 and Zone2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025239Z" creationid="CCYU" creationdate="20141025T025239Z">
+        <seg>此接線盒組可用於 1 級危險區 (Zone 1) 及 2 級危險區 (Zone 2) 中。</seg>
       </tuv>
     </tu>
     <tu>
