@@ -45565,10 +45565,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>・&lt;t0/&gt; Do not use other screw except the decided screw of Junction Box assembly cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T041109Z" creationid="CCYU" creationdate="20141025T041109Z">
+        <seg>・請勿使用非接線盒組指定之螺絲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>・&lt;t0/&gt; It is &lt;t1/&gt;shown&lt;t2/&gt; in Fig.5 how to connect earth w ire to grounding Terminal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031416Z" creationid="CCYU" creationdate="20141025T031416Z">
         <seg>・圖 5 中描繪了連接接地線至接地端子之方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>・&lt;t0/&gt; Never modify, brake up and repair except opening-closing of a Junction&lt;t1/&gt; Box cover and &lt;t2/&gt;cable gland as per 6.3 to connect to terminal block.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T041016Z" creationid="CCYU" creationdate="20141025T041005Z">
+        <seg>・請勿改裝、拆開以及維修第 6.3 所述之接線盒蓋以及電線接頭以外之連接至端子台的開口。</seg>
       </tuv>
     </tu>
     <tu>
