@@ -9438,6 +9438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description in this manual is essential to the safety of life and property, therefore, before operating this equipment, you should first thoroughly read this manual, and this manual should be kept in a place to take it out easily &lt;t0/&gt;when&lt;t1/&gt; you have any questions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053732Z" creationid="CCYU" creationdate="20141025T053732Z">
+        <seg>本手冊之說明對生命和財產安全至關重要，因此操作本設備前，應先仔細閱讀本手冊，並將本手冊置於當有任何問題時容易取得之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description in this manual is subject to change &lt;t0/&gt;with&lt;t1/&gt;out any obligation on the part of the Manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141024T110357Z" creationid="CCYU" creationdate="20141024T110357Z">
@@ -10275,6 +10283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022152Z" creationid="CCYU" creationdate="20141025T022152Z">
         <seg>文件編號：MRJ05002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doc.&lt;t0/&gt; No&lt;t1/&gt;:&lt;t2/&gt; MRJ05003</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053525Z" creationid="CCYU" creationdate="20141025T053525Z">
+        <seg>文件編號：MRJ05003</seg>
       </tuv>
     </tu>
     <tu>
@@ -11867,6 +11883,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024010Z">
         <seg>廠房操作人員能選擇性地控制熱處理工件之溫度量測以大量的節省能源及時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failure to comply &lt;t2/&gt;with&lt;t3/&gt; these safety instructions can result in serious damage to health and can even prove fatal in extreme cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053744Z" creationid="CCYU" creationdate="20141025T053744Z">
+        <seg>未能遵守安全指示可能對健康造成嚴重損害，並可能在極端情況下造成致命傷害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18279,6 +18303,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instruction Manual for Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053552Z" creationid="CCYU" creationdate="20141025T053552Z">
+        <seg>電線接頭說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054007Z">
@@ -20639,6 +20671,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model: CB59384&lt;t0/&gt;, C&lt;t1/&gt;B59385</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053645Z" creationid="CCYU" creationdate="20141025T053645Z">
+        <seg>型號：CB59384、CB59385</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model&lt;t0/&gt;: CB58933</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022418Z" creationid="CCYU" creationdate="20141025T022418Z">
@@ -22607,6 +22647,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes contain useful information for the operator &lt;t0/&gt;when&lt;t1/&gt; starting up and operating the equipment or system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053757Z" creationid="CCYU" creationdate="20141025T053757Z">
+        <seg>註解包含對操作者啟動及操作設備或系統時之實用資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notes contain useful&lt;t0/&gt; information for the operator w&lt;t1/&gt;hen starting up and ope&lt;t2/&gt;rating the equipment or system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020405Z" creationid="CCYU" creationdate="20141025T020405Z">
@@ -22619,6 +22667,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074353Z">
         <seg>油水混合的環境中沒有比我們效果更好的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice w&lt;t0/&gt;ould be appreciated if you find any question, lack or error in this manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053722Z" creationid="CCYU" creationdate="20141025T053722Z">
+        <seg>本手冊若有任何問題、闕漏或錯誤，歡迎向製造商反應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27256,6 +27312,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scope&lt;t0/&gt;:&lt;t1/&gt; Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053710Z" creationid="CCYU" creationdate="20141025T053710Z">
+        <seg>範圍：電線接頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Score&lt;t0/&gt;  &lt;t1/&gt;Exposure&lt;t2/&gt;   &lt;t3/&gt; Observation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022328Z">
@@ -30556,6 +30620,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020220Z" creationid="CCYU" creationdate="20141025T020220Z">
         <seg>文字“注意”上方之符號用以提醒使用者注意對設備或系統的潛在損害之安全指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Th&lt;t0/&gt;e symbol on the above and the w&lt;t1/&gt;ord “CAUTION” are used to call attention to instructions concerning potential damage to the equipment or to the system as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053751Z" creationid="CCYU" creationdate="20141025T053751Z">
+        <seg>文字“注意”上方之符號用以提醒使用者注意對設備或系統的潛在損害之安全指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Th&lt;t0/&gt;e symbol on the above and the w&lt;t1/&gt;ord “WARNING” are used to call attention to safety instructions concerning a potential hazard for people.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053739Z" creationid="CCYU" creationdate="20141025T053739Z">
+        <seg>文字“警告”上方之符號用以提醒使用者注意潛在危險之安全指示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36600,6 +36680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053533Z" creationid="CCYU" creationdate="20141025T053533Z">
+        <seg>標題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title: Instruction Manu&lt;t0/&gt;al &lt;t1/&gt;for JUNCTION BOX ASSEMBLY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024637Z" creationid="CCYU" creationdate="20141025T024637Z">
@@ -38301,6 +38389,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065624Z">
         <seg>由 Servocam 實驗室，於 1996 至 1999 年間執行 19.234 小時 W-O-M 測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W&lt;t0/&gt;arning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053804Z" creationid="CCYU" creationdate="20141025T053804Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
