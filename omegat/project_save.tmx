@@ -34943,6 +34943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This product is an explosion-proof ele&lt;t0/&gt;ctrical equipment of the following “Ex marking”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021537Z" creationid="CCYU" creationdate="20141025T021537Z">
+        <seg>本產品為以下 “認證符號”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product is in compliance with rules, regulations, and orders of TSCA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181928Z">
