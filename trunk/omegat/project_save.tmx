@@ -29536,6 +29536,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;his&lt;t1/&gt; &lt;t2/&gt;cable&lt;t3/&gt; &lt;t4/&gt;gland&lt;t5/&gt; &lt;t6/&gt;is&lt;t7/&gt; &lt;t8/&gt;applicable&lt;t9/&gt; &lt;t10/&gt;m&lt;t11/&gt;a&lt;t12/&gt;n&lt;t13/&gt;ua&lt;t14/&gt;l&lt;t15/&gt; &lt;t16/&gt;(&lt;t17/&gt;O&lt;t18/&gt;n&lt;t19/&gt;e&lt;t20/&gt; &lt;t21/&gt;m&lt;t22/&gt;o&lt;t23/&gt;r&lt;t24/&gt;e&lt;t25/&gt; &lt;t26/&gt;c&lt;t27/&gt;ab&lt;t28/&gt;l&lt;t29/&gt;e&lt;t30/&gt; &lt;t31/&gt;g&lt;t32/&gt;l&lt;t33/&gt;an&lt;t34/&gt;d&lt;t35/&gt; &lt;t36/&gt;i&lt;t37/&gt;s&lt;t38/&gt; &lt;t39/&gt;at&lt;t40/&gt; &lt;t41/&gt;opposite&lt;t42/&gt; &lt;t43/&gt;side.&lt;t44/&gt; &lt;t45/&gt;It&lt;t46/&gt; &lt;t47/&gt;is&lt;t48/&gt; &lt;t49/&gt;also&lt;t50/&gt; &lt;t51/&gt;applicable&lt;t52/&gt; &lt;t53/&gt;to&lt;t54/&gt; &lt;t55/&gt;t&lt;t56/&gt;his&lt;t57/&gt; &lt;t58/&gt;manual&lt;t59/&gt;.&lt;t60/&gt;)&lt;t61/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054408Z" creationid="CCYU" creationdate="20141025T054408Z">
+        <seg>本手冊適用於此電線接頭。(對向有另一組電線接頭，也適用於本手冊)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;his&lt;t1/&gt; &lt;t2/&gt;cable&lt;t3/&gt; &lt;t4/&gt;gland&lt;t5/&gt; &lt;t6/&gt;is&lt;t7/&gt; &lt;t8/&gt;applicable&lt;t9/&gt; &lt;t10/&gt;to&lt;t11/&gt; &lt;t12/&gt;t&lt;t13/&gt;his&lt;t14/&gt; &lt;t15/&gt;manual&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054152Z" creationid="CCYU" creationdate="20141025T054152Z">
+        <seg>本手冊適用於此電線接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T&lt;t0/&gt;ightening&lt;t1/&gt; &lt;t2/&gt;torque&lt;t3/&gt;:&lt;t4/&gt; &lt;t5/&gt;0.63&lt;t6/&gt;～&lt;t7/&gt; &lt;t8/&gt;0.9&lt;t9/&gt; &lt;t10/&gt;Nm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040134Z" creationid="CCYU" creationdate="20141025T040134Z">
@@ -44177,6 +44193,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044231Z">
         <seg>tgel：開始注入砂漿到完成鋼筋設置的最大時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to&lt;t0/&gt; &lt;t1/&gt;t&lt;t2/&gt;his</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054409Z" creationid="CCYU" creationdate="20141025T054409Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
