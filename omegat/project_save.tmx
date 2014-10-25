@@ -8678,6 +8678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crimped&lt;t0/&gt; &lt;t1/&gt;t&lt;t2/&gt;erminal&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;≧&lt;t6/&gt;4mm&lt;t7/&gt;2&lt;t8/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031714Z" creationid="CCYU" creationdate="20141025T031714Z">
+        <seg>壓接端子 (≧ 4mm2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Critical Edge Distance &lt;t0/&gt;c&lt;t1/&gt;ac&lt;t2/&gt;: &lt;t3/&gt;In lieu of ACI 318 D.8.6, &lt;t4/&gt;c&lt;t5/&gt;ac&lt;t6/&gt; must be determined as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094058Z">
@@ -14445,8 +14453,8 @@
       <tuv lang="EN-US">
         <seg>Hex&lt;t0/&gt; &lt;t1/&gt;Socket&lt;t2/&gt; &lt;t3/&gt;Head&lt;t4/&gt; &lt;t5/&gt;Cap&lt;t6/&gt; &lt;t7/&gt;w&lt;t8/&gt;i&lt;t9/&gt;t&lt;t10/&gt;h&lt;t11/&gt; &lt;t12/&gt;spring&lt;t13/&gt; &lt;t14/&gt;w&lt;t15/&gt;asher.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030840Z" creationid="CCYU" creationdate="20141025T030840Z">
-        <seg>六角螺帽及彈簧墊片。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031652Z" creationid="CCYU" creationdate="20141025T030840Z">
+        <seg>六角螺帽及彈簧墊圈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25880,6 +25888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;c&lt;t1/&gt;r&lt;t2/&gt;e&lt;t3/&gt;w&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;M&lt;t7/&gt;4&lt;t8/&gt;)&lt;t9/&gt;＊&lt;t10/&gt;１</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031440Z" creationid="CCYU" creationdate="20141025T031440Z">
+        <seg>螺絲 (M4)＊１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAFETY DATA SHEET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160604Z">
@@ -27852,6 +27868,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103834Z" creationid="Judy" creationdate="20141022T103834Z">
         <seg>短管運動持續至回饋線力與輸入信號力相等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spring&lt;t0/&gt; &lt;t1/&gt;Washer&lt;t2/&gt;＊１</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031600Z" creationid="CCYU" creationdate="20141025T031501Z">
+        <seg>彈簧墊圈＊１</seg>
       </tuv>
     </tu>
     <tu>
@@ -37721,6 +37745,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Washer&lt;t0/&gt;＊１</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031547Z" creationid="CCYU" creationdate="20141025T031547Z">
+        <seg>墊圈＊１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waste Oil Area is the place where all the waste oil (drained from machines or from drip pans) is taken and dumped into a tank or drum for later disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T082717Z">
@@ -45009,6 +45041,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031301Z" creationid="CCYU" creationdate="20141025T031301Z">
         <seg>・連接接地線至壓接端子 (≧ 4mm2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>・&lt;t0/&gt; It is &lt;t1/&gt;shown&lt;t2/&gt; in Fig.5 how to connect earth w ire to grounding Terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031416Z" creationid="CCYU" creationdate="20141025T031416Z">
+        <seg>・圖 5 中描繪了連接接地線至接地端子之方式。</seg>
       </tuv>
     </tu>
     <tu>
