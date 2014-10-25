@@ -17702,6 +17702,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intr&lt;t0/&gt;oduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020654Z" creationid="CCYU" creationdate="20141025T020654Z">
+        <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205610Z">
@@ -37460,6 +37468,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T114348Z">
         <seg>當變壓器使用額定電壓至一次繞組，而額定電流通過二次繞組端子時，變壓器之雙繞組額定功率相關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this product is handled, the person who has knowledge about explosion proof construction of this product should be worked according to this manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020628Z" creationid="CCYU" creationdate="20141025T020628Z">
+        <seg>當處理本產品時，應由具有本產品防爆安裝知識之人員根據本手冊施工。</seg>
       </tuv>
     </tu>
     <tu>
