@@ -22231,6 +22231,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTICE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075237Z" creationid="CCYU" creationdate="20141025T075237Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nam e Plate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054906Z" creationid="CCYU" creationdate="20141025T054906Z">
@@ -28836,6 +28844,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T130040Z">
         <seg>特別檢查：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special conditions of use: &lt;t0/&gt;If Cable Gland is not used, &lt;t1/&gt;then&lt;t2/&gt; conduit run from unit to a sealing fitting must be limited to 18” (457 mm).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075145Z" creationid="CCYU" creationdate="20141025T075145Z">
+        <seg>特殊使用條件：若不使用電線接頭，由裝置至密封固定之管道長度須限制於 18” (457 mm) 以下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36400,6 +36416,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This document is property of SENTECH, INC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075258Z" creationid="CCYU" creationdate="20141025T075258Z">
+        <seg>本文件為 SENTECH, INC 財產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This edition includes the following significant technical changes with respect to the previous edition:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134739Z">
@@ -39179,8 +39203,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Warning: &lt;t0/&gt;To reduce the risk of ignition of hazardous atmosphere, conduit runs must have a sealing fitting connected within 18 inches (457 mm) of the part wall enclosure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074406Z" creationid="CCYU" creationdate="20141025T073014Z">
-        <seg>警告：為了降低於危險氣體中點燃火之風險，管道密封接頭連接至零件外殼牆面需在 18 英寸 (457 毫米) 以內。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075204Z" creationid="CCYU" creationdate="20141025T073014Z">
+        <seg>警告：為了降低於危險氣體中點燃火之風險，管道密封接頭連接至零件外殼牆面需在 18 英寸 (457 mm) 以內。</seg>
       </tuv>
     </tu>
     <tu>
