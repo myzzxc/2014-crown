@@ -34335,6 +34335,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This Instruction Manual describes only items relevant to explosion-proof.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020759Z" creationid="CCYU" creationdate="20141025T020759Z">
+        <seg>本說明手冊僅說明防爆相關項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This MSDS contains all of the information required by the Controlled Products Regulations (CPR).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184440Z">
