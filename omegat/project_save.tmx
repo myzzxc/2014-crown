@@ -7757,6 +7757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clamp</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033528Z" creationid="CCYU" creationdate="20141025T033528Z">
+        <seg>夾器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Classes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030945Z">
@@ -14037,6 +14045,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T150807Z">
         <seg>Get medical attention if symptoms occur. 若有症狀則須就醫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033504Z" creationid="CCYU" creationdate="20141025T033504Z">
+        <seg>接頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -23379,6 +23395,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160718Z">
         <seg>Packaging 包裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033456Z" creationid="CCYU" creationdate="20141025T033456Z">
+        <seg>襯墊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packing Case</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033611Z" creationid="CCYU" creationdate="20141025T033450Z">
+        <seg>襯墊套</seg>
       </tuv>
     </tu>
     <tu>
@@ -37853,6 +37885,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171203Z">
         <seg>立即以大量肥皂與清水沖洗至少 15 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Washer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033500Z" creationid="CCYU" creationdate="20141025T033500Z">
+        <seg>墊圈</seg>
       </tuv>
     </tu>
     <tu>
