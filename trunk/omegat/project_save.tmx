@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Fig.8)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035250Z" creationid="CCYU" creationdate="20141025T035250Z">
+        <seg>(請見圖 8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Servo valve output lags electrical command signal).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131629Z" creationid="Judy" creationdate="20141022T115220Z">
@@ -7785,6 +7793,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033715Z" creationid="CCYU" creationdate="20141025T033528Z">
         <seg>夾板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clamp the cable passing through Item 7 by item 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035511Z" creationid="CCYU" creationdate="20141025T035511Z">
+        <seg>以零件 8 將通過零件 7 之電線夾上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36204,6 +36220,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124516Z">
         <seg>因此，我們利用 PIV 技術來量測此非遽變性地滑以進一步地瞭解其位移之方向和規模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tighten item 7 until the distance of Item 3 is set to 2.5 mm from 1.5 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035241Z" creationid="CCYU" creationdate="20141025T035241Z">
+        <seg>鎖緊零件 7 直到零件 3 之距離由 1.5 mm 至 2.5 mm。</seg>
       </tuv>
     </tu>
     <tu>
