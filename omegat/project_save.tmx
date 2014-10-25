@@ -4075,6 +4075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceptable&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;open&lt;t4/&gt; w&lt;t5/&gt;hen&lt;t6/&gt; &lt;t7/&gt;ins&lt;t8/&gt;t&lt;t9/&gt;alling&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030936Z" creationid="CCYU" creationdate="20141025T030936Z">
+        <seg>當安裝電線時可打開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accidental release measures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084409Z">
@@ -12135,6 +12143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031043Z" creationid="CCYU" creationdate="20141025T031043Z">
+        <seg>圖 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figu&lt;t0/&gt;re D.2 — Additional connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141700Z">
@@ -14415,6 +14431,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023624Z" creationid="CCYU" creationdate="20141025T023624Z">
         <seg>六角螺帽 (M8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hex&lt;t0/&gt; &lt;t1/&gt;Socket&lt;t2/&gt; &lt;t3/&gt;Head&lt;t4/&gt; &lt;t5/&gt;Cap&lt;t6/&gt; &lt;t7/&gt;w&lt;t8/&gt;i&lt;t9/&gt;t&lt;t10/&gt;h&lt;t11/&gt; &lt;t12/&gt;spring&lt;t13/&gt; &lt;t14/&gt;w&lt;t15/&gt;asher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030840Z" creationid="CCYU" creationdate="20141025T030840Z">
+        <seg>六角螺帽及彈簧墊片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18483,6 +18507,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023535Z" creationid="CCYU" creationdate="20141025T023535Z">
         <seg>接線盒 (接線盒蓋)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction&lt;t0/&gt; &lt;t1/&gt;B&lt;t2/&gt;ox&lt;t3/&gt; &lt;t4/&gt;cover</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030929Z" creationid="CCYU" creationdate="20141025T030929Z">
+        <seg>接線盒蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -22867,6 +22899,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043443Z">
         <seg>分析結果顯示區域內地滑之最大水平位移為朝西北方向 24 公尺，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outline of Junction Box &lt;t0/&gt;with component</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031051Z" creationid="CCYU" creationdate="20141025T031051Z">
+        <seg>接線盒元件圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -35824,6 +35864,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tightening</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030905Z" creationid="CCYU" creationdate="20141025T030905Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tightness tests and pressure tests for tanks for gas-filled transformers (refer to 60076¬15)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152418Z">
@@ -40945,6 +40993,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is&lt;t0/&gt; &lt;t1/&gt;10.4N&lt;t2/&gt;･&lt;t3/&gt;m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030921Z" creationid="CCYU" creationdate="20141025T030921Z">
+        <seg>安裝扭矩為 10.4 N･m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is&lt;t0/&gt; sum of the &lt;t1/&gt;d.c.&lt;t2/&gt; resistive losses in all windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144311Z">
@@ -43233,6 +43289,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044231Z">
         <seg>tgel：開始注入砂漿到完成鋼筋設置的最大時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>torque</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030907Z" creationid="CCYU" creationdate="20141025T030907Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
