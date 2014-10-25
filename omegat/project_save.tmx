@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Fig. 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025846Z" creationid="CCYU" creationdate="20141025T025846Z">
+        <seg>(請見圖 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Servo valve output lags electrical command signal).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131629Z" creationid="Judy" creationdate="20141022T115220Z">
@@ -17679,6 +17687,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install the cable from the customer’s equipment into the Junction Box</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025952Z" creationid="CCYU" creationdate="20141025T025952Z">
+        <seg>由客戶之設備端安裝電線至接線盒中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install the new filter on an inlet orifice and insert it into the filter bore.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142427Z" creationid="Judy" creationdate="20141022T142427Z">
@@ -22527,6 +22543,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only removing blanking elements to install the cables into the Junction Box assembly are permitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025835Z" creationid="CCYU" creationdate="20141025T025835Z">
+        <seg>遮蔽元件僅允許於安裝電線至接線盒組時拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only selected Registry of Toxic Effects of Chemical Substances (RTECS) data is presented here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180115Z">
@@ -25332,6 +25356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141903Z" creationid="Judy" creationdate="20141022T141903Z">
         <seg>由固定頭及進水口取出並丟棄 O-型環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove blanking element from junction box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030113Z" creationid="CCYU" creationdate="20141025T030113Z">
+        <seg>將遮蔽元件由接線盒上拆除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35776,6 +35808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title: Instruction Manual&lt;t0/&gt; &lt;t1/&gt;for JUNCTION BOX ASSEMBLY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025849Z" creationid="CCYU" creationdate="20141025T025849Z">
+        <seg>標題：接線盒組說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title: Technical Specification of Motor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044701Z">
@@ -36853,6 +36893,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T123800Z">
         <seg>不再使用時，請於電源插座拔下保溫電毯插頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unscrew the hex socket head cap screw s from&lt;t0/&gt; &lt;t1/&gt;the junction box cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030039Z" creationid="CCYU" creationdate="20141025T030039Z">
+        <seg>將接線盒蓋上之六角螺帽鬆開。</seg>
       </tuv>
     </tu>
     <tu>
