@@ -7084,6 +7084,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cable Conduit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033911Z" creationid="CCYU" creationdate="20141025T033911Z">
+        <seg>電線管道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cable&lt;t0/&gt; &lt;t1/&gt;G&lt;t2/&gt;land</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022536Z" creationid="CCYU" creationdate="20141025T022536Z">
@@ -7759,8 +7767,8 @@
       <tuv lang="EN-US">
         <seg>Clamp</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033528Z" creationid="CCYU" creationdate="20141025T033528Z">
-        <seg>夾器</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033715Z" creationid="CCYU" creationdate="20141025T033528Z">
+        <seg>夾板</seg>
       </tuv>
     </tu>
     <tu>
@@ -8730,6 +8738,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020454Z">
         <seg>劈裂破壞的臨界邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cross-recessed head machine screw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033732Z" creationid="CCYU" creationdate="20141025T033732Z">
+        <seg>十字螺絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,6 +19115,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T012821Z">
         <seg>地區服務和支援由世界各地超過 50 位經驗豐富的專員和國際銷售辦公室所建構之服務網提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locking screw with hexagon socket head</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033856Z" creationid="CCYU" creationdate="20141025T033856Z">
+        <seg>內六角固定螺絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -36064,6 +36088,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tightening&lt;t0/&gt; &lt;t1/&gt;torque&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt;0.63&lt;t5/&gt;～&lt;t6/&gt;0.9&lt;t7/&gt; &lt;t8/&gt;Nm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033929Z" creationid="CCYU" creationdate="20141025T033929Z">
+        <seg>安裝扭矩：0.63～0.9 Nm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tightness tests and pressure tests for tanks for gas-filled transformers (refer to 60076¬15)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152418Z">
@@ -37077,6 +37109,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141322Z">
         <seg>火車維修時置於底部以吸附油污和燃料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Union Nut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033814Z" creationid="CCYU" creationdate="20141025T033814Z">
+        <seg>接合螺帽</seg>
       </tuv>
     </tu>
     <tu>
