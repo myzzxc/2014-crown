@@ -4779,6 +4779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allen&lt;t0/&gt; &lt;t1/&gt;wrench</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033944Z" creationid="CCYU" creationdate="20141025T033944Z">
+        <seg>內六角扳手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allocation of a waste code number, according to the European Waste Catalogue, should be carried out in agreement with the regional waste disposal company.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T160714Z">
@@ -8906,6 +8914,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023203Z" creationid="CCYU" creationdate="20141025T023203Z">
         <seg>請勿拆解、鬆脫。更換 LVDT 請見第 6.3 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;on&lt;t1/&gt;’&lt;t2/&gt;t&lt;t3/&gt; &lt;t4/&gt;l&lt;t5/&gt;oo&lt;t6/&gt;s&lt;t7/&gt;e&lt;t8/&gt; &lt;t9/&gt;I&lt;t10/&gt;t&lt;t11/&gt;e&lt;t12/&gt;m&lt;t13/&gt; &lt;t14/&gt;1&lt;t15/&gt; &lt;t16/&gt;f&lt;t17/&gt;r&lt;t18/&gt;o&lt;t19/&gt;m&lt;t20/&gt; &lt;t21/&gt;J&lt;t22/&gt;un&lt;t23/&gt;c&lt;t24/&gt;t&lt;t25/&gt;i&lt;t26/&gt;o&lt;t27/&gt;n&lt;t28/&gt; &lt;t29/&gt;B&lt;t30/&gt;o&lt;t31/&gt;x&lt;t32/&gt; &lt;t33/&gt;a&lt;t34/&gt;ss&lt;t35/&gt;e&lt;t36/&gt;m&lt;t37/&gt;b&lt;t38/&gt;l&lt;t39/&gt;y</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034248Z" creationid="CCYU" creationdate="20141025T034248Z">
+        <seg>請勿將零件 1 由接線盒組上鬆脫</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18663,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Junction&lt;t0/&gt; &lt;t1/&gt;B&lt;t2/&gt;ox&lt;t3/&gt; &lt;t4/&gt;A&lt;t5/&gt;ss&lt;t6/&gt;e&lt;t7/&gt;m&lt;t8/&gt;b&lt;t9/&gt;l&lt;t10/&gt;y&lt;t11/&gt; &lt;t12/&gt;S&lt;t13/&gt;ide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034134Z" creationid="CCYU" creationdate="20141025T034134Z">
+        <seg>接線盒組側</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Junction&lt;t0/&gt; &lt;t1/&gt;B&lt;t2/&gt;ox&lt;t3/&gt; &lt;t4/&gt;cover</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030929Z" creationid="CCYU" creationdate="20141025T030929Z">
@@ -26060,6 +26084,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031440Z" creationid="CCYU" creationdate="20141025T031440Z">
         <seg>螺絲 (M4)＊１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;e&lt;t1/&gt;r&lt;t2/&gt;v&lt;t3/&gt;o&lt;t4/&gt;v&lt;t5/&gt;a&lt;t6/&gt;l&lt;t7/&gt;v&lt;t8/&gt;e&lt;t9/&gt; &lt;t10/&gt;/&lt;t11/&gt; &lt;t12/&gt;L&lt;t13/&gt;V&lt;t14/&gt;D&lt;t15/&gt;T&lt;t16/&gt; &lt;t17/&gt;S&lt;t18/&gt;i&lt;t19/&gt;de</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034045Z" creationid="CCYU" creationdate="20141025T034045Z">
+        <seg>伺服閥 / LVDT 側</seg>
       </tuv>
     </tu>
     <tu>
