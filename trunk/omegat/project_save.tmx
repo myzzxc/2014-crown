@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acceptable&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;open&lt;t4/&gt; &lt;t5/&gt;w&lt;t6/&gt;hen&lt;t7/&gt; &lt;t8/&gt;ins&lt;t9/&gt;t&lt;t10/&gt;alling&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023628Z" creationid="CCYU" creationdate="20141025T023628Z">
+        <seg>當安裝電線時可打開。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acceptable&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;open&lt;t4/&gt; &lt;t5/&gt;w&lt;t6/&gt;hen&lt;t7/&gt; &lt;t8/&gt;install&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;cable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023510Z" creationid="CCYU" creationdate="20141025T023510Z">
@@ -5671,6 +5679,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
         <seg>附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applicable Standar&lt;t0/&gt;ds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023752Z" creationid="CCYU" creationdate="20141025T023752Z">
+        <seg>適用標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -10855,6 +10871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023833Z" creationid="CCYU" creationdate="20141025T023833Z">
+        <seg>設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Especially the last advantage makes it regarded as an important green energy device and potentially one of the most promising solutions to the global warming problem.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212602Z">
@@ -12011,6 +12035,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110337Z">
         <seg>圖 9：具有和不具有移動式再生器之膨脹和壓縮腔體中的平均溫度變化比較圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023642Z" creationid="CCYU" creationdate="20141025T023642Z">
+        <seg>圖 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023742Z" creationid="CCYU" creationdate="20141025T023742Z">
+        <seg>圖 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -14279,6 +14319,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214907Z">
         <seg>此處 ‘‘階’’ 與數學基本方程式中的階無關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hex&lt;t0/&gt; &lt;t1/&gt;Socket&lt;t2/&gt; &lt;t3/&gt;Head&lt;t4/&gt; &lt;t5/&gt;Cap&lt;t6/&gt; &lt;t7/&gt;(M8)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023624Z" creationid="CCYU" creationdate="20141025T023624Z">
+        <seg>六角螺帽 (M8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21095,6 +21143,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nam&lt;t0/&gt;e Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023707Z" creationid="CCYU" creationdate="20141025T023707Z">
+        <seg>標示銘板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023744Z" creationid="CCYU" creationdate="20141025T023744Z">
+        <seg>標示銘板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name and &lt;t0/&gt;model:&lt;t1/&gt; &lt;t2/&gt;MEDISANA &lt;t3/&gt;Cellulite massager&lt;t4/&gt; &lt;t5/&gt;AC 850</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113952Z">
@@ -22627,6 +22691,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043443Z">
         <seg>分析結果顯示區域內地滑之最大水平位移為朝西北方向 24 公尺，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outline of Junction Box with component</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023654Z" creationid="CCYU" creationdate="20141025T023654Z">
+        <seg>接線盒元件圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -27072,6 +27144,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Size: 70mm×50mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023738Z" creationid="CCYU" creationdate="20141025T023738Z">
+        <seg>尺寸：70mm×50mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skin - Edema&lt;t0/&gt;    &lt;t1/&gt; Rabbit&lt;t2/&gt;      &lt;t3/&gt; 0&lt;t4/&gt;     &lt;t5/&gt;-&lt;t6/&gt;           &lt;t7/&gt;-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022438Z">
@@ -27556,6 +27636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T131556Z">
         <seg>不鏽鋼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standards</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023828Z" creationid="CCYU" creationdate="20141025T023828Z">
+        <seg>標準</seg>
       </tuv>
     </tu>
     <tu>
@@ -29720,6 +29808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;following&lt;t1/&gt; name plate is attached to the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023733Z" creationid="CCYU" creationdate="20141025T023733Z">
+        <seg>以下標示銘板貼於產品上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;noncatastrophic phenomenon was reported by local residents about 3 to 5 days after the Chi-Chi earthquake.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041627Z">
@@ -30124,6 +30220,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111937Z">
         <seg>此裝置設有防過度加熱裝置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The applicable standards&lt;t0/&gt; for this product are as follows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023813Z" creationid="CCYU" creationdate="20141025T023813Z">
+        <seg>以下為本產品適用標準。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43649,6 +43753,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094249Z">
         <seg>൤&lt;t0/&gt;௛&lt;t1/&gt;௛&lt;t2/&gt;೐೑&lt;t3/&gt;൨&lt;t4/&gt; 不可超過 2.4；以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>– General requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023855Z" creationid="CCYU" creationdate="20141025T023855Z">
+        <seg>— 一般規範</seg>
       </tuv>
     </tu>
     <tu>
