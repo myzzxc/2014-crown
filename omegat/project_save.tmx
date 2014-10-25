@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Ref.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021115Z" creationid="CCYU" creationdate="20141025T021115Z">
+        <seg>(參考 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Referring to tested XENO test sample)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070843Z">
@@ -5639,6 +5647,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015104Z">
         <seg>附錄 C 的負荷組合，&lt;t0/&gt; &lt;t1/&gt;的適當數值必須根據 ACI 318 D4.4 決定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application of Pr&lt;t0/&gt;oduct</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021216Z" creationid="CCYU" creationdate="20141025T021216Z">
+        <seg>產品應用</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044123Z">
         <seg>光纖測溫器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig. 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021118Z" creationid="CCYU" creationdate="20141025T021118Z">
+        <seg>圖 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18154,6 +18178,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231115Z">
         <seg>由每次循環之最大速度、 輸入熱量以及輸出功的數值判斷，每循環 500 步及 7,864 個單位網格可得到網格和時間的獨立解，本論文中使用此網格和時間步數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Junction Box assembly for ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; certified Ex-components consist of Cable gland and Redu&lt;t2/&gt;cer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021328Z" creationid="CCYU" creationdate="20141025T021057Z">
+        <seg>接線盒組經 ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; 認證之交貨元件包含電線接頭及變徑管接頭。</seg>
       </tuv>
     </tu>
     <tu>
