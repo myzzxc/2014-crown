@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Refer to MRJ05002, 6.3”Replace &lt;t0/&gt;Servovalve&lt;t1/&gt; and LVDT”.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060246Z" creationid="CCYU" creationdate="20141025T060246Z">
+        <seg>(參考 MRJ05002，6.3“更換伺服閥和 LVDT”)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Refer to MRJ05003, &lt;t2/&gt;6 ”&lt;t3/&gt;Installation”) Insert the cable through item 1, 3, 5~7, 10, 13.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035056Z" creationid="CCYU" creationdate="20141025T035056Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025846Z" creationid="CCYU" creationdate="20141025T025846Z">
         <seg>(請見圖 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(See Fig. 5)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060146Z" creationid="CCYU" creationdate="20141025T060146Z">
+        <seg>(請見圖 5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6131,6 +6147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble item 1~2, and screw it through the female screw on the &lt;t0/&gt;Servovalve&lt;t1/&gt; or LVDT.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060031Z" creationid="CCYU" creationdate="20141025T060031Z">
+        <seg>組裝零件 1~2，並以母頭螺絲鎖至伺服閥或 LVDT 上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assembled Item</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042328Z" creationid="CCYU" creationdate="20141025T042328Z">
@@ -7912,6 +7936,14 @@
         <seg>Clamp the cable passing through Item 7 by item 8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035511Z" creationid="CCYU" creationdate="20141025T035511Z">
+        <seg>以零件 8 將通過零件 7 之電線夾上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clamp the cable passing through item 7 by item 8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060159Z" creationid="CCYU" creationdate="20141025T060159Z">
         <seg>以零件 8 將通過零件 7 之電線夾上。</seg>
       </tuv>
     </tu>
@@ -12851,6 +12883,14 @@
         <seg>Fix Item 8 &lt;t0/&gt;with&lt;t1/&gt; Item 9 by plus driver.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035658Z" creationid="CCYU" creationdate="20141025T035658Z">
+        <seg>以十字起子固定零件 8 及零件 9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix item 8 &lt;t0/&gt;with&lt;t1/&gt; item 9 by plus driver.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060202Z" creationid="CCYU" creationdate="20141025T060202Z">
         <seg>以十字起子固定零件 8 及零件 9。</seg>
       </tuv>
     </tu>
@@ -18111,6 +18151,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert item 5~6 in item 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060112Z" creationid="CCYU" creationdate="20141025T060112Z">
+        <seg>插入零件 5~6 至零件 3 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert the cable through item 1, 3, 5~7, 10, 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060107Z" creationid="CCYU" creationdate="20141025T060107Z">
+        <seg>插入電線穿過零件 1、3、5~7、10、13。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert the static mixer and lock it in place (turn to the right).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014946Z">
@@ -18131,6 +18187,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125217Z">
         <seg>檢驗證明書 3.1 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install cables to Junction Box assembly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060228Z" creationid="CCYU" creationdate="20141025T060228Z">
+        <seg>安裝電線至接線盒組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26266,8 +26330,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Remove&lt;t0/&gt; &lt;t1/&gt;cables&lt;t2/&gt; &lt;t3/&gt;from&lt;t4/&gt; &lt;t5/&gt;Junction&lt;t6/&gt; &lt;t7/&gt;Box&lt;t8/&gt; &lt;t9/&gt;assembly.&lt;t10/&gt; (&lt;t11/&gt;Refer&lt;t12/&gt; &lt;t13/&gt;to&lt;t14/&gt; &lt;t15/&gt;MRJ05002,&lt;t16/&gt; &lt;t17/&gt;6.3” Replace &lt;t18/&gt;Servovalve&lt;t19/&gt; and LVDT”.)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055840Z" creationid="CCYU" creationdate="20141025T055840Z">
-        <seg>由接線盒組上拆除電線。(參考 MRJ05002，6.3“更換伺服閥和 LVDT”.)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060253Z" creationid="CCYU" creationdate="20141025T055840Z">
+        <seg>由接線盒組上拆除電線。(參考 MRJ05002，6.3“更換伺服閥和 LVDT”)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29700,6 +29764,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054152Z" creationid="CCYU" creationdate="20141025T054152Z">
         <seg>本手冊適用於此電線接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;ightening&lt;t1/&gt; &lt;t2/&gt;torque&lt;t3/&gt; &lt;t4/&gt;:&lt;t5/&gt; &lt;t6/&gt;0.63&lt;t7/&gt;～&lt;t8/&gt; &lt;t9/&gt;0.9&lt;t10/&gt; &lt;t11/&gt;Nm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060306Z" creationid="CCYU" creationdate="20141025T060306Z">
+        <seg>安裝扭矩：0.63～0.9 Nm</seg>
       </tuv>
     </tu>
     <tu>
@@ -36768,6 +36840,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threads engagement is over 3.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060045Z" creationid="CCYU" creationdate="20141025T060045Z">
+        <seg>鎖入深度需超過 3.5 螺紋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threads engagement: Over 3.5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055553Z" creationid="CCYU" creationdate="20141025T055553Z">
@@ -36880,10 +36960,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tighten item 11 in &lt;t0/&gt;item&lt;t1/&gt; 10 by Allen &lt;t2/&gt;w&lt;t3/&gt;rench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060207Z" creationid="CCYU" creationdate="20141025T060207Z">
+        <seg>以內六角扳手鎖緊零件 10 上之零件 11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tighten item 7 until the distance of Item 3 is set to 2.5 mm from 1.5 mm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042502Z" creationid="CCYU" creationdate="20141025T035241Z">
-        <seg>鎖緊零件 7 直到零件 3 之距離為 1.5 mm 至 2.5 mm。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060140Z" creationid="CCYU" creationdate="20141025T035241Z">
+        <seg>鎖緊零件 7 直到與零件 3 之距離為 1.5 mm 至 2.5 mm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tighten item 7 until the distance of item 3 is set to 2.5 mm from 1.5 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060136Z" creationid="CCYU" creationdate="20141025T060136Z">
+        <seg>鎖緊零件 7 直到與零件 3 之距離為 1.5 mm 至 2.5 mm。</seg>
       </tuv>
     </tu>
     <tu>
