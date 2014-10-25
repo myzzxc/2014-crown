@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"&lt;t0/&gt;n£&lt;t1/&gt; &lt;t2/&gt;USER INSTRUCTIONS &lt;t3/&gt;8&lt;t4/&gt;S&lt;t5/&gt;7&lt;t6/&gt;™</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080541Z" creationid="CCYU" creationdate="20141025T080541Z">
+        <seg>使用者說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>% VOLATILE by VOLUME</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174458Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084258Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/l3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080545Z" creationid="CCYU" creationdate="20141025T080545Z">
+        <seg>/13</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,6 +4075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ANGULAR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080650Z" creationid="CCYU" creationdate="20141025T080650Z">
+        <seg>角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ANSI/IEEE C57.12.00, General requirements for liquid-immersed distribution, power and regulating transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094452Z">
@@ -4119,6 +4143,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103341Z">
         <seg>ASTM F568M&lt;t0/&gt;5&lt;t1/&gt; Class 5.8 (同 ISO 898-1&lt;t2/&gt;2 &lt;t3/&gt;Class 5.8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AUTH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080502Z" creationid="CCYU" creationdate="20141025T080502Z">
+        <seg>作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -7188,6 +7220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CK</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080513Z" creationid="CCYU" creationdate="20141025T080513Z">
+        <seg>檢查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPANY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104843Z">
@@ -9354,6 +9394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180909Z">
         <seg>DOT 運輸：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DR</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080509Z" creationid="CCYU" creationdate="20141025T080509Z">
+        <seg>核准</seg>
       </tuv>
     </tu>
     <tu>
