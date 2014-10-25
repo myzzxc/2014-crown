@@ -13048,6 +13048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow Cable Gland manufacturer instructions for mounting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073941Z" creationid="CCYU" creationdate="20141025T073941Z">
+        <seg>按照電線接頭製造商之說明進行安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow all applicable local regulations for handling and storage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173007Z">
@@ -21119,6 +21127,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mount Flame proof ATEX certified Cable Gland at the NPT Cable exit port on the part.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073926Z" creationid="CCYU" creationdate="20141025T073926Z">
+        <seg>安裝 ATEX 認證之防火電線接頭於零件上之 NPT 電線出口埠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mount the part at mounting block with two mounting bolts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073347Z" creationid="CCYU" creationdate="20141025T073347Z">
@@ -25252,6 +25268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123222Z">
         <seg>Protect from heat and direct sunlight. 避免高溫與陽光直接照射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protect the cable with help &lt;t0/&gt;of conduit, if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074009Z" creationid="CCYU" creationdate="20141025T074009Z">
+        <seg>若有需要，則使用管道保護電線。</seg>
       </tuv>
     </tu>
     <tu>
