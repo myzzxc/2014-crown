@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-40 deg C to +135 deg C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074755Z" creationid="CCYU" creationdate="20141025T074755Z">
+        <seg>-40 度 C 至 +135 度 C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-5 °C in the case of transformers where both the transformer and cooler are intended for installation indoors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100542Z">
@@ -9894,6 +9902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the Cable wires form the supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074515Z" creationid="CCYU" creationdate="20141025T074515Z">
+        <seg>卸除所有供電之電線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disconnect the electrical lead to the servo valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113941Z" creationid="Judy" creationdate="20141022T113719Z">
@@ -13064,6 +13080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow Cable Gland manufacturer&lt;t0/&gt; instructions for dismantling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074525Z" creationid="CCYU" creationdate="20141025T074525Z">
+        <seg>按照電線接頭製造商之說明進行拆解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow all applicable local regulations for handling and storage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173007Z">
@@ -14189,6 +14213,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042820Z">
         <seg>鍍鋅和退火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gas groups:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074736Z" creationid="CCYU" creationdate="20141025T074736Z">
+        <seg>氣體群：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20039,6 +20071,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintenance and overhaul: &lt;t0/&gt;Not necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074626Z" creationid="CCYU" creationdate="20141025T074626Z">
+        <seg>維護與檢修：非必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maintenance is one thing, but being prepared in case of an emergency is another entirely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090409Z">
@@ -20347,6 +20387,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140215Z" creationid="CCYU" creationdate="20141023T140215Z">
         <seg>所有接埠最大供應壓力：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Surface Temperature:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074800Z" creationid="CCYU" creationdate="20141025T074800Z">
+        <seg>最高表面溫度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21267,6 +21315,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023133Z">
         <seg>Mutagenicity 誘突變性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074724Z" creationid="CCYU" creationdate="20141025T074724Z">
+        <seg>不適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -23531,6 +23587,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153558Z">
         <seg>三相變壓器之開繞組 (位於變壓器中相連接，但每相繞組之兩端點連至端子，例如</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating Temp.&lt;t0/&gt; Range:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074743Z" creationid="CCYU" creationdate="20141025T074743Z">
+        <seg>操作溫度範圍：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26440,6 +26504,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the part at mounting block by loosening two mounting bolts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074609Z" creationid="CCYU" creationdate="20141025T074609Z">
+        <seg>拆除兩顆固定螺絲將零件由安裝台上鬆脫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the servo valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z" creationid="Judy" creationdate="20141022T113927Z">
@@ -26492,6 +26564,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135347Z" creationid="CCYU" creationdate="20141023T135347Z">
         <seg>於未授權維修機夠進行維修將使 Moog 保固失效並可能使效能衰退或產生安全性問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repair: &lt;t0/&gt;Not repairable &lt;t1/&gt;Adjustment: &lt;t2/&gt;Not required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074711Z" creationid="CCYU" creationdate="20141025T074711Z">
+        <seg>維修：無法維修 調整：不需要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27516,6 +27596,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071919Z">
         <seg>系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe use parameters:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074729Z" creationid="CCYU" creationdate="20141025T074729Z">
+        <seg>安全使用參數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37693,6 +37781,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135759Z">
         <seg>火車洩漏量比其它任何大型機台更多，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training instructions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074715Z" creationid="CCYU" creationdate="20141025T074715Z">
+        <seg>培訓說明：</seg>
       </tuv>
     </tu>
     <tu>
