@@ -13601,6 +13601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore tightening torque is 10.4 N&lt;t0/&gt;･&lt;t1/&gt;m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030520Z" creationid="CCYU" creationdate="20141025T030520Z">
+        <seg>螺帽安裝之扭矩值為 10.4 N&lt;t0/&gt;･&lt;t1/&gt;m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Furthermore, PIV is also convenient and good at long term monitoring on non-catastrophic landslides or creep due to tectonically with periodically taking of images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T160723Z">
@@ -19291,6 +19299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025205Z" creationid="CCYU" creationdate="20141025T025205Z">
         <seg>請確保勿損傷接線盒體與盒蓋表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the hex socket head cap screws are f&lt;t2/&gt;ixed evenly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030750Z" creationid="CCYU" creationdate="20141025T030750Z">
+        <seg>確保螺帽均勻地鎖上。</seg>
       </tuv>
     </tu>
     <tu>
