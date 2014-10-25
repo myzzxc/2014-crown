@@ -10023,6 +10023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t exceed the rated value (See section 6.4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025105Z" creationid="CCYU" creationdate="20141025T025105Z">
+        <seg>請勿超過額定值 (見第 6.4 節)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024646Z">
@@ -16663,6 +16671,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to keep the explosion-proof performance of Junction Box assembly&lt;t0/&gt;, parts w &lt;t1/&gt;hich&lt;t2/&gt; meet ATEX/&lt;t3/&gt;IECEx&lt;t4/&gt; &lt;t5/&gt;explosion-proof standard should be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024911Z" creationid="CCYU" creationdate="20141025T024911Z">
+        <seg>應使用符合 ATEX/IECEx 防爆標準之零件以保持防爆性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to keep the explosion-proof performance, never repair and modify.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024815Z" creationid="CCYU" creationdate="20141025T024815Z">
@@ -19215,10 +19231,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure &lt;t0/&gt;not to damage the cable when w&lt;t1/&gt;iring it inside the box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025003Z" creationid="CCYU" creationdate="20141025T025003Z">
+        <seg>於接線盒中接線時請確保勿損傷電線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the pow&lt;t0/&gt;er is OFF before opening the Junction Box cover.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024724Z" creationid="CCYU" creationdate="20141025T024724Z">
         <seg>打開接線盒蓋前請確保電源關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure to ground the earth w ire.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025034Z" creationid="CCYU" creationdate="20141025T025034Z">
+        <seg>請確認連接接地線。</seg>
       </tuv>
     </tu>
     <tu>
