@@ -11711,6 +11711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fi&lt;t0/&gt;g.6 Internal Grounding Terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032533Z" creationid="CCYU" creationdate="20141025T032533Z">
+        <seg>圖 6 內部接地端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fiberoptic&lt;t0/&gt; Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044123Z">
@@ -19151,6 +19159,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>M3&lt;t0/&gt; &lt;t1/&gt;Screw&lt;t2/&gt; &lt;t3/&gt;Earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032406Z" creationid="CCYU" creationdate="20141025T032406Z">
+        <seg>M3 螺絲接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MACHINES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071906Z">
@@ -25584,6 +25600,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace &lt;t0/&gt;Servovalve&lt;t1/&gt; and LVDT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032551Z" creationid="CCYU" creationdate="20141025T032551Z">
+        <seg>更換伺服閥和 LVDT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace filter element and check for dirty hydraulic fluid in system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132001Z" creationid="CCYU" creationdate="20141022T132001Z">
@@ -28876,6 +28900,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T144304Z">
         <seg>系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;erminal&lt;t1/&gt; &lt;t2/&gt;block</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032348Z" creationid="CCYU" creationdate="20141025T032348Z">
+        <seg>端子台</seg>
       </tuv>
     </tu>
     <tu>
@@ -38613,6 +38645,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094054Z">
         <seg>當抽頭開關完全組裝於變壓器上，應執行下列操作程序無故障：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With&lt;t0/&gt; &lt;t1/&gt;crimp&lt;t2/&gt; &lt;t3/&gt;contac&lt;t4/&gt;t&lt;t5/&gt; &lt;t6/&gt;f&lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;M3&lt;t10/&gt; &lt;t11/&gt;screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032459Z" creationid="CCYU" creationdate="20141025T032459Z">
+        <seg>使用壓接或 M3 螺絲</seg>
       </tuv>
     </tu>
     <tu>
