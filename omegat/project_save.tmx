@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;for&lt;t1/&gt; &lt;t2/&gt;Diff.&lt;t3/&gt; &lt;t4/&gt;P&lt;t5/&gt;r&lt;t6/&gt;e&lt;t7/&gt;ss&lt;t8/&gt;.&lt;t9/&gt; &lt;t10/&gt;SW&lt;t11/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023114Z" creationid="CCYU" creationdate="20141025T022952Z">
+        <seg>(用於壓差開關)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;informative&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142659Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125835Z">
         <seg>(&lt;t0/&gt;d &lt;t1/&gt;：鋼筋標稱直徑；h：鋼筋裂口高度)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(for&lt;t0/&gt; &lt;t1/&gt;Servovalve&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023250Z" creationid="CCYU" creationdate="20141025T023250Z">
+        <seg>(用於伺服閥)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6980,6 +6996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cable&lt;t0/&gt; &lt;t1/&gt;G&lt;t2/&gt;land&lt;t3/&gt; &lt;t4/&gt;(&lt;t5/&gt;f&lt;t6/&gt;o&lt;t7/&gt;r&lt;t8/&gt; &lt;t9/&gt;L&lt;t10/&gt;V&lt;t11/&gt;D&lt;t12/&gt;T&lt;t13/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023110Z" creationid="CCYU" creationdate="20141025T023110Z">
+        <seg>電纜接頭 (用於 LVDT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canadian Sphagnum Peat Moss 100%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
@@ -8734,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;o&lt;t1/&gt; &lt;t2/&gt;no&lt;t3/&gt;t&lt;t4/&gt; &lt;t5/&gt;d&lt;t6/&gt;i&lt;t7/&gt;s&lt;t8/&gt;a&lt;t9/&gt;ss&lt;t10/&gt;e&lt;t11/&gt;m&lt;t12/&gt;b&lt;t13/&gt;l&lt;t14/&gt;e&lt;t15/&gt;,&lt;t16/&gt; &lt;t17/&gt;l&lt;t18/&gt;oo&lt;t19/&gt;s&lt;t20/&gt;e.&lt;t21/&gt; &lt;t22/&gt;S&lt;t23/&gt;ee&lt;t24/&gt; &lt;t25/&gt;section&lt;t26/&gt; &lt;t27/&gt;6.3&lt;t28/&gt; &lt;t29/&gt;for&lt;t30/&gt; &lt;t31/&gt;replace&lt;t32/&gt; &lt;t33/&gt;t&lt;t34/&gt;h&lt;t35/&gt;e&lt;t36/&gt; &lt;t37/&gt;L&lt;t38/&gt;V&lt;t39/&gt;D&lt;t40/&gt;T&lt;t41/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023203Z" creationid="CCYU" creationdate="20141025T023203Z">
+        <seg>請勿拆解、鬆脫。更換 LVDT 請見第 6.3 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DANGER SYMBOL</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140457Z">
@@ -9858,6 +9890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130017Z">
         <seg>請勿清洗暖腳機！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do&lt;t0/&gt; &lt;t1/&gt;not</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023222Z" creationid="CCYU" creationdate="20141025T023222Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -24719,6 +24759,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reducer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023213Z" creationid="CCYU" creationdate="20141025T023213Z">
+        <seg>變徑管接頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduction for seismic shear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013350Z">
@@ -39380,6 +39428,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041119Z">
         <seg>d0 	鑽頭標稱直徑，請參閱附件 B6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d&lt;t0/&gt;i&lt;t1/&gt;s&lt;t2/&gt;a&lt;t3/&gt;ss&lt;t4/&gt;e&lt;t5/&gt;m&lt;t6/&gt;b&lt;t7/&gt;l&lt;t8/&gt;e&lt;t9/&gt;,&lt;t10/&gt; &lt;t11/&gt;l&lt;t12/&gt;oo&lt;t13/&gt;s&lt;t14/&gt;e.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023234Z" creationid="CCYU" creationdate="20141025T023218Z">
+        <seg>請勿拆解、鬆脫。</seg>
       </tuv>
     </tu>
     <tu>
