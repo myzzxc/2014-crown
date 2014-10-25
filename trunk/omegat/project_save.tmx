@@ -12255,6 +12255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.7 Internal Structure of Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034320Z" creationid="CCYU" creationdate="20141025T034320Z">
+        <seg>圖 7 電線接頭內部結構</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig.7) from Junction Box assembly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032710Z" creationid="CCYU" creationdate="20141025T032710Z">
@@ -19167,6 +19175,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loose item 10 by spanner.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034544Z" creationid="CCYU" creationdate="20141025T034544Z">
+        <seg>以扳手放鬆零件 10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loose item 11 by Allen w&lt;t1/&gt;rench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034519Z" creationid="CCYU" creationdate="20141025T034519Z">
+        <seg>以內六角扳手放鬆零件 11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loose item 9.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034612Z" creationid="CCYU" creationdate="20141025T034612Z">
+        <seg> 1Loose item 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loose product is ideal for use in cleaning the service area itself as well as the train engine compartment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134216Z">
@@ -22847,6 +22879,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Junction Box cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034432Z" creationid="CCYU" creationdate="20141025T034353Z">
+        <seg>打開接線盒蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open windings do not have a clock number notation because the phase relationship of these windings with other windings depends on the external connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153618Z">
@@ -24656,6 +24696,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pull out Item 3~9 from item1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034609Z" creationid="CCYU" creationdate="20141025T034609Z">
+        <seg>將零件 3~9 由零件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Push the reinforcing bar into the anchor hole while turning slightly to ensure positive distribution of the adhesive until the embedment depth is reached.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T083210Z">
@@ -25644,6 +25692,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030113Z" creationid="CCYU" creationdate="20141025T030113Z">
         <seg>將遮蔽元件由接線盒上拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove cables from ter&lt;t0/&gt;minal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034427Z" creationid="CCYU" creationdate="20141025T034427Z">
+        <seg>將電線由端子上拆除。</seg>
       </tuv>
     </tu>
     <tu>
