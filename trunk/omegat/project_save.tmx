@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(2)&lt;t0/&gt; &lt;t1/&gt;How to connect the internal grounding terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031839Z" creationid="CCYU" creationdate="20141025T031839Z">
+        <seg>(2) 如何連接內部接地端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(20 °C (68 °F); Solvent: Water)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104558Z">
@@ -12167,6 +12175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.5 External Grounding Terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031824Z" creationid="CCYU" creationdate="20141025T031824Z">
+        <seg>圖 5 外部接地端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figu&lt;t0/&gt;re D.2 — Additional connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141700Z">
@@ -13661,6 +13677,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z">
         <seg>另外，引擎具有移動元件及動力活塞；因此計算範圍的體積隨時間變化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G&lt;t0/&gt;rounding&lt;t1/&gt; &lt;t2/&gt;T&lt;t3/&gt;erminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031722Z" creationid="CCYU" creationdate="20141025T031722Z">
+        <seg>接地端子</seg>
       </tuv>
     </tu>
     <tu>
@@ -45289,6 +45313,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T153931Z">
         <seg>&lt;t0/&gt;&lt;t1/&gt;fischer FIS EM 390 S 或 fischer FIS EM 585 S 黏著劑匣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>＊&lt;t0/&gt;１：&lt;t1/&gt; &lt;t2/&gt;Stainless&lt;t3/&gt; &lt;t4/&gt;St&lt;t5/&gt;eel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031745Z" creationid="CCYU" creationdate="20141025T031745Z">
+        <seg>＊１：不鏽鋼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
