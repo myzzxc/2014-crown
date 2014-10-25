@@ -7933,6 +7933,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close Junction Box cover and tighten M8 screw s by 10.4N&lt;t0/&gt;･&lt;t1/&gt;m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040034Z" creationid="CCYU" creationdate="20141025T040034Z">
+        <seg>關上接線盒並以 M8 螺絲鎖緊至扭矩值 10.4N･m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code validation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211407Z">
@@ -8338,6 +8346,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T143438Z">
         <seg>Conforms to Regulation (EC) No. 1907/2006 (REACH), Annex II - Germany 符合規章 (EC) 編號 1907/2006 號 (REACH)，附件 II - 德國</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connect cables to terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035948Z" creationid="CCYU" creationdate="20141025T035948Z">
+        <seg>連接電線至端子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18611,6 +18627,38 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134105Z">
         <seg>若無另行規定，將以 '最大電流抽頭' (通常為具有最大負載損耗之抽頭) 測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It&lt;t0/&gt;em&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;.&lt;t4/&gt;3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040125Z" creationid="CCYU" creationdate="20141025T040125Z">
+        <seg>零件編號 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It&lt;t0/&gt;em&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;.&lt;t4/&gt;5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040136Z" creationid="CCYU" creationdate="20141025T040136Z">
+        <seg>零件編號 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It&lt;t0/&gt;em&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;.&lt;t4/&gt;7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040123Z" creationid="CCYU" creationdate="20141025T040123Z">
+        <seg>零件編號 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It&lt;t0/&gt;em&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;.&lt;t4/&gt;9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040128Z" creationid="CCYU" creationdate="20141025T040128Z">
+        <seg>零件編號 9</seg>
       </tuv>
     </tu>
     <tu>
@@ -29184,6 +29232,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;ightening&lt;t1/&gt; &lt;t2/&gt;torque&lt;t3/&gt;:&lt;t4/&gt; &lt;t5/&gt;0.63&lt;t6/&gt;～&lt;t7/&gt; &lt;t8/&gt;0.9&lt;t9/&gt; &lt;t10/&gt;Nm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040134Z" creationid="CCYU" creationdate="20141025T040134Z">
+        <seg>安裝扭矩：0.63～0.9 Nm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TABLE 1—DESIGN TABLE INDEX</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045411Z">
@@ -36236,6 +36292,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124516Z">
         <seg>因此，我們利用 PIV 技術來量測此非遽變性地滑以進一步地瞭解其位移之方向和規模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tighte&lt;t2/&gt;n item 11 in &lt;t3/&gt;item&lt;t4/&gt; 10 by Allen w&lt;t5/&gt;rench.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035927Z" creationid="CCYU" creationdate="20141025T035927Z">
+        <seg>以內六角扳手鎖緊零件 10 上之零件 11。</seg>
       </tuv>
     </tu>
     <tu>
