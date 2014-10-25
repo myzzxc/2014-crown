@@ -4979,6 +4979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of connection for the terminal block in Junction box is &lt;t2/&gt;shown&lt;t3/&gt; in Fig.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024623Z" creationid="CCYU" creationdate="20141025T024623Z">
+        <seg>圖 3 為接線盒中之端子台連接範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061908Z">
@@ -12071,6 +12079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.3 An example of connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024633Z" creationid="CCYU" creationdate="20141025T024633Z">
+        <seg>圖 3 連接範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figu&lt;t0/&gt;re D.2 — Additional connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141700Z">
@@ -16647,6 +16663,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to keep the explosion-proof performance, never repair and modify.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024815Z" creationid="CCYU" creationdate="20141025T024815Z">
+        <seg>請勿自行維修或改裝以保持防爆性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to limit the corresponding reinforcement of the winding in question, it is possible to specify a maximum current tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125326Z">
@@ -17547,6 +17571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073247Z">
         <seg>輸入： 100 - 240 V&lt;t3/&gt;~;&lt;t4/&gt; 50 - 60 &lt;t5/&gt;Hz;&lt;t6/&gt; 500 mA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ins&lt;t0/&gt;tallation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024641Z" creationid="CCYU" creationdate="20141025T024641Z">
+        <seg>安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -19179,6 +19211,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173815Z">
         <seg>工作區應設有洗手設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the pow&lt;t0/&gt;er is OFF before opening the Junction Box cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024724Z" creationid="CCYU" creationdate="20141025T024724Z">
+        <seg>打開接線盒蓋前請確保電源關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35616,6 +35656,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Title: Instruction Manu&lt;t0/&gt;al &lt;t1/&gt;for JUNCTION BOX ASSEMBLY</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024637Z" creationid="CCYU" creationdate="20141025T024637Z">
+        <seg>標題：接線盒組說明手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title: Instruction Manual &lt;t0/&gt;for JUNCTION BOX ASSEMBLY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022158Z" creationid="CCYU" creationdate="20141025T022158Z">
@@ -37333,6 +37381,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173836Z">
         <seg>工作 / 衛生措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>War&lt;t0/&gt;ning</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024647Z" creationid="CCYU" creationdate="20141025T024647Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
