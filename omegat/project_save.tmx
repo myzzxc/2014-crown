@@ -6163,6 +6163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assembly instructions:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073027Z" creationid="CCYU" creationdate="20141025T073027Z">
+        <seg>安裝指示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
@@ -37857,6 +37865,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn off the &lt;t0/&gt;power before connections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073048Z" creationid="CCYU" creationdate="20141025T073048Z">
+        <seg>連接前關閉電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two bucket system is the most cost effective.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063331Z">
@@ -38957,6 +38973,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024647Z" creationid="CCYU" creationdate="20141025T024647Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: &lt;t0/&gt;To reduce the risk of ignition of hazardous atmosphere, conduit runs must have a sealing fitting connected within 18 inches (457 mm) of the part wall enclosure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073014Z" creationid="CCYU" creationdate="20141025T073014Z">
+        <seg>警告：為了降低於危險氣體中點燃火之風險，管道必須有密封接頭連接至零件外殼牆面 18 英寸 (457 毫米) 以內。</seg>
       </tuv>
     </tu>
     <tu>
