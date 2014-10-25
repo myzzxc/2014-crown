@@ -19951,6 +19951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Made in USA, year of Manufacture -40 deg C &lt;=Tamb &lt;=135 deg C Input 8 VAC RMS, 5 kHz, 1.0 VA Ex &lt;t0/&gt;d IIC T3 Gb IECEX ITS 13.0012X ITS03ATEX11531X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072703Z" creationid="CCYU" creationdate="20141025T072703Z">
+        <seg>美國製造，製造年份 -40 度 C &lt;=Tamb &lt;=135 度 C 輸入 8 VAC RMS，5 kHz, 1.0 VA Ex &lt;t0/&gt;d IIC T3 Gb IECEX ITS 13.0012X ITS03ATEX11531X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magnet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104404Z" creationid="Judy" creationdate="20141022T104404Z">
