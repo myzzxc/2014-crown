@@ -7062,8 +7062,8 @@
       <tuv lang="EN-US">
         <seg>CAGE CODE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075917Z" creationid="CCYU" creationdate="20141025T075917Z">
-        <seg>框架規範</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080050Z" creationid="CCYU" creationdate="20141025T075917Z">
+        <seg>機構代碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -9182,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DATE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080237Z" creationid="CCYU" creationdate="20141025T080237Z">
+        <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DATE PREPARED:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134159Z">
@@ -9210,6 +9218,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072211Z">
         <seg>直流牽引系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DECIMAL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080120Z" creationid="CCYU" creationdate="20141025T080120Z">
+        <seg>十進制</seg>
       </tuv>
     </tu>
     <tu>
@@ -9338,6 +9354,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180909Z">
         <seg>DOT 運輸：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRAWN BY &lt;t0/&gt;AP &lt;t1/&gt;APPROVED BY &lt;t2/&gt;DP</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080233Z" creationid="CCYU" creationdate="20141025T080233Z">
+        <seg>繪製 &lt;t0/&gt;AP &lt;t1/&gt;核准 &lt;t2/&gt;DP</seg>
       </tuv>
     </tu>
     <tu>
@@ -19911,6 +19935,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MATERIAL &lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080126Z" creationid="CCYU" creationdate="20141025T080126Z">
+        <seg>材料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MATS, BERMS, &amp; SPILL KITS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140121Z">
@@ -22251,6 +22283,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075237Z" creationid="CCYU" creationdate="20141025T075237Z">
         <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NTS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080207Z" creationid="CCYU" creationdate="20141025T080207Z">
+        <seg>無比例</seg>
       </tuv>
     </tu>
     <tu>
@@ -25672,6 +25712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REVISION RECORD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080312Z" creationid="CCYU" creationdate="20141025T080312Z">
+        <seg>修訂記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RGING, &amp; PRESSING COMPANIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T095238Z">
@@ -27084,6 +27132,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T142947Z">
         <seg>SAVE-SORB 視由精挑細選的細篩泥炭蘚所構成，其化學和物理性質可保持相當大的含水量 (或吸收量)，像是：燃料、烴類溶劑以及多數的化學液體產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SCALE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080139Z" creationid="CCYU" creationdate="20141025T080139Z">
+        <seg>比例</seg>
       </tuv>
     </tu>
     <tu>
