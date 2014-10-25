@@ -36152,6 +36152,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This electrical equipment part is intended to be used as a position sensor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T071535Z" creationid="CCYU" creationdate="20141025T071535Z">
+        <seg>此電氣設備部份將用作定位感測器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This eliminates the large quantity of liquid waste that they normally have to dispose as hazardous waste.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135629Z">
@@ -38373,6 +38381,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112453Z" creationid="Judy" creationdate="20141022T112453Z">
         <seg>使用 3/32 內六角扳手旋轉機械歸零調整器推針以達到所需流量歸零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Instructions (875EPL1 series):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T071432Z" creationid="CCYU" creationdate="20141025T071432Z">
+        <seg>使用者指南 (875EPL1 系列)：</seg>
       </tuv>
     </tu>
     <tu>
