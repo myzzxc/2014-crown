@@ -18184,8 +18184,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Junction Box assembly for ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; certified Ex-components consist of Cable gland and Redu&lt;t2/&gt;cer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021328Z" creationid="CCYU" creationdate="20141025T021057Z">
-        <seg>接線盒組經 ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; 認證之交貨元件包含電線接頭及變徑管接頭。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021936Z" creationid="CCYU" creationdate="20141025T021057Z">
+        <seg>接線盒組經 ATEX/&lt;t0/&gt;IECEx&lt;t1/&gt; 認證之防爆元件 (Ex-components) 包含電線接頭及變徑管接頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34911,6 +34911,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This product can be used in Zone 1 and Zone 2 of hazardous Gases atmospheres.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021912Z" creationid="CCYU" creationdate="20141025T021912Z">
+        <seg>本產品可用於危險This product can be used in Zone 1 and Zone 2 of hazardous Gases atmospheres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product does not meet the classification and &lt;t0/&gt;labelling&lt;t1/&gt; criteria given in the Dangerous Preparations Directive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063749Z">
@@ -34945,8 +34953,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This product is an explosion-proof ele&lt;t0/&gt;ctrical equipment of the following “Ex marking”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021537Z" creationid="CCYU" creationdate="20141025T021537Z">
-        <seg>本產品為以下 “認證符號”.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021923Z" creationid="CCYU" creationdate="20141025T021537Z">
+        <seg>本產品為以下 “防爆標示 (Ex marking)”之防爆電氣設備。</seg>
       </tuv>
     </tu>
     <tu>
