@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 M-screw (two typ&lt;t0/&gt;e of Straight or Elbow&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033301Z" creationid="CCYU" creationdate="20141025T033301Z">
+        <seg>1 M 型螺絲 (直式或彎頭兩種形式)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 Safety Information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081546Z">
@@ -18537,8 +18545,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Items</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032935Z" creationid="CCYU" creationdate="20141025T032935Z">
-        <seg>項目</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033022Z" creationid="CCYU" creationdate="20141025T032935Z">
+        <seg>零件</seg>
       </tuv>
     </tu>
     <tu>
@@ -22379,6 +22387,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133012Z" creationid="CCYU" creationdate="20141022T133012Z">
         <seg>O-型環&lt;t0/&gt; &lt;t1/&gt;進水口 O-型環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>O-ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033306Z" creationid="CCYU" creationdate="20141025T033306Z">
+        <seg>O-型環</seg>
       </tuv>
     </tu>
     <tu>
@@ -35834,8 +35850,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Those item products can be used only hazardous area that is &lt;t0/&gt;shown&lt;t1/&gt; on Section 4 “Applicable Standards” of the above.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024321Z" creationid="CCYU" creationdate="20141025T024321Z">
-        <seg>此類產品僅能用於上述第 4 節“適用標準”中所列之危險區域。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033008Z" creationid="CCYU" creationdate="20141025T024321Z">
+        <seg>此類零件產品僅能用於上述第 4 節“適用標準”中所列之危險區域。</seg>
       </tuv>
     </tu>
     <tu>
