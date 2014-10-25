@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Fig.3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055200Z" creationid="CCYU" creationdate="20141025T055200Z">
+        <seg>(請見圖 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Fig.7 and Fig.8)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032836Z" creationid="CCYU" creationdate="20141025T032836Z">
@@ -4115,6 +4123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accept to connect for flame proof enclosure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054740Z" creationid="CCYU" creationdate="20141025T054740Z">
+        <seg>可連接至防火外殼，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acceptable&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;open&lt;t4/&gt; &lt;t5/&gt;w&lt;t6/&gt;hen&lt;t7/&gt; &lt;t8/&gt;ins&lt;t9/&gt;t&lt;t10/&gt;alling&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;cable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023628Z" creationid="CCYU" creationdate="20141025T023628Z">
@@ -7176,6 +7192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033911Z" creationid="CCYU" creationdate="20141025T033911Z">
         <seg>電線管道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cable Suitable cable size in cable gland is φ4.5 toφ6.0.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054904Z" creationid="CCYU" creationdate="20141025T054904Z">
+        <seg>電線接頭中之適用電線直徑為 φ4.5 至 φ6.0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11967,6 +11991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig 2 Name Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054940Z" creationid="CCYU" creationdate="20141025T054940Z">
+        <seg>圖 2 標示銘板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig. 1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021118Z" creationid="CCYU" creationdate="20141025T021118Z">
@@ -12419,6 +12451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024633Z" creationid="CCYU" creationdate="20141025T024633Z">
         <seg>圖 3 連接範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig.3 T&lt;t0/&gt;w&lt;t1/&gt;o type of Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055615Z" creationid="CCYU" creationdate="20141025T055615Z">
+        <seg>圖 3 兩種電線接頭形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -18583,6 +18623,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is acceptable to use a liquid packing or seal tape for fix the cable gland angle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055527Z" creationid="CCYU" creationdate="20141025T055527Z">
+        <seg>可使用液體填料或密封膠帶以固定電線接頭角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also a more suitable tool than experiment to carry out parameter optimization.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T214038Z">
@@ -18731,6 +18779,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T042944Z">
         <seg>不可安裝於積水孔洞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It needs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055330Z" creationid="CCYU" creationdate="20141025T055330Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -20107,6 +20163,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021555Z">
         <seg>最大系統短路功率或電流，用於決定變壓器承受力 (若非無窮大)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum volume is up to 1,780cm3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054807Z" creationid="CCYU" creationdate="20141025T054801Z">
+        <seg>最大體積不超過 1,780cm3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21859,6 +21923,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141024T110221Z" creationid="CCYU" creationdate="20141024T110221Z">
         <seg>使用者須知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nam e Plate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054906Z" creationid="CCYU" creationdate="20141025T054906Z">
+        <seg>標示銘板</seg>
       </tuv>
     </tu>
     <tu>
@@ -28096,6 +28168,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Size: 14mm×50mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054931Z" creationid="CCYU" creationdate="20141025T054931Z">
+        <seg>尺寸：14mm×50mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size: 70mm×50mm</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023738Z" creationid="CCYU" creationdate="20141025T023738Z">
@@ -28428,6 +28508,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130213Z">
         <seg>詢價和訂購之抽頭規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification of Male-screw of the cable gland is 1/2NPT (ANSI/ASME B1.20.1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055303Z" creationid="CCYU" creationdate="20141025T055303Z">
+        <seg>電線接頭之公頭螺絲規格為 1/2NPT (ANSI/ASME B1.20.1)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31240,6 +31328,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The applicable standards for this product are as follo&lt;t0/&gt;w&lt;t1/&gt;s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055058Z" creationid="CCYU" creationdate="20141025T055058Z">
+        <seg>以下為本產品適用標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The applicable standards&lt;t0/&gt; for this product are as follows.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023813Z" creationid="CCYU" creationdate="20141025T023813Z">
@@ -32092,6 +32188,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231610Z">
         <seg>這項研究的重點為討論加入移動式再生器後所產生的熱傳導特性和引擎效能差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The follo&lt;t0/&gt;w&lt;t1/&gt;ing explosion-proof name plate is attached to the product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054920Z" creationid="CCYU" creationdate="20141025T054920Z">
+        <seg>以下防爆標示銘板貼於產品上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34880,6 +34984,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are t&lt;t0/&gt;w&lt;t1/&gt;o type of cable gland described in this manual.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055145Z" creationid="CCYU" creationdate="20141025T055145Z">
+        <seg>本手冊說明包含兩種形式之電線接頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are three important factors on the PIV precision: (a) patch size, (b) appearance, and (c) displacement distance: whole or fraction of a pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T135831Z">
@@ -36504,6 +36616,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tho&lt;t0/&gt;se item products can be used&lt;t1/&gt; only&lt;t2/&gt; &lt;t3/&gt;hazardous&lt;t4/&gt; &lt;t5/&gt;area that&lt;t6/&gt; &lt;t7/&gt;is&lt;t8/&gt; &lt;t9/&gt;sho&lt;t10/&gt;w&lt;t11/&gt;n on Section 4 “Applicable Standards” of the above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055218Z" creationid="CCYU" creationdate="20141025T055218Z">
+        <seg>此類零件產品僅能用於上述第 4 節“適用標準”中所列之危險區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those item products can be used only hazardous area that is &lt;t0/&gt;shown&lt;t1/&gt; on Section 4 “Applicable Standards” of the above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033008Z" creationid="CCYU" creationdate="20141025T024321Z">
@@ -36588,6 +36708,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050246Z">
         <seg>螺紋鋼柱：&lt;t0/&gt;螺紋鋼柱需如本報告表 5 中所述，為乾淨、截面方向連續之螺紋 (所有螺紋)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threads engagement: Over 3.5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055553Z" creationid="CCYU" creationdate="20141025T055553Z">
+        <seg>鎖入螺紋深度：超過 3.5 </seg>
       </tuv>
     </tu>
     <tu>
@@ -42533,6 +42661,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124510Z">
         <seg>輸出熱傳導率 (W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>over&lt;t0/&gt; 3.5 threads engagement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055415Z" creationid="CCYU" creationdate="20141025T055415Z">
+        <seg>鎖入深度需超過 3.5 螺紋。</seg>
       </tuv>
     </tu>
     <tu>
