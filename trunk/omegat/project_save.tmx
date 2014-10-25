@@ -24615,6 +24615,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please for&lt;t0/&gt;w&lt;t1/&gt;ard to Moog Japan after checking the follo&lt;t2/&gt;w&lt;t3/&gt;ing sheet &lt;t4/&gt;when&lt;t5/&gt; replacing &lt;t6/&gt;Servovalve&lt;t7/&gt; or LVDT(s)&lt;t8/&gt;.+</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060647Z" creationid="CCYU" creationdate="20141025T060647Z">
+        <seg>當更換伺服閥和 LVDT 時請於檢查後將下表寄送至日本 Moog。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please forw&lt;t0/&gt;ard to Moog Japan after checking the &lt;t1/&gt;following&lt;t2/&gt; sheet &lt;t3/&gt;when&lt;t4/&gt; replacing &lt;t5/&gt;Servovalve&lt;t6/&gt; or LVDT(s).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T041957Z" creationid="CCYU" creationdate="20141025T041957Z">
@@ -26604,6 +26612,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141024T110029Z" creationid="CCYU" creationdate="20141024T110029Z">
         <seg>修訂：原版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revie&lt;t0/&gt;w&lt;t1/&gt;ed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060716Z" creationid="CCYU" creationdate="20141025T060716Z">
+        <seg>審查：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36860,6 +36876,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T050246Z">
         <seg>螺紋鋼柱：&lt;t0/&gt;螺紋鋼柱需如本報告表 5 中所述，為乾淨、截面方向連續之螺紋 (所有螺紋)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Threads engagement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060705Z" creationid="CCYU" creationdate="20141025T060705Z">
+        <seg>鎖入螺紋深度</seg>
       </tuv>
     </tu>
     <tu>
