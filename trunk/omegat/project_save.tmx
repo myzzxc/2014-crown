@@ -34792,6 +34792,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This connects explosion pr&lt;t0/&gt;oof equipment betw&lt;t1/&gt;een our actuator and user equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024536Z" creationid="CCYU" creationdate="20141025T024536Z">
+        <seg>本產品用於連接本公司之作動器與使用者之設備之間的防爆設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This difference is generally expressed as a percentage of the no-load voltage of the winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050612Z">
@@ -35420,6 +35428,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104654Z">
         <seg>本研究由台灣科技部經費編號 &lt;t2/&gt;MOST&lt;t3/&gt; &lt;t4/&gt;103-2622-E-168-006-CC3&lt;t5/&gt; 贊助。&lt;t6/&gt; 作者對此經濟支援致上最高謝意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those item products can be used only hazardous area that is &lt;t0/&gt;shown&lt;t1/&gt; on Section 4 “Applicable Standards” of the above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024321Z" creationid="CCYU" creationdate="20141025T024321Z">
+        <seg>此類產品僅能用於上述第 4 節“適用標準”中所列之危險區域。</seg>
       </tuv>
     </tu>
     <tu>
