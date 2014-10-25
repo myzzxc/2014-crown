@@ -9022,6 +9022,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer Part Number (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072225Z" creationid="CCYU" creationdate="20141025T072225Z">
+        <seg>客戶零件編號 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Specification (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072244Z" creationid="CCYU" creationdate="20141025T072244Z">
+        <seg>客戶規格 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut off the &lt;t1/&gt;foil &lt;t2/&gt;tube clip before use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T003441Z">
@@ -20047,10 +20063,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufacture Name, Manufacturer Part Number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072157Z" creationid="CCYU" creationdate="20141025T072157Z">
+        <seg>製造商名稱、製造商零件編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manufacturer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084334Z">
         <seg>製造商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manufacturer Address</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072205Z" creationid="CCYU" creationdate="20141025T072205Z">
+        <seg>製造商地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -20129,8 +20161,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Marking: &lt;t0/&gt;The part is marked per Harmonized Standards EN60079-0 and EN60079-1 as follows for installation in Category 2 Hazardous locations as per ATEX Directive and per IECEX standards IEC 60079-0 &lt;t1/&gt;&amp; IEC 60079-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T071854Z" creationid="CCYU" creationdate="20141025T071854Z">
-        <seg>標示：零件標示Marking: &lt;t0/&gt;The part is marked per Harmonized Standards EN60079-0 and EN60079-1 as follows for installation in Category 2 Hazardous locations as per ATEX Directive and per IECEX standards IEC 60079-0 &lt;t1/&gt;&amp; IEC 60079-1.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072139Z" creationid="CCYU" creationdate="20141025T071854Z">
+        <seg>標示：零件標示依統一標準 EN60079-0 和 EN60079-1 ，安裝於類別 2 危險地點依據 ATEX 指令和 IECEX 標準 IEC 60079-0 &lt;t1/&gt;&amp; IEC 60079-1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27972,6 +28004,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090430Z">
         <seg>Separate &lt;t0/&gt;eyelids,&lt;t1/&gt; wash the eyes thoroughly with water (15 min.). 打開眼瞼，以清水徹底沖洗 (15 分鐘)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072233Z" creationid="CCYU" creationdate="20141025T072233Z">
+        <seg>序號</seg>
       </tuv>
     </tu>
     <tu>
