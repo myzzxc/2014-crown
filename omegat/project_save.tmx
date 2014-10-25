@@ -12399,6 +12399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fig.1 Outline of cable gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054544Z" creationid="CCYU" creationdate="20141025T054544Z">
+        <seg>圖 1 電線接頭圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig.2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023742Z" creationid="CCYU" creationdate="20141025T023742Z">
@@ -33768,6 +33776,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The service of temperature &lt;t0/&gt;range for this product is -15&lt;t1/&gt;℃&lt;t2/&gt; to +60&lt;t3/&gt;℃&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054659Z" creationid="CCYU" creationdate="20141025T054659Z">
+        <seg>本產品操作之環境溫度範圍為 -15℃~+60℃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The servo valve should be mounted with socket head cap screws.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
@@ -35368,6 +35384,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These&lt;t0/&gt; &lt;t1/&gt;cable&lt;t2/&gt; &lt;t3/&gt;glands&lt;t4/&gt; &lt;t5/&gt;shall&lt;t6/&gt; &lt;t7/&gt;not&lt;t8/&gt; &lt;t9/&gt;be&lt;t10/&gt; &lt;t11/&gt;app&lt;t12/&gt;li&lt;t13/&gt;c&lt;t14/&gt;ab&lt;t15/&gt;l&lt;t16/&gt;e&lt;t17/&gt; &lt;t18/&gt;t&lt;t19/&gt;o&lt;t20/&gt; &lt;t21/&gt;t&lt;t22/&gt;h&lt;t23/&gt;i&lt;t24/&gt;s&lt;t25/&gt; &lt;t26/&gt;m&lt;t27/&gt;anu&lt;t28/&gt;a&lt;t29/&gt;l&lt;t30/&gt; &lt;t31/&gt;(&lt;t32/&gt;T&lt;t33/&gt;he&lt;t34/&gt;y &lt;t35/&gt;a&lt;t36/&gt;r&lt;t37/&gt;e &lt;t38/&gt;applicable&lt;t39/&gt; &lt;t40/&gt;to&lt;t41/&gt; &lt;t42/&gt;MRJ05002&lt;t43/&gt; &lt;t44/&gt;only.).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054515Z" creationid="CCYU" creationdate="20141025T054515Z">
+        <seg>本手冊不適用於此類電線接頭 (其僅適用於 MRJ05002)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They &lt;t0/&gt;were&lt;t1/&gt; assembled at factory to meet ATEX/&lt;t2/&gt;IECEx&lt;t3/&gt; standard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025720Z" creationid="CCYU" creationdate="20141025T025720Z">
@@ -35604,6 +35628,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141635Z">
         <seg>夾具厚度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This &lt;t0/&gt;product can be used in&lt;t1/&gt; &lt;t2/&gt;Zone 1 and Zone&lt;t3/&gt; &lt;t4/&gt;2 of&lt;t5/&gt; &lt;t6/&gt;hazardous&lt;t7/&gt; &lt;t8/&gt;Gases&lt;t9/&gt; &lt;t10/&gt;atmospheres &lt;t11/&gt;with&lt;t12/&gt; applicable explosion-proof electrical equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054649Z" creationid="CCYU" creationdate="20141025T054649Z">
+        <seg>本產品可與適用防爆電氣設備用於含危險氣體環境之 1 級危險區 (Zone 1) 及 2 級危險區 (Zone 2)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36267,6 +36299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>This product is an explosion-proof ele&lt;t0/&gt;ctrical equipment of the following “Ex marking”.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T021923Z" creationid="CCYU" creationdate="20141025T021537Z">
+        <seg>本產品為以下 “防爆標示 (Ex marking)”之防爆電氣設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is an explosion-proof electrical equip&lt;t0/&gt;ment as component of the following “&lt;t1/&gt;EX marking”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054602Z" creationid="CCYU" creationdate="20141025T054602Z">
         <seg>本產品為以下 “防爆標示 (Ex marking)”之防爆電氣設備。</seg>
       </tuv>
     </tu>
