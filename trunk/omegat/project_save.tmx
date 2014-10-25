@@ -9750,6 +9750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not disassemble cable glands and reducers from Junction Box assembly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025647Z" creationid="CCYU" creationdate="20141025T025647Z">
+        <seg>請勿將電線接頭和變徑管接頭由接線盒組上拆除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not discharge into the drains/surface waters/groundwater.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095117Z">
@@ -34472,6 +34480,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They &lt;t0/&gt;were&lt;t1/&gt; assembled at factory to meet ATEX/&lt;t2/&gt;IECEx&lt;t3/&gt; standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025720Z" creationid="CCYU" creationdate="20141025T025720Z">
+        <seg>接頭於工廠組裝以符合 ATEX/&lt;t2/&gt;IECEx&lt;t3/&gt; 標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They all need one or more.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T101737Z">
@@ -35436,6 +35452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183045Z">
         <seg>此規章要求提交 1986 緊急計畫和社區知情權法第 313 節和 40 CFR 372 所列毒性化學品之年度報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This screw has to &lt;t0/&gt;be had strength over 450N/mm2 &lt;t1/&gt;of yield stress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025546Z" creationid="CCYU" creationdate="20141025T025546Z">
+        <seg>此螺絲降伏應力強度應高於 450N/mm2。</seg>
       </tuv>
     </tu>
     <tu>
