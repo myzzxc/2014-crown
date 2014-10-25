@@ -10014,6 +10014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispose of&lt;t10/&gt; &lt;t11/&gt;it by&lt;t12/&gt; &lt;t13/&gt;the method approved by the act of parliament.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060619Z" creationid="CCYU" creationdate="20141025T060619Z">
+        <seg>依當地法規進行廢棄處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042449Z" creationid="CCYU" creationdate="20141025T042449Z">
@@ -12531,6 +12539,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031824Z" creationid="CCYU" creationdate="20141025T031824Z">
         <seg>圖 5 外部接地端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig.5 Internal Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060317Z" creationid="CCYU" creationdate="20141025T060317Z">
+        <seg>圖 5 內部電線接頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -18675,6 +18691,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080921Z">
         <seg>其無法取代詢價時所指明之任何限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has to replace Packing (item 4 in Fig.4), if it t&lt;t0/&gt;akes off internal cable gland (&lt;t1/&gt;item 3 in Fig 4) from Item 1 in Fig.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060613Z" creationid="CCYU" creationdate="20141025T060613Z">
+        <seg>若將內部電線接頭 (圖 4 之零件 3) 由圖 4 之零件 1 上取下時，必須更換襯墊 (圖 4 中之零件 4)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37708,6 +37732,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Treat as industrial w&lt;t0/&gt;aste &lt;t1/&gt;when&lt;t2/&gt; you dispose of this product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T041652Z" creationid="CCYU" creationdate="20141025T041652Z">
+        <seg>當丟棄本產品時視為工業廢棄物處理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treat as&lt;t0/&gt; &lt;t1/&gt;industrial &lt;t2/&gt;w&lt;t3/&gt;aste &lt;t4/&gt;when&lt;t5/&gt; you dispose of&lt;t6/&gt; &lt;t7/&gt;this&lt;t8/&gt; &lt;t9/&gt;product.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060617Z" creationid="CCYU" creationdate="20141025T060617Z">
         <seg>當丟棄本產品時視為工業廢棄物處理，</seg>
       </tuv>
     </tu>
