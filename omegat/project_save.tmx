@@ -7060,6 +7060,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAGE CODE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075917Z" creationid="CCYU" creationdate="20141025T075917Z">
+        <seg>框架規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CALIFORNIA PROPOSITION 65:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183438Z">
@@ -18985,8 +18993,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It is submitted in &lt;t0/&gt;confidence for the purposes benefiting the business operations of SENTECH, INC., and may not in whole or in part be reproduced or used for any purpose detrimental to the business of SENTECH, INC.; or disclosed to others, without written authorization from &lt;t1/&gt;SENTECH, INC.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075442Z" creationid="CCYU" creationdate="20141025T075442Z">
-        <seg>其用於促進 SENTECH, INC. 商業運作, and may not in whole or in part be reproduced or used for any purpose detrimental to the business of SENTECH, INC.; or disclosed to others, without written authorization from &lt;t1/&gt;SENTECH, INC.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075832Z" creationid="CCYU" creationdate="20141025T075442Z">
+        <seg>其用於促進 SENTECH, INC. 商業運作，不得複製全文或部份或用於任何造成 SENTECH, INC. 商業利益受損之用途；或未經 SENTECH, INC 書面許可洩漏於他人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30188,6 +30196,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012719Z">
         <seg>螺紋柱規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TOLERANCES WHERE NOT SPECIFIED</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075854Z" creationid="CCYU" creationdate="20141025T075854Z">
+        <seg>未指定之公差</seg>
       </tuv>
     </tu>
     <tu>
