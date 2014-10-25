@@ -4011,6 +4011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A608001 —04 &lt;t0/&gt;a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080757Z" creationid="CCYU" creationdate="20141025T080757Z">
+        <seg>A608001 —04 &lt;t0/&gt;A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESSORIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z">
@@ -9402,6 +9410,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080509Z" creationid="CCYU" creationdate="20141025T080509Z">
         <seg>核准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRAWING NUMBER REV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080726Z" creationid="CCYU" creationdate="20141025T080726Z">
+        <seg>製圖編號 修訂</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +27756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T182610Z">
         <seg>1986 基金修正及再授權法 (SARA) 第 III 章第 313 節供應商標示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SYH</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080743Z" creationid="CCYU" creationdate="20141025T080743Z">
+        <seg>修訂</seg>
       </tuv>
     </tu>
     <tu>
