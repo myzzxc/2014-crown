@@ -6916,6 +6916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;ab&lt;t1/&gt;l&lt;t2/&gt;e&lt;t3/&gt; &lt;t4/&gt;c&lt;t5/&gt;on&lt;t6/&gt;f&lt;t7/&gt;o&lt;t8/&gt;r&lt;t9/&gt;m&lt;t10/&gt;i&lt;t11/&gt;t&lt;t12/&gt;y &lt;t13/&gt;diam&lt;t14/&gt;et&lt;t15/&gt;er&lt;t16/&gt; &lt;t17/&gt;is&lt;t18/&gt; &lt;t19/&gt;Φ&lt;t20/&gt;4.&lt;t21/&gt;5~Φ&lt;t22/&gt;6.&lt;t23/&gt;0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040247Z" creationid="CCYU" creationdate="20141025T040247Z">
+        <seg>電線直徑規範為 Φ4.5~Φ6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CALIFORNIA PROPOSITION 65:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183438Z">
@@ -8794,6 +8802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033732Z" creationid="CCYU" creationdate="20141025T033732Z">
         <seg>十字螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040434Z" creationid="CCYU" creationdate="20141025T040434Z">
+        <seg>電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -12307,6 +12323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032710Z" creationid="CCYU" creationdate="20141025T032710Z">
         <seg>圖 7) 由接線盒組上拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fig.8 Internal Cable Gland</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040312Z" creationid="CCYU" creationdate="20141025T040312Z">
+        <seg>圖 8 內部電線接頭</seg>
       </tuv>
     </tu>
     <tu>
@@ -25192,6 +25216,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating (Input per Terminal)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040352Z" creationid="CCYU" creationdate="20141025T040352Z">
+        <seg>額定值 (每端子之輸入)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating and general data</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124027Z">
@@ -29772,6 +29804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024018Z">
         <seg>表 IV 施工及固化時間 溫度範圍 施工時間/處理時間  固化時間 +10°C-*15°C +50, - 59°F 45 min 48 h - 15 °C - 20 °C *59°F- • 68°F 30 min 18 h - 20 oc-.3on *68°F- 86°F 14 min 10 h • 30 °C - 40 °C +86°F..104°F 7 min 5 h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table.1 Terminal Block Rating per Terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040425Z" creationid="CCYU" creationdate="20141025T040425Z">
+        <seg>表 1 端子台每端子之額定值</seg>
       </tuv>
     </tu>
     <tu>
@@ -37989,6 +38029,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141953Z" creationid="Judy" creationdate="20141022T141953Z">
         <seg>目視檢查所有零件之損壞或污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040430Z" creationid="CCYU" creationdate="20141025T040430Z">
+        <seg>電壓</seg>
       </tuv>
     </tu>
     <tu>
