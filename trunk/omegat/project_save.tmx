@@ -20064,8 +20064,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083115Z">
-        <seg>注意</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020231Z">
+        <seg>註</seg>
       </tuv>
     </tu>
     <tu>
@@ -21690,6 +21690,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142641Z" creationid="Judy" creationdate="20141022T142641Z">
         <seg>註：此類零件需盡可能裝入內側但安裝力道不過大，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes contain useful&lt;t0/&gt; information for the operator w&lt;t1/&gt;hen starting up and ope&lt;t2/&gt;rating the equipment or system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020405Z" creationid="CCYU" creationdate="20141025T020405Z">
+        <seg>註解包含對操作者啟動及操作設備或系統時之實用資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29355,6 +29363,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T124635Z">
         <seg>製造商之產品，除製造商和買方之間另有協定外，應進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Th&lt;t0/&gt;e symbol on the above and the w&lt;t1/&gt;ord “CAUTION” are used to call attention to instructions concerning potential damage to the equipmen&lt;t2/&gt;t or to the system as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020220Z" creationid="CCYU" creationdate="20141025T020220Z">
+        <seg>文字“注意”上方之符號用以提醒使用者注意對設備或系統的潛在損害之安全指示。</seg>
       </tuv>
     </tu>
     <tu>
