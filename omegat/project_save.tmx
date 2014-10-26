@@ -18991,6 +18991,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a technical</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222406Z" creationid="JUDY" creationdate="20141026T222406Z">
+        <seg>其為技術性之修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a technical revision.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134709Z">
@@ -36680,6 +36688,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This edition includes the following significant technical changes with respect to the previous</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222417Z" creationid="JUDY" creationdate="20141026T222417Z">
+        <seg>此版本相對前一版本包括以下重大的技術變更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This edition includes the following significant technical changes with respect to the previous edition:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134739Z">
@@ -37300,6 +37316,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134658Z">
         <seg>第三版取代在 1993 年發表的第二版和其修訂 1 版 (1999)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This third edition cancels and replaces the second edition published in 1993.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222402Z" creationid="JUDY" creationdate="20141026T222402Z">
+        <seg>第三版取代在 1993 年發表的第二版，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42081,6 +42105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>edition:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222419Z" creationid="JUDY" creationdate="20141026T222419Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>elimination or minimisation of the use of hazardous or environmentally damaging materials;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071240Z">
@@ -44009,6 +44041,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>revision.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222408Z" creationid="JUDY" creationdate="20141026T222408Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>routine test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043502Z">
@@ -45321,6 +45361,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125509Z">
         <seg>無繞組且額定電壓高於 1000 V 之變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222327Z" creationid="JUDY" creationdate="20141026T222327Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
