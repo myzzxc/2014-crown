@@ -3707,6 +3707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of all parts of the IEC 60076 series can be found, under the general title &lt;t0/&gt;Power transformers&lt;t1/&gt;, on the IEC website.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163930Z" creationid="JUDY" creationdate="20141027T163930Z">
+        <seg>可於 IEC 網站上之電力變壓器標題中找到 IEC 60076 系列所有部分的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of all parts of the IEC 60076 series can be found, under the general title Power transformers, on the IEC website.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141156Z">
@@ -6334,6 +6342,14 @@
         <seg>At this date, the publication will be</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141542Z">
+        <seg>於此日期，該出版物將</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this date, the&lt;t3/&gt; publication will be</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163952Z" creationid="JUDY" creationdate="20141027T163952Z">
         <seg>於此日期，該出版物將</seg>
       </tuv>
     </tu>
@@ -14189,6 +14205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085236Z">
         <seg>Frost-sensitive 結霜敏感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full information on the voting for the approval of this standard can be found in the report on voting &lt;t0/&gt;indicated in the above table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163913Z" creationid="JUDY" creationdate="20141027T163913Z">
+        <seg>此標準審核表決之完整資訊收錄於上表中之表決報告內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26872,6 +26896,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report on voting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163904Z" creationid="JUDY" creationdate="20141027T163904Z">
+        <seg>表決報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reproduction toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144603Z">
@@ -32276,6 +32308,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151729Z">
         <seg>金屬網或線基體具有大熱傳導表面積可加速工作氣體與多孔介質間的熱傳導率，而金屬材料本身作為儲熱器以吸收合適放大量熱量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The committee has d&lt;t0/&gt;ecided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t1/&gt;http://webstore.iec.ch&lt;t2/&gt;" in the data related to the specific publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163941Z" creationid="JUDY" creationdate="20141027T163941Z">
+        <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42437,6 +42477,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014526Z">
         <seg>fischer FIS EM 黏結錨固系統 FIS EM Fischer FIS EM 為用於固定一般重量混凝土之環氧樹脂黏著劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>five informative annexes were added in order to &lt;t0/&gt;facilitate the standard application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163808Z" creationid="JUDY" creationdate="20141027T163808Z">
+        <seg>增加了五篇參考性附件以促進標準之應用。</seg>
       </tuv>
     </tu>
     <tu>
