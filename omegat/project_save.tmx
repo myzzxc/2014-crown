@@ -44793,6 +44793,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the modalities for the temperature rise test were improved in relation to the new thermal requirements;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163654Z" creationid="JUDY" creationdate="20141027T163654Z">
+        <seg>依相關熱規範改進了升溫測試之方法；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the number of tapping steps and the size of the tapping step or the tapping range; and either:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130153Z">
@@ -45014,6 +45022,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125817Z">
         <seg>具有最低額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding hot-spot temperature rise limit was introduced among the prescriptions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163439Z" creationid="JUDY" creationdate="20141027T163439Z">
+        <seg>法令中加入了繞組熱點溫度上升限制；</seg>
       </tuv>
     </tu>
     <tu>
