@@ -15989,6 +15989,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMPORTANT - The 'colour inside' logo on the cover page of this publication indicates that it contains colours which are considered to be useful for the correct understanding of its contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T164536Z" creationid="JUDY" creationdate="20141027T164536Z">
+        <seg>重要資訊 － 此出版物之封面頁上的 '內部著色' 標誌代表其中包含之顏色對正確理解內容之實用性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IMPORTANT INFORMATION!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z">
@@ -39021,6 +39029,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T071432Z" creationid="CCYU" creationdate="20141025T071432Z">
         <seg>使用者指南 (875EPL1 系列)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users should therefore print this docu&lt;t0/&gt;ment using a colour printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T164643Z" creationid="JUDY" creationdate="20141027T164643Z">
+        <seg>因此使用者應以彩色印表機列印此文件。</seg>
       </tuv>
     </tu>
     <tu>
