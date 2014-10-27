@@ -14089,6 +14089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For undated&lt;t0/&gt; references, the latest edition of the referenced document (including any amendments) applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T164955Z" creationid="JUDY" creationdate="20141027T164955Z">
+        <seg>對於未註明日期之參考資料，適用參考資料之最新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For water-cooled transformers, a temperature of cooling water at the inlet not exceeding: 25 °C at any time;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T101208Z">
@@ -23083,6 +23091,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103612Z">
         <seg>通常製造商應於測試前計算並聲明真空下變形與永久變形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normative references</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T164945Z" creationid="JUDY" creationdate="20141027T164945Z">
+        <seg>規範性參考資料</seg>
       </tuv>
     </tu>
     <tu>
