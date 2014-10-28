@@ -22407,6 +22407,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The liquid can be mineral oil or other natural and synthetic liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104809Z" creationid="MAE" creationdate="20141028T104809Z">
+        <seg>註 液體可為礦物油或其它天然及合成液體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The power consumption of the auxiliary plant is not included in the total losses and is stated separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T042117Z">
@@ -44753,6 +44761,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104814Z" creationid="MAE" creationdate="20141028T104814Z">
+        <seg>溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>temperature rise and cooling in high external cooling medium temperature or at high altitude: IEC 60076-2 for liquid-immersed transformers, -and IEC 60076-11 for dry-type transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093901Z">
@@ -44873,6 +44889,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the difference between the temperature of the part under consideration (for example, the average winding temperature) and the temperature of&lt;t0/&gt; the external cooling medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104923Z" creationid="MAE" creationdate="20141028T104923Z">
+        <seg>關注部分之溫度 (例如平均繞組溫度) 和外部冷卻介質溫度之差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the disposal of the transformer, eliminating or minimising the use of materials or mixtures of materials that will be difficult or impossible to re-use or recycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071633Z">
@@ -44941,6 +44965,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153559Z">
         <seg>串聯和相移變壓器之線繞組) 以 III (HV) 或 iii (中或低電壓繞組)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the liquid in contact with the windings and other transformer parts by means of which the heat produced by the losses is transferred to the ext&lt;t0/&gt;ernal cooling medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104728Z" creationid="MAE" creationdate="20141028T104728Z">
+        <seg>與繞組及其他變壓器零件接觸之液體，傳遞變壓器損耗所產生之熱量至外部冷媒</seg>
       </tuv>
     </tu>
     <tu>
@@ -45417,6 +45449,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054409Z" creationid="CCYU" creationdate="20141025T054409Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>top-liquid temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104948Z" creationid="MAE" creationdate="20141028T104948Z">
+        <seg>頂層液體溫度</seg>
       </tuv>
     </tu>
     <tu>
