@@ -13080,6 +13080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First letter: Internal cooling medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135411Z" creationid="CCYU" creationdate="20141028T135411Z">
+        <seg>首位字母：內部冷媒：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fish - &lt;t0/&gt;Oryzias&lt;t1/&gt; &lt;t2/&gt;latipes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024643Z">
@@ -13658,8 +13666,8 @@
       <tuv lang="EN-US">
         <seg>For liquid-immersed transformers, this identification is expressed by a four-letter code as described below.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135214Z" creationid="CCYU" creationdate="20141028T135214Z">
-        <seg>油浸式變壓器參考溫度為 75 °C 時，方程式如下：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135324Z" creationid="CCYU" creationdate="20141028T135214Z">
+        <seg>油浸式變壓器標示四個字母之代碼，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38443,8 +38451,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Transformers shall be identified according to the cooling method employed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135151Z" creationid="CCYU" creationdate="20141028T135151Z">
-        <seg>變壓器須按照使用之冷卻方法進行標示。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135217Z" creationid="CCYU" creationdate="20141028T135151Z">
+        <seg>變壓器須按照使用之冷卻方法進行標示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47465,6 +47473,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T043958Z">
         <seg>•若有以下一種或多種疾病時請勿使用裝置：循環系統疾病、靜脈曲張、開放性傷口、瘀傷、皮膚炎、 靜脈炎或血管栓塞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>•&lt;t0/&gt; O: mineral oil or synthetic insulating liquid with fire point &lt; 300 °C;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135514Z" creationid="CCYU" creationdate="20141028T135514Z">
+        <seg>•&lt;t0/&gt; O：燃點 &lt; 300 °C 之礦物油或合成絕緣液體；</seg>
       </tuv>
     </tu>
     <tu>
