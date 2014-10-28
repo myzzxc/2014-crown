@@ -41825,6 +41825,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cellulose-based paper which has been chemically modified to reduce the rate at which the paper decomposes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133903Z" creationid="CCYU" creationdate="20141028T133903Z">
+        <seg>經化學改質以降低紙張分解速率之纖維質地紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chamber</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110800Z">
@@ -45542,6 +45550,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015934Z">
         <seg>固體與氣體材料之導熱係數比 動力活塞曲柄半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thermally upgraded paper</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133742Z" creationid="CCYU" creationdate="20141028T133742Z">
+        <seg>耐熱型絕緣紙</seg>
       </tuv>
     </tu>
     <tu>
