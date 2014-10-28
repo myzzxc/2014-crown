@@ -41585,6 +41585,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>average liquid temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T123304Z" creationid="CCYU" creationdate="20141028T123304Z">
+        <seg>平均液體溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) for liquid-immersed transformers with rated average winding temperature rise less than or equal to 65 K for OF or ON, or 70 K for OD;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131408Z">
