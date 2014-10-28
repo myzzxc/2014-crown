@@ -33648,6 +33648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The insulating liquid circulation is by thermosiphon effect only, in both cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T143009Z" creationid="CCYU" creationdate="20141028T143009Z">
+        <seg>此兩種情型之絕緣液體循環皆只利用熱虹吸效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The integration of heat-input and heat-output rates (&lt;t0/&gt;Q&lt;t1/&gt;in&lt;t2/&gt; and &lt;t3/&gt;Q&lt;t4/&gt;out&lt;t5/&gt;) in one engine cycle is the same as that in [23] and will not be repeated here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T085334Z">
@@ -35516,6 +35524,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T035113Z">
         <seg>新混凝土和現存結構中的剪力轉移，應另外根據 EN 1992-1-1:2004+AC:2010 設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer has a set of fans which may be put into service as desired at high loading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T142847Z" creationid="CCYU" creationdate="20141028T142838Z">
+        <seg>變壓器具有一風扇組於高負載時依需求啟動，</seg>
       </tuv>
     </tu>
     <tu>
