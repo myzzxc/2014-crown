@@ -21711,6 +21711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Ageing effects are reduced either by partial elimination of water forming agents or by inhibiting the formation of water through the use of stabilizing agents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T134812Z" creationid="CCYU" creationdate="20141028T134812Z">
+        <seg>註 1 老化效應之抑制可藉由部份消除水生成劑或使用穩定劑以抑制水生成而達成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 Certain &lt;t0/&gt;accessories&lt;t1/&gt; may be susceptible to electromagnetic interference.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132029Z">
