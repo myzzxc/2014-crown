@@ -43017,6 +43017,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>internal cooling medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104546Z" creationid="MAE" creationdate="20141028T104546Z">
+        <seg>內部冷媒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iron</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141714Z">
@@ -44941,6 +44949,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084004Z">
         <seg>冷煤多年間量測之最高溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the medium external to the transformer cooling system &lt;t0/&gt;(air or water) into which the heat produced by the transformer losses is transferred</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104532Z" creationid="MAE" creationdate="20141028T104514Z">
+        <seg>變壓器冷卻系統外部之介質（空氣或水），用以傳遞變壓器損耗所產生之熱量 。</seg>
       </tuv>
     </tu>
     <tu>
