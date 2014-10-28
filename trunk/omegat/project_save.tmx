@@ -8958,6 +8958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooling methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135038Z" creationid="CCYU" creationdate="20141028T135038Z">
+        <seg>冷卻方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooling mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132613Z">
@@ -13648,6 +13656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For liquid-immersed transformers, this identification is expressed by a four-letter code as described below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135214Z" creationid="CCYU" creationdate="20141028T135214Z">
+        <seg>油浸式變壓器參考溫度為 75 °C 時，方程式如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformer: several impedances for different two-winding combinations are to be given with th&lt;t0/&gt;e&lt;t1/&gt; respective reference power values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020719Z">
@@ -16218,6 +16234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T080614Z">
         <seg>Identification of the substance/mixture and of the company/undertaking 物質 / 混和物與公司 / 企業之標識</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification symbols</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135155Z" creationid="CCYU" creationdate="20141028T135106Z">
+        <seg>標示符號</seg>
       </tuv>
     </tu>
     <tu>
@@ -21963,6 +21987,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132315Z">
         <seg>註 2 被動元件應不產生電磁干擾且其性能不受電磁干擾影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 See IEC 60076-7, for an alternative test method &lt;t0/&gt;based on the nitrogen content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135033Z" creationid="CCYU" creationdate="20141028T135033Z">
+        <seg>註 2 使用氮氣成份之替代測試方法請見 IEC 60076-7。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38405,6 +38437,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034053Z">
         <seg>變壓器之設計應無洩漏，且於保固期內於現場發生之任何洩漏應由負責供應商修復。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers shall be identified according to the cooling method employed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135151Z" creationid="CCYU" creationdate="20141028T135151Z">
+        <seg>變壓器須按照使用之冷卻方法進行標示。</seg>
       </tuv>
     </tu>
     <tu>
