@@ -41633,6 +41633,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bottom-liquid temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T123233Z" creationid="CCYU" creationdate="20141028T123233Z">
+        <seg>底層液體溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>brow&lt;t0/&gt;n</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131410Z">
@@ -44885,6 +44893,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160335Z">
         <seg>通過繞組之線路端子的電流，由繞組之額定功率 Sr 和及額定電壓 Ur 求得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the difference between the bottom-liquid temperature and the external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T123246Z" creationid="CCYU" creationdate="20141028T123246Z">
+        <seg>底層液體溫度和外部冷煤溫度之差異</seg>
       </tuv>
     </tu>
     <tu>
