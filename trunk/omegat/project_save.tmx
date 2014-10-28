@@ -3747,6 +3747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A minor fraction of the flow of liquid through the cooling equipment may be directed as a controlled bypass to provide cooling for core and other parts outsi&lt;t1/&gt;de the main windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141002Z" creationid="CCYU" creationdate="20141028T141002Z">
+        <seg>少部份流經冷卻設備之液體流作為控制旁通以提供核心及主繞組外之零件冷卻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A moisture-removing breather is fitted in the connection to the atmosphere.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070333Z">
