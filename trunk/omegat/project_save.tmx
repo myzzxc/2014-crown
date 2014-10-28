@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15651,6 +15651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-1, &lt;t0/&gt;Power transformers&lt;t1/&gt; - &lt;t2/&gt;Part 1: General</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T102956Z" creationid="MAE" creationdate="20141028T102956Z">
+        <seg>IEC 60076-1，電力變壓器 — 第 1 部份：導論 (Power transformers — Part 1: General)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-10-1, Power transformers — Part 10-1: Determination of sound levels — Application guide</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T074408Z">
@@ -15760,6 +15768,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131459Z">
         <seg>IEC 60076-8 提供了抽頭配置及電壓降計算之詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-8:1997, &lt;t0/&gt;Power transformers - Part 8: Application guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T103020Z" creationid="MAE" creationdate="20141028T103020Z">
+        <seg>IEC 60076-8:1997，電力變壓器 — 第 8 部份：應用指南 (Power transformers — Part 8: Application guide)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37124,6 +37140,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162013Z">
         <seg>這可能包括與絕緣液體同時運輸之限制或運輸過程中預期有與運作不同之環境條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This part of IEC 60076 applies to liquid-immersed transformers, identifies power transformers according to their cooling methods, def&lt;t0/&gt;ines temperature rise limits and gives the methods for temperature rise tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T102846Z" creationid="MAE" creationdate="20141028T102846Z">
+        <seg>IEC 60076 本部分適用於油浸式變壓器，依其冷卻方法、升溫限制和給定升溫測試方法界定電力變壓器。</seg>
       </tuv>
     </tu>
     <tu>
