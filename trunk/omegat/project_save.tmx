@@ -22207,6 +22207,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;H&lt;t1/&gt; facto&lt;t2/&gt;r is obtained by the product of the Q and S factors (see 3.16 and 3.17).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133126Z" creationid="CCYU" creationdate="20141028T133126Z">
+        <seg>註 H 因子為 Q 和 S 因子之乘積 (請見 3.16 和 3.17)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE &lt;t0/&gt;Subclause&lt;t1/&gt; 6.4.2 requires the user to specify which winding is to be tapped and particular tapping powers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131210Z">
@@ -25816,6 +25824,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Q factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133147Z" creationid="CCYU" creationdate="20141028T133147Z">
+        <seg>Q 因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick estimation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082640Z">
@@ -27316,6 +27332,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151543Z">
         <seg>例行測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133304Z" creationid="CCYU" creationdate="20141028T133304Z">
+        <seg>S 因子</seg>
       </tuv>
     </tu>
     <tu>
@@ -41121,10 +41145,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a dimensionless factor to estimate the increase of the average winding gradient due to the local increase of the additional loss</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133242Z" creationid="CCYU" creationdate="20141028T133242Z">
+        <seg>用以估計因為局部額外損耗增造成平均繞組溫差增加之無因次因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a dimensionless factor to estimate the local increase of the winding gradient due to the increase of additional loss and variation in the liquid flow stream</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132950Z" creationid="CCYU" creationdate="20141028T132950Z">
-        <seg>用以估計因為額外損耗增加及液體流變化造成繞組溫差局部增加之無因次因</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133256Z" creationid="CCYU" creationdate="20141028T132950Z">
+        <seg>用以估計因為額外損耗增加及液體流變化造成繞組溫差局部增加之無因次因子</seg>
       </tuv>
     </tu>
     <tu>
@@ -45139,8 +45171,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the medium external to the transformer cooling system &lt;t0/&gt;(air or water) into which the heat produced by the transformer losses is transferred</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104532Z" creationid="MAE" creationdate="20141028T104514Z">
-        <seg>變壓器冷卻系統外部之介質（空氣或水），用以傳遞變壓器損耗所產生之熱量 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133140Z" creationid="MAE" creationdate="20141028T104514Z">
+        <seg>變壓器冷卻系統外部之介質 (空氣或水)，用以傳遞變壓器損耗所產生之熱量 。</seg>
       </tuv>
     </tu>
     <tu>
