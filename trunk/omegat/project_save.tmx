@@ -4035,6 +4035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A: air;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140126Z" creationid="CCYU" creationdate="20141028T140126Z">
+        <seg>A：空氣；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESSORIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z">
@@ -9222,6 +9230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D: forced circulation through cooling equipment, directed &lt;t0/&gt;from the cooling equipment into at least the main windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140102Z" creationid="CCYU" creationdate="20141028T140102Z">
+        <seg>D：強制循環流經冷卻設備，直接由冷卻設備進入主繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D&lt;t0/&gt;isplacements under tension load&lt;t1/&gt;1)&lt;t2/&gt; (rebar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055404Z">
@@ -11947,6 +11963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022822Z">
         <seg>Eyes&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the eyes. 眼睛：對眼睛有輕微刺激性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F: forced circulation through cooling equipment, thermosiphon flow in windings;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135905Z" creationid="CCYU" creationdate="20141028T135905Z">
+        <seg>F：強制循環流經冷卻設備，繞組中為虹吸管流；</seg>
       </tuv>
     </tu>
     <tu>
@@ -36688,6 +36712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Third letter: External cooling medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140120Z" creationid="CCYU" creationdate="20141028T140120Z">
+        <seg>第三位字母：外部冷媒：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This &lt;t0/&gt;product can be used in&lt;t1/&gt; &lt;t2/&gt;Zone 1 and Zone&lt;t3/&gt; &lt;t4/&gt;2 of&lt;t5/&gt; &lt;t6/&gt;hazardous&lt;t7/&gt; &lt;t8/&gt;Gases&lt;t9/&gt; &lt;t10/&gt;atmospheres &lt;t11/&gt;with&lt;t12/&gt; applicable explosion-proof electrical equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054649Z" creationid="CCYU" creationdate="20141025T054649Z">
@@ -39653,6 +39685,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065624Z">
         <seg>由 Servocam 實驗室，於 1996 至 1999 年間執行 19.234 小時 W-O-M 測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>W: water.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140132Z" creationid="CCYU" creationdate="20141028T140132Z">
+        <seg>W：水。</seg>
       </tuv>
     </tu>
     <tu>
