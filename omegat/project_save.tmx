@@ -11967,6 +11967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F: forced circulation (fans, pumps).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140237Z" creationid="CCYU" creationdate="20141028T140237Z">
+        <seg>F：強制循環 (風扇、泵)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F: forced circulation through cooling equipment, thermosiphon flow in windings;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135905Z" creationid="CCYU" creationdate="20141028T135905Z">
@@ -14205,6 +14213,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T232735Z">
         <seg>1963 年 Raytek 成立於美國加州，Raytek 開發、製造、銷售並提供維修服務，其完整的非接觸式測溫器產線涵蓋了溫度範圍由 -50 至 3500°C，為工業製造提供了紅外線解決方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fourth letter: Circulation mechanism for external cooling medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140202Z" creationid="CCYU" creationdate="20141028T140202Z">
+        <seg>第四位字母：外部冷媒循環機制：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21703,6 +21719,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N: natural convection;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140210Z" creationid="CCYU" creationdate="20141028T140210Z">
+        <seg>N：自然對流；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>N: natural thermosiphon flow through cooling equipment and in windings;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135749Z" creationid="CCYU" creationdate="20141028T135749Z">
@@ -21859,6 +21883,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023845Z">
         <seg>註 1 對於具有兩個相同額定功率和額定電壓之二次繞組並與一次繞組有相同阻抗之變壓器 (也稱為 '雙二次繞組變壓器')，應協議針對稱負載情況，將兩組二次繞組同時短路進行額外的測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 In &lt;t0/&gt;this standard, the use of insulating liquids K and L is considered only for safety and environmental reasons.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140413Z" creationid="CCYU" creationdate="20141028T140359Z">
+        <seg>註 1 此標準中，由於安全性與環境因素僅考慮使用絕緣液體 K 和 L。</seg>
       </tuv>
     </tu>
     <tu>
