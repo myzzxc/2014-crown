@@ -3755,6 +3755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A paper is co&lt;t0/&gt;nsidered as thermally upgraded if it meets the life criteria of the 50 % retention in tensile strength after 65 000 h in a sealed tube at 110 °C or any other time/temperature combination given by the equation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T134412Z" creationid="CCYU" creationdate="20141028T134412Z">
+        <seg>耐熱型絕緣紙之定義為於 110 °C 密封管中 65 000 小時或下列公式之其他時間 / 溫度組合後，其拉伸強度衰退符合 50 % 標準之紙張：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A puncture in a small bag can cause a mess in a cab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125730Z">
