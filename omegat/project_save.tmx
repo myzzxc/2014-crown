@@ -22063,6 +22063,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 In a transformer designated as having forced directed insulating liquid circulation (second code letter D), the rate of liquid flow through&lt;t0/&gt; the main windings is determined by the pumps and is not, in principle, determined by the loading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140726Z" creationid="CCYU" creationdate="20141028T140726Z">
+        <seg>註 2 設計有牆制定向絕緣液體循環 (第二碼為 D) 之變壓器中，流經主繞組之液體流率，原則上取決於泵而非負載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 In deciding the place of the no-load test in the complete test sequence, it should be borne in mind that no-load loss measurements performed before impulse tests and/or resistance measurements are, in general, representative of the average loss level over long time in service, assuming, that the core is not pre-magnetized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T065746Z">
