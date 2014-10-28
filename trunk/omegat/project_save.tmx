@@ -41625,6 +41625,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bottom-liquid temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T112340Z" creationid="CCYU" creationdate="20141028T112340Z">
+        <seg>底層液體溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>brow&lt;t0/&gt;n</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131410Z">
@@ -45126,6 +45134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050534Z">
         <seg>抽頭電壓，若連接至變壓器其他抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the temperature difference between the &lt;t0/&gt;top-liquid temperature and the external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T112333Z" creationid="CCYU" creationdate="20141028T112333Z">
+        <seg>頂層液體溫度和外部冷煤溫度之差異</seg>
       </tuv>
     </tu>
     <tu>
