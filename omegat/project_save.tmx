@@ -41593,10 +41593,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>average winding gradient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132306Z" creationid="CCYU" creationdate="20141028T132306Z">
+        <seg>平均繞組溫差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>average winding temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132001Z" creationid="CCYU" creationdate="20141028T132001Z">
         <seg>平均繞組溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>average winding temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132223Z" creationid="CCYU" creationdate="20141028T132223Z">
+        <seg>平均繞組溫度上升</seg>
       </tuv>
     </tu>
     <tu>
@@ -44217,6 +44233,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132206Z" creationid="CCYU" creationdate="20141028T132206Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>resistance derived from the load loss varies as described above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022044Z">
@@ -44937,6 +44961,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the difference between the average winding temperature &lt;t0/&gt;and the average insulating liquid temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132340Z" creationid="CCYU" creationdate="20141028T132340Z">
+        <seg>平均繞組溫度和平均絕緣液體溫度之差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the difference between the average winding temperature and the external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132239Z" creationid="CCYU" creationdate="20141028T132239Z">
+        <seg>平均繞組溫度和外部冷煤溫度之差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the difference between the bottom-liquid temperature and the external cooling medium temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T123246Z" creationid="CCYU" creationdate="20141028T123246Z">
@@ -45326,6 +45366,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133952Z">
         <seg>串聯變壓器中供應電力至串聯繞組之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the winding temperature determined at the end of temperature rise test from the measurement&lt;t0/&gt; of winding d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132202Z" creationid="CCYU" creationdate="20141028T132202Z">
+        <seg>量測繞組直流電阻之溫度上升測試結束時之繞組溫度</seg>
       </tuv>
     </tu>
     <tu>
