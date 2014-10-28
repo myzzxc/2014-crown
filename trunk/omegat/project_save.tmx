@@ -19559,6 +19559,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K: insulating liquid with fire point &gt; 300 °C;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135547Z" creationid="CCYU" creationdate="20141028T135547Z">
+        <seg>K：燃點 &lt; 300 °C 之絕緣液體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KG, Denzlingen, Germany, under a quality control program with inspections by ICC-ES.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043718Z">
@@ -19627,6 +19635,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124321Z">
         <seg>壓器種類，例如，分離繞組變壓器、自耦變壓器或串聯變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L: insulating liquid with no measurable fire point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135639Z" creationid="CCYU" creationdate="20141028T135639Z">
+        <seg>L：無可量測燃點之絕緣液體；</seg>
       </tuv>
     </tu>
     <tu>
@@ -21659,6 +21675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074724Z" creationid="CCYU" creationdate="20141025T074724Z">
         <seg>不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N: natural thermosiphon flow through cooling equipment and in windings;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135749Z" creationid="CCYU" creationdate="20141028T135749Z">
+        <seg>N：以自然虹吸流流經冷卻設備和繞組；</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,6 +28276,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124248Z">
         <seg>封口/螺帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second letter: Circulat&lt;t0/&gt;ion mechanism for internal cooling medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135706Z" creationid="CCYU" creationdate="20141028T135706Z">
+        <seg>第二位字母：內部冷媒循環機制：</seg>
       </tuv>
     </tu>
     <tu>
