@@ -17289,8 +17289,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In a transformer with forced, non-directed cooling (second code letter F), the rates of flow of liquid thr&lt;t0/&gt;ough all the windings are variable with the loading, and not directly related to the pumped flow through the cooling equipment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141331Z" creationid="CCYU" creationdate="20141028T141331Z">
-        <seg>具有強制、非定向絕緣液體循環 (第二碼為 D) 之變壓器中，流經主繞組之液體流率，原則上取決於泵而非負載。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141636Z" creationid="CCYU" creationdate="20141028T141331Z">
+        <seg>具有強制、非定向冷卻 (第二碼為 F) 之變壓器中，流經所有繞組之液體流率隨負載變化，與流經冷卻設備之泵輸送流無直接相關。</seg>
       </tuv>
     </tu>
     <tu>
