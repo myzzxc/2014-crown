@@ -41593,6 +41593,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>average winding temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132001Z" creationid="CCYU" creationdate="20141028T132001Z">
+        <seg>平均繞組溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>average&lt;t0/&gt; liquid temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131924Z" creationid="CCYU" creationdate="20141028T131924Z">
+        <seg>平均液體溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) for liquid-immersed transformers with rated average winding temperature rise less than or equal to 65 K for OF or ON, or 70 K for OD;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131408Z">
@@ -44889,6 +44905,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the average temperature of the top-liquid and bottom liquid temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131910Z" creationid="CCYU" creationdate="20141028T131910Z">
+        <seg>頂部液體與底部液體溫度之平均溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the common part of the windings of an auto-transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133146Z">
@@ -44901,6 +44925,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160335Z">
         <seg>通過繞組之線路端子的電流，由繞組之額定功率 Sr 和及額定電壓 Ur 求得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the difference between the average liquid temperature and the external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131942Z" creationid="CCYU" creationdate="20141028T131942Z">
+        <seg>平均液體溫度和外部冷煤溫度之差異</seg>
       </tuv>
     </tu>
     <tu>
