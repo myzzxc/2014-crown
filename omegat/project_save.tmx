@@ -3939,6 +3939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer may be specified with alternative cooling methods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141847Z" creationid="CCYU" creationdate="20141028T141847Z">
+        <seg>變壓器可能具有指定替代冷卻方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A transformer specified according to 6.4.3 will be capable of supplying this load current at all tapping positions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T145512Z">
@@ -38589,6 +38597,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090449Z">
         <seg>變壓器須按照以下規範進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers with alternative cooling methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141803Z" creationid="CCYU" creationdate="20141028T141803Z">
+        <seg>具有替代冷卻方法之變壓器</seg>
       </tuv>
     </tu>
     <tu>
