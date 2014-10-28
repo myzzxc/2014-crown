@@ -42921,6 +42921,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hot-spot factor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132625Z" creationid="CCYU" creationdate="20141028T132625Z">
+        <seg>熱點因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hot-spot winding temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132408Z" creationid="CCYU" creationdate="20141028T132352Z">
+        <seg>繞組熱點溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hot-spot winding temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132549Z" creationid="CCYU" creationdate="20141028T132549Z">
+        <seg>繞組熱點溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>humidity in excess of the limit prescribed in 4.2;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163552Z">
@@ -44953,6 +44977,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the difference between hot-spot &lt;t0/&gt;winding temperature and the external cooling medium temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132618Z" creationid="CCYU" creationdate="20141028T132618Z">
+        <seg>繞組熱點溫度和外部冷煤溫度之差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the difference between the average liquid temperature and the external cooling medium temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131942Z" creationid="CCYU" creationdate="20141028T131942Z">
@@ -45053,6 +45085,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the hottest temperature of winding conductors in contact with solid insulation or insulating liquid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132535Z" creationid="CCYU" creationdate="20141028T132535Z">
+        <seg>繞組導體與固體絕緣或絕緣液體接觸之最高溫度</seg>
       </tuv>
     </tu>
     <tu>
