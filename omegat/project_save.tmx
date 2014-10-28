@@ -11775,6 +11775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T142658Z" creationid="CCYU" creationdate="20141028T142658Z">
+        <seg>範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excellent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061515Z">
@@ -32256,6 +32264,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The alternatives cooling methods are conventionally listed in rising order of cooling capacity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T142612Z" creationid="CCYU" creationdate="20141028T142612Z">
+        <seg>替代冷卻方法通常依冷卻能力由小到大列出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ambient temperature range of this product is -15&lt;t0/&gt;℃&lt;t1/&gt;~&lt;t2/&gt;+60&lt;t3/&gt;℃&lt;t4/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022139Z" creationid="CCYU" creationdate="20141025T022139Z">
@@ -34348,6 +34364,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T204149Z">
         <seg>功率可由以下方程式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The power value for the alternative cooling methods wit&lt;t0/&gt;h the highest cooling capacity is the rated power of the transformer (or of an individual winding of a multi-winding transformer, see IEC 60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T142503Z" creationid="CCYU" creationdate="20141028T142503Z">
+        <seg>替代冷卻方法具有最大冷卻力之功率值為變壓器 (或多繞組變壓器中之個別繞組，請見 IEC 60076-1) 額定功率。</seg>
       </tuv>
     </tu>
     <tu>
