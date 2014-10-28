@@ -45146,6 +45146,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the temperature of the insulating liquid as measured at the height of the bottom of the windings or to the liquid flowing from the liquid cooling equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T112627Z" creationid="CCYU" creationdate="20141028T112627Z">
+        <seg>繞組底部或來自冷卻設備之液體流上方一定高度之絕緣液體的溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the temperature of the insulating liquid at the top of the tank, representative of top-liquid in the cooling flow stream</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T112211Z" creationid="CCYU" creationdate="20141028T112211Z">
