@@ -13881,6 +13881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purposes of this document, the terms and definitions given in IEC 60076-1 and the following apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104048Z" creationid="MAE" creationdate="20141028T104048Z">
+        <seg>本文件中使用下列以及 IEC 60076-1 中給定之專有名詞與定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the range 4,500 psi &lt; f &lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi may be increased by 6% and range 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c &lt;t10/&gt; 8,000 psi tabulated characteristic bond strength may be increased by 10%.&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021439Z">
@@ -15889,6 +15897,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T091053Z">
         <seg>IEC 62262，電機設備外殼抗外部機械衝擊保護等級 (Degrees of protection provided by enclosures for electrical equipment against external mechanical impact) (IK 規範)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC Guide 115:2007, &lt;t0/&gt;Application of uncertainty of measurement to conformity assessme&lt;t1/&gt;nt activities in the electrotechnical sector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T103917Z" creationid="MAE" creationdate="20141028T103917Z">
+        <seg>IEC 指南 115:2007，以不確定性之量測進行電工部門中之合格評估 (Application of uncertainty of measurement to conformity assessment activities in the electrotechnical sector)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31352,6 +31368,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terms and definitions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T103921Z" creationid="MAE" creationdate="20141028T103921Z">
+        <seg>專有名詞和定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024406Z">
@@ -42453,6 +42477,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070606Z">
         <seg>以每相歐姆表示，其值為 3U，其中 U 為測試電壓而 I 為測試電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external cooling medium</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104107Z" creationid="MAE" creationdate="20141028T104107Z">
+        <seg>外部冷媒</seg>
       </tuv>
     </tu>
     <tu>
