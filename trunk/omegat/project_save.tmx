@@ -9240,8 +9240,8 @@
       <tuv lang="EN-US">
         <seg>D: forced circulation through cooling equipment, directed &lt;t0/&gt;from the cooling equipment into at least the main windings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140102Z" creationid="CCYU" creationdate="20141028T140102Z">
-        <seg>D：強制循環流經冷卻設備，直接由冷卻設備進入主繞組。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141346Z" creationid="CCYU" creationdate="20141028T140102Z">
+        <seg>D：強制循環流經冷卻設備，由冷卻設備定向進入主繞組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17287,6 +17287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a transformer with forced, non-directed cooling (second code letter F), the rates of flow of liquid thr&lt;t0/&gt;ough all the windings are variable with the loading, and not directly related to the pumped flow through the cooling equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141331Z" creationid="CCYU" creationdate="20141028T141331Z">
+        <seg>具有強制、非定向絕緣液體循環 (第二碼為 D) 之變壓器中，流經主繞組之液體流率，原則上取決於泵而非負載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
@@ -22073,8 +22081,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE 2 In a transformer designated as having forced directed insulating liquid circulation (second code letter D), the rate of liquid flow through&lt;t0/&gt; the main windings is determined by the pumps and is not, in principle, determined by the loading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140726Z" creationid="CCYU" creationdate="20141028T140726Z">
-        <seg>註 2 設計有牆制定向絕緣液體循環 (第二碼為 D) 之變壓器中，流經主繞組之液體流率，原則上取決於泵而非負載。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141251Z" creationid="CCYU" creationdate="20141028T140726Z">
+        <seg>註 2 設計有強制定向絕緣液體循環 (第二碼為 D) 之變壓器中，流經主繞組之液體流率，原則上取決於泵而非負載。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26764,6 +26772,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144433Z">
         <seg>Registration number 註冊編號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regulating windings and/or other windings having relatively low power may also have non.-directed circulation of bypass liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141229Z" creationid="CCYU" creationdate="20141028T141229Z">
+        <seg>調節繞組與其他具有相對低功率之繞組也可能具有旁通液體之非定向循環。</seg>
       </tuv>
     </tu>
     <tu>
