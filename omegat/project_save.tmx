@@ -19319,6 +19319,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is assumed throughout this part that the service temperatures of different parts of a transformer can each be de&lt;t0/&gt;scribed as the sum of the external cooling medium temperature (ambient air or cooling water) and the temperature rise of the transformer part.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T131646Z" creationid="CCYU" creationdate="20141029T131646Z">
+        <seg>本部份假設變壓器不同部份之工作溫度能以外部冷媒溫度 (空氣或冷卻水) 以及變壓器零件溫度上升總和表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is best to monitor the pressure drop across the filter assembly and replace the filter element when the pressure drop becomes excessive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104943Z">
@@ -23419,6 +23427,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094055Z">
         <seg>正常運作條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal temperature rise limits apply unless other service conditions are specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T131811Z" creationid="CCYU" creationdate="20141029T131802Z">
+        <seg>除指定其他工作條件外，適用一般溫度上升限制，</seg>
       </tuv>
     </tu>
     <tu>
