@@ -14107,8 +14107,8 @@
       <tuv lang="EN-US">
         <seg>For transformer rated power larger than 2 500 kVA or if the tapping range exceeds ± 5 %, the temperature rise limits shall apply to every tap&lt;t0/&gt;ping at the appropriate tapping power, tapping voltage and tapping current.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T132659Z" creationid="CCYU" creationdate="20141029T132659Z">
-        <seg>額定功率高低於 2 500 kVA (單相 833 kVA) 且抽頭範圍不超過 ± 5% 之變壓器，溫度上升限制依對應之額定電壓適用於主抽頭 (請見 IEC 60076-1)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T132900Z" creationid="CCYU" creationdate="20141029T132659Z">
+        <seg>額定功率高於 2 500 kVA 或抽頭範圍超過 ± 5% 之變壓器，溫度上升適用於所有抽頭於適當抽頭功率、抽頭電壓以及抽頭電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21947,6 +21947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T155237Z">
         <seg>註 1 HV 端子電壓為 220 kV 時，假設無系統電網阻抗，LV 端子之短路電流為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;■&lt;t1/&gt; The load losses are different for different tappings and sometimes also the no-load loss when variable flux voltage variation is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133354Z" creationid="CCYU" creationdate="20141029T133354Z">
+        <seg>註 1 不同抽頭之負載損耗不同，當指明可變通量電壓變化時，有時空載損耗也不同。</seg>
       </tuv>
     </tu>
     <tu>
