@@ -822,6 +822,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>+ 20 °C yearly average.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T022827Z" creationid="MAE" creationdate="20141029T022827Z">
+        <seg>+ 20 °C 年平均溫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ 30 °C monthly average, of the hottest month;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T022823Z" creationid="MAE" creationdate="20141029T022823Z">
+        <seg>+ 30 °C 最熱月均溫；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+ 40 °C at any time;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T022813Z" creationid="MAE" creationdate="20141029T022813Z">
+        <seg>+ 40 °C 於任何時間；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+10 % of the total losses</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T081918Z">
