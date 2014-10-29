@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023413Z" creationid="MAE" creationdate="20141029T023413Z">
+        <seg>60076-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>62-65), the system of assessment and verification of constancy of performance (see Annex V&lt;t2/&gt; &lt;t3/&gt;and Article 65 Paragraph 2 to Regulation (EU) No 305/2011) given in the following table applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021854Z">
@@ -16722,6 +16730,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120131Z">
         <seg>若沒有效果，吸收墊與護邊也絕對可以用於液壓機台週邊 (雖然機台量可能不多)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the &lt;t0/&gt;operating water temperature is higher than this, then a lower temperature rise should be specified (see IEC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023411Z" creationid="MAE" creationdate="20141029T023411Z">
+        <seg>若操作水溫度高於此值，則需指定較低之溫度上升 (請見 IEC </seg>
       </tuv>
     </tu>
     <tu>
@@ -31636,6 +31652,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053834Z">
         <seg>溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature rise limits</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023419Z" creationid="MAE" creationdate="20141029T023419Z">
+        <seg>溫度上升限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature rise requirements are specified according to different options:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023543Z" creationid="MAE" creationdate="20141029T023504Z">
+        <seg>溫度要求依據不同選項指明：</seg>
       </tuv>
     </tu>
     <tu>
