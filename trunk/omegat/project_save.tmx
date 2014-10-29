@@ -41577,6 +41577,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a set of requirements which &lt;t0/&gt;refer to continuous rated power (see 6.2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023653Z" creationid="MAE" creationdate="20141029T023653Z">
+        <seg>依連續額定功率之一組要求 (請見 6.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a specified second pair of separate windings in a multi-winding transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084855Z">
@@ -41941,6 +41949,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T142129Z">
         <seg>氨態氮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an additional set of explicitly specified requirements, that relate to a prescribed loading cycle (see 6.4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023903Z" creationid="MAE" creationdate="20141029T023903Z">
+        <seg>額外一組與指定負載循環相關之明確指定的要求 (請見 6.4)。</seg>
       </tuv>
     </tu>
     <tu>
