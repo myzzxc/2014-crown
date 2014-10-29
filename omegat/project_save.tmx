@@ -17863,6 +17863,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In such cases, the limits of &lt;t0/&gt;temperature rise shall be modified as indicated in 6.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T131931Z" creationid="CCYU" creationdate="20141029T131931Z">
+        <seg>此情況下，溫度上升限制如 6.3 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In tectonics, there is an anticline, called the Tsukeng anticline, in the southeast of the landslide area, and the azimuth of the left limb is N135°W, 19°N.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043619Z">
@@ -23195,6 +23203,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015212Z">
         <seg>第三繞組不使用相位移標記。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No plus tolerance is permitted on temperature rise limits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T132112Z" creationid="CCYU" creationdate="20141029T132112Z">
+        <seg>溫度上升限制不允許加上容許度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31684,6 +31700,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023419Z" creationid="MAE" creationdate="20141029T023419Z">
         <seg>溫度上升限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature rise limits at rated power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T132137Z" creationid="CCYU" creationdate="20141029T132137Z">
+        <seg>額定功率下之溫度上升限制</seg>
       </tuv>
     </tu>
     <tu>
