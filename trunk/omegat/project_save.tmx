@@ -22207,6 +22207,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 In a separate winding tr&lt;t0/&gt;ansformer, the tapping with the highest load loss is normally the tapping with the maximum current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133533Z" creationid="CCYU" creationdate="20141029T133533Z">
+        <seg>註 2 於獨立繞組變壓器中，具有最高空載損耗之抽頭通常為具有最大電流之抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 In a transformer designated as having forced directed insulating liquid circulation (second code letter D), the rate of liquid flow through&lt;t0/&gt; the main windings is determined by the pumps and is not, in principle, determined by the loading.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141251Z" creationid="CCYU" creationdate="20141028T140726Z">
@@ -22379,6 +22387,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111726Z">
         <seg>註 3 功率低於 20 MVA 和 Um ≤ 72,5  kV 之變壓器，若通過型式測試要求則可以接受重大設計變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 In an auto-transformer with tapping, the tapping with the highest load loss depends on how the tappings are arranged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133657Z" creationid="CCYU" creationdate="20141029T133657Z">
+        <seg>註 3 具有抽頭之自耦變壓器，具有最高空載損耗之抽頭取決於抽頭配置方式。</seg>
       </tuv>
     </tu>
     <tu>
