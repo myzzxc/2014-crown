@@ -18087,6 +18087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In that case, an agreement between manufacturer and purchaser is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133735Z" creationid="CCYU" creationdate="20141030T133735Z">
+        <seg>此情況必須由製造商和買方之間進行協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In that case, several measurements at different values of current may give useful information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090458Z">
@@ -22987,6 +22995,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T042117Z">
         <seg>註 輔助裝置的功率消耗值單獨列出，不包含於總損耗中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The rule given above does not apply for water temperatures lower than the normal one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133655Z" creationid="CCYU" creationdate="20141030T133655Z">
+        <seg>註 以上條件不適用於水溫低於正常溫度，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32024,6 +32040,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature rise during a specified load cycle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133923Z" creationid="CCYU" creationdate="20141030T133923Z">
+        <seg>特定負載循環期間之溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature rise limits</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023419Z" creationid="MAE" creationdate="20141029T023419Z">
@@ -34068,6 +34092,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072035Z">
         <seg>下節將提出平均和加總變化量，可藉此更進一步的了解移動式再生器對引擎效能的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The influence of differing ambient tempe&lt;t0/&gt;rature or altitude on the air cooling of the tank shall be disregarded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133859Z" creationid="CCYU" creationdate="20141030T133859Z">
+        <seg>不同環境溫度或海拔高度對於油槽之氣冷的影響應忽略不計。</seg>
       </tuv>
     </tu>
     <tu>
