@@ -3192,6 +3192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;The values shall be&lt;t1/&gt; rounded to the nearest whole number of degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133615Z" creationid="CCYU" creationdate="20141030T133601Z">
+        <seg>其數值應四捨五入至整數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The warranty&lt;t1/&gt; &lt;t2/&gt;period&lt;t3/&gt; &lt;t4/&gt;for &lt;t5/&gt;MEDISANA &lt;t6/&gt;products&lt;t7/&gt; &lt;t8/&gt;is three&lt;t9/&gt; &lt;t10/&gt;years from date&lt;t11/&gt; &lt;t12/&gt;of purchase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074423Z">
@@ -17011,6 +17019,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T073831Z">
         <seg>若機台位於密閉區域中，去除正常洩漏外流的油污是最重要的是；若非位於密閉區域中，能吸附所有大量洩漏的油污則是很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the maximum and/or the yearly cooling water temperature at site exceeds the values indicated in 5.2, all the prescribed temperature rise limits shall be reduced by the same amount as the excess.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133603Z" creationid="CCYU" creationdate="20141030T133549Z">
+        <seg>若現場最高溫或冷卻水溫超出 5.2 所示之數值，所有指定溫度上升限制應以等同超出值降低，</seg>
       </tuv>
     </tu>
     <tu>
