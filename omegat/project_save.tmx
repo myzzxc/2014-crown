@@ -3707,6 +3707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A corresponding reverse correction may be applied in cases where altitude of the factory is above 1 000 m and the altitude of the installation site is below 1 000 m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125900Z" creationid="CCYU" creationdate="20141030T125900Z">
+        <seg>當製造工廠高於海拔 1 000 公尺但安裝現場低於 1 000 公尺時以上述方式反向進行修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A detailed overview of the existing numerical models for the analysis on different &lt;t6/&gt;Stirling&lt;t7/&gt; engine cycles can be found in &lt;t8/&gt;Mahkamov&lt;t9/&gt; [11].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152656Z">
@@ -5887,6 +5895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131453Z">
         <seg>任何額外的測試或驗證符合此類特定要求所需之計算也應指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any altitude correction shall be rounded to the &lt;t0/&gt;nearest whole number of degrees kelvin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125925Z" creationid="CCYU" creationdate="20141030T125925Z">
+        <seg>所有高度修正之數值應四捨五入至凱氏溫標整數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40965,6 +40981,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020628Z" creationid="CCYU" creationdate="20141025T020628Z">
         <seg>當處理本產品時，應由具有本產品防爆安裝知識之人員根據本手冊施工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When' the specified temperature rise limits of a transformer have been reduced, either because of high cooling medium temperature or because of high-altitude installation, this shall be indicated on the rating plate &lt;t0/&gt;(see IEC 60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T130152Z" creationid="CCYU" creationdate="20141030T130152Z">
+        <seg>變壓器指定溫度上升限制降低時，無論是因為高冷媒溫度或安裝高度之因素，皆應標示於額定銘板上 (請見 IEC 60076-1)。</seg>
       </tuv>
     </tu>
     <tu>
