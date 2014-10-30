@@ -22559,10 +22559,34 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 5 The rules for determinin&lt;t0/&gt;g the hot-spot winding temperature rise are given in 7.10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115855Z" creationid="CCYU" creationdate="20141030T115855Z">
+        <seg>註 5 決定熱點繞組溫度上升之規則收錄於 7.10 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 5 Transformers can operate at rated current without excessive loss of life with a current harmonic content of less than 5 %, however it should be noted that the temperature rise will increase for any harmonic loading and may exceed rated rise.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105043Z">
         <seg>註 5 變壓器可在不超過電流諧波含量 5% 下以額定電流運轉而不會大幅減少壽命，然而應注意所有諧波負載會使溫度上升且可能超過額定上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 6 For large power transformers immersed in mineral oil, in-oil dissolved gas analysis (DGA) performed during the temperature rise test can be a tool for detecting undesirable overheating (see &lt;t0/&gt;Annex D).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T120210Z" creationid="CCYU" creationdate="20141030T120210Z">
+        <seg>註 6 大型礦物油浸式電力變壓器於溫度上升測試中進行之油溶解氣體分析 (DGA) 可作為偵測異常過熱之工具 (請見 附錄 D)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 7 For large power transformers, the temperature rise of tank and cover surfaces can be checked by means of a thermographic infrared camera.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T120346Z" creationid="CCYU" creationdate="20141030T120346Z">
+        <seg>註 7 大型變壓器之油槽及外蓋表面之溫度上升可藉由紅外線熱像儀檢測。</seg>
       </tuv>
     </tu>
     <tu>
