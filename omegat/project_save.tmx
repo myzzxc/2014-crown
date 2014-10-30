@@ -18007,6 +18007,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a transformer with two or more separate winding sections one above the other, the winding temperature limit shall apply to the average of the measurements of the stacked sec&lt;t0/&gt;tions, if they are of equal size and rating.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T113322Z" creationid="CCYU" creationdate="20141030T113322Z">
+        <seg>當變壓器具有兩組或多組獨立繞組區段連接時，若繞組尺寸及額定值相同時其溫度之限制為相連繞組之量測平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of transformers having more than one star-connected winding with neutral terminal, the zero-sequence impedance is dependent upon the connection (see 3.7.3) and the tests to be made shall be subject to agreement between the manufacturer and the purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T084135Z">
