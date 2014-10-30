@@ -35616,6 +35616,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The temperature rise limits given in Table 1 are valid for transformers with solid insulation designated as class 105 °C according to IEC 60085, and immersed in mineral oil or synthetic liquid &lt;t0/&gt;with a fire point &lt;t1/&gt;not above 300 °C (first code letter: O).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T113818Z" creationid="CCYU" creationdate="20141030T113736Z">
+        <seg>表 1 給定之溫度上升限制適用於具有固體絕緣符合 IEC 60085 之 105 °C 等級之變壓器，且浸入燃點不超過 300 °C 之礦物油或合成油 (代碼第一個字母為：O)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature-rise limits are valid for all &lt;t5/&gt;tappings&lt;t6/&gt;, at the appropriate tapping power, tapping voltage and tapping current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133738Z">
