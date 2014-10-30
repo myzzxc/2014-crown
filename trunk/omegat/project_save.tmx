@@ -4171,6 +4171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AF), the reduction shall b&lt;t0/&gt;e 1 K for every 250 m exceeding 1 000 m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125625Z" creationid="CCYU" creationdate="20141030T125625Z">
+        <seg>AF)，超過 1 000 公尺後每 250 公尺降低 1 K。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AIR TRANSPORT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181204Z">
@@ -43557,6 +43565,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125713Z">
         <seg>流體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for a forced-cooled transformer (....</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125550Z" creationid="CCYU" creationdate="20141030T125550Z">
+        <seg>強制冷卻變壓器 (....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for a naturally cooled transfor&lt;t0/&gt;mer (....AN), the limit of top-liquid, average and hot-spot winding temperature rises shall be reduced by 1 K for every interval of 400 m by which the installation's altitude exceeds 1 000 m;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125533Z" creationid="CCYU" creationdate="20141030T125533Z">
+        <seg>自然冷變壓器 (....AN)，頂層液體、平均以及熱點繞組溫度上升之限制，當安裝現場海拔超過 1 000 公尺時每 400 公尺應降低 1 K；</seg>
       </tuv>
     </tu>
     <tu>
