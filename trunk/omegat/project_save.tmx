@@ -10991,6 +10991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the temperature rise test, the transformer shall be equipped with its protective devices (for example, Buchholz relay).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T134830Z" creationid="CCYU" creationdate="20141030T134719Z">
+        <seg>溫度上升測試期間，變壓器應裝有保護裝置 (例如氣體繼電器 (Buchholz relay))，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E OUR END USERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164736Z">
