@@ -16574,6 +16574,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If considered necessary, a temperature rise limit for the magnetic core surfa&lt;t1/&gt;ce may be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115535Z" creationid="CCYU" creationdate="20141030T115535Z">
+        <seg>若有必要，製造商和買方之間應協議磁芯表面之溫度上限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If different values of apparent power are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113418Z">
@@ -22523,6 +22531,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020106Z">
         <seg>註 4 變壓器之開放繞組 (請見 3.1 0.5.)，繞組額定電流為額定功率除以相數以及開放繞組之額定電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 4 For some designs, the hot-spot winding temperature rise limit may imply lower top-liquid and/or average winding temperature rises than those indicated in the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115755Z" creationid="CCYU" creationdate="20141030T115755Z">
+        <seg>註 4 某些設計之熱點繞組溫度上升限制代表頂層液體和平均繞組溫度上升值較表中數值低。</seg>
       </tuv>
     </tu>
     <tu>
