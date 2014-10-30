@@ -35568,6 +35568,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sen&lt;t0/&gt;sors shall be distributed around the tank, about 2 m away from the perimeter of tank and cooling surfaces, and protected from direct heat radiation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T141428Z" creationid="CCYU" creationdate="20141030T141428Z">
+        <seg>感測器應分散於油槽四周距油槽外圍及冷卻表面約 2 公尺處，並防止直接熱輻射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sense of rotation of the phasor diagrams is counter-clockwise, giving the sequence I Il — III.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153614Z">
