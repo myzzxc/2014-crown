@@ -16951,6 +16951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the installation site is more than 1 000 m above sea-level but the factory is not, then the allowable temperature rises during the test in the factory shall be reduced as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125253Z" creationid="CCYU" creationdate="20141030T125253Z">
+        <seg>若安裝現場高於海拔 1 000 公尺但製造工廠未高於 1 000 公尺，則於工廠測試期間之容許溫度上升應依下列規則降低：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -22419,6 +22427,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z">
         <seg>註 2 繞組空載電流通常以繞組額定電流之百分比表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 The values &lt;t0/&gt;given in the Table 2 may be interpolated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125027Z" creationid="CCYU" creationdate="20141030T125027Z">
+        <seg>註 2 表 2 給定之數值可使用內插法計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35836,6 +35852,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021702Z">
         <seg>假設換氣活塞側牆上的溫度 (蓄熱通道壁) 保持固定線性分布：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature rise limits given in Table 1 are applied unless otherwise specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124838Z" creationid="CCYU" creationdate="20141030T124838Z">
+        <seg>除買方另行指定外其適用表 1 給定之溫度上升限制。</seg>
       </tuv>
     </tu>
     <tu>
