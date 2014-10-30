@@ -9118,6 +9118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correction of temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124501Z" creationid="CCYU" creationdate="20141030T124501Z">
+        <seg>修正溫度上升值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corresponding quantities with analogous meaning, related to other specific tappings, are called tapping quantities (see 3.5.9).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143005Z">
@@ -21015,6 +21023,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124519Z" creationid="CCYU" creationdate="20141030T124519Z">
+        <seg>最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum Supply Pressure All Ports:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140215Z" creationid="CCYU" creationdate="20141023T140215Z">
@@ -21735,6 +21751,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monthly average</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124513Z" creationid="CCYU" creationdate="20141030T124513Z">
+        <seg>月均溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moog Inc., East Aurora, NY 14052-0018 Telephone: +1-716-652-2000</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T143028Z" creationid="CCYU" creationdate="20141023T142634Z">
@@ -22171,6 +22195,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061005Z">
         <seg>註 1 為了測試電壓源之精確度，多數高負載條件下通常會使用大型單相變壓器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 No rules are given for ambient temperatures lower than the normal ones.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124645Z" creationid="CCYU" creationdate="20141030T124636Z">
+        <seg>註 1 環境溫度低於正常條件則無修正規則，</seg>
       </tuv>
     </tu>
     <tu>
@@ -41393,6 +41425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yearly average</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124509Z" creationid="CCYU" creationdate="20141030T124509Z">
+        <seg>年均溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yearly average temperature:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023049Z" creationid="MAE" creationdate="20141029T023045Z">
@@ -42109,6 +42149,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084425Z">
         <seg>多繞組變壓器指定分離繞組第一對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; Referred to the values given in Table 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124543Z" creationid="CCYU" creationdate="20141030T124543Z">
+        <seg>a&lt;t0/&gt; 參照表 1 給定數值。</seg>
       </tuv>
     </tu>
     <tu>
