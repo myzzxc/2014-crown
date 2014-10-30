@@ -33888,6 +33888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following subclauses describe the procedures for the determination of temperature and temperature rise values during factory testing and also the methods for substituting service loa&lt;t0/&gt;ding conditions by equivalent test procedures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T134513Z" creationid="CCYU" creationdate="20141030T134513Z">
+        <seg>以下小節說明工廠測試期間測定溫度及溫度上升值之程序，以及以等效測試程序切換運作負載條件之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following troubleshooting chart list potential troubles &lt;t0/&gt;encountered,&lt;t1/&gt; probable causes, and remedies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114345Z" creationid="Judy" creationdate="20141022T114317Z">
