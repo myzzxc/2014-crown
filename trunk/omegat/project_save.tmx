@@ -5955,6 +5955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any indication from these devices during the test shall be noted and the case inve&lt;t0/&gt;stigated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T135423Z" creationid="CCYU" creationdate="20141030T135423Z">
+        <seg>此類裝置於測試期間之所有指示應註明並進行案例調查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
