@@ -22615,6 +22615,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 When standardized transformers are to be used at high altitudes, a reduced value of power may be calculated, which from the point of view of cooling and temperature rise corresponds to service with rated power under normal ambient&lt;t0/&gt; conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133303Z" creationid="CCYU" creationdate="20141030T133303Z">
+        <seg>註 3 當標準變壓器用於高海拔時，可計算由冷卻及溫度上升觀點對應至正常環境條件下，以額定功率運作之降低功率值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 4 &lt;t0/&gt;For&lt;t1/&gt; open windings (see 3.1 0.5.) of a transformer, the rated current of the open windings is the rated&lt;t2/&gt; &lt;t3/&gt;power divided by the number of phases and by the rated voltage of the open winding:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111732Z">
