@@ -5219,6 +5219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambient temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T135811Z" creationid="CCYU" creationdate="20141030T135811Z">
+        <seg>環境溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambient temperatures °C</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124349Z" creationid="CCYU" creationdate="20141030T124349Z">
@@ -18171,6 +18179,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083350Z">
         <seg>若變壓器具有額外的三角連接繞組，測試電流值不應超出三角連接繞組內的電流，考慮電流持續時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of a transformer with more than one value of rated power (for example, when two or more cooling methods are provided), a temperature rise test shall be in principle performed for each rated power, but by agreement between manufacturer&lt;t0/&gt; and purchaser the number of tests can be reduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T135753Z" creationid="CCYU" creationdate="20141030T135753Z">
+        <seg>若於變壓器具有多於一組額定值的情況下 (例如，設有兩種或多種冷方法)，原則上應對各額定功率進行溫度上升測試，但由製造商與買方進行協議後可減少測試數目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31955,6 +31971,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Temperature of cooling medium</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T095537Z">
+        <seg>冷媒溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature of the cooling media</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T135805Z" creationid="CCYU" creationdate="20141030T135805Z">
         <seg>冷媒溫度</seg>
       </tuv>
     </tu>
