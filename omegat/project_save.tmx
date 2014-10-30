@@ -17063,6 +17063,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the temperature of the external cooling medium at site exceeds one or more of the normal values given in 5.1, all the temperature rise limits indicated i&lt;t0/&gt;n Table 1 shall be corrected by the same amount as the excess.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T123849Z" creationid="CCYU" creationdate="20141030T123849Z">
+        <seg>若現場之外部冷媒溫度超出 5.1 給定之一組或多組正常數值，表 1 給定之所有溫度上升限制應以等同超出值修正，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the third winding is not intended to be loaded, the symbol would indicate this by a&lt;t0/&gt; &lt;t1/&gt;plus sign.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015147Z">
