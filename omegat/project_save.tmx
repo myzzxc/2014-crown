@@ -23279,6 +23279,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No numerical limits are specified for the temperature rise of magnetic core, bare electrical connections, electrical or magnetic shields and structural parts&lt;t0/&gt; in the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115150Z" creationid="CCYU" creationdate="20141030T115020Z">
+        <seg>磁芯、電氣連接、電氣或磁性屏蔽以及油槽之結構零件無指定溫度上升限制數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No performance determined (NPD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112954Z">
