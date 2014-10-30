@@ -17007,6 +17007,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the service conditions at the intended installation site do not fall within the limits of normal cooling conditions given in Clause 5, then the limits of temperature rise for the &lt;t0/&gt;transformer shall be modified in accordance with the rules indicated below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T123617Z" creationid="CCYU" creationdate="20141030T123617Z">
+        <seg>若安裝現場之運作條件不在第 5 條中給定之正常冷卻條件限制範圍內，則變壓器之溫度上升限制應依以下規則修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range exceeds ±5 % or the rated power is above 2 500 kVA, the guaranteed losses shall be stated on the principal tapping position, unless otherwise specified by the purchaser at the &lt;t0/&gt;enquiry stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133045Z">
