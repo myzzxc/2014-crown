@@ -6179,6 +6179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an alternative and by agreement between manufacturer and purchaser, the winding temperature rise requirements may be limited to the hot-spot winding&lt;t1/&gt; temperature rise which shall be determined by direct measurement in this case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121223Z" creationid="CCYU" creationdate="20141030T121223Z">
+        <seg>由製造商和買方之間協定，繞組溫度上升要求可只限於熱點繞組溫度上升，此情況下須直接測量以測定上升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z">
