@@ -13448,6 +13448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a multi-winding transformer&lt;t0/&gt;, when the rated power of one winding is equal to the sum of the rated powers of the other windings, the temperature rise requirements refer to rated power in all windings simultaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112635Z" creationid="CCYU" creationdate="20141030T112635Z">
+        <seg>對於多繞組變壓器，當一繞組之額定功率等於其他繞組之額定功率總和時，溫度上升之要求同時參照所有繞組之額定功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a three-phase transformer, the mean value of readings in the three phases is taken.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064514Z">
@@ -17171,6 +17179,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075902Z">
         <seg>若發生此類情型，必須使用重新取樣技術以從原始影像中選擇像素值並複製到新影像中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this is not the case, one or more particular loading combinations&lt;t1/&gt; have to be selected and specified for the temperature rise limits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112933Z" creationid="CCYU" creationdate="20141030T112933Z">
+        <seg>若非此情況，需選定一組或多組特定負載組合並指明溫度上升限制。</seg>
       </tuv>
     </tu>
     <tu>
