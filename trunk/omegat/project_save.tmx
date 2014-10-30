@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- ON., and OF., cooling systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114758Z" creationid="CCYU" creationdate="20141030T114758Z">
+        <seg>- ON、和 OF、冷卻系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-25 °C in the case of outdoor transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100428Z">
@@ -6543,6 +6551,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194903Z">
         <seg>平均和加總量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average winding (by winding resistance &lt;t0/&gt;variation):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114646Z" creationid="CCYU" creationdate="20141030T114610Z">
+        <seg>繞組平均 (繞組電阻變化)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15439,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040846Z">
         <seg>熱軋機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot-spot winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114808Z" creationid="CCYU" creationdate="20141030T114808Z">
+        <seg>繞組熱點</seg>
       </tuv>
     </tu>
     <tu>
@@ -42581,6 +42605,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132814Z">
         <seg>工業用的整流變壓器 (IEC 61378-1)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cooling system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114805Z" creationid="CCYU" creationdate="20141030T114805Z">
+        <seg>冷卻系統</seg>
       </tuv>
     </tu>
     <tu>
