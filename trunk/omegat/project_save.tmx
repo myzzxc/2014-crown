@@ -24287,6 +24287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On windings of very low resistance with numerous bolted connections (e.g., low voltage winding of furnace transformers), the determination of the average&lt;t0/&gt; winding temperature rise by resistance variation may be difficult and subjected to a large uncertainty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121005Z" creationid="CCYU" creationdate="20141030T121005Z">
+        <seg>具有大量螺栓連接之非常低電阻之繞組 (例如，電爐變壓器之低壓繞組)，藉由電壓變化測定平均繞組溫度上升可能非常困難且具有大量不確定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once they are locked in, they are there until they are broken down into environmentally friendly elements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z">
