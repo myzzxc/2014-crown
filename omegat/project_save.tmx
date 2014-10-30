@@ -6467,6 +6467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least four sensors shall be provided and the average of their readi&lt;t0/&gt;ngs shall be used to determine the ambient temperature for the evaluation of the test results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T140436Z" creationid="CCYU" creationdate="20141030T140305Z">
+        <seg>至少應設有四組溫度感測器並使用其讀樹脂平均以測定評估測試結果之環境溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At no load, transformers shall be capable of continuous operation at a V/Hz of 110 % of the rated V/Hz.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162510Z">
@@ -22915,6 +22923,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023326Z">
         <seg>註 串聯變壓器中抽頭係數為串聯繞組對給定抽頭 Ur 之電壓比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE For tests on large power transformers, the number of sensors should be increased up to six in order to reduce the uncertainty that can affect the average of&lt;t0/&gt; the readings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T140516Z" creationid="CCYU" creationdate="20141030T140420Z">
+        <seg>註 對於大型變壓器，感測器數量最高應增加至六組以降低影響讀數平均之不確定性。</seg>
       </tuv>
     </tu>
     <tu>
