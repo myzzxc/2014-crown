@@ -11031,6 +11031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dur&lt;t0/&gt;ing this test the transformer is not subjected to rated voltage and rated current simultaneously, but to the calculated total losses, previously obtained by two separate determinations of losses, namely load loss at reference temperature and no-load loss (&lt;t1/&gt;see IEC 60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133642Z" creationid="CCYU" creationdate="20141031T133642Z">
+        <seg>此測試中變壓器不同時使用額定電壓及額定電流，但為了計算總損耗，先分別測定於參考溫度之負載損耗和空載損耗等兩種損耗 (請見 IEC 60076-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Durability is only&lt;t1/&gt; &lt;t2/&gt;ensured if the specifications of intended use according to Annex B are taken into account.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021629Z">
