@@ -35336,6 +35336,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purpose of the test is to establish:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133746Z" creationid="CCYU" creationdate="20141031T133746Z">
+        <seg>測試之目的為紀錄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pushing of gas by the displacer and power pistons creates an effect similar to impingement that largely compresses the isothermal lines towards the hot or cold ends and increases the local temperature gradient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z">
