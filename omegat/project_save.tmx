@@ -18103,6 +18103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In special cases, if agreed, the test can be performed applying rated voltage and cur&lt;t0/&gt;rent by connection to a suitable load.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T131335Z" creationid="CCYU" creationdate="20141031T131335Z">
+        <seg>特殊情況下若經協議，可連接至合適負載於額定電壓及電流下進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In structures assigned to Seismic Design Category C, D, E or F under the IBC or IRC, anchor strength must be adjusted in accordance with Section 4.1.11 of this report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081420Z">
