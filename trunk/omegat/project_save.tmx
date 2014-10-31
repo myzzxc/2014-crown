@@ -6579,6 +6579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention shall be paid to&lt;t0/&gt; possible recirculation of hot air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T124616Z" creationid="CCYU" creationdate="20141031T124610Z">
+        <seg>應注意可能之熱空氣再循環，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attention!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143112Z">
@@ -14197,6 +14205,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T135942Z" creationid="CCYU" creationdate="20141030T135942Z">
         <seg>溫度上升測試之冷卻空氣溫度應介於 10 °C 至變壓器設計最高環境溫度之間的範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the temperature rise test, the cooling water temperature should be in the range between 5 °C and the maximum water temperature for which the transformer is designed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125523Z" creationid="CCYU" creationdate="20141031T125523Z">
+        <seg>溫度上升測試之冷卻水溫度應介於 5 °C 至變壓器設計最高水溫之間的範圍內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26031,6 +26047,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautions should be taken to minimize variations of cooling-air temperature, particularly during&lt;t0/&gt; the last part of the test period when steady state conditions are approached.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125003Z" creationid="CCYU" creationdate="20141031T124957Z">
+        <seg>需謹慎以最小化冷卻空氣溫度變化，特別是於測試最後一段期間當已達到穩態條件時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferred values of rated power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T121832Z">
@@ -26796,6 +26820,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022559Z">
         <seg>Rabbit&lt;t0/&gt; 兔子     &lt;t1/&gt; 0&lt;t2/&gt;     &lt;t3/&gt;-&lt;t4/&gt;           &lt;t5/&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rapid variation of readings due to turbulence should be prevented by appropriate means such as heat sinks for the temperature sensors of thermal time constant similar to the tra&lt;t1/&gt;nsformer thermal time constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125443Z" creationid="CCYU" creationdate="20141031T125443Z">
+        <seg>應以適當的方法避免擾流使讀數快速變化，如使用散熱器於溫度感測器使其熱時間常數與變壓器熱時間常數相近。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36320,6 +36352,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The transformer should be placed so as to minimize obstructions to the air flow and to provide stable ambient conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T124750Z" creationid="CCYU" creationdate="20141031T124750Z">
+        <seg>變壓器應置於對氣流阻礙最低之處以提供穩定的環境條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The transformer specification and design also need to take into account that large changes in impedance between taps can reduce or exaggerate the effect of the &lt;t0/&gt;tappings&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130115Z">
@@ -40773,6 +40813,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021415Z">
         <seg>水飽和混凝土</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125449Z" creationid="CCYU" creationdate="20141031T125449Z">
+        <seg>水溫</seg>
       </tuv>
     </tu>
     <tu>
