@@ -26047,6 +26047,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Precautions shall be-taken to minimize the variations of water cooling flow and temperature during the test period.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125836Z" creationid="CCYU" creationdate="20141031T125836Z">
+        <seg>需謹慎以最小化測試段期之冷卻水流及溫度變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precautions should be taken to minimize variations of cooling-air temperature, particularly during&lt;t0/&gt; the last part of the test period when steady state conditions are approached.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125003Z" creationid="CCYU" creationdate="20141031T124957Z">
@@ -27124,6 +27132,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040446Z">
         <seg>使用此裝置前仔細閱讀使用說明，特別是安全說明，並保留說明手冊供未來使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Readings of temperature and rate of water flow should be taken at regular intervals (&lt;t0/&gt;e.g., every ten minutes), or automatic continuous recording may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125754Z" creationid="CCYU" creationdate="20141031T125754Z">
+        <seg>溫度讀數及水流率應定期讀取 (例如，每十分鐘)，或可使用自動連續紀錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32312,6 +32328,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test methods for temperature rise determination</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125911Z" creationid="CCYU" creationdate="20141031T125911Z">
+        <seg>溫度上升測定方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test performed according DIN 53387-1-A-X</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062215Z">
@@ -34336,10 +34360,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The interpretation of the test resul&lt;t0/&gt;ts shall be subject to agreement if the water temperature is outside the limits indicated above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125608Z" creationid="CCYU" creationdate="20141031T125608Z">
+        <seg>若測試期間水溫落於指定限制範圍外，測試結果判斷應由雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The interpretation of the test results shall be subject to agreement if the external cooling medium temperature during the test is outside the limits indicated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T140124Z" creationid="CCYU" creationdate="20141030T140124Z">
-        <seg>若測試期間外部冷媒溫度落於指定範圍外，測試結果判斷應由雙方協議。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125615Z" creationid="CCYU" creationdate="20141030T140124Z">
+        <seg>若測試期間外部冷媒溫度落於指定限制範圍外，測試結果判斷應由雙方協議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36116,6 +36148,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T113818Z" creationid="CCYU" creationdate="20141030T113736Z">
         <seg>表 1 給定之溫度上升限制適用於具有固體絕緣符合 IEC 60085 之 105 °C 等級之變壓器，且浸入燃點不超過 300 °C 之礦物油或合成油 (代碼第一個字母為：O)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature shall be measured at the intake of the cooling equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125723Z" creationid="CCYU" creationdate="20141031T125723Z">
+        <seg>應量測冷卻設備入口處之溫度，</seg>
       </tuv>
     </tu>
     <tu>
