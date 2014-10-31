@@ -7292,6 +7292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By means of different voltage ratios or an injected voltage, rated current is made to flow in the windings of the transformer under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133311Z" creationid="CCYU" creationdate="20141031T133311Z">
+        <seg>藉由不同電壓比或輸入電壓，額定電流流入測試變壓器之繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By plotting the standard deviation in measured displacement against test patch size, the influence of patch size on measurement precision can be seen (Fig. 7).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120651Z">
@@ -18483,6 +18491,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T081217Z">
         <seg>以此方式，藉由減小該腔體之換氣與動力活塞上下邊界距離以減少個別腔體體積，此方式等同於向固體牆面推動氣體，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this method, two transformers, one of which is the transformer under test, are connected in parallel and exc&lt;t0/&gt;ited at the rated voltage of the transformer under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133114Z" creationid="CCYU" creationdate="20141031T133114Z">
+        <seg>此方法使用兩台變壓器並聯且測試之變壓器於額定電壓下勵磁，其中一台變壓器進行測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32324,6 +32340,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140810T085314Z">
         <seg>測試結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test by short-circuit method for two winding transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133344Z" creationid="CCYU" creationdate="20141031T133344Z">
+        <seg>雙繞組變壓器之短路測試方法 transformers</seg>
       </tuv>
     </tu>
     <tu>
