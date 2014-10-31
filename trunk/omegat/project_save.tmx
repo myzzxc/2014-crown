@@ -38080,6 +38080,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is mainly applicable to transformers with low rated power.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T132608Z" creationid="CCYU" creationdate="20141031T132608Z">
+        <seg>此測試主要適用於低額定功率之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is much smaller than that in the expansion chamber during its injection phase.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232916Z">
