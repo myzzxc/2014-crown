@@ -10278,6 +10278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of average winding temperature rise at the instant of shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155018Z" creationid="CCYU" creationdate="20141101T155018Z">
+        <seg>關機瞬間平均繞組溫度上升測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of capacitances windings-to-earth and between windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152915Z">
@@ -10336,8 +10344,8 @@
       <tuv lang="EN-US">
         <seg>Determination of winding resistance at the instant of shutdown</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T153547Z" creationid="CCYU" creationdate="20141101T153547Z">
-        <seg>關機瞬間測定繞組電阻</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155027Z" creationid="CCYU" creationdate="20141101T153547Z">
+        <seg>關機瞬間繞組電阻測定</seg>
       </tuv>
     </tu>
     <tu>
@@ -17146,6 +17154,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T071835Z" creationid="CCYU" creationdate="20141025T071829Z">
         <seg>若正確安裝則可用於氣體群 IIA、MB 以及 IIC 之爆炸性環境中，依 ATEX 指令 94/9/EC 之 ATEX 類別 2 及依 IECEX 標準 IEC 60079-0 &amp; IEC 60079-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If pumps are operating during the temperature rise test, they should be maintained &lt;t0/&gt;during the measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154828Z" creationid="CCYU" creationdate="20141101T154828Z">
+        <seg>若泵於溫度上升測試期間運轉，則於量測期間應維持運轉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27660,6 +27676,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063801Z">
         <seg>建議</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommendations for the detailed execution of the measurement are given in Annex C.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154937Z" creationid="CCYU" creationdate="20141101T154937Z">
+        <seg>詳細之量測執行建議收錄於附錄 C 中。</seg>
       </tuv>
     </tu>
     <tu>
