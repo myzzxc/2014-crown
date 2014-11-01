@@ -3305,6 +3305,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;This part of the test determines the maximum top-liquid temperature rise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T114151Z" creationid="Judy" creationdate="20141101T114151Z">
+        <seg>此部分之測試測定最大頂層液體溫度上升，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;Translations of this European Technical Assessment in other language&lt;t2/&gt;s shall fully correspond to the &lt;t3/&gt;original issued document a&lt;t4/&gt;nd shall be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102600Z">
