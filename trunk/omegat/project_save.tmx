@@ -36450,8 +36450,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The total losses &lt;t0/&gt;to be injected during the first part of the test (see 7.3.2 a)), shall be equal to the highest value of total loss appearing at any tapping (corresponding to its tapping quantities).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T113743Z" creationid="Judy" creationdate="20141101T113743Z">
-        <seg>測試第一部分注入之總損耗 (請見 7.3.2 a)), shall be equal to the highest value of total loss appearing at any tapping (corresponding to its tapping quantities).</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T113926Z" creationid="Judy" creationdate="20141101T113743Z">
+        <seg>測試第一部分注入之總損耗 (請見 7.3.2 a)) 應等於所有抽頭中出現之總損耗最高值 (對應至其抽頭量)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38676,6 +38676,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205555Z">
         <seg>這項研究提出了史特林引擎內部複雜的熱傳機制，對於了解引擎循環的基本過程非常有幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tapping is also often, but not always, the maximum current tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T114052Z" creationid="Judy" creationdate="20141101T114052Z">
+        <seg>此抽頭通常 (但非絕對) 為最大電流抽頭。</seg>
       </tuv>
     </tu>
     <tu>
