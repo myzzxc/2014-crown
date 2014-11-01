@@ -17489,8 +17489,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If this does not apply, there are specified loading cases with different combinations of individual winding loads.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115428Z" creationid="Judy" creationdate="20141101T115428Z">
-        <seg>若此情況不適用，參照不同獨立繞組負載組合之指定負載條件。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115525Z" creationid="Judy" creationdate="20141101T115428Z">
+        <seg>若此情況不適用，參照不同獨立繞組負載組合之指定負載情況，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32648,6 +32648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That case which will be&lt;t0/&gt;1&lt;t1/&gt; as&lt;t2/&gt;sociated with the highest total loss shall determine the test power for the determination of liquid temperature rise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115843Z" creationid="Judy" creationdate="20141101T115843Z">
+        <seg>該情況與最高總損耗之關聯性決定了測定液體溫度上升之測試功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That is, the regeneration effect by the wall of core cylinder alone is not very effective.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T071258Z">
@@ -36332,6 +36340,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T113818Z" creationid="CCYU" creationdate="20141030T113736Z">
         <seg>表 1 給定之溫度上升限制適用於具有固體絕緣符合 IEC 60085 之 105 °C 等級之變壓器，且浸入燃點不超過 300 °C 之礦物油或合成油 (代碼第一個字母為：O)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature rise value for an individual winding above liquid shall be obtained with rated current in the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T120056Z" creationid="Judy" creationdate="20141101T120056Z">
+        <seg>獨立繞組之液體溫度上升應於繞組使用額定電流時測定。</seg>
       </tuv>
     </tu>
     <tu>
