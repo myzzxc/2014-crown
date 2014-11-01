@@ -16918,6 +16918,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If none of the methods above can be applied in full, because of limitations of test facilities, it may be agreed to perform the test with reduced loss, down to 80 % of the correct value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124208Z" creationid="CCYU" creationdate="20141101T124208Z">
+        <seg>若以上方法因測試設施限制而皆不可行，可協議降低損耗直至正確值之 80 % 以進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not breathing, provide CPR (cardio pulmonary resuscitation).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171052Z">
@@ -37076,6 +37084,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054100Z">
         <seg>並於使用至少關閉裝置半小時以冷卻裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then the measured temperature value shall be corrected according&lt;t0/&gt; to 7.13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124310Z" creationid="CCYU" creationdate="20141101T124310Z">
+        <seg>然後量測之溫度值應依照 7.13 進行校正。</seg>
       </tuv>
     </tu>
     <tu>
