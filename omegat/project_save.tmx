@@ -17487,6 +17487,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this does not apply, there are specified loading cases with different combinations of individual winding loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115428Z" creationid="Judy" creationdate="20141101T115428Z">
+        <seg>若此情況不適用，參照不同獨立繞組負載組合之指定負載條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this happens,&lt;t26/&gt; &lt;t27/&gt;we need the resampling technique, so that we can choose the&lt;t28/&gt; &lt;t29/&gt;pixel value from the original image to copy into the new image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075902Z">
