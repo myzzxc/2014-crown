@@ -17767,6 +17767,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immediately after disconnection of the test power supply and removal of the short-circuiting connection, a direct current measuring circuit shall be connected across the winding terminals corresponding to the &lt;t0/&gt;resistance to be measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154009Z" creationid="CCYU" creationdate="20141101T154009Z">
+        <seg>切斷測試電源及移除短路連接後，立即於繞組電阻量測之端子間連接直流量測電路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately flush eyes with plenty of water for at least 15 minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171254Z">
