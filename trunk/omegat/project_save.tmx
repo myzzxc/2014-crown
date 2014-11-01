@@ -4155,6 +4155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A#w &lt;t0/&gt;=&lt;t1/&gt; &lt;t2/&gt;@2&lt;t3/&gt; A^ofm &lt;t4/&gt;—</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155859Z" creationid="CCYU" creationdate="20141101T155859Z">
+        <seg>ΔΘw = Θ2 + Θofm - Θa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.1.1 Normal information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124040Z">
@@ -33992,6 +34000,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The corrected winding average temperature rise of the winding ( A&lt;9&lt;t0/&gt;W&lt;t1/&gt; ) is then:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155805Z" creationid="CCYU" creationdate="20141101T155805Z">
+        <seg>繞組之校正繞組平均溫度上升 (ΔΘ&lt;t0/&gt;w&lt;t1/&gt;) 為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The correlation plane C(s) is evaluated at single pixel intervals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092448Z">
@@ -35252,6 +35268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T020425Z">
         <seg>負載損耗量測值應將測試電流乘以額定電流 (抽頭電流) 比之平方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measured values of winding average temperature shall be raised by the same amount as the average liquid temperature has fallen from the correct value obtained as given in 7.&lt;t0/&gt;4.2 to that at the end of the 1 h with rated current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155639Z" creationid="CCYU" creationdate="20141101T155612Z">
+        <seg>繞組平均溫度量測值應提高等同於平均液體溫度於額定電流下最後一小時結束時依 7.4.2 校正後所降低之量。</seg>
       </tuv>
     </tu>
     <tu>
