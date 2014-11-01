@@ -14256,6 +14256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For star connected, low voltage and high current windings, the measurement should be made between line &lt;t0/&gt;terminals in order to exclude the neutral connection from the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145843Z" creationid="CCYU" creationdate="20141101T145843Z">
+        <seg>對於星型連接之低電壓和高電流繞組，應量測各線路端子組合以排除中性連接於測試電路外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For star-star connected transformers or autotransformers, if the design has a closed magnetic circuit for zero sequence flux and no delta winding is specified, then the requirement shall be discussed between the manufacturer and the purchaser (see IEC 60076-8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154919Z">
