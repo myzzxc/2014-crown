@@ -21647,6 +21647,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurements using a pocket in the cover may be disturbed by eddy current heating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132423Z" creationid="CCYU" creationdate="20141101T132423Z">
+        <seg>使用外蓋內袋量測可能受渦電流加熱干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical feedback elements position the spool relative to the valve body for a given input signal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103007Z">
@@ -22579,6 +22587,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T150730Z">
         <seg>註 1 當電壓以額定值加載於其中一繞組時，所有繞組之空載額定電壓同時出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 The temperature of the liquid may be different at different places in the top of the tank, depending on the design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132445Z" creationid="CCYU" creationdate="20141101T132313Z">
+        <seg>註 1 油槽頂部不同位置之液體溫度可能因設計而有所不同，</seg>
       </tuv>
     </tu>
     <tu>
