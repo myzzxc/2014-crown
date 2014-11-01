@@ -36448,6 +36448,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The total losses &lt;t0/&gt;to be injected during the first part of the test (see 7.3.2 a)), shall be equal to the highest value of total loss appearing at any tapping (corresponding to its tapping quantities).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T113743Z" creationid="Judy" creationdate="20141101T113743Z">
+        <seg>測試第一部分注入之總損耗 (請見 7.3.2 a)), shall be equal to the highest value of total loss appearing at any tapping (corresponding to its tapping quantities).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The track is 33 to 68 mil designation thickness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110806Z">
@@ -40157,6 +40165,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004808Z">
         <seg>單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless &lt;t0/&gt;otherwise specified, the temperature rise test is conducted with the transformer connected on the maximum current tapping (see IEC 60076-1) and the tapping current for that tapping is used during the later part of the test (see 7.3.2 b)).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T113752Z" creationid="Judy" creationdate="20141101T113529Z">
+        <seg>除非另行指定，否則測試於變壓器連接至最大電流抽頭下進行 (請見 IEC 60076-1) 且該抽頭之抽頭電流用於後續部分之測試 (請見 7.3.2 b))。</seg>
       </tuv>
     </tu>
     <tu>
