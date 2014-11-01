@@ -22743,6 +22743,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 In transformers with forc&lt;t0/&gt;ed circulation the liquid in the cooling equipment is a mixture of liquid from the windings with bypass liquid in the tank, which may not be uniform between different parts of the tank or between different cooling-circuit headers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T133007Z" creationid="CCYU" creationdate="20141101T133007Z">
+        <seg>註 2 以冷卻設備強制循環之變壓器液體為繞組液體與油槽旁通液體之混合，於油槽不同部份或不同冷卻管路之間之液體可能不均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Passive elements are not liable to cause electromagnetic disturbances and their performance is not liable to be affected by such disturbances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132315Z">
