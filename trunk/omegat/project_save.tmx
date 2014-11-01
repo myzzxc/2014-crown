@@ -6395,10 +6395,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the resistance of the winding varies with time as the winding cools down, it shall be measured for a sufficient time to permit extrapolation back to the instant of shutdown,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154202Z" creationid="CCYU" creationdate="20141101T154202Z">
+        <seg>當繞組冷卻時繞組電阻隨時間變化，應有足夠的量測時間以延續至關機瞬間後。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the results shown by PIV, we can see the horizontal direction and magnitude of the Hongtsaiping landslide in two different time intervals respectively (Fig. 8).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124547Z">
         <seg>如 PIV 結果所示，可見到紅菜坪地滑分別於兩個不同時間內的水平方向與規模 (圖 8)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As the windings have a large electrical time constan&lt;t0/&gt;t (L/R), accurate readings are therefore obtained only after a certain delay.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154355Z" creationid="CCYU" creationdate="20141101T154355Z">
+        <seg>當繞組具有大電氣時間常數 (L/R)，僅於特定延遲後能得到準確讀數，</seg>
       </tuv>
     </tu>
     <tu>
