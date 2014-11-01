@@ -22951,6 +22951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 For ONAN transformers up to 2 500 kVA, with plain or &lt;t0/&gt;corrugated tanks, or individual cooling tubes mounted directly on the tank, the average liquid temperature rise above ambient temperature may be taken as 80 % of the top-liquid temperature rise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T141245Z" creationid="CCYU" creationdate="20141101T141245Z">
+        <seg>註 3 對於 2 500 kVA 以下具有波形油槽或獨立冷卻管直接安裝至油槽之 ONAN 變壓器，環境溫度下之平均液體溫度上升可取頂層液體溫度上升之 80 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For a single phase transformer not intended to be connected to form a three phase bank, the rated current is</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T015704Z">
