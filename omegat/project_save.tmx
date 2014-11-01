@@ -22479,6 +22479,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 &lt;t0/&gt;The flow of liquid in return headers may be turbulent, if forced by a pump, or mainly laminar, if there is natural circulation through the radiators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140046Z" creationid="CCYU" creationdate="20141101T140046Z">
+        <seg>註 1 若使用泵強制循環之返回管路液體流可能為渦流，若使用散熱器自然循環則主要為層流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 &lt;t0/&gt;The&lt;t1/&gt; selection of an impedance value by the user is subject to conflicting demands: limitation of voltage drop versus limitation of overcurrent under system fault conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T124510Z">
