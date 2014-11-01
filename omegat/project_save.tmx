@@ -7196,6 +7196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bottom and average liquid temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134536Z" creationid="CCYU" creationdate="20141101T134536Z">
+        <seg>底層和平均液體溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bottom oil temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153506Z">
@@ -7320,6 +7328,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T134202Z" creationid="CCYU" creationdate="20141030T134202Z">
         <seg>溫度上升限制或指定負載循環操作之特殊測試可由製造商與買方之間協議進行保證 (請見 IEC 60076-7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By agreement between manufacturer and purchaser, the top-liquid temperature can be determined assuming as the average of the indications of the pockets placed on the cover a&lt;t0/&gt;nd the temperature of the liquid of the inlet of the cooling equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134348Z" creationid="CCYU" creationdate="20141101T134348Z">
+        <seg>依製造商和買方之間的協議，頂層液體溫度測定可以假設為外蓋內袋以及冷設備入口之指示值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22947,6 +22963,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T104053Z">
         <seg>註 3 相關溫度為冷卻設備入口處而非外部空氣溫度，這意味著使用者應注意安裝條件會造成冷卻器輸出的空氣再循環，當評估冷卻空氣溫度需考慮此點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 The temperature of the liquid in the inlet of the cooling equipment shall be measured by sensors located in the centre of the pipes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134515Z" creationid="CCYU" creationdate="20141101T134515Z">
+        <seg>註 3 冷卻設備入口液體溫度應以置於管路中心之感測器量測。</seg>
       </tuv>
     </tu>
     <tu>
