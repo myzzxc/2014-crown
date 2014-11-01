@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 pocket.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131307Z" creationid="CCYU" creationdate="20141101T131307Z">
+        <seg>1 內袋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 year radiation in Mid Europe</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143255Z">
@@ -1422,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 pockets;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131300Z" creationid="CCYU" creationdate="20141101T131300Z">
+        <seg>2 內袋；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2-Color Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044108Z">
@@ -1602,6 +1618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130445Z">
         <seg>3 專有名詞和定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 pockets;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131226Z" creationid="CCYU" creationdate="20141101T131226Z">
+        <seg>3 內袋；</seg>
       </tuv>
     </tu>
     <tu>
@@ -45733,6 +45757,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155641Z">
         <seg>額定功率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated power from 20 MVA to &lt;100 MVA:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131244Z" creationid="CCYU" creationdate="20141101T131244Z">
+        <seg>額定功率由 20 MVA 至 &lt;100 MVA：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated powers 100 MVA:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131221Z" creationid="CCYU" creationdate="20141101T131221Z">
+        <seg>額定功率 100 MVA：</seg>
       </tuv>
     </tu>
     <tu>
