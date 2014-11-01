@@ -23343,6 +23343,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For the low voltage windings of very large power transformers, attention &lt;t0/&gt;should be paid to the possible formation of a thermocouple e.m.f.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150950Z" creationid="CCYU" creationdate="20141101T150950Z">
+        <seg>註 對於超大型電力變壓器之低壓繞組，應特別注意關機後電阻量測期間金屬接點之間可能產生之熱電藕電動勢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE ISO 14122 series, Safety of machinery — Permanent means of access to machinery, should be consulted where ladders, platforms and similar means of access are provided with the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035312Z">
@@ -43533,6 +43541,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103911Z">
         <seg>b) 大功率變壓器 (具有平面油槽壁)，超過 100 MVA：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>between .metallic contacts during the resistance measurement after shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150953Z" creationid="CCYU" creationdate="20141101T150953Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
