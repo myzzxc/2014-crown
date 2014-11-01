@@ -32448,6 +32448,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test modification for particular transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T091951Z" creationid="Judy" creationdate="20141101T091951Z">
+        <seg>特定變壓器之測試修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test performed according DIN 53387-1-A-X</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T062215Z">
