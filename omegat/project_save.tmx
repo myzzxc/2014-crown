@@ -15113,6 +15113,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guidance for recalculation of losses in multi-winding transformers is given in IEC 60076-8.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T120732Z" creationid="Judy" creationdate="20141101T120732Z">
+        <seg>多繞組變壓器隻損耗重新計算說明收錄於 IEC 60076-8 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guidance may&lt;t1/&gt; be found in IEC/TR 60616.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153617Z">
@@ -18395,6 +18403,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084400Z">
         <seg>另一方面，於壓縮腔體中，圖 12 (b) 顯示出具有移動式再生器的最大壓力較無移動式再生器的情況小，但前者最小壓力較小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the determinatio&lt;t0/&gt;n of winding temperature rise above medium cooling medium, the liquid temperature rise for the relevant loading case will be recalculated from the total loss injection test, according to 7.13, and likewise the winding temperature rise above liquid for each&lt;t1/&gt; winding, as applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T120625Z" creationid="Judy" creationdate="20141101T120625Z">
+        <seg>測定冷媒處之繞組溫度上升時，對應負載情況下之液體溫度上升將根據 7.13 以總損耗注入測試重新計算，液體處之繞組溫度上升測定亦同。</seg>
       </tuv>
     </tu>
     <tu>
