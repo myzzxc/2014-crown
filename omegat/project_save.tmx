@@ -16950,6 +16950,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If more than one pocket is used, the readings of the sensors shall be averaged in order to obtain a representative &lt;t0/&gt;temperature value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132157Z" creationid="CCYU" creationdate="20141101T132157Z">
+        <seg>若使用多於一內袋，感測器讀數應取平均以得到代表之溫度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, the cleaning repeated has to be directly before dispensing the mortar.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002807Z">
@@ -35340,6 +35348,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T135059Z">
         <seg>在設計圖中註明錨固位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The position of the sensors should be chosen to present the top-iiquid temperature possibly in correspondence to the wound columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132049Z" creationid="CCYU" creationdate="20141101T132049Z">
+        <seg>感測器位置之選擇應盡可能呈現繞組對應之頂層液體溫度。</seg>
       </tuv>
     </tu>
     <tu>
