@@ -7196,6 +7196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Botto&lt;t0/&gt;m liquid is the term which actually means the temperature of liquid entering the windings at the bottom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134842Z" creationid="CCYU" creationdate="20141101T134842Z">
+        <seg>底層液體之定義為於繞組底部進入之液體溫度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bottom and average liquid temperatures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134536Z" creationid="CCYU" creationdate="20141101T134536Z">
