@@ -3725,8 +3725,8 @@
       <tuv lang="EN-US">
         <seg>A corresponding reverse correction may be applied in cases where altitude of the factory is above 1 000 m and the altitude of the installation site is below 1 000 m.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125900Z" creationid="CCYU" creationdate="20141030T125900Z">
-        <seg>當製造工廠高於海拔 1 000 公尺但安裝現場低於 1 000 公尺時以上述方式反向進行修正。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090912Z" creationid="CCYU" creationdate="20141030T125900Z">
+        <seg>當製造工廠高於海拔 1 000 公尺但安裝現場低於 1 000 公尺時以上述方式反向進行校正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,8 +5933,8 @@
       <tuv lang="EN-US">
         <seg>Any altitude correction shall be rounded to the &lt;t0/&gt;nearest whole number of degrees kelvin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125925Z" creationid="CCYU" creationdate="20141030T125925Z">
-        <seg>所有高度修正之數值應四捨五入至凱氏溫標整數值。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090917Z" creationid="CCYU" creationdate="20141030T125925Z">
+        <seg>所有高度校正之數值應四捨五入至凱氏溫標整數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9232,8 +9232,8 @@
       <tuv lang="EN-US">
         <seg>Correction of temperature rise</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124501Z" creationid="CCYU" creationdate="20141030T124501Z">
-        <seg>修正溫度上升值</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090852Z" creationid="CCYU" creationdate="20141030T124501Z">
+        <seg>校正溫度上升值</seg>
       </tuv>
     </tu>
     <tu>
@@ -17091,6 +17091,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060519Z">
         <seg>若電壓表之間的讀值差異大於 3 %，該測試的有效性需經雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the direct measurement of the hot-spot win&lt;t0/&gt;ding temperature is provided, the corresponding temperature rise is obtained by taking the highest reading before disconnection and applying the correction indicated in 7.10.3 because the liquid temperature decreases when the current is reduced to the rate&lt;t1/&gt;d value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090830Z" creationid="Judy" creationdate="20141101T090830Z">
+        <seg>若能直接量測熱點繞組溫度，對應之溫度上升取切斷前之最高讀數並依 7.10.3 指示校正because the liquid temperature decreases when the current is reduced to the rate&lt;t1/&gt;d value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27314,8 +27322,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Recommended ambient temperature reference values and relevant temperature rise limit corrections are given in&lt;t0/&gt; Table 2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124245Z" creationid="CCYU" creationdate="20141030T124245Z">
-        <seg>建議環境溫度參考值及對應溫度上升限制修正值列於表 2 中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090900Z" creationid="CCYU" creationdate="20141030T124245Z">
+        <seg>建議環境溫度參考值及對應溫度上升限制校正值列於表 2 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31554,8 +31562,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Table 2 - Recommended values of temperature rise corrections in case of special service conditions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124339Z" creationid="CCYU" creationdate="20141030T124339Z">
-        <seg>表 2 - 特殊運作條件下之溫度上升限制修正建議值</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090904Z" creationid="CCYU" creationdate="20141030T124339Z">
+        <seg>表 2 - 特殊運作條件下之溫度上升限制校正建議值</seg>
       </tuv>
     </tu>
     <tu>
