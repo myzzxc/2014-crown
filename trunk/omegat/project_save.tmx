@@ -4827,6 +4827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the top-liquid temperature rise has been establish&lt;t0/&gt;ed, the test shall be continued without a break with the test current reduced to rated current for the winding combination connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T075342Z" creationid="Judy" creationdate="20141101T075342Z">
+        <seg>測定頂層液體溫度後，應將測試電流降至連接之繞組組合額定電流，持續進行測試不停止，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the transformer has been under liquid without excitation for at least 3 h, the average liquid temperature shall be determined and the temperature of the winding shall be deemed to be the same as the average liquid temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012607Z">
@@ -6511,6 +6519,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133107Z">
         <seg>此部分中的幾處指明或建議替代或額外的技術解決方案或程序應達成之“協議”，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the hour, the resistances of the windings are measured, either after a rapid disconnection of the supply and short circuits (see 7.8 and Annex C) or, without switchi&lt;t0/&gt;ng off the supply, by means of the superposition method which consists of injecting into the windings and measuring direct current of low value superimposed on the load current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T085636Z" creationid="Judy" creationdate="20141101T085636Z">
+        <seg>每小時結束時於切斷供電且短路後 (請見 7.8 和附錄 C) 或不切斷供電立即量測繞組電阻，使用疊加法持續注入繞組並量測疊加於負載電流之直流電低值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16742,10 +16758,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If continuous automatic recording is applied, the average value during the last hour is taken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064525Z" creationid="Judy" creationdate="20141101T064525Z">
+        <seg>若使用連續自動記錄，則取最後一小時之讀數平均。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If different values of apparent power are assigned under different circumstances, for example, with different methods of cooling, the highest of these values is the rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T113418Z">
         <seg>若不同的情況下有不同的視在功率值，例如使用不同的冷卻方法時，最高為額定的功率值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If discrete readings have &lt;t0/&gt;been taken at regular intervals, the mea&lt;t1/&gt;n value of the readings during the last hour is taken as the result of the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064334Z" creationid="Judy" creationdate="20141101T064334Z">
+        <seg>若固定間隔中有不同的讀數，則取最後一小時之讀數平均作為測試結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26880,6 +26912,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated current injection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T074959Z" creationid="Judy" creationdate="20141101T074959Z">
+        <seg>額定電流輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated currents (in A or kA).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020431Z">
@@ -33928,6 +33968,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first part of the test may be terminated when the rate of change of top-liquid temperature rise has fallen below 1 K/h and has remained there for a period of 3 h.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064340Z" creationid="Judy" creationdate="20141101T064118Z">
+        <seg>第一部分的測試於頂層液體溫度上昇變化率低於 1 K/h 且維持 3 小時後停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fischer FIS EM Adhesive Anchor System described in this report is a suitable alternative to what is specified in the codes listed in Section 1.0 of this report, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030911Z">
@@ -36264,6 +36312,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test current will be above rated current to the extent necessary for producing an additional amount of &lt;t3/&gt;loss equal to the no-load loss at rated voltage, and the winding temperature rise will be correspondingly elevated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T031208Z" creationid="Judy" creationdate="20141101T031208Z">
+        <seg>測試電流將高於額定電流以產生等同於額定電壓下之空載損耗的額外損耗，且繞組溫度上升將相對提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and filled with liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104445Z">
@@ -36324,6 +36380,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144125Z">
         <seg>應正確定義的三種的具體要求如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The top-liquid and average liquid temperatu&lt;t0/&gt;re rises are established when the transformer is subjected to a test current &lt;t1/&gt;corresponding&lt;t2/&gt; to the total losses of the transformer (see IEC 60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030918Z" creationid="Judy" creationdate="20141101T030918Z">
+        <seg>頂層液體和平均液體溫度上升測試於變壓器使用對應至變壓器總損耗之測試電流下測定 (請見 IEC 60076-1)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The top-liquid temperature and cooling medium temperature are monitored, and the test is continued until steady-state liquid temperature &lt;t0/&gt;rises are established.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T063907Z" creationid="Judy" creationdate="20141101T063907Z">
+        <seg>頂層液體溫度與冷媒溫度受監控，且測試持續進行直到達到穩態液體溫度上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37904,6 +37976,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This condition is maintained for 1 h, during which time continuous temperature records of top-liquid, winding hot-spot (if&lt;t1/&gt; measured) and external cooling medium should be taken at least every 5 min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T075818Z" creationid="Judy" creationdate="20141101T075818Z">
+        <seg>維持此條件 1 小時，期間至少每 5 分鐘持續記錄頂層液體、繞組熱點（若有量測）及外部冷媒溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This connects explosion pr&lt;t0/&gt;oof equipment betw&lt;t1/&gt;een our actuator and user equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024536Z" creationid="CCYU" creationdate="20141025T024536Z">
@@ -38068,6 +38148,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T081458Z">
         <seg>這是非常重要的優點，因為引擎可使用廣泛的能源，包含低階能源如太陽能、生物燃料、地熱甚至是工業廢熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is achieved in two testing steps:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030538Z" creationid="Judy" creationdate="20141101T030538Z">
+        <seg>測試包含兩步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39253,6 +39341,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T063415Z">
         <seg>總長度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total loss injection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030555Z" creationid="Judy" creationdate="20141101T030555Z">
+        <seg>總損耗輸入</seg>
       </tuv>
     </tu>
     <tu>
@@ -46257,6 +46353,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the average winding temperature rise at rated current for the average liquid &lt;t0/&gt;temperature rise as determined above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030414Z" creationid="Judy" creationdate="20141101T030358Z">
+        <seg>額定電流下平均繞組溫度上昇，用於上述平均液體溫度上升測定；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the common part of the windings of an auto-transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133146Z">
@@ -46381,6 +46485,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143450Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the hot-spot winding temperature rise at rated current and for the top-liquid temperature rise as mentioned above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030513Z" creationid="Judy" creationdate="20141101T030513Z">
+        <seg>額定電流下熱點繞組溫度上昇，用於上述頂層液體溫度上升測定；</seg>
       </tuv>
     </tu>
     <tu>
@@ -46606,6 +46718,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T144305Z">
         <seg>連接至星形連接或 Ｚ 形連接共點 (中性點) 之端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the top-liquid and average liquid temperature rises in a steady-state condition with dissipation of total losses;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030411Z" creationid="Judy" creationdate="20141101T030010Z">
+        <seg>於總損耗散熱穩態下之頂層液體和平均液體溫度上升；</seg>
       </tuv>
     </tu>
     <tu>
