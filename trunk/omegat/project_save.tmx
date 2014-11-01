@@ -39833,6 +39833,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two-winding transformer with a tapping range &lt;t0/&gt;larger than ± 5 %, or having a rated power exceeding 2 500 kVA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T113144Z" creationid="Judy" creationdate="20141101T113144Z">
+        <seg>雙繞組變壓器之繞組範圍大於 ± 5 % 或額定功率超過 2 500 kVA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type "side-by-side":</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070917Z">
