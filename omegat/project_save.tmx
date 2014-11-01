@@ -14217,6 +14217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the determination of winding temperature rise at the maximum current tapping, the value of liquid temperature rise to be used in the evaluation shall correspond to the total loss&lt;t2/&gt;es of that tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T114452Z" creationid="Judy" creationdate="20141101T114452Z">
+        <seg>對於測定最大電流抽頭之繞組溫度上升，用於評估之液體溫度上升值應對應至該抽頭總損耗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purpose of grid and time-step independency test, an engine speed of 1,800 rpm was selected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230043Z">
@@ -22155,6 +22163,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015055Z">
         <seg>Multi-Fix Fasteners Pte Ltd 2 廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-winding transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T114710Z" creationid="Judy" creationdate="20141101T114710Z">
+        <seg>多繞組變壓器</seg>
       </tuv>
     </tu>
     <tu>
@@ -36716,6 +36732,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101047Z">
         <seg>The valid EEC waste code numbers are not product-related but are largely source-related.有效 EEC 廢棄物規範編號非產品相關但與來源大幅相關，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value from the first part of the test will be recalculated if obtained with other data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T114703Z" creationid="Judy" creationdate="20141101T114703Z">
+        <seg>若由其它數據取得數值則測試第一部分隻數值將重新計算。</seg>
       </tuv>
     </tu>
     <tu>
