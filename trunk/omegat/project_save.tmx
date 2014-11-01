@@ -4139,6 +4139,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A#&lt;t0/&gt;0&lt;t1/&gt; &lt;t2/&gt;—&lt;t3/&gt; #o ^a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T144425Z" creationid="CCYU" creationdate="20141101T144425Z">
+        <seg>ΔΘo = Θo - Θa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.1.1 Normal information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124040Z">
