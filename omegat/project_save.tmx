@@ -33928,6 +33928,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cooling conditions should preferably not be disturbed during the time the resistance measurements are made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154729Z" creationid="CCYU" creationdate="20141101T154729Z">
+        <seg>冷卻條件於電阻量測期間最好不要受到干擾，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The coordinates of a point in the image (xi, &lt;t0/&gt;yi&lt;t1/&gt;) are functional with those of the corresponding point on the surface (xi, &lt;t2/&gt;yi&lt;t3/&gt;), so we can express the relationship as (Rees, 2001)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T064432Z">
@@ -34052,6 +34060,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122358Z">
         <seg>真空下之變形量為此量測值與第一次量測值的差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The delay can be reduced by minimizing as much as possible the time between the shutdown and the switching on the resistance circuit, as well as reducing the electrical time cons&lt;t0/&gt;tant by an adequate choice of the parameters of the circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154628Z" creationid="CCYU" creationdate="20141101T154628Z">
+        <seg>可最小化關機至打開電阻電路之時間以降低延遲，同時能藉由選擇適當電路參數以降低電氣時間常數。</seg>
       </tuv>
     </tu>
     <tu>
