@@ -45281,6 +45281,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>or in an approximate manner by not short-circuiting or closing certain windings; &lt;t0/&gt;for example if one of the windings has a relatively low rated power and low contribution to the total loss of the transformer, it may be acceptable to leave it open and raise the current in the other windings concerned until the correct total loss is obtai&lt;t1/&gt;ned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T123957Z" creationid="CCYU" creationdate="20141101T123957Z">
+        <seg>或藉由不將特定繞組短路或閉路；例如若一繞組具有相對低額定功率且對變壓器總損耗貢獻很低，可將其維持開路並提高其他繞組電流直到達到正確之總損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or&lt;t0/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130324Z">
