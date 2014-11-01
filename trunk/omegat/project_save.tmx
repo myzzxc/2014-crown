@@ -36680,6 +36680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The values of average temperature of the two windings are determined from the &lt;t0/&gt;resistance variations, and in addition by taking into account the liquid temperature decrease when the current is reduced to the rated value, as well as the variation of the external cooling medium temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090036Z" creationid="Judy" creationdate="20141101T090036Z">
+        <seg>The values of average temperature of the two windings are determined from the &lt;t0/&gt;resistance variations, and in addition by taking into account the liquid temperature decrease when the current is reduced to the rated value, as well as the variation of the external cooling medium temperature.兩繞組 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The values of the geometrical parameters of the Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155348Z">
