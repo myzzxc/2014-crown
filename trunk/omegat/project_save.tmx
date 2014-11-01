@@ -10318,6 +10318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of winding resistance at the instant of shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T153547Z" creationid="CCYU" creationdate="20141101T153547Z">
+        <seg>關機瞬間測定繞組電阻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diagram of connections, or connection symbol, or both.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142237Z">
@@ -37260,6 +37268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T150652Z">
         <seg>所有中或低電壓繞組之繞組連接代號接於其相位移 '時鐘數' 之後 (請見 3.10.6 定義)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The winding resistance (R&lt;t0/&gt;2&lt;t1/&gt;) before shutdown shall &lt;t2/&gt;be determined using the rules indicated below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T153720Z" creationid="CCYU" creationdate="20141101T153720Z">
+        <seg>關機前繞組電阻 (R&lt;t0/&gt;2&lt;t1/&gt;) 應根據以下規則測定。</seg>
       </tuv>
     </tu>
     <tu>
