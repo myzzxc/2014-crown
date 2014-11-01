@@ -33488,6 +33488,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bottom liquid temperat&lt;t0/&gt;ure (&lt;9&lt;t1/&gt;b&lt;t2/&gt;) shall be determined by sensors placed at the return headers from coolers or radiators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T135257Z" creationid="CCYU" creationdate="20141101T135257Z">
+        <seg>底層液體溫度 (Θ&lt;t1/&gt;b&lt;t2/&gt;) 應由置於自冷卻器或散熱器返回管道之感測器測定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The boundaries should where possible be at least as far apart as to permit the double-sided tolerances of Clause 10 to be applied on a median value between them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131207Z">
