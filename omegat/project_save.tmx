@@ -13992,6 +13992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For multi-core transformers with windings that do not have external connections, the temperature rise&lt;t0/&gt; test method should be agreed at the tender stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124701Z" creationid="CCYU" creationdate="20141101T124701Z">
+        <seg>對於無外部連接之多繞組變壓器，溫度上升測試方法應於投標階段達成協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-winding transformer: several impedances for different two-winding combinations are to be given with th&lt;t0/&gt;e&lt;t1/&gt; respective reference power values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020719Z">
@@ -33740,6 +33748,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143444Z">
         <seg>星形繞組落後高壓繞組 330°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The details of the temperature rise test for a multi-winding transformer should, as a rule, be presented and agreed already at the tender stage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124525Z" creationid="CCYU" creationdate="20141101T124525Z">
+        <seg>多繞組變壓器之溫度上升測試細節應遵循投標階段所提出並達成協議之規則進行。</seg>
       </tuv>
     </tu>
     <tu>
