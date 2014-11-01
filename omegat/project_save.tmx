@@ -17086,6 +17086,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If several batteries of cooling equipment are fitted, more than one sensor should be used and the reading average assumed as bottom liquid temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T135655Z" creationid="CCYU" creationdate="20141101T135655Z">
+        <seg>若冷卻設備設有多組電池，應使用多於一組感測器並假設其讀數平均值為底層液體溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If signs of wear and tear are noticed then the gloves should be replaced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T091849Z">
