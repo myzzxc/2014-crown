@@ -35624,6 +35624,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The recommended number of pockets is the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T125306Z" creationid="CCYU" creationdate="20141101T125306Z">
+        <seg>以下為建議內袋數量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
@@ -36532,6 +36540,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030918Z" creationid="Judy" creationdate="20141101T030918Z">
         <seg>頂層液體和平均液體溫度上升測試於變壓器使用對應至變壓器總損耗之測試電流下測定 (請見 IEC 60076-1)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The top-liquid temperature (&lt;9&lt;t0/&gt;0&lt;t1/&gt;) is conventionally determined by one or more sensors &lt;t2/&gt;immersed in the insulating liquid at the top of the tank or, in pockets in the cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T125240Z" creationid="CCYU" creationdate="20141101T125240Z">
+        <seg>頂層液體溫度 (Θ0) 通常由一組或多組浸於油槽頂部絕緣液體內或外蓋內袋內之感測器測定。</seg>
       </tuv>
     </tu>
     <tu>
