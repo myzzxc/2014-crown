@@ -34496,6 +34496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The injection of total loss for the determination of liquid temperature rise may be made:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T123221Z" creationid="CCYU" creationdate="20141101T123221Z">
+        <seg>測定液體溫度上升之注入總損耗可由以下方式提供：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The injection phase in the individual chamber generally coincides with the expansion process of its chamber volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T123301Z">
