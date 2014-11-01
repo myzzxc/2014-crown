@@ -33432,6 +33432,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The aver&lt;t0/&gt;age liquid temperature is in principle intended to be the average temperature of the cooling liquid in the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140407Z" creationid="CCYU" creationdate="20141101T140407Z">
+        <seg>平均液體溫度原則上接近繞組中冷卻液體之平均溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The average liquid temperature is taken as the mean of the top and bottom liquid temperatures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012713Z">
@@ -38580,6 +38588,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T155431Z">
         <seg>實際情況不一定如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is of importance for a representative determination of the liquid temperature in the header.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140243Z" creationid="CCYU" creationdate="20141101T140243Z">
+        <seg>此特性對於管路中液體溫度測定之代表性很重要。</seg>
       </tuv>
     </tu>
     <tu>
