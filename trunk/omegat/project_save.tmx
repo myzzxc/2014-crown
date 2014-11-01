@@ -41521,6 +41521,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the rated power of one winding is equal to the sum of the rated powers of the other windings, for the first part &lt;t0/&gt;of the test, a total loss shall be developed which corresponds to rated power (or tapping power) in all windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115128Z" creationid="Judy" creationdate="20141101T115128Z">
+        <seg>當一繞組之額定功率等於其他繞組之額定功率總和時，測試第一部分之總損耗應測定對應至所有繞組之額定功率 (或抽頭功率)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the tapping factor deviates from unity, the tapping current for full-power &lt;t0/&gt;tappings&lt;t1/&gt; may rise above rated current on one of the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T124749Z">
