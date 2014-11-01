@@ -17097,8 +17097,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the direct measurement of the hot-spot win&lt;t0/&gt;ding temperature is provided, the corresponding temperature rise is obtained by taking the highest reading before disconnection and applying the correction indicated in 7.10.3 because the liquid temperature decreases when the current is reduced to the rate&lt;t1/&gt;d value.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090830Z" creationid="Judy" creationdate="20141101T090830Z">
-        <seg>若能直接量測熱點繞組溫度，對應之溫度上升取切斷前之最高讀數並依 7.10.3 指示校正because the liquid temperature decreases when the current is reduced to the rate&lt;t1/&gt;d value.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T091047Z" creationid="Judy" creationdate="20141101T090830Z">
+        <seg>若能直接量測熱點繞組溫度，對應之溫度上升取切斷前之最高讀數並依 7.10.3 指示校正，因為當電流降低至額定值時液體溫度下降。</seg>
       </tuv>
     </tu>
     <tu>
