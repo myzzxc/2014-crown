@@ -14184,6 +14184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For practical reasons, it is identified with the temperature of the liquid returning from the cooling equipment to the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T135012Z" creationid="CCYU" creationdate="20141101T135012Z">
+        <seg>實務上，其測定為自冷設備返回油槽之液體溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For short-term loads including wind, bond strength may be increased 9 percent for temperature range A and 39 percent for temperature range B. &lt;t13/&gt;3&lt;t14/&gt;Temperature range A: Maximum short term temperature = 140&lt;t15/&gt;°&lt;t16/&gt;F (60°C), Maximum long term Temperature = 95°F (35°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021444Z">
