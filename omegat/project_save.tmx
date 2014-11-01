@@ -18655,6 +18655,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the formula, the temperatures are expressed in Celsius degrees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150646Z" creationid="CCYU" creationdate="20141101T150646Z">
+        <seg>公式中之溫度單位為攝氏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the injection phase, impingement heat transfer is the major heat transfer mechanism which allows gas to be heated (in expansion chamber) or be cooled (in the compression chamber) very effectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213638Z">
@@ -41929,6 +41937,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the resistance &lt;t0/&gt;(&lt;t1/&gt;R&lt;t2/&gt;2&lt;t3/&gt;) is measured after disconnection of the power supply, extrapolated to the instant of shutdown, this yields the temperature value:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150451Z" creationid="CCYU" creationdate="20141101T150451Z">
+        <seg>當電阻 &lt;t0/&gt;(&lt;t1/&gt;R&lt;t2/&gt;2&lt;t3/&gt;) 於切斷供電後至關機的瞬間量測時將得到溫度值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the tapping factor deviates from unity, the tapping current for full-power &lt;t0/&gt;tappings&lt;t1/&gt; may rise above rated current on one of the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T124749Z">
@@ -44589,6 +44605,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125533Z" creationid="CCYU" creationdate="20141030T125533Z">
         <seg>自然冷變壓器 (....AN)，頂層液體、平均以及熱點繞組溫度上升之限制，當安裝現場海拔超過 1 000 公尺時每 400 公尺應降低 1 K；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for aluminium where &lt;t0/&gt;0&lt;t1/&gt;2&lt;t2/&gt; is the average temperature of the winding at the instant of shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150606Z" creationid="CCYU" creationdate="20141101T150606Z">
+        <seg>鋁 其中 Θ2 為關機瞬間之繞組平均溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for copper</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150455Z" creationid="CCYU" creationdate="20141101T150455Z">
+        <seg>銅</seg>
       </tuv>
     </tu>
     <tu>
