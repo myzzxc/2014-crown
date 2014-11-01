@@ -10182,6 +10182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of liquid temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124854Z" creationid="CCYU" creationdate="20141101T124854Z">
+        <seg>液體溫度測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of sound level (IEC 60076-10) for each method of cooling for which a guaranteed sound level is specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T154113Z">
@@ -36752,6 +36760,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The use of additional test bushings may be appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124843Z" creationid="CCYU" creationdate="20141101T124843Z">
+        <seg>可使用額外測試絕緣套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The use of impact or shock recorders during transportation for large transformer is common practice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162929Z">
@@ -39469,6 +39485,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153454Z">
         <seg>頂層油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top-liquid temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124857Z" creationid="CCYU" creationdate="20141101T124857Z">
+        <seg>頂層液體溫度</seg>
       </tuv>
     </tu>
     <tu>
