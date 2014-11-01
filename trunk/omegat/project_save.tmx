@@ -10262,6 +10262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of top, average and bottom liquid temperature &lt;t0/&gt;rises</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T142957Z" creationid="CCYU" creationdate="20141101T142855Z">
+        <seg>頂層、平均以及底層液體溫度上升測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of transient voltage transfer characteristics (Annex B of IEC 60076-3:2000).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T160926Z">
