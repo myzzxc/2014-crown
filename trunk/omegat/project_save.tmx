@@ -24887,6 +24887,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On three-phase transformers, the measurement should be normally performed including the middle phase of the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145631Z" creationid="CCYU" creationdate="20141101T145620Z">
+        <seg>於三相變壓器之量測通常包含繞組之中間相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On transformers having a tapped winding with tapping range not exceeding ±5 %, the short-circuit impedance shall be measured on the principal tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022241Z">
@@ -33540,6 +33548,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T073715Z">
         <seg>平均溫度變化進一步確認了移動式再生器為有效的熱屏障，且其對腔體的熱傳到過程產生了顯著的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The average winding temperature is determined by &lt;t0/&gt;measurement of winding resistance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145508Z" creationid="CCYU" creationdate="20141101T145508Z">
+        <seg>平均繞組溫度藉由量測繞組電阻測定。</seg>
       </tuv>
     </tu>
     <tu>
