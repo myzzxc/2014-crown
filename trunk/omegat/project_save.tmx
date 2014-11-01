@@ -4163,6 +4163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A0&lt;t0/&gt;b&lt;t1/&gt;=0&lt;t2/&gt;b&lt;t3/&gt;-0&lt;t4/&gt;a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145106Z" creationid="CCYU" creationdate="20141101T145106Z">
+        <seg>ΔΘb = Θb - Θa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A608001 —04 &lt;t0/&gt;a</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080757Z" creationid="CCYU" creationdate="20141025T080757Z">
@@ -10234,6 +10242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T133943Z">
         <seg>端子類型和配置詳細資訊，例如空氣套管或電線盒或氣密式端子台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determination of average winding temperature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145357Z" creationid="CCYU" creationdate="20141101T145357Z">
+        <seg>平均繞組溫度測定</seg>
       </tuv>
     </tu>
     <tu>
@@ -23415,6 +23431,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The different liquid temperatures are the average values of the readings during the last hour with total losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145347Z" creationid="CCYU" creationdate="20141101T145110Z">
+        <seg>註 不同液體溫度為總損耗下最後一小時測試期間之讀數平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The liquid can be mineral oil or other natural and synthetic liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104809Z" creationid="MAE" creationdate="20141028T104809Z">
@@ -33576,6 +33600,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bottom liquid temperature rise (A&lt;9&lt;t0/&gt;b&lt;t1/&gt;) shall be determined by difference between the bottom liquid temperature &lt;t2/&gt;(0&lt;t3/&gt;b&lt;t4/&gt;)&lt;t5/&gt; defined according to 7.4.2 and the external cooling medium t&lt;t6/&gt;emperature (#&lt;t7/&gt;a&lt;t8/&gt;), that is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145055Z" creationid="CCYU" creationdate="20141101T145055Z">
+        <seg>底層液體溫度上升 (ΔΘb) 為依 7.4.2 定義之底層液體溫度 (Θom) 和外部冷煤溫度 (Θa) 之差異，即為： </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The boundaries should where possible be at least as far apart as to permit the double-sided tolerances of Clause 10 to be applied on a median value between them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T131207Z">
@@ -36762,8 +36794,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The top-liquid temperature rise &lt;t0/&gt;(A0&lt;t1/&gt;O&lt;t2/&gt;)&lt;t3/&gt; shall be determined by difference between the top-liquid temperature measured at the end of the test period with total losses (&lt;t4/&gt;0&lt;t5/&gt;O&lt;t6/&gt;)&lt;t7/&gt; and the external cooling medium temperature at the end of the test period with total losses (&lt;t8/&gt;0&lt;t9/&gt;a&lt;t10/&gt;), that is:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T144038Z" creationid="CCYU" creationdate="20141101T144038Z">
-        <seg>頂層液體溫度上升 (ΔΘ&lt;t1/&gt;O&lt;t2/&gt;) 之測定應為測試結束時量測之頂層液體溫度總損耗  (Θ&lt;t5/&gt;O&lt;t6/&gt;) 以及於測試結束時之外部冷媒溫度總損耗 (&lt;t8/&gt;Θ&lt;t9/&gt;a&lt;t10/&gt;) 之差異，即為：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145245Z" creationid="CCYU" creationdate="20141101T144038Z">
+        <seg>頂層液體溫度上升 (ΔΘ&lt;t1/&gt;O&lt;t2/&gt;) 之測定應為總損耗下測試結束時量測之頂層液體溫度  (Θ&lt;t5/&gt;O&lt;t6/&gt;) 以及於總損耗下測試結束時之外部冷媒溫度 (&lt;t8/&gt;Θ&lt;t9/&gt;a&lt;t10/&gt;) 之差異，即為：</seg>
       </tuv>
     </tu>
     <tu>
