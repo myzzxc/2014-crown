@@ -48775,8 +48775,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>where &lt;t0/&gt;A0&lt;t1/&gt;O&lt;t2/&gt; is the top-liquid temperature rise in the tank, &lt;t3/&gt;H&lt;t4/&gt; is the hot-spot factor and &lt;t5/&gt;g&lt;t6/&gt; is the average winding-to-average liquid gradient.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T082124Z" creationid="CCYU" creationdate="20141102T082124Z">
-        <seg>其中where &lt;t0/&gt;A0&lt;t1/&gt;O&lt;t2/&gt; is the top-liquid temperature rise in the tank, &lt;t3/&gt;H&lt;t4/&gt; is the hot-spot factor and &lt;t5/&gt;g&lt;t6/&gt; is the average winding-to-average liquid gradient.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T082328Z" creationid="CCYU" creationdate="20141102T082124Z">
+        <seg>其中 ΔΘ&lt;t1/&gt;o&lt;t2/&gt; 為油槽內頂層液體溫度上升，&lt;t3/&gt;H&lt;t4/&gt; 為熱點因子而 &lt;t5/&gt;g&lt;t6/&gt; 為平均繞組與平均液體溫差。</seg>
       </tuv>
     </tu>
     <tu>
