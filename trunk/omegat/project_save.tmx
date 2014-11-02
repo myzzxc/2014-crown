@@ -12815,6 +12815,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Factor Q is an individual factor for each transformer winding which depends on the characteristics of the winding and its estimate can be obtained through the knowledge of the leakage flux field (i.e., by means of a fi&lt;t0/&gt;nite element method).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T111604Z" creationid="CCYU" creationdate="20141102T111604Z">
+        <seg>因子 Q 為各變壓器繞組之獨立因子，其取決於繞組特性及其根據洩漏通量場資料之評估 (即藉由有限元素法)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factor according to&lt;t0/&gt; &lt;t1/&gt;CEN/TS 1992-4-5 Section 6.2.2.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z">
