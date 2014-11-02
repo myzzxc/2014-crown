@@ -33672,6 +33672,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;heat, transferred from the winding to the liquid all along the winding requires a temperature drop between winding and surrounding liquid which is assumed to be constant at all levels of height with the exclusion of the winding extremities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T100158Z" creationid="CCYU" creationdate="20141102T100158Z">
+        <seg>由繞組傳遞至繞組周圍液體之熱量需要繞組與周圍液體之間有溫度差，此溫度差假設除繞組端點外於所有高度皆為恆定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;noncatastrophic phenomenon was reported by local residents about 3 to 5 days after the Chi-Chi earthquake.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041627Z">
