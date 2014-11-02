@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1-phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091544Z" creationid="CCYU" creationdate="20141102T091544Z">
+        <seg>1-相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10 % on all tappings on 70 MVA base</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154734Z">
@@ -1634,6 +1642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131226Z" creationid="CCYU" creationdate="20141101T131226Z">
         <seg>3 內袋；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3-phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091529Z" creationid="CCYU" creationdate="20141102T091529Z">
+        <seg>3-相</seg>
       </tuv>
     </tu>
     <tu>
@@ -7828,6 +7844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091457Z" creationid="CCYU" creationdate="20141102T091457Z">
+        <seg>計算值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canadian Sphagnum Peat Moss 100%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
@@ -9426,6 +9450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132613Z">
         <seg>冷卻模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling mode/Winding oil circulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091419Z" creationid="CCYU" creationdate="20141102T091419Z">
+        <seg>冷卻模式 / 繞組油循環</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot-spot winding temperature rise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091442Z" creationid="CCYU" creationdate="20141102T091442Z">
+        <seg>繞組熱點溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot-spot winding temperature rise determination for OFAF and OFWF</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081259Z" creationid="CCYU" creationdate="20141102T081111Z">
@@ -21895,6 +21935,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091508Z" creationid="CCYU" creationdate="20141102T091508Z">
+        <seg>實測值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measured component losses See Note 1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T081830Z">
@@ -21915,6 +21963,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083956Z">
         <seg>量測短路阻抗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measured values in heat run test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091437Z" creationid="CCYU" creationdate="20141102T091437Z">
+        <seg>熱運轉測試實測值</seg>
       </tuv>
     </tu>
     <tu>
@@ -25107,6 +25163,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023345Z">
         <seg>OECD 471 Bacterial Reverse Mutation Test&lt;t0/&gt; 細菌基因逆向變異試驗                    &lt;t1/&gt;Experiment: In vitro 試驗：體外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OFAF/Axial</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091538Z" creationid="CCYU" creationdate="20141102T091538Z">
+        <seg>OFAF/軸向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OFAF/Zig-zag</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091525Z" creationid="CCYU" creationdate="20141102T091525Z">
+        <seg>OFAF/之字型</seg>
       </tuv>
     </tu>
     <tu>
