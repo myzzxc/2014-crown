@@ -18831,6 +18831,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the test report, estimates should be given of the uncertainties that affect the temperature rises.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T065640Z" creationid="CCYU" creationdate="20141102T065640Z">
+        <seg>本測試報告中，應提影響溫度上升之不確定性評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these areas, you want to have a spill kit on hand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090926Z">
@@ -36380,6 +36388,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124505Z">
         <seg>PIV 分析結果不僅有助於找尋滑動發生地點，同時也能評估地滑規模與方位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results of the temperature rise&lt;t0/&gt; test are affected by uncertainties related to the test method and instrumentation used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T065540Z" creationid="CCYU" creationdate="20141102T065540Z">
+        <seg>溫度上升測試之結果受測試方法及使用儀器相關之不確定性影響。</seg>
       </tuv>
     </tu>
     <tu>
