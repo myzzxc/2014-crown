@@ -23495,6 +23495,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE In principle, the estimate of the hot-spot winding temperature rises could be made starting from the design data, but attention should be paid to the uncertainties tha&lt;t0/&gt;t this procedure implies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062040Z" creationid="CCYU" creationdate="20141102T062040Z">
+        <seg>註 原則上，熱點繞組溫度上升之估計可利用設計資料，但應注意此程序之不確定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE More information is available in IEEE C57.142 Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T134925Z">
