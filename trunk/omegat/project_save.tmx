@@ -34696,6 +34696,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The curves, that give factor &lt;t0/&gt;Q&lt;t1/&gt; as a function of rated power and conductor strand height, were obtained as average of a number of cases for which the calculation was made by means of computer programs and confirmed by experimental results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121149Z" creationid="CCYU" creationdate="20141102T121149Z">
+        <seg>曲線中，給定因子 &lt;t0/&gt;Q&lt;t1/&gt; 為額定功率和導體股線高之函數，其為以電腦程式計算多種情況之平均並由實驗結果證實。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dashed line is an example of a transformer short-circuit impedance curve which would satisfy this specification.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140803Z">
