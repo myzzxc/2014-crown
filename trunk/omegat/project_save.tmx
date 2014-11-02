@@ -39416,6 +39416,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This kind of measurement has appe&lt;t0/&gt;ared to be both impractical and difficult, since the duct oil temperature shows a wide range of local variation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085825Z" creationid="CCYU" creationdate="20141102T085825Z">
+        <seg>結果顯示此類量測不實際且困難，因為管路油溫具有大範圍的局部變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This landslide area is about 1.2 km2 (1500 m×800 m), and the northern boundary is cut by a creek and a fault, called the Tingshuiku fault.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T044812Z">
