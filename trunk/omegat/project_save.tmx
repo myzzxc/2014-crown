@@ -13824,6 +13824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a strategic asset or specific operating conditions (e.g., nuclear power plant) for which more severe requirements &lt;t0/&gt;are to be applied, the hot-spot winding temperature rise can be determined both by calculation and direct measurement and the obtained results compared.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060608Z" creationid="CCYU" creationdate="20141102T060352Z">
+        <seg>對於要求更嚴格之重要資產或特定操作條件 (例如核電廠)，熱點繞組溫度上升可由計算與直接量測以測定並比較兩種結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a three-phase transformer, the mean value of readings in the three phases is taken.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064514Z">
