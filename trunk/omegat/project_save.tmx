@@ -6773,8 +6773,8 @@
       <tuv lang="EN-US">
         <seg>Attempts have been made to measure the duct oil temperature in some selected test units.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085611Z" creationid="CCYU" creationdate="20141102T085550Z">
-        <seg>已於某些選定之測試裝置嘗試進行管路油溫量測，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110710Z" creationid="CCYU" creationdate="20141102T085550Z">
+        <seg>已於某些選定之測試裝置嘗試進行輸送油溫量測，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9096,8 +9096,8 @@
       <tuv lang="EN-US">
         <seg>Conditions are, however, different in OF-cooled transformers, where a minor stream of hot duct liquid from the windings mixes in a turbul&lt;t9/&gt;ent way with the main stream of cooler liquid circulating in the loop "outside windings - coolers - outside windings”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084203Z" creationid="CCYU" creationdate="20141102T084203Z">
-        <seg>然而 OF-冷卻變壓器之條件不同，其來自繞組之熱管路液體之少量流體以渦流方式和“繞組外部 - 冷卻器 - 繞組外部”迴路中循環冷卻器液體之主流體混合。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110701Z" creationid="CCYU" creationdate="20141102T084203Z">
+        <seg>然而 OF-冷卻變壓器之條件不同，其來自繞組之熱輸送液體之少量流體以渦流方式和“繞組外部 - 冷卻器 - 繞組外部”迴路中循環冷卻器液體之主流體混合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15083,8 +15083,8 @@
       <tuv lang="EN-US">
         <seg>From a strict academic point of view, such a procedure is inaccurate, because duct top-liquid inside the windings obviously offers a more relevant temperature base than the mixed liquid in the tank.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T083000Z" creationid="CCYU" creationdate="20141102T082832Z">
-        <seg>由嚴格的學術角度來看，此程序並不準確，因為繞組內部之頂層液體相對油槽內之混合液體顯然有更多相關溫度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110644Z" creationid="CCYU" creationdate="20141102T082832Z">
+        <seg>由嚴格的學術角度來看，此程序並不準確，因為繞組內部之頂層液體輸送相對油槽內之混合液體顯然有更多相關溫度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38464,6 +38464,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, for each winding, the corresponding hot-spot factor &lt;t0/&gt;(H &lt;t1/&gt;~QS)&lt;t2/&gt; depends on:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110826Z" creationid="CCYU" creationdate="20141102T110826Z">
+        <seg>因此，每個繞組之相對應熱點因子 (H = QS) 取決於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, if the &lt;t4/&gt;temperature rises&lt;t5/&gt; of the tapping winding needs to be determined, another &lt;t6/&gt;tapping&lt;t7/&gt; may be selected or an extra test may be agreed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T135732Z">
@@ -39658,8 +39666,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This kind of measurement has appe&lt;t0/&gt;ared to be both impractical and difficult, since the duct oil temperature shows a wide range of local variation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085825Z" creationid="CCYU" creationdate="20141102T085825Z">
-        <seg>結果顯示此類量測不實際且困難，因為管路油溫具有大範圍的局部變化</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110716Z" creationid="CCYU" creationdate="20141102T085825Z">
+        <seg>結果顯示此類量測不實際且困難，因為輸送油溫具有大範圍的局部變化</seg>
       </tuv>
     </tu>
     <tu>
@@ -48969,6 +48977,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160422Z">
         <seg>LV 電壓變化：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>variations in the liquid ducts at the top of windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110727Z" creationid="CCYU" creationdate="20141102T110630Z">
+        <seg>繞組頂部之液體輸送變化。</seg>
       </tuv>
     </tu>
     <tu>
