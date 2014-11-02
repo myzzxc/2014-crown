@@ -14577,6 +14577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers having rated power 20/3 MVA/phase and &lt;t0/&gt;above, the determination of the hot-spot winding temperature rise shall be always determined through calculation based on the result of a temperature rise test, applying a method agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T055253Z" creationid="CCYU" creationdate="20141102T055253Z">
+        <seg>額定功率高於 20/3 MVA/相之變壓器，熱點繞組溫度上升之測定應依製造商與買方之協議方法，藉由溫度上升測試之結果計算而得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers intended to be installed indoors, some of these environmental conditions may not be applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110954Z">
