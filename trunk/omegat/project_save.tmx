@@ -37464,6 +37464,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The temperature rise of the liquid inside the windings of the transformer is assumed to increase linearly with the height of the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T094547Z" creationid="CCYU" creationdate="20141102T094547Z">
+        <seg>假設變壓器繞組內部之液體溫度上升隨繞組高度線性增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The temperature rise value for an individual winding above liquid shall be obtained with rated current in the winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T120056Z" creationid="Judy" creationdate="20141101T120056Z">
