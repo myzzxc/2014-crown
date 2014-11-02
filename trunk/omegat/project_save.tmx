@@ -15129,6 +15129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General criteria for evaluating the uncertainties are given in the IEC Guide 115 and in the bibliography.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T070028Z" creationid="CCYU" creationdate="20141102T070028Z">
+        <seg>評估不確定性之一般標準收錄於 IEC 指南 115 及參考書目中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General ecological information:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100430Z">
@@ -23707,6 +23715,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125609Z">
         <seg>註 '相繞組' 一詞不用於辨識所有線圈組上之特定相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The uncertainty estimations should not be applied for establ&lt;t0/&gt;ishing if the prescribed limits are respected or not, but only for information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T065839Z" creationid="CCYU" creationdate="20141102T065839Z">
+        <seg>註 不確定性評估不用於判定是否符合預先設定之限制，僅供參考。</seg>
       </tuv>
     </tu>
     <tu>
