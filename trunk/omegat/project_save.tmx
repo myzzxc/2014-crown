@@ -36656,6 +36656,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The results obtained on some specific transformers are shown in Table A.1&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085231Z" creationid="CCYU" creationdate="20141102T085231Z">
+        <seg>於某些特定變壓器所得之結果列於表 A.1 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The results of the PIV analysis have helped us not only find the areas where sliding had happened, but also evaluate the azimuth and magnitudes of the sliding event.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T124505Z">
@@ -37580,6 +37588,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084134Z">
         <seg>變壓器規格和設計也需列入考慮，抽頭間阻抗的大幅變化會降低或加大抽頭效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformers selected represent different transformers sizes and different oil circulation modes (axial and zig-zag) through the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085152Z" creationid="CCYU" creationdate="20141102T085152Z">
+        <seg>選定之變壓器代表不同尺寸及不同的通過繞組油循環模式 (軸向及之字型) 之變壓器，</seg>
       </tuv>
     </tu>
     <tu>
