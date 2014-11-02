@@ -32386,8 +32386,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Table A.1 - Hot-spot winding temperature rises for some specific transformers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090256Z" creationid="CCYU" creationdate="20141102T090256Z">
-        <seg>表 A.1 - 特定變壓器之熱點繞組溫度上升</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090456Z" creationid="CCYU" creationdate="20141102T090256Z">
+        <seg>表 A.1 - 以常用熱運轉測試數據結合計算之熱點繞組溫度上升以及直接光纖量測所測定之特定變壓器熱點繞組溫度上升</seg>
       </tuv>
     </tu>
     <tu>
@@ -44721,6 +44721,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>determined from conventional heat run test data combined with calculated hot-spot</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090459Z" creationid="CCYU" creationdate="20141102T090459Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>diameter of porous particle</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123524Z">
@@ -49073,6 +49081,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143516Z">
         <seg>繞組溫度，單位 °C；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>winding temperature rise, and from direct fibre-optic measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090501Z" creationid="CCYU" creationdate="20141102T090501Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
