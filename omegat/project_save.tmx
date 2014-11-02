@@ -18447,6 +18447,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, the same holds for a genuine OD-coole&lt;t8/&gt;d transformer where only a moderate leakage or controlled bleed passes from the coolers out into the free tank volume.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T083612Z" creationid="CCYU" creationdate="20141102T083612Z">
+        <seg>一般情況下，同樣對於真正的 OD-冷卻變壓器裡僅有少量的洩漏或控制的出水由冷卻器流入油槽自由體積，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, we can define a relationship of transformation as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065748Z">
