@@ -9006,6 +9006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions are, however, different in OF-cooled transformers, where a minor stream of hot duct liquid from the windings mixes in a turbul&lt;t9/&gt;ent way with the main stream of cooler liquid circulating in the loop "outside windings - coolers - outside windings”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084203Z" creationid="CCYU" creationdate="20141102T084203Z">
+        <seg>然而 OF-冷卻變壓器之條件不同，其來自繞組之熱管路液體之少量流體以渦流方式和“繞組外部 - 冷卻器 - 繞組外部”迴路中循環冷卻器液體之主流體混合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conditions for safe storage, including any incompatibilities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122915Z">
