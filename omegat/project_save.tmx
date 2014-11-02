@@ -14945,6 +14945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From a strict academic point of view, such a procedure is inaccurate, because duct top-liquid inside the windings obviously offers a more relevant temperature base than the mixed liquid in the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T083000Z" creationid="CCYU" creationdate="20141102T082832Z">
+        <seg>由嚴格的學術角度來看，此程序並不準確，因為繞組內部之頂層液體相對油槽內之混合液體顯然有更多相關溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the above review, it is realized that more sophisticated models are needed to resolve these complicated physical processes and the effects from some parameters crucial to the prediction of the overall engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153729Z">
@@ -18147,6 +18155,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T125225Z">
         <seg>圖 8A 和 B 之中 (分別於 1998 年和 1999 之間、1998 年和 2002 之間) 顯示相似的地滑面積與方向，面積約 1500 公尺×800 公尺，南方部份方向約為 N45°W 而北方部份約為 N25°W (圖 9)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In ON&lt;t7/&gt;-cooled transformers, this inaccuracy has been considered marginal, since the steady-state volume rate of flow of liquid through the windings is in principle equal to the rate of flow through the radiators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T082952Z" creationid="CCYU" creationdate="20141102T082858Z">
+        <seg>於 ON-冷卻變壓器中，此cooled transformers, this inaccuracy has been considered marginal, since the steady-state volume rate of flow of liquid through the windings is in principle equal to the rate of flow through the radiators.</seg>
       </tuv>
     </tu>
     <tu>
