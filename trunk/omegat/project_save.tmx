@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt; &lt;t1/&gt;Rated current&lt;t2/&gt; &lt;t3/&gt;\&lt;t4/&gt;z &lt;t5/&gt;i.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075014Z" creationid="CCYU" creationdate="20141102T075014Z">
+        <seg>(額定電流 / </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;Brookfield&lt;t1/&gt;; &lt;t2/&gt;Instrument&lt;t3/&gt;: &lt;t4/&gt;RVT&lt;t5/&gt;; &lt;t6/&gt;20 °C (68 °F)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092954Z">
@@ -13516,6 +13524,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T110726Z">
         <seg>圖示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figures in square brackets refer to the bibliography.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T074922Z" creationid="CCYU" creationdate="20141102T074922Z">
+        <seg>中括弧內之數字請參照參考書目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33040,6 +33056,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test current &lt;t6/&gt;J</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075031Z" creationid="CCYU" creationdate="20141102T075031Z">
+        <seg>測試電流)z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test methods for temperature rise determination</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125911Z" creationid="CCYU" creationdate="20141031T125911Z">
@@ -35084,6 +35108,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063052Z" creationid="CCYU" creationdate="20141102T063052Z">
         <seg>熱點繞組溫度上升 (∆Θ&lt;t0/&gt;h&lt;t1/&gt;) 為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hot-spot winding temperature rise over top-liquid temperature at the shutdown shall be multiplied by:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T074953Z" creationid="CCYU" creationdate="20141102T074953Z">
+        <seg>關機時，熱點繞組溫度對頂層液體溫度之上升量應乘以：</seg>
       </tuv>
     </tu>
     <tu>
