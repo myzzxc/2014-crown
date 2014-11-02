@@ -3875,6 +3875,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of thermal sensors (e.g., optical fibre sensors) shall be mounted inside the windings in positions where it is supposed the hot-spots are located.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062543Z" creationid="CCYU" creationdate="20141102T062543Z">
+        <seg>數組熱感測器 (例如光纖感測器) 應裝於繞組內部熱點所在處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A paper is co&lt;t0/&gt;nsidered as thermally upgraded if it meets the life criteria of the 50 % retention in tensile strength after 65 000 h in a sealed tube at 110 °C or any other time/temperature combination given by the equation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T134412Z" creationid="CCYU" creationdate="20141028T134412Z">
@@ -10478,6 +10486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct measurement during the temperature rise test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062401Z" creationid="CCYU" creationdate="20141102T062401Z">
+        <seg>溫度上升測試期間直接量測 test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direction of power flow (can be both directions).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142043Z">
@@ -14613,6 +14629,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T055253Z" creationid="CCYU" creationdate="20141102T055253Z">
         <seg>額定功率高於 20/3 MVA/相之變壓器，熱點繞組溫度上升之測定應依製造商與買方之協議方法，藉由溫度上升測試之結果計算而得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers having rated power between 20/3 MVA and 100/3 MVA per phase and short- circuit impedance not exceeding 14 %, simplified methods for calculating the hot-spot winding temperature rise can be agreed between manufactu&lt;t0/&gt;rer and purchaser (see also Annex B).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062319Z" creationid="CCYU" creationdate="20141102T062319Z">
+        <seg>對於每相額定功率介於 20/3 MVA 至 100/3 MVA 之間且短率阻抗低於 14 % 之變壓器，可依製造商與買方協議使用簡化之方法計算熱點繞組溫度上升 (請見附錄 B)。</seg>
       </tuv>
     </tu>
     <tu>
