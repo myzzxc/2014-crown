@@ -19103,6 +19103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the graphic given in Figure B.1, the winding temperature rise and the liquid temperature rise will therefore appear as two parallel lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T100332Z" creationid="CCYU" creationdate="20141102T100332Z">
+        <seg>因此圖 B.1 中，繞組溫度上升和液體溫度上升為兩平行線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the injection phase, impingement heat transfer is the major heat transfer mechanism which allows gas to be heated (in expansion chamber) or be cooled (in the compression chamber) very effectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213638Z">
