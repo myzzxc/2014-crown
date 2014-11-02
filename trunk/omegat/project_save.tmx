@@ -22791,6 +22791,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Gen&lt;t0/&gt;erally, hot-spots are situated at the top of the windings, but their correct location by means of a design review is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062727Z" creationid="CCYU" creationdate="20141102T062727Z">
+        <seg>註 1 一般來說，熱點位於繞組頂部，但建議參考設計參數以取得其正確位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 In &lt;t0/&gt;this standard, the use of insulating liquids K and L is considered only for safety and environmental reasons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140413Z" creationid="CCYU" creationdate="20141028T140359Z">
@@ -23059,6 +23067,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035610Z">
         <seg>註 2 繞組空載電流通常以繞組額定電流之百分比表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 The use of optical fibre sensors is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062748Z" creationid="CCYU" creationdate="20141102T062748Z">
+        <seg>註 2 建議使用光纖感測器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27860,6 +27876,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103033Z">
         <seg>最小縮減面積</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to Annex E for suggested installation methods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062816Z" creationid="CCYU" creationdate="20141102T062816Z">
+        <seg>參考附錄 E 之安裝方法建議。</seg>
       </tuv>
     </tu>
     <tu>
