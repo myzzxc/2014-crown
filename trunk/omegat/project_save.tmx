@@ -22311,6 +22311,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Methods to estimate the hot-spot winding temperature rises</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091854Z" creationid="CCYU" creationdate="20141102T091854Z">
+        <seg>評估熱點繞組溫度上升之方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Metric</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045611Z">
@@ -43941,6 +43949,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103804Z">
         <seg>a) 介於 20 MVA 至 100 MVA 之中型變壓器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; (LV) means low-voltage winding, and (HV) means high-voltage winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091618Z" creationid="CCYU" creationdate="20141102T091618Z">
+        <seg>a&lt;t0/&gt; (LV) 代表低壓繞組，而 (HV) 代表高壓繞組。</seg>
       </tuv>
     </tu>
     <tu>
