@@ -36696,6 +36696,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The study should be based on:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T061022Z" creationid="CCYU" creationdate="20141102T061022Z">
+        <seg>該研究應建立於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The subject of this European Technical Assessment is the post-installed connection, by&lt;t0/&gt; &lt;t1/&gt;anchoring or overlap connection joint, of reinforcing bars (&lt;t2/&gt;rebars&lt;t3/&gt;) in existing structures made of&lt;t4/&gt; &lt;t5/&gt;normal weight concrete, using the "&lt;t6/&gt;Multifix&lt;t7/&gt; Injection System MF-EX1 for rebar connection" in&lt;t8/&gt; &lt;t9/&gt;accordance with the regulations for reinforced concrete construction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015606Z">
@@ -47337,6 +47345,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the knowledge of the leakage flux field to determine the additional loss distribution;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T061251Z" creationid="CCYU" creationdate="20141102T061251Z">
+        <seg>洩漏流場之數據以確定額外損耗分佈；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the line windings of series and phase-shifting transformers) are indicated as Ill (HV), or i (intermediate or low-voltage windings).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153559Z">
@@ -47462,6 +47478,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T131259Z">
         <seg>於前一版之附件 A 所列之規範中加入文字，此版本附件 A 為參考性的對照表 ；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the results of the t&lt;t0/&gt;emperature rise test during which the measurement of the hot-spot winding temperatures were not directly measured;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T061127Z" creationid="CCYU" creationdate="20141102T061127Z">
+        <seg>熱點繞組溫度未直接量測之溫度上升測試結果；</seg>
       </tuv>
     </tu>
     <tu>
