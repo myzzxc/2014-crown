@@ -6323,6 +6323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a special test and by agreement&lt;t0/&gt; between manufacturer and purchaser, the hot-spot winding temperature rises can be determined by direct measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T055942Z" creationid="CCYU" creationdate="20141102T055942Z">
+        <seg>由製造商和買方之間協議，熱點繞組溫度上升測定可直接量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As an alternative and by agreement between manufacturer and purchaser, the winding temperature rise requirements may be limited to the hot-spot winding&lt;t1/&gt; temperature rise which shall be determined by direct measurement in this case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121223Z" creationid="CCYU" creationdate="20141030T121223Z">
