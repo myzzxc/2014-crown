@@ -34696,6 +34696,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The exponents to be applied are given in Table 3 in accordance with the transformer type and cooling system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075234Z" creationid="CCYU" creationdate="20141102T075234Z">
+        <seg>表 3 列出根據變壓器類型及冷卻系統適用之指數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The external wall temperature distribution in equation (16) is assumed as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212024Z">
