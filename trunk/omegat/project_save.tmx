@@ -34232,6 +34232,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The average thermal gradient between each winding and liquid along the limb &lt;t0/&gt;(g)&lt;t1/&gt; is taken as the difference between the average winding temperature rise (A0&lt;t2/&gt;W&lt;t3/&gt;) and average liquid temperature rise (A0&lt;t4/&gt;om&lt;t5/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110111Z" creationid="CCYU" creationdate="20141102T110111Z">
+        <seg>各繞組之間及心柱周圍之平均溫差 &lt;t0/&gt;(g)&lt;t1/&gt; 為平均繞組溫度上升 (ΔΘ&lt;t2/&gt;W&lt;t3/&gt;) 及平均液體溫度上升 (ΔΘ&lt;t4/&gt;om&lt;t5/&gt;) 之差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The average winding temperature is determined by &lt;t0/&gt;measurement of winding resistance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145508Z" creationid="CCYU" creationdate="20141101T145508Z">
@@ -35428,6 +35436,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161430Z">
         <seg>紅菜坪地滑之水平位移量約為 39.24–46.28 像素 (24–28 公尺)，其 RMS 誤差約為 0.3 像素 (0.18 公尺)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hot-spot is generally expected be located at the u&lt;t0/&gt;pper extremity of the windings, because of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110148Z" creationid="CCYU" creationdate="20141102T110148Z">
+        <seg>熱點通常位於繞組上端點，因為：</seg>
       </tuv>
     </tu>
     <tu>
