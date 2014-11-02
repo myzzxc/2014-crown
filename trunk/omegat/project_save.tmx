@@ -7436,6 +7436,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By agreement, corrections may be applied over a wider range, but not lower than of -30 % of the target value of power and -15 % of the target value of current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T074303Z" creationid="CCYU" creationdate="20141102T074303Z">
+        <seg>校正值可依協議適用於更大的範圍，但不低於功率目標值 -30 % 及電流目標值 -15 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By agreement, the two steps of the test may be combined in one single application of power at a level between load loss and total loss.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T091326Z" creationid="Judy" creationdate="20141101T091326Z">
