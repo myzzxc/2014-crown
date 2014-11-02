@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 List of used symbols</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093506Z" creationid="CCYU" creationdate="20141102T093506Z">
+        <seg>2 符號清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Normative references</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133614Z">
@@ -1634,6 +1642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020730Z">
         <seg>2&lt;t0/&gt;d&lt;t1/&gt;0 &lt;t2/&gt;= 鑽孔直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 Mathematical models for natural and direct forced liquid flow cooling systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093635Z" creationid="CCYU" creationdate="20141102T093635Z">
+        <seg>3 自然和直接強制液體對流冷卻系統之數學模型</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,6 +9510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Core type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093654Z" creationid="CCYU" creationdate="20141102T093654Z">
+        <seg>核心式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Correct</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100337Z">
@@ -14713,6 +14737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the used symbols see Clause 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093534Z" creationid="CCYU" creationdate="20141102T093525Z">
+        <seg>使用之符號請參閱第 3 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For these transformers, if such a capability is required, it should be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132600Z">
@@ -19113,8 +19145,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this annex, the rules a&lt;t0/&gt;re given for core and shell type transformers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093458Z" creationid="CCYU" creationdate="20141102T093458Z">
-        <seg>此附錄中，規則適用於核心及外殼型變壓器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093646Z" creationid="CCYU" creationdate="20141102T093458Z">
+        <seg>此附錄中，規則適用於核心及外殼式變壓器。</seg>
       </tuv>
     </tu>
     <tu>
