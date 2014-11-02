@@ -14264,6 +14264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For disk or layer windings of core type three-phase transformers not exceeding 150 MVA (50 MVA for single-phase units), 50 Hz and short-circuit impedance from 10 % to 14 %, the curves of Figure B.2 can be used as a reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T120119Z" creationid="CCYU" creationdate="20141102T120119Z">
+        <seg>核心式三相變壓器之碟形或層型繞組功率低於 150 MVA (50 MVA 單相)、 50 Hz 且短路阻抗由 10 % 至 14 %，可參考圖 B.2 之曲線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For drill hole depth &gt; 150 mm use an extention tube.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021819Z">
