@@ -44681,6 +44681,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>concentration of additional loss because of the deviation of leakage flux lines;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110311Z" creationid="CCYU" creationdate="20141102T110311Z">
+        <seg>洩漏通量線偏差造成額外損耗集中；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>conditions, the rated power for guaranteed temperature rise under normal external cooling medium temperature conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025857Z">
