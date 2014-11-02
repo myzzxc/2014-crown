@@ -48445,6 +48445,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>where 0&lt;t0/&gt;h&lt;t1/&gt; is the temperature reading at shutdown, A&lt;9&lt;t2/&gt;0f&lt;t3/&gt; the fall of the top-liquid temperature during the 1 h test at rated current, and &lt;t4/&gt;0&lt;t5/&gt;a&lt;t6/&gt; the ambient temperature at the end of the total loss test period.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063529Z" creationid="CCYU" creationdate="20141102T063529Z">
+        <seg>其中 Θ&lt;t0/&gt;h&lt;t1/&gt; 為關機時之溫度讀值，∆Θ&lt;t2/&gt;of&lt;t3/&gt; 為額定電流下 1 小時測試期間頂層液體溫度下降值，Θ&lt;t5/&gt;a&lt;t6/&gt; 為總損耗測試結束時之環境溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where &lt;t0/&gt;0&lt;t1/&gt;2&lt;t2/&gt; is the average winding temperature at the instant of shutdown, &lt;t3/&gt;0&lt;t4/&gt;a&lt;t5/&gt; is the external cooling medium&lt;t6/&gt; temperature at the end of the test period with total losses, A0&lt;t7/&gt;ofrn&lt;t8/&gt;the fall of the temperature of the average liquid during the 1 h test at rated current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T160220Z" creationid="CCYU" creationdate="20141101T160220Z">
