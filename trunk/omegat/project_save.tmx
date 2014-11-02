@@ -4267,6 +4267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A0&lt;t0/&gt;h&lt;t1/&gt;=A0&lt;t2/&gt;o&lt;t3/&gt;+Hg</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T105824Z" creationid="CCYU" creationdate="20141102T105824Z">
+        <seg>ΔΘh = ΔΘo + Hg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A608001 —04 &lt;t0/&gt;a</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080757Z" creationid="CCYU" creationdate="20141025T080757Z">
@@ -13604,6 +13612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040312Z">
         <seg>圖 A5：保護作用張力線的鋼筋錨固</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.1 - Temperature rise distribution model for ON cooling methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T105736Z" creationid="CCYU" creationdate="20141102T105736Z">
+        <seg>圖 B.1 - ON 冷卻方法之溫度上升分佈模型 </seg>
       </tuv>
     </tu>
     <tu>
@@ -35436,6 +35452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063052Z" creationid="CCYU" creationdate="20141102T063052Z">
         <seg>熱點繞組溫度上升 (∆Θ&lt;t0/&gt;h&lt;t1/&gt;) 為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hot-spot winding temperature rise can be determined using the following equation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T105813Z" creationid="CCYU" creationdate="20141102T105813Z">
+        <seg>熱點繞組溫度上升可由以下公式決定：</seg>
       </tuv>
     </tu>
     <tu>
