@@ -3819,6 +3819,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A distinction is made between natural liquid flow cooling systems (codes ON...) and forced liquid flow cooling systems (code OF... or OD...).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093041Z" creationid="CCYU" creationdate="20141102T093041Z">
+        <seg>區分為自然對流冷卻系統 (代碼 ON...) 以及強制對流冷卻系統 (代碼 OF... 或 OD...) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few 20g spill kits should be a no brainer for every warehouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z">
