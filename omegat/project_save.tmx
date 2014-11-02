@@ -14833,6 +14833,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers having concentric windings &lt;t0/&gt;regularly distributed along the core limbs, the hot-spot winding temperature rise can be calculated starting from the results of the temperature rise test, assuming for the liquid at the winding exit the temperature of the top- liquid (see 7.4.1) and for t&lt;t1/&gt;he average liquid temperature, the average between the top-liquid temperature and the bottom liquid temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T094418Z" creationid="CCYU" creationdate="20141102T094418Z">
+        <seg>具有同心繞組均於分佈於心柱上之變壓器，熱點繞組溫度上升可根據溫度上升測試結果計算，假設繞組出口處之液體為頂層液體溫度 (請見 7.4.1)，而平均液體溫度為頂層液體溫度和底層液體溫度之間的平均。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers having one or more windings with 'highest voltage for equipment' L. equal to or above 3&lt;t0/&gt;,6&lt;t1/&gt; kV:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T023416Z">
