@@ -36368,6 +36368,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The question is now: “Can this mixed top-liquid temperature in the tank be used for hot-spot winding temperature determination from the h&lt;t0/&gt;eat run test data, or has such a determination to be based on hot liquid ejecting from the top of the windings?”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084654Z" creationid="CCYU" creationdate="20141102T084654Z">
+        <seg>現在的問題為：“油槽中之混合頂層液體溫度是否可用於來自熱運轉測試數據之熱點繞組溫度測定，或此測定應根據繞組頂層排出之熱液體？”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rated frequency is the basis for the guaranteed values such as losses, impedance, and sound level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T142627Z">
