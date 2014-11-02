@@ -16037,8 +16037,8 @@
       <tuv lang="EN-US">
         <seg>Hot-spot winding temperature rise determination for OFAF and OFWF</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081111Z" creationid="CCYU" creationdate="20141102T081111Z">
-        <seg>OFAF 和 OFWF 之熱點繞組溫度上升測定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081259Z" creationid="CCYU" creationdate="20141102T081111Z">
+        <seg>OFAF 和 OFWF 冷卻之變壓器根據油槽中頂層液體溫度之熱點繞組溫度上升測定</seg>
       </tuv>
     </tu>
     <tu>
@@ -35176,6 +35176,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hot-spot winding temperature &lt;t0/&gt;rise above ambient air or cooling water temperature has by tradition been based on the top-liquid temperature rise in the tank as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081514Z" creationid="CCYU" creationdate="20141102T081339Z">
+        <seg>熱點繞組溫度相對空氣或冷卻水溫度之上升，通常根據油槽中頂層液體溫度上升如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hot-spot winding temperature rise (Ai9&lt;t0/&gt;h&lt;t1/&gt;) is then obtained by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063052Z" creationid="CCYU" creationdate="20141102T063052Z">
@@ -44409,6 +44417,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cooled transformers based on the top-liquid temperature in tank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081302Z" creationid="CCYU" creationdate="20141102T081302Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cooling system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114805Z" creationid="CCYU" creationdate="20141030T114805Z">
@@ -47683,8 +47699,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the hot-spot winding temperature rise at rated current and for the top-liquid temperature rise as mentioned above.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030513Z" creationid="Judy" creationdate="20141101T030513Z">
-        <seg>額定電流下熱點繞組溫度上昇，用於上述頂層液體溫度上升測定；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T081345Z" creationid="Judy" creationdate="20141101T030513Z">
+        <seg>額定電流下熱點繞組溫度上升，用於上述頂層液體溫度上升測定；</seg>
       </tuv>
     </tu>
     <tu>
