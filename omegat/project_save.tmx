@@ -13632,6 +13632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.2 - Value of factor &lt;t0/&gt;Q &lt;t1/&gt;as a function of rated power and strand height (W)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121753Z" creationid="CCYU" creationdate="20141102T121753Z">
+        <seg>圖 B.2 - Q 因子值與額定功率及股線高 (W) 關係圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B1: General construction rules for post-installed &lt;t0/&gt;rebars</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T033812Z">
@@ -23153,8 +23161,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE 1 For cable epoxy conductor, the height re&lt;t0/&gt;fers to the elementary strand.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121348Z" creationid="CCYU" creationdate="20141102T121220Z">
-        <seg>註 1 對於含環氧樹脂導線&lt;For cable epoxy conductor, the height re&lt;t0/&gt;fers to the elementary strand.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121807Z" creationid="CCYU" creationdate="20141102T121220Z">
+        <seg>註 1 對於含環氧樹脂導線，高度參考點為基本股線。</seg>
       </tuv>
     </tu>
     <tu>
