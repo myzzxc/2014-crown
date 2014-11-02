@@ -23151,6 +23151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063535Z" creationid="CCYU" creationdate="20141102T063535Z">
+        <seg>註 3 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 &lt;t0/&gt;The&lt;t1/&gt; impedance of the transformer in terms of ohms per phase is calculated as follows</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T160218Z">
@@ -35480,6 +35488,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The methods indicated above can also be applied for the determination of the hot-spot temperatur&lt;t0/&gt;e rise in case of very low winding resistance when the average winding temperature rise by resistance variation is affected by large uncertainty (see 6.2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063908Z" creationid="CCYU" creationdate="20141102T063908Z">
+        <seg>以上所述之方法同時也適用於當繞組電阻非常低的情況下，當電阻變化造成之平均繞組溫度上升受不確定性影響很大時，測定熱點溫度上升 (請見 6.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum anchorage length (&lt;t0/&gt;lb,min&lt;t1/&gt;) and the minimum lap length (l0,min) according to EN 1992-1-1:2004+AC:2010 , (&lt;t2/&gt;lb,min&lt;t3/&gt;) acc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085633Z">
@@ -40829,6 +40845,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043902Z">
         <seg>Ultimax 系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncertainties affecting the results of the temperature rise test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063949Z" creationid="CCYU" creationdate="20141102T063949Z">
+        <seg>不確定性影響溫度上升測試之結果</seg>
       </tuv>
     </tu>
     <tu>
