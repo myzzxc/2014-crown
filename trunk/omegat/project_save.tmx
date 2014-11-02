@@ -10286,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination by calculation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060811Z" creationid="CCYU" creationdate="20141102T060811Z">
+        <seg>計算測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of average winding temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145357Z" creationid="CCYU" creationdate="20141101T145357Z">
@@ -13932,6 +13940,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T092946Z">
         <seg>任何非常規運作條件，對變壓器有特殊需求請參見 5.5。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For auto-connected transformers, the indicated limit refers to the rated power of the equivalent double&lt;t0/&gt; wound transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060800Z" creationid="CCYU" creationdate="20141102T060800Z">
+        <seg>對於自藕連接變壓器，其限制參照等效雙繞組變壓器之額定功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35204,6 +35220,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034235Z">
         <seg>製造商於變壓器的設計上應考慮操作員和維修人員之安全，特別是以下幾方面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manufacturer shall submit to the purchaser the results of a study concerning the location of the hot-spots and the estimation of their temperature rise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060954Z" creationid="CCYU" creationdate="20141102T060954Z">
+        <seg>製造商應提交一份關於熱點位置及其溫度上升估計之研究結果予以買方，</seg>
       </tuv>
     </tu>
     <tu>
