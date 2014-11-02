@@ -6299,6 +6299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a general recommendation, the extended uncertainties should be &lt;t0/&gt;related to a confidence level of 95 %.[8]&lt;t1/&gt;1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T070226Z" creationid="CCYU" creationdate="20141102T070226Z">
+        <seg>一般建議衍生之不確定性應具有 95 % 之信賴水準。[8]&lt;t1/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a result, it also promotes heat transfer in a way similar to ﬂow impingement does.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083326Z">
@@ -10690,6 +10698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060619Z" creationid="CCYU" creationdate="20141025T060619Z">
         <seg>依當地法規進行廢棄處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dissolved gas-in-oil analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T070311Z" creationid="CCYU" creationdate="20141102T070311Z">
+        <seg>油中溶解氣體分析</seg>
       </tuv>
     </tu>
     <tu>
