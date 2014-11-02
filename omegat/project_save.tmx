@@ -32216,6 +32216,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3 - Exponents for the corrections &lt;t0/&gt;of temperature rise test results</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075911Z" creationid="CCYU" creationdate="20141102T075911Z">
+        <seg>表 3 - 校正溫度上升測試結果之指數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045630Z">
@@ -33372,6 +33380,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075535Z">
         <seg>重量超過 5 噸之變壓器運輸時，其之重心應至少永久標記於變壓器兩相鄰側邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;corrections made using the exponent values given in Table 3 are conservative and intended only for reporting the temperature rise during a test in steady state conditions performed within the limits indicated above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075838Z" creationid="CCYU" creationdate="20141102T075838Z">
+        <seg>使用表 3 給定之指數值進行校正為保守值，且僅於穩態條件下於上述限制內進行測試時用於紀錄溫度上升。</seg>
       </tuv>
     </tu>
     <tu>
