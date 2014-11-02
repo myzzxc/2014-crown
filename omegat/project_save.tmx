@@ -18161,8 +18161,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In ON&lt;t7/&gt;-cooled transformers, this inaccuracy has been considered marginal, since the steady-state volume rate of flow of liquid through the windings is in principle equal to the rate of flow through the radiators.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T082952Z" creationid="CCYU" creationdate="20141102T082858Z">
-        <seg>於 ON-冷卻變壓器中，此cooled transformers, this inaccuracy has been considered marginal, since the steady-state volume rate of flow of liquid through the windings is in principle equal to the rate of flow through the radiators.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T083222Z" creationid="CCYU" creationdate="20141102T082858Z">
+        <seg>於 ON-冷卻變壓器中，此不準確性不重要，因為通過繞組之穩態液體體積流率原則上等於流經散熱器之流率。</seg>
       </tuv>
     </tu>
     <tu>
