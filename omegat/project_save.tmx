@@ -23151,6 +23151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 For cable epoxy conductor, the height re&lt;t0/&gt;fers to the elementary strand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121348Z" creationid="CCYU" creationdate="20141102T121220Z">
+        <seg>註 1 對於含環氧樹脂導線&lt;For cable epoxy conductor, the height re&lt;t0/&gt;fers to the elementary strand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For existing designs, the conversion between losses at alternative reference temperatures is performed by calculation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132805Z">
@@ -34698,8 +34706,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The curves, that give factor &lt;t0/&gt;Q&lt;t1/&gt; as a function of rated power and conductor strand height, were obtained as average of a number of cases for which the calculation was made by means of computer programs and confirmed by experimental results.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121149Z" creationid="CCYU" creationdate="20141102T121149Z">
-        <seg>曲線中，給定因子 &lt;t0/&gt;Q&lt;t1/&gt; 為額定功率和導體股線高之函數，其為以電腦程式計算多種情況之平均並由實驗結果證實。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121249Z" creationid="CCYU" creationdate="20141102T121149Z">
+        <seg>曲線中，給定因子 &lt;t0/&gt;Q&lt;t1/&gt; 為額定功率和多股導線高之函數，其為以電腦程式計算多種情況之平均並由實驗結果證實。</seg>
       </tuv>
     </tu>
     <tu>
