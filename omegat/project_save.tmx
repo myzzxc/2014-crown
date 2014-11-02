@@ -5403,6 +5403,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An answer to ’the question above is based on results obtained on some OFAF-cooled transformers, where the hot-spot winding temperatures were di&lt;t0/&gt;rectly measured by fibre optic sensors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084923Z" creationid="CCYU" creationdate="20141102T084923Z">
+        <seg>上述問題的答案建立於某些 OFAF-冷卻變壓器上所獲得之結果，其熱點繞組溫度以光纖感測器直接量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An environment not exposed to seismic disturbance which would require special consideration in the design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105845Z">
