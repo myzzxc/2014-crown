@@ -9398,6 +9398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corrections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073740Z" creationid="CCYU" creationdate="20141102T073740Z">
+        <seg>校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corresponding quantities with analogous meaning, related to other specific tappings, are called tapping quantities (see 3.5.9).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T143005Z">
@@ -10298,6 +10306,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140807T142724Z">
         <seg>Details of the supplier of the safety data sheet 安全資料表供應商詳細資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of the test method and acceptance criteria for evaluating the DGA result&lt;t0/&gt;s are given in Annex D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073733Z" creationid="CCYU" creationdate="20141102T073731Z">
+        <seg>評估 DGA 結果之詳細測試方法及驗收標準收錄於附錄 D 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45301,6 +45317,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163552Z">
         <seg>濕度超出 4.2 規定之限制；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073747Z" creationid="CCYU" creationdate="20141102T073747Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
