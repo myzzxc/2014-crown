@@ -6715,6 +6715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempts have been made to measure the duct oil temperature in some selected test units.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085611Z" creationid="CCYU" creationdate="20141102T085550Z">
+        <seg>已於某些選定之測試裝置嘗試進行管路油溫量測，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attend that the gelling time can vary according to the base material temperature (see Table B3).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T084214Z">
@@ -35676,6 +35684,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151238Z">
         <seg>測試之每相繞組最大電壓與最小電壓差異不得大於 3 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The measured hot-spot winding temperature rise has been obtained as the maximum value yielded by 8 fibre optic sensors per winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085444Z" creationid="CCYU" creationdate="20141102T085444Z">
+        <seg>實測之熱點繞組溫度上升值取每繞組中 8 組光纖感測器中所得之最大值。</seg>
       </tuv>
     </tu>
     <tu>
