@@ -18895,6 +18895,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In principle, it would be correct to assume for the top-liqui&lt;t0/&gt;d the temperature directly measured at the exit of the internal cooling circuit of each winding as the thermal behaviour depends on the repartition of the liquid flow rates among the various axial ducts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T134456Z" creationid="CCYU" creationdate="20141103T134456Z">
+        <seg>原則上，假設頂部液體溫度為各繞組內部冷卻迴路出口處直接量測之溫度為正確的，因為熱學特性取決於各種軸向管道中液體流率的分配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In principle, the &lt;t0/&gt;evaluation bf factor S, related to the effects of the cooling liquid circuit, should be made by solving the hydraulic circuit at the top of any specific winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115345Z" creationid="CCYU" creationdate="20141103T115046Z">
