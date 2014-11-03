@@ -13664,6 +13664,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.3 - Typical liquid flow paths in a disk winding with &lt;t0/&gt;diverting washers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130944Z" creationid="CCYU" creationdate="20141103T130944Z">
+        <seg>圖 B.3 - 具分流墊圈之碟形繞組中典型液體流道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.3 shows some typical examples of liquid circuits for windings with diverting washers and without additional axial ducts inside the winding a&lt;t0/&gt;nd with uniform distribution of the diverting washers for which different values of factor S loss should be considered.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130445Z" creationid="CCYU" creationdate="20141103T121637Z">
@@ -23411,6 +23419,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143036Z">
         <seg>註 2 將此規格與 CFVV 規格比較為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 A more accurate/estimate of the S factor representative of the specific winding arrangements can be indicated by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130819Z" creationid="CCYU" creationdate="20141103T130819Z">
+        <seg>註 2 更精確的代表特定繞組設置之 S 因子估計可由製造商指明。</seg>
       </tuv>
     </tu>
     <tu>
