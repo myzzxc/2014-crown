@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Winding resistance measurement after shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135259Z" creationid="CCYU" creationdate="20141103T135259Z">
+        <seg>1 關機後繞組電阻量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 pocket.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131307Z" creationid="CCYU" creationdate="20141101T131307Z">
@@ -23367,6 +23375,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 In general, the condition of the cooling device during the cooling down curve measurement only slightly affects the extrapolated value of the hot resistance at the time of shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140020Z" creationid="CCYU" creationdate="20141103T140020Z">
+        <seg>註 1 通常於冷卻曲線量測期間之冷卻裝置條件僅於關機時些微影響熱電阻外推值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 It is recognized that the most severe loading conditions for test voltage source accuracy are usually imposed by large single-phase transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T061005Z">
@@ -30672,6 +30688,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setting of the cooling equipment during the winding&lt;t0/&gt; resistance measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135345Z" creationid="CCYU" creationdate="20141103T135345Z">
+        <seg>繞組電阻量測期間之冷卻設備設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Several artificial uv-stability test methods all based on time lapse &lt;t0/&gt;( time&lt;t1/&gt; reduction ) are possible to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T141857Z">
@@ -33258,8 +33282,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Techniques used in temperature rise testing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135135Z" creationid="CCYU" creationdate="20141103T135135Z">
-        <seg>溫度上升測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135229Z" creationid="CCYU" creationdate="20141103T135135Z">
+        <seg>油浸式變壓器溫度上升測試使用之技術</seg>
       </tuv>
     </tu>
     <tu>
@@ -34812,6 +34836,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154729Z" creationid="CCYU" creationdate="20141101T154729Z">
         <seg>冷卻條件於電阻量測期間最好不要受到干擾，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cooling device should be preferably maintained to the same state (cooling method) as during the current injection in the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135531Z" creationid="CCYU" creationdate="20141103T135531Z">
+        <seg>冷裝置盡可能維持與繞組中電流注入期間相同之狀態 (冷卻方法)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -43553,6 +43585,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this setting, it is possible to obtain information about the transient thermal behaviour of t&lt;t0/&gt;he winding and liquid from the cooling down curve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135713Z" creationid="CCYU" creationdate="20141103T135713Z">
+        <seg>保持此設定可由冷卻曲線中獲得繞組與液體之暫態熱學特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With&lt;t0/&gt; &lt;t1/&gt;crimp&lt;t2/&gt; &lt;t3/&gt;contac&lt;t4/&gt;t&lt;t5/&gt; &lt;t6/&gt;f&lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;M3&lt;t10/&gt; &lt;t11/&gt;screws</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032459Z" creationid="CCYU" creationdate="20141025T032459Z">
@@ -46845,6 +46885,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z">
         <seg>of &lt;t0/&gt;liquorice 甘草氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of liquid-immersed transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135231Z" creationid="CCYU" creationdate="20141103T135231Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
