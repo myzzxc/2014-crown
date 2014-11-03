@@ -14274,8 +14274,8 @@
       <tuv lang="EN-US">
         <seg>For disk and layer windings without diverting washers with only vertical ducts, factor S can b&lt;t0/&gt;e assumed equaj to 1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115705Z" creationid="CCYU" creationdate="20141103T115705Z">
-        <seg>無轉向墊圈、僅具有垂直輸送之碟形或層型繞組，可假設因子 S 等於 1。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115815Z" creationid="CCYU" creationdate="20141103T115705Z">
+        <seg>無轉向墊圈、僅具有垂直管道之碟形或層型繞組，可假設因子 S 等於 1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36532,6 +36532,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144058Z">
         <seg>具有抽頭之變壓器功能性規格主要依據 6.4.3 提供操作規範之規格架構，而繞組和抽頭配置設計細節由製造商決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem is important for windings with diverter washers as the factor varies according to the configuration of liquid ducts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115858Z" creationid="CCYU" creationdate="20141103T115807Z">
+        <seg>此問題對具有轉向墊圈之繞組很重要，因為因子隨液體管道配置而異。</seg>
       </tuv>
     </tu>
     <tu>
