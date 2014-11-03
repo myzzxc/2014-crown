@@ -6939,6 +6939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>B.3.2 Shell type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T131623Z" creationid="CCYU" creationdate="20141103T131623Z">
+        <seg>B.3.2 殼式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B.4.1 Example 4.1 — Transformer specified with HV voltage variation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153632Z">
