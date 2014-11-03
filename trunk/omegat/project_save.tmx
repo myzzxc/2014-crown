@@ -14272,6 +14272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For disk and layer windings without diverting washers with only vertical ducts, factor S can b&lt;t0/&gt;e assumed equaj to 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115705Z" creationid="CCYU" creationdate="20141103T115705Z">
+        <seg>無轉向墊圈、僅具有垂直輸送之碟形或層型繞組，可假設因子 S 等於 1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For disk or layer windings of core type three-phase transformers not exceeding 150 MVA (50 MVA for single-phase units), 50 Hz and short-circuit impedance from 10 % to 14 %, the curves of Figure B.2 can be used as a reference.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T120119Z" creationid="CCYU" creationdate="20141102T120119Z">
