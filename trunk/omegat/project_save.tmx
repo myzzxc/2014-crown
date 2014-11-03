@@ -5907,6 +5907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex C</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135018Z" creationid="CCYU" creationdate="20141103T135018Z">
+        <seg>附錄 C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex C (informative)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T135802Z">
@@ -33248,6 +33256,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Techniques used in temperature rise testing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135135Z" creationid="CCYU" creationdate="20141103T135135Z">
+        <seg>溫度上升測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tel.: +49 40 / 79 02 36 300&lt;t0/&gt; &lt;t1/&gt;Fax: +49 40 / 79 02 36 357 &lt;t2/&gt;e-mail&lt;t3/&gt;: umco@umco.de</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134854Z">
@@ -37796,6 +37812,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133841Z">
         <seg>除另有規定外，溫度上升試驗僅於一組抽頭上測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature&lt;t0/&gt; rise of the liquid at the entry of the windings (bottom liquid temperature) can be determined as indicated for natural liquid flow cooling methods.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T134931Z" creationid="CCYU" creationdate="20141103T134931Z">
+        <seg>繞組入口之液體溫度上升 (底層液體溫度) 可使用與自然對流冷卻相同之方法測定。</seg>
       </tuv>
     </tu>
     <tu>
