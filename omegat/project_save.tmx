@@ -20327,6 +20327,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can also be noted that the winding regions where factors Q and S assume their maximum values correspond only when factor Q is maximum at the top of the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T131308Z" creationid="CCYU" creationdate="20141103T131308Z">
+        <seg>此外以注意僅於因子 Q 於繞組頂部為最大時假設繞組區之因子 Q 和 S 為最大值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also be seen in Fig. 8A and B. Generally, the magnitude larger than 10 &lt;t0/&gt;m is about 43%, while that less than 5 m is about 54%.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T131336Z">
