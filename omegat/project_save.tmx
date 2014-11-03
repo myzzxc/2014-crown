@@ -5355,6 +5355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the winding arrangement and configuration of shell type transformers are different from those of core type transformers, the thermal model given in Figure&lt;t0/&gt; B.1 can be still conceptually accepted taking into account the following consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T133005Z" creationid="CCYU" creationdate="20141103T133005Z">
+        <seg>雖然繞組配置和殼式變壓器設置與核心式變壓器不同，圖 B.1 中之熱模型之概念於以下考量下仍可接受。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although&lt;t14/&gt; &lt;t15/&gt;CFD approach has been applied to the research and development of industrial Stirling engines, in open literature, there has not been a&lt;t16/&gt; &lt;t17/&gt;detailed CFD study on the basic heat transfer processes in the &lt;t18/&gt;γ&lt;t19/&gt;-type Stirling engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T084136Z">
