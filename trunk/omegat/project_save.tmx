@@ -15041,6 +15041,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with forced&lt;t0/&gt; liquid flow (codes OF--), the concepts of top-liquid temperature and average liquid temperature are ambiguous and cannot be determined by measurements taken outside the tank (see also Annex A).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T134033Z" creationid="CCYU" creationdate="20141103T134033Z">
+        <seg>具有強制對流之變壓器 (代碼 OF--)，頂層液體溫度及平均液體溫度之概念模糊不清且無法由油槽外部之量測確定 (請見附錄 A)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with highest rated voltage less than or equal to 72,5 kV and wi&lt;t0/&gt;th&lt;t1/&gt; rated power less than or equal to 20 MVA (three phase) or 6,7 MVA (single phas&lt;t2/&gt;e&lt;t3/&gt; having a tapping range not exceeding ±5 %, tapping voltages on the tapped windi&lt;t4/&gt;ng&lt;t5/&gt; for all tappings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024258Z">
