@@ -18919,6 +18919,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In shell type transformers, multi-conductor wire is usually adopted as the conductor dimension can be adjusted from coil to coil according to the leakage flux distribu&lt;t0/&gt;tion, so that significant eddy current loss can be prevented for each coil.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T133316Z" creationid="CCYU" creationdate="20141103T133316Z">
+        <seg>殼式變壓器中，通常使用多導線，由於導體尺寸可依洩漏流量分佈由線圈至線圈調整，因此可避免各線圈中顯著的渦電流損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In solid:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205754Z">
