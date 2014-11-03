@@ -23671,6 +23671,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 Continuous transposed cable can be used at the top and bottom of th&lt;t0/&gt;e disk type windings in order to reduce the local eddy losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T131532Z" creationid="CCYU" creationdate="20141103T131532Z">
+        <seg>註 3 可於碟型繞組頂部和底部使用連續換位電纜以降低局部渦電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 For ONAN transformers up to 2 500 kVA, with plain or &lt;t0/&gt;corrugated tanks, or individual cooling tubes mounted directly on the tank, the average liquid temperature rise above ambient temperature may be taken as 80 % of the top-liquid temperature rise.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T141245Z" creationid="CCYU" creationdate="20141101T141245Z">
