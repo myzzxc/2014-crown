@@ -23575,6 +23575,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 In case of OD cooled transformers, the cooling should not be changed after shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140317Z" creationid="CCYU" creationdate="20141103T140317Z">
+        <seg>註 2 對於 OD 冷卻變壓器，關機後不應改變冷卻設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 In deciding the place of the no-load test in the complete test sequence, it should be borne in mind that no-load loss measurements performed before impulse tests and/or resistance measurements are, in general, representative of the average loss level over long time in service, assuming, that the core is not pre-magnetized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T065746Z">
@@ -25807,6 +25815,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only the final p&lt;t0/&gt;art of, the cooling down curve can be affected by the setting of the cooling device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140127Z" creationid="CCYU" creationdate="20141103T140127Z">
+        <seg>僅冷卻曲線最後一部分受冷卻裝置設定影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only use the foot warmer again once it and the cover are completely dry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151412Z">
@@ -27419,6 +27435,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T063536Z">
         <seg>有 30g 或 55g 桶裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Procedure for winding resistance measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140334Z" creationid="CCYU" creationdate="20141103T140334Z">
+        <seg>繞組電阻測量程序</seg>
       </tuv>
     </tu>
     <tu>
