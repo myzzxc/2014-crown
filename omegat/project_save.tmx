@@ -7724,6 +7724,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C.2 Extrapolation of&lt;t0/&gt; winding temperature to the instant of shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140414Z" creationid="CCYU" creationdate="20141104T140414Z">
+        <seg>C.2 回推繞組溫度至關機瞬間之外插法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C12/15 to C50/60</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085913Z">
@@ -8793,6 +8801,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133838Z">
         <seg>Classification&lt;t0/&gt; &lt;t1/&gt;67/548/EEC 分類 67/548/EEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clause C.1 discusses the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140447Z" creationid="CCYU" creationdate="20141104T140432Z">
+        <seg>C.1 節中討論</seg>
       </tuv>
     </tu>
     <tu>
@@ -13812,6 +13828,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140828Z">
         <seg>圖 C.1 — 邊界短路阻抗規格範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure C.2 - Alternative recommended circuit using only one direct current source</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140238Z" creationid="CCYU" creationdate="20141104T140238Z">
+        <seg>圖 C.2 - 兩繞組使用單一直流電源之替代建議電路</seg>
       </tuv>
     </tu>
     <tu>
@@ -46249,6 +46273,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>for both windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140240Z" creationid="CCYU" creationdate="20141104T140240Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for copper</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150455Z" creationid="CCYU" creationdate="20141101T150455Z">
@@ -48317,6 +48349,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164350Z">
         <seg>重疊直流電流 (superimposed DC current)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>supply circuit for resistance measurement and the delay before the inductive effects have died away.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140525Z" creationid="CCYU" creationdate="20141104T140443Z">
+        <seg>電阻量測之直流電源電路及電感效應消失前之延遲。</seg>
       </tuv>
     </tu>
     <tu>
