@@ -3392,6 +3392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Validation of the extrapolation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155131Z" creationid="CCYU" creationdate="20141104T155126Z">
+        <seg>&lt;t0/&gt;外插驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;2&lt;t2/&gt;For use with the load combinations of IBC Section 1605.2 or ACI 318 Section 9.2, as set forth in ACI 318 D.4.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021820Z">
@@ -7143,6 +7151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044515Z">
         <seg>軸距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B = (S&lt;t0/&gt;b&lt;t1/&gt;-nxA&lt;t2/&gt;0&lt;t3/&gt;)/S&lt;t4/&gt;e</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155020Z" creationid="CCYU" creationdate="20141104T155020Z">
+        <seg>B = (S&lt;t0/&gt;b&lt;t1/&gt; - n × A&lt;t2/&gt;0&lt;t3/&gt;)/S&lt;t4/&gt;e</seg>
       </tuv>
     </tu>
     <tu>
@@ -34944,6 +34960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The average winding temperature at the instant of shutdown is then: &lt;t0/&gt;&amp;w{t&lt;t1/&gt; &lt;t2/&gt;=&lt;t3/&gt; 0) = &lt;t4/&gt;Aq+B</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154956Z" creationid="CCYU" creationdate="20141104T154956Z">
+        <seg>則關機瞬間之平均繞組溫度為：Θ&lt;t0/&gt;w(t&lt;t1/&gt; &lt;t2/&gt;=&lt;t3/&gt; 0) = &lt;t4/&gt;A0+B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The average winding temperature is determined by &lt;t0/&gt;measurement of winding resistance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145508Z" creationid="CCYU" creationdate="20141101T145508Z">
@@ -40892,6 +40916,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T183045Z">
         <seg>此規章要求提交 1986 緊急計畫和社區知情權法第 313 節和 40 CFR 372 所列毒性化學品之年度報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This result is to be used for determining the average winding temperature according to 7.9.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155117Z" creationid="CCYU" creationdate="20141104T155117Z">
+        <seg>此結果用於根據 7.9 決定平均繞組溫度。</seg>
       </tuv>
     </tu>
     <tu>
