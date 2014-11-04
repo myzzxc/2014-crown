@@ -7804,6 +7804,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C.3 A numerical extrapolation&lt;t0/&gt; procedure of cooling down curve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143605Z" creationid="CCYU" creationdate="20141104T143605Z">
+        <seg>C.3 冷卻曲線之數值外插程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C12/15 to C50/60</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085913Z">
