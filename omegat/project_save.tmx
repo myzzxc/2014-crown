@@ -18583,6 +18583,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a transformer with very large thermal time-constant for liquid-temperature variation (this applies mainly to ON., transformers of relatively low rated power), it may be assumed that the asymptote is a constant value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141650Z" creationid="CCYU" creationdate="20141104T141650Z">
+        <seg>液體溫度變化具有非常大的熱時間常數之變壓器中 (主要適用於相對低額定功率之 ON.. 變壓器)，可假設漸進線為定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with our policy of continual product improvement, we reserve the right to make technical and optical changes without notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114546Z">
