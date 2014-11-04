@@ -18599,6 +18599,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In both cases, the current directions should co-operate for the saturation of the gore.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123047Z" creationid="CCYU" creationdate="20141104T123047Z">
+        <seg>兩種情況下電流方向應能使核心飽和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In business since 1962, &lt;t2/&gt;Ircon&lt;t3/&gt; is the world’s most trusted name for rugged, dependable, noncontact, fixed temperature measurement and the brand of choice for use in the harshest, high temperature industrial environments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T234406Z">
@@ -35240,6 +35248,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The electrical time-constant of the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123108Z" creationid="CCYU" creationdate="20141104T123108Z">
+        <seg>直流電路之電機時間常數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The elevated gas temperature even gives rise to small negative heat ﬂux on&lt;t16/&gt; &lt;t17/&gt;bottom plate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T095722Z">
@@ -45077,6 +45093,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142444Z">
         <seg>chocolate-like 巧克力氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>circuit, after saturation is reached, may also be &lt;t0/&gt;brought down to the order of a few seconds, even in difficult cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123221Z" creationid="CCYU" creationdate="20141104T123221Z">
+        <seg>於達到飽和後，即使於困難的情況下也能降低延遲至數秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>circuits or connected in series to one in common.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122946Z" creationid="CCYU" creationdate="20141104T122946Z">
+        <seg>或串聯於同一電路。</seg>
       </tuv>
     </tu>
     <tu>
