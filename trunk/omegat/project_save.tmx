@@ -18767,6 +18767,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In extreme ca&lt;t3/&gt;ses, with winding resistances close to or below 1 mtl, reasonable resistance values will be obtained one or two minutes from stabilizing the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124911Z" creationid="CCYU" creationdate="20141104T124911Z">
+        <seg>於極端的情況下，當繞組電阻接近或低於 1 mΩ 時，將於直流電流穩定一至兩分鐘後獲得適當的電阻值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, it is usually not accessible for&lt;t2/&gt; direct measurement in testing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041024Z">
@@ -45387,8 +45395,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>current is circulated through the entire turns of the HV winding, as indicated in Figures C.1 and C.2 below.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124600Z" creationid="CCYU" creationdate="20141104T124600Z">
-        <seg>電流通過高壓繞組全部繞匝時current is circulated through the entire turns of the HV winding, as indicated in Figures C.1 and C.2 below.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124651Z" creationid="CCYU" creationdate="20141104T124600Z">
+        <seg>電流通過高壓繞組全部繞匝時可得到最好的結果，如下圖 C.1 和 C.2 所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45397,6 +45405,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090126Z">
         <seg>量測電流不超過低電壓測與高電壓測之額定電流差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124913Z" creationid="CCYU" creationdate="20141104T124913Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
