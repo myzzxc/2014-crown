@@ -44657,6 +44657,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^om _ end</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150709Z" creationid="CCYU" creationdate="20141104T150709Z">
+        <seg>Θom _ end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^om _ start</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150547Z" creationid="CCYU" creationdate="20141104T150547Z">
+        <seg>Θom _ start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^om ~ &lt;t0/&gt;i&lt;t1/&gt;e&lt;t2/&gt;o&lt;t3/&gt; &lt;t4/&gt;+&lt;t5/&gt; ^b</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140658Z" creationid="CCYU" creationdate="20141101T140658Z">
@@ -45229,6 +45245,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T123304Z" creationid="CCYU" creationdate="20141028T123304Z">
         <seg>平均液體溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>average liquid temperature as measured at the instant of shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150706Z" creationid="CCYU" creationdate="20141104T150706Z">
+        <seg>關機瞬間量測之平均液體溫度</seg>
       </tuv>
     </tu>
     <tu>
@@ -49745,6 +49769,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041627Z">
         <seg>總損耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>total number of the valid measurements, reduced by 1 (n = n&lt;t0/&gt;va!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150525Z" creationid="CCYU" creationdate="20141104T150507Z">
+        <seg>有效測量總數減 1  (n = n&lt;t0/&gt;val...</seg>
       </tuv>
     </tu>
     <tu>
