@@ -22471,6 +22471,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measured quantities</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150056Z" creationid="CCYU" creationdate="20141104T150056Z">
+        <seg>量測值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measured short-circuit impedance for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083956Z">
@@ -34568,6 +34576,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The advantage of this method is that the best estimate of the average winding temperature is determined in an objective way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T145903Z" creationid="CCYU" creationdate="20141104T145903Z">
+        <seg>此方法之優點為平均繞組溫度之最佳估計值以客觀的方式決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The allowable in-plane shear strength of the anchor is determined in accordance with AF&amp;PA NDS Table 11E for lateral design values parallel to grain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T111217Z">
@@ -36660,6 +36676,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T130423Z">
         <seg>計算允許負載之方法收錄於 IEC 60076-7 油浸式變壓器，和 IEC 60076-12  乾式變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method is based on the assumption that the dropping of the top-liquid temperature rise is linear &lt;t0/&gt;0&lt;t1/&gt;om&lt;t2/&gt;{t)=A&lt;t3/&gt;o&lt;t4/&gt;-kt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150040Z" creationid="CCYU" creationdate="20141104T150034Z">
+        <seg>此方法基於假設頂層液體溫度上升之下降量為線性 &lt;t0/&gt;Θ&lt;t1/&gt;om&lt;t2/&gt;(t)=A&lt;t3/&gt;0&lt;t4/&gt;-kt。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44613,6 +44637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043420Z">
         <seg>[IEC 60050-421:1990, 421-10-09, 修訂]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^max</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150102Z" creationid="CCYU" creationdate="20141104T150102Z">
+        <seg>tmax</seg>
       </tuv>
     </tu>
     <tu>
