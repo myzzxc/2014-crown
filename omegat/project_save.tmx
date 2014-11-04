@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 min for &lt;t0/&gt;transformers &lt; 100 MVA;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125229Z" creationid="CCYU" creationdate="20141104T125229Z">
+        <seg>2 分鐘，&lt; 100 MVA 之變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 pockets;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131300Z" creationid="CCYU" creationdate="20141101T131300Z">
@@ -4759,6 +4767,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z">
         <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information 附加資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, the operating time for the connections and the time for stabilizing the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125013Z" creationid="CCYU" creationdate="20141104T125013Z">
+        <seg>此外，必須考慮連接操作時間和直流電流穩定時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20727,6 +20743,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended that the time starting from the shutdown until the first valid point of hot resistance measurement should not exceed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125202Z" creationid="CCYU" creationdate="20141104T125202Z">
+        <seg>建議由關機至第一個熱電阻測量有效點的時間不超過：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended you contact Moog at (716) 652-2000 to locate your closest Moog repair facility.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135201Z" creationid="CCYU" creationdate="20141023T135201Z">
@@ -35472,6 +35496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first useful resistance value can be obtained, depending on the size of the core.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125058Z" creationid="CCYU" creationdate="20141104T125058Z">
+        <seg>能獲得第一個有用電阻值的時間取決於核心大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fischer FIS EM Adhesive Anchor System described in this report is a suitable alternative to what is specified in the codes listed in Section 1.0 of this report, subject to the following conditions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T030911Z">
@@ -45381,6 +45413,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104705Z">
         <seg>換氣活塞曲柄半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current ha&lt;t0/&gt;ve to be regarded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125015Z" creationid="CCYU" creationdate="20141104T125015Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
