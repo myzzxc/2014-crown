@@ -4987,6 +4987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ae&lt;t0/&gt;w&lt;t1/&gt;{i) = 0&lt;t2/&gt;w&lt;t3/&gt;{i)~0&lt;t4/&gt;w&lt;t5/&gt;(i-i)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153537Z" creationid="CCYU" creationdate="20141104T153537Z">
+        <seg>ΔΘ&lt;t0/&gt;w&lt;t1/&gt;(i) = Θ&lt;t2/&gt;w&lt;t3/&gt;(i)-Θ&lt;t4/&gt;w&lt;t5/&gt;(i-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few days of the Chi-Chi event, the Hongtsaiping area in central Taiwan was reported to have several meters of slide in a small scale area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043335Z">
@@ -10858,6 +10866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T153934Z">
         <seg>絕緣之型式測試 (IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Difference between sequential &lt;t0/&gt;corrected winding temperature values:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153305Z" creationid="CCYU" creationdate="20141104T153305Z">
+        <seg>序列校正繞組溫度值之差異為：</seg>
       </tuv>
     </tu>
     <tu>
