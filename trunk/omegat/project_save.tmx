@@ -13728,6 +13728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure C.1 - Recommended circuit for transformers with a low resistance winding using</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141104T121137Z" creationid="Judy" creationdate="20141104T121137Z">
+        <seg>圖 C.1 - 繞組分別使用兩獨立直流電源之低電阻繞組變壓器建議電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure C.1 — Example of specification of short-circuit impedance by boundaries</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140828Z">
@@ -23979,6 +23987,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133126Z" creationid="CCYU" creationdate="20141028T133126Z">
         <seg>註 H 因子為 Q 和 S 因子之乘積 (請見 3.16 和 3.17)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;R&lt;t1/&gt; is an additional resistor to accelerate the extinction of the transient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141104T121221Z" creationid="Judy" creationdate="20141104T121221Z">
+        <seg>註 &lt;t0/&gt;R&lt;t1/&gt; 為加速消除暫態之額外電阻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49201,6 +49217,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124535Z">
         <seg>二維圓柱座標</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two&lt;t0/&gt; separate direct current sources, one for each winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141104T121138Z" creationid="Judy" creationdate="20141104T121138Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
