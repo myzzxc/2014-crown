@@ -13856,6 +13856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure C.3 - Average winding temperature variation after shutdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142208Z" creationid="CCYU" creationdate="20141104T142208Z">
+        <seg>圖 C.3 - 關機後平均繞組溫度變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure D.1 — Common connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141545Z">
@@ -35180,6 +35188,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050804Z">
         <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter. 用以決定物理性、毒性以及生態毒性的資料，直接列於相對應章節中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decay of the average winding temperature (&lt;9&lt;t0/&gt;w&lt;t1/&gt;(f)) with time &lt;t2/&gt;t&lt;t3/&gt; can be expressed wi&lt;t4/&gt;th the relation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142427Z" creationid="CCYU" creationdate="20141104T142427Z">
+        <seg>平均繞組溫度 (Θ&lt;t0/&gt;w&lt;t1/&gt;(t)) 隨時間 &lt;t2/&gt;t&lt;t3/&gt; 下降可由下列關係式表示：</seg>
       </tuv>
     </tu>
     <tu>
