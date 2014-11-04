@@ -4155,6 +4155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A total duration of 20 min for medium size transformers and up to 30 min for large transformers is &lt;t0/&gt;appropriate for the determination of the cooling down curve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125834Z" creationid="CCYU" creationdate="20141104T125742Z">
+        <seg>適當冷卻曲線測定時間為中型變壓器總持續時間 20 分鐘，而大型變壓器最多 30 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A transformer and its component parts in accordance with this standard is able under some circumstances to carry loading beyond rated power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T125047Z">
@@ -41717,6 +41725,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151011Z">
         <seg>針對兩組引擎進行研究，一組帶有兩動力活塞而另一組帶有四動力活塞，兩組引擎皆使用移動式再生器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two possible circuits used during the measurement of the cooling down curve on transformers with low resistance windings are shown in Figures C.1 and C.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125826Z" creationid="CCYU" creationdate="20141104T125826Z">
+        <seg>冷卻曲線兩種可能電路Two possible circuits used during the measurement of the cooling down curve on transformers with low resistance windings are shown in Figures C.1 and C.2.</seg>
       </tuv>
     </tu>
     <tu>
