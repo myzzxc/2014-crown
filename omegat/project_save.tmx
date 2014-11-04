@@ -35648,6 +35648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The extrapolation of the cooling down curve should be performed using a numerical computer procedure, which fits an analytical function to a set of temperature readings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T145621Z" creationid="CCYU" creationdate="20141104T145621Z">
+        <seg>冷卻曲線之外插需使用電腦數值程式以擬合分析函數至溫度讀數組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The factor of patch size discussed above is related to how we decided the interrogation size during the process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142216Z">
@@ -36836,6 +36844,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142256Z">
         <seg>以主抽頭之額定電壓百分比表示之抽頭級數及抽頭級大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The numerical procedure described below can be used t&lt;t0/&gt;o fit an analytical function to a set o1 timewise equidistant temperature readings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T145749Z" creationid="CCYU" creationdate="20141104T145749Z">
+        <seg>以下說明之數值程式可用於擬合分析函數至固定時間間隔之溫度讀數組。</seg>
       </tuv>
     </tu>
     <tu>
