@@ -19215,6 +19215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some cases, at the initial time after shutdown, some measured values, being not in line with the following measured values, have to be disregarded in order to obtain a&lt;t0/&gt; reasonable extrapolation curve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T152420Z" creationid="CCYU" creationdate="20141104T152420Z">
+        <seg>某些情況下，關機後初始時刻之某些量測值與後續量測值不一致，必須將其踢除以得到適當的外插曲線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some situations, it might be beneficial to have a mat or berm surrounding an area where they are using lubricant for forming.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115937Z">
