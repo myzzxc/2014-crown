@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*om(0=A&gt; e&lt;t0/&gt;-&lt;t1/&gt;^&lt;t2/&gt;0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143310Z" creationid="CCYU" creationdate="20141104T143310Z">
+        <seg>Θom(t) = A0e&lt;t0/&gt;-t/T&lt;t1/&gt;0&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>+ 20 °C yearly average.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T022827Z" creationid="MAE" creationdate="20141029T022827Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142524Z" creationid="CCYU" creationdate="20141104T142524Z">
         <seg>Θ&lt;t0/&gt;w(t) =&lt;t1/&gt;Θ&lt;t2/&gt;om (t) +Be-t/Tw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0&lt;t0/&gt;w&lt;t1/&gt;(f = O)=A&lt;t2/&gt;o&lt;t3/&gt;+'B</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143455Z" creationid="CCYU" creationdate="20141104T143455Z">
+        <seg>Θ&lt;t0/&gt;w&lt;t1/&gt;(t = 0) = A&lt;t2/&gt;0&lt;t3/&gt; + B</seg>
       </tuv>
     </tu>
     <tu>
@@ -32760,6 +32776,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;0&lt;t1/&gt; is an estimate of the thermal time constant of the liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143403Z" creationid="CCYU" creationdate="20141104T143403Z">
+        <seg>T&lt;t0/&gt;0&lt;t1/&gt; 為液體之熱時間常數估計值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T&lt;t0/&gt;erminal&lt;t1/&gt; &lt;t2/&gt;block</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032348Z" creationid="CCYU" creationdate="20141025T032348Z">
@@ -37452,6 +37476,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T134906Z" creationid="Judy" creationdate="20141104T134815Z">
         <seg>分散式變壓器之低電壓、星形或交錯連接繞組 (例如 400 V 繞組) 應量測兩相之間而非相端子和中性端子之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result of the extrapolation estimate is therefore:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143427Z" creationid="CCYU" creationdate="20141104T143427Z">
+        <seg>因此外插估計之結果為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50037,6 +50069,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whe&lt;t0/&gt;re</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143319Z" creationid="CCYU" creationdate="20141104T143319Z">
+        <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>where</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T094206Z">
@@ -50209,6 +50249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125839Z">
         <seg>變壓器是否經常電流過載，例如電爐變壓器和牽引輸送變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which corresponds to the average winding temperature at the instant of shut-down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143534Z" creationid="CCYU" creationdate="20141104T143534Z">
+        <seg>其對應至關機瞬間之平均繞組溫度。</seg>
       </tuv>
     </tu>
     <tu>
