@@ -19447,6 +19447,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the majority of the cases, particularly when large transformers with forced cooling are tested, and the cooling equipment is left operating after test power shutdown, it may be necessary to recognize a &lt;t0/&gt;falling asymptote, on which the more rapid initial variation is superimposed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142124Z" creationid="CCYU" creationdate="20141104T142124Z">
+        <seg>大多數情況下，尤其是測試強制冷卻之大型變壓器且冷卻設備於關閉測試電源後持續運作時，必須分辨出疊加上初始快速變化之下降漸近線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the production of reinforcing bars for the construction industry, the bars are preheated and then the coating is applied and cured.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040528Z">
@@ -40988,6 +40996,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152418Z">
         <seg>氣體填充式變壓器腔體密封性測試和壓力測試 (請參閱 60076-15)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142145Z" creationid="CCYU" creationdate="20141104T142145Z">
+        <seg>時間</seg>
       </tuv>
     </tu>
     <tu>
