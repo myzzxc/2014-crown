@@ -18999,6 +18999,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case this deviation is exceeded, the validation can be repeated excluding another measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155849Z" creationid="CCYU" creationdate="20141104T155849Z">
+        <seg>若偏差過大，可重複驗證排除其它量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In clear gas:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140253Z">
@@ -40660,6 +40668,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T044812Z">
         <seg>此地滑區面積約為 1.2 平方公里 (1500 公尺 × 800 公尺)，其北邊界有一條小溪河和頂水堀斷層通過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This last operation can be made &lt;t1/&gt;putting in the Table C.1 in the column of the parameter rvalue 0 instead of 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T160113Z" creationid="CCYU" creationdate="20141104T160113Z">
+        <seg>可將表 C.1 中 ν 欄之數值由 1 改為 0 以進行此最後操作。</seg>
       </tuv>
     </tu>
     <tu>
