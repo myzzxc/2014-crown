@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 min for transformers from 100 MVA to &lt; 500 MVA;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125252Z" creationid="CCYU" creationdate="20141104T125252Z">
+        <seg>3 分鐘，100 MVA 至 &lt; 500 MVA 之變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 pockets;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T131226Z" creationid="CCYU" creationdate="20141101T131226Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z">
         <seg>4 運作條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 min for transformers &gt; 500 MVA.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125311Z" creationid="CCYU" creationdate="20141104T125311Z">
+        <seg>4 分鐘，&gt; 500 MVA 之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35244,6 +35260,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021035Z">
         <seg>鑽鑿之孔洞必須使用壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次、由孔洞內部向外刷淨兩次 (徒手) 後再以壓縮空氣 (無油、87 psi (6 bar)) 吹淨兩次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The duration may vary according to the transformer characteristics and the test modalities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125558Z" creationid="CCYU" creationdate="20141104T125504Z">
+        <seg>持續時間可能依變壓器特性及測試方法而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The duration of the cooling down curve should be at least two times the thermal time constant of the winding in order to provide information about t&lt;t0/&gt;he transient thermal behaviour of windings and liquid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125520Z" creationid="CCYU" creationdate="20141104T125457Z">
+        <seg>冷卻時間至少應為繞組熱時間常數兩倍以上以提供繞組和液體之暫態熱學特性，</seg>
       </tuv>
     </tu>
     <tu>
