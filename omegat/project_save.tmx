@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A temperature difference of 1 K corresponds to a relative difference of resistance in the order of 1/300, which, for an exponential decay of the error, would correspond to a delay of five&lt;t1/&gt; to six times the electrical tirpe constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123515Z" creationid="CCYU" creationdate="20141104T123431Z">
+        <seg>1 K 之溫差對應至電阻差異之關係為 1/300 次方，誤差為指數性衰減，對應之延遲為電機時間常數的五至六倍，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A temperature which is judged by the hand to be slightly warm can be felt by the feet to be unpleasantly hot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150020Z">
