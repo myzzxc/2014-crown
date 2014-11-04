@@ -35896,6 +35896,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The inductive e.m.f.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123849Z" creationid="CCYU" creationdate="20141104T123849Z">
+        <seg>感應電動勢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The influence of MR on engine performance can be better understood from the variations of average and integrated quantities which will be presented in the next subsection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072035Z">
@@ -37196,6 +37204,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T132118Z">
         <seg>應盡可能使用此條款之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resistance measurement of LV windings of large step up t&lt;t0/&gt;ransformers is very sensitive to residual inductive e.m.f., which disturb the measurement even at the time, when the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123841Z" creationid="CCYU" creationdate="20141104T123824Z">
+        <seg>大型升壓變壓器低壓繞組之電阻量測對殘餘感應電動勢非常敏感，即使直流電流穩定後也會干擾量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39644,6 +39660,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T102748Z" creationid="Judy" creationdate="20141022T102748Z">
         <seg>此動作使短管末端至另一端產生壓力差並使短管位移，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This all means that, in general, useful measurements should be obtainable within not more than 1 min after effective saturation has been established.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123617Z" creationid="CCYU" creationdate="20141104T123617Z">
+        <seg>此現象代表有用的量測值通常需於達到有效飽和後 1 分鐘內取得。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45333,6 +45357,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104705Z">
         <seg>換氣活塞曲柄半徑 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current has stabilized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123842Z" creationid="CCYU" creationdate="20141104T123842Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
