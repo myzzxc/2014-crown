@@ -3769,6 +3769,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>=&lt;t0/&gt; (^d S&lt;t1/&gt;a&lt;t2/&gt;—Sb* S&lt;t3/&gt;c&lt;t4/&gt;)/(nSd-S&lt;t5/&gt;b&lt;t6/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154603Z" creationid="CCYU" creationdate="20141104T154603Z">
+        <seg>tc =&lt;t0/&gt; (SdS&lt;t1/&gt;a&lt;t2/&gt;-Sb × S&lt;t3/&gt;c&lt;t4/&gt;)/(nSd-S&lt;t5/&gt;b&lt;t6/&gt;2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; M24: Property class 50 (for class 50 rod) EN ISO 3506-2:2009 M24: Property class 70 (for class 70 rod) EN ISO 3506-2:2009</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T132013Z">
@@ -9538,6 +9546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140734Z">
         <seg>恆定通量電壓變化 (CFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Constants &lt;t0/&gt;A&lt;t1/&gt;0&lt;t2/&gt; and &lt;t3/&gt;B:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154846Z" creationid="CCYU" creationdate="20141104T154846Z">
+        <seg>常數 &lt;t0/&gt;A&lt;t1/&gt;0&lt;t2/&gt; 和 &lt;t3/&gt;B：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44129,6 +44145,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Winding time constant:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154615Z" creationid="CCYU" creationdate="20141104T154615Z">
+        <seg>繞組時間常數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123844Z">
@@ -48497,6 +48521,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>s&lt;t0/&gt;e&lt;t1/&gt;=Z&lt;t2/&gt;e(&lt;t3/&gt;"^&lt;t4/&gt;w)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154812Z" creationid="CCYU" creationdate="20141104T154812Z">
+        <seg>T&lt;t0/&gt;w&lt;t1/&gt; = Δt&lt;t2/&gt;/ln(1+t&lt;t3/&gt;Θ&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>safety of persons during manufacture, installation, operation, maintenance and disposal;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071011Z">
@@ -48859,8 +48891,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>t&lt;t0/&gt;e&lt;t1/&gt; = (&lt;t2/&gt;nS&lt;t3/&gt;c&lt;t4/&gt;—&lt;t5/&gt; S&lt;t6/&gt;d&lt;t7/&gt;x S&lt;t8/&gt;a&lt;t9/&gt; )/(nS&lt;t10/&gt;d&lt;t11/&gt;-S&lt;t12/&gt;b&lt;t13/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154459Z" creationid="CCYU" creationdate="20141104T154459Z">
-        <seg>t&lt;t0/&gt;e&lt;t1/&gt; = (&lt;t2/&gt;nS&lt;t3/&gt;c&lt;t4/&gt;-&lt;t5/&gt; S&lt;t6/&gt;d&lt;t7/&gt;× S&lt;t8/&gt;a&lt;t9/&gt; )/(nS&lt;t10/&gt;d&lt;t11/&gt;-S&lt;t12/&gt;b&lt;t13/&gt;)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154607Z" creationid="CCYU" creationdate="20141104T154459Z">
+        <seg>t&lt;t0/&gt;e&lt;t1/&gt; = (&lt;t2/&gt;nS&lt;t3/&gt;c&lt;t4/&gt;-&lt;t5/&gt; S&lt;t6/&gt;d&lt;t7/&gt;× S&lt;t8/&gt;a&lt;t9/&gt; )/(nS&lt;t10/&gt;d&lt;t11/&gt;-S&lt;t12/&gt;b&lt;t13/&gt;2)</seg>
       </tuv>
     </tu>
     <tu>
