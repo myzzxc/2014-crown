@@ -4411,6 +4411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&lt;t0/&gt;t</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150213Z" creationid="CCYU" creationdate="20141104T150213Z">
+        <seg>Δ&lt;t0/&gt;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESSORIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z">
@@ -46001,6 +46009,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>duration of the cooling down curve measurement (20 min in the example)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150152Z" creationid="CCYU" creationdate="20141104T150152Z">
+        <seg>冷卻曲線量測時間 (範例為 20 分鐘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>e.g. SA 2960585 IIMP</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053454Z">
@@ -46793,14 +46809,6 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>i</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073747Z" creationid="CCYU" creationdate="20141102T073747Z">
-        <seg> </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>i &lt;t0/&gt;=&lt;t1/&gt; F&lt;t2/&gt; (I’,&lt;t3/&gt; j&lt;t4/&gt;’) &lt;t5/&gt;and j &lt;t6/&gt;=&lt;t7/&gt; G&lt;t8/&gt; (I’,&lt;t9/&gt; y&lt;t10/&gt;’)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065756Z">
@@ -46885,6 +46893,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073116Z">
         <seg>空載損耗增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index of the time step</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150345Z" creationid="CCYU" creationdate="20141104T150345Z">
+        <seg>時間次序</seg>
       </tuv>
     </tu>
     <tu>
@@ -49550,6 +49566,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124750Z">
         <seg>時間 (s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>time increment (1 min in the example)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150238Z" creationid="CCYU" creationdate="20141104T150238Z">
+        <seg>時間增量 (範例為 1 分鐘)</seg>
       </tuv>
     </tu>
     <tu>
