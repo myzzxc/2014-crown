@@ -7067,6 +7067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary &lt;t0/&gt;variables:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154353Z" creationid="CCYU" creationdate="20141104T154353Z">
+        <seg>輔助變數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auxiliary contacts in diverter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154601Z">
@@ -29776,6 +29784,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;d&lt;t1/&gt;=E(0&lt;t2/&gt;w&lt;t3/&gt;fi))&lt;t4/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154334Z" creationid="CCYU" creationdate="20141104T154334Z">
+        <seg>S&lt;t0/&gt;d&lt;t1/&gt;=Σ(Θ&lt;t2/&gt;w&lt;t3/&gt;(i))&lt;t4/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S&lt;t0/&gt;e&lt;t1/&gt;r&lt;t2/&gt;v&lt;t3/&gt;o&lt;t4/&gt;v&lt;t5/&gt;a&lt;t6/&gt;l&lt;t7/&gt;v&lt;t8/&gt;e&lt;t9/&gt; &lt;t10/&gt;/&lt;t11/&gt; &lt;t12/&gt;L&lt;t13/&gt;V&lt;t14/&gt;D&lt;t15/&gt;T&lt;t16/&gt; &lt;t17/&gt;S&lt;t18/&gt;i&lt;t19/&gt;de</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034045Z" creationid="CCYU" creationdate="20141025T034045Z">
@@ -32620,6 +32636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012711Z">
         <seg>Suitable&lt;t0/&gt;                 &lt;t1/&gt; : Not suitable&lt;t2/&gt;              &lt;t3/&gt;: 適用： 不適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sum of the squared, corrected winding temperature values:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154313Z" creationid="CCYU" creationdate="20141104T154313Z">
+        <seg>校正繞組溫度值總和之平方為：:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48829,6 +48853,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134247Z">
         <seg>t) 非正常物理環境條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>t&lt;t0/&gt;e&lt;t1/&gt; = (&lt;t2/&gt;nS&lt;t3/&gt;c&lt;t4/&gt;—&lt;t5/&gt; S&lt;t6/&gt;d&lt;t7/&gt;x S&lt;t8/&gt;a&lt;t9/&gt; )/(nS&lt;t10/&gt;d&lt;t11/&gt;-S&lt;t12/&gt;b&lt;t13/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154459Z" creationid="CCYU" creationdate="20141104T154459Z">
+        <seg>t&lt;t0/&gt;e&lt;t1/&gt; = (&lt;t2/&gt;nS&lt;t3/&gt;c&lt;t4/&gt;-&lt;t5/&gt; S&lt;t6/&gt;d&lt;t7/&gt;× S&lt;t8/&gt;a&lt;t9/&gt; )/(nS&lt;t10/&gt;d&lt;t11/&gt;-S&lt;t12/&gt;b&lt;t13/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
