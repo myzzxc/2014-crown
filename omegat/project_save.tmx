@@ -6755,6 +6755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the beginning, before the d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122238Z" creationid="CCYU" creationdate="20141104T122238Z">
+        <seg>最初於直流量測電流穩定前，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the hour, the resistances of the windings are measured, either after a rapid disconnection of the supply and short circuits (see 7.8 and Annex C) or, without switchi&lt;t0/&gt;ng off the supply, by means of the superposition method which consists of injecting into the windings and measuring direct current of low value superimposed on the load current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T085636Z" creationid="Judy" creationdate="20141101T085636Z">
@@ -29124,6 +29132,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T161011Z">
         <seg>Residuals must be removed from packaging and when emptied completely disposed of in accordance with the regulations for waste removal. 包裝之殘留物必須去除，並於完全清空內容物後按照規範處置廢棄物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistance measurement should be commenced as soon as &lt;t0/&gt;possible after the connection of the windings to the measuring equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122159Z" creationid="CCYU" creationdate="20141104T122159Z">
+        <seg>電阻量測應於繞組連接至量測設備後儘快開始。</seg>
       </tuv>
     </tu>
     <tu>
