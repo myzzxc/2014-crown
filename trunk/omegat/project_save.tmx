@@ -37314,8 +37314,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The resistance of low voltage, star or z&lt;t0/&gt;igzag connected windings (e.g. 400 V winding) of a distribution type transformer should be measured between two phase terminals and not between a phase terminal and neutral terminal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141104T134815Z" creationid="Judy" creationdate="20141104T134815Z">
-        <seg>分散型變壓器之低電壓、星形或交錯連接繞組 (例如 400 V 繞組) 應量測兩相之間而非相端子和中性端子之間。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T134906Z" creationid="Judy" creationdate="20141104T134815Z">
+        <seg>分散式變壓器之低電壓、星形或交錯連接繞組 (例如 400 V 繞組) 應量測兩相之間而非相端子和中性端子之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38836,6 +38836,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135459Z">
         <seg>接著使用刷子、掃帚或抹布，攪動產物並掃除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also other methods, the use of which shall be subjected to agre&lt;t0/&gt;ement between manufacturer and purchaser:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T135047Z" creationid="CCYU" creationdate="20141104T135009Z">
+        <seg>以下為其它由製造商和買方協議之量測方法：</seg>
       </tuv>
     </tu>
     <tu>
