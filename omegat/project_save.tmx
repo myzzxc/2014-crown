@@ -11423,6 +11423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Driving the core into saturation means building up a certain amount of flux that reduces the delay, in practice to the order of a few seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122840Z" creationid="CCYU" creationdate="20141104T122840Z">
+        <seg>驅動核心至飽和代表建立足夠的通量以降低延遲至數秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dry</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074435Z">
@@ -38288,6 +38296,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The two windings of the tested pair may either be conne&lt;t0/&gt;cted to two separate d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122927Z" creationid="CCYU" creationdate="20141104T122927Z">
+        <seg>兩測試繞組對可連接至兩獨立直流電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The upper boundary is a constant value of short-circuit impedance as a percentage, which is determined by the permissible voltage drop at a specified loading and at a specified power factor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140442Z">
@@ -49337,6 +49353,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132156Z">
         <seg>非正常強磁場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>using a constant-current supply, an electronically stabilized supply source or a &lt;t0/&gt;powerful battery with a large additional series resistor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122719Z" creationid="CCYU" creationdate="20141104T122719Z">
+        <seg>使用定電流電源、電子穩定電源或具有額外串聯電阻之強力電池。</seg>
       </tuv>
     </tu>
     <tu>
