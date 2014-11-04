@@ -19575,6 +19575,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the example given above, the first point was excluded because the deviation between the first and second calculations exceeds + 0,5'K.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T160323Z" creationid="CCYU" creationdate="20141104T160323Z">
+        <seg>以上範例中，因為第一次與第二次計算結果偏差超過 + 0,5 K  而將第一點排除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the expansion chamber, Fig. 12 (a) indicates that the pressure in the case with MR is generally higher than the case without MR, and the MR seems to cause some phase-lag effect on the pressure variations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084002Z">
