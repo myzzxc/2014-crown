@@ -3995,6 +3995,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A plot of the winding temperature would look as shown on Figure C.3, where the temperature of the winding is falling relatively rapidly for a period of some mi&lt;t0/&gt;nutes and then flattens out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141417Z" creationid="CCYU" creationdate="20141104T141417Z">
+        <seg>繞組溫度圖如圖 C.3 所示，其中繞組溫度於一段期間內下降相對迅速而接著減緩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A puncture in a small bag can cause a mess in a cab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125730Z">
