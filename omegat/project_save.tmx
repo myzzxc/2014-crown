@@ -36656,6 +36656,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measured winding temperature values, as converted from the ho&lt;t0/&gt;t resistance values (see 7.6) are inserted in Table C.1 as values in column 0&lt;t1/&gt;wm&lt;t2/&gt; (/) .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T152048Z" creationid="CCYU" creationdate="20141104T152048Z">
+        <seg>由熱電阻值轉換之量測繞組溫度值 (請見 7.6) 輸入表 C.1 之 Θ&lt;t1/&gt;wm&lt;t2/&gt;(i) 欄中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measurement of winding resistance is started after shutdown of the test power and connection to the windings of d.c.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140647Z" creationid="CCYU" creationdate="20141103T140647Z">
