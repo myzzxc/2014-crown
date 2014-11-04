@@ -49333,6 +49333,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>to pick up the inductive component of voltage across an open winding, which is not part of the direct current circuit, and use this voltage for correction of the voltage across the winding subjected to resistance m&lt;t0/&gt;easurement (this method is not recommended for large step-up transformers);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T135524Z" creationid="CCYU" creationdate="20141104T135524Z">
+        <seg>將通過開繞組、非直流電路的一部份之感應電壓項提出，並使用此電壓校正電阻量測時通過繞組之電壓 (此方法不建議用於大型升壓變壓器)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>to: maximum time from start ng of mortar injection to completing of rebar setting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044231Z">
