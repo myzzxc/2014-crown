@@ -4595,6 +4595,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute value of sum of the corrected winding temperature values:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153818Z" creationid="CCYU" creationdate="20141104T153818Z">
+        <seg>校正繞組溫度值總和之絕對值為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Absolute value of sum of the differences between sequential corrected winding temperature values:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153833Z" creationid="CCYU" creationdate="20141104T153628Z">
+        <seg>序列校正繞組溫度值差異總和之絕對值為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absorb with an inert material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013845Z">
@@ -29716,6 +29732,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T120207Z" creationid="CCYU" creationdate="20141103T120133Z">
         <seg>S 因子通常於當繞組內部之液體流沿繞組軸向高分佈非均勻時大於 1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;a&lt;t1/&gt;=|l(A0&lt;t2/&gt;w&lt;t3/&gt;tf))</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153756Z" creationid="CCYU" creationdate="20141104T153756Z">
+        <seg>S&lt;t0/&gt;a&lt;t1/&gt;= |Σ(ΔΘ&lt;t2/&gt;w&lt;t3/&gt;(i)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;b&lt;t1/&gt;=|&lt;t2/&gt;E&lt;Ufl|</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153913Z" creationid="CCYU" creationdate="20141104T153913Z">
+        <seg>S&lt;t0/&gt;b&lt;t1/&gt;=|ΣΘ&lt;t2/&gt;w(i)|</seg>
       </tuv>
     </tu>
     <tu>
