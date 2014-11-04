@@ -46601,6 +46601,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in case of two well-balanced, parallel halves of a winding, it is possible to circulate a direct current into one and back through the other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T135835Z" creationid="CCYU" creationdate="20141104T135835Z">
+        <seg>於兩平衡、並聯之繞組中，可將電流直接循環通過一繞組並由另一繞組返回，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022140Z">
