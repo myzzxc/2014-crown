@@ -35224,6 +35224,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The corrected winding temperature is then:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153106Z" creationid="CCYU" creationdate="20141104T153106Z">
+        <seg>則校正之繞組溫度為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The correlation plane C(s) is evaluated at single pixel intervals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092448Z">
@@ -42817,6 +42825,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Validated values taken into account and designated as values are designated as 0&lt;t1/&gt;w&lt;t2/&gt;.&lt;t3/&gt;va&lt;t4/&gt;|(/) = ox0&lt;t5/&gt;wm&lt;t6/&gt;(/').</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153027Z" creationid="CCYU" creationdate="20141104T153027Z">
+        <seg>需考慮驗證值，而其指定值為 Θ&lt;t1/&gt;w&lt;t2/&gt; &lt;t3/&gt;val&lt;t4/&gt; (i) = ν × Θ&lt;t5/&gt;wm&lt;t6/&gt;(i)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123256Z">
@@ -45741,6 +45757,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141713Z">
         <seg>銅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cor O')&lt;t0/&gt;=&lt;t1/&gt; val(0&lt;t2/&gt;+&lt;t3/&gt; &lt;t4/&gt;^ t</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153153Z" creationid="CCYU" creationdate="20141104T153153Z">
+        <seg>Θw cor (i) &lt;t0/&gt;=&lt;t1/&gt; Θw val(i) &lt;t2/&gt;+&lt;t3/&gt; &lt;t4/&gt;kt</seg>
       </tuv>
     </tu>
     <tu>
