@@ -8100,6 +8100,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculated quantities as per Table C.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151446Z" creationid="CCYU" creationdate="20141104T151446Z">
+        <seg>計算值如表 C.1 所示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canadian Sphagnum Peat Moss 100%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
@@ -45259,16 +45267,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>average liquid temperature as measured at the end of the cooling down&lt;t0/&gt; curve</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150906Z" creationid="CCYU" creationdate="20141104T150816Z">
-        <seg>冷卻曲線末端之平均液體溫度量測估計值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151651Z" creationid="CCYU" creationdate="20141104T150816Z">
+        <seg>冷卻曲線末端之平均液體溫度量測值</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>average liquid temperature as measured at the instant of shutdown</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150855Z" creationid="CCYU" creationdate="20141104T150706Z">
-        <seg>關機瞬間之平均液體溫度量測估計值</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151649Z" creationid="CCYU" creationdate="20141104T150706Z">
+        <seg>關機瞬間之平均液體溫度量測值</seg>
       </tuv>
     </tu>
     <tu>
@@ -49065,6 +49073,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the difference in top-liquid temperature at the beginning and at the end of cooling-down curve test, divided by &lt;t0/&gt;duration of the test (Ac = 0,15 K/min in the example)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151404Z" creationid="CCYU" creationdate="20141104T151404Z">
+        <seg>冷卻曲線測試起始點與結束點之頂層液體溫度差異除以測試時間 (範例為 k = 0,15 K/min)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the disposal of the transformer, eliminating or minimising the use of materials or mixtures of materials that will be difficult or impossible to re-use or recycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071633Z">
@@ -49985,6 +50001,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z">
         <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>validation factor (0 or 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151427Z" creationid="CCYU" creationdate="20141104T151427Z">
+        <seg>驗證因子 (0 或 1)</seg>
       </tuv>
     </tu>
     <tu>
