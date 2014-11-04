@@ -4595,6 +4595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute value of sum of the corrected winding temperature values multiplied by sequential temperature differences:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154024Z" creationid="CCYU" creationdate="20141104T154024Z">
+        <seg>校正繞組溫度值乘以序列溫度值差異之絕對值為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absolute value of sum of the corrected winding temperature values:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153818Z" creationid="CCYU" creationdate="20141104T153818Z">
@@ -29748,6 +29756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T153913Z" creationid="CCYU" creationdate="20141104T153913Z">
         <seg>S&lt;t0/&gt;b&lt;t1/&gt;=|ΣΘ&lt;t2/&gt;w(i)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;c&lt;t1/&gt;=\z(d^(i)A8&lt;t2/&gt;w&lt;t3/&gt;(i)}</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154224Z" creationid="CCYU" creationdate="20141104T154224Z">
+        <seg>S&lt;t0/&gt;c&lt;t1/&gt;=|Σ(Θw(i)ΔΘ&lt;t2/&gt;w&lt;t3/&gt;(i))|</seg>
       </tuv>
     </tu>
     <tu>
