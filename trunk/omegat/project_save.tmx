@@ -40368,6 +40368,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This permits monitoring of the resistance, in principle without inductive effects, a&lt;t0/&gt;nd possibly even while a.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140134Z" creationid="CCYU" creationdate="20141104T140134Z">
+        <seg>此方法可監控電阻，原則上即使供應交流電源至變壓器中也無電感效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This phenomenon can be seen from the enlarged velocity vectors and temperature contour plots of &lt;t2/&gt;θ&lt;t3/&gt;=57.6&lt;t4/&gt;°&lt;t5/&gt; in the expansion chamber illustrated in Figs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233432Z">
@@ -47581,6 +47589,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141703Z">
         <seg>鉀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>power is supplied to the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140135Z" creationid="CCYU" creationdate="20141104T140135Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
