@@ -36032,6 +36032,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The grey cells shall be filled with the measured quantities or parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151827Z" creationid="CCYU" creationdate="20141104T151827Z">
+        <seg>灰色表格應填入量測值或參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The guaranteed maximum sound level is a limit without tolerance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161508Z">
@@ -37204,6 +37212,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084830Z">
         <seg>PIV 分析的程序如流程圖 (圖 6) 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The procedure to be applied is the following:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151801Z" creationid="CCYU" creationdate="20141104T151801Z">
+        <seg>程序使用方法如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45299,8 +45315,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>average winding temperature as measured at the time instant &lt;t0/&gt;i &lt;t1/&gt;(evaluated from the hot resistance measurement as per 7.6)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151202Z" creationid="CCYU" creationdate="20141104T150948Z">
-        <seg>於第 &lt;t0/&gt;i &lt;t1/&gt; 組時間之瞬時平均繞組溫度量測估計值 (依 7.6 節之繞組電阻量測進行估計)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151705Z" creationid="CCYU" creationdate="20141104T150948Z">
+        <seg>於第 &lt;t0/&gt;i &lt;t1/&gt; 組時間之瞬時平均繞組溫度量測值 (依 7.6 節之繞組電阻量測進行估計)</seg>
       </tuv>
     </tu>
     <tu>
