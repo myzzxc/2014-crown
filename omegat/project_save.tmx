@@ -1496,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012004Z">
-        <seg>2、</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122002Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -6581,8 +6581,8 @@
       <tuv lang="EN-US">
         <seg>As winding temperature and resistance vary with time, the problem is to extrapolate</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121634Z" creationid="CCYU" creationdate="20141104T121634Z">
-        <seg>繞組溫度及電阻隨時間變化，As winding temperature and resistance vary with time, the problem is to extrapolate</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121747Z" creationid="CCYU" creationdate="20141104T121634Z">
+        <seg>由於繞組溫度及電阻隨時間變化，問題為以外插法回推至關機瞬間</seg>
       </tuv>
     </tu>
     <tu>
@@ -39760,6 +39760,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This extrapolation procedure is discussed in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121959Z" creationid="CCYU" creationdate="20141104T121959Z">
+        <seg>此外插程序於 C.2 中討論。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This gives rise to a single equation for the saturated porous medium regime as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205553Z">
@@ -44821,6 +44829,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103911Z">
         <seg>b) 大功率變壓器 (具有平面油槽壁)，超過 100 MVA：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>backwards in time to the instant of shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121750Z" creationid="CCYU" creationdate="20141104T121750Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
