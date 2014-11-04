@@ -24263,6 +24263,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The resistors and &lt;t0/&gt;R&lt;t1/&gt;2&lt;t2/&gt; are used to accelerate the extinction of the transient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141104T120807Z" creationid="Judy" creationdate="20141104T120807Z">
+        <seg>註 電阻與 &lt;t0/&gt;R&lt;t1/&gt;2&lt;t2/&gt; 用於加速消除暫態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The rule given above does not apply for water temperatures lower than the normal one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133655Z" creationid="CCYU" creationdate="20141030T133655Z">
