@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 Gas anal&lt;t0/&gt;ysis and result interpretation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142504Z" creationid="CCYU" creationdate="20141105T142504Z">
+        <seg>4 氣體分析與結果解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 MOUNTING HOLES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135702Z" creationid="CCYU" creationdate="20141023T135702Z">
@@ -37428,6 +37436,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115605Z">
         <seg>因此油便自然地流到地面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The oil samples extracted as indicated above should be analyzed as soon as possible, but in any case not later than 3 days thereafter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142643Z" creationid="CCYU" creationdate="20141105T142643Z">
+        <seg>如上文所述採集之樣品應儘快進行分析，於所有情況下不應超過採集後 3 天。</seg>
       </tuv>
     </tu>
     <tu>
