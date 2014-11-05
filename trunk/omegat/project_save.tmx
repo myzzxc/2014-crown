@@ -9349,6 +9349,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compounds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145839Z" creationid="CCYU" creationdate="20141105T145839Z">
+        <seg>化合物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compressed air drilling (CD)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041858Z">
@@ -14348,6 +14356,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135411Z" creationid="CCYU" creationdate="20141028T135411Z">
         <seg>首位字母：內部冷媒：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150036Z" creationid="CCYU" creationdate="20141105T150028Z">
+        <seg>第一系列</seg>
       </tuv>
     </tu>
     <tu>
@@ -28768,6 +28784,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate of increase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145854Z" creationid="CCYU" creationdate="20141105T145854Z">
+        <seg>增加率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated current &lt;t0/&gt;Y &lt;t1/&gt;Test current &lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T074828Z" creationid="CCYU" creationdate="20141102T074828Z">
@@ -33900,6 +33924,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144741Z" creationid="CCYU" creationdate="20141105T144741Z">
         <seg>表 D.1 為根據 IEC 61181 內容，實驗室一般可偵測之油中最小氣體量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table D.2 - Admissible limits for gas rate increases</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145801Z" creationid="CCYU" creationdate="20141105T145801Z">
+        <seg>表 D.2 - 氣體增加率容許限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -48605,6 +48637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142613Z">
         <seg>pH&lt;t0/&gt; value 酸鹼值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p[/(l &lt;t0/&gt;h)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145939Z" creationid="CCYU" creationdate="20141105T145939Z">
+        <seg>µl/(1 h)</seg>
       </tuv>
     </tu>
     <tu>
