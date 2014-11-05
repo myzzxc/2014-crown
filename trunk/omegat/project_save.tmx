@@ -18184,8 +18184,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If one or more of the second series of values are exceeded, the probability of a ther&lt;t0/&gt;mal fault is greater and therefore further investigations should be started to identify and remove the causes of the overheating.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T151523Z" creationid="CCYU" creationdate="20141105T151523Z">
-        <seg>ㄖㄨㄛIf one or more of the second series of values are exceeded, the probability of a ther&lt;t0/&gt;mal fault is greater and therefore further investigations should be started to identify and remove the causes of the overheating.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T151842Z" creationid="CCYU" creationdate="20141105T151523Z">
+        <seg>若超出一項或多項第二系列之限制值，熱故障之可能性較高，因此必須進行更深入的調查以找出並去除造成局部過熱的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38180,6 +38180,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T054643Z">
         <seg>其餘繞組應為開路，且任何能開三角連接之繞組應使三角為閉路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The repetition of the final analysis is however recommended before taking any further decision about the corrective actions to&lt;t0/&gt; be undertaken.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152112Z" creationid="CCYU" creationdate="20141105T152112Z">
+        <seg>建議於進行任何改善行動之決定前重複最終分析。</seg>
       </tuv>
     </tu>
     <tu>
