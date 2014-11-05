@@ -3182,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s&lt;t0/&gt;A</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150106Z" creationid="CCYU" creationdate="20141105T150106Z">
+        <seg>&lt;S&lt;t0/&gt;A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -24079,6 +24087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The subscripts 1 and 2 indicate the concentrations before and after the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150327Z" creationid="CCYU" creationdate="20141105T150219Z">
+        <seg>註 1 下標 1 和 2 代表測試前與測試後之濃度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The temperature of the liquid may be different at different places in the top of the tank, depending on the design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132445Z" creationid="CCYU" creationdate="20141101T132313Z">
@@ -31036,6 +31052,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135706Z" creationid="CCYU" creationdate="20141028T135706Z">
         <seg>第二位字母：內部冷媒循環機制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150041Z" creationid="CCYU" creationdate="20141105T150041Z">
+        <seg>第二系列</seg>
       </tuv>
     </tu>
     <tu>
@@ -47961,10 +47985,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>j4co&lt;t0/&gt;2&lt;t1/&gt;)&lt;t2/&gt;2&lt;t3/&gt;-(co&lt;t4/&gt;2&lt;t5/&gt;\]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150202Z" creationid="CCYU" creationdate="20141105T150202Z">
+        <seg>1/t x [(CO&lt;t0/&gt;2&lt;t1/&gt;)&lt;t2/&gt;2&lt;t3/&gt;-(CO&lt;t4/&gt;2&lt;t5/&gt;1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>joint design;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033715Z">
         <seg>接點設計；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>jx[(C&lt;t0/&gt;2&lt;t1/&gt;H2)2-(C2H&lt;t2/&gt;2&lt;t3/&gt;)i]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150103Z" creationid="CCYU" creationdate="20141105T150103Z">
+        <seg>1/t x [(C&lt;t0/&gt;2&lt;t1/&gt;H2)2-(C2H&lt;t2/&gt;2&lt;t3/&gt;)1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -51521,6 +51561,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111842Z">
         <seg>年均溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yx[(CO)&lt;t0/&gt;2&lt;t1/&gt; -(CO)|]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150124Z" creationid="CCYU" creationdate="20141105T150124Z">
+        <seg>1/t x [(CO)&lt;t0/&gt;2&lt;t1/&gt; -(CO)1]</seg>
       </tuv>
     </tu>
     <tu>
