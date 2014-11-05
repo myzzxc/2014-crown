@@ -26751,6 +26751,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise it is suggested to make reference to the two series of values listed in Table D.2 after &lt;t0/&gt;having checked that the results obtained are exceeding the maximum analytical spreac indicated above [9, 10],</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145726Z" creationid="CCYU" creationdate="20141105T145726Z">
+        <seg>另外，當結果超過上述所列之最大解析分佈值時，建議參考表 D.2 所列之兩系列之數值 [9, 10]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our covers will keep the drum clean for up to 15 times longer than standard polypropylene drum-top covers; and they look good doing it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T084332Z">
