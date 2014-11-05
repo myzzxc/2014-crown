@@ -15273,6 +15273,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the interpretation of the results, it is suggested to take as a basis the so called &lt;t0/&gt;maximum analytical spread&lt;t1/&gt; which is the spread that can be expected between samples taken at the same time and at the same place,&lt;t2/&gt; including the variability of the sample, extraction process and analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T143839Z" creationid="CCYU" creationdate="20141105T143839Z">
+        <seg>結果之解析建議使用 &lt;t0/&gt;最大解析分佈 (maximum analytical spread)&lt;t1/&gt; 進行，其為於同時間地點下，不同樣品、採樣過程以及分析之間可預期之分佈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purpose of grid and time-step independency test, an engine speed of 1,800 rpm was selected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230043Z">
