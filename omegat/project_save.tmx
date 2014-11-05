@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 Sampling of oil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T141827Z" creationid="CCYU" creationdate="20141105T141827Z">
+        <seg>3 油品取樣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 Terms and definitions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T130445Z">
@@ -19167,6 +19175,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case of transformers with alternative cooling methods, the&lt;t0/&gt; DGA should be performed only for maximum cooling capacity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T141811Z" creationid="CCYU" creationdate="20141105T141811Z">
+        <seg>當變壓器使用替代冷卻方法時，應只對最大冷卻力進行 DGA 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In case this deviation is exceeded, the validation can be repeated excluding another measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155849Z" creationid="CCYU" creationdate="20141104T155849Z">
@@ -36108,6 +36124,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212024Z">
         <seg>假設方程式 (16) 中外牆溫度分佈為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extraction of the samples should be made according to the procedure proposed in IEC 60567, and precautions should be taken to avoid oxidation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T141936Z" creationid="CCYU" creationdate="20141105T141936Z">
+        <seg>取樣應依照 IEC 60567 內之程序進行，並注意防止氧化。</seg>
       </tuv>
     </tu>
     <tu>
