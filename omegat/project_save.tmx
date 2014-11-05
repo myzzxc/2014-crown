@@ -6267,6 +6267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annex D</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131820Z" creationid="CCYU" creationdate="20141105T131820Z">
+        <seg>附錄 D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex D (informative)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140835Z">
@@ -11262,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dissolved gases analysis for the detection of local overheating</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131926Z" creationid="CCYU" creationdate="20141105T131926Z">
+        <seg>檢測局部過熱之溶解氣體分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042449Z" creationid="CCYU" creationdate="20141025T042449Z">
@@ -14116,6 +14132,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142208Z" creationid="CCYU" creationdate="20141104T142208Z">
         <seg>圖 C.3 - 關機後平均繞組溫度變化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure C.4 - Extrapolation of the cooling down curve, using the fitting &lt;t0/&gt;curve</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131810Z" creationid="CCYU" creationdate="20141105T131721Z">
+        <seg>圖 C.4 - 使用擬合曲線之外插冷卻曲線</seg>
       </tuv>
     </tu>
     <tu>
@@ -33586,8 +33610,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Table C.1 - Example of cooling down curve calculation spreadsheet</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125745Z" creationid="CCYU" creationdate="20141105T125745Z">
-        <seg>表 C.1 - 冷卻曲線試算表範例 spreadsheet</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131727Z" creationid="CCYU" creationdate="20141105T125745Z">
+        <seg>表 C.1 - 冷卻曲線試算表範例</seg>
       </tuv>
     </tu>
     <tu>
@@ -41556,6 +41580,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142145Z" creationid="CCYU" creationdate="20141104T142145Z">
         <seg>時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time (min)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131700Z" creationid="CCYU" creationdate="20141105T131700Z">
+        <seg>時間 (分)</seg>
       </tuv>
     </tu>
     <tu>
