@@ -37056,6 +37056,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum analytical spread S&lt;t0/&gt;A&lt;t1/&gt;(X) may be evaluated as a function of the minimum detectable gas quantity, &lt;t2/&gt;S&lt;t3/&gt;0&lt;t4/&gt;(X),&lt;t5/&gt; and the quantity of the relevant gas dissolved in the oil before th&lt;t6/&gt;e temperature rise test (X).,, X being the chemical notation of the gas expressed in micro- litre/litre:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144556Z" creationid="CCYU" creationdate="20141105T144556Z">
+        <seg>最大解析分佈 S&lt;t0/&gt;A&lt;t1/&gt;(X) 能以最小可偵測氣體量 &lt;t2/&gt;S&lt;t3/&gt;0&lt;t4/&gt;(X)&lt;t5/&gt; 以及溫度上升測試前之油中相關氣體溶解量 (X)1 進行估計， X 為氣體之化學量，單位為微升/公升：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum anchor nominal diameter is &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;8&lt;t3/&gt; inch (16 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T104524Z">
