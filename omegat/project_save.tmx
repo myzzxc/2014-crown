@@ -39504,6 +39504,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value obtained is directly related to the consistency of the local phenomena, and is therefore &lt;t0/&gt;independent of the mass of the oil present in the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152954Z" creationid="CCYU" creationdate="20141105T152954Z">
+        <seg>所得之數值與局部現象的一致性直接相關，因此與油槽中的油重無關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value of &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt;used for calculation must&lt;t23/&gt; &lt;t24/&gt;be limited to 8,000 psi (55 MPa) in accordance with ACI 318 &lt;t25/&gt;D.3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072311Z">
