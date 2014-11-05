@@ -19183,6 +19183,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, this value differs from that of the average liquid temperature &lt;t6/&gt;8&lt;t7/&gt;om&lt;t8/&gt; as per 7.4.2 measured during the temperature rise test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131532Z" creationid="CCYU" creationdate="20141105T131532Z">
+        <seg>一般情況下，此數值與根據 7.4.2 溫度上升測試所量測之平均液體溫度 &lt;t6/&gt;Θ&lt;t7/&gt;om&lt;t8/&gt; 不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, we can define a relationship of transformation as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065748Z">
@@ -24167,6 +24175,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 The value of &lt;t0/&gt;A&lt;t1/&gt;0&lt;t2/&gt; (respectively &lt;t3/&gt;6&lt;t4/&gt;om&lt;t5/&gt; (0) ) is an estimate of the average liquid temperature at the instant of shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131354Z" creationid="CCYU" creationdate="20141105T131354Z">
+        <seg>註 2 &lt;t0/&gt;A&lt;t1/&gt;0&lt;t2/&gt; 之數值 (分別為 &lt;t3/&gt;Θ&lt;t4/&gt;om&lt;t5/&gt; (0)) 為關機瞬間之平繞組溫度估計值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The values &lt;t0/&gt;given in the Table 2 may be interpolated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125027Z" creationid="CCYU" creationdate="20141030T125027Z">
@@ -24315,6 +24331,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133657Z" creationid="CCYU" creationdate="20141029T133657Z">
         <seg>註 3 具有抽頭之自耦變壓器，具有最高空載損耗之抽頭取決於抽頭配置方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 The fall of the average liquid&lt;t0/&gt; temperature during the cooling down curve can be also evaluated from the fall of the top-liquid temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131646Z" creationid="CCYU" creationdate="20141105T131646Z">
+        <seg>註 3 冷卻曲線之平液體溫度下降量也可由頂層液體溫度下降量估計。</seg>
       </tuv>
     </tu>
     <tu>
