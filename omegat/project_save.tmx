@@ -4515,6 +4515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AC&lt;t0/&gt; is the gas concentration variation (pil/l);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152711Z" creationid="CCYU" creationdate="20141105T152711Z">
+        <seg>ΔC&lt;t0/&gt; 為氣體濃度變化 (µl/l)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ACCESSORIES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043113Z">
@@ -6943,6 +6951,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
         <seg>採用性能穩定性評估與審核 (AVCP) 系統，並參照其法律基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152717Z" creationid="CCYU" creationdate="20141105T152717Z">
+        <seg>Δt </seg>
       </tuv>
     </tu>
     <tu>
@@ -28608,6 +28624,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>R&lt;t0/&gt; is the rate of gas formation (ml/h);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152640Z" creationid="CCYU" creationdate="20141105T152640Z">
+        <seg>R&lt;t0/&gt; 為氣體生成率 (ml/h)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RAIL TRANSPORT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181156Z">
@@ -38050,8 +38074,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The rate of increase of dissolved hydrocarbon gas in oil can be used to provide additional evidence of local overheating in the oil, using the relation&lt;t0/&gt; given in IEC 60599:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152456Z" creationid="CCYU" creationdate="20141105T152456Z">
-        <seg>油中溶解之烴類氣體增加率可依據 IEC 60599 給定之關係，用於提供更多的油品局部過熱證據：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152508Z" creationid="CCYU" creationdate="20141105T152456Z">
+        <seg>油中溶解之烴類氣體增加率可依據 IEC 60599 給定之關係式，用於提供更多的油品局部過熱證據：</seg>
       </tuv>
     </tu>
     <tu>
@@ -47993,6 +48017,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is the duration of the test (h);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152731Z" creationid="CCYU" creationdate="20141105T152731Z">
+        <seg>為測試時間 (h)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the mass of the oil (kg);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152750Z" creationid="CCYU" creationdate="20141105T152750Z">
+        <seg>為油之重量 (kg)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is the rated voltage of the winding (see 3.4.3);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022853Z">
@@ -48253,6 +48293,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125753Z">
         <seg>低壓繞組 (low-voltage winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>m&lt;t0/&gt;0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152736Z" creationid="CCYU" creationdate="20141105T152736Z">
+        <seg>m&lt;t0/&gt;0 </seg>
       </tuv>
     </tu>
     <tu>
@@ -48717,6 +48765,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055415Z" creationid="CCYU" creationdate="20141025T055415Z">
         <seg>鎖入深度需超過 3.5 螺紋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p is the oil density (kg/m&lt;t0/&gt;3&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152810Z" creationid="CCYU" creationdate="20141105T152810Z">
+        <seg>p 為油密度 (kg/m&lt;t0/&gt;3&lt;t1/&gt;)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>p&lt;t0/&gt; &lt;t1/&gt;ACm&lt;t2/&gt;o &lt;t3/&gt;pAt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152602Z" creationid="CCYU" creationdate="20141105T152602Z">
+        <seg>R&lt;t0/&gt; = &lt;t1/&gt;ΔCm&lt;t2/&gt;0&lt;t3/&gt;/ pΔt</seg>
       </tuv>
     </tu>
     <tu>
