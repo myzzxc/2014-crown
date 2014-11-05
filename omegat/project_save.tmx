@@ -14960,6 +14960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For mineral oil-immersed power transformers, the use of dissolved gas analysis (DGA) performed on oil samples extracted before and after the temperature &lt;t0/&gt;rise test may allow the detection of local overheating due to stray flux effects, incorrect circulation of the cooling oil, or loose connections of current-currying leads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134032Z" creationid="CCYU" creationdate="20141105T134032Z">
+        <seg>對於礦物油浸式電力變壓器，於溫度上升測試前後，對抽取之油品樣本進行油中溶解氣體分析 (DGA) 能偵測因為雜散磁通 (stray flux) 效應、冷卻油未正確循環或傳遞電流之線路連接鬆脫而造成之局部過熱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For multi-core transformers with windings that do not have external connections, the temperature rise&lt;t0/&gt; test method should be agreed at the tender stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124701Z" creationid="CCYU" creationdate="20141101T124701Z">
