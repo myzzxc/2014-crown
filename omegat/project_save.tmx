@@ -6747,6 +6747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an alternative, the temperature rise test can be started again for a longer duration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152218Z" creationid="CCYU" creationdate="20141105T152218Z">
+        <seg>可進行較長時間之溫度上升測試作為替代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z">
@@ -38036,6 +38044,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084654Z" creationid="CCYU" creationdate="20141102T084654Z">
         <seg>現在的問題為：“油槽中之混合頂層液體溫度是否可用於來自熱運轉測試數據之熱點繞組溫度測定，或此測定應根據繞組頂層排出之熱液體？”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rate of increase of dissolved hydrocarbon gas in oil can be used to provide additional evidence of local overheating in the oil, using the relation&lt;t0/&gt; given in IEC 60599:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152456Z" creationid="CCYU" creationdate="20141105T152456Z">
+        <seg>油中溶解之烴類氣體增加率可依據 IEC 60599 給定之關係，用於提供更多的油品局部過熱證據：</seg>
       </tuv>
     </tu>
     <tu>
