@@ -21247,6 +21247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended that the analysis be performed by the &lt;t0/&gt;same laboratory in order to reduce&lt;t1/&gt; the uncertainty affecting the results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142804Z" creationid="CCYU" creationdate="20141105T142804Z">
+        <seg>建議分析於同一實驗室進行以降低不確定性影響其結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended that the time starting from the shutdown until the first valid point of hot resistance measurement should not exceed:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125202Z" creationid="CCYU" creationdate="20141104T125202Z">
