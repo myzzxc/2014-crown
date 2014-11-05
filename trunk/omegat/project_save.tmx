@@ -27919,6 +27919,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preferably, the second sample should be taken approximately 24 h after the conclusion of the temperature rise test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142421Z" creationid="CCYU" creationdate="20141105T142421Z">
+        <seg>第二組樣品應盡量於溫度上升測試結束約 24 小時後採集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferred values of rated power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T121832Z">
@@ -36180,6 +36188,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064340Z" creationid="Judy" creationdate="20141101T064118Z">
         <seg>第一部分的測試於頂層液體溫度上昇變化率低於 1 K/h 且維持 3 小時後停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first sample should be &lt;t0/&gt;taken immediately before starting temperature rise test and for oil forced cooling systems after at least 2 h of oil circulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142258Z" creationid="CCYU" creationdate="20141105T142258Z">
+        <seg>第一組樣品應於開始溫度上升測試前一刻且強制油冷系統於油循環至少 2 小時後採集。</seg>
       </tuv>
     </tu>
     <tu>
