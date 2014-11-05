@@ -36008,6 +36008,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The evaluation of dissolved gas analysis results associated with the temperature ris&lt;t0/&gt;e testing is based on the principle that some gases are released by organic insulating materials (paper and oil) when subjected to high temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134447Z" creationid="CCYU" creationdate="20141105T134447Z">
+        <seg>溶解氣體分析結果與溫度上升測試之關聯性評估為根據有機絕緣材料 (紙或油) 於高溫下會釋放出某些氣體的原理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The exact &lt;t14/&gt;p-V&lt;t15/&gt; relation in a reversible adiabatic cycle of air &lt;t16/&gt;is &lt;t17/&gt;, where &lt;t18/&gt;C&lt;t19/&gt; is a &lt;t20/&gt;constant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220513Z">
