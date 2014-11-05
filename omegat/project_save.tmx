@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-r&lt;t0/&gt; * *.T min</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130042Z" creationid="CCYU" creationdate="20141105T130042Z">
+        <seg>1 min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084258Z">
@@ -6851,6 +6859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At =</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130023Z" creationid="CCYU" creationdate="20141105T130023Z">
+        <seg>Δt =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At a current K times the transformer rated current (0 5_ K &lt; 1), the overfluxing shall be limited in accordance with the following formula:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T162719Z">
@@ -7099,6 +7115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary variables:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130324Z" creationid="CCYU" creationdate="20141105T130324Z">
+        <seg>輔助變數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average and integrated quantities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194903Z">
@@ -7127,6 +7151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T080120Z" creationid="CCYU" creationdate="20141102T080120Z">
         <seg>平均繞組指數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average winding temp, at the instant of shut-down</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130314Z" creationid="CCYU" creationdate="20141105T130314Z">
+        <seg>關機瞬間之平均繞組溫度</seg>
       </tuv>
     </tu>
     <tu>
@@ -12511,6 +12543,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Estimated &lt;t0/&gt;winding-to-liquid gradient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130248Z" creationid="CCYU" creationdate="20141105T130248Z">
+        <seg>液體與繞組溫差估計值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Estimated winding time constant Estimated average liquid temp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130230Z" creationid="CCYU" creationdate="20141105T130230Z">
+        <seg>繞組時間常數估計值 平均液體溫度估計值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethylene-vinyl acetate copolymer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082416Z">
@@ -14116,6 +14164,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133108Z" creationid="CCYU" creationdate="20141022T133108Z">
         <seg>過濾管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final average liquid temp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130108Z" creationid="CCYU" creationdate="20141105T130108Z">
+        <seg>最終平均液溫</seg>
       </tuv>
     </tu>
     <tu>
@@ -20159,6 +20215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initial average- liquid temp.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130100Z" creationid="CCYU" creationdate="20141105T130100Z">
+        <seg>初始平均液溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initial boiling point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110808Z">
@@ -21667,6 +21731,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T064847Z">
         <seg>液體儲存系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Liquid temperature slope</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130120Z" creationid="CCYU" creationdate="20141105T130120Z">
+        <seg>液溫斜率</seg>
       </tuv>
     </tu>
     <tu>
@@ -41312,6 +41384,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ti</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125955Z" creationid="CCYU" creationdate="20141105T125955Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tighte&lt;t2/&gt;n item 11 in &lt;t3/&gt;item&lt;t4/&gt; 10 by Allen w&lt;t5/&gt;rench.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035927Z" creationid="CCYU" creationdate="20141025T035927Z">
@@ -45465,6 +45545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ata'to-be inserted ...r</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125958Z" creationid="CCYU" creationdate="20141105T125958Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auto-connected windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134043Z">
@@ -46665,6 +46753,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>f&lt;t0/&gt;c&lt;t1/&gt;= —12,183 6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130333Z" creationid="CCYU" creationdate="20141105T130333Z">
+        <seg>t&lt;t0/&gt;c&lt;t1/&gt;= -12,183 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>factor Q relates to the additional loss and depends on the ratio between the specific loss in the region of the leakage flux concentration (top winding) and the average specific loss of the winding;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T111254Z" creationid="CCYU" creationdate="20141102T111148Z">
@@ -47637,6 +47733,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153922Z">
         <seg>最大操作電壓：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>me interval</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130006Z" creationid="CCYU" creationdate="20141105T130006Z">
+        <seg>時間間隔</seg>
       </tuv>
     </tu>
     <tu>
@@ -50881,6 +50985,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141710Z">
         <seg>鋅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Lege&lt;t0/&gt;nd:iD«</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125952Z" creationid="CCYU" creationdate="20141105T125952Z">
+        <seg>數據輸入處</seg>
       </tuv>
     </tu>
     <tu>
