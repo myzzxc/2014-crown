@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Temperature rise test duration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135706Z" creationid="CCYU" creationdate="20141105T135706Z">
+        <seg>2 溫度上升測試持續時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Wire Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043956Z">
@@ -14540,6 +14548,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085453Z">
         <seg>對於 YD 變壓器，只量測 Y 側之零序阻抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a correct interpretation of the analysis results, the temperature rise test should be performed with total rated losses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135815Z" creationid="CCYU" creationdate="20141105T135815Z">
+        <seg>為了正確解釋分析之結果，溫度上升測試應於總額定損耗下進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50537,6 +50553,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132515Z">
         <seg>風力渦輪機用之變壓器 (IEC 60076-16)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers of smaller rated powers than those stated above, but having leakage flux and/or leakage field strength of the same order as those &lt;t0/&gt;of the above-mentioned cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135649Z" creationid="CCYU" creationdate="20141105T135649Z">
+        <seg>額定功率小於上述變壓器、但洩漏通量或洩漏場強度與上述情況同等級之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
