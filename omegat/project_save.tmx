@@ -8156,6 +8156,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CM</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144850Z" creationid="CCYU" creationdate="20141105T144850Z">
+        <seg>CO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COMPANY</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T104843Z">
@@ -15897,6 +15905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144817Z" creationid="CCYU" creationdate="20141105T144817Z">
+        <seg>氣體</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gas groups:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074736Z" creationid="CCYU" creationdate="20141025T074736Z">
@@ -19467,6 +19483,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115345Z" creationid="CCYU" creationdate="20141103T115046Z">
         <seg>原則上，因子 S 之評估與冷卻液體迴路之影響相關，應針對所有特定繞組頂部液壓迴路進行分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In principle, the admissible limits should be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145258Z" creationid="CCYU" creationdate="20141105T145258Z">
+        <seg>原則上，容許限制值應由應制造商和買方之間達成協議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33568,6 +33592,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table &lt;t0/&gt;D.1 - Minimum detectable value S&lt;t1/&gt;D&lt;t2/&gt; of gases in oil</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144807Z" creationid="CCYU" creationdate="20141105T144807Z">
+        <seg>表 &lt;t0/&gt;D.1 - 油中最小可偵測氣體量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table A.1 - Hot-spot winding temperature rises for some specific transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090456Z" creationid="CCYU" creationdate="20141102T090256Z">
@@ -33852,6 +33884,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053138Z">
         <seg>表 C9：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table D.1 gives the minimum detectable values of gas in oil that normally a laboratory can assure according to IEC 61181.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144741Z" creationid="CCYU" creationdate="20141105T144741Z">
+        <seg>表 D.1 為根據 IEC 61181 內容，實驗室一般可偵測之油中最小氣體量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35716,6 +35756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143931Z">
         <seg>外套層可正常洗滌，最高洗滌溫度 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The criteria for the evaluation of the gas analysis during a temperature rise test are based or the rate of increase of some &lt;t0/&gt;gases and relevant fixed permissible limits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145213Z" creationid="CCYU" creationdate="20141105T145120Z">
+        <seg>溫度上升測試間氣體分析之評估標準為根據上升率或某些氣體增加率以及相關固定容許限制值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46097,6 +46145,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c&lt;t0/&gt;2&lt;t1/&gt;h&lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144927Z" creationid="CCYU" creationdate="20141105T144927Z">
+        <seg>C&lt;t0/&gt;2&lt;t1/&gt;H&lt;t2/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c&lt;t0/&gt;2&lt;t1/&gt;h&lt;t2/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144922Z" creationid="CCYU" creationdate="20141105T144922Z">
+        <seg>C&lt;t0/&gt;2&lt;t1/&gt;H&lt;t2/&gt;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c&lt;t0/&gt;2&lt;t1/&gt;h&lt;t2/&gt;6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144915Z" creationid="CCYU" creationdate="20141105T144915Z">
+        <seg>C&lt;t0/&gt;2&lt;t1/&gt;H&lt;t2/&gt;6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c&lt;t0/&gt;ommercial&lt;t1/&gt; &lt;t2/&gt;standard threaded rod with:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125131Z">
@@ -46141,6 +46213,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133903Z" creationid="CCYU" creationdate="20141028T133903Z">
         <seg>經化學改質以降低紙張分解速率之纖維質地紙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ch&lt;t0/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144908Z" creationid="CCYU" creationdate="20141105T144908Z">
+        <seg>CH&lt;t0/&gt;4</seg>
       </tuv>
     </tu>
     <tu>
@@ -47137,6 +47217,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fil/l</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144827Z" creationid="CCYU" creationdate="20141105T144827Z">
+        <seg>µl/l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fischer FIS EM ADHESIVE ANCHORING SYSTEM FOR CRACKED AND UNCRACKED CONCRETE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T134134Z">
@@ -47397,6 +47485,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110705Z">
         <seg>granulate 顆粒狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>h&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144902Z" creationid="CCYU" creationdate="20141105T144902Z">
+        <seg>H&lt;t0/&gt;2</seg>
       </tuv>
     </tu>
     <tu>
@@ -48317,6 +48413,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154314Z">
         <seg>抽頭級數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>o</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144852Z" creationid="CCYU" creationdate="20141105T144852Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
