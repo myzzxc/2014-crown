@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(min)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130417Z" creationid="CCYU" creationdate="20141105T130417Z">
+        <seg>(分鐘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(percent)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103038Z">
@@ -4607,6 +4615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174511Z">
         <seg>自燃溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abs &lt;t0/&gt;Sums</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130403Z" creationid="CCYU" creationdate="20141105T130403Z">
+        <seg>絕對值總和：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45009,6 +45025,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^omW &lt;t0/&gt;Ao - kt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130443Z" creationid="CCYU" creationdate="20141105T130443Z">
+        <seg>Θom(i) = &lt;t0/&gt;A0 - kt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^wm (0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150919Z" creationid="CCYU" creationdate="20141104T150919Z">
@@ -45545,6 +45569,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>as</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130451Z" creationid="CCYU" creationdate="20141105T130451Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ata'to-be inserted ...r</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125958Z" creationid="CCYU" creationdate="20141105T125958Z">
@@ -46037,6 +46069,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141713Z">
         <seg>銅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cor (0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130546Z" creationid="CCYU" creationdate="20141105T130546Z">
+        <seg>Θw cor (i)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46757,6 +46797,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130333Z" creationid="CCYU" creationdate="20141105T130333Z">
         <seg>t&lt;t0/&gt;c&lt;t1/&gt;= -12,183 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>f&lt;t0/&gt;e&lt;t1/&gt;= 0,217 176</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130342Z" creationid="CCYU" creationdate="20141105T130342Z">
+        <seg>t&lt;t0/&gt;e&lt;t1/&gt;= 0,217 176</seg>
       </tuv>
     </tu>
     <tu>
@@ -47745,6 +47793,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>measured</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130500Z" creationid="CCYU" creationdate="20141105T130500Z">
+        <seg>實測值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>measuri&lt;t0/&gt;ng current sources.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140649Z" creationid="CCYU" creationdate="20141103T140649Z">
@@ -47957,6 +48013,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154314Z">
         <seg>抽頭級數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130642Z" creationid="CCYU" creationdate="20141105T130642Z">
+        <seg>ν</seg>
       </tuv>
     </tu>
     <tu>
@@ -50369,6 +50433,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T030317Z">
         <seg>vPvB&lt;t0/&gt;: Specified 指明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>val (0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130532Z" creationid="CCYU" creationdate="20141105T130532Z">
+        <seg>Θw val (i)</seg>
       </tuv>
     </tu>
     <tu>
