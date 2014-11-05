@@ -10334,6 +10334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DGA performed during a temperature rise test at reduced total losses (see 7.12) is meaningless and therefore not recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T141644Z" creationid="CCYU" creationdate="20141105T141644Z">
+        <seg>於降低總損耗下 (請見 7.12) 進行 DGA 毫無意義，因此不建議進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DIN 934 (8-A2K) (Metric)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103237Z">
