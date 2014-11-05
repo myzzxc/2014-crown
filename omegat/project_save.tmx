@@ -17854,6 +17854,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If agreed between manufacturer and purchaser, DGA can' be used as a special tool for evaluating the results of temperature rise tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134804Z" creationid="CCYU" creationdate="20141105T134804Z">
+        <seg>若製造商和買方之間達成協議，DGA 可作為評估溫度上升測試結果之特殊工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If agreed between manufacturer and purchaser, the analysis should be performed as a special test before and after the temperature rise test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073430Z" creationid="CCYU" creationdate="20141102T073430Z">
@@ -35772,6 +35780,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143347Z">
         <seg>差異為高壓抽頭電壓未超出高電壓系統之 '系統最高電壓'，此範例為 170 kV (IEC 標準化值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The different gas compounds may indicate the materials involved, while their concentration and rate of incr&lt;t1/&gt;ease is related to the severity of the phenomena in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134703Z" creationid="CCYU" creationdate="20141105T134703Z">
+        <seg>可由不同的氣體化合物指示出其材料，而其濃度和增加率與操作過程中此現象的嚴重程度相關。</seg>
       </tuv>
     </tu>
     <tu>
