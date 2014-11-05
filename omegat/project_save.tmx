@@ -38904,6 +38904,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The top-oil temperature rise should be maintained at least 80 % of t&lt;t0/&gt;he estimated final top-oil temperature rise for not less than 8 h.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T140056Z" creationid="CCYU" creationdate="20141105T140056Z">
+        <seg>頂層油溫上升應維持於至少 80 % 之最終油溫上升估計值 8 小時以上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The torque motor leads are individually attached to a flying lead type explosion proof header so that external connections can provide series, parallel, or single coil operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110610Z">
