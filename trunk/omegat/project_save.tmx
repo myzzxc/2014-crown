@@ -8238,8 +8238,16 @@
       <tuv lang="EN-US">
         <seg>CIGRE WG 06-ST 12:1982, &lt;t0/&gt;Final report concerning the temperature rise test on oil- immersed transformers with analysis of gases dissolved in Oil</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155910Z" creationid="CCYU" creationdate="20141106T155910Z">
-        <seg>CIGRE WG 06-ST 12:1982，油浸式變壓器油中溶解液體分析之最終報告 (Final report concerning the temperature rise test on oil- immersed transformers with analysis of gases dissolved in Oil)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160058Z" creationid="CCYU" creationdate="20141106T155910Z">
+        <seg>CIGRE WG 06-ST 12:1982，&lt;t0/&gt;油浸式變壓器油中溶解液體分析之最終報告 (Final report concerning the temperature rise test on oil- immersed transformers with analysis of gases dissolved in Oil)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CIGRE WG 12.09:1994, &lt;t0/&gt;Dissolved-gas analysis during heat-run tests on power transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160050Z" creationid="CCYU" creationdate="20141106T160050Z">
+        <seg>CIGRE WG 12.09:1994，&lt;t0/&gt;電力變壓器熱運轉測試期間之溶解氣體分析 (Dissolved-gas analysis during heat-run tests on power transformers)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8254,8 +8262,8 @@
       <tuv lang="EN-US">
         <seg>CLC/TR 50462:2008, &lt;t0/&gt;Rules for the determination of uncertainties in the measurement of the losses on power tran&lt;t1/&gt;sformers and reactors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155746Z" creationid="CCYU" creationdate="20141106T155746Z">
-        <seg>CLC/TR 50462:2008，電力變壓器和電抗器損耗量測之不確定性測定規則 (Rules for the determination of uncertainties in the measurement of the losses on power transformers and reactors)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160103Z" creationid="CCYU" creationdate="20141106T155746Z">
+        <seg>CLC/TR 50462:2008，&lt;t0/&gt;電力變壓器和電抗器損耗量測之不確定性測定規則 (Rules for the determination of uncertainties in the measurement of the losses on power transformers and reactors)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17622,8 +17630,8 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       <tuv lang="EN-US">
         <seg>IEC 60076-7:2005, &lt;t0/&gt;Power transformers - Part&lt;t1/&gt; 7: &lt;t2/&gt;Loading guide for oil-immersed power transformers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154512Z" creationid="CCYU" creationdate="20141106T154512Z">
-        <seg>IEC 60076-7，電力變壓器 — 第 7 部份：油浸式電力變壓器負載指南 (Power transformers — Part 7: Loading guide for oil-immersed power transformers)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160145Z" creationid="CCYU" creationdate="20141106T154512Z">
+        <seg>IEC 60076-7，&lt;t0/&gt;電力變壓器 — 第 7 部份：油浸式電力變壓器負載指南 (Power transformers — Part 7: Loading guide for oil-immersed power transformers)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17686,8 +17694,8 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       <tuv lang="EN-US">
         <seg>IEC 60296:2003, &lt;t0/&gt;Fluids for &lt;t1/&gt;electrotechnical applications - Unused mineral insulating oils for transformers and switchgear</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154519Z" creationid="CCYU" creationdate="20141106T154519Z">
-        <seg>IEC 60296:2003，電工用液體 — 變壓器和開關設備之未使用礦物絕緣油</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160134Z" creationid="CCYU" creationdate="20141106T154519Z">
+        <seg>IEC 60296:2003，&lt;t0/&gt;電工用液體 — 變壓器和開關設備之未使用礦物絕緣油</seg>
       </tuv>
     </tu>
     <tu>
@@ -17711,16 +17719,16 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       <tuv lang="EN-US">
         <seg>IEC 60567:2005, &lt;t0/&gt;Oil-filled electrical equipment - Sampling of gases and of oil for analysis of free and dissolved gases - Guidance</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154910Z" creationid="CCYU" creationdate="20141106T154750Z">
-        <seg>IEC 60567:2005，油浸式電氣設備 - 自由和溶解氣體分析之氣體和冷卻油取樣 - 指南 (Oil-filled electrical equipment - Sampling of gases and of oil for analysis of free and dissolved gases - Guidance)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160132Z" creationid="CCYU" creationdate="20141106T154750Z">
+        <seg>IEC 60567:2005，&lt;t0/&gt;油浸式電氣設備 - 自由和溶解氣體分析之氣體和冷卻油取樣 - 指南 (Oil-filled electrical equipment - Sampling of gases and of oil for analysis of free and dissolved gases - Guidance)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IEC 60599:1999, &lt;t0/&gt;Mineral &lt;t1/&gt;oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155016Z" creationid="CCYU" creationdate="20141106T154850Z">
-        <seg>IEC 60599:1999，礦物油浸式電氣設備運作 - 自由和溶解氣體分析解析指南 (Mineral oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160125Z" creationid="CCYU" creationdate="20141106T154850Z">
+        <seg>IEC 60599:1999，&lt;t0/&gt;礦物油浸式電氣設備運作 - 自由和溶解氣體分析解析指南 (Mineral oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17735,16 +17743,16 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       <tuv lang="EN-US">
         <seg>IEC 60836:2005, &lt;t0/&gt;Specifications for unused silicone insulating liquids for electrotechnical purposes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155336Z" creationid="CCYU" creationdate="20141106T155032Z">
-        <seg>IEC 60836:2005，電工用途剩餘矽絕緣液體之規範 (Specifications for unused silicone insulating liquids for electrotechnical purposes)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160119Z" creationid="CCYU" creationdate="20141106T155032Z">
+        <seg>IEC 60836:2005，&lt;t0/&gt;電工用途剩餘矽絕緣液體之規範 (Specifications for unused silicone insulating liquids for electrotechnical purposes)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IEC 61099:2010, &lt;t0/&gt;Insulating liquids - Spec&lt;t1/&gt;ifications for unused synthetic organic esters for electrical purposes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155329Z" creationid="CCYU" creationdate="20141106T155329Z">
-        <seg>IEC 61099:2010， 絕緣液體 -  電工用途剩餘合成有機酯之規範 (Insulating liquids - Spec&lt;t1/&gt;ifications for unused synthetic organic esters for electrical purposes)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160113Z" creationid="CCYU" creationdate="20141106T155329Z">
+        <seg>IEC 61099:2010， &lt;t0/&gt;絕緣液體 -  電工用途剩餘合成有機酯之規範 (Insulating liquids - Spec&lt;t1/&gt;ifications for unused synthetic organic esters for electrical purposes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17919,8 +17927,8 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       <tuv lang="EN-US">
         <seg>IEEE C57.91:1995, &lt;t0/&gt;IEEE Guide for loading mineral-oil-immersed transformers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155521Z" creationid="CCYU" creationdate="20141106T155521Z">
-        <seg>IEEE C57.91:1995，IEEE 礦物油浸式電力變壓器負載指南  (IEEE Guide for loading mineral-oil-immersed transformers)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160107Z" creationid="CCYU" creationdate="20141106T155521Z">
+        <seg>IEEE C57.91:1995，&lt;t0/&gt;IEEE 礦物油浸式電力變壓器負載指南  (IEEE Guide for loading mineral-oil-immersed transformers)</seg>
       </tuv>
     </tu>
     <tu>
