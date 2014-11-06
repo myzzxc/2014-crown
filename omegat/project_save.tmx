@@ -11142,6 +11142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different arrangements can be agreed between manufacturer and purchaser, but as the sensors and optical fibre &lt;t0/&gt;cables are very fragile, their number should take into consideration the risk of damage during the various operations and stresses which the windings are subjected to in the factory and in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125218Z" creationid="CCYU" creationdate="20141106T125218Z">
+        <seg>可依製造商和買方之間協議使用不同之配置，但由於感測器和光纖電纜非常脆弱，其數量應考慮繞組於工廠進行不同操作及應力下損害之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
