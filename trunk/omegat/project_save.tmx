@@ -17604,6 +17604,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-7:2005, &lt;t0/&gt;Power transformers - Part&lt;t1/&gt; 7: &lt;t2/&gt;Loading guide for oil-immersed power transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154512Z" creationid="CCYU" creationdate="20141106T154512Z">
+        <seg>IEC 60076-7，電力變壓器 — 第 7 部份：油浸式電力變壓器負載指南 (Power transformers — Part 7: Loading guide for oil-immersed power transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-8 gives details of tapping' arrangements and voltage drop calculations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131459Z">
@@ -17656,6 +17664,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T084943Z">
         <seg>IEC 60270，高電壓測試技術 — 局部放電量測 (High voltage test techniques — Partial discharge measurements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60296:2003, &lt;t0/&gt;Fluids for &lt;t1/&gt;electrotechnical applications - Unused mineral insulating oils for transformers and switchgear</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154519Z" creationid="CCYU" creationdate="20141106T154519Z">
+        <seg>IEC 60296:2003，電工用液體 — 變壓器和開關設備之未使用礦物絕緣油</seg>
       </tuv>
     </tu>
     <tu>
