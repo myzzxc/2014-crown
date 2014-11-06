@@ -7998,8 +7998,8 @@
       <tuv lang="EN-US">
         <seg>By agreement between manufacturer and purchaser, the top-liquid temperature can be determined assuming as the average of the indications of the pockets placed on the cover a&lt;t0/&gt;nd the temperature of the liquid of the inlet of the cooling equipment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134348Z" creationid="CCYU" creationdate="20141101T134348Z">
-        <seg>依製造商和買方之間的協議，頂層液體溫度測定可以假設為外蓋內袋以及冷設備入口之指示值。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T161702Z" creationid="CCYU" creationdate="20141101T134348Z">
+        <seg>依製造商和買方之間的協議，頂層液體溫度測定可以假設為外蓋內袋以及冷卻設備入口之指示值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,8 +15362,8 @@
       <tuv lang="EN-US">
         <seg>For practical reasons, it is identified with the temperature of the liquid returning from the cooling equipment to the tank.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T135012Z" creationid="CCYU" creationdate="20141101T135012Z">
-        <seg>實務上，其測定為自冷設備返回油槽之液體溫度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T161708Z" creationid="CCYU" creationdate="20141101T135012Z">
+        <seg>實務上，其測定為自冷卻設備返回油槽之液體溫度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20105,8 +20105,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In the case of separate cooling equipment placed at a distance of at least 3 m from the transformer tank, the ambient temperature shall be measured around the cooling equipment applying the same rules given above.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T124534Z" creationid="CCYU" creationdate="20141031T124534Z">
-        <seg>當獨立冷卻設備位於變壓器油槽至少 3 公尺以上時，應使用上述相同規則量測冷設備周圍環境溫度。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T161658Z" creationid="CCYU" creationdate="20141031T124534Z">
+        <seg>當獨立冷卻設備位於變壓器油槽至少 3 公尺以上時，應使用上述相同規則量測冷卻設備周圍環境溫度。</seg>
       </tuv>
     </tu>
     <tu>
