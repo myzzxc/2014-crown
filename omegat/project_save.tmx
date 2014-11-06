@@ -14328,6 +14328,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure E.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153412Z" creationid="CCYU" creationdate="20141106T153412Z">
+        <seg>圖 E.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure E.2 - Optical fibre sensor application for a transposed cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153558Z" creationid="CCYU" creationdate="20141106T153433Z">
+        <seg>圖 E.2 - 用於核心式變壓器之換位電纜之光纖感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure E.4 shows how the a sensor could be mounted in a winding of a shell type transformer Other&lt;t0/&gt; mounting configurations can be agreed considering the characteristics of the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152429Z" creationid="CCYU" creationdate="20141106T152429Z">
@@ -17159,6 +17175,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T102958Z">
         <seg>然而，僅允許經由技術評估機構發佈書面聲明的部分轉載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, some provision should be taken about the minimum creepage distance along the cable sheath that could b contaminated when handled during the mounting process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153400Z" creationid="CCYU" creationdate="20141106T153400Z">
+        <seg>然而， 應考慮搬運或安裝過程中可能接觸電纜外皮之最小漏電距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48933,6 +48957,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z">
         <seg>of &lt;t0/&gt;liquorice 甘草氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of core type transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153600Z" creationid="CCYU" creationdate="20141106T153600Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
