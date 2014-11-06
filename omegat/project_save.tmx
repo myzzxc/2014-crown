@@ -14938,8 +14938,8 @@
       <tuv lang="EN-US">
         <seg>For auto-connected transformers, the indicated limit refers to the rated power of the equivalent double&lt;t0/&gt; wound transformer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060800Z" creationid="CCYU" creationdate="20141102T060800Z">
-        <seg>對於自藕連接變壓器，其限制參照等效雙繞組變壓器之額定功率。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T162502Z" creationid="CCYU" creationdate="20141102T060800Z">
+        <seg>對於自耦連接變壓器，其限制參照等效雙繞組變壓器之額定功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25177,8 +25177,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE For the low voltage windings of very large power transformers, attention &lt;t0/&gt;should be paid to the possible formation of a thermocouple e.m.f.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150950Z" creationid="CCYU" creationdate="20141101T150950Z">
-        <seg>註 對於超大型電力變壓器之低壓繞組，應特別注意關機後電阻量測期間金屬接點之間可能產生之熱電藕電動勢。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T162459Z" creationid="CCYU" creationdate="20141101T150950Z">
+        <seg>註 對於超大型電力變壓器之低壓繞組，應特別注意關機後電阻量測期間金屬接點之間可能產生之熱電耦電動勢。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46483,8 +46483,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>auto connected transformers with equivalent double-wound transformer having rating as a) and b);</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135434Z" creationid="CCYU" creationdate="20141105T135434Z">
-        <seg>具有和 a) 與 b) 雙繞組變壓器等效額定值之自藕變壓器；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T162505Z" creationid="CCYU" creationdate="20141105T135434Z">
+        <seg>具有和 a) 與 b) 雙繞組變壓器等效額定值之自耦變壓器；</seg>
       </tuv>
     </tu>
     <tu>
