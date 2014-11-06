@@ -26735,6 +26735,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optical fibre sensors for the direct &lt;t0/&gt;measurement of the winding hot-spot temperatures should be installed according the following rules.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T115642Z" creationid="CCYU" creationdate="20141106T115642Z">
+        <seg>用於直接量測繞組溫熱點溫度之光纖感測器應依據下列規則安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optimum mortar volume:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
