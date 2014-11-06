@@ -15673,6 +15673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For two winding three phase transformers, it depends on the transformer rated &lt;t0/&gt;power (the highest value when two or more different cooling methods are provided).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T124739Z" creationid="CCYU" creationdate="20141106T124739Z">
+        <seg>雙繞組三相變壓器之感測器數取決於變壓器額定功率 (當具有兩種或多種不同冷卻方法時取最高值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For undated references, the latest edition of the referenced document (including any amendments) applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133900Z">
@@ -37472,6 +37480,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum recommended number of sensors to be applied varies with the characteristics of the transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T124250Z" creationid="CCYU" creationdate="20141106T124250Z">
+        <seg>建議之最低感測器數量隨變壓器特性而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mix of the two is a problem as the oil floats on top of the coolant water and can be really difficult to remove.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074255Z">
@@ -37620,6 +37636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T141148Z">
         <seg>計算範圍中的網格數目為固定，引擎體積膨脹和壓縮藉由改變網格邊界以增加和減少網格體積，如手風琴運動般模擬引擎整體的膨脹或壓縮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of sensors should be those indicated in Table E.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T124810Z" creationid="CCYU" creationdate="20141106T124810Z">
+        <seg>感測器之數量應如表 E.1 所示。</seg>
       </tuv>
     </tu>
     <tu>
