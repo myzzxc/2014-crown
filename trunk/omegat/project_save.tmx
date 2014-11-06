@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 Installation of the optical fibre cables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152627Z" creationid="CCYU" creationdate="20141106T152627Z">
+        <seg>4 光纖電纜安裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 MOUNTING HOLES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135702Z" creationid="CCYU" creationdate="20141023T135702Z">
@@ -14320,6 +14328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure E.4 shows how the a sensor could be mounted in a winding of a shell type transformer Other&lt;t0/&gt; mounting configurations can be agreed considering the characteristics of the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152429Z" creationid="CCYU" creationdate="20141106T152429Z">
+        <seg>圖 E.4 為安裝感測器於殼式變壓器之繞組中的方法，其它安裝配置可依繞組特性進行協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure captions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105050Z">
@@ -19291,6 +19307,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T143826Z">
         <seg>此外，來回氣體流產生之溫度振盪和熱傳導量以及再生器之高溫度梯度會產生能量損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In all cases, special attention should be paid to avoid the sensors being partially in contac with the cooling liquid because their indications can be largely affected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152611Z" creationid="CCYU" creationdate="20141106T152611Z">
+        <seg>所有情況下，應特別注意避免感測器與冷卻液體部分接觸，因為可能大幅影響其指示。</seg>
       </tuv>
     </tu>
     <tu>
