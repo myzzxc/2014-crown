@@ -14904,6 +14904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For c&lt;t0/&gt;able transposed conductor (CTC) and when there is a high risk of mechanical damages during the installation of the sensors, different criteria can be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152218Z" creationid="CCYU" creationdate="20141106T152218Z">
+        <seg>對於換位導線 (CTC) 及感測器安裝具有高損壞風險時，將使用不同標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For certain auto-transformers and series transformers the low value of their impedance may justify a more liberal tolerance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085904Z">
