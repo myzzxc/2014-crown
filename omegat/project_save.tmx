@@ -14338,8 +14338,24 @@
       <tuv lang="EN-US">
         <seg>Figure E.2 - Optical fibre sensor application for a transposed cable</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153558Z" creationid="CCYU" creationdate="20141106T153433Z">
-        <seg>圖 E.2 - 用於核心式變壓器之換位電纜之光纖感測器</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153737Z" creationid="CCYU" creationdate="20141106T153433Z">
+        <seg>圖 E.2 - 用於核心式變壓器換位電纜之光纖感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure E.3 - Modality of optical fibre sensor application in the winding spacer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153749Z" creationid="CCYU" creationdate="20141106T153730Z">
+        <seg>圖 E.3 - 用於核心式變壓器繞組間隔之光纖感測器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure E.4 - Optical fibre sensor application for high voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153836Z" creationid="CCYU" creationdate="20141106T153758Z">
+        <seg>圖 E.4 - 用於殼式變壓器高電壓繞組之光纖感測器</seg>
       </tuv>
     </tu>
     <tu>
@@ -48972,6 +48988,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>of liquid-immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135231Z" creationid="CCYU" creationdate="20141103T135231Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of shell type transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153838Z" creationid="CCYU" creationdate="20141106T153838Z">
         <seg> </seg>
       </tuv>
     </tu>
