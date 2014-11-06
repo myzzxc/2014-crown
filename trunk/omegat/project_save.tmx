@@ -14880,6 +14880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For avoiding reading errors, the movement of oil around the sensor head should be impeded reducing to the minimum the &lt;t0/&gt;dimensions of the channel made on the spacer or/and blocking the entering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151301Z" creationid="CCYU" creationdate="20141106T151136Z">
+        <seg>為避免讀數誤差，應減少感測器周圍油之運動阻礙，以最小化通過間隔之空間或阻止其進入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For bore holes &lt;t0/&gt;larger than 20 mm or deeper 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002533Z">
@@ -15683,7 +15691,7 @@
       <tuv lang="EN-US">
         <seg>For transformers with concentric windings and horizontal spacers between disks or turns, the sensors should be mounted inside the spacers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T150438Z" creationid="CCYU" creationdate="20141106T150438Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151242Z" creationid="CCYU" creationdate="20141106T150438Z">
         <seg>對於同心繞組和碟盤或繞匝之間具有水平間隔之變壓器，感測器應安裝於間隔內。</seg>
       </tuv>
     </tu>
@@ -38730,7 +38738,7 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The sensor should be placed at the centre of the spacer, as indicated in Figure E.3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T150605Z" creationid="CCYU" creationdate="20141106T150605Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151249Z" creationid="CCYU" creationdate="20141106T150605Z">
         <seg>感測器應置於間隔中心，如圖 E.3 所示。</seg>
       </tuv>
     </tu>
