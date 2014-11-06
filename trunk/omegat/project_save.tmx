@@ -15793,6 +15793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For windings without vertical spacers between disks or turns (e.g., barrel windings or similar), the sensors should be placed between turns inside a suitable pressboard strip.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151928Z" creationid="CCYU" creationdate="20141106T151928Z">
+        <seg>對於碟盤或繞匝之間不具有垂直間隔之繞組 (例如，桶型繞組或類似繞組)，感測器應放入合適紙板條內並置於繞匝之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032212Z">
