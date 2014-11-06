@@ -19727,6 +19727,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In principle, optical fibre cables do not disturb the electri&lt;t0/&gt;c field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152823Z" creationid="CCYU" creationdate="20141106T152823Z">
+        <seg>原則上，光纖電纜不會干擾電場。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In principle, the &lt;t0/&gt;evaluation bf factor S, related to the effects of the cooling liquid circuit, should be made by solving the hydraulic circuit at the top of any specific winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T115345Z" creationid="CCYU" creationdate="20141103T115046Z">
@@ -26939,6 +26947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T115642Z" creationid="CCYU" creationdate="20141106T115642Z">
         <seg>用於直接量測繞組溫熱點溫度之光纖感測器應依據下列規則安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optical sensors are connected to the measuring instrument by means of optical fibre cable passing through the tank wall or cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152755Z" creationid="CCYU" creationdate="20141106T152755Z">
+        <seg>光學感測器以穿過油槽外牆或外蓋之光纖電纜連接量測儀器。</seg>
       </tuv>
     </tu>
     <tu>
