@@ -5467,6 +5467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125522Z" creationid="CCYU" creationdate="20141106T125522Z">
+        <seg>所有系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All temperature ranges</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055236Z">
@@ -9946,6 +9954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154038Z">
         <seg>冷卻器出口油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125316Z" creationid="CCYU" creationdate="20141106T125312Z">
+        <seg>冷卻</seg>
       </tuv>
     </tu>
     <tu>
@@ -15785,6 +15801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From &gt; 20 to &lt; 100</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125535Z" creationid="CCYU" creationdate="20141106T125535Z">
+        <seg>由 &gt; 20 至 &lt; 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From a strict academic point of view, such a procedure is inaccurate, because duct top-liquid inside the windings obviously offers a more relevant temperature base than the mixed liquid in the tank.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T123812Z" creationid="CCYU" creationdate="20141102T082832Z">
@@ -16437,6 +16461,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043405Z">
         <seg>HT 外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HV winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125510Z" creationid="CCYU" creationdate="20141106T125510Z">
+        <seg>高壓繞組</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,6 +21871,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LV winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125513Z" creationid="CCYU" creationdate="20141106T125513Z">
+        <seg>低壓繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LV winding*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125759Z">
@@ -26151,6 +26191,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number and phases of installation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125412Z" creationid="CCYU" creationdate="20141106T125412Z">
+        <seg>安裝數量和相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of phases in system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124433Z">
@@ -26499,6 +26547,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022952Z">
         <seg>對於三繞組變壓器，應量測三種兩繞組組合，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On central phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125442Z" creationid="CCYU" creationdate="20141106T125442Z">
+        <seg>中央相</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On each lateral phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125507Z" creationid="CCYU" creationdate="20141106T125507Z">
+        <seg>各側相</seg>
       </tuv>
     </tu>
     <tu>
@@ -34084,6 +34148,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145801Z" creationid="CCYU" creationdate="20141105T145801Z">
         <seg>表 D.2 - 氣體增加率容許限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table E.1 - Minimum recommended number of sensors for thre&lt;t0/&gt;e-phase transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125303Z" creationid="CCYU" creationdate="20141106T125303Z">
+        <seg>表 E.1 - 三相變壓器之建議最低感測器數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -42393,6 +42465,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125424Z" creationid="CCYU" creationdate="20141106T125417Z">
+        <seg>總數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total harmonic content of the load current &lt;t0/&gt;not exceeding&lt;t1/&gt; 5 % of rated current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T132625Z">
@@ -49821,6 +49901,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T125531Z">
         <seg>swe&lt;t0/&gt;etish&lt;t1/&gt;; spicy 微甜；辛辣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125318Z" creationid="CCYU" creationdate="20141106T125318Z">
+        <seg>系統</seg>
       </tuv>
     </tu>
     <tu>
