@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Number of sensors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T124200Z" creationid="CCYU" creationdate="20141106T124200Z">
+        <seg>2 感測器數目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Operating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143330Z">
@@ -7568,6 +7576,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082011Z">
         <seg>因為每個地面控制點包含 x 座標和 y 座標兩筆資訊，在一般情況下 3 個地面控制點便足以確定關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of the intrinsic fragility of sensors and optical fibre cables, attention shall be paid for avoiding dangerous mechanical stresses and vibrations du&lt;t0/&gt;ring the manufacturing process and in operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T124148Z" creationid="CCYU" creationdate="20141106T124148Z">
+        <seg>由於感測器和光纖電纜很脆弱，製造和操作過程應注意避免過大的機械應力和震動。</seg>
       </tuv>
     </tu>
     <tu>
