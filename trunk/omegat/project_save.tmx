@@ -17703,8 +17703,8 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       <tuv lang="EN-US">
         <seg>IEC 60599:1999, &lt;t0/&gt;Mineral &lt;t1/&gt;oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T154850Z" creationid="CCYU" creationdate="20141106T154850Z">
-        <seg>IEC 60599:1999，礦物油浸式電氣設備 &lt;t0/&gt;Mineral &lt;t1/&gt;oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155016Z" creationid="CCYU" creationdate="20141106T154850Z">
+        <seg>IEC 60599:1999，礦物油浸式電氣設備運作 - 自由和溶解氣體分析解析指南 (Mineral oil-impregnated electrical equipment in service - Guide to the interpretation of dissolved and free gases analysis)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17713,6 +17713,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T135517Z">
         <seg>IEC 60721-3-4:1995，環保條件分類 — 第 3 部分：環境參數及其嚴重度分類級別 — 第 4 部分：無遮蔽環境中固定式使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60836:2005, &lt;t0/&gt;Specifications for unused silicone insulating liquids for electrotechnical purposes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T155156Z" creationid="CCYU" creationdate="20141106T155032Z">
+        <seg>IEC 60836:2005，電工用途未使用矽絕緣液體之規範 (Specifications for unused silicone insulating liquids for electrotechnical purposes)</seg>
       </tuv>
     </tu>
     <tu>
