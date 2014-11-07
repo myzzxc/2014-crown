@@ -35392,6 +35392,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The AC withstand test has been redefined (LTAC instead of ACSD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T141941Z" creationid="CCYU" creationdate="20141107T141941Z">
+        <seg>改進交流耐壓測試 (以線路端子交流耐壓測試 (LTAC) 取代短時間交流耐壓測試 (ACSD))。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CFD analysis identified some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154715Z">
