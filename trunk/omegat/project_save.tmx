@@ -15593,6 +15593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purposes of this document, the te&lt;t0/&gt;rms and definitions given in IEC 60076-1, IEC 60050- 421 and the following apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151436Z" creationid="CCYU" creationdate="20141107T151436Z">
+        <seg>本文件中使用下列以及 IEC 60076-1 中給定之專有名詞與定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purposes of this document, the terms and definitions given in IEC 60076-1 and the following apply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104048Z" creationid="MAE" creationdate="20141028T104048Z">
@@ -17587,6 +17595,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60060-2, &lt;t0/&gt;High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 2: Measuring systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151200Z" creationid="CCYU" creationdate="20141107T151200Z">
+        <seg>IEC 60060-2，&lt;t0/&gt;高電壓測試技術 — 第 2 部份：量測系統 (High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 2: Measuring systems)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60068-3-3, Environmental testing — Part 3: Guidance — Seismic test methods for &lt;t0/&gt;equipments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131741Z">
@@ -17599,6 +17615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073632Z">
         <seg>IEC 60068-3-3，環境測試 — 第 3 部份：指示 — 設備之地震測試方法 (Environmental testing — Part 3: Guidance — Seismic test methods for equipments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60071-1, &lt;t0/&gt;Insulation co-ordination - Part 1: Definitions, principles and rules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151325Z" creationid="CCYU" creationdate="20141107T151325Z">
+        <seg>IEC 60071-1，&lt;t0/&gt;絕緣整合 — 第 1 部份：定義、原則及規則 (Insulation co-ordination - Part 1: Definitions, principles and rules)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17756,6 +17780,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60137, &lt;t0/&gt;Insulated bushings for alternating voltages above 1 000 V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151348Z" creationid="CCYU" creationdate="20141107T151348Z">
+        <seg>IEC 60137，&lt;t0/&gt;交流電壓超過 1000 V 之絕緣套管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60137:2008, Insulated bushings for alternating voltages above 1 000 V</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134806Z">
@@ -17768,6 +17800,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023712Z">
         <seg>IEC 60214-1: 2003，抽頭開關 — 第 1 部分：性能規範和測試方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60270, &lt;t0/&gt;High-voltage test techniques - Partial discharge measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151408Z" creationid="CCYU" creationdate="20141107T151408Z">
+        <seg>IEC 60270，高電壓測試技術 — 局部放電量測 (High-voltage test techniques - Partial discharge measurements)</seg>
       </tuv>
     </tu>
     <tu>
