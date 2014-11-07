@@ -4107,6 +4107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of all the parts in the IEC 60076 series, under the general title &lt;t0/&gt;Power transformers,&lt;t1/&gt; can be found on the IEC we&lt;t2/&gt;bsite.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142528Z" creationid="CCYU" creationdate="20141107T142528Z">
+        <seg>可於 IEC 網站上之電力變壓器標題中找到 IEC 60076 系列所有部分的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A little and clearly noticeable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061831Z">
@@ -4143,6 +4151,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070333Z">
         <seg>與大氣連接口裝有水汽去除換氣口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new Annex E has been introduced, which sets out the principles &lt;t0/&gt;used in assigning the tests, test levels and clearances in air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142504Z" creationid="CCYU" creationdate="20141107T142504Z">
+        <seg>加入新附錄 E，其包含指定測試、測試等級以及外部間隙之規範原則。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16036,6 +16052,14 @@
         <seg>Full information on the voting for the approval of this standard can be found in the report on voting indicated in the above table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140821Z">
+        <seg>此標準審核表決之完整資訊收錄於上表中之表決報告內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full information on the voting for the approval of this standard can be found in&lt;t0/&gt; the report on voting indicated in the above table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142512Z" creationid="CCYU" creationdate="20141107T142512Z">
         <seg>此標準審核表決之完整資訊收錄於上表中之表決報告內。</seg>
       </tuv>
     </tu>
@@ -36208,6 +36232,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t0/&gt;http://webstore.iec.ch&lt;t1/&gt;" in the data related to the specific publ&lt;t2/&gt;ication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142540Z" creationid="CCYU" creationdate="20141107T142540Z">
+        <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "http://webstore.iec.ch" in the data related to the specific publication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141515Z">
@@ -42044,6 +42076,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T071238Z">
         <seg>此結果證明了移動式再生器改變氣體溫度的有效性，以及移動式再生器比起核心汽缸牆面作為再生器更為有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This publication has been drafted in accordance with the IS&lt;t0/&gt;O/IEC Directives, Part 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142518Z" creationid="CCYU" creationdate="20141107T142518Z">
+        <seg>此出版物依據 ISO/IEC 指令，第 2 部分草擬。</seg>
       </tuv>
     </tu>
     <tu>
