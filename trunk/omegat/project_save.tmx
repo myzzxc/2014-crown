@@ -14824,6 +14824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For &lt;t0/&gt;dated references,' only the edition cited applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150735Z" creationid="CCYU" creationdate="20141107T150735Z">
+        <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For YD transformers, the zero sequence impedance is measured from the Y side only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085453Z">
@@ -15028,6 +15036,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152218Z" creationid="CCYU" creationdate="20141106T152218Z">
         <seg>對於換位導線 (CTC) 及感測器安裝具有高損壞風險時，將使用不同標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For categories of power transformers and reactors which have their own IEC standards, this standard is applicable only &lt;t0/&gt;to the extent in which it is specifically called up by cross reference in the other standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150514Z" creationid="CCYU" creationdate="20141107T150514Z">
+        <seg>對於本身具有其 IEC 標準之電力變壓器和電抗器類別，此部分只適用於引用其他標準中指明之具體範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37108,6 +37124,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131605Z">
         <seg>以下資料為必須確定之變壓器設計：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following documents, in whole or in part, are normatively referenced in this document and are indispensable for its application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150727Z" creationid="CCYU" creationdate="20141107T150727Z">
+        <seg>下列文件全文或部份為本文件之規範性參考資料，為本文件應用不可或缺的資料。</seg>
       </tuv>
     </tu>
     <tu>
