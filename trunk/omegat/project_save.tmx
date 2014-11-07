@@ -5027,6 +5027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional test levels have been introduced for &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 800kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142307Z" creationid="CCYU" creationdate="20141107T142307Z">
+        <seg>針對 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 800kV 使用額外測試等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional&lt;t0/&gt; &lt;t1/&gt;information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133646Z">
@@ -20679,6 +20687,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Induced voltage tests are now based on &lt;t0/&gt;U&lt;t1/&gt;r&lt;t2/&gt; rather than &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142023Z" creationid="CCYU" creationdate="20141107T142023Z">
+        <seg>電壓測試改以 &lt;t0/&gt;U&lt;t1/&gt;r&lt;t2/&gt; 為基礎而非 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Industrial type petroleum base hydraulic fluid, maintained to ISO DIS 4406 Code 14/11 recommended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140135Z" creationid="CCYU" creationdate="20141023T140135Z">
@@ -25675,6 +25691,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184053Z">
         <seg>紐澤西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New requirements f&lt;t0/&gt;or impulse waveshape (k factor) have been introduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142126Z" creationid="CCYU" creationdate="20141107T142126Z">
+        <seg>使用新的突波波形規範 (k 因子)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34500,6 +34524,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040425Z" creationid="CCYU" creationdate="20141025T040425Z">
         <seg>表 1 端子台每端子之額定值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tables of test levels have been merged and aligned with IEC 60071-1:2010.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142235Z" creationid="CCYU" creationdate="20141107T142235Z">
+        <seg>合併測試等級表並符合 IEC 60071-1:2010。</seg>
       </tuv>
     </tu>
     <tu>
