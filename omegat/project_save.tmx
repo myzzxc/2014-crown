@@ -6451,6 +6451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any divergence between any IEC Publication and the corresponding national or r&lt;t1/&gt;egional publication shall be clearly indicated in the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115730Z" creationid="CCYU" creationdate="20141107T115730Z">
+        <seg>任何 IEC 出版物和其相應的國家或區域性出版物之間的差異應標示在後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any divergence between any IEC Publication and the corresponding national or regional publication shall be clearly indicated in the latter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132755Z">
@@ -17829,10 +17837,26 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC Publications have the form of recommendations for international use and are accepted by IEC National Committe&lt;t0/&gt;es in that sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115713Z" creationid="CCYU" creationdate="20141107T115713Z">
+        <seg>IEC 出版物附有供國際使用之建議表，其為所有 IEC 國家委員會所接受。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC Publications have the form of recommendations for international use and are accepted by IEC National Committees in that sense.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222121Z" creationid="JUDY" creationdate="20141026T222024Z">
         <seg>IEC 出版物附有供國際使用之建議表，其為所有 IEC 國家委員會所接受。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC collaborates closely w&lt;t4/&gt;ith the International Organization for Standardization (ISO) in accordance with conditions determined by agreement between the two organizations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115700Z" creationid="CCYU" creationdate="20141107T115700Z">
+        <seg>IEC 與國際標準化組織 (ISO) 緊密合作並藉由協定確立兩個組織之間的標準條件相符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17849,6 +17873,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130608Z">
         <seg>IEC 與國際標準化組織 (ISO) 緊密合作並藉由協定確立兩個組織之間的標準條件相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC is n&lt;t0/&gt;ot responsible for any services carried out by independent certification bodies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115736Z" creationid="CCYU" creationdate="20141107T115736Z">
+        <seg>IEC 不為任何獨立的認證機構所進行的服務負責。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19779,6 +19811,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021006Z">
         <seg>為了滿足 (歐盟) 法規編號 305/2011 的條例，也必須適時遵守這些要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to promot&lt;t0/&gt;e international uniformity, IEC National Committees undertake to apply IEC Publications transparently to the maximum extent possible in their national and regional publications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115727Z" creationid="CCYU" creationdate="20141107T115727Z">
+        <seg>為了促進國際上統一，IEC 國家委員會盡最大努力使 IEC 出版物適用於其國家和區域性的出版物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25807,6 +25847,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No liability shall attach to IEC or its directors, employees, servants or agents including &lt;t0/&gt;individual experts and members of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and expenses arising o&lt;t1/&gt;ut of the publication, use of, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115742Z" creationid="CCYU" creationdate="20141107T115742Z">
+        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其他 IEC 出版物之使用所造成之個人傷亡、財產損失或者其他任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and membe&lt;t0/&gt;rs of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and expenses arising out of the publication, use o&lt;t1/&gt;f, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222241Z" creationid="JUDY" creationdate="20141026T222241Z">
@@ -27779,6 +27827,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T221934Z" creationid="JUDY" creationdate="20141026T221934Z">
         <seg>第 2 部分：油浸式變壓器升溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 3: Insulation levels, dielectric tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115512Z" creationid="CCYU" creationdate="20141107T115512Z">
+        <seg>第 3 部分：絕緣等級、介電試驗</seg>
       </tuv>
     </tu>
     <tu>
@@ -35400,6 +35456,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The International Electrotechnical Commission (IEC) is a worldwide organization for standardization &lt;t0/&gt;comprising all national electrotechnical committees (IEC National Committees).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115521Z" creationid="CCYU" creationdate="20141107T115521Z">
+        <seg>國際電工委員會 (IEC) 為一間世界性的標準制定組織，由所有國家電工委員會 (IEC 國家委員會) 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising all national &lt;t0/&gt;electrotechnical committees (IEC National Committees).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T221941Z" creationid="JUDY" creationdate="20141026T221941Z">
@@ -37036,6 +37100,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150419Z">
         <seg>故障發生後，不得再使用暖腳機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The formal decisions or agreements of IEC on technical matters express, as nearly as possible, an internationa&lt;t0/&gt;l consensus of opinion on the relevant subjects since each technical committee has representation from all interested IEC National Committees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115707Z" creationid="CCYU" creationdate="20141107T115707Z">
+        <seg>由於每個技術委員會代表所有感興趣之 IEC 國家委員會，IEC 技術事項之正式決議或同意書代表國際間對於相關主題的意見一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40200,6 +40272,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their preparation is entrusted to technical committees;&lt;t2/&gt; any IEC National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115538Z" creationid="CCYU" creationdate="20141107T115538Z">
+        <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then let the appliance&lt;t2/&gt; &lt;t3/&gt;cool down&lt;t4/&gt; &lt;t5/&gt;for at least 30 minutes&lt;t6/&gt; &lt;t7/&gt;before&lt;t8/&gt; &lt;t9/&gt;using it again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z">
@@ -42573,6 +42653,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z">
         <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly. 若正確的處理和使用產品，盡我們所知無危害性影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To this end and in addition to ot&lt;t1/&gt;her activities, IEC publishes International Standards, Technical Specifications, Technical Reports, Publicly Available Specifications (PAS) and Guides (hereafter referred to as “IEC Publication(s)’’).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115530Z" creationid="CCYU" creationdate="20141107T115530Z">
+        <seg>對此 IEC 出版了國際標準、技術規範、技術報告、 公開技術規範 (PAS) 和指南 (以下簡稱 "IEC 出版物")，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45145,6 +45233,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While all reasonable efforts are made to ensure that the technical content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115720Z" creationid="CCYU" creationdate="20141107T115720Z">
+        <seg>IEC 盡最大努力以確保其出版物之技術內容精確，但 IEC 不對其使用行為或任何使用者的誤解負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wide range of rugged infrared solutions for harsh high-temperature applications</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043836Z">
@@ -46421,6 +46517,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130708Z" creationid="CCYU" creationdate="20141105T130708Z">
         <seg>及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and external clearances in air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115516Z" creationid="CCYU" creationdate="20141107T115516Z">
+        <seg>和外部空間間隙</seg>
       </tuv>
     </tu>
     <tu>
