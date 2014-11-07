@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failure of the non-self-restoring internal insulation is catastrophic and normally leads to the transformer being out of&lt;t1/&gt; service for a long period, while an external flashover may involve only a short interruption of service without causing lasting damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144816Z" creationid="CCYU" creationdate="20141107T144816Z">
+        <seg>非自修復型內部絕緣故障會造成災難，會使變壓器長時間停機；然而外部跳火可能僅會造成短期停機而不會造成永久損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few 20g spill kits should be a no brainer for every warehouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z">
