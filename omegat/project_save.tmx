@@ -40648,6 +40648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, it may be that, for increased safety, higher test voltages are specified by the purchaser for the internal i&lt;t2/&gt;nsulation of the transformer than for the external insulation of other components in the system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145110Z" creationid="CCYU" creationdate="20141107T145110Z">
+        <seg>因此為了提高安全性，由買方指定之最高測試電壓適用於變壓器內部絕緣而非系統中其他元件之外部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, many numerical models for &lt;t4/&gt;Stirling&lt;t5/&gt; engine cycles have been developed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125901Z">
