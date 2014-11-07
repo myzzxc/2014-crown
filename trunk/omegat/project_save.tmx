@@ -33616,6 +33616,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switching impulse levels are defined for all &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T140630Z" creationid="CCYU" creationdate="20141107T140630Z">
+        <seg>定義所有 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5kV 之開關突波水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switching lightly loaded and/or low power factor (inductively loaded) transformers with vacuum and SF6 interrupters may subject the transformer to potentially damaging voltage transients with frequencies up to the MHz range and voltages exceeding the transformer impulse withstand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T133912Z">
