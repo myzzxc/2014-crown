@@ -21583,6 +21583,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It gives details of the, applicable dielectric tests and minimum dielectric test levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145800Z" creationid="CCYU" creationdate="20141107T145800Z">
+        <seg>其提供適用介電測試及最低界電測試等級之詳細資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It has to replace Packing (item 4 in Fig.4), if it t&lt;t0/&gt;akes off internal cable gland (&lt;t1/&gt;item 3 in Fig 4) from Item 1 in Fig.4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060613Z" creationid="CCYU" creationdate="20141025T060613Z">
@@ -41344,6 +41352,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This International Standard applies to power transformers as defined by and in the scope of IEC 60076-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145656Z" creationid="CCYU" creationdate="20141107T145656Z">
+        <seg>此國際標準適用於 IEC 60076-1 範圍中所定義之電力變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Junction Box assembly can be used in both Zone1 and Zone2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025239Z" creationid="CCYU" creationdate="20141025T025239Z">
@@ -46733,6 +46749,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115912Z" creationid="CCYU" creationdate="20141107T115912Z">
         <seg>其為技術性之修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and external &lt;t0/&gt;clearances in air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145538Z" creationid="CCYU" creationdate="20141107T145538Z">
+        <seg>和外部空間間隙</seg>
       </tuv>
     </tu>
     <tu>
