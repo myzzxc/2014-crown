@@ -6115,6 +6115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anne&lt;t0/&gt;x E sets out some of the principles used in assigning the tests, test levels and clearances in air to the transformer according to the highest voltage for equipment &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145521Z" creationid="CCYU" creationdate="20141107T145521Z">
+        <seg>附錄 E 依設備最高電壓&lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; 列出一些變壓器指定測試、測試等級以及外部間隙之規範原則.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Annex &lt;t0/&gt;B 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042325Z">
@@ -27911,6 +27919,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Part 3: insulation levels, dielectric tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145525Z" creationid="CCYU" creationdate="20141107T145525Z">
+        <seg>第 3 部分：絕緣等級、介電試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Part Description&lt;t0/&gt; &lt;t1/&gt;Qty.&lt;t2/&gt; &lt;t3/&gt;Part Number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132551Z" creationid="CCYU" creationdate="20141022T132551Z">
@@ -45061,6 +45077,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114216Z">
         <seg>收納裝置時，請勿放置任何物品於保溫電毯上以避免變形皺摺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When such a distinction is made, the external clearances should be adjusted to fully cover the internal insulation test requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145249Z" creationid="CCYU" creationdate="20141107T145249Z">
+        <seg>此時應調整外部空間間隙以完全符合內部絕緣之要求。</seg>
       </tuv>
     </tu>
     <tu>
