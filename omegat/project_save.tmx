@@ -29824,6 +29824,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended minimum external clearance&lt;t0/&gt;s in air between live parts and between live parts and earth are given for use when these clearances are not specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150127Z" creationid="CCYU" creationdate="20141107T150127Z">
+        <seg>當買方未指明外部空間間隙時，針對活動元件之間和活動元件及接地之間，提供最小外部空間間隙建議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recommended storage temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123235Z">
