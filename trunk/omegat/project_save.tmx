@@ -17547,6 +17547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60050-421, &lt;t0/&gt;International Electrotechnical Vocabulary (IEV)&lt;t1/&gt; - &lt;t2/&gt;Chapter 421: Power transformers an&lt;t3/&gt;d reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150847Z" creationid="CCYU" creationdate="20141107T150847Z">
+        <seg>IEC 60050-421，&lt;t0/&gt;國際電工詞彙  — 第 421 章：電力變壓器和電抗器 (International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60050-421:1990, International &lt;t0/&gt;Electrotechnical&lt;t1/&gt; Vocabulary — Chapter 421: Power transformers and reactors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131735Z">
@@ -17567,6 +17575,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131739Z">
         <seg>IEC 60270，高電壓測試技術 — 局部放電量測 (High voltage test techniques — Partial discharge measurements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60060-1, &lt;t0/&gt;High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 1: General definitions and test requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151101Z" creationid="CCYU" creationdate="20141107T151101Z">
+        <seg>IEC 60060-1，&lt;t0/&gt;高電壓測試技術 — 第 1 部份：一般定義及測試規範 (High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 1: General definitions and test requirements)</seg>
       </tuv>
     </tu>
     <tu>
