@@ -21471,6 +21471,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also recommends &lt;t0/&gt;external clearances in air (Clause 16).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144023Z" creationid="CCYU" creationdate="20141107T144023Z">
+        <seg>也提供和外部空間間隙 (第 16 節) 建議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also be noted that the winding regions where factors Q and S assume their maximum values correspond only when factor Q is maximum at the top of the winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T131308Z" creationid="CCYU" creationdate="20141103T131308Z">
@@ -37520,6 +37528,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The insulation levels and dielectric tests which are specified in this standard apply to the internal insulation only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144145Z" creationid="CCYU" creationdate="20141107T144135Z">
+        <seg>本標準中說明之絕緣等級和介電試驗僅適用於內部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The integration of heat-input and heat-output rates (&lt;t0/&gt;Q&lt;t1/&gt;in&lt;t2/&gt; and &lt;t3/&gt;Q&lt;t4/&gt;out&lt;t5/&gt;) in one engine cycle is the same as that in [23] and will not be repeated here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T085334Z">
@@ -41952,6 +41968,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This part of IEC 60076 specifies the insulation requirements and the corresponding insulation tests with reference to specific windings and their terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T143938Z" creationid="CCYU" creationdate="20141107T143938Z">
+        <seg>IEC 60076 本部份中說明絕緣要求與特定繞組及其端子對應之絕緣測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This peak fit method is suitable for most applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025829Z">
@@ -45373,6 +45397,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115720Z" creationid="CCYU" creationdate="20141107T115720Z">
         <seg>IEC 盡最大努力以確保其出版物之技術內容精確，但 IEC 不對其使用行為或任何使用者的誤解負責。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whilst it is reasonable that the rated withstand voltage values which are specified for the inter&lt;t0/&gt;nal insulation of the transformer should also be taken as a reference for its external insulation, this may not be true in all cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144352Z" creationid="CCYU" creationdate="20141107T144352Z">
+        <seg>雖然以內部絕緣之額定耐壓值可作為外部絕緣之參考，但並非所有情況皆適用。</seg>
       </tuv>
     </tu>
     <tu>
