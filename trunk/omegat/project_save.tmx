@@ -38408,6 +38408,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The procedure for Induced voltage tests with PD has been revised to ensure adequate phase to phase test voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T141549Z" creationid="CCYU" creationdate="20141107T141549Z">
+        <seg>修改程序將局部放電 (PD) 納入電壓測試以確保進行適當的相對相電壓測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The procedure of the PIV analysis is shown as flowchart (Fig. 6).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084830Z">
