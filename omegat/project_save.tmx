@@ -52093,6 +52093,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>value &lt;t0/&gt;of the assigned test voltage applied in one of the standard dielectric tests that proves that the insulation complies with the assigned test voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015503Z" creationid="CCYU" creationdate="20141108T015503Z">
+        <seg>一標準介電測試中指定使用之電壓值，用以證明絕緣符合指定測試電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value of current of the it&lt;t1/&gt;h&lt;t2/&gt; harmonic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091827Z">
