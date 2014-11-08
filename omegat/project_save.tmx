@@ -41016,6 +41016,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage is applied to all the terminals of a winding, including the neutral, simultaneousl&lt;t1/&gt;y so there is no turn-to-turn voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134327Z" creationid="CCYU" creationdate="20141108T134327Z">
+        <seg>電壓同時施加於繞組所有端子並包括中性端子，因此無匝間電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage is inductively distributed through all windings of the transformer, line terminals are open circuit for the test and the line terminals of the tested phase e&lt;t2/&gt;xperience a voltage during the test approximately determined by the transformer turns ratio.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133723Z" creationid="CCYU" creationdate="20141108T133723Z">
