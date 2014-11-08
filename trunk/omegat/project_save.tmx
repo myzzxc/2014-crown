@@ -26495,6 +26495,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note 2 to entry: For single-phase transformers intended to be &lt;t0/&gt;connected in star to form a three-phase bank or to be connected between the line and the neutral of a three phase system, the rated voltage is indicated as the phase-to-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013430Z" creationid="CCYU" creationdate="20141108T013430Z">
+        <seg>註 2 ：單相變壓器以星形 (Y) 連接形成三相組合或連接三相系統之火線與中性線時，額定電壓為相間 (phase-to-phase) 電壓除以 √3，例如 400/√3 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note 3 to entry: For single &lt;t0/&gt;phase transformers intended to be connected between phases of a network, the rated voltage is indicated as the phase-to-phase voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013449Z" creationid="CCYU" creationdate="20141108T013442Z">
+        <seg>註 3 ：單相變壓器連接至線路各相時，額定電壓為相間電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note 4 to entry: For the series winding of a three-phase series transformer, which is designed as an open winding, the ra&lt;t0/&gt;ted voltage is indicated as if the windings were connected in star.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013505Z" creationid="CCYU" creationdate="20141108T013446Z">
+        <seg>註 4 ：三相串聯變壓器之串聯繞組設計為開放繞組，額定電壓為與星形 (Y) 連接相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that our product recommendations are based on the most common applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020516Z">
@@ -46297,6 +46321,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[SOURCE: IEC 60076-1:2011, 3.4.3]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013516Z" creationid="CCYU" creationdate="20141108T013516Z">
+        <seg>[來源：IEC 60076-1:2011, 3.4.3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^max</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150102Z" creationid="CCYU" creationdate="20141104T150102Z">
@@ -49789,6 +49821,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040858Z">
         <seg>(三相繞組) 相位移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase voltage, divided by ^3, for example 400&lt;t0/&gt;life&lt;t1/&gt; kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013436Z" creationid="CCYU" creationdate="20141108T013436Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
