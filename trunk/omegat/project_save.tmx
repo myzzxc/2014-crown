@@ -24591,6 +24591,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N neutral.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122039Z" creationid="CCYU" creationdate="20141108T122039Z">
+        <seg>N 中性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074724Z" creationid="CCYU" creationdate="20141025T074724Z">
@@ -39024,6 +39032,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principles of the standard abbreviated notation are shown in some examples below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122340Z" creationid="CCYU" creationdate="20141108T122235Z">
+        <seg>以下為一些標準縮寫標記之原則範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The problem is important for windings with diverter washers as the factor varies according to the configuration of liquid ducts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130432Z" creationid="CCYU" creationdate="20141103T115807Z">
@@ -39252,6 +39268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T140150Z">
         <seg>額定電壓應於詢問階段由買方指定，或買方依特殊的應用提供足夠的資訊予以製造商以確定額定電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rated withstand volt&lt;t0/&gt;ages for all windings shall appear on the rating plate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122117Z" creationid="CCYU" creationdate="20141108T122117Z">
+        <seg>所有繞組之額定耐壓應標示於額定銘板上。</seg>
       </tuv>
     </tu>
     <tu>
