@@ -15272,6 +15272,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For liquid-immersed or gas-filled transformers, the requirements apply to the internal insulation only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020556Z" creationid="CCYU" creationdate="20141108T020556Z">
+        <seg>針對油浸式或充氣式變壓器，規範僅適用於其內部絕緣材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For liquid-immersed transformers with reference temperature 75 °C, the formulae become as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T144523Z">
@@ -37700,6 +37708,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144145Z" creationid="CCYU" creationdate="20141107T144135Z">
         <seg>本標準中說明之絕緣等級和介電試驗僅適用於內部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The insulation requirements for power transformers and the corresponding insulation tests are given with refere&lt;t0/&gt;nce to specific windings and their terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020432Z" creationid="CCYU" creationdate="20141108T020432Z">
+        <seg>本文收錄電力變壓器中特定繞組及其端子之絕緣要求與對應之絕緣測試。</seg>
       </tuv>
     </tu>
     <tu>
