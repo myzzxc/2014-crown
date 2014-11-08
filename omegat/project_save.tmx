@@ -39290,8 +39290,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The rated withstand volt&lt;t0/&gt;ages for all windings shall appear on the rating plate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122117Z" creationid="CCYU" creationdate="20141108T122117Z">
-        <seg>所有繞組之額定耐壓應標示於額定銘板上。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123029Z" creationid="CCYU" creationdate="20141108T122117Z">
+        <seg>所有繞組之額定耐壓應標示於額定銘牌上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43883,8 +43883,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Transformer with a nominal rated voltage of &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV and &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV, both uniformly insulated, Y connected, the rating plate would read:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122554Z" creationid="CCYU" creationdate="20141108T122554Z">
-        <seg>變壓器名目額定電壓為 &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV 和 &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV，皆為統一絕緣、Y 連接，其額定銘板為：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123034Z" creationid="CCYU" creationdate="20141108T122554Z">
+        <seg>變壓器名目額定電壓為 &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV 和 &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV，皆為統一絕緣、Y 連接，其額定銘牌為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45859,8 +45859,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When the manufacturer intends to use non-linear elements (for example surge &lt;t0/&gt;arresters or spark gaps), built into the transformer or tap-changer or externally fitted, for the limitation of overvoltage transients, this shall be brought to the purchaser's attention by the manufacturer at the tender and order stage and shall be indica&lt;t1/&gt;ted on the transformer rating plate circuit diagram.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T083458Z" creationid="CCYU" creationdate="20141108T083458Z">
-        <seg>當製造商欲使用嵌入變壓器之非線性元件 (例如避雷器或火花間隙) 以限制過電壓暫態時，製造商應於投標時通知買方並於訂購時標示於變壓器額定銘板線路圖上。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123024Z" creationid="CCYU" creationdate="20141108T083458Z">
+        <seg>當製造商欲使用嵌入變壓器之非線性元件 (例如避雷器或火花間隙) 以限制過電壓暫態時，製造商應於投標時通知買方並於訂購時標示於變壓器額定銘牌線路圖上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45915,8 +45915,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When' the specified temperature rise limits of a transformer have been reduced, either because of high cooling medium temperature or because of high-altitude installation, this shall be indicated on the rating plate &lt;t0/&gt;(see IEC 60076-1).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122852Z" creationid="CCYU" creationdate="20141030T130152Z">
-        <seg>變壓器指定溫度上升限制降低時，無論是因為高冷媒溫度或安裝高度之因素，皆應標示於額定銘板牌上 (請見 IEC 60076-1)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123016Z" creationid="CCYU" creationdate="20141030T130152Z">
+        <seg>變壓器指定溫度上升限制降低時，無論是因為高冷媒溫度或安裝高度之因素，皆應標示於額定銘牌上 (請見 IEC 60076-1)。</seg>
       </tuv>
     </tu>
     <tu>
