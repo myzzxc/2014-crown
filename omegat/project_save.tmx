@@ -4451,6 +4451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A value of highest voltage for equipment &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; (see Clause 3) is assigned to both the line and neutral end of each winding, see IEC 60076-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T094134Z" creationid="CCYU" creationdate="20141108T094134Z">
+        <seg>分配至各繞組線路和中性端之設備最高電壓值 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; (請見第 3 節)，請見 IEC 60076-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A very important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061936Z">
