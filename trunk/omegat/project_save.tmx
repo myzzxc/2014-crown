@@ -19247,6 +19247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the winding does not have an assigned SI or LIC withstand level then the abbreviation is omitted from the rating so for terminals without an assigned switching impulse withstand level or cho&lt;t0/&gt;pped wave lightning impulse withstand level and for neutral terminals the abbreviation would be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T110133Z" creationid="CCYU" creationdate="20141108T110133Z">
+        <seg>若繞組無指定 SI 或 LIC 耐壓等級時，無指定開關突波耐壓等級或雷擊截波耐壓等級之額定值可省略縮寫，而中性端子之縮寫為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the zero sequence requirements dictated the use of a delta connected winding that was not directly specified by the purchaser, then this shall be clearly stated by the manufacturer in the tender documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155546Z">
@@ -44021,6 +44029,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095954Z">
         <seg>通常壓力以液壓或氣壓施加於儲油槽中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; / LI / AC together with the associated values</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T110156Z" creationid="CCYU" creationdate="20141108T110156Z">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; / LI / AC 及其相關數值。</seg>
       </tuv>
     </tu>
     <tu>
