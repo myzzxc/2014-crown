@@ -24935,6 +24935,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 For transformer windings intended to be used for example in railway supply applications where two opposite phase to earth voltages are supplied, &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; relates to the phase to phase voltage unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T100535Z" creationid="CCYU" creationdate="20141108T100535Z">
+        <seg>註 2 用於鐵路應用之變壓器繞組提供兩相反相對地電壓，若無另外指定則 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 對應至相對相電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 For transformers with both air/water and water/liquid heat exchangers, the temperature of cooling medium refers to the external air temperature rather than the water temperature in the intermediate circuit which may exceed the normal value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103808Z">
@@ -25227,6 +25235,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133657Z" creationid="CCYU" creationdate="20141029T133657Z">
         <seg>註 3 具有抽頭之自耦變壓器，具有最高空載損耗之抽頭取決於抽頭配置方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 It might happen that certain tapping voltages are chosen slightly higher than a standardized value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;, &lt;t3/&gt;but the system to which the winding will be connected has a system highest voltage which stays within the standard value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T101013Z" creationid="CCYU" creationdate="20141108T101013Z">
+        <seg>註 3 特定抽頭電壓之選擇可能稍高於標準 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值， 但繞組連接之系統 (其具有最高系統電壓) 將維持標準值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37892,6 +37908,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144145Z" creationid="CCYU" creationdate="20141107T144135Z">
         <seg>本標準中說明之絕緣等級和介電試驗僅適用於內部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The insulation requirements are to be coordinated with actual conditions, and therefore this standard value can be accepted as &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; for &lt;t7/&gt;the transformer, and not the nearest higher value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T101232Z" creationid="CCYU" creationdate="20141108T101232Z">
+        <seg>絕緣要求應符合實際情況，因此變壓器可接受此標準值 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt;，而非最接近之進位值。</seg>
       </tuv>
     </tu>
     <tu>
