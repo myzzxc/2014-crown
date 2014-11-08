@@ -7011,6 +7011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As well as covering the intention of the LI test, this test is intended to verify the capability of the &lt;t0/&gt;transformer to withstand some high frequency phenomena that may occur in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T131106Z" creationid="CCYU" creationdate="20141108T131106Z">
+        <seg>與 LI 測試之目的相同，此測試為驗證變壓器對於運作中可能發生的高頻現象之耐受能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As winding temperature and resistance vary with time, the problem is to extrapolate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121747Z" creationid="CCYU" creationdate="20141104T121634Z">
@@ -9177,6 +9185,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151306Z">
         <seg>Chen 等人 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chopped wave lightning impulse test for the line terminals (LIC), &lt;t0/&gt;see &lt;t1/&gt;13.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130905Z" creationid="CCYU" creationdate="20141108T130905Z">
+        <seg>線端子截波雷擊突波測試 (LIC)，&lt;t0/&gt;請見 &lt;t1/&gt;13.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -40332,6 +40348,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z">
         <seg>除絕緣測試外的所有特性之測試皆於額定條件下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test contains high frequency voltage components and produces non-uniform stresses in the winding under test different to those for an alternating voltage test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130825Z" creationid="CCYU" creationdate="20141108T130825Z">
+        <seg>測試包含高頻電壓項，並於繞組中製造與變電壓測試不同之不均勻應力。</seg>
       </tuv>
     </tu>
     <tu>
