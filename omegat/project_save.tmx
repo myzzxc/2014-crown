@@ -44025,6 +44025,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; I&lt;t2/&gt; SI / LI / LIC / AC with the associated valu&lt;t3/&gt;es (see examples below) for the line terminals of each winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T105713Z" creationid="CCYU" creationdate="20141108T105713Z">
+        <seg>各繞組線端子之 U&lt;t0/&gt;m&lt;t1/&gt; / &lt;t2/&gt; SI / LI / LIC / AC 數值 (請見以下範例)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UA ,&lt;t0/&gt; /A</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T144133Z">
