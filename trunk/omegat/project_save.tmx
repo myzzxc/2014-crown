@@ -17163,6 +17163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highest voltage for equipment and rated insulation level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T085754Z" creationid="CCYU" creationdate="20141108T085754Z">
+        <seg>設備之最高電壓和額定絕緣等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033332Z">
