@@ -50065,6 +50065,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated voltage of a winding &lt;t0/&gt;U&lt;t1/&gt;r</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T010656Z" creationid="CCYU" creationdate="20141108T010656Z">
+        <seg>繞組額定電壓 &lt;t0/&gt;U&lt;t1/&gt;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rated voltage ratio</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155215Z">
