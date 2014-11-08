@@ -12239,6 +12239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the test, voltage appears at one or m&lt;t0/&gt;ore of the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134546Z" creationid="CCYU" creationdate="20141108T134546Z">
+        <seg>測試電壓施加於一組或多組線路端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E OUR END USERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164736Z">
@@ -22771,6 +22779,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020617Z">
         <seg>線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line terminal AC withstand voltage test (LTAC), &lt;t0/&gt;see Clause 12</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134418Z" creationid="CCYU" creationdate="20141108T134418Z">
+        <seg>線路端子交流耐壓測試 (LTAC)，&lt;t0/&gt;請見第 12 節</seg>
       </tuv>
     </tu>
     <tu>
@@ -40444,6 +40460,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T031208Z" creationid="Judy" creationdate="20141101T031208Z">
         <seg>測試電流將高於額定電流以產生等同於額定電壓下之空載損耗的額外損耗，且繞組溫度上升將相對提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is intended to verify the alternating voltage (AC) withstand strength of each line terminal to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134507Z" creationid="CCYU" creationdate="20141108T134507Z">
+        <seg>測試目的為驗證各線路端子至接地之切換電壓 (交流) 耐壓強度。</seg>
       </tuv>
     </tu>
     <tu>
