@@ -24607,6 +24607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 External overvoltage protection devices such as surge arresters &lt;t0/&gt;do not need to be assembled and bushing spark gaps can be removed or their spacing increased to avoid operation during the tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T080628Z" creationid="CCYU" creationdate="20141108T080628Z">
+        <seg>註 1 外部過電壓保護裝置如避雷器等無須組裝，可移除套管點火間隙或增加其間隙使其於測試期間不運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For a three-phase transformer, the value is the arithmetic mean of the values of current in the three lines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035511Z">
@@ -24939,6 +24947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T133007Z" creationid="CCYU" creationdate="20141101T133007Z">
         <seg>註 2 以冷卻設備強制循環之變壓器液體為繞組液體與油槽旁通液體之混合，於油槽不同部份或不同冷卻管路之間之液體可能不均勻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 It is common practice for larger transformers for oil samples to be taken for dissolved gas analysis before and after d&lt;t0/&gt;ielectric tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T080840Z" creationid="CCYU" creationdate="20141108T080840Z">
+        <seg>註 2 介電測試前後溶解氣體分析之油樣品，實務上通常於較大型之變壓器中採集。</seg>
       </tuv>
     </tu>
     <tu>
