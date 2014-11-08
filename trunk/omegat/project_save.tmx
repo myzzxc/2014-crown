@@ -21735,6 +21735,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It i&lt;t0/&gt;s normally assumed that the insulating liquid or gas is not circulated during the tests and coolers do not need to be assembled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075837Z" creationid="CCYU" creationdate="20141108T075837Z">
+        <seg>通常假設測試期間絕緣液體或氣體不循環且冷卻器無須組裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It improves engine’s thermal efficiency by functioning as a thermal heat storage unit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T134430Z">
@@ -40156,6 +40164,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T114728Z">
         <seg>變壓器應能在第 4 條款所列條件下連續供應額定功率 (多繞組變壓器：指明繞組額定功率組合) 而不超過 IEC 60076-2 液浸式變壓器中所規定之的溫度上升限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The transformer shall be completely assembled as in service in respect of all elements that might influence the dielectric strength of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075656Z" creationid="CCYU" creationdate="20141108T075656Z">
+        <seg>由於所有元件皆可能影響變壓器之介電強度，變壓器應完全組裝成運作設置。</seg>
       </tuv>
     </tu>
     <tu>
