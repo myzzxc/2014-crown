@@ -43945,6 +43945,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformers with re-connectable windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123534Z" creationid="CCYU" creationdate="20141108T123534Z">
+        <seg>具有多電壓繞組 (re-connectable windings) 之變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translations of this European Technical Assessment in other languages shall fully correspond to the original issued document and shall be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015409Z">
