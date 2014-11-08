@@ -40392,6 +40392,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test also verifies the withstand str&lt;t1/&gt;ength between phases and along the winding(s) under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133225Z" creationid="CCYU" creationdate="20141108T133225Z">
+        <seg>測試同時驗證各相之間及測試中繞組之突波耐壓強度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test basis for -all characteristics other than insulation is the rated condition, unless the test clause states otherwise.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z">
@@ -40458,8 +40466,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The test verifies the switching impulse withstand strength of the line terminals and the connected winding(s) to earth and other windings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133022Z" creationid="CCYU" creationdate="20141108T133022Z">
-        <seg>測試為驗證中性端子及其連接繞組至接地及其它繞組、及測試中繞組之突波耐壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133133Z" creationid="CCYU" creationdate="20141108T133022Z">
+        <seg>測試為驗證線路端子及其連接繞組至接地及其它繞組之開關突波耐壓強度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42460,6 +42468,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T112724Z">
         <seg>此為關於負載損耗和溫度上升之保證與測試參考值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a single-phase test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133244Z" creationid="CCYU" creationdate="20141108T133244Z">
+        <seg>此為單相測試。</seg>
       </tuv>
     </tu>
     <tu>
