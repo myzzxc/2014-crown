@@ -50137,6 +50137,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rated withstand voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015309Z" creationid="CCYU" creationdate="20141108T015309Z">
+        <seg>額定耐壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rated&lt;t0/&gt; power &lt;t1/&gt;Sr&lt;t2/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153718Z">
@@ -50429,6 +50437,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T133209Z">
         <seg>串聯繞組 (series winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>set of rated withstand voltages which characterise the dielectric strength of the insulation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015234Z" creationid="CCYU" creationdate="20141108T015234Z">
+        <seg>一系列額定耐壓，代表其絕緣之介電強度特性。</seg>
       </tuv>
     </tu>
     <tu>
