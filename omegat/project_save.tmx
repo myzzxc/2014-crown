@@ -39416,6 +39416,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same principle applies to single&lt;t10/&gt;phase transformers intended for use in a single phase system in that the maximum phase to earth voltage is</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T100203Z" creationid="CCYU" creationdate="20141108T100135Z">
+        <seg>用於單相系統之單相變壓器以適用同樣原則，將最大相對地電壓乘以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The scale of these photographs is 1:5000 and the original resolution is 0.375 m/pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063338Z">
@@ -49717,6 +49725,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T131755Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>multiplied by ^3 to obtain the equivalent &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; in order to define the test voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T100244Z" creationid="CCYU" creationdate="20141108T100244Z">
+        <seg> √3 得到決定測試電壓之等效 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值。</seg>
       </tuv>
     </tu>
     <tu>
