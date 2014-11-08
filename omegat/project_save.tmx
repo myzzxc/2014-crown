@@ -40242,8 +40242,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The te&lt;t0/&gt;st is intended to verify the capability of the transformer to withstand fast rise time transients in service typically associated with lightning strikes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130354Z" creationid="CCYU" creationdate="20141108T130354Z">
-        <seg>此測試為驗證變壓器運轉中承受快速上升時間瞬變之能力，通常由雷擊造成。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133039Z" creationid="CCYU" creationdate="20141108T130354Z">
+        <seg>此測試目的為驗證變壓器運轉中承受快速上升時間瞬變之能力，通常由雷擊造成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40424,6 +40424,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test is intended to verify the capability of the transformer to withstand slow rise time t&lt;t0/&gt;ransient voltages typically associated with switching operations in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133030Z" creationid="CCYU" creationdate="20141108T132837Z">
+        <seg>此測試目的為驗證變壓器運轉中承受慢速上升時間瞬變之能力，通常由運轉中開關操作造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test is intended to verify the impulse withstand voltage of the neutral terminal&lt;t0/&gt; and it's connected winding(s) to earth and other windings, and along the winding(s) under test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132610Z" creationid="CCYU" creationdate="20141108T132356Z">
@@ -40444,6 +40452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T101202Z">
         <seg>測試於變壓器組裝完成且所有現場所需之真空腔體皆安裝後進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test verifies the switching impulse withstand strength of the line terminals and the connected winding(s) to earth and other windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133022Z" creationid="CCYU" creationdate="20141108T133022Z">
+        <seg>測試為驗證中性端子及其連接繞組至接地及其它繞組、及測試中繞組之突波耐壓。</seg>
       </tuv>
     </tu>
     <tu>
