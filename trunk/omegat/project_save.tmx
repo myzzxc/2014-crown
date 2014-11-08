@@ -16201,6 +16201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full wave lightning impulse test for the line terminals (LI), &lt;t0/&gt;see 13.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130147Z" creationid="CCYU" creationdate="20141108T130147Z">
+        <seg>線端子全波雷擊突波測試 (LI)，&lt;t0/&gt;請見 13.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full-power &lt;t0/&gt;tappings&lt;t1/&gt; —reduced-power &lt;t2/&gt;tappings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145031Z">
@@ -40164,6 +40172,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140644Z">
         <seg>抽頭繞組中的抽頭電壓與抽頭係數成正比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The te&lt;t0/&gt;st is intended to verify the capability of the transformer to withstand fast rise time transients in service typically associated with lightning strikes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130354Z" creationid="CCYU" creationdate="20141108T130354Z">
+        <seg>此測試為驗證變壓器運轉中承受快速上升時間瞬變之能力，通常由雷擊造成。</seg>
       </tuv>
     </tu>
     <tu>
