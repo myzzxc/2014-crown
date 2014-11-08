@@ -19287,6 +19287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is a winding wit&lt;t2/&gt;h non-uniform insulation, the assigned &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; and the rated insulation level of the neutral terminal may also be specified by the purchaser, see 7.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T105448Z" creationid="CCYU" creationdate="20141108T105448Z">
+        <seg>若繞組具有非統一絕緣時，買方也可指定中性端子之 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 和額定絕緣等級，請見 7.4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no agreement, a pressure of at least 30 &lt;t0/&gt;kPa&lt;t1/&gt; over the normal liquid pressure shall be applied and maintained for 24 h for transformers greater than 20 MVA or 72,5 kV, and 8 h for transformers of lower rating and voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095821Z">
@@ -39124,6 +39132,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T141408Z">
         <seg>買方應指明與電網相符不受干擾之額定頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rated insulation level shall be characterised as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T105539Z" creationid="CCYU" creationdate="20141108T105539Z">
+        <seg>額定絕緣等級測定包含下列資訊：</seg>
       </tuv>
     </tu>
     <tu>
