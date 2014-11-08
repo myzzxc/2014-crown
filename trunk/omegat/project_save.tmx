@@ -26487,6 +26487,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note 1 to entry: The rated voltages of all windings appear simultaneously at no-load when the voltage applied to one of them has its rated value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013329Z" creationid="CCYU" creationdate="20141108T013329Z">
+        <seg>註 1 ：當電壓以額定值加載於其中一繞組時，所有繞組之空載額定電壓同時出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that our product recommendations are based on the most common applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020516Z">
@@ -52137,6 +52145,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061834Z">
         <seg>非常好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or a tapped winding connected on the principal tapping, for a three-phase winding&lt;t0/&gt; it is the voltage between line terminals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013309Z" creationid="CCYU" creationdate="20141108T013309Z">
+        <seg>介於兩無抽頭繞組端子之間或連接至主抽頭之抽頭繞組，指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
       </tuv>
     </tu>
     <tu>
