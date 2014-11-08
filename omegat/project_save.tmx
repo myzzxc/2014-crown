@@ -15801,6 +15801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this test the lightning impulse test includes both full wave &lt;t1/&gt;impulses and impulses chopped on the tail to produce a very high rate of change of voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T131322Z" creationid="CCYU" creationdate="20141108T131322Z">
+        <seg>此雷擊突波測試包含全波及截斷波形尾端之突波以製造出非常高切換頻率的電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For those categories of power transformers and reactors which have their own IEC standards, this part is applicable only to the extent in which it is specifically called up by cross-reference in the other standard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132121Z">
