@@ -48881,6 +48881,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>insulation of a transformer winding that has all its ends &lt;t0/&gt;connected to terminals with the same rated insulation level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015824Z" creationid="CCYU" creationdate="20141108T015702Z">
+        <seg>變壓器繞組之絕緣端點皆以同樣額定絕緣等級連接至端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>intermediate-voltage winding*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131701Z">
@@ -49477,6 +49485,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034521Z">
         <seg>空載損耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>non-uniform insulation of a transformer winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015835Z" creationid="CCYU" creationdate="20141108T015835Z">
+        <seg>變壓器繞組非統一絕緣</seg>
       </tuv>
     </tu>
     <tu>
@@ -52009,6 +52025,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T130339Z">
         <seg>不平衡交流電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>uniform insulation of a transformer winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T015726Z" creationid="CCYU" creationdate="20141108T015628Z">
+        <seg>變壓器繞組統一絕緣</seg>
       </tuv>
     </tu>
     <tu>
