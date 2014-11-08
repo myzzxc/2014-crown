@@ -21055,6 +21055,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Induced voltage withstand test (IVW), &lt;t0/&gt;see 11.2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134827Z" creationid="CCYU" creationdate="20141108T134827Z">
+        <seg>感應電壓耐壓測試 (IVW)，&lt;t0/&gt;請見 11.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Industrial type petroleum base hydraulic fluid, maintained to ISO DIS 4406 Code 14/11 recommended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140135Z" creationid="CCYU" creationdate="20141023T140135Z">
@@ -40424,6 +40432,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test allows the line terminals of a transformer with non-uniform insulation to be tested at the applied voltage test level applicable to the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134801Z" creationid="CCYU" creationdate="20141108T134801Z">
+        <seg>測試允許具有非統一絕緣變壓器之線路端子以其適用施加電壓等級進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test also verifies the withstand str&lt;t1/&gt;ength between phases and along the winding(s) under test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133225Z" creationid="CCYU" creationdate="20141108T133225Z">
@@ -40460,6 +40476,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T031208Z" creationid="Judy" creationdate="20141101T031208Z">
         <seg>測試電流將高於額定電流以產生等同於額定電壓下之空載損耗的額外損耗，且繞組溫度上升將相對提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is intended &lt;t0/&gt;to verify the alternating voltage withstand strength of each line terminal and its connected winding(s) to earth and other windings, along the winding(s) under test and the withstand strength between phases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134958Z" creationid="CCYU" creationdate="20141108T134958Z">
+        <seg>測試目的為驗證各線路端子及其連接繞組至接地及其它繞組、測試中繞組、及各相之間之切換電壓耐壓強度。</seg>
       </tuv>
     </tu>
     <tu>
