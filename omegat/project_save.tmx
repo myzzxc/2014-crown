@@ -20735,6 +20735,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In those applications, a higher withstand voltage with respect to the highest voltage for equipment &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; can be required for this winding and woul&lt;t3/&gt;d need to be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T102009Z" creationid="CCYU" creationdate="20141108T102009Z">
+        <seg>可依製造商和買方之協議，針對設備 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 最高電壓要求較高的耐壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In transformers with a tapping range wider than ±5 %, restrictions may be specified on values of tapping voltage or tapping current which would otherwise rise considerably above the rated values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123810Z">
