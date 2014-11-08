@@ -22591,6 +22591,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liquid immersed transformers shall be tested with the same type (mineral, ester, silicone, etc.) and specification (with respect to the properties that might affect the test performance) of liquid that it will contain in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T081146Z" creationid="CCYU" creationdate="20141108T081146Z">
+        <seg>油浸式變壓器運作需以運作時同類型 (礦物油、酯、矽膠等) 與規格 (其特性可能影響測試性能) 之液體進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Liquid leaks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033322Z">
