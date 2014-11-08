@@ -6531,6 +6531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any equipment designed to collect or detect free gas produced by faults in the insulation shall be installed and monitored duri&lt;t1/&gt;ng the tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T080031Z" creationid="CCYU" creationdate="20141108T080031Z">
+        <seg>任何設計用於收集或偵測絕緣故障時所產生之自由氣體的設備應安裝並於測試中進行監測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any errors and external circuit losses should be minimized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T024153Z">
@@ -18546,6 +18554,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T132055Z">
         <seg>若基於某種原因，該設計具有不相等之抽頭級，應於投標時說明；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If free gas is detected during any test, the nature and cause of the gas shall be investigated and any further actions shall be agreed between purchaser and manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T080209Z" creationid="CCYU" creationdate="20141108T080209Z">
+        <seg>若任何測試中偵測到自由氣體，應調查氣體產生原因，進一步處理措施應由買方和製造商進行協議。</seg>
       </tuv>
     </tu>
     <tu>
