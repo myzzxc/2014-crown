@@ -6475,6 +6475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any additional requirements or tests regarding external insulation which are deemed necessary shall be sub&lt;t0/&gt;ject to agreement between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020657Z" creationid="CCYU" creationdate="20141108T020657Z">
+        <seg>針對外部絕緣之額外要求或測試由製造商和買方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional tests or calculations required to verify compliance with these specific requirements shall also be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131453Z">
@@ -18963,6 +18971,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143108Z">
         <seg>若電源線損壞，整組暖腳機必須丟棄處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the purchaser does not specify any particular requirements for external clearances then the provisions of Clause 16 shall apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020759Z" creationid="CCYU" creationdate="20141108T020759Z">
+        <seg>若買方未指定任何外部空間間隙之要求，則應使用第 16 節之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the purchaser intends to make the connections to the transformer in&lt;t1/&gt; a way which may reduce the clearances provided by the transformer alone, this should be indicated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020931Z" creationid="CCYU" creationdate="20141108T020931Z">
+        <seg>若買方連接變壓器之方式可能降低其空間間隙，應於詢價時註明。</seg>
       </tuv>
     </tu>
     <tu>
