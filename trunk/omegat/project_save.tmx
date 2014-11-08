@@ -4197,8 +4197,8 @@
       <tuv lang="EN-US">
         <seg>A paper is co&lt;t0/&gt;nsidered as thermally upgraded if it meets the life criteria of the 50 % retention in tensile strength after 65 000 h in a sealed tube at 110 °C or any other time/temperature combination given by the equation:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T134412Z" creationid="CCYU" creationdate="20141028T134412Z">
-        <seg>耐熱型絕緣紙之定義為於 110 °C 密封管中 65 000 小時或下列公式之其他時間 / 溫度組合後，其拉伸強度衰退符合 50 % 標準之紙張：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141028T134412Z">
+        <seg>耐熱型絕緣紙之定義為於 110 °C 密封管中 65 000 小時或下列公式之其它時間 / 溫度組合後，其拉伸強度衰退符合 50 % 標準之紙張：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10648,8 +10648,8 @@
       <tuv lang="EN-US">
         <seg>DISASSEMBLY, MAINTENANCE, OR REPAIR OTHER THAN IN ACCORDANCE WITH THE INSTRUCTIONS HEREIN OR OTHER SPECIFIC WRITTEN DIRECTIONS FROM MOOG WILL INVALIDATE MOOG’S OBLIGATIONS UNDER ITS WARRANTY AND YIELD THE EXPLOSION PROOF PROTECTION PERMIT NULL AND VOID.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T085946Z">
-        <seg>非依造本手冊或其他 MOOG 特定之書面指示拆解、維護或維修將使 MOOG 提供之保固失效並使防爆功失效或損壞。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z">
+        <seg>非依造本手冊或其它 MOOG 特定之書面指示拆解、維護或維修將使 MOOG 提供之保固失效並使防爆功失效或損壞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,8 +14978,8 @@
       <tuv lang="EN-US">
         <seg>For a multi-winding transformer&lt;t0/&gt;, when the rated power of one winding is equal to the sum of the rated powers of the other windings, the temperature rise requirements refer to rated power in all windings simultaneously.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112635Z" creationid="CCYU" creationdate="20141030T112635Z">
-        <seg>對於多繞組變壓器，當一繞組之額定功率等於其他繞組之額定功率總和時，溫度上升之要求同時參照所有繞組之額定功率。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141030T112635Z">
+        <seg>對於多繞組變壓器，當一繞組之額定功率等於其它繞組之額定功率總和時，溫度上升之要求同時參照所有繞組之額定功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15146,8 +15146,8 @@
       <tuv lang="EN-US">
         <seg>For categories of power transformers and reactors which have their own IEC standards, this standard is applicable only &lt;t0/&gt;to the extent in which it is specifically called up by cross reference in the other standards.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150514Z" creationid="CCYU" creationdate="20141107T150514Z">
-        <seg>對於本身具有其 IEC 標準之電力變壓器和電抗器類別，此部分只適用於引用其他標準中指明之具體範圍。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141107T150514Z">
+        <seg>對於本身具有其 IEC 標準之電力變壓器和電抗器類別，此部分只適用於引用其它標準中指明之具體範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18784,8 +18784,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If not otherwise agreed between manufacturer and purchaser, the &lt;t0/&gt;temperature rise limits given in Table 1 are valid for both Kraft and upgraded paper (see also IEC 60076-7).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114301Z" creationid="CCYU" creationdate="20141030T114301Z">
-        <seg>若製造商與買方之間無其他協議，表 1 給定之溫度上升限制適用於 Kraft 及耐熱型絕緣紙 (請見 IEC 60076-7)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141030T114301Z">
+        <seg>若製造商與買方之間無其它協議，表 1 給定之溫度上升限制適用於 Kraft 及耐熱型絕緣紙 (請見 IEC 60076-7)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19721,8 +19721,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In addition to other filters&lt;t0/&gt; that are installed in the hydraulic circuit, it is recommended that a large capacity, low pressure ß3&lt;t1/&gt;&lt;t2/&gt;75 filter be installed in the return line.&lt;t3/&gt; &lt;t4/&gt;This filter will increase the interval between filter element &lt;t5/&gt;replacement&lt;t6/&gt; and greatly reduce the system conta&lt;t7/&gt;mination level.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T105621Z">
-        <seg>當安裝其他濾芯至液壓管路時，建議大容量、低壓 ß3≥75 濾芯安裝於返回線路，此濾芯能增加濾芯元件更換時間間隔並大幅降低系統污染等級。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z">
+        <seg>當安裝其它濾芯至液壓管路時，建議大容量、低壓 ß3≥75 濾芯安裝於返回線路，此濾芯能增加濾芯元件更換時間間隔並大幅降低系統污染等級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20569,8 +20569,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In the examined cases and similar others, the consequ&lt;t0/&gt;ence is a local overheating of the conductors and of the turn insulation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130324Z" creationid="CCYU" creationdate="20141103T130324Z">
-        <seg>於檢驗之案例與其他類似案例中，結果為導體及線匝絕緣處過熱。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141103T130324Z">
+        <seg>於檢驗之案例與其它類似案例中，結果為導體及線匝絕緣處過熱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21409,8 +21409,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Install the other inlet orifice and the retainer plugs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T142513Z" creationid="Judy" creationdate="20141022T142513Z">
-        <seg>安裝其他進水孔及固定頭。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132418Z" creationid="Judy" creationdate="20141022T142513Z">
+        <seg>安裝其它進水孔及固定頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22089,8 +22089,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It is often desirable to adjust the flow null of a servo valve independent of other system parameters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
-        <seg>理想情況下應調整伺服閥流體歸零不與其他系統參數互相影響，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z">
+        <seg>理想情況下應調整伺服閥流體歸零不與其它系統參數互相影響，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26393,16 +26393,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>No liability shall attach to IEC or its directors, employees, servants or agents including &lt;t0/&gt;individual experts and members of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and expenses arising o&lt;t1/&gt;ut of the publication, use of, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115742Z" creationid="CCYU" creationdate="20141107T115742Z">
-        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其他 IEC 出版物之使用所造成之個人傷亡、財產損失或者其他任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141107T115742Z">
+        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其它 IEC 出版物之使用所造成之個人傷亡、財產損失或者其它任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and membe&lt;t0/&gt;rs of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and expenses arising out of the publication, use o&lt;t1/&gt;f, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222241Z" creationid="JUDY" creationdate="20141026T222241Z">
-        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其他 IEC 出版物之使用所造成之個人傷亡、財產損失或者其他任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132356Z" creationid="JUDY" creationdate="20141026T222241Z">
+        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其它 IEC 出版物之使用所造成之個人傷亡、財產損失或者其它任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26705,8 +26705,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Normal temperature rise limits apply unless other service conditions are specified.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T131811Z" creationid="CCYU" creationdate="20141029T131802Z">
-        <seg>除指定其他工作條件外，適用一般溫度上升限制，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141029T131802Z">
+        <seg>除指定其它工作條件外，適用一般溫度上升限制，</seg>
       </tuv>
     </tu>
     <tu>
@@ -30490,8 +30490,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Regulating windings and/or other windings having relatively low power may also have non.-directed circulation of bypass liquid.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141229Z" creationid="CCYU" creationdate="20141028T141229Z">
-        <seg>調節繞組與其他具有相對低功率之繞組也可能具有旁通液體之非定向循環。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141028T141229Z">
+        <seg>調節繞組與其它具有相對低功率之繞組也可能具有旁通液體之非定向循環。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40416,6 +40416,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test is intended to verify the impulse withstand voltage of the neutral terminal&lt;t0/&gt; and it's connected winding(s) to earth and other windings, and along the winding(s) under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132356Z" creationid="CCYU" creationdate="20141108T132356Z">
+        <seg>測試為驗證中性端子及其連接繞組至接地及其它繞組之突波耐壓The test is intended to verify the impulse withstand voltage of the neutral terminal&lt;t0/&gt; and it's connected winding(s) to earth and other windings, and along the winding(s) under test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and filled with liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104445Z">
@@ -41386,8 +41394,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Therefore, it may be that, for increased safety, higher test voltages are specified by the purchaser for the internal i&lt;t2/&gt;nsulation of the transformer than for the external insulation of other components in the system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145110Z" creationid="CCYU" creationdate="20141107T145110Z">
-        <seg>因此為了提高安全性，由買方指定之最高測試電壓適用於變壓器內部絕緣而非系統中其他元件之外部絕緣。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141107T145110Z">
+        <seg>因此為了提高安全性，由買方指定之最高測試電壓適用於變壓器內部絕緣而非系統中其它元件之外部絕緣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41810,8 +41818,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>They are intended for directional, position, velocity, pressure, or force control in hydraulic control systems that operate with mineral based &lt;t0/&gt;fluids,&lt;t1/&gt; or others upon request.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T083904Z">
-        <seg>其用於使用含礦物質流體 (或其他指定) 之液壓控制系統之方向、壓力或力之控制。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z">
+        <seg>其用於使用含礦物質流體 (或其它指定) 之液壓控制系統之方向、壓力或力之控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46003,8 +46011,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When the rated power of one winding is equal to the sum of the rated powers of the other windings, for the first part &lt;t0/&gt;of the test, a total loss shall be developed which corresponds to rated power (or tapping power) in all windings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T115128Z" creationid="Judy" creationdate="20141101T115128Z">
-        <seg>當一繞組之額定功率等於其他繞組之額定功率總和時，測試第一部分之總損耗應測定對應至所有繞組之額定功率 (或抽頭功率)，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="Judy" creationdate="20141101T115128Z">
+        <seg>當一繞組之額定功率等於其它繞組之額定功率總和時，測試第一部分之總損耗應測定對應至所有繞組之額定功率 (或抽頭功率)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50379,8 +50387,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>or in an approximate manner by not short-circuiting or closing certain windings; &lt;t0/&gt;for example if one of the windings has a relatively low rated power and low contribution to the total loss of the transformer, it may be acceptable to leave it open and raise the current in the other windings concerned until the correct total loss is obtai&lt;t1/&gt;ned.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T123957Z" creationid="CCYU" creationdate="20141101T123957Z">
-        <seg>或藉由不將特定繞組短路或閉路；例如若一繞組具有相對低額定功率且對變壓器總損耗貢獻很低，可將其維持開路並提高其他繞組電流直到達到正確之總損耗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141101T123957Z">
+        <seg>或藉由不將特定繞組短路或閉路；例如若一繞組具有相對低額定功率且對變壓器總損耗貢獻很低，可將其維持開路並提高其它繞組電流直到達到正確之總損耗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51979,8 +51987,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the liquid in contact with the windings and other transformer parts by means of which the heat produced by the losses is transferred to the ext&lt;t0/&gt;ernal cooling medium</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104728Z" creationid="MAE" creationdate="20141028T104728Z">
-        <seg>與繞組及其他變壓器零件接觸之液體，傳遞變壓器損耗所產生之熱量至外部冷媒</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="MAE" creationdate="20141028T104728Z">
+        <seg>與繞組及其它變壓器零件接觸之液體，傳遞變壓器損耗所產生之熱量至外部冷媒</seg>
       </tuv>
     </tu>
     <tu>
