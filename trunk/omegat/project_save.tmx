@@ -22431,6 +22431,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LI is the rated lightning impulse withstand voltage level for the terminal of each individual winding;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121405Z" creationid="CCYU" creationdate="20141108T121405Z">
+        <seg>LI 為各獨立繞組端子之額定雷擊突波耐壓等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCATING PIN&lt;t0/&gt; &lt;t1/&gt;PRESSURE PORT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142515Z" creationid="CCYU" creationdate="20141023T142515Z">
@@ -31520,6 +31528,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SI is the rated switching impulse withstand voltage level for the line terminals of the winding with the high&lt;t0/&gt;est &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;\</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121315Z" creationid="CCYU" creationdate="20141108T121307Z">
+        <seg>SI 為具有最高 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; 之繞組線端子的額定開關突波耐壓等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SING –</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091130Z">
@@ -36108,6 +36124,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014720Z">
         <seg>全球非接觸式溫度量測的領導者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The abbreviations here and in the examples below have the following meaning:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121133Z" creationid="CCYU" creationdate="20141108T121133Z">
+        <seg>以下為此處與下述範例中之縮寫的意義：</seg>
       </tuv>
     </tu>
     <tu>
