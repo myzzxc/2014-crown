@@ -8036,6 +8036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bushings shall be subject to separate type and routine tests according to IEC 60137 (including appropriate bushing test levels for the &lt;t0/&gt;particular transformer test level), which verify their phase-to-earth insulation, external as well as internal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T072839Z" creationid="CCYU" creationdate="20141108T072839Z">
+        <seg>絕緣套管應依據Bushings shall be subject to separate type and routine tests according to IEC 60137 (including appropriate bushing test levels for the &lt;t0/&gt;particular transformer test level), which verify their phase-to-earth insulation, external as well as internal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But the assigned values of tapp&lt;t0/&gt;ing quantities are not fully defined by this alone.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T135732Z">
