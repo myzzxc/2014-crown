@@ -20705,8 +20705,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this case, the&lt;t0/&gt; specification and the rating plate shall then carry information about the power values at which the transformer fulfils the temperature rise limits when these alternatives apply, see I EC,.60076-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T142223Z" creationid="CCYU" creationdate="20141028T142223Z">
-        <seg>此情況下，規格和額定銘板應標示當變壓器使用替代冷卻時，符合溫度上升限制之功率值資訊，請見 IEC 60076-1。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122843Z" creationid="CCYU" creationdate="20141028T142223Z">
+        <seg>此情況下，規格和額定銘牌應標示當變壓器使用替代冷卻時，符合溫度上升限制之功率值資訊，請見 IEC 60076-1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,6 +39304,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rating plate would read:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122833Z" creationid="CCYU" creationdate="20141108T122833Z">
+        <seg>額定銘牌標示為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The raw materials for the transformer should be evaluated against the following criterion:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070328Z">
@@ -44177,6 +44185,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (LV) line = 24 kV, D connected LIC not required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122813Z" creationid="CCYU" creationdate="20141108T122813Z">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (LV) 線路 = 24 kV、D 連接、LIC 無要求；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (MV) line = 72,5 kV, uniform insulation, Y connected (LIC not specified);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122725Z" creationid="CCYU" creationdate="20141108T122725Z">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (MV) 線路 = 72,5 kV、統一絕緣、Y 連接 (LIC 未指明)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>U&lt;t0/&gt;m&lt;t1/&gt; / LI / AC together with the associated values</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T110156Z" creationid="CCYU" creationdate="20141108T110156Z">
@@ -45891,8 +45915,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When' the specified temperature rise limits of a transformer have been reduced, either because of high cooling medium temperature or because of high-altitude installation, this shall be indicated on the rating plate &lt;t0/&gt;(see IEC 60076-1).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T130152Z" creationid="CCYU" creationdate="20141030T130152Z">
-        <seg>變壓器指定溫度上升限制降低時，無論是因為高冷媒溫度或安裝高度之因素，皆應標示於額定銘板上 (請見 IEC 60076-1)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122852Z" creationid="CCYU" creationdate="20141030T130152Z">
+        <seg>變壓器指定溫度上升限制降低時，無論是因為高冷媒溫度或安裝高度之因素，皆應標示於額定銘板牌上 (請見 IEC 60076-1)。</seg>
       </tuv>
     </tu>
     <tu>
