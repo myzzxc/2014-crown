@@ -40992,6 +40992,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage is inductively distributed through all windings of the transformer, line terminals are open circuit for the test and the line terminals of the tested phase e&lt;t2/&gt;xperience a voltage during the test approximately determined by the transformer turns ratio.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133723Z" creationid="CCYU" creationdate="20141108T133723Z">
+        <seg>電壓感應分佈於變壓器整組繞組上，線路端子為開路且測試相之線路端子電壓依變壓器繞匝比決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage ratio shall be measured on each tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013254Z">
