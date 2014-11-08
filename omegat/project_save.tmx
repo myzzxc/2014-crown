@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;EXAMPLE 1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122350Z" creationid="CCYU" creationdate="20141108T122350Z">
+        <seg>範例 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;FIRE-FIGHTING MEASURES</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T151153Z">
@@ -12467,6 +12475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043753Z">
         <seg>提交證據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EXAMPLE 2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122602Z" creationid="CCYU" creationdate="20141108T122602Z">
+        <seg>範例 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -43857,6 +43873,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer with a nominal rated voltage of &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV and &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV, both uniformly insulated, Y connected, the rating plate would read:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122554Z" creationid="CCYU" creationdate="20141108T122554Z">
+        <seg>變壓器名目額定電壓為 &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV 和 &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV，皆為統一絕緣、Y 連接，其額定銘板為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers &lt;t0/&gt;for cable box connection or direct connection to metal-enclosed SFg installations should be designed so that temporary connections can be made for dielectric tests, using temporary bushings, if necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T082132Z" creationid="CCYU" creationdate="20141108T082132Z">
@@ -44133,6 +44157,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095954Z">
         <seg>通常壓力以液壓或氣壓施加於儲油槽中，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (HV) line = 245 kV, Y connected (220 kV rated voltage);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122637Z" creationid="CCYU" creationdate="20141108T122637Z">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (HV) 線路 = 245 kV、Y 連接 (220 kV 額定電壓)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (HV) neutral = 52 kV;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122646Z" creationid="CCYU" creationdate="20141108T122646Z">
+        <seg>U&lt;t0/&gt;m&lt;t1/&gt; (HV) 中性 = 52 kV；</seg>
       </tuv>
     </tu>
     <tu>
