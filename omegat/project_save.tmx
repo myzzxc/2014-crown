@@ -8036,6 +8036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bushings and tap-changers are specified, designed and tested i&lt;t0/&gt;n accordance with the relevant IEC standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074819Z" creationid="CCYU" creationdate="20141108T074819Z">
+        <seg>套管和抽頭切換器依據 IEC 標準指定、設計以及測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bushings shall be subject to separate type and routine tests according to IEC 60137 (including appropriate bushing test levels for the &lt;t0/&gt;particular transformer test level), which verify their phase-to-earth insulation, external as well as internal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T073637Z" creationid="CCYU" creationdate="20141108T072839Z">
@@ -36768,6 +36776,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dielectric tests on the complete transformer constitute a check on the correct application and installation of these components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075031Z" creationid="CCYU" creationdate="20141108T075031Z">
+        <seg>完整變壓器之介電測試需檢查元件正確使用及安裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The difference between the temperature of the part under consideration and the temperature of the external cooling medium (see IEC 60076-2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T053935Z">
@@ -37956,6 +37972,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T192516Z">
         <seg>蓄熱通道主要功能為於膨脹腔體注入相時預熱氣體和於壓縮腔體注入相時預冷氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manufacturer may shield the bushing terminals if necessary during the dielectric tests&lt;t0/&gt; but any shielding of the earthed parts closest to the terminals shall form part of the transformer structure in-service except for shielding required only during partial discharge measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074538Z" creationid="CCYU" creationdate="20141108T074538Z">
+        <seg>若有需要時，製造商可能於介電測試期間屏蔽套管端子，但除局部放電量測所需之屏蔽外，任何接近端子接地元件之屏蔽應與變壓器運作時相同。</seg>
       </tuv>
     </tu>
     <tu>
