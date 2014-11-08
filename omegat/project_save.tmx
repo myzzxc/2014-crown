@@ -22439,6 +22439,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LIC is the rated lightning impulse withstand voltage level for the line terminals of each individual winding if a chopped wave lightning impulse &lt;t0/&gt;test was performed;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121622Z" creationid="CCYU" creationdate="20141108T121613Z">
+        <seg>LIC 為若有進行截波雷擊測試時，各獨立繞組線路端子之額定雷擊突波耐壓等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LOCATING PIN&lt;t0/&gt; &lt;t1/&gt;PRESSURE PORT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142515Z" creationid="CCYU" creationdate="20141023T142515Z">
