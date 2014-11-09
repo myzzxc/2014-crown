@@ -43208,6 +43208,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This test verifies that the transformer can &lt;t0/&gt;withstand the internal voltage rises that may occur if two or more terminals are subjected to a lightning impulse simultaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T082432Z" creationid="Judy" creationdate="20141109T082432Z">
+        <seg>此測試驗證當變壓器能承受兩組以上之端子同時施加雷擊突波時可能產生之內部電壓上升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This test verifies the insulation of the auxiliary wiring of the transformer that is not connected to the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T082003Z" creationid="Judy" creationdate="20141109T082003Z">
