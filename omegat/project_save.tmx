@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7391,6 +7391,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130324Z" creationid="CCYU" creationdate="20141105T130324Z">
         <seg>輔助變數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auxiliary wiring insulation test (AuxW), &lt;t0/&gt;see Claus&lt;t1/&gt;e 9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T025130Z" creationid="Judy" creationdate="20141109T025130Z">
+        <seg>輔助配線絕緣測試 (AuxW)，&lt;t0/&gt;請見第 9 節</seg>
       </tuv>
     </tu>
     <tu>
@@ -21051,6 +21059,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124742Z">
         <seg>室內或室外型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Induced voltage test with PD measur&lt;t0/&gt;ement (IVPD), &lt;t1/&gt;see 11.3</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024751Z" creationid="Judy" creationdate="20141109T024751Z">
+        <seg>感應電壓測試及局部放電量測 (IVPD)，&lt;t1/&gt;請見 11.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -40568,6 +40584,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test voltage is applied in the same way as the voltage that the transformer will experience in ser&lt;t0/&gt;vice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024946Z" creationid="Judy" creationdate="20141109T024946Z">
+        <seg>測試電壓與變壓器操作電壓相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test voltage shall be adjusted according to a voltmeter responsive to the mean value of voltage but scaled to read the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055445Z">
@@ -43156,6 +43180,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100550Z">
         <seg>此測試適用於買方於現場使用自家真空槽之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test is intended to verify that the transformer will be free of harmful partial discharges under normal operating conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024912Z" creationid="Judy" creationdate="20141109T024912Z">
+        <seg>此測試目的為驗證正常運作條件下，變壓器不因局部放電而受損。</seg>
       </tuv>
     </tu>
     <tu>
