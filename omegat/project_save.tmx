@@ -39608,6 +39608,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The required tests are summarised in Table 1 and speci&lt;t3/&gt;fic requirements are given in 7.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T120358Z" creationid="Judy" creationdate="20141109T120358Z">
+        <seg>表 1 列出了要求之測試而特定要求收錄於 7.3 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The required winding connection shall be specified by the user in accordance with the terminology given in Clause 7 to suit the application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140204Z">
