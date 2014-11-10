@@ -36136,6 +36136,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test sequence</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142738Z" creationid="CCYU" creationdate="20141110T142738Z">
+        <seg>測試順序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test voltage levels</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165238Z" creationid="Judy" creationdate="20141109T165238Z">
@@ -41040,6 +41048,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tests shall be performed in the sequence given below:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142838Z" creationid="CCYU" creationdate="20141110T142838Z">
+        <seg>測試應依照以下順序進行：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The text of this standard is based on the following documents:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140649Z">
@@ -42356,6 +42372,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134531Z">
         <seg>這些油漬與油泥非常難以去除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These values are not given in IEC 60071-1:2011 for the particular Value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; but are included because they represent existing practice in some parts of the world.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142552Z" creationid="CCYU" creationdate="20141110T142552Z">
+        <seg>該數值未針對特定 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值列於 IEC 60071-1:2011 中，但因為其能代表某些地區之常用實務值因而收錄於此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48470,6 +48494,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165206Z" creationid="Judy" creationdate="20141109T165206Z">
         <seg>b&lt;t0/&gt; 此變壓器類別中之 LTAC 測試經製造商與買方協議後可由開關突波測試代替。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b&lt;t0/&gt; these values require special consideration, refer to IEC 60071-1:2011</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142653Z" creationid="CCYU" creationdate="20141110T142653Z">
+        <seg>b&lt;t0/&gt; 該數值需特別考慮，請參照 IEC 60071-1:2011</seg>
       </tuv>
     </tu>
     <tu>
