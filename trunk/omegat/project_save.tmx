@@ -5939,6 +5939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An induced voltage withstand test shall be performed according to the method given in 11.2 with a (phase to earth) test voltage of &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/Jz&lt;t5/&gt; &lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151055Z" creationid="CCYU" creationdate="20141110T151055Z">
+        <seg>感應電壓測試應依照 11.2 所列之方法並使用 (相對地) 測試電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 進行&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An institution established by the Federal and &lt;t0/&gt;Laender&lt;t1/&gt; Governments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T145057Z">
