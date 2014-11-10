@@ -4277,8 +4277,8 @@
       <tuv lang="EN-US">
         <seg>A shorter duration at the PD measurement voltage may be agreed between manufacturer and purchaser, a duration of 5 min is &lt;t0/&gt;recommended.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152623Z" creationid="CCYU" creationdate="20141110T152623Z">
-        <seg>製造商和買方之間達成協議。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152958Z" creationid="CCYU" creationdate="20141110T152623Z">
+        <seg>製造商和買方之間可協議使施加局部放電量測電壓的時間較短，建議時間為 5 分鐘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,6 +9305,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134906Z" creationid="CCYU" creationdate="20141110T134906Z">
         <seg>截波雷擊突波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chopped wave lightning impulse test (LIC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T153005Z" creationid="CCYU" creationdate="20141110T153005Z">
+        <seg>截波雷擊突波測試 (LIC)</seg>
       </tuv>
     </tu>
     <tu>
