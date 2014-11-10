@@ -19631,6 +19631,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If, under special circumstances, the minimum levels given in Table &lt;t0/&gt;2&lt;t1/&gt; are considered too high by the purchaser then the values in Table 3 may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T124116Z" creationid="CCYU" creationdate="20141110T124116Z">
+        <seg>若於特殊情況下，買方認定表  2 所列之最低水準過高時，可使用表 3 之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ii&lt;t0/&gt; &lt;t1/&gt;represents the &lt;t2/&gt;r.m.s&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111902Z">
