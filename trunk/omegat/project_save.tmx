@@ -15370,8 +15370,8 @@
       <tuv lang="EN-US">
         <seg>For ex&lt;t1/&gt;ample a winding with a &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; &lt; 1,1 KV might be tested at the values appropriate to a winding with a &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; of 3,6 kV.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T133123Z" creationid="CCYU" creationdate="20141110T133123Z">
-        <seg>例如繞組之 &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; &lt; 1,1 KV 可使用might be tested at the values appropriate to a winding with a &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; of 3,6 kV.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T133213Z" creationid="CCYU" creationdate="20141110T133123Z">
+        <seg>例如 &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; &lt; 1,1 KV 之繞組可使用 &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; of 3,6 kV 繞組之測試數值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -40372,6 +40372,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T131532Z">
         <seg>特別檢查人員必須於施工現場驗證施工人員所安裝之各種類型及尺寸之錨固黏著，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specific voltage-time characteristic of the overvoltage is an important consideration when deciding the type and level of the test required t&lt;t8/&gt;o assure satisfactory operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T133358Z" creationid="CCYU" creationdate="20141110T133358Z">
+        <seg>過電壓之特定電壓-時間特性為決定滿足操作需求之測試型式和等級的重要因素。</seg>
       </tuv>
     </tu>
     <tu>
