@@ -20423,6 +20423,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular an enhancement voltage of &lt;t5/&gt;{Jz xU&lt;t6/&gt;m&lt;t7/&gt;)/J$&lt;t8/&gt; and a PD measurement voltage of &lt;t9/&gt;(i,5xU&lt;t10/&gt;m&lt;t11/&gt;)/S&lt;t12/&gt; may be used if &lt;t13/&gt;higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152418Z" creationid="CCYU" creationdate="20141110T152418Z">
+        <seg>若需較高電壓可使用特定加強電壓 &lt;t5/&gt;(2 x U&lt;t6/&gt;m&lt;t7/&gt;)/ √3&lt;t8/&gt; 和局部放電量測電壓 &lt;t9/&gt;(1,5 x U&lt;t10/&gt;m&lt;t11/&gt;) / √3&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular bushings shall comply with IEC 60137, tap-changers shall comply with IEC 60214-1, and insulating liquid shall comply with IEC 60296 for mineral oil or as agreed for other liquids.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130459Z">
