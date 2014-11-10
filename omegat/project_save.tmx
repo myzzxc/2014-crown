@@ -6747,6 +6747,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applied voltage or&lt;t0/&gt; line terminal AC withstand</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T135810Z" creationid="CCYU" creationdate="20141110T135810Z">
+        <seg>施加電壓或線路端子交流耐壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applied voltage test (AV)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165040Z" creationid="Judy" creationdate="20141109T165040Z">
