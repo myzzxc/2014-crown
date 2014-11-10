@@ -16369,6 +16369,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further information is contained in IEEE 057.142:2010 and CIGRE&lt;t1/&gt; report 12-14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134756Z" creationid="CCYU" creationdate="20141110T134756Z">
+        <seg>詳細資訊收錄於 IEEE 057.142:2010 和 CIGRE&lt;t1/&gt; 報告 12-14 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further information:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z">
@@ -20079,6 +20087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In certain cases increasing the insulation level might not be sufficient and other methods such as the installation of a snubber circuit could be considered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134716Z" creationid="CCYU" creationdate="20141110T134716Z">
+        <seg>在某些情況下提高絕緣等級可能不足夠，可考慮其它方法如安裝緩衝電路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In clear gas:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140253Z">
@@ -20307,6 +20323,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130459Z">
         <seg>其中襯套應符合 IEC 60137、抽頭開關應符合 IEC 60214-1 以及和礦物油或作為商定的其他液體絕緣液體須符合 IEC 60296。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular, failures have been reported at &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV and below where the transformer is energised/de-energised by a vacuum type circuit breaker from the remote end of a cable because a resonant condition might exist causing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134526Z" creationid="CCYU" creationdate="20141110T134526Z">
+        <seg>其中當 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV 或更低時，變壓器由遠端電纜以真空型斷路器通電 / 斷電有發生故障之紀錄，因為可能產生共振條件導致再觸發及重複暫態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51518,6 +51542,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134154Z">
         <seg>額定值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>re-ig&lt;t0/&gt;nitions and repetitive transients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134555Z" creationid="CCYU" creationdate="20141110T134555Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
