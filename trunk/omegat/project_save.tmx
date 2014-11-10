@@ -41328,6 +41328,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The values in Table 3 may only be used if special precautions have been taken to avoid overvoltage conditions beyond the capability of the transformer and either extensive st&lt;t2/&gt;udies have been completed or the values used represent proven existing practice applicable to the installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T125341Z" creationid="CCYU" creationdate="20141110T125341Z">
+        <seg>表 3 所列之數值僅用於需特別注意以避免過電壓條件超出變壓器之負荷，以及經過詳細研究或使用之數值經實證適用於安裝時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The values of average temperature of the two windings are determined from the &lt;t0/&gt;resistance variations, and in addition by taking into account the liquid temperature decrease when the current is reduced to the rated value, as well as the variation of the external cooling medium temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090551Z" creationid="Judy" creationdate="20141101T090036Z">
