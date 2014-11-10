@@ -21263,6 +21263,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Induced &lt;t0/&gt;voltage withstand test (IVW)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143858Z" creationid="CCYU" creationdate="20141110T143858Z">
+        <seg>感應電壓耐壓測試 (IVW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Induced voltage test with PD measur&lt;t0/&gt;ement (IVPD), &lt;t1/&gt;see 11.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024751Z" creationid="Judy" creationdate="20141109T024751Z">
@@ -26307,6 +26315,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153615Z">
         <seg>註 此數字無意義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 72,5 kV are expected to have uniform winding insulation to satisfy this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143856Z" creationid="CCYU" creationdate="20141110T143856Z">
+        <seg>註 變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 72,5 kV 應有統一繞組絕緣以滿足此測試。</seg>
       </tuv>
     </tu>
     <tu>
