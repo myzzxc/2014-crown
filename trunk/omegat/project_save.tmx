@@ -5941,8 +5941,8 @@
       <tuv lang="EN-US">
         <seg>An induced voltage withstand test shall be performed according to the method given in 11.2 with a (phase to earth) test voltage of &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/Jz&lt;t5/&gt; &lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151055Z" creationid="CCYU" creationdate="20141110T151055Z">
-        <seg>感應電壓測試應依照 11.2 所列之方法並使用 (相對地) 測試電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 進行&gt;</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151314Z" creationid="CCYU" creationdate="20141110T151055Z">
+        <seg>感應電壓測試應依照 11.2 所列之方法並使用 (相對地) 測試電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18754,6 +18754,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155552Z" creationid="CCYU" creationdate="20141104T155542Z">
         <seg>若製造商與買方之間達成協議，可不考慮第一次量測結果而重複程序以驗證上述外插結果，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If agreed by the purchaser this test may</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151351Z" creationid="CCYU" creationdate="20141110T151343Z">
+        <seg>買方同意則此項測試可由</seg>
       </tuv>
     </tu>
     <tu>
