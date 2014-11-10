@@ -26271,6 +26271,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE This is a comprehensive list, not all these tests will be &lt;t0/&gt;applicable to a particular transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143141Z" creationid="CCYU" creationdate="20141110T143141Z">
+        <seg>註 以上為全面性的清單，並非所有測試皆適用於特定變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE This numbering is arbitrary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153615Z">
@@ -48337,6 +48345,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied voltage test (AV);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142930Z" creationid="CCYU" creationdate="20141110T142930Z">
+        <seg>施加電壓測試 (AV)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>arks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z">
@@ -50274,6 +50290,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>induced voltage test with partial discharge measurement (IVPD).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143035Z" creationid="CCYU" creationdate="20141110T143035Z">
+        <seg>感應電壓測試及局部放電量測 (IVPD)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>induced voltage withstand test (IVW);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143016Z" creationid="CCYU" creationdate="20141110T143016Z">
+        <seg>感應電壓耐壓測試 (IVW)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>informative annexes have been added on facilities for condition monitoring and</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140544Z">
@@ -50554,10 +50586,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>lightning impulse tests (LI, LIC, LIN, LIMT);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142859Z" creationid="CCYU" creationdate="20141110T142859Z">
+        <seg>雷擊突波測試 (LI, LIC, LIN, LIMT)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>line terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143806Z">
         <seg>線端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>line terminal AC withstand test (LTAC);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143002Z" creationid="CCYU" creationdate="20141110T143002Z">
+        <seg>線端子交流耐壓測試 (LTAC)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -52214,6 +52262,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165224Z" creationid="Judy" creationdate="20141109T165224Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>switching impulse (SI);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142912Z" creationid="CCYU" creationdate="20141110T142912Z">
+        <seg>開關突波 (SI)；</seg>
       </tuv>
     </tu>
     <tu>
