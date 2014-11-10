@@ -35128,6 +35128,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3 - Test voltage level&lt;t0/&gt;s used in special cases</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142426Z" creationid="CCYU" creationdate="20141110T142426Z">
+        <seg>表 3 - 特殊情況之測試電壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045630Z">
@@ -42348,6 +42356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134531Z">
         <seg>這些油漬與油泥非常難以去除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These values are not given in IEC 60071-1:2011 for the particular value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; but are included either because they represent common practice in some parts of the world or for some switching impulse levels, because they represent a co-ordinated value for a particular value of lightning impulse level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142346Z" creationid="CCYU" creationdate="20141110T142346Z">
+        <seg>該數值未針對特定 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值列於 IEC 60071-1:2011 中，但因為其能代表某些地區之常用實務值或某些開關突波等級、代表特定雷擊突波等級值之協調值，因而收錄於此。</seg>
       </tuv>
     </tu>
     <tu>
