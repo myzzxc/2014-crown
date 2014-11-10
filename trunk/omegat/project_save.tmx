@@ -25903,6 +25903,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Certain installation conditions, particularly where energisation of the transformer is from the remote end of a cable or a long overhead li&lt;t0/&gt;ne, can lead to severe exposure to overvoltages which might be frequent and repetitive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T125752Z" creationid="CCYU" creationdate="20141110T125752Z">
+        <seg>註 特定安裝條件下，特別是變壓器由遠端電纜或長架空線路通電時，可能經常造成嚴重過電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Contact between the liquid and external air may sometimes be diminished or prevented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142828Z">
