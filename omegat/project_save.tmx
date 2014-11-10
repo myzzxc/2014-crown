@@ -5867,6 +5867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An applied voltage test sh&lt;t0/&gt;all be performed according to the method given in Clause 10 on each separate winding of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143720Z" creationid="CCYU" creationdate="20141110T143720Z">
+        <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An environment not exposed to seismic disturbance which would require special consideration in the design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105845Z">
@@ -36128,6 +36136,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test requirements for specific transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143516Z" creationid="CCYU" creationdate="20141110T143516Z">
+        <seg>特定變壓器之測試規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test result evaluation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T052925Z">
@@ -36176,6 +36192,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test voltages are given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143734Z" creationid="CCYU" creationdate="20141110T143734Z">
+        <seg>測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tested colors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065339Z">
@@ -36188,6 +36212,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090324Z">
         <seg>測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests for transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;,&lt;t3/&gt; &lt;t4/&gt;72,5 &lt;t5/&gt;kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143611Z" creationid="CCYU" creationdate="20141110T143611Z">
+        <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; &lt;t4/&gt;72,5 &lt;t5/&gt;kV 之測試</seg>
       </tuv>
     </tu>
     <tu>
