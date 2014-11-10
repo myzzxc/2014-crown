@@ -4275,6 +4275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shorter duration at the PD measurement voltage may be agreed between manufacturer and purchaser, a duration of 5 min is &lt;t0/&gt;recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152623Z" creationid="CCYU" creationdate="20141110T152623Z">
+        <seg>製造商和買方之間達成協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A single-phase autotransformer designed for a 400 kV HV and a 130 kV intermediate&lt;t0/&gt; v&lt;t1/&gt;oltage with 22 kV tertiary windings all in phase</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015030Z">
@@ -18806,6 +18814,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an enhancement voltage level of &lt;t0/&gt;(2xU&lt;t1/&gt;r&lt;t2/&gt;)/4z&lt;t3/&gt; &lt;t4/&gt;is used this test can substitute for the routine induced voltage withstand test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152559Z" creationid="CCYU" creationdate="20141110T152559Z">
+        <seg>當使用之加強電壓為 &lt;t0/&gt;(2 x U&lt;t1/&gt;r&lt;t2/&gt;) / √3&lt;t3/&gt; &lt;t4/&gt;時，此項測試可替代例行感應電壓耐壓測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any other special conditions apply during transportation, they shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161832Z">
@@ -20505,8 +20521,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In principle, the admissible limits should be agreed between manufacturer and purchaser.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145258Z" creationid="CCYU" creationdate="20141105T145258Z">
-        <seg>原則上，容許限制值應由應制造商和買方之間達成協議。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152705Z" creationid="CCYU" creationdate="20141105T145258Z">
+        <seg>原則上，容許限制值應由應製造商和買方之間達成協議。</seg>
       </tuv>
     </tu>
     <tu>
