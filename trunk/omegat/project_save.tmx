@@ -19030,6 +19030,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not otherwise specified the type of test is LI.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121721Z" creationid="CCYU" creationdate="20141111T121721Z">
+        <seg>若無另行指定則測試類型為 LI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not otherwise specified, the two extreme taps shall be the ratios to match.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131005Z">
@@ -19136,8 +19144,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If specified by the purchaser a full wave lightning impulse test shall be carried out on the neutral terminal according to the method given in 13.1 and 13.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121146Z" creationid="CCYU" creationdate="20141111T121146Z">
-        <seg>若買方指定應於中性端子上進行全波雷擊突波測試，應根據 13.1 和 13.3 所示之方法。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121642Z" creationid="CCYU" creationdate="20141111T121146Z">
+        <seg>若買方指定應於中性端子上進行全波雷擊突波測試，應根據 13.1 和 13.4 所示之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser an additional lightning impulse test on two or more terminals connected together shall be performed according to the method gi&lt;t0/&gt;ven in 13.1 with the test connections given in 13.1.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121638Z" creationid="CCYU" creationdate="20141111T121638Z">
+        <seg>若買方指定於相連接之兩組 (含) 以上端子進行額外雷擊突波測試，應根據 13.1 所示之方法和 13.1.4.3 所示之測試連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36380,6 +36396,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152157Z">
         <seg>加載抽頭開關測試，如適用 (11.7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests on transformers with 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 170 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121749Z" creationid="CCYU" creationdate="20141111T121749Z">
+        <seg>變壓器 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 170 kV 測試</seg>
       </tuv>
     </tu>
     <tu>
