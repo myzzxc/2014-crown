@@ -4003,6 +4003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A chopped wave lightning impulse test shall be &lt;t0/&gt;carried out on the line terminals using the method given in Clause 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145440Z" creationid="CCYU" creationdate="20141111T145440Z">
+        <seg>截波雷擊突波測試應依照第 13 節所列之方法於線路端子上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A combined load loss figure for the complete transformer is referred to a specified winding load combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041006Z">
@@ -4319,6 +4327,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090811Z">
         <seg>可能大規模洩漏並使生產停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A switching impulse test using the method given in Clause 14 shall be performed on the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145503Z" creationid="CCYU" creationdate="20141111T145458Z">
+        <seg>開關突波測試應根據第 14 節所示之方法於線路端子上進行，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +5926,14 @@
         <seg>An applied voltage test sh&lt;t0/&gt;all be performed according to the method given in Clause 10 on each separate winding of the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143720Z" creationid="CCYU" creationdate="20141110T143720Z">
+        <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An applied voltage test shall be performed in accordance with the method given in Clause 10 on each separate winding of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145516Z" creationid="CCYU" creationdate="20141111T145516Z">
         <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
       </tuv>
     </tu>
@@ -19200,8 +19224,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If specified by the purchaser a full wave lightning impulse test shall be carried out on the neutral terminal according to the method given in 13.1 and 13.4.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121642Z" creationid="CCYU" creationdate="20141111T121146Z">
-        <seg>若買方指定應於中性端子上進行全波雷擊突波測試，應根據 13.1 和 13.4 所示之方法。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145300Z" creationid="CCYU" creationdate="20141111T121146Z">
+        <seg>若買方指定全波雷擊突波測試，應根據 13.1 和 13.4 所示之方法於中性端子上進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19218,6 +19242,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144247Z" creationid="CCYU" creationdate="20141111T144247Z">
         <seg>若買方指定開關突波測試，應根據第 14 節所示之方法於線路端子上進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser an additional lightning impulse test on two or more terminals connected together shall be performed according to the meth&lt;t0/&gt;od given in 13.1 with the test connections given in 13.1.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145325Z" creationid="CCYU" creationdate="20141111T145325Z">
+        <seg>若買方指定於相連接之兩組 (含) 以上端子進行額外雷擊突波測試，應根據 13.1 所示之方法和 13.1.4.3 所示之測試連接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34928,6 +34960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switching impulse test (SI)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145443Z" creationid="CCYU" creationdate="20141111T145443Z">
+        <seg>開關突波 (SI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switching impulse test &lt;t0/&gt;(SI)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144122Z" creationid="CCYU" creationdate="20141111T144122Z">
@@ -36488,6 +36528,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test voltages are given in Table 2 for transformers with uniform insulati&lt;t0/&gt;on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145525Z" creationid="CCYU" creationdate="20141111T145525Z">
+        <seg>統一絕緣之變壓器測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test voltages are given in Table 2 for transformers with uniform insulation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T141923Z" creationid="CCYU" creationdate="20141111T141923Z">
@@ -36524,6 +36572,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143611Z" creationid="CCYU" creationdate="20141110T143611Z">
         <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; &lt;t4/&gt;72,5 &lt;t5/&gt;kV 之測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests on Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 170 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145405Z" creationid="CCYU" creationdate="20141111T145335Z">
+        <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 170 kV 之測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -41400,6 +41456,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test voltage i&lt;t0/&gt;s given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145506Z" creationid="CCYU" creationdate="20141111T145506Z">
+        <seg>測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test voltage is applied in the same way as the voltage that the transformer will experience in ser&lt;t0/&gt;vice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024946Z" creationid="Judy" creationdate="20141109T024946Z">
@@ -43748,6 +43812,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162013Z">
         <seg>這可能包括與絕緣液體同時運輸之限制或運輸過程中預期有與運作不同之環境條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This normally applies if the neutral is not directly co&lt;t0/&gt;nnected to earth in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145312Z" creationid="CCYU" creationdate="20141111T145312Z">
+        <seg>此測試一般適用於中性端子於運作時未直接接地的情況下。</seg>
       </tuv>
     </tu>
     <tu>
