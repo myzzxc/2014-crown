@@ -17555,6 +17555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Higher test levels may be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152900Z" creationid="CCYU" creationdate="20141111T152900Z">
+        <seg>可指定較高的測試電壓等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highest Voltage for equipment winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134840Z" creationid="CCYU" creationdate="20141110T134840Z">
@@ -19587,6 +19595,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142621Z">
         <seg>若有星形連接或交錯連接之中性點，應分別以 YN (yn) 或 ZN (zn) 表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the neutral terminal is to be permanently connected to earth in service, either directly or through a current transformer, but w&lt;t0/&gt;ithout any intentionally added impedance in the connection then the applied voltage test voltage shall be at least 38 kV (&lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; &gt; 17,5 kV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152833Z" creationid="CCYU" creationdate="20141111T152833Z">
+        <seg>若中性端子於運作時透過變流器或直接永久接地但連接中無增加阻抗，則測試施加電壓依至少 38 kV 以上 (&lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; &gt; 17,5 kV)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26903,6 +26919,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neutral terminal not directly earthed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153016Z" creationid="CCYU" creationdate="20141111T153016Z">
+        <seg>中性端子未直接接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never give anything by mouth to an unconscious person.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T090710Z">
@@ -27123,6 +27147,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T130103Z">
         <seg>No hazardous decomposition products known. 無已知危害性分解產物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No impulse test on the neutral terminal is recommended but it may be specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152951Z" creationid="CCYU" creationdate="20141111T152951Z">
+        <seg>中性端子無建議之突波測試，但可另行指定。</seg>
       </tuv>
     </tu>
     <tu>
