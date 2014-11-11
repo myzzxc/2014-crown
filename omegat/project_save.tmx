@@ -5971,6 +5971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An induced voltage withstand test shall be performed according to the method given in 11.2 with a (phase to earth) test voltage of (&lt;t0/&gt;2&lt;t1/&gt;xu&lt;t2/&gt;r&lt;t3/&gt;)/4z ■&lt;t4/&gt; If agreed by the purchaser this test may</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143057Z" creationid="CCYU" creationdate="20141111T143057Z">
+        <seg>感應電壓測試應依照 11.2 所列之方法並使用 (相對地) 測試電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An induced voltage withstand test shall be performed according to the method given in 11.2 with a (phase to earth) test voltage of &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/Jz&lt;t5/&gt; &lt;t6/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151314Z" creationid="CCYU" creationdate="20141110T151055Z">
@@ -16185,6 +16193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with non-uniform insulation the test shall be carried out at the test voltage for the neutral terminal see 7.4.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143033Z" creationid="CCYU" creationdate="20141111T143033Z">
+        <seg>非統一絕緣之變壓器測試應依照 7.4.2 所示之測試電壓於中性端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with tappings exceeding a voltage variation of 5 % from the principal tapping, impedance values shall be measured for the principal tapping and the extreme tapping(s) exceeding 5 %.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022455Z">
@@ -21439,6 +21455,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Induced voltage withstand test (IVW&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143036Z" creationid="CCYU" creationdate="20141111T143036Z">
+        <seg>感應電壓耐壓測試 (IVW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Industrial type petroleum base hydraulic fluid, maintained to ISO DIS 4406 Code 14/11 recommended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T140135Z" creationid="CCYU" creationdate="20141023T140135Z">
@@ -23219,6 +23243,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134418Z" creationid="CCYU" creationdate="20141108T134418Z">
         <seg>線路端子交流耐壓測試 (LTAC)，&lt;t0/&gt;請見第 12 節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line terminal AC withstand voltage test for non-uniformly insulated transformers (LTAC)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143234Z" creationid="CCYU" creationdate="20141111T143234Z">
+        <seg>非統一絕緣變壓器之線路端子交流耐壓測試 (LTAC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48782,6 +48814,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121750Z" creationid="CCYU" creationdate="20141104T121750Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>be substituted by an IVPD test with an enhancement voltage &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/^z&lt;t5/&gt; ,&lt;t6/&gt; see e) below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143208Z" creationid="CCYU" creationdate="20141111T143208Z">
+        <seg>買方同意則此項測試可由局部放電量測 (IVPD) 測試以加強電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt; x U&lt;t3/&gt;r&lt;t4/&gt;)/√3&lt;t5/&gt; 取代，請見以下 e)。</seg>
       </tuv>
     </tu>
     <tu>
