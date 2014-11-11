@@ -22311,6 +22311,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulation of auxiliary wiring (AuxW)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160444Z" creationid="CCYU" creationdate="20141111T160444Z">
+        <seg>輔助配線絕緣 (AuxW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inte&lt;t4/&gt;rnational, governmental and non-&lt;t5/&gt;governmental organizations liaising with the IEC also participate in this preparation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T130053Z">
@@ -40090,8 +40098,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The partial discharge criteria ma&lt;t5/&gt;y need to be modified depending on the circumstances of the test and this shall be subject to agreement.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160337Z" creationid="CCYU" creationdate="20141111T160337Z">
-        <seg>局部放電準則可能需依測試環境修改，應由雙方協議&gt;</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160409Z" creationid="CCYU" creationdate="20141111T160337Z">
+        <seg>局部放電準則由雙方協議後，可能需依測試環境修改。</seg>
       </tuv>
     </tu>
     <tu>
