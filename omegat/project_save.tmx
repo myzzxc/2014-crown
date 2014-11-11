@@ -36402,8 +36402,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Tests on transformers with 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 170 kV</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121749Z" creationid="CCYU" creationdate="20141111T121749Z">
-        <seg>變壓器 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 170 kV 測試</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121840Z" creationid="CCYU" creationdate="20141111T121749Z">
+        <seg>72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 170 kV 之變壓器測試</seg>
       </tuv>
     </tu>
     <tu>
