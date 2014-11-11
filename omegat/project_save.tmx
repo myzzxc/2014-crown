@@ -4347,6 +4347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A test shall be carried out &lt;t0/&gt;according to the method given in 11.3, with and enhancement (phase to earth) voltage level of (i,&lt;t1/&gt;8&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/V&lt;t5/&gt;3&lt;t6/&gt; and a PD measurement voltage of (i,58xL/&lt;t7/&gt;r&lt;t8/&gt;)&lt;t9/&gt;/&lt;t10/&gt;A/i\ Alternative higher voltage levels may be used if specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143824Z" creationid="CCYU" creationdate="20141111T143824Z">
+        <seg>若買方指定，測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(&lt;t1/&gt;1,8&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 以及局部放電量測電壓 &lt;t0/&gt;(1,58 &lt;t1/&gt; x U&lt;t2/&gt;r&lt;t3/&gt;)/√3 進行。若買方指定則可另外使用較高的電壓等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-dimensional compressible CFD code has been developed to study the heat transfer characteristics of a twin-power piston &lt;t0/&gt;γ-type&lt;t1/&gt; Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T203951Z">
