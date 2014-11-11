@@ -19134,6 +19134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If specified by the purchaser a full wave lightning impulse test shall be carried out on the neutral terminal according to the method given in 13.1 and 13.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121146Z" creationid="CCYU" creationdate="20141111T121146Z">
+        <seg>若買方指定應於中性端子上進行全波雷擊突波測試，應根據 13.1 和 13.3 所示之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If specified by the purchaser the full wave lightning impulse test shall be substituted by a chopped wave lightning impulse test according to the method given in 13.1 and 13.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T120419Z" creationid="CCYU" creationdate="20141111T120419Z">
@@ -23115,6 +23123,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165251Z" creationid="Judy" creationdate="20141109T165251Z">
         <seg>依據繞組之設備最高電壓決定之標準測試電壓等級如表 2 所示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning impul&lt;t0/&gt;se test on the neutral terminal (LIN)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121047Z" creationid="CCYU" creationdate="20141111T121047Z">
+        <seg>中性端子雷擊突波測試 (LIN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38100,6 +38116,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075234Z" creationid="CCYU" creationdate="20141102T075234Z">
         <seg>表 3 列出根據變壓器類型及冷卻系統適用之指數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extension of the &lt;t0/&gt;lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of &lt;t1/&gt;liquid to SF&lt;t2/&gt;6&lt;t3/&gt; bushings or when the transformer is protected by rod gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121025Z" creationid="CCYU" creationdate="20141111T121025Z">
+        <seg>包含截斷尾端突波之延伸雷擊突波測試為特殊測試，建議用於以液體對 SF&lt;t2/&gt;6&lt;t3/&gt; 套管直接連接至 GIS 之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
