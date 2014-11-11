@@ -4091,6 +4091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A full wave lightning impulse test shall be &lt;t0/&gt;carried out on the line terminals using the method given in Clause 13 Test voltages are given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T141544Z" creationid="CCYU" creationdate="20141111T141544Z">
+        <seg>全波雷擊突波測試應依照第 13 節所列之方法於線路端子上進行，測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A full wave lightning impulse test shall be carried out on the line terminals using the method given in 13.1 and 13.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151736Z" creationid="CCYU" creationdate="20141110T151724Z">
