@@ -7275,6 +7275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigning &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;t3/&gt;and test voltages to the neutral terminal of a winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151908Z" creationid="CCYU" creationdate="20141111T151908Z">
+        <seg>繞組中性端子之指定 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 和測試電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152717Z" creationid="CCYU" creationdate="20141105T152717Z">
@@ -39720,6 +39728,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The neutral shall &lt;t0/&gt;be tested at the applied voltage test level for the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152137Z" creationid="CCYU" creationdate="20141111T152137Z">
+        <seg>中性點應以線路端子之施加電壓等級進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The no load losses shall not be corrected for any effect of temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064551Z">
@@ -45277,6 +45293,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090449Z">
         <seg>變壓器須按照以下規範進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; £&lt;t3/&gt; 72,5 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151941Z" creationid="CCYU" creationdate="20141111T151941Z">
+        <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV</seg>
       </tuv>
     </tu>
     <tu>
