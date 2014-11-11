@@ -38274,8 +38274,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The extension of the &lt;t0/&gt;lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of &lt;t1/&gt;liquid to SF&lt;t2/&gt;6&lt;t3/&gt; bushings or when the transformer is protected by rod gaps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121025Z" creationid="CCYU" creationdate="20141111T121025Z">
-        <seg>包含截斷尾端突波之延伸雷擊突波測試為特殊測試，建議用於以液體對 SF&lt;t2/&gt;6&lt;t3/&gt; 套管直接連接至 GIS 之變壓器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144933Z" creationid="CCYU" creationdate="20141111T121025Z">
+        <seg>當變壓器以液體對 SF&lt;t2/&gt;6&lt;t3/&gt; 套管直接連接至 GIS 或當變壓器由柱形間隙保護時，建議以包含截斷尾端突波之延伸雷擊突波測試作為特殊測試。</seg>
       </tuv>
     </tu>
     <tu>
