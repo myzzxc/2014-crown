@@ -19222,6 +19222,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If specified by the purchaser the full wave lightning impulse test shall be substituted by a chopped wave lightning impulse test according to the method given in 13.1 &lt;t0/&gt;and 13.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144531Z" creationid="CCYU" creationdate="20141111T144531Z">
+        <seg>若買方指定由截波雷擊突波測試取代全波雷擊突波測試，應根據 13.1 和 13.3 所示之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If specified by the purchaser the full wave lightning impulse test shall be substituted by a chopped wave lightning impulse test according to the method given in 13.1 and 13.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T120419Z" creationid="CCYU" creationdate="20141111T120419Z">
@@ -19811,6 +19819,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112933Z" creationid="CCYU" creationdate="20141030T112933Z">
         <seg>若非此情況，需選定一組或多組特定負載組合並指明溫度上升限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this test is carried out, then the Line Terminal AC Withstand Test (LTAC) may&lt;t0/&gt; be omitted by agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144407Z" creationid="CCYU" creationdate="20141111T144341Z">
+        <seg>若已進行此項測試，可依製造商和買方之間協議省略線端子交流耐壓測試 (LTAC)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38260,6 +38276,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121025Z" creationid="CCYU" creationdate="20141111T121025Z">
         <seg>包含截斷尾端突波之延伸雷擊突波測試為特殊測試，建議用於以液體對 SF&lt;t2/&gt;6&lt;t3/&gt; 套管直接連接至 GIS 之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extension of the lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of liquid to SF&lt;t0/&gt;6&lt;t1/&gt; bushings or when the transformer is protect&lt;t2/&gt;ed by rod gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144603Z" creationid="CCYU" creationdate="20141111T144603Z">
+        <seg>包含截斷尾端突波之延伸雷擊突波測試為特殊測試，建議用於以液體對 SF&lt;t0/&gt;6&lt;t1/&gt; 套管直接連接至 GIS 之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
