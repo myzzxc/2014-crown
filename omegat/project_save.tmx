@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;1,5&lt;t1/&gt;x i7&lt;t2/&gt;m&lt;t3/&gt;)/V3^ may be used if higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151057Z" creationid="CCYU" creationdate="20141111T151057Z">
+        <seg>(1,5 x U&lt;t2/&gt;m&lt;t3/&gt;) / √3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;Brookfield&lt;t1/&gt;; &lt;t2/&gt;Instrument&lt;t3/&gt;: &lt;t4/&gt;RVT&lt;t5/&gt;; &lt;t6/&gt;20 °C (68 °F)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092954Z">
@@ -20627,6 +20635,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144056Z" creationid="CCYU" creationdate="20141111T144056Z">
         <seg>若需較高電壓可使用特定加強電壓 &lt;t13/&gt;(√3 x &lt;t14/&gt;U&lt;t15/&gt;m&lt;t16/&gt;)/ √3 和局部放電量測電壓 (&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;1,5 x U&lt;t20/&gt;m&lt;t21/&gt;) / √3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular an enhancement voltage of (V3xU&lt;t9/&gt;m&lt;t10/&gt;)/V3 an&lt;t11/&gt;d a one hour PD measurement voltage of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151010Z" creationid="CCYU" creationdate="20141111T151010Z">
+        <seg>若需較高電壓可使用特定加強電壓 (√3 x U&lt;t9/&gt;m&lt;t10/&gt;)/ √3 和一小時之局部放電量測電壓 </seg>
       </tuv>
     </tu>
     <tu>
