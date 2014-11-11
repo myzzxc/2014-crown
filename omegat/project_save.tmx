@@ -16265,6 +16265,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For windings with non-uniform insulation this test shall be performed at the test level given for the applied voltage test applicable to the line termina&lt;t0/&gt;l in Table 2 using the method given in Clause 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143528Z" creationid="CCYU" creationdate="20141111T143528Z">
+        <seg>非統一絕緣變壓器之測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For windings without vertical spacers between disks or turns (e.g., barrel windings or similar), the sensors should be placed between turns inside a suitable pressboard strip.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151928Z" creationid="CCYU" creationdate="20141106T151928Z">
@@ -43948,6 +43956,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024912Z" creationid="Judy" creationdate="20141109T024912Z">
         <seg>此測試目的為驗證正常運作條件下，變壓器不因局部放電而受損。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test may be omitted if a switching impulse test is performed by agreement between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143640Z" creationid="CCYU" creationdate="20141111T143640Z">
+        <seg>若已進行開關突波測試，此項測試可依製造商和買方之間協議省略。</seg>
       </tuv>
     </tu>
     <tu>
