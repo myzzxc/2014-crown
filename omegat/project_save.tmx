@@ -37184,6 +37184,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IVPD test shall be performed at 100 % of the original test voltage level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160112Z" creationid="CCYU" creationdate="20141111T160112Z">
+        <seg>IVPD 測試應使用 100 % 之原始測試電壓水準進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The International &lt;t0/&gt;Electrotechnical&lt;t1/&gt; Commission (IEC) is a worldwide organization for standardization comprising all national &lt;t2/&gt;electrotechnical&lt;t3/&gt; committees (&lt;t4/&gt;IEC&lt;t5/&gt; National Committees).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T130746Z">
@@ -40076,6 +40084,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T232027Z">
         <seg>多孔介質參數為：&lt;t24/&gt;ε&lt;t25/&gt;=0.9 和 &lt;t26/&gt;d&lt;t27/&gt;p&lt;t28/&gt;=&lt;t29/&gt;1.0×10&lt;t30/&gt;-4&lt;t31/&gt; m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The partial discharge criteria ma&lt;t5/&gt;y need to be modified depending on the circumstances of the test and this shall be subject to agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160337Z" creationid="CCYU" creationdate="20141111T160337Z">
+        <seg>局部放電準則可能需依測試環境修改，應由雙方協議&gt;</seg>
       </tuv>
     </tu>
     <tu>
