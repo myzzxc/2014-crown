@@ -11638,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directly earthed neutral terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152400Z" creationid="CCYU" creationdate="20141111T152400Z">
+        <seg>中性端子直接接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard the used filter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141925Z" creationid="Judy" creationdate="20141022T141925Z">
@@ -18794,6 +18802,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140304Z">
         <seg>若需要三角連接之穩定繞組，買方應指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a lightning impulse test on the neutral terminal is specified then the test level shall be given in the enquiry and order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152233Z" creationid="CCYU" creationdate="20141111T152233Z">
+        <seg>若指定於中性端子進行雷擊突波測試，應於詢價和訂購時說明測試等級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26691,6 +26707,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143856Z" creationid="CCYU" creationdate="20141110T143856Z">
         <seg>註 變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 72,5 kV 應有統一繞組絕緣以滿足此測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;&lt;t3/&gt; 72,5 kV need to be designed with u&lt;t4/&gt;niform winding insulation to satisfy the test requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152344Z" creationid="CCYU" creationdate="20141111T152344Z">
+        <seg>註 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV 之變壓器應設計統一繞組絕緣以滿足此測試規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45293,6 +45317,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090449Z">
         <seg>變壓器須按照以下規範進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152352Z" creationid="CCYU" creationdate="20141111T152352Z">
+        <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV</seg>
       </tuv>
     </tu>
     <tu>
