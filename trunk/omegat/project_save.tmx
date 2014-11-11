@@ -18878,6 +18878,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an enhancement voltage level of &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/^&lt;t5/&gt; is used this test can substitute for the routine induced voltage withstand test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144105Z" creationid="CCYU" creationdate="20141111T144105Z">
+        <seg>當使用之加強電壓為 &lt;t0/&gt;(2 x U&lt;t1/&gt;r&lt;t2/&gt;) / √3&lt;t3/&gt; &lt;t4/&gt;時，此項測試可替代例行感應電壓耐壓測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any other special conditions apply during transportation, they shall be stated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161832Z">
@@ -19194,6 +19202,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121642Z" creationid="CCYU" creationdate="20141111T121146Z">
         <seg>若買方指定應於中性端子上進行全波雷擊突波測試，應根據 13.1 和 13.4 所示之方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser a switching impulse test using the method given in Clause 14 shall be performed on the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144247Z" creationid="CCYU" creationdate="20141111T144247Z">
+        <seg>若買方指定開關突波測試，應根據第 14 節所示之方法於線路端子上進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20523,6 +20539,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T132656Z">
         <seg>為了促進國際上統一，IEC 國家委員會盡最大努力使 IEC 出版物適用於其國家和區域性的出版物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular an enhancem&lt;t11/&gt;ent voltage of (ViT&lt;t12/&gt;xU&lt;t13/&gt;m&lt;t14/&gt;)/4z&lt;t15/&gt; and a PD measurement voltage of (&lt;t16/&gt;1&lt;t17/&gt;,&lt;t18/&gt;5&lt;t19/&gt;xU&lt;t20/&gt;m&lt;t21/&gt;)/4z&lt;t22/&gt; may be used if higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144056Z" creationid="CCYU" creationdate="20141111T144056Z">
+        <seg>若需較高電壓可使用特定加強電壓 &lt;t13/&gt;(√3 x &lt;t14/&gt;U&lt;t15/&gt;m&lt;t16/&gt;)/ √3 和局部放電量測電壓 (&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;1,5 x U&lt;t20/&gt;m&lt;t21/&gt;) / √3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34864,6 +34888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switching impulse test &lt;t0/&gt;(SI)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144122Z" creationid="CCYU" creationdate="20141111T144122Z">
+        <seg>開關突波 (SI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switching impulse test for the line terminal (SI)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165034Z" creationid="Judy" creationdate="20141109T165034Z">
@@ -41324,6 +41356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024946Z" creationid="Judy" creationdate="20141109T024946Z">
         <seg>測試電壓與變壓器操作電壓相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test voltage is given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144254Z" creationid="CCYU" creationdate="20141111T144254Z">
+        <seg>測試電壓列於表 2 中。</seg>
       </tuv>
     </tu>
     <tu>
