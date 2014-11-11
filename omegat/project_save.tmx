@@ -6819,6 +6819,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any transformer that is repaired to restore its functionality (for exam&lt;t0/&gt;ple after a breakdown following many years in service) but is still to be regarded as compliant with this standard shall be subject to the tests described in this standard necessary to verify the repair at a test voltage of between 80 % and 100 % of the or&lt;t1/&gt;iginal test voltage level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T155112Z" creationid="CCYU" creationdate="20141111T155112Z">
+        <seg>任何變壓Any transformer that is repaired to restore its functionality (for exam&lt;t0/&gt;ple after a breakdown following many years in service) but is still to be regarded as compliant with this standard shall be subject to the tests described in this standard necessary to verify the repair at a test voltage of between 80 % and 100 % of the or&lt;t1/&gt;iginal test voltage level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any transformer that is to be regarded as complying with this standard in the same way as a new transformer (for example following a warranty repair or complete rewind and refurbishment intended to restore the transformer to the 'as new’ condi&lt;t0/&gt;tion) shall be subject to all the routine tests required by this standard for the transformer at &lt;t1/&gt;100&lt;t2/&gt; % of the required test voltage level after the repair or refurbishment is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T155117Z" creationid="CCYU" creationdate="20141111T155037Z">
+        <seg>所有視為符合本標準之變壓器，應使用與全新變壓器之相同方式 (例如經過保固維修或完整翻修以回復變壓器至“全新”狀態)，於變壓器維修或翻新完成後以 100 % 之測試電壓等級進行所有本標準要求之例行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z">
