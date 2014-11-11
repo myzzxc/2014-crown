@@ -16275,8 +16275,8 @@
       <tuv lang="EN-US">
         <seg>For windings with non-uniform insulation this test shall be performed at the test level given for the applied voltage test applicable to the line termina&lt;t0/&gt;l in Table 2 using the method given in Clause 12.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143528Z" creationid="CCYU" creationdate="20141111T143528Z">
-        <seg>非統一絕緣變壓器之測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145127Z" creationid="CCYU" creationdate="20141111T143528Z">
+        <seg>對於非統一絕緣變壓器，此項測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19206,6 +19206,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If specified by the purchaser a full wave lightning impulse test shall be carried out on the neutral terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145232Z" creationid="CCYU" creationdate="20141111T145232Z">
+        <seg>若買方指定全波雷擊突波測試，應於中性端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If specified by the purchaser a switching impulse test using the method given in Clause 14 shall be performed on the line terminals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144247Z" creationid="CCYU" creationdate="20141111T144247Z">
@@ -19218,6 +19226,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121638Z" creationid="CCYU" creationdate="20141111T121638Z">
         <seg>若買方指定於相連接之兩組 (含) 以上端子進行額外雷擊突波測試，應根據 13.1 所示之方法和 13.1.4.3 所示之測試連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser for windings with uniform insulation, this test shall be performed at the test level given for the applied voltage test applicable to the line terminal in Table 2 &lt;t0/&gt;using the method given in Clause 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145112Z" creationid="CCYU" creationdate="20141111T145112Z">
+        <seg>入買方指定統一絕緣變壓器，此項測測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23259,6 +23275,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132109Z" creationid="CCYU" creationdate="20141108T132109Z">
         <seg>中性端子雷擊突波測試 (LIN)，&lt;t0/&gt;請見 13.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning impulse test on the neutral terminal (LIN)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145133Z" creationid="CCYU" creationdate="20141111T145133Z">
+        <seg>中性端子雷擊突波測試 (LIN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38282,8 +38306,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The extension of the lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of liquid to SF&lt;t0/&gt;6&lt;t1/&gt; bushings or when the transformer is protect&lt;t2/&gt;ed by rod gaps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144603Z" creationid="CCYU" creationdate="20141111T144603Z">
-        <seg>包含截斷尾端突波之延伸雷擊突波測試為特殊測試，建議用於以液體對 SF&lt;t0/&gt;6&lt;t1/&gt; 套管直接連接至 GIS 之變壓器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145011Z" creationid="CCYU" creationdate="20141111T144603Z">
+        <seg>當變壓器以液體對 SF&lt;t0/&gt;6&lt;t1/&gt; 套管直接連接至 GIS 或當變壓器由柱形間隙保護時，建議以包含截斷尾端突波之延伸雷擊突波測試作為特殊測試。</seg>
       </tuv>
     </tu>
     <tu>
