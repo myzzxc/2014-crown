@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125657Z" creationid="CCYU" creationdate="20141112T125657Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>; &lt;t0/&gt;Spindle&lt;t1/&gt; &lt;t2/&gt;No&lt;t3/&gt;: &lt;t4/&gt;4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093103Z">
@@ -2770,6 +2778,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093018Z">
         <seg>; &lt;t0/&gt;speed of rotation&lt;t1/&gt; 轉速 : &lt;t2/&gt;20 min-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125648Z" creationid="CCYU" creationdate="20141112T125648Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -21519,6 +21535,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In transformers where windings having different &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; values are connected together within the transformer (usually auto-transformers), the test voltages shall be determined by the insulation of the common neutral and its assigned &lt;t3/&gt;U&lt;t4/&gt;m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125606Z" creationid="CCYU" creationdate="20141112T125606Z">
+        <seg>具有不同 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值之繞組同時連接於變壓器之中 (通常為自耦變壓器)，其測試電壓應由共同中性端子之絕緣及其指定 &lt;t3/&gt;U&lt;t4/&gt;m 值決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In transformers with a tapping range wider than ±5 %, restrictions may be specified on values of tapping voltage or tapping current which would otherwise rise considerably above the rated values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123810Z">
@@ -21731,6 +21755,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151755Z" creationid="CCYU" creationdate="20141110T151755Z">
         <seg>感應電壓測試及局部放電量測 (IVPD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Induced voltage tests (IVW and IVPD)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125645Z" creationid="CCYU" creationdate="20141112T125645Z">
+        <seg>感應電壓測試 (IVW 和 IVPD)</seg>
       </tuv>
     </tu>
     <tu>
