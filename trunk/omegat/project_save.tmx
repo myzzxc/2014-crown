@@ -16689,6 +16689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with tappings, the test shall be c&lt;t0/&gt;arried out with the transformer &lt;t1/&gt;on principal&lt;t2/&gt; &lt;t3/&gt;tap unless otherwise specifi&lt;t4/&gt;ed or agreed by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141331Z" creationid="CCYU" creationdate="20141112T141331Z">
+        <seg>具有抽頭之變壓器，除另行指定或買方同意之外，應於變壓器使用主抽頭狀態下進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z">
