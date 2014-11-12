@@ -19535,6 +19535,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the current transformer knee-point &lt;t1/&gt;voltage exceeds 2 kV AC the test shall be performed at 4 kV AC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T053301Z" creationid="MAE" creationdate="20141112T053301Z">
+        <seg>若變流器拐點電壓超過 2 kV 交流，則應以 4 kV 交流電進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the delta winding is not brought out to three line terminals but only provided as a stabilizing winding, the symbol would indicate this by a plus sign.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144438Z">
@@ -41676,6 +41684,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052349Z" creationid="MAE" creationdate="20141112T052349Z">
         <seg>應由製造商於工廠進行測試，除非製造商將於現場安裝變壓器時，可於現場進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test shall be carried out at the manufacturer’s works.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T053021Z" creationid="MAE" creationdate="20141112T053021Z">
+        <seg>應由製造商於工廠進行測試，</seg>
       </tuv>
     </tu>
     <tu>
