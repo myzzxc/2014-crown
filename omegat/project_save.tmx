@@ -12791,6 +12791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the test, the test voltage&lt;t0/&gt; &lt;t1/&gt;appropriate to a winding without voltage variation shall appear&lt;t2/&gt; &lt;t3/&gt;at the terminals of that winding&lt;t4/&gt; &lt;t5/&gt;so that the voltages between turns and between phases will</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T134832Z" creationid="CCYU" creationdate="20141112T134832Z">
+        <seg>測試期間，施加至繞組之測試電壓於端子處應無電壓變化，使得匝間和各相間之測試電壓和額定電壓具有相同的比率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the test, voltage appears at one or m&lt;t0/&gt;ore of the line terminals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134546Z" creationid="CCYU" creationdate="20141108T134546Z">
@@ -35888,6 +35896,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suitable precautions can be required to take account of this&lt;t6/&gt; &lt;t7/&gt;possibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T134454Z" creationid="CCYU" creationdate="20141112T134454Z">
+        <seg>應考量此可能性並採取適當的預防措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suitable&lt;t0/&gt;                 &lt;t1/&gt; : Not suitable&lt;t2/&gt;              &lt;t3/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T012711Z">
@@ -43516,6 +43532,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013254Z">
         <seg>應量測每繞組之電壓比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall either be&lt;t0/&gt; &lt;t1/&gt;measured on the highest voltage terminals, or if this is not practical the voltage shall be measured at the terminals of the transformer connected to the supply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T135027Z" creationid="CCYU" creationdate="20141112T135027Z">
+        <seg>應量測最高電壓端子之電壓，或於當無法量測最高電壓端子時，量測變壓器連接至電源之端子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52174,6 +52198,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023043Z" creationid="MAE" creationdate="20141029T023043Z">
         <seg>多年間特定月份之每日最高溫和最低溫平均值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>have the same ratio between test voltage and rated voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T134833Z" creationid="CCYU" creationdate="20141112T134833Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
