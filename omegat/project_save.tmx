@@ -1352,8 +1352,9 @@
       <tuv lang="EN-US">
         <seg>120 x &lt;t0/&gt;ra&lt;t1/&gt;*&lt;t2/&gt;ec&lt;t3/&gt;* frequency&lt;t4/&gt; ^ ^ &lt;t5/&gt;not&lt;t6/&gt; |&lt;t7/&gt;ess&lt;t8/&gt; ^&lt;t9/&gt;an&lt;t10/&gt; &lt;t11/&gt;15&lt;t12/&gt; &lt;t13/&gt;s&lt;t14/&gt; f&lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;u&lt;t18/&gt;m&lt;t19/&gt; &lt; 800 kV test frequency</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153630Z" creationid="CCYU" creationdate="20141112T153630Z">
-        <seg>120 x 額定頻率，&lt;t17/&gt;U&lt;t18/&gt;m&lt;t19/&gt; ≤ 800 kV 時不低於 15 秒 測試頻率</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153721Z" creationid="CCYU" creationdate="20141112T153630Z">
+        <seg>120 x 額定頻率，&lt;t17/&gt;U&lt;t18/&gt;m&lt;t19/&gt; ≤ 800 kV 時不低於 15 秒 
+測試頻率</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2203,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174352Z">
         <seg>60-90 g/l (乾重)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>600 x &lt;t0/&gt;ra&lt;t1/&gt;*&lt;t2/&gt;ec&lt;t3/&gt;*&lt;t4/&gt;frequency&lt;t5/&gt; , but not less than 75 s for &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; &gt;&lt;t9/&gt; 800 kV test frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153718Z" creationid="CCYU" creationdate="20141112T153718Z">
+        <seg>600 x 額定頻率，&lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; &gt; 800 kV 時不低於 75 秒 
+測試頻率</seg>
       </tuv>
     </tu>
     <tu>
@@ -39288,6 +39298,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The duration of the test, except for the enhancement level, shall be independent of the test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153831Z" creationid="CCYU" creationdate="20141112T153831Z">
+        <seg>除加強電壓等級外，測試時間應和測試頻率無關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The easiest solution is to convert them over to using mats and &lt;t4/&gt;spillows&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124350Z">
@@ -42860,6 +42878,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124150Z" creationid="CCYU" creationdate="20141112T124150Z">
         <seg>若無電壓崩潰發生則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test sequence shall be as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153840Z" creationid="CCYU" creationdate="20141112T153840Z">
+        <seg>測試順序如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52166,6 +52192,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123805Z">
         <seg>多孔介質產生之力分量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153833Z" creationid="CCYU" creationdate="20141112T153833Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
