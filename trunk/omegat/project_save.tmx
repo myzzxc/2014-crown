@@ -6715,6 +6715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any additional requirements or tests regarding external insulation which are deemed necessary shall be subject to agreement between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132233Z" creationid="CCYU" creationdate="20141112T132233Z">
+        <seg>針對外部絕緣之額外要求或測試由製造商和買方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional te&lt;t0/&gt;sts above the requirements of this standard and the test voltage levels shall be specified by the purchaser at the time of enquiry and order since they may affect the transformer design (see Annex C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164831Z" creationid="Judy" creationdate="20141109T164831Z">
@@ -6774,6 +6782,14 @@
         <seg>Any equipment designed to collect or detect free gas produced by faults in the insulation shall be installed and monitored duri&lt;t1/&gt;ng the tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T080031Z" creationid="CCYU" creationdate="20141108T080031Z">
+        <seg>任何設計用於收集或偵測絕緣故障時所產生之自由氣體的設備應安裝並於測試中進行監測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any equipment designed to collect or detect free gas produced by faults in the insulation shall be installed and monitored during the tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132312Z" creationid="CCYU" creationdate="20141112T132312Z">
         <seg>任何設計用於收集或偵測絕緣故障時所產生之自由氣體的設備應安裝並於測試中進行監測。</seg>
       </tuv>
     </tu>
@@ -8396,9 +8412,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bushings and tap-changers are specified, designed and tested in accordance with the relevant IEC standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132252Z" creationid="CCYU" creationdate="20141112T132252Z">
+        <seg>套管和抽頭切換器依據 IEC 標準指定、設計以及測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bushings shall be subject to separate type and routine tests according to IEC 60137 (including appropriate bushing test levels for the &lt;t0/&gt;particular transformer test level), which verify their phase-to-earth insulation, external as well as internal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T073637Z" creationid="CCYU" creationdate="20141108T072839Z">
+        <seg>絕緣套管應依據 IEC 60137 對個別類型進行例行測試 (包含對特定變壓器測試等級之合適套管測試等級)，以確認其相與地線絕緣、外部與內部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bushings shall be subject to separate type and routine tests according to IEC 60137 (including appropriate bushing test levels for the particular transformer test level), which verify their phase-to-earth insulation, external as well as internal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132243Z" creationid="CCYU" creationdate="20141112T132243Z">
         <seg>絕緣套管應依據 IEC 60137 對個別類型進行例行測試 (包含對特定變壓器測試等級之合適套管測試等級)，以確認其相與地線絕緣、外部與內部絕緣。</seg>
       </tuv>
     </tu>
@@ -8431,6 +8463,14 @@
         <seg>By agreement between manufacturer and purchaser, th&lt;t1/&gt;e service liquid to SFg bushings may be replaced by appropriate liquid to air bushings for test, in this case the design of the end of the bushing inside the transformer including the positions of the live parts and the clearances of the substitute bushing&lt;t2/&gt;s inside the transformer shall be the same (within the normal variation of dimensions of the bushing associated with manufacturing tolerances) as those of the in-service bushings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T083050Z" creationid="CCYU" creationdate="20141108T083050Z">
+        <seg>依製造商和買方之間協議，SF6 套管之工作液體可使用適當之液體至空氣套管替代進行測試，此情況下變壓器內部套管末端包含活動元件與替代套管之空間間隙 (套管製造公差之正常變化範圍內) 之設計應與實際運作之套管相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By agreement between manufacturer and purchaser, the service liquid to SFg bushings may be replaced by appropriate liquid to air bushings for test, in this case the design of the end of the bushing inside the transformer including the positions of the live parts and the clearances of the substitute bushings inside the transformer shall be the same (within the normal variation of dimensions of the bushing associated with manufacturing tolerances) as those of the in-service bushings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132327Z" creationid="CCYU" creationdate="20141112T132327Z">
         <seg>依製造商和買方之間協議，SF6 套管之工作液體可使用適當之液體至空氣套管替代進行測試，此情況下變壓器內部套管末端包含活動元件與替代套管之空間間隙 (套管製造公差之正常變化範圍內) 之設計應與實際運作之套管相同。</seg>
       </tuv>
     </tu>
@@ -16129,6 +16169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purposes of this document, the terms and definitions given in IEC 60076-1, IEC 60050- 421 and the following apply.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132147Z" creationid="CCYU" creationdate="20141112T132147Z">
+        <seg>本文件中使用下列以及 IEC 60076-1、IEC 60050-421 中給定之專有名詞與定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the range 4,500 psi &lt; f &lt;t5/&gt;´&lt;t6/&gt;c &lt;t7/&gt; 6,500 psi may be increased by 6% and range 6,500 psi &lt; f &lt;t8/&gt;´&lt;t9/&gt;c &lt;t10/&gt; 8,000 psi tabulated characteristic bond strength may be increased by 10%.&lt;t11/&gt;2&lt;t12/&gt;Characteristic bond strengths are for sustained loads including dead and live loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021439Z">
@@ -19158,6 +19206,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any terminals of the transformer are to be left open when the transformer is energised in service then consideration needs to be given to the possibility of a transferred voltage occurring on the open terminals, see Annex B. During the lightning impulse tests all non-tested line and neutral terminals are normally connected to earth, see Clause 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132332Z" creationid="CCYU" creationdate="20141112T132332Z">
+        <seg>當變壓器通電運轉時有任何端子保持開放，則應注意任何開放端子上傳輸電壓的可能性，請見附錄 B。雷擊測試期間，所有非測試線路及中性端子通常接地，請見第 13 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If considered necessary, a temperature rise limit for the magnetic core surfa&lt;t1/&gt;ce may be agreed between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115535Z" creationid="CCYU" creationdate="20141030T115535Z">
@@ -19811,6 +19867,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020759Z" creationid="CCYU" creationdate="20141108T020759Z">
         <seg>若買方未指定任何外部空間間隙之要求，則應使用第 16 節之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the purchaser intends to make the connections to the transformer in a way which may reduce the clearances provided by the transformer alone, this should be indicated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132238Z" creationid="CCYU" creationdate="20141112T132238Z">
+        <seg>若買方連接變壓器之方式可能降低其空間間隙，應於詢價時註明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21242,6 +21306,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>In the case of tap-changers which according to IEC 60214-1 are not subjected &lt;t1/&gt;to dielectric routine tests at the tap-changer manufacturer’s works &lt;t2/&gt;then the tests performed according to this standard also serve as the only dielectric tests routinely performed on this component.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075354Z" creationid="CCYU" creationdate="20141108T075354Z">
+        <seg>當依據 IEC 60214-1 之抽頭切換器未於製造工廠進行例行介電測試時，則依本標準所進行之測試也作為本元件唯一進行之例行介電測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of tap-changers which according to IEC 60214-1 are not subjected to dielectric routine tests at the tap-changer manufacturer’s works &lt;t0/&gt;then the tests performed according to this standard also serve as the only dielectric tests routinely performed on this component.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132307Z" creationid="CCYU" creationdate="20141112T132307Z">
         <seg>當依據 IEC 60214-1 之抽頭切換器未於製造工廠進行例行介電測試時，則依本標準所進行之測試也作為本元件唯一進行之例行介電測試。</seg>
       </tuv>
     </tu>
@@ -22903,6 +22975,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is normally assumed that the insulating liquid or gas is not circulated during the tests and coolers do not need to be assembled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132311Z" creationid="CCYU" creationdate="20141112T132311Z">
+        <seg>通常假設測試期間絕緣液體或氣體不循環且冷卻器無須組裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is normally expressed as a percentage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045208Z">
@@ -22994,6 +23074,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>It may then be neces&lt;t0/&gt;sary to select bushings designed for higher insulation levels than otherwise required for operation at lower altitudes, see Clause 16 of this standard and IEC 60137.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074116Z" creationid="CCYU" creationdate="20141108T074116Z">
+        <seg>可能需選用相對低海拔操作所需較高絕緣等級之套管，請見本標準第 16 節和 IEC 60137。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It may then be necessary to select bushings designed for higher insulation levels than otherwise required for operation at lower altitudes, see Clause 16 of this standard and IEC 60137.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132246Z" creationid="CCYU" creationdate="20141112T132246Z">
         <seg>可能需選用相對低海拔操作所需較高絕緣等級之套管，請見本標準第 16 節和 IEC 60137。</seg>
       </tuv>
     </tu>
@@ -25775,6 +25863,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 External overvoltage protection devices such as surge arresters do not need to be assembled and bushing spark gaps can be removed or their spacing increased to avoid operation during the tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132314Z" creationid="CCYU" creationdate="20141112T132314Z">
+        <seg>註 1 外部過電壓保護裝置如避雷器等無須組裝，可移除套管點火間隙或增加其間隙使其於測試期間不運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 For a three-phase transformer, the value is the arithmetic mean of the values of current in the three lines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035511Z">
@@ -26135,6 +26231,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 It is common practice for larger transformers for oil samples to be taken for dissolved gas analysis before and after dielectric tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132316Z" creationid="CCYU" creationdate="20141112T132316Z">
+        <seg>註 2 介電測試前後溶解氣體分析之油樣品，實務上通常於較大型之變壓器中採集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Passive elements are not liable to cause electromagnetic disturbances and their performance is not liable to be affected by such disturbances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132315Z">
@@ -26378,6 +26482,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>NOTE 3 So&lt;t0/&gt;me purchasers can require that the insulating liquid be circulated on OD cooled transformers during an IVPD test to detect the possibility of static electrification, but this is a very specific requirement and is not covered by this standard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T081619Z" creationid="CCYU" creationdate="20141108T081619Z">
+        <seg>註 3 某些買方可能要求於 IVPD 測試中以絕緣液體於 OD 冷卻變壓器中循環以檢測靜電放電之可能性，但此為非常特殊之要求且本標準中未涵蓋此部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 Some purchasers can require that the insulating liquid be circulated on OD cooled transformers during an IVPD test to detect the possibility of static electrification, but this is a very specific requirement and is not covered by this standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132321Z" creationid="CCYU" creationdate="20141112T132321Z">
         <seg>註 3 某些買方可能要求於 IVPD 測試中以絕緣液體於 OD 冷卻變壓器中循環以檢測靜電放電之可能性，但此為非常特殊之要求且本標準中未涵蓋此部份。</seg>
       </tuv>
     </tu>
@@ -27959,6 +28071,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note 2 to entry: For single-phase transformers intended to be connected in star to form a three-phase bank or to be connected between the line and the neutral of a three phase system, the rated voltage is indicated as the phase-to-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132209Z" creationid="CCYU" creationdate="20141112T132209Z">
+        <seg>註 2 ：單相變壓器以星形 (Y) 連接形成三相組合或連接三相系統之火線與中性線時，額定電壓為相間 (phase-to-phase) 電壓除以 √3，例如 400/√3 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note 3 to entry: For single &lt;t0/&gt;phase transformers intended to be connected between phases of a network, the rated voltage is indicated as the phase-to-phase voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013449Z" creationid="CCYU" creationdate="20141108T013442Z">
@@ -27967,9 +28087,25 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note 3 to entry: For single phase transformers intended to be connected between phases of a network, the rated voltage is indicated as the phase-to-phase voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132216Z" creationid="CCYU" creationdate="20141112T132216Z">
+        <seg>註 3 ：單相變壓器連接至線路各相時，額定電壓為相間電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note 4 to entry: For the series winding of a three-phase series transformer, which is designed as an open winding, the ra&lt;t0/&gt;ted voltage is indicated as if the windings were connected in star.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013505Z" creationid="CCYU" creationdate="20141108T013446Z">
+        <seg>註 4 ：三相串聯變壓器之串聯繞組設計為開放繞組，額定電壓為與星形 (Y) 連接相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note 4 to entry: For the series winding of a three-phase series transformer, which is designed as an open winding, the rated voltage is indicated as if the windings were connected in star.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132217Z" creationid="CCYU" creationdate="20141112T132217Z">
         <seg>註 4 ：三相串聯變壓器之串聯繞組設計為開放繞組，額定電壓為與星形 (Y) 連接相同。</seg>
       </tuv>
     </tu>
@@ -33652,6 +33788,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T095123Z" creationid="CCYU" creationdate="20141108T095123Z">
         <seg>串聯繞組 (例，存在於自耦變壓器和相位移變壓器) 中當額定電壓低於系統之額定電壓時，應指定連接之繞組中最高電壓系統之額定電壓為&lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; 值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Series windings (for example found in autotransformers and phase shifting transformers) where the rated voltage of the winding is less than the rated voltage of the system, shall be assigned a value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; corresponding to the rated voltage of the highest voltage system to which the winding is connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132424Z" creationid="CCYU" creationdate="20141112T132424Z">
+        <seg>串聯繞組 (例，存在於自耦變壓器和相位移變壓器) 中當額定電壓低於系統之額定電壓時，應指定連接之繞組中最高電壓系統之額定電壓為 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39536,6 +39680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The insulation requirements for power transformers and the corresponding insulation tests are given with reference to specific windings and their terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132227Z" creationid="CCYU" creationdate="20141112T132227Z">
+        <seg>本文收錄電力變壓器中特定繞組及其端子之絕緣要求與對應之絕緣測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The integration of heat-input and heat-output rates (&lt;t0/&gt;Q&lt;t1/&gt;in&lt;t2/&gt; and &lt;t3/&gt;Q&lt;t4/&gt;out&lt;t5/&gt;) in one engine cycle is the same as that in [23] and will not be repeated here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T085334Z">
@@ -39748,6 +39900,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T192516Z">
         <seg>蓄熱通道主要功能為於膨脹腔體注入相時預熱氣體和於壓縮腔體注入相時預冷氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The manufacturer may shield the bushing terminals if necessary during the dielectric tests but any shielding of the earthed parts closest to the terminals shall form part of the transformer structure in-service except for shielding required only during partial discharge measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132251Z" creationid="CCYU" creationdate="20141112T132251Z">
+        <seg>若有需要時，製造商可能於介電測試期間屏蔽套管端子，但除局部放電量測所需之屏蔽外，任何接近端子接地元件之屏蔽應與變壓器運作時相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40404,6 +40564,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122402Z">
         <seg>永久變形量為此量測值與第一次量測值的差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The phase-to-phase value determines the choice of &lt;t4/&gt;U&lt;t5/&gt; in this case, consequently, &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; = 420 kV (see also IEC 60076-1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132452Z" creationid="CCYU" creationdate="20141112T132452Z">
+        <seg>此處相對相值決定 &lt;t4/&gt;U&lt;t5/&gt;m 之選擇，因此 &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; = 420 kV (請見 IEC 60076-1)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41144,6 +41312,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rules for dielectric testing depend on the value .of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;.&lt;t3/&gt; When rules about tests for different windings in a transformer are in conflict, the rule for the winding with the highest &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; value shall apply for the whole transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132413Z" creationid="CCYU" creationdate="20141112T132413Z">
+        <seg>介電測試規則取決於  &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值。當測試變壓器中不同繞組之規則衝突時，整組變壓器應使用具有最高 &lt;t3/&gt;&lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt;值之繞組規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The same con&lt;t0/&gt;vention as in Figure 2 applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152256Z">
@@ -41731,6 +41907,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The temperature of the insulation system shall not be les&lt;t0/&gt;s than 10 °C during the tests, but temperatures higher than those given in IEC 60076-1 may be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075515Z" creationid="CCYU" creationdate="20141108T075510Z">
+        <seg>測試中絕緣系統之溫度不應低於 10 °C，應符合 IEC 60076-1 所列之溫度值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temperature of the insulation system shall not be less than 10 °C during the tests, but temperatures higher than those given in IEC 60076-1 may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132309Z" creationid="CCYU" creationdate="20141112T132309Z">
         <seg>測試中絕緣系統之溫度不應低於 10 °C，應符合 IEC 60076-1 所列之溫度值。</seg>
       </tuv>
     </tu>
@@ -45785,6 +45969,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformers for cable box connection or direct connection to metal-enclosed SFg installations should be designed so that temporary connections can be made for dielectric tests, using temporary bushings, if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132324Z" creationid="CCYU" creationdate="20141112T132324Z">
+        <seg>使用接線盒連接或直接連接至金屬密封 SF6 絕緣之變壓器，若有需要應設計使用臨時套管之臨時連接點以用於介電測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers having large tapping ranges, particularly if the range is asymmetrical, may also require special consideration.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090017Z">
@@ -46508,6 +46700,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Unless otherwise specified, the value to be used for a transformer winding is the one eq&lt;t3/&gt;ual to, or nearest above, the value of the rated voltage of the winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T095541Z" creationid="CCYU" creationdate="20141108T095541Z">
+        <seg>除非另行指明，變壓器繞組使用之數值等於 (或取最接近整數進位值) 繞組額定電壓值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the value to be used for a transformer winding is the one equal to, or nearest above, the value of the rated voltage of the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132427Z" creationid="CCYU" creationdate="20141112T132427Z">
         <seg>除非另行指明，變壓器繞組使用之數值等於 (或取最接近整數進位值) 繞組額定電壓值。</seg>
       </tuv>
     </tu>
@@ -47804,6 +48004,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>When the manufacturer intends to use non-linear elements (for example surge &lt;t0/&gt;arresters or spark gaps), built into the transformer or tap-changer or externally fitted, for the limitation of overvoltage transients, this shall be brought to the purchaser's attention by the manufacturer at the tender and order stage and shall be indica&lt;t1/&gt;ted on the transformer rating plate circuit diagram.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123024Z" creationid="CCYU" creationdate="20141108T083458Z">
+        <seg>當製造商欲使用嵌入變壓器之非線性元件 (例如避雷器或火花間隙) 以限制過電壓暫態時，製造商應於投標時通知買方並於訂購時標示於變壓器額定銘牌線路圖上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the manufacturer intends to use non-linear elements (for example surge arresters or spark gaps), built into the transformer or tap-changer or externally fitted, for the limitation of overvoltage transients, this shall be brought to the purchaser's attention by the manufacturer at the tender and order stage and shall be indicated on the transformer rating plate circuit diagram.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132329Z" creationid="CCYU" creationdate="20141112T132329Z">
         <seg>當製造商欲使用嵌入變壓器之非線性元件 (例如避雷器或火花間隙) 以限制過電壓暫態時，製造商應於投標時通知買方並於訂購時標示於變壓器額定銘牌線路圖上。</seg>
       </tuv>
     </tu>
@@ -51514,9 +51722,25 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>insulation of a transformer winding that has all its ends connected to terminals with the same rated insulation level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132222Z" creationid="CCYU" creationdate="20141112T132222Z">
+        <seg>變壓器繞組之絕緣端點皆以同樣額定絕緣等級連接至端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>insulation of a transformer winding when it has a neutral terminal end for direct or indirect connection to earth, and is designed with a lower &lt;t0/&gt;insulation level than that assigned to the line terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020038Z" creationid="CCYU" creationdate="20141108T020038Z">
+        <seg>變壓器繞組之中性端子直接或間接接地，其設計使用較線路端子低的絕緣等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>insulation of a transformer winding when it has a neutral terminal end for direct or indirect connection to earth, and is designed with a lower insulation level than that assigned to the line terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132225Z" creationid="CCYU" creationdate="20141112T132225Z">
         <seg>變壓器繞組之中性端子直接或間接接地，其設計使用較線路端子低的絕緣等級。</seg>
       </tuv>
     </tu>
@@ -54910,6 +55134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>value of the assigned test voltage applied in one of the standard dielectric tests that proves that the insulation complies with the assigned test voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132220Z" creationid="CCYU" creationdate="20141112T132220Z">
+        <seg>一標準介電測試中指定使用之電壓值，用以證明絕緣符合指定測試電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value of the current flowing through a line terminal of a winding when rated voltage (tapping voltage) is applied at a rated frequency to that winding, the other&lt;t0/&gt; winding or windings being open &lt;t1/&gt;circuited</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035250Z">
@@ -55002,6 +55234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061834Z">
         <seg>非常好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage assigned to be applied, or developed at no-load, between the terminals of an untapped winding, or a tapped winding connected on the principal tapping, for a three-phase winding it is the voltage between line terminals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132201Z" creationid="CCYU" creationdate="20141112T132201Z">
+        <seg>介於兩無抽頭繞組端子之間或連接至主抽頭之抽頭繞組，指定之使用電壓或空載電壓，三相繞組為其線路端子間之電壓。</seg>
       </tuv>
     </tu>
     <tu>
