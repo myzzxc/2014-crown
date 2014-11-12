@@ -16425,6 +16425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For windings with non-uniform insulation, the test is carried out with the test voltage specif&lt;t0/&gt;ied for the neutral terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125247Z" creationid="CCYU" creationdate="20141112T125247Z">
+        <seg>具有非統一絕緣之繞組，測試以中性端子指定測試電壓進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For windings without vertical spacers between disks or turns (e.g., barrel windings or similar), the sensors should be placed between turns inside a suitable pressboard strip.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151928Z" creationid="CCYU" creationdate="20141106T151928Z">
