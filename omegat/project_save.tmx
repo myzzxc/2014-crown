@@ -6059,6 +6059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alternating voltage shall be applied to the terminals of one winding of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142011Z" creationid="CCYU" creationdate="20141112T142011Z">
+        <seg>應於變壓器之一繞組端子上施加交流電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An answer to ’the question above is based on results obtained on some OFAF-cooled transformers, where the hot-spot winding temperatures were di&lt;t0/&gt;rectly measured by fibre optic sensors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T084923Z" creationid="CCYU" creationdate="20141102T084923Z">
@@ -39836,6 +39844,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150419Z">
         <seg>故障發生後，不得再使用暖腳機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The form of the voltage shall be as nearly as possible sinusoidal and its frequency shall be sufficiently above the rated frequency to avoid excessive magnetizing current during the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142142Z" creationid="CCYU" creationdate="20141112T142142Z">
+        <seg>電壓應盡可能接近正弦波型且其頻率應高於額定頻率以避免測試期間過大的磁化電流。</seg>
       </tuv>
     </tu>
     <tu>
