@@ -15906,6 +15906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each required PD measurement step in the test sequence, PD measurements shall be made and recorded on all the line terminals equipped with bushings with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV, during the test, however if there are more than six such terminals then only six measurements need to be made (one on each of the highest voltage terminals) unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T162015Z" creationid="CCYU" creationdate="20141112T162015Z">
+        <seg>應於所有裝設套管且 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≥ 72,5 kV之線路端子上進行測試程序中每項要求之局部放電量測步驟並紀錄，若此條件之端子超過六組，除另行指定外僅需量測六組 (於各最高電壓端子上)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each simulation, about 10 cycles were needed for the solution to become periodical, and each cycle took about 2 to 4 hours in a PC, depending on grid size and time step number in a cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230918Z">
