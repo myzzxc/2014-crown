@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-, but not less than 15 s</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142905Z" creationid="CCYU" creationdate="20141112T142905Z">
+        <seg>，但不低於 15 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-25 °C in the case of outdoor transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100428Z">
@@ -42928,6 +42936,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test time at full test voltage shall be 60 s for any test frequency up to and including twice the rated frequency, unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142723Z" creationid="CCYU" creationdate="20141112T142723Z">
+        <seg>除另行指定外，所有測試頻率低於 (含) 兩倍額定頻率之全測試電壓時間應為 60 秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test verifies the switching impulse withstand strength of the line terminals and the connected winding(s) to earth and other windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133133Z" creationid="CCYU" creationdate="20141108T133022Z">
@@ -48893,6 +48909,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T124749Z">
         <seg>當抽頭係數不一致時，其中一組繞組中全功率抽頭之抽頭電流可能上升超過額定電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the test frequency exceeds twice the rated frequency, the test time in seconds of the test shall be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142844Z" creationid="CCYU" creationdate="20141112T142844Z">
+        <seg>當測試頻率超過額定頻率量兩倍時，測試時間 (單位為秒) 應為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54866,6 +54890,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>test frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142909Z" creationid="CCYU" creationdate="20141112T142909Z">
+        <seg>測試頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>testing transformers;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z">
@@ -56786,6 +56818,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T023539Z">
         <seg>- 依 IEC 60076-3 所述標示絕緣等級 (耐受電壓) 縮寫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>„„„ rated frequency &lt;t0/&gt;±</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142853Z" creationid="CCYU" creationdate="20141112T142853Z">
+        <seg>額定頻率</seg>
       </tuv>
     </tu>
     <tu>
