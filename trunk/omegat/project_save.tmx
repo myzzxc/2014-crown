@@ -4123,6 +4123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failure of the non-self-restoring internal insulation is catastrophic and normally leads to the transformer being out of service for a long period, while an external flashover may involve only a short interruption of service without causing lasting damage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132000Z" creationid="CCYU" creationdate="20141112T132000Z">
+        <seg>非自修復型內部絕緣故障會造成災難，會使變壓器長時間停機；然而外部跳火可能僅會造成短期停機而不會造成永久損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A failure of the non-self-restoring internal insulation is catastrophic and normally leads to the transformer being out of&lt;t1/&gt; service for a long period, while an external flashover may involve only a short interruption of service without causing lasting damage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144816Z" creationid="CCYU" creationdate="20141107T144816Z">
@@ -4211,6 +4219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of all the parts in the IEC 60076 series, under the general title &lt;t0/&gt;Power transformers,&lt;t1/&gt; can be found on the IEC website.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131943Z" creationid="CCYU" creationdate="20141112T131943Z">
+        <seg>可於 IEC 網站上之電力變壓器標題中找到 IEC 60076 系列所有部分的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A little and clearly noticeable</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061831Z">
@@ -4254,6 +4270,14 @@
         <seg>A new Annex E has been introduced, which sets out the principles &lt;t0/&gt;used in assigning the tests, test levels and clearances in air.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142504Z" creationid="CCYU" creationdate="20141107T142504Z">
+        <seg>加入新附錄 E，其包含指定測試、測試等級以及外部間隙之規範原則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new Annex E has been introduced, which sets out the principles used in assigning the tests, test levels and clearances in air.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131937Z" creationid="CCYU" creationdate="20141112T131937Z">
         <seg>加入新附錄 E，其包含指定測試、測試等級以及外部間隙之規範原則。</seg>
       </tuv>
     </tu>
@@ -6607,6 +6631,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142054Z">
         <seg>附錄 E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex E sets out some of the principles used in assigning the tests, test levels and clearances in air to the transformer according to the highest voltage for equipment &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132026Z" creationid="CCYU" creationdate="20141112T132026Z">
+        <seg>附錄 E 依設備最高電壓 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 列出一些變壓器指定測試、測試等級以及外部間隙之規範原則.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15496,6 +15528,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For categories of power transformers and reactors which have their own IEC standards, this standard is applicable only to the extent in which it is specifically called up by cross reference in the other standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132032Z" creationid="CCYU" creationdate="20141112T132032Z">
+        <seg>對於本身具有其 IEC 標準之電力變壓器和電抗器類別，此部分只適用於引用其它標準中指明之具體範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For certain auto-transformers and series transformers the low value of their impedance may justify a more liberal tolerance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085904Z">
@@ -15523,6 +15563,14 @@
         <seg>For dated references, only the edition cited applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133814Z">
+        <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For dated references,' only the edition cited applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132035Z" creationid="CCYU" creationdate="20141112T132035Z">
         <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
       </tuv>
     </tu>
@@ -18151,6 +18199,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150847Z" creationid="CCYU" creationdate="20141107T150847Z">
         <seg>IEC 60050-421，&lt;t0/&gt;國際電工詞彙  — 第 421 章：電力變壓器和電抗器 (International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60050-421, &lt;t0/&gt;International Electrotechnical Vocabulary (IEV)&lt;t1/&gt; - &lt;t2/&gt;Chapter 421: Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132037Z" creationid="CCYU" creationdate="20141112T132037Z">
+        <seg>IEC 60050-421:1990，國際電工詞彙  — 第 421 章：電力變壓器和反應器 (International Electrotechnical Vocabulary — Chapter 421: Power transformers and reactors)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22495,10 +22551,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>International Standard IEC 60076-3 has been prepared by IEC technical committee 14: Power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131920Z" creationid="CCYU" creationdate="20141112T131920Z">
+        <seg>國際標準 IEC 60076-3 由 IEC 技術委員會 14 出版：電力變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>International Standard IEC 600&lt;t0/&gt;76-3 has been prepared by IEC technical committee 14: Power</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115822Z" creationid="CCYU" creationdate="20141107T115822Z">
         <seg>國際標準 IEC 60076-3 由 IEC 技術委員會 14 出版：電力變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International, governmental and non&lt;t0/&gt;governmental organizations liaising with the IEC also participate in this preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131909Z" creationid="CCYU" creationdate="20141112T131909Z">
+        <seg>與 IEC 相關之國際性政府和非政府組織也參與籌劃工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22570,6 +22642,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>It also recommends &lt;t0/&gt;external clearances in air (Clause 16).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144023Z" creationid="CCYU" creationdate="20141107T144023Z">
+        <seg>也提供和外部空間間隙 (第 16 節) 建議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also recommends external clearances in air (Clause 16).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131952Z" creationid="CCYU" creationdate="20141112T131952Z">
         <seg>也提供和外部空間間隙 (第 16 節) 建議。</seg>
       </tuv>
     </tu>
@@ -27159,6 +27239,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New requirements for impulse waveshape (k factor) have been introduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131932Z" creationid="CCYU" creationdate="20141112T131932Z">
+        <seg>使用新的突波波形規範 (k 因子)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New system filters are installed during the flushing process whenever the pressure drop across the filter element becomes excessive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104241Z">
@@ -27355,6 +27443,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132356Z" creationid="JUDY" creationdate="20141026T222241Z">
         <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其它 IEC 出版物之使用所造成之個人傷亡、財產損失或者其它任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and members of its technical committees and IEC National Committees for any personal injury, property damage or other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and expenses arising out of the publication, use of, or reliance upon, this IEC Publication or any other IEC Publications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131916Z" creationid="CCYU" creationdate="20141112T131916Z">
+        <seg>IEC 或其董事、員工、僱員或個別專家及其技術委員會成員以及 IEC 國家委員會，不對任何違反此 IEC 出版物或任何其他 IEC 出版物之使用所造成之個人傷亡、財產損失或者其他任何性質損害承擔任何責任，無論直接或間接的費用 (包括法律費用) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31291,6 +31387,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Recommended minimum external clearance&lt;t0/&gt;s in air between live parts and between live parts and earth are given for use when these clearances are not specified by the purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T150214Z" creationid="CCYU" creationdate="20141107T150127Z">
+        <seg>針對活動元件之間和活動元件及接地之間，當買方未指明外部空間間隙時，建議之最小外部空間間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended minimum external clearances in air between live parts and between live parts and earth are given for use when these clearances are not specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132030Z" creationid="CCYU" creationdate="20141112T132030Z">
         <seg>針對活動元件之間和活動元件及接地之間，當買方未指明外部空間間隙時，建議之最小外部空間間隙。</seg>
       </tuv>
     </tu>
@@ -37344,6 +37448,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising all national electrotechnical committees (IEC National Committees).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131901Z" creationid="CCYU" creationdate="20141112T131901Z">
+        <seg>國際電工委員會 (IEC) 為一間世界性的標準制定組織，由所有國家電工委員會 (IEC 國家委員會) 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LV winding lags the HV by 330°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142508Z">
@@ -38043,6 +38155,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t0/&gt;http://webstore.iec.ch&lt;t1/&gt;" in the data related to the specific publ&lt;t2/&gt;ication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142540Z" creationid="CCYU" creationdate="20141107T142540Z">
+        <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t0/&gt;http://webstore.iec.ch&lt;t1/&gt;" in the data related to the specific publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131947Z" creationid="CCYU" creationdate="20141112T131947Z">
         <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
       </tuv>
     </tu>
@@ -39611,6 +39731,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The main changes from the previous edition are as f&lt;t0/&gt;ollows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T120122Z" creationid="CCYU" creationdate="20141107T120122Z">
+        <seg>此版本相對前一版本包括以下主要變更：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main changes from the previous edition are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131925Z" creationid="CCYU" creationdate="20141112T131925Z">
         <seg>此版本相對前一版本包括以下主要變更：</seg>
       </tuv>
     </tu>
@@ -42680,6 +42808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their preparation is entrusted to technical committees; any IEC National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131906Z" creationid="CCYU" creationdate="20141112T131906Z">
+        <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their preparation is entrusted to technical committees;&lt;t2/&gt; any IEC National Committee interested in the subject dealt with may participate in this preparatory work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115538Z" creationid="CCYU" creationdate="20141107T115538Z">
@@ -42931,6 +43067,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Therefore, it may be that, for increased safety, higher test voltages are specified by the purchaser for the internal i&lt;t2/&gt;nsulation of the transformer than for the external insulation of other components in the system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141107T145110Z">
+        <seg>因此為了提高安全性，由買方指定之最高測試電壓適用於變壓器內部絕緣而非系統中其它元件之外部絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, it may be that, for increased safety, higher test voltages are specified by the purchaser for the internal insulation of the transformer than for the external insulation of other components in the system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132001Z" creationid="CCYU" creationdate="20141112T132001Z">
         <seg>因此為了提高安全性，由買方指定之最高測試電壓適用於變壓器內部絕緣而非系統中其它元件之外部絕緣。</seg>
       </tuv>
     </tu>
@@ -45220,6 +45364,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>To this end and in addition to other activities, IEC publishes International Standards, Technical Specifications, Technical Reports, Publicly Available Specifications (PAS) and Guides (hereafter referred to as "IEC Publication(s)").</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T125745Z">
+        <seg>對此 IEC 出版了國際標準、技術規範、技術報告、 公開技術規範 (PAS) 和指南 (以下簡稱 "IEC 出版物")，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To this end and in addition to other activities, IEC publishes International Standards, Technical Specifications, Technical Reports, Publicly Available Specifications (PAS) and Guides (hereafter referred to as “IEC Publication(s)’’).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131905Z" creationid="CCYU" creationdate="20141112T131905Z">
         <seg>對此 IEC 出版了國際標準、技術規範、技術報告、 公開技術規範 (PAS) 和指南 (以下簡稱 "IEC 出版物")，</seg>
       </tuv>
     </tu>
@@ -47964,6 +48116,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Whilst it is reasonable that the rated withstand voltage values which are specified for the inter&lt;t0/&gt;nal insulation of the transformer should also be taken as a reference for its external insulation, this may not be true in all cases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T144352Z" creationid="CCYU" creationdate="20141107T144352Z">
+        <seg>雖然以內部絕緣之額定耐壓值可作為外部絕緣之參考，但並非所有情況皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whilst it is reasonable that the rated withstand voltage values which are specified for the internal insulation of the transformer should also be taken as a reference for its external insulation, this may not be true in all cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131959Z" creationid="CCYU" creationdate="20141112T131959Z">
         <seg>雖然以內部絕緣之額定耐壓值可作為外部絕緣之參考，但並非所有情況皆適用。</seg>
       </tuv>
     </tu>
