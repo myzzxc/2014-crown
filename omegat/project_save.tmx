@@ -3921,6 +3921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t9/&gt;U&lt;t10/&gt;m&lt;t11/&gt; shall in no case be less than 17,5 kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133510Z" creationid="CCYU" creationdate="20141112T133510Z">
+        <seg>任何情況下 &lt;t9/&gt;U&lt;t10/&gt;m&lt;t11/&gt; 皆不應低於 17,5 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>= diameter of clearance hole in the fixture</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T123458Z">
@@ -5723,6 +5731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All solid state and microprocessor based devices shall be excluded from the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133549Z" creationid="CCYU" creationdate="20141112T133549Z">
+        <seg>所有固態和微處理器設備應被排除於測試電路外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125522Z" creationid="CCYU" creationdate="20141106T125522Z">
@@ -6883,6 +6899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any line terminals not connected to the test supply shall be left open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133744Z" creationid="CCYU" creationdate="20141112T133744Z">
+        <seg>所有未連接至測試電源之線路端子應為開路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
@@ -6971,9 +6995,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any transformer that is repaired to restore its functionality (for example after a breakdown following many years in service) but is still to be regarded as compliant with this standard shall be subject to the tests described in this standard necessary to verify the repair at a test voltage of between 80 % and 100 % of the original test voltage level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133520Z" creationid="CCYU" creationdate="20141112T133520Z">
+        <seg>所有經維修以恢復其功能性之變壓器 (例如運轉多年後故障)，應以本標準要求之原始測試電壓的 80 % 至 100 % 之電壓進行測試以驗證其符合本標準規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any transformer that is to be regarded as complying with this standard in the same way as a new transformer (for example following a warranty repair or complete rewind and refurbishment intended to restore the transformer to the 'as new’ condi&lt;t0/&gt;tion) shall be subject to all the routine tests required by this standard for the transformer at &lt;t1/&gt;100&lt;t2/&gt; % of the required test voltage level after the repair or refurbishment is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T155117Z" creationid="CCYU" creationdate="20141111T155037Z">
+        <seg>所有視為符合本標準之變壓器，應使用與全新變壓器之相同方式 (例如經過保固維修或完整翻修以回復變壓器至“全新”狀態)，於變壓器維修或翻新完成後以 100 % 之測試電壓等級進行所有本標準要求之例行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any transformer that is to be regarded as complying with this standard in the same way as a new transformer (for example following a warranty repair or complete rewind and refurbishment intended to restore the transformer to the 'as new’ condition) shall be subject to all the routine tests required by this standard for the transformer at &lt;t0/&gt;100&lt;t1/&gt; % of the required test voltage level after the repair or refurbishment is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133518Z" creationid="CCYU" creationdate="20141112T133518Z">
         <seg>所有視為符合本標準之變壓器，應使用與全新變壓器之相同方式 (例如經過保固維修或完整翻修以回復變壓器至“全新”狀態)，於變壓器維修或翻新完成後以 100 % 之測試電壓等級進行所有本標準要求之例行測試。</seg>
       </tuv>
     </tu>
@@ -7175,6 +7215,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T125130Z">
         <seg>如圖 1a 所示，適用於抽頭繞組之負抽頭於 CFVV 情況下, 以及無抽頭繞組之正抽頭於 VFVV (圖 1b) 情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a general guide any new part of a repaired transformer should be tested at &lt;t0/&gt;100&lt;t1/&gt; %, but 80 % of the original test voltage level may be regarded as an adequate test voltage level for verifying that used parts or components are suitable for continued use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133532Z" creationid="CCYU" creationdate="20141112T133532Z">
+        <seg>一般上，維修變壓器之全新零件應以 100 % 而非 80 % 之原始測試電壓水準進行測試，以驗證零件或元件適合繼續使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7599,6 +7647,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124115Z" creationid="CCYU" creationdate="20141112T124115Z">
         <seg>測試結束時，電壓應於關閉前迅速降低至低於測試直的三分之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the test, the voltage shall be reduced rapidly to less than one-third of the test value before switching off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133624Z" creationid="CCYU" creationdate="20141112T133624Z">
+        <seg>測試結束時，電壓應於關閉前迅速降低至低於測試值的三分之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11801,6 +11857,14 @@
         <seg>Dielectric tests on transformers that have bee&lt;t0/&gt;n in service</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153838Z" creationid="CCYU" creationdate="20141111T153838Z">
+        <seg>非全新變壓器之介電測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dielectric tests on transformers that have been in service</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133515Z" creationid="CCYU" creationdate="20141112T133515Z">
         <seg>非全新變壓器之介電測試</seg>
       </tuv>
     </tu>
@@ -16393,6 +16457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For three phase transformers a symmetrical three phase test voltage shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133658Z" creationid="CCYU" creationdate="20141112T133658Z">
+        <seg>三相變壓器應使用對稱三相測試電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For three-phase transformers, a set of three-phase supply voltages which are approximately symmetrical.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105146Z">
@@ -16668,6 +16740,14 @@
         <seg>For windings with non-uniform insulation, the test is carried out with the test voltage specif&lt;t0/&gt;ied for the neutral terminal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125247Z" creationid="CCYU" creationdate="20141112T125247Z">
+        <seg>具有非統一絕緣之繞組，測試以中性端子指定測試電壓進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For windings with non-uniform insulation, the test is carried out with the test voltage specified for the neutral terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133627Z" creationid="CCYU" creationdate="20141112T133627Z">
         <seg>具有非統一絕緣之繞組，測試以中性端子指定測試電壓進行。</seg>
       </tuv>
     </tu>
@@ -19174,6 +19254,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a lightning impulse test on the neutral terminal is specified, then the test level shall be given in the enquiry and order, and the rated impulse withstand voltage of the neutral terminal shall be verified by the test described in 13.4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133512Z" creationid="CCYU" creationdate="20141112T133512Z">
+        <seg>若指定於中性端子進行雷擊突波測試，應於詢價和訂購時說明測試等級，且中性端子之額定突波耐壓應以 13.4 所列之方法驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a lightning impulse voltage test is required, and whether or not the test is to include chopped waves (see IEC 60076-3).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141228Z">
@@ -19903,6 +19991,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the current transformer knee-point voltage exceeds 2 kV AC the test shall be performed at 4 kV AC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133546Z" creationid="CCYU" creationdate="20141112T133546Z">
+        <seg>若變流器拐點電壓超過 2 kV 交流，則應以 4 kV 交流電進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the delta winding is not brought out to three line terminals but only provided as a stabilizing winding, the symbol would indicate this by a plus sign.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144438Z">
@@ -20027,6 +20123,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152833Z" creationid="CCYU" creationdate="20141111T152833Z">
         <seg>若中性端子於運作時透過變流器或直接永久接地但連接中無增加阻抗，則測試施加電壓依至少 38 kV 以上 (&lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; &gt; 17,5 kV)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the neutral terminal is to be permanently connected to earth in service, either directly or through a current transformer, but without any intentionally added impedance in the connection then the applied voltage test voltage shall be at least 38 kV (&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 17,5 kV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133447Z" creationid="CCYU" creationdate="20141112T133447Z">
+        <seg>ㄐ若中性子於運作時透過變流器或直接永久接地但連接中無增加阻抗，則測試施加電壓依至少 38 kV 以上 (&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 17,5 kV)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25839,6 +25943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Motors and other apparatus for auxiliary equipment shall fulfil insulation requirements according to the relevant IEC standard (which are generally lower than the value specified for the wiring alone, and which may sometimes make it necessary to disconnect them in order to test the circuits).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133548Z" creationid="CCYU" creationdate="20141112T133548Z">
+        <seg>馬達及其它輔助設備應按照相關 IEC 標準滿足的絕緣要求 (通常低於繞組本身指定值，且有時可能需要切斷其連接以測試電路)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mount Flame proof ATEX certified Cable Gland at the NPT Cable exit port on the part.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073926Z" creationid="CCYU" creationdate="20141025T073926Z">
@@ -27034,6 +27146,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>NOTE Approximately sinusoidal can be taken to mean that the peak value divided by does not differ from the r.m.s value of the waveform by more than about 5 % (see IEC 60060-1), but wi&lt;t0/&gt;der deviations may be accepted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123649Z" creationid="CCYU" creationdate="20141112T123649Z">
+        <seg>註 近似正弦波為極值除以 √2 與波形之均方根值差異不超過 5 % (請見 IEC 60060-1)，但可接受較大的偏差值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Approximately sinusoidal can be taken to mean that the peak value divided by does not differ from the r.m.s value of the waveform by more than about 5 % (see IEC 60060-1), but wider deviations may be accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133611Z" creationid="CCYU" creationdate="20141112T133611Z">
         <seg>註 近似正弦波為極值除以 √2 與波形之均方根值差異不超過 5 % (請見 IEC 60060-1)，但可接受較大的偏差值。</seg>
       </tuv>
     </tu>
@@ -37792,6 +37912,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; of the neutral depends on whether the neutral terminal is intended to be left open or earthed via an impedance (see Annex D).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133452Z" creationid="CCYU" creationdate="20141112T133452Z">
+        <seg>中性點之 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 取決於中性端子為開路或經由阻抗接地 (請見附錄 D)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t4/&gt;phase-to-phase value determines the choice of &lt;t5/&gt;U&lt;t6/&gt; in this case, consequently, &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; = 420 kV (see also IEC 60076-1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T100009Z" creationid="CCYU" creationdate="20141108T095825Z">
@@ -39704,6 +39832,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The full test voltage shall be applied for 60 s between all accessible terminals of the winding under test connected together and all accessible terminals of the remaining windings, core, frame and tank or casing of the transformer, connected to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133553Z" creationid="CCYU" creationdate="20141112T133553Z">
+        <seg>應於測試連接之所有繞組端子之間施加全測試電壓 60 秒，而其餘繞組之端子、核芯、框架和油槽或變壓器外殼接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full text for all R-Phrases is shown in Section 16.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T170908Z">
@@ -40888,6 +41024,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The partial discharge criteria may need to be modified depending on the circumstances of the test and this shall be subject to agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133536Z" creationid="CCYU" creationdate="20141112T133536Z">
+        <seg>局部放電準則由雙方協議後，可能需依測試環境修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The patch size consists of a matrix of randomly generated pixel intensities, in the range 0 to 255.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T115527Z">
@@ -40916,6 +41060,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123125Z" creationid="CCYU" creationdate="20141112T123125Z">
         <seg>應量測電壓極值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The peak value of voltage shall be measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133556Z" creationid="CCYU" creationdate="20141112T133556Z">
+        <seg>應量測電壓極值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The peakvalue divided by shall be equal to the test value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133606Z" creationid="CCYU" creationdate="20141112T133606Z">
+        <seg>極值除以 √2 應等於測試值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42616,6 +42776,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be carried out at the manufacturer’s works, unless the transformer is to be installed on-site by the manufacturer in which case the test may be performed on-site instead of in the factory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133541Z" creationid="CCYU" creationdate="20141112T133541Z">
+        <seg>應由製造商於工廠進行測試，除非製造商將於現場安裝變壓器時，可於現場進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out at the manufacturer’s works.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T053021Z" creationid="MAE" creationdate="20141112T053021Z">
@@ -42651,6 +42819,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The test shall be carried out with any accessible neutral terminals and any other terminals that</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125951Z" creationid="CCYU" creationdate="20141112T125951Z">
+        <seg>測試應於所有可連接之中性端子和其它所有運轉中接地之處進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test shall be carried out with any accessible neutral terminals and any other terminals that are normally at earth potential in service earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133643Z" creationid="CCYU" creationdate="20141112T133643Z">
         <seg>測試應於所有可連接之中性端子和其它所有運轉中接地之處進行。</seg>
       </tuv>
     </tu>
@@ -43160,6 +43336,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value of &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; and the test voltages shall preferably be selected from Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133501Z" creationid="CCYU" creationdate="20141112T133501Z">
+        <seg>&lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; 和測試電壓值應盡可能由表 2 中選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value of &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; and the test voltages shall preferably be selected from Table 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153453Z" creationid="CCYU" creationdate="20141111T153453Z">
@@ -43387,6 +43571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The wiring for auxiliary power, and control circuitry shall be subjected to a 1 min AC separate source test of 2 &lt;t0/&gt;kV to earth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T050818Z" creationid="MAE" creationdate="20141112T050818Z">
+        <seg>輔助電源配線和控制電路應以 2 kV (對地) 獨立交流電源進行 1 分鐘測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wiring for auxiliary power, and control circuitry shall be subjected to a 1 min AC separate source test of 2 kV to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133539Z" creationid="CCYU" creationdate="20141112T133539Z">
         <seg>輔助電源配線和控制電路應以 2 kV (對地) 獨立交流電源進行 1 分鐘測試。</seg>
       </tuv>
     </tu>
@@ -49004,6 +49196,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Wiring disconnected or removed for transport which has been subject to a 2 kV test at the factory shall be tested at site following erection using either a repeat of the 2 kV AC test or a 1 kV DC insulation resistance &lt;t2/&gt;measurement with a minimum measured resistance of 1 M£T</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052819Z" creationid="MAE" creationdate="20141112T052650Z">
+        <seg>已於工廠進行 2 kV 測試之變壓器，若中斷或拆除配線以進行運輸則需重複 2 kV 交流測試或 1 kV 直流絕緣電阻量測，最低電阻為 1 MΩ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiring disconnected or removed for transport which has been subject to a 2 kV test at the factory shall be tested at site following erection using either a repeat of the 2 kV AC test or a 1 kV DC insulation resistance measurement with a minimum measured resistance of 1 M£T</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133543Z" creationid="CCYU" creationdate="20141112T133543Z">
         <seg>已於工廠進行 2 kV 測試之變壓器，若中斷或拆除配線以進行運輸則需重複 2 kV 交流測試或 1 kV 直流絕緣電阻量測，最低電阻為 1 MΩ。</seg>
       </tuv>
     </tu>
