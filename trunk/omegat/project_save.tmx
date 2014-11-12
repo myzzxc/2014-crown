@@ -41672,6 +41672,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be carried out at the manufacturer’s works, unless the transformer is to be installed on-site by the manufacturer in which case the test may be perform&lt;t1/&gt;ed on-site instead of in the factory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052349Z" creationid="MAE" creationdate="20141112T052349Z">
+        <seg>應由製造商於工廠進行測試，除非製造商將於現場安裝變壓器時，可於現場進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out on the transformer when it is complete in all relevant respects and filled with liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104445Z">
@@ -47861,6 +47869,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T111654Z" creationid="Judy" creationdate="20141022T111654Z">
         <seg>依所需配置和極性接線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiring disconnected or removed for transport which has been subject to a 2 kV test at the factory shall be tested at site following erection using either a repeat of the 2 kV AC test or a 1 kV DC insulation resistance &lt;t2/&gt;measurement with a minimum measured resistance of 1 M£T</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052650Z" creationid="MAE" creationdate="20141112T052650Z">
+        <seg>已於工廠進行 2 kV 測試之變壓器，若中斷或拆除配線以進行運輸則需重複Wiring disconnected or removed for transport which has been subject to a 2 kV test at the factory shall be tested at site following erection using either a repeat of the 2 kV AC test or a 1 kV DC insulation resistance &lt;t2/&gt;measurement with a minimum measured resistance of 1 M£T</seg>
       </tuv>
     </tu>
     <tu>
