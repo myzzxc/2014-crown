@@ -16177,6 +16177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For three phase &lt;t0/&gt;transformers a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T130051Z" creationid="CCYU" creationdate="20141112T130051Z">
+        <seg>三相變壓器應使用對稱三相測試電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For three-phase transformers, a set of three-phase supply voltages which are approximately symmetrical.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T105146Z">
@@ -41848,6 +41856,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be carried out with any accessible neutral terminals and any other terminals that</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125951Z" creationid="CCYU" creationdate="20141112T125951Z">
+        <seg>測試應於所有可連接之中性端子和其它所有運轉中接地之處進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be made with an approximately sinusoidal single-phase alternating voltage at not less than 80 % of the rated frequency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123102Z" creationid="CCYU" creationdate="20141112T123102Z">
@@ -49313,6 +49329,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>are normally at earth potential in service earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125959Z" creationid="CCYU" creationdate="20141112T125959Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>arks</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131551Z">
@@ -51138,6 +51162,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>i</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125957Z" creationid="CCYU" creationdate="20141112T125957Z">
+        <seg> 	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>i &lt;t0/&gt;=&lt;t1/&gt; F&lt;t2/&gt; (I’,&lt;t3/&gt; j&lt;t4/&gt;’) &lt;t5/&gt;and j &lt;t6/&gt;=&lt;t7/&gt; G&lt;t8/&gt; (I’,&lt;t9/&gt; y&lt;t10/&gt;’)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065756Z">
@@ -51454,6 +51486,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050453Z">
         <seg>其額定值，若連接至變壓器主要抽頭 (繞組之空載電壓則等於其額定值)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>j</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125953Z" creationid="CCYU" creationdate="20141112T125953Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>j I</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T130055Z" creationid="CCYU" creationdate="20141112T130055Z">
+        <seg>  </seg>
       </tuv>
     </tu>
     <tu>
@@ -53258,6 +53306,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>symmetrical</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T130053Z" creationid="CCYU" creationdate="20141112T130053Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125318Z" creationid="CCYU" creationdate="20141106T125318Z">
@@ -54207,6 +54263,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025319Z">
         <seg>定義 (主抽頭以外之) 特定抽頭負載量的數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>three phase test voltage shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T130059Z" creationid="CCYU" creationdate="20141112T130059Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
