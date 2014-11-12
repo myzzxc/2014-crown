@@ -43650,6 +43650,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage shall be raised to (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt; and a background PD measurement shall be made &lt;t8/&gt;and recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154132Z" creationid="CCYU" creationdate="20141112T154132Z">
+        <seg>增加電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be switched on at a voltage not higher than (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154018Z" creationid="CCYU" creationdate="20141112T154018Z">
+        <seg>開啟電壓，電壓不超過 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage shall either be&lt;t0/&gt; &lt;t1/&gt;measured on the highest voltage terminals, or if this is not practical the voltage shall be measured at the terminals of the transformer connected to the supply.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T135027Z" creationid="CCYU" creationdate="20141112T135027Z">
