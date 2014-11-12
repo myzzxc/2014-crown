@@ -6027,6 +6027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An applied voltage test shall be performed according to the method given in Clause 10 on each separate winding of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133059Z" creationid="CCYU" creationdate="20141112T133059Z">
+        <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An applied voltage test shall be performed in accordance with the method given in Clause 10 on each separate winding of the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145516Z" creationid="CCYU" creationdate="20141111T145516Z">
@@ -6726,6 +6734,14 @@
         <seg>Any additional te&lt;t0/&gt;sts above the requirements of this standard and the test voltage levels shall be specified by the purchaser at the time of enquiry and order since they may affect the transformer design (see Annex C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164831Z" creationid="Judy" creationdate="20141109T164831Z">
+        <seg>本標準之外的其它測試和測試電壓等級應由買方於詢價及訂購時指明，因為此類因素將會影響變壓器設計 (請見附件 C)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any additional tests above the requirements of this standard and the test voltage levels shall be specified by the purchaser at the time of enquiry and order since they may affect the transformer design (see Annex C).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132814Z" creationid="CCYU" creationdate="20141112T132814Z">
         <seg>本標準之外的其它測試和測試電壓等級應由買方於詢價及訂購時指明，因為此類因素將會影響變壓器設計 (請見附件 C)。</seg>
       </tuv>
     </tu>
@@ -15752,6 +15768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example a winding with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 1,1 KV might be tested at the values appropriate to a winding with a &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; of 3,6 kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132951Z" creationid="CCYU" creationdate="20141112T132951Z">
+        <seg>例如 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 1,1 KV 之繞組可使用 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 3,6 kV 繞組之測試數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, Costa et al.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144903Z">
@@ -16813,6 +16837,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T100357Z">
         <seg>於移動式再生器中增加更多的銅造成壓降增加且僅能些微改進移動式再生器之熱傳導效能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further information is contained in IEEE 057.142:2010 and CIGRE report 12-14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133007Z" creationid="CCYU" creationdate="20141112T133007Z">
+        <seg>詳細資訊收錄於 IEEE 057.142:2010 和 CIGRE 報告 12-14 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,6 +19230,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an IVPD test is to be performed then by agreement between the manufacturer and purchaser, the test sequence may be varied except that the IVPD test shall be the last dielectric test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133055Z" creationid="CCYU" creationdate="20141112T133055Z">
+        <seg>若製造商與買方之間達成協議進行感應電壓測試及局部放電量測 (IVPD) 測試，測試順序可能變動，但感應電壓測試及局部放電量測 (IVPD) 應為最後一項介電測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an accident occurs in the rain, our absorbent will still work, eliminating the oily sheen that officers will be looking to spot.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133825Z">
@@ -19322,6 +19362,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162738Z">
         <seg>若客戶指定更高的加速度，製造商應藉由計算證明法符合規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If higher levels are specified this shall be stated in the enquiry and order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132920Z" creationid="CCYU" creationdate="20141112T132920Z">
+        <seg>若指定較高等級，應於詢價和訂購時說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19494,6 +19542,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If only a lightning impulse voltage level is specified then the other values on the same row shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132908Z" creationid="CCYU" creationdate="20141112T132908Z">
+        <seg>若僅指明雷擊突波電壓等級則應使用同一行中的其它數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If parallel operation with existing transformers is required, this shall be stated and the following information on the existing transformers given:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135356Z">
@@ -19641,6 +19697,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>If specified by the purchaser, a test shall be carried out according to the method given in 11.3, with an enhancement (phase to earth) voltage &lt;t0/&gt;level of (&lt;t1/&gt;1,8&lt;t2/&gt; &lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/4i&lt;t6/&gt; and a PD</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151959Z" creationid="CCYU" creationdate="20141110T151959Z">
+        <seg>若買方指定，測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(&lt;t1/&gt;1,8&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 以及局部放電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser, a test shall be carried out according to the method given in 11.3, with an enhancement (phase to earth) voltage level of (&lt;t0/&gt;1,8&lt;t1/&gt; &lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/4i&lt;t5/&gt; and a PD</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133112Z" creationid="CCYU" creationdate="20141112T133112Z">
         <seg>若買方指定，測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(&lt;t1/&gt;1,8&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 以及局部放電</seg>
       </tuv>
     </tu>
@@ -21026,6 +21090,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>In particular an enhancement voltage of &lt;t5/&gt;{Jz xU&lt;t6/&gt;m&lt;t7/&gt;)/J$&lt;t8/&gt; and a PD measurement voltage of &lt;t9/&gt;(i,5xU&lt;t10/&gt;m&lt;t11/&gt;)/S&lt;t12/&gt; may be used if &lt;t13/&gt;higher.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T152418Z" creationid="CCYU" creationdate="20141110T152418Z">
+        <seg>若需較高電壓可使用特定加強電壓 &lt;t5/&gt;(2 x U&lt;t6/&gt;m&lt;t7/&gt;)/ √3&lt;t8/&gt; 和局部放電量測電壓 &lt;t9/&gt;(1,5 x U&lt;t10/&gt;m&lt;t11/&gt;) / √3&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular an enhancement voltage of &lt;t5/&gt;{Jz xU&lt;t6/&gt;m&lt;t7/&gt;)/J$&lt;t8/&gt; and a PD measurement voltage of &lt;t9/&gt;(i,5xU&lt;t10/&gt;m&lt;t11/&gt;)/S&lt;t12/&gt; may be used if higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133120Z" creationid="CCYU" creationdate="20141112T133120Z">
         <seg>若需較高電壓可使用特定加強電壓 &lt;t5/&gt;(2 x U&lt;t6/&gt;m&lt;t7/&gt;)/ √3&lt;t8/&gt; 和局部放電量測電壓 &lt;t9/&gt;(1,5 x U&lt;t10/&gt;m&lt;t11/&gt;) / √3&lt;t12/&gt;。</seg>
       </tuv>
     </tu>
@@ -23819,6 +23891,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132109Z" creationid="CCYU" creationdate="20141108T132109Z">
         <seg>中性端子雷擊突波測試 (LIN)，&lt;t0/&gt;請見 13.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning impulse test for the neutral terminals (LIN)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132826Z" creationid="CCYU" creationdate="20141112T132826Z">
+        <seg>中性端子雷擊突波測試 (LIN)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26871,6 +26951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Certain installation conditions, particularly where energisation of the transformer is from the remote end of a cable or a long overhead line, can lead to severe exposure to overvoltages which might be frequent and repetitive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132926Z" creationid="CCYU" creationdate="20141112T132926Z">
+        <seg>註 特定安裝條件下，特別是變壓器由遠端電纜或長架空線路通電時，可能經常造成嚴重過電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Contact between the liquid and external air may sometimes be diminished or prevented.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142828Z">
@@ -27170,6 +27258,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>NOTE This is a comprehensive list, not all these tests will be &lt;t0/&gt;applicable to a particular transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143141Z" creationid="CCYU" creationdate="20141110T143141Z">
+        <seg>註 以上為全面性的清單，並非所有測試皆適用於特定變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE This is a comprehensive list, not all these tests will be applicable to a particular transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133053Z" creationid="CCYU" creationdate="20141112T133053Z">
         <seg>註 以上為全面性的清單，並非所有測試皆適用於特定變壓器。</seg>
       </tuv>
     </tu>
@@ -36160,6 +36256,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 3 - Test voltage levels used in special cases</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133037Z" creationid="CCYU" creationdate="20141112T133037Z">
+        <seg>表 3 - 特殊情況之測試電壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045630Z">
@@ -38320,6 +38424,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice between the different levels of test voltages in these tables depends on the severity of overvoltage conditions to be expected in the system and on the importance of the particular installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132852Z" creationid="CCYU" creationdate="20141112T132852Z">
+        <seg>此表中不同測試電壓等級的選擇取決於系統中預期過電壓環境的嚴重性以及特定安裝的重要性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chopped wave test voltage impulse has a higher peak value and contains higher frequency components than the full wave impulse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T131452Z" creationid="CCYU" creationdate="20141108T131452Z">
@@ -39968,6 +40080,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lowest values given in Table 2 for a particular value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; represent the minimum test voltage levels and shall be used if nothing else is specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132905Z" creationid="CCYU" creationdate="20141112T132905Z">
+        <seg>表 2 所示之最低特定 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值代表最低測試電壓等級，若無其它指示則應使用此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lowest values given in Table 2 for a particular value&lt;t0/&gt; of &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; represent the minimum test voltage levels and shall be used if nothing else is specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165329Z" creationid="Judy" creationdate="20141109T165329Z">
@@ -40944,6 +41064,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchaser may specify any value higher than the minimum for the particular &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; for each test, preferably standard values for coordination, but not necessarily the values from a single row in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132917Z" creationid="CCYU" creationdate="20141112T132917Z">
+        <seg>買方可針對各測試指定高於特定 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 之數值，應盡可能使用標準數值但不限於表 2 單行中之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purchaser may specify any value higher than the minimum for the particular &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; for each test, preferably standard values for coordination, but not necessarily the values from a single row in Table 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165358Z" creationid="Judy" creationdate="20141109T165358Z">
@@ -41219,6 +41347,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The required tests are summarised in Table 1 and speci&lt;t3/&gt;fic requirements are given in 7.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T120358Z" creationid="Judy" creationdate="20141109T120358Z">
+        <seg>表 1 列出了要求之測試而特定要求收錄於 7.3 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The required tests are summarised in Table 1 and specific requirements are given in 7.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132811Z" creationid="CCYU" creationdate="20141112T132811Z">
         <seg>表 1 列出了要求之測試而特定要求收錄於 7.3 中。</seg>
       </tuv>
     </tu>
@@ -41723,6 +41859,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The specific voltage-time characteristic of the overvoltage is an important consideration when deciding the type and level of the test required t&lt;t8/&gt;o assure satisfactory operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T133358Z" creationid="CCYU" creationdate="20141110T133358Z">
+        <seg>過電壓之特定電壓-時間特性為決定滿足操作需求之測試型式和等級的重要因素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specific voltage-time characteristic of the overvoltage is an important consideration when deciding the type and level of the test required to assure satisfactory operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132953Z" creationid="CCYU" creationdate="20141112T132953Z">
         <seg>過電壓之特定電壓-時間特性為決定滿足操作需求之測試型式和等級的重要因素。</seg>
       </tuv>
     </tu>
@@ -42891,6 +43035,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The values in Table 3 may only be used if special precautions have been taken to avoid overvoltage conditions beyond the capability of the transformer and either extensive st&lt;t2/&gt;udies have been completed or the values used represent proven existing practice applicable to the installation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T125341Z" creationid="CCYU" creationdate="20141110T125341Z">
+        <seg>表 3 所列之數值僅用於需特別注意以避免過電壓條件超出變壓器之負荷，以及經過詳細研究或使用之數值經實證適用於安裝時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values in Table 3 may only be used if special precautions have been taken to avoid overvoltage conditions beyond the capability of the transformer and either extensive studies have been completed or the values used represent proven existing practice applicable to the installation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132923Z" creationid="CCYU" creationdate="20141112T132923Z">
         <seg>表 3 所列之數值僅用於需特別注意以避免過電壓條件超出變壓器之負荷，以及經過詳細研究或使用之數值經實證適用於安裝時。</seg>
       </tuv>
     </tu>
@@ -46857,6 +47009,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uniform and non-uniform</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132822Z" creationid="CCYU" creationdate="20141112T132822Z">
+        <seg>統一和非統一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Union Nut</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033814Z" creationid="CCYU" creationdate="20141025T033814Z">
@@ -48476,6 +48636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Where tolerances on test parameters and values are not specifi&lt;t0/&gt;cally given in this standard then the values given in IEC 60060-1 shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164901Z" creationid="Judy" creationdate="20141109T164901Z">
+        <seg>當本標準中未特別提供測試參數和數值之公差時，應使用 IEC 60060-1 所示之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where tolerances on test parameters and values are not specifically given in this standard then the values given in IEC 60060-1 shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132819Z" creationid="CCYU" creationdate="20141112T132819Z">
         <seg>當本標準中未特別提供測試參數和數值之公差時，應使用 IEC 60060-1 所示之數值。</seg>
       </tuv>
     </tu>
@@ -53370,6 +53538,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>re-ignitions and repetitive transients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132959Z" creationid="CCYU" creationdate="20141112T132959Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>re-use or recycling of any waste;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072103Z">
@@ -53934,6 +54110,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142912Z" creationid="CCYU" creationdate="20141110T142912Z">
         <seg>開關突波 (SI)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>switching impulse test by agreement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132843Z" creationid="CCYU" creationdate="20141112T132843Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
