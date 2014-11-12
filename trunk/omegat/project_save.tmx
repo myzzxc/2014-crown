@@ -4051,6 +4051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A chopped wave lightning impulse test shall be carried out on the line terminals using the method given in Clause 13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133250Z" creationid="CCYU" creationdate="20141112T133250Z">
+        <seg>截波雷擊突波測試應依照第 13 節所列之方法於線路端子上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A combined load loss figure for the complete transformer is referred to a specified winding load combination.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041006Z">
@@ -4159,6 +4167,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151736Z" creationid="CCYU" creationdate="20141110T151724Z">
         <seg>全波雷擊突波測試應依照 13.1 和 13.2 所列之方法於線路端子上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A full wave lightning impulse test shall be carried out on the line terminals using the method given in Clause 13 Test voltages are given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133157Z" creationid="CCYU" creationdate="20141112T133157Z">
+        <seg>全波雷擊突波測試應依照第 13 節所列之方法於線路端子上進行，測試電壓列於表 2 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4363,6 +4379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shorter duration at the PD measurement voltage may be agreed between manufacturer and purchaser, a duration of 5 min is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133125Z" creationid="CCYU" creationdate="20141112T133125Z">
+        <seg>製造商和買方之間可協議使施加局部放電量測電壓的時間較短，建議時間為 5 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A single-phase autotransformer designed for a 400 kV HV and a 130 kV intermediate&lt;t0/&gt; v&lt;t1/&gt;oltage with 22 kV tertiary windings all in phase</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015030Z">
@@ -4431,6 +4455,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T143824Z" creationid="CCYU" creationdate="20141111T143824Z">
         <seg>若買方指定，測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(&lt;t1/&gt;1,8&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 以及局部放電量測電壓 &lt;t0/&gt;(1,58 &lt;t1/&gt; x U&lt;t2/&gt;r&lt;t3/&gt;)/√3 進行。若買方指定則可另外使用較高的電壓等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A test shall be carried out according to the method given in 11.3, with and enhancement (phase to earth) voltage level of (i,&lt;t0/&gt;8&lt;t1/&gt;xU&lt;t2/&gt;r&lt;t3/&gt;)/V&lt;t4/&gt;3&lt;t5/&gt; and a PD measurement voltage of (i,58xL/&lt;t6/&gt;r&lt;t7/&gt;)&lt;t8/&gt;/&lt;t9/&gt;A/i\ Alternative higher voltage levels may be used if specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133226Z" creationid="CCYU" creationdate="20141112T133226Z">
+        <seg>若買方指定，測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(&lt;t1/&gt;1,8&lt;t2/&gt;x U&lt;t3/&gt;r&lt;t4/&gt;) / √3 以及局部放電量測電壓 &lt;t0/&gt;(1,58 &lt;t1/&gt; x U&lt;t2/&gt;r&lt;t3/&gt;)/√3 進行。若買方指定則可另外使用較高的電壓等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A test shall be carried out using the method given in 11.3, with an enhancement (phase to earth) voltage level of (i,&lt;t0/&gt;8&lt;t1/&gt;xi/&lt;t2/&gt;r&lt;t3/&gt;)/V&lt;t4/&gt;3&lt;t5/&gt; and a one hour PD measurement voltage of (i,58xC/&lt;t6/&gt;r&lt;t7/&gt;)/V3 .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133341Z" creationid="CCYU" creationdate="20141112T133341Z">
+        <seg>測試應依照 11.3 所列之方法並使用加強 (相對地) 電壓等級 &lt;t0/&gt;(1,8&lt;t1/&gt;x U&lt;t2/&gt;r&lt;t3/&gt;) / &lt;t4/&gt;√3&lt;t5/&gt; 以及一小時之局部放電量測電壓 (1,58  x U&lt;t6/&gt;r&lt;t7/&gt;)/√3 進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6054,14 @@
         <seg>An applied voltage test in accordance with the method given in Clause 10 shall be performed on each separate winding of the &lt;t0/&gt;transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T141841Z" creationid="CCYU" creationdate="20141111T141841Z">
+        <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An applied voltage test in accordance with the method given in Clause 10 shall be performed on each separate winding of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133200Z" creationid="CCYU" creationdate="20141112T133200Z">
         <seg>施加電壓測試應依照第 10 節所列之方法分別於變壓器各獨立繞組上進行，</seg>
       </tuv>
     </tu>
@@ -16609,6 +16657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For windings with non-uniform insulation this test shall be performed at the test level given for the applied voltage test applicable to the line terminal in Table 2 using the method given in Clause 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133221Z" creationid="CCYU" creationdate="20141112T133221Z">
+        <seg>對於非統一絕緣變壓器，此項測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For windings with non-uniform insulation, the test is carried out with the test voltage specif&lt;t0/&gt;ied for the neutral terminal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125247Z" creationid="CCYU" creationdate="20141112T125247Z">
@@ -19662,9 +19718,25 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If specified by the purchaser an additional lightning impulse test on two or more terminals connected together shall be performed according to the method given in 13.1 with the test connections given in 13.1.4.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133153Z" creationid="CCYU" creationdate="20141112T133153Z">
+        <seg>若買方指定於相連接之兩組 (含) 以上端子進行額外雷擊突波測試，應根據 13.1 所示之方法和 13.1.4.3 所示之測試連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If specified by the purchaser for windings with uniform insulation, this test shall be performed at the test level given for the applied voltage test applicable to the line terminal in Table 2 &lt;t0/&gt;using the method given in Clause 12.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151454Z" creationid="CCYU" creationdate="20141111T145112Z">
+        <seg>若買方指定統一絕緣變壓器，此項測測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser for windings with uniform insulation, this test shall be performed at the test level given for the applied voltage test applicable to the line terminal in Table 2 using the method given in Clause 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133244Z" creationid="CCYU" creationdate="20141112T133244Z">
         <seg>若買方指定統一絕緣變壓器，此項測測試應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
       </tuv>
     </tu>
@@ -19690,6 +19762,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151527Z" creationid="CCYU" creationdate="20141111T151447Z">
         <seg>入買方指定此項測試，應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified by the purchaser this test shall be performed at the test level given for the applied voltage test applicable to the line terminal in Table 2 using the method given in Clause 12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133409Z" creationid="CCYU" creationdate="20141112T133409Z">
+        <seg>若買方指定此項測試，應依照第 12 節所示之方法，使用表 2 所示之測試電壓等級於線路端子上進行測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20331,6 +20411,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112933Z" creationid="CCYU" creationdate="20141030T112933Z">
         <seg>若非此情況，需選定一組或多組特定負載組合並指明溫度上升限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this test is carried out, then the Line Terminal AC Withstand Test (LTAC) may be omitted by agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133232Z" creationid="CCYU" creationdate="20141112T133232Z">
+        <seg>若已進行此項測試，可依製造商和買方之間協議省略線端子交流耐壓測試 (LTAC)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21079,10 +21167,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular an enhancement voltage of (V3xU&lt;t8/&gt;m&lt;t9/&gt;)/V3 and a one hour PD measurement voltage of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133357Z" creationid="CCYU" creationdate="20141112T133357Z">
+        <seg>若需較高電壓可使用特定加強電壓 (√3 x U&lt;t8/&gt;m&lt;t9/&gt;)/ √3 和一小時之局部放電量測電壓 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular an enhancement voltage of (V3xU&lt;t9/&gt;m&lt;t10/&gt;)/V3 an&lt;t11/&gt;d a one hour PD measurement voltage of</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151010Z" creationid="CCYU" creationdate="20141111T151010Z">
         <seg>若需較高電壓可使用特定加強電壓 (√3 x U&lt;t9/&gt;m&lt;t10/&gt;)/ √3 和一小時之局部放電量測電壓 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular an enhancement voltage of (ViT&lt;t10/&gt;xU&lt;t11/&gt;m&lt;t12/&gt;)/4z&lt;t13/&gt; and a PD measurement voltage of (&lt;t14/&gt;1&lt;t15/&gt;,&lt;t16/&gt;5&lt;t17/&gt;xU&lt;t18/&gt;m&lt;t19/&gt;)/4z&lt;t20/&gt; may be used if higher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133229Z" creationid="CCYU" creationdate="20141112T133229Z">
+        <seg>若需較高電壓可使用特定加強電壓 &lt;t13/&gt;(√3 x &lt;t14/&gt;U&lt;t15/&gt;m&lt;t16/&gt;)/ √3 和局部放電量測電壓 (&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;1,5 x U&lt;t20/&gt;m&lt;t21/&gt;) / √3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27031,6 +27135,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For three phase transformers, the voltage between the phases at the IVPD-enhancement level can be higher than the phase to earth AC withstand voltages given in Table 2 - Test voltage levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133401Z" creationid="CCYU" creationdate="20141112T133401Z">
+        <seg>註 三相變壓器於 IVPD 加強電壓水準下，各相之間電壓可能高於“表 2 - 測試電壓等級”給定之相對地交流耐壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE For three phase transformers, the voltage between the phases at the IVPD-enhancement level can be higher than the phase to earth AC withstand voltages given in Table 2 - Test&lt;t0/&gt; voltage levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151342Z" creationid="CCYU" creationdate="20141111T151342Z">
@@ -27290,6 +27402,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>NOTE Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;&lt;t3/&gt; 72,5 kV need to be designed with u&lt;t4/&gt;niform winding insulation to satisfy the test requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152344Z" creationid="CCYU" creationdate="20141111T152344Z">
+        <seg>註 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV 之變壓器應設計統一繞組絕緣以滿足此測試規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;&lt;t3/&gt; 72,5 kV need to be designed with uniform winding insulation to satisfy the test requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133422Z" creationid="CCYU" creationdate="20141112T133422Z">
         <seg>註 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV 之變壓器應設計統一繞組絕緣以滿足此測試規範。</seg>
       </tuv>
     </tu>
@@ -39176,9 +39296,25 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The extension of the lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of &lt;t0/&gt;liquid to SF&lt;t1/&gt;6&lt;t2/&gt; bushings or when the transformer is protected by rod gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133147Z" creationid="CCYU" creationdate="20141112T133147Z">
+        <seg>當變壓器以&lt;t0/&gt;液體對 SF&lt;t1/&gt;6&lt;t2/&gt; 套管直接連接至 GIS 或當變壓器由柱形間隙保護時，建議以包含截斷尾端突波之延伸雷擊突波測試作為特殊測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The extension of the lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of liquid to SF&lt;t0/&gt;6&lt;t1/&gt; bushings or when the transformer is protect&lt;t2/&gt;ed by rod gaps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145011Z" creationid="CCYU" creationdate="20141111T144603Z">
+        <seg>當變壓器以液體對 SF&lt;t0/&gt;6&lt;t1/&gt; 套管直接連接至 GIS 或當變壓器由柱形間隙保護時，建議以包含截斷尾端突波之延伸雷擊突波測試作為特殊測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extension of the lightning impulse test to include impulses chopped on the tail as a special test is recommended in cases where the transformer is directly connected to GIS by means of liquid to SF&lt;t0/&gt;6&lt;t1/&gt; bushings or when the transformer is protected by rod gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133242Z" creationid="CCYU" creationdate="20141112T133242Z">
         <seg>當變壓器以液體對 SF&lt;t0/&gt;6&lt;t1/&gt; 套管直接連接至 GIS 或當變壓器由柱形間隙保護時，建議以包含截斷尾端突波之延伸雷擊突波測試作為特殊測試。</seg>
       </tuv>
     </tu>
@@ -40515,6 +40651,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The neutral shall &lt;t0/&gt;be tested at the applied voltage test level for the line terminals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T152137Z" creationid="CCYU" creationdate="20141111T152137Z">
+        <seg>中性點應以線路端子之施加電壓等級進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neutral shall be tested at the applied voltage test level for the line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133415Z" creationid="CCYU" creationdate="20141112T133415Z">
         <seg>中性點應以線路端子之施加電壓等級進行測試，</seg>
       </tuv>
     </tu>
@@ -45011,6 +45155,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>This normally applies if the neutral is not directly connecte&lt;t0/&gt;d to earth in service.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T151348Z" creationid="CCYU" creationdate="20141111T151348Z">
+        <seg>此測試一般適用於中性端子於運作時未直接接地的情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This normally applies if the neutral is not directly connected to earth in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133151Z" creationid="CCYU" creationdate="20141112T133151Z">
         <seg>此測試一般適用於中性端子於運作時未直接接地的情況下。</seg>
       </tuv>
     </tu>
@@ -50294,6 +50446,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121750Z" creationid="CCYU" creationdate="20141104T121750Z">
         <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>be substituted by an IVPD test with an enhancement voltage &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/^z&lt;t5/&gt; , see e) below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133219Z" creationid="CCYU" creationdate="20141112T133219Z">
+        <seg>買方同意則此項測試可由局部放電量測 (IVPD) 測試以加強電壓 &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt; x U&lt;t3/&gt;r&lt;t4/&gt;)/√3&lt;t5/&gt; 取代，請見以下 e)。</seg>
       </tuv>
     </tu>
     <tu>
