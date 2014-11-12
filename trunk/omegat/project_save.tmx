@@ -13187,8 +13187,8 @@
       <tuv lang="EN-US">
         <seg>Each PD measurement channel including the associated bushing or coupling capacitor shall be calibrated in terms of apparent charge (pC) according to the method given in IEC 60270.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160827Z" creationid="CCYU" creationdate="20141112T160827Z">
-        <seg>每組局部放電量測通道中，對應套管或耦合電容器應進行ach PD measurement channel including the associated bushing or coupling capacitor shall be calibrated in terms of apparent charge (pC) according to the method given in IEC 60270.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160950Z" creationid="CCYU" creationdate="20141112T160827Z">
+        <seg>每組局部放電量測通道中，套管或耦合電容器應依據 IEC 60270 之方法進行視在電荷 (pC) 校正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38262,6 +38262,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154418Z" creationid="CCYU" creationdate="20141112T154418Z">
         <seg>量測局部放電等級並紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The PD measurement shall be given in pC and shall refer to the highest steady-state repetitive impulses indicated by the measuring instrument.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T161222Z" creationid="CCYU" creationdate="20141112T161222Z">
+        <seg>局部放電量測應以 pC 表示，應為量測儀器指示之最高穩態除重複突波。</seg>
       </tuv>
     </tu>
     <tu>
