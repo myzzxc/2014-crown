@@ -42352,6 +42352,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The wiring for auxiliary power, and control circuitry shall be subjected to a 1 min AC separate source test of 2 &lt;t0/&gt;kV to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T050818Z" creationid="MAE" creationdate="20141112T050818Z">
+        <seg>輔助電源配線和控制電路應以 2 kV (對地) 獨立交流電源進行 1 分鐘測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The working gas is air with a gas constant of 287 Jkg&lt;t6/&gt;-1&lt;t7/&gt;K&lt;t8/&gt;-1&lt;t9/&gt;, and the core cylinder material is stainless steel with density, thermal conductivity, and specific heat of &lt;t10/&gt;7,840 kgm&lt;t11/&gt;-3&lt;t12/&gt;, 43 Wm&lt;t13/&gt;-1&lt;t14/&gt;K&lt;t15/&gt;-1&lt;t16/&gt;, and 0.45 &lt;t17/&gt;kJkg&lt;t18/&gt;-1&lt;t19/&gt;K&lt;t20/&gt;-1&lt;t21/&gt;, respectively.&lt;t22/&gt; The initial crank angle and gas pressure are zero degree and 101 &lt;t23/&gt;kPa&lt;t24/&gt;, respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211929Z">
