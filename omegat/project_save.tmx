@@ -20697,6 +20697,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immediately after the test time, the voltage shall be reduced without interruption to the one hour PD measurement voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154726Z" creationid="CCYU" creationdate="20141112T154726Z">
+        <seg>結束測試後立即將電壓降低至一小時局部放電量測電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immediately flush eyes with plenty of water for at least 15 minutes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T171254Z">
@@ -38170,6 +38178,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PD level shall be measured and recorded every 5 min during the one hour period.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154912Z" creationid="CCYU" creationdate="20141112T154912Z">
+        <seg>於一小時的期間內每 5 分鐘量測局部放電等級並紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PD level shall be measured and recorded.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154418Z" creationid="CCYU" creationdate="20141112T154418Z">
@@ -43654,6 +43670,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013254Z">
         <seg>應量測每繞組之電壓比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be held at the one hour PD measurement voltage for a duration of at least one hour following the PD measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154834Z" creationid="CCYU" creationdate="20141112T154834Z">
+        <seg>電壓應維持於一小時局部放電量測電壓至少一小時後進行局部放電量測。</seg>
       </tuv>
     </tu>
     <tu>
