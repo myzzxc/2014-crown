@@ -5635,6 +5635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All solid state and microprocessor based devices shall be excluded from the t&lt;t1/&gt;est circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T062738Z" creationid="MAE" creationdate="20141112T062738Z">
+        <seg>所有固態和微處理器設備應被排除於測試電路外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125522Z" creationid="CCYU" creationdate="20141106T125522Z">
@@ -5663,6 +5671,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T234652Z">
         <seg>此三個品牌現在皆為 FLUKE 的子公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All three phase undervoltage relays and withdrawable type devices shall be removed from the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T062911Z" creationid="MAE" creationdate="20141112T062911Z">
+        <seg>所有三相低電壓繼電器及抽取式裝置應由測試電路中移除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25299,6 +25315,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114930Z">
         <seg>多數倉庫對於吸收毯合吸收墊沒有大量的需求，除非他們使用雨水分離系統而需要將水中油污去除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Motors and other apparatus for auxiliary equipment shall fulfil insulation requirements according to the relevant I&lt;t0/&gt;EC standard (which are generally lower than the value specified for the wiring alone, and which may sometimes make it necessary to disconnect them in order to test the circuits).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T062649Z" creationid="MAE" creationdate="20141112T062649Z">
+        <seg>馬達及其它輔助設備應按照相關 IEC 標準滿足的絕緣要求 (通常低於繞組本身指定值，且有時可能需要切斷其連接以測試電路)。</seg>
       </tuv>
     </tu>
     <tu>
