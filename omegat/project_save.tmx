@@ -12825,6 +12825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the test sequence the inception and extinction voltages of any significant PD activity should be noted to aid the evaluation of the test result if the test criteria are not met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155701Z" creationid="CCYU" creationdate="20141112T155701Z">
+        <seg>測試期間應紀錄任何顯著的局部放電現象之起始與結束電壓，以於未符合測試規範時用於評估測試結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the test, symmetrical voltages appear at all the line terminals and between turns, with no voltage at the neutral.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T135148Z" creationid="CCYU" creationdate="20141108T135148Z">
@@ -27393,6 +27401,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE It can also be helpful to record the PD pattern (phase angle, apparent charge and number) of any significant PD activity to aid evaluation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155923Z" creationid="CCYU" creationdate="20141112T155923Z">
+        <seg>註 紀錄任何顯著局部放電現象之模式(相位角、外顯電荷和數量) 也有助於評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE It is normal practice for all the auxiliary wiring to be checked on-site at 1 kV DC for 1 min before energisation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T063052Z" creationid="MAE" creationdate="20141112T063052Z">
@@ -41166,6 +41182,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133536Z" creationid="CCYU" creationdate="20141112T133536Z">
         <seg>局部放電準則由雙方協議後，可能需依測試環境修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The partial discharge level shall be continuously observed on at least one measuring channel for the entire duration of the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155321Z" creationid="CCYU" creationdate="20141112T155321Z">
+        <seg>整個測試期間應持續觀測至少一個通道之局部放電等級。</seg>
       </tuv>
     </tu>
     <tu>
