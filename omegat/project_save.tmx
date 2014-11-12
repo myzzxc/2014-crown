@@ -26503,6 +26503,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Approximately sinusoidal can be taken to mean that the peak value divided by does not differ from the r.m.s value of the waveform by more than about 5 % (see IEC 60060-1), but wi&lt;t0/&gt;der deviations may be accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123649Z" creationid="CCYU" creationdate="20141112T123649Z">
+        <seg>註 近似正弦波為極值除以 √2 與波形之均方根值差異不超過 5 % (請見 IEC 60060-1)，但可接受較大的偏差值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Both windings of a two-winding transformer have the same rated power which by definition is the rated power of the whole transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160207Z">
