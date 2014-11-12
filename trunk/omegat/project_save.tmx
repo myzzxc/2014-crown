@@ -41648,6 +41648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test is passed if no voltage collapse or other sign of breakdown occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052124Z" creationid="MAE" creationdate="20141112T052124Z">
+        <seg>若無電壓崩潰或其它故障發生則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test is performed with a three phase voltage on three phase transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T135256Z" creationid="CCYU" creationdate="20141108T135256Z">
