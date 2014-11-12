@@ -41136,6 +41136,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The peak value, as defined in IEC 60060-1 divided by V2 and the r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142353Z" creationid="CCYU" creationdate="20141112T142353Z">
+        <seg>依 IEC 60060-1 所定義，應量測極值除以 √2 之值和感應測試電壓均方根值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The peakvalue divided by shall be equal to the test value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133606Z" creationid="CCYU" creationdate="20141112T133606Z">
@@ -56062,6 +56070,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>value of the induced&lt;t0/&gt; &lt;t1/&gt;test voltage shall be measured and the lower of the peak value divided by and the r.m.s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142531Z" creationid="CCYU" creationdate="20141112T142531Z">
+        <seg>且較低的極值除以  √2 和均方根值應作為測試值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value of voltage of the it&lt;t0/&gt;h&lt;t1/&gt; harmonic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091815Z">
@@ -56082,6 +56098,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055737Z">
         <seg>同時，電壓表對電壓方均根值應與平均值電壓表並聯，並應紀錄其指示電壓 U。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value shall be taken as the test value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142533Z" creationid="CCYU" creationdate="20141112T142533Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
