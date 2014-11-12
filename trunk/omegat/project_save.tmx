@@ -6915,6 +6915,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applied voltage t&lt;t0/&gt;est (AV)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T063057Z" creationid="MAE" creationdate="20141112T063057Z">
+        <seg>施加電壓測試 (AV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applied voltage test (AV)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165040Z" creationid="Judy" creationdate="20141109T165040Z">
@@ -26619,6 +26627,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062040Z" creationid="CCYU" creationdate="20141102T062040Z">
         <seg>註 原則上，熱點繞組溫度上升之估計可利用設計資料，但應注意此程序之不確定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE It is normal practice for all the auxiliary wiring to be checked on-site at 1 kV DC for 1 min before energisation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T063052Z" creationid="MAE" creationdate="20141112T063052Z">
+        <seg>註 通常所有輔助配線會於現場通電前，以 1 kV 直流測試 1 分鐘。</seg>
       </tuv>
     </tu>
     <tu>
