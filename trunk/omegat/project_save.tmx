@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>120 x &lt;t0/&gt;ra&lt;t1/&gt;*&lt;t2/&gt;ec&lt;t3/&gt;* frequency&lt;t4/&gt; ^ ^ &lt;t5/&gt;not&lt;t6/&gt; |&lt;t7/&gt;ess&lt;t8/&gt; ^&lt;t9/&gt;an&lt;t10/&gt; &lt;t11/&gt;15&lt;t12/&gt; &lt;t13/&gt;s&lt;t14/&gt; f&lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;u&lt;t18/&gt;m&lt;t19/&gt; &lt; 800 kV test frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153630Z" creationid="CCYU" creationdate="20141112T153630Z">
+        <seg>120 x 額定頻率，&lt;t17/&gt;U&lt;t18/&gt;m&lt;t19/&gt; ≤ 800 kV 時不低於 15 秒 測試頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>123 / 36 / 7&lt;t0/&gt;,2&lt;t1/&gt; kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143010Z">
@@ -42952,6 +42960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test time at the enhancement voltage shall be 60 s in case &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 800 kV and 300 s in case &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; &gt;&lt;t6/&gt; 800 kV for any test frequency up to and including twice the rated frequency, unless otherwise specified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153500Z" creationid="CCYU" creationdate="20141112T153352Z">
+        <seg>除另行指定外，所有測試頻率低於 (含) 兩倍額定頻率之加強電壓下之測試時間，當 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 800 kV 時為 60 秒，而當  &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; &gt;&lt;t6/&gt; 800 kV 時為 300 秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test verifies the switching impulse withstand strength of the line terminals and the connected winding(s) to earth and other windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133133Z" creationid="CCYU" creationdate="20141108T133022Z">
@@ -53494,6 +53510,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055254Z">
         <seg>開口三角連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153637Z" creationid="CCYU" creationdate="20141112T153637Z">
+        <seg>或</seg>
       </tuv>
     </tu>
     <tu>
