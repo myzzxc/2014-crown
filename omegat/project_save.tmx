@@ -13185,6 +13185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each PD measurement channel including the associated bushing or coupling capacitor shall be calibrated in terms of apparent charge (pC) according to the method given in IEC 60270.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160827Z" creationid="CCYU" creationdate="20141112T160827Z">
+        <seg>每組局部放電量測通道中，對應套管或耦合電容器應進行ach PD measurement channel including the associated bushing or coupling capacitor shall be calibrated in terms of apparent charge (pC) according to the method given in IEC 60270.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each PIV analysis revealed a scatter of values, distributed close to zero.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120349Z">
@@ -27427,8 +27435,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE It can also be helpful to record the PD pattern (phase angle, apparent charge and number) of any significant PD activity to aid evaluation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155923Z" creationid="CCYU" creationdate="20141112T155923Z">
-        <seg>註 紀錄任何顯著局部放電現象之模式(相位角、外顯電荷和數量) 也有助於評估。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160850Z" creationid="CCYU" creationdate="20141112T155923Z">
+        <seg>註 紀錄任何顯著局部放電現象之模式(相位角、視在電荷和數量) 也有助於評估。</seg>
       </tuv>
     </tu>
     <tu>
