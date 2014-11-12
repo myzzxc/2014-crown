@@ -20215,6 +20215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the purchaser requires a specific test voltage for lower &lt;t0/&gt;voltage windings higher than &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;voltage determined in this clause then this shall be clearly s&lt;t4/&gt;tated in the enquiry and tender &lt;t5/&gt;and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141703Z" creationid="CCYU" creationdate="20141112T141703Z">
+        <seg>若買方要求低電壓繞組使用高於本節所訂定之指定測試電壓，應於詢價和投標時說明，並協議高電壓繞組可能因而超出指定測試電壓之測試方法與測試電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the purchaser requires the tests performed in a particular order, this shall be included in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151539Z">
@@ -42880,6 +42888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be performed with the transformer excited exactly as it will be for service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141730Z" creationid="CCYU" creationdate="20141112T141730Z">
+        <seg>測試之變壓器依運轉條件連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall commence at a voltage not greater than one-third of the specified test value, and the voltage shall be increased to the test value as rapidly as is consistent with measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124006Z" creationid="CCYU" creationdate="20141112T124006Z">
@@ -43700,6 +43716,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151336Z">
         <seg>表 1 列出了模擬之 γ-型史特林引擎尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;voltage may be induced from any winding or from a special winding or taps provided for test&lt;t2/&gt; &lt;t3/&gt;purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141906Z" creationid="CCYU" creationdate="20141112T141906Z">
+        <seg>任何用於測試之繞組或特殊繞組或抽頭可能產生感應電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50417,6 +50441,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>an agreement reached on the method of test and the te&lt;t0/&gt;st voltages that will appear on &lt;t1/&gt;the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141705Z" creationid="CCYU" creationdate="20141112T141705Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>an auto-connected pair of winding, or</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084804Z">
@@ -52294,6 +52326,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125643Z">
         <seg>高壓繞組 (high-voltage winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>higher voltage windings which may consequently exceed the specified test voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141706Z" creationid="CCYU" creationdate="20141112T141706Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
