@@ -38170,6 +38170,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PD level shall be measured and recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154418Z" creationid="CCYU" creationdate="20141112T154418Z">
+        <seg>量測局部放電等級並紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The PIV analysis in the Hongtsaiping area covers a dimension of about 3228×2448 pixels in an area of about 1.2 km2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T133007Z">
@@ -43654,6 +43662,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154132Z" creationid="CCYU" creationdate="20141112T154132Z">
         <seg>增加電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be raised to (i,&lt;t0/&gt;2&lt;t1/&gt;xL/&lt;t2/&gt;r&lt;t3/&gt;)/Vi' and held there for a minimum duration of 1 min and only long enough to make a stable PD measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154358Z" creationid="CCYU" creationdate="20141112T154358Z">
+        <seg>增加電壓至 (1,2 x U&lt;t2/&gt;r&lt;t3/&gt;) / √3 並維持至少 1 分鐘，僅於足夠的時間下才能進行穩定的局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be raised to the enhancement voltage and held there for the test time in 11.3.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154557Z" creationid="CCYU" creationdate="20141112T154557Z">
+        <seg>增加電壓至加強電壓並維持如 11.3.2 所示之時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be raised to the one hour PD measurement voltage and held there for a minimum duration of 5 min and only long enough to make a stable PD measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154504Z" creationid="CCYU" creationdate="20141112T154504Z">
+        <seg>增加電壓至一小時局部放電量測之電壓並維持至少 5 分鐘，僅於足夠的時間下才能進行穩定的局部放電量測。</seg>
       </tuv>
     </tu>
     <tu>
