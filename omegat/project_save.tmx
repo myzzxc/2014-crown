@@ -5549,6 +5549,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the last PD measurement in the one hour period the voltage shall be reduced to (&lt;t0/&gt;1,2&lt;t1/&gt; x &lt;t2/&gt;u&lt;t3/&gt;r&lt;t4/&gt;)j4z&lt;t5/&gt; and held there for a minimum duration of &lt;t6/&gt;1&lt;t7/&gt; min and only long enough to make a stable PD measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155024Z" creationid="CCYU" creationdate="20141112T155024Z">
+        <seg>一小時局部放電量測結束後電壓應降低至 (1,2 x U&lt;t2/&gt;r&lt;t3/&gt;) / √3 並維持至少 1 分鐘，僅於足夠的時間下才能進行穩定的局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the top-liquid temperature rise has been establish&lt;t0/&gt;ed, the test shall be continued without a break with the test current reduced to rated current for the winding combination connected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T075342Z" creationid="Judy" creationdate="20141101T075342Z">
@@ -43710,6 +43718,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154504Z" creationid="CCYU" creationdate="20141112T154504Z">
         <seg>增加電壓至一小時局部放電量測之電壓並維持至少 5 分鐘，僅於足夠的時間下才能進行穩定的局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be reduced to (o,&lt;t0/&gt;4&lt;t1/&gt;xiy&lt;t2/&gt;r&lt;t3/&gt;)/V&lt;t4/&gt;3&lt;t5/&gt; and the background PD level shall be measured and recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155052Z" creationid="CCYU" creationdate="20141112T155052Z">
+        <seg>降低電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be reduced to a value below (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xD&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt; .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155114Z" creationid="CCYU" creationdate="20141112T155114Z">
+        <seg>降低電壓至低於 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage shall be switched off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155123Z" creationid="CCYU" creationdate="20141112T155123Z">
+        <seg>關閉電壓。</seg>
       </tuv>
     </tu>
     <tu>
