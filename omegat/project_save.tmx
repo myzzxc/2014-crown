@@ -6883,6 +6883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any fiashover from one &lt;t1/&gt;of the&lt;t2/&gt; line terminals to earth during &lt;t3/&gt;the test can result in voltages exceeding the applied voltage test level&lt;t4/&gt; &lt;t5/&gt;appearing at the other terminals of the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T134401Z" creationid="CCYU" creationdate="20141112T134401Z">
+        <seg>測試期間任何由一線路端子至接地產生之跳火將可能造成繞組其他端子電壓超出施加測試電壓等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any inability of the manufacturer to perform the test or measurement at the rated frequency shall be stated by the manufacturer at the tender stage and appropriate conversion factors agreed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151431Z">
