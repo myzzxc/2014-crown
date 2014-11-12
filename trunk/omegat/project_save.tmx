@@ -37496,6 +37496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test duration and frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153156Z" creationid="CCYU" creationdate="20141112T153156Z">
+        <seg>測試時間和頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test methods for temperature rise determination</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125911Z" creationid="CCYU" creationdate="20141031T125911Z">
@@ -48693,6 +48701,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125903Z">
         <seg>當變壓器類別不存在於 IEC 標準 (特別是工業用無繞組且額定電壓高於 1000 V 之變壓器) 時，此 IEC 60076 部分仍然適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a particular type of bushing is specified by the purchaser that is expected to have a partial discharge level that will prevent accurate partial discharge measurements of the transformer on test it is permitted to exchange the bushings for a partial discharge free type during the testing of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153145Z" creationid="CCYU" creationdate="20141112T153145Z">
+        <seg>當買方指定特定形式套管之局部放電等級將影響變壓器局部放電量測正確性時，於變壓器測試期間可將套管換為無局部放電形式。</seg>
       </tuv>
     </tu>
     <tu>
