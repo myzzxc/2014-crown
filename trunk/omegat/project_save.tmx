@@ -5933,6 +5933,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively if specified by the purchaser and in special cases such as one single phase transformer, or multiple tap-changers, or when the tapping-range is not symmetrical, the tap- position which gives the highest internal voltages (determined either by calculation or by performing low voltage impulse measurements) shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T222624Z" creationid="Judy" creationdate="20141113T222624Z">
+        <seg>另外當買方指定或特殊情況如單相變壓器、或多重抽頭切換器、或抽頭範圍不對稱時，應使用提供最高內部電壓之抽頭位置 (經由計算或進行低電壓突波量測決定)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively maximum and minimum impedances in terms of z or Z may be specified for each tapping across the whole tapping range.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130408Z">
