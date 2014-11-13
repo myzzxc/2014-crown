@@ -19872,6 +19872,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If required by the purchaser partial discharge measurements can be made during this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T134623Z" creationid="CCYU" creationdate="20141113T134537Z">
+        <seg>若買方要求，可於本測試中進行局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If required use brush extension.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021514Z">
@@ -24297,6 +24305,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning impulse tests (LI, LIC, LIN, LIMT)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T134631Z" creationid="CCYU" creationdate="20141113T134631Z">
+        <seg>雷擊突波測試 (LI, LIC, LIN, LIMT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning impulses applied to multiple line terminals simultaneously (LIMT)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121401Z" creationid="CCYU" creationdate="20141111T121401Z">
@@ -27733,6 +27749,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153615Z">
         <seg>註 此數字無意義，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE This test is intended only as a withstand test for each line terminal of a non-uniformly insulated transformer to earth, it is not intended to test the phase to phase or turn to turn insulation so the test arrangement can be made in any convenient way, for example with voltage at the neutral to reduce the turn to turn voltage and the test will normally be carried out as three single phase tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T134415Z" creationid="CCYU" creationdate="20141113T134415Z">
+        <seg>註 此項測試僅用於非統一絕緣變壓器各線路端子對地之耐壓測試，不用為相對相或匝對匝絕緣，因測試配置可選擇最方便進行之方式，例如電壓加於中性點以降低匝對匝電壓，且測試通常以三組單相測試進行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47799,6 +47823,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130136Z">
         <seg>除非另有指明，於 CbVV '最大電壓抽頭' 情況下，CFVV 和 VFVV 之間的切換點應同時為 '最大電流抽頭'，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under normal circumstances the switching impulse test fully covers the intent of this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T134539Z" creationid="CCYU" creationdate="20141113T134520Z">
+        <seg>在正常情況下開關突波測試完全涵蓋了此項測試。</seg>
       </tuv>
     </tu>
     <tu>
