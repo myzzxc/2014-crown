@@ -8278,6 +8278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before an impulse of opposite polarity is applied, sufficient time should be allowed for any residual charge to dissipate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135902Z" creationid="CCYU" creationdate="20141113T135902Z">
+        <seg>於施加相反極性之突波前，應有足夠的時間使殘餘電荷消散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before any CFD simulation can begin, the correctness of the code has to be validated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T212432Z">
@@ -19452,6 +19460,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141228Z">
         <seg>若需進行閃電脈衝電壓測試，測試是否包含截波 (請見 IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a mixture of impulse polarities are used then additional reference impulses will be required and the test sequence shall be agreed between the manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135738Z" creationid="CCYU" creationdate="20141113T135738Z">
+        <seg>若使用混合突波極性則需有額外參考突波，且測試程序應由製造商和買方達成協議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37302,6 +37318,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120220Z">
         <seg>我們的產品非常適合用於油罐區，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap positions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135905Z" creationid="CCYU" creationdate="20141113T135905Z">
+        <seg>抽頭位置</seg>
       </tuv>
     </tu>
     <tu>
