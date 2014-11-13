@@ -20475,8 +20475,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the tapping range is larger than ± 5 % or the rated power of the transformer is &gt; 2 500 kVA then, unless otherwise agreed, the two extreme tappings and the principal tapping shall be used, one tapping for each of the three individual phases of a three-phase transformer or the three single-phase transformers designed to form a three-phase bank.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T221415Z" creationid="Judy" creationdate="20141113T221415Z">
-        <seg>若抽頭範圍大於 ± 5 % or the rated power of the transformer is &gt; 2 500 kVA then, unless otherwise agreed, the two extreme tappings and the principal tapping shall be used, one tapping for each of the three individual phases of a three-phase transformer or the three single-phase transformers designed to form a three-phase bank.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T222202Z" creationid="Judy" creationdate="20141113T221415Z">
+        <seg>若抽頭範圍大於 ± 5 % 或變壓器額定功率 &gt; 2 500 kVA，則除另行協議外，應使用兩極端抽頭及主抽頭，一抽頭用於三相變壓器之各獨立相或設計用於三相組合之單相變壓器。</seg>
       </tuv>
     </tu>
     <tu>
