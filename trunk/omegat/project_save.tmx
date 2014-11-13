@@ -27297,6 +27297,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Bushings with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 72,5 kV are equipped with test taps according to IEC 60137 which can be used for the measurement, if this test is specified as a special test for transformers with a &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt;&lt;&lt;t7/&gt; 72,5 kV then the method of measurement will have to be agreed between the manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T125614Z" creationid="CCYU" creationdate="20141113T125614Z">
+        <seg>註 依據 IEC 60137 之 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≥&lt;t3/&gt; 72,5 kV 套管及測試抽頭可用於量測，若測試 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt;&lt;&lt;t7/&gt; 72,5 kV 並指定為特殊測試時，則測試方法需由買方與製造商達成協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Certain installation conditions, particularly where energisation of the transformer is from the remote end of a cable or a long overhead li&lt;t0/&gt;ne, can lead to severe exposure to overvoltages which might be frequent and repetitive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T125752Z" creationid="CCYU" creationdate="20141110T125752Z">
@@ -37574,6 +37582,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140810T085314Z">
         <seg>測試結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test acceptance criteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T125629Z" creationid="CCYU" creationdate="20141113T125629Z">
+        <seg>測試合格標準</seg>
       </tuv>
     </tu>
     <tu>
