@@ -7381,6 +7381,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as no breakdown occurs, and unless very high partial discharges are sustained for a long time, the test is regarded as non-destructive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131653Z" creationid="CCYU" creationdate="20141113T131653Z">
+        <seg>只要無故障發生則視測試為非破壞性，除非長時間持續很高的局部放電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As mention earlier, the reduction of chamber volume is due to the motions of the displacer and power pistons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080647Z">
