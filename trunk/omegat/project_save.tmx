@@ -13217,6 +13217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each phase terminal of the tested winding shall be tested in turn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T133214Z" creationid="CCYU" creationdate="20141113T133210Z">
+        <seg>應輪流測試受測繞組之各相端子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each time switch is moved, lamp lights up green and then flashes red according to the level at which the switch is set (two, three or four flashes).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111309Z">
@@ -43114,6 +43122,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test shall be arranged so that the test voltage appears between the tested terminal and earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T133051Z" creationid="CCYU" creationdate="20141113T133051Z">
+        <seg>測試配置應使測試電壓施加於測試端子和接地之間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test shall be carried out at the manufacturer’s works, unless the transformer is to be installed on-site by the manufacturer in which case the test may be perform&lt;t1/&gt;ed on-site instead of in the factory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T052349Z" creationid="MAE" creationdate="20141112T052349Z">
@@ -43214,6 +43230,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153500Z" creationid="CCYU" creationdate="20141112T153352Z">
         <seg>除另行指定外，所有測試頻率低於 (含) 兩倍額定頻率之加強電壓下之測試時間，當 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 800 kV 時為 60 秒，而當  &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; &gt;&lt;t6/&gt; 800 kV 時為 300 秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test time, frequency and voltage application shall be as given for the induced voltage withstand test see &lt;t0/&gt;11&lt;t1/&gt;.&lt;t2/&gt;2&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T133344Z" creationid="CCYU" creationdate="20141113T133344Z">
+        <seg>測試時間、頻率及電壓應為感應電壓耐壓測試所列之數值，請見 11.2。</seg>
       </tuv>
     </tu>
     <tu>
