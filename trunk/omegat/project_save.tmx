@@ -21177,6 +21177,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all circumstances, the voltage appearing during the impulse test at the other line terminals shall not be more than 75 % of their rated lightning impulse withstand voltage &lt;t0/&gt;for star-connected windings, or 50 % for delta-connected windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T232518Z" creationid="Judy" creationdate="20141113T232518Z">
+        <seg>所有情況下，突波測試期間其它線路端子之電壓不得超過其額定突波耐壓值的 75 % (星形連接繞組)，或 50 % (三角連接繞組)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In all resistance measurements, care shall be taken that the effects of self-induction are minimized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162716Z">
@@ -40562,6 +40570,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The impedance shall not exceed the surge impedance of the connected line (if a value is supplied by the purchaser) or 400 Q whichever is lower.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T232152Z" creationid="Judy" creationdate="20141113T232152Z">
+        <seg>阻抗應不超過連接線路之突波阻抗 (若買方有提供數值) 或 400 Ω 取較低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The impulse test sequence is applied to each of the line terminals of the tested winding in succession.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T231433Z" creationid="Judy" creationdate="20141113T231433Z">
@@ -40910,6 +40926,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T083759Z">
         <seg>下列較低值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lowest value of impedance at each terminal needed to achieve the required waveshape shall be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T232639Z" creationid="Judy" creationdate="20141113T232639Z">
+        <seg>應使用個端子達到所需波形之最低阻抗值。</seg>
       </tuv>
     </tu>
     <tu>
