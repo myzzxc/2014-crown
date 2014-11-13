@@ -20473,6 +20473,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the tapping range is larger than ± 5 % or the rated power of the transformer is &gt; 2 500 kVA then, unless otherwise agreed, the two extreme tappings and the principal tapping shall be used, one tapping for each of the three individual phases of a three-phase transformer or the three single-phase transformers designed to form a three-phase bank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T221415Z" creationid="Judy" creationdate="20141113T221415Z">
+        <seg>若抽頭範圍大於 ± 5 % or the rated power of the transformer is &gt; 2 500 kVA then, unless otherwise agreed, the two extreme tappings and the principal tapping shall be used, one tapping for each of the three individual phases of a three-phase transformer or the three single-phase transformers designed to form a three-phase bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range is not symmetrical &lt;t2/&gt;about&lt;t3/&gt; the principal tapping then this shall be indicated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T142432Z">
@@ -20493,6 +20501,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132719Z">
         <seg>若抽頭範圍在 ±5 % 以內，且額定功率不超過 2500 kVA，保證負載損耗和溫度上升僅參考主抽頭，且溫度上升測試於該抽頭進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the tapping range is ± 5 % or less and the rated power of the transformer is &lt; 2 500 kVA then, the lightning impulse tests shall be made with the transformer connected on the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T221344Z" creationid="Judy" creationdate="20141113T221344Z">
+        <seg>若抽頭範圍小於 ± 5 % 且變壓器額定功率 ≤ 2 500 kVA，則雷擊突波測試應於變壓器連接主抽頭的情況下進行。</seg>
       </tuv>
     </tu>
     <tu>
