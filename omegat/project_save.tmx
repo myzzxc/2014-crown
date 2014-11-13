@@ -41530,6 +41530,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other line terminals of the transformer shall be earthed directly or, if needed to achieve the required waveshape, through an impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T231621Z" creationid="Judy" creationdate="20141113T231621Z">
+        <seg>變壓器其他線路端子應直接接地或當有必要時連接阻抗以形成所需波形，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other video named ‘‘&lt;t2/&gt;ﬂux_all&lt;t3/&gt;’’ plays the variations of local ﬂux on bottom plate, top plate, power cylinder wall, and regenerative wall, within two engine cycles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210737Z">
