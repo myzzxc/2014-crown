@@ -21465,6 +21465,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases an oscillogram of the current flowing to earth from the tested winding (neutral current) or the capacitive probe current, i.e. the current transferred to the non-tested and shorted winding, will represent the best sensitivity for fault indication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230255Z" creationid="Judy" creationdate="20141113T230255Z">
+        <seg>多數情況下，由測試繞組流向接地電流 (中性電流) 或電容性探測電流 (即傳輸至非測試或短路繞組之電流) 的波形圖最能呈現出故障情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In no case shall &lt;t26/&gt;ℓ&lt;t27/&gt;e &lt;t28/&gt;exceed 8&lt;t29/&gt;d&lt;t30/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080328Z">
@@ -39462,6 +39470,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092136Z">
         <seg>針對 I1(X) 和 I2(X+s) 的交互相關進行了評估，並以 I2(X+s) 平方和之根值對測試 I1 區塊所佔有的 X 範圍無因次化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current flowing from tank to earth, or the transferred voltage in a non-tested winding, are examples of alternative suitable measuring quantities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230418Z" creationid="Judy" creationdate="20141113T230418Z">
+        <seg>自油槽流向接地之電流、The current flowing from tank to earth, or the transferred voltage in a non-tested winding, are examples of alternative suitable measuring quantities.</seg>
       </tuv>
     </tu>
     <tu>
