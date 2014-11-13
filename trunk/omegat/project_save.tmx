@@ -16122,6 +16122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For liquid-immersed transformers, the test voltage is normally of negative polarity, because this &lt;t0/&gt;reduces the risk of erratic external flashovers in the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135305Z" creationid="CCYU" creationdate="20141113T135305Z">
+        <seg>油浸式變壓器之測試電壓極性通常為負，因為可降低測試電路中不穩定之外部閃火風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For liquid-immersed transformers, the type of liquid preservation system may be specified in the enquiry and order.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T064938Z">
@@ -17147,6 +17155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further information is given in IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135039Z" creationid="CCYU" creationdate="20141113T135039Z">
+        <seg>更多資訊收錄於 IEC 60076-4 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further information:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102105Z">
@@ -17351,6 +17367,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T134848Z" creationid="CCYU" creationdate="20141113T134848Z">
         <seg>突波測試和測試電路要求之通用術語定義收錄於 IEC 60060-1 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General definitions of terms related to performance tests and routine checks on approved measuring devices are given in IEC 60060-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135016Z" creationid="CCYU" creationdate="20141113T135016Z">
+        <seg>關於效能和核可量測設備例行檢查之通用術語定義收錄於 IEC 60060-2 之中。</seg>
       </tuv>
     </tu>
     <tu>
