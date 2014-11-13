@@ -20097,6 +20097,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the criteria c) or d) are not met, the one hour period may be extended and these criteria will be considered to have been met if they are fulfilled for a continuous period of one hour.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131417Z" creationid="CCYU" creationdate="20141113T131417Z">
+        <seg>若不符合標準 c) 或 d) 時，可將一小時的時間延伸，若其能滿足條件連續一小時則視為滿足此標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the current transformer knee-point &lt;t1/&gt;voltage exceeds 2 kV AC the test shall be performed at 4 kV AC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T053301Z" creationid="MAE" creationdate="20141112T053301Z">
@@ -55248,6 +55256,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z">
         <seg>測試變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the PD level measured at a voltage level of (i,&lt;t0/&gt;2&lt;t1/&gt;xU&lt;t2/&gt;r&lt;t3/&gt;)/V^after the one hour period does not exceed 100 pC.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131134Z" creationid="CCYU" creationdate="20141113T131134Z">
+        <seg>於電壓 (1,2 x U&lt;t2/&gt;r&lt;t3/&gt;) / √3 下量測一小時後之局部放電等級不超過 100 pC。</seg>
       </tuv>
     </tu>
     <tu>
