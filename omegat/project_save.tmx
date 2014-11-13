@@ -54438,8 +54438,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>phase-to-phase voltage in a three-phase system for which a transformer winding is designed in respect of its insulation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143632Z">
-        <seg>三項系統中最高相間均方根電壓，依據絕緣設計其變壓器繞組</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T235729Z">
+        <seg>三相系統中最高相間均方根電壓，依據絕緣設計其變壓器繞組</seg>
       </tuv>
     </tu>
     <tu>
