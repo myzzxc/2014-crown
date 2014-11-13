@@ -43050,6 +43050,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test is successful if all the following criteria are fulfilled:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130527Z" creationid="CCYU" creationdate="20141113T130527Z">
+        <seg>若測試滿足以下標準則視為合格：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test is successful if no collapse of the test voltage occurs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124150Z" creationid="CCYU" creationdate="20141112T124150Z">
@@ -53620,6 +53628,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>no collapse of the test voltage occurs;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130537Z" creationid="CCYU" creationdate="20141113T130537Z">
+        <seg>無電壓崩潰發生；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>no-load current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T035026Z">
@@ -53640,6 +53656,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020146Z" creationid="CCYU" creationdate="20141108T015835Z">
         <seg>變壓器繞組非統一絕緣 (non-uniform insulation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>none of the PD levels recorded during the one hour period exceed 250 pC;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130629Z" creationid="CCYU" creationdate="20141113T130629Z">
+        <seg>局部放電等級於一小時期間無超過 250 pC；</seg>
       </tuv>
     </tu>
     <tu>
