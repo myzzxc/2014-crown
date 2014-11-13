@@ -42098,6 +42098,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The records obtained shall clearly show the applied voltage impulse shape (front time, time-to-half value and amplitude).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T225137Z" creationid="Judy" creationdate="20141113T225137Z">
+        <seg>記錄應能清楚呈現施加電壓突波波形 (波前時間、波尾 (半值) 時間以及振幅)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red power LED will go out, indicating that the unit is switched off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111727Z">
