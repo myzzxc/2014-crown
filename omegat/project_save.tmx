@@ -4181,6 +4181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failure to meet the partial discharge acceptance criteria shall therefore not warrant immediate rejection, but lead to consultation between purchaser and manufacturer about further investigations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131838Z" creationid="CCYU" creationdate="20141113T131838Z">
+        <seg>未能滿足局部放電之合格標準不應立即退保固，而需由買家和製造商雙方協調關於進一步之調查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few 20g spill kits should be a no brainer for every warehouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z">
@@ -36038,6 +36046,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153448Z">
         <seg>建議之監測準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suggestions for such procedures are given in Annex A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131932Z" creationid="CCYU" creationdate="20141113T131932Z">
+        <seg>建議程序收錄於附錄 A 中。</seg>
       </tuv>
     </tu>
     <tu>
