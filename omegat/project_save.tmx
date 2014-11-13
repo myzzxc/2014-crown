@@ -55252,6 +55252,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the PD levels measured during the one hour period do not exhibit any rising trend and no sudden sustained increase in the levels occur during the last &lt;t0/&gt;20&lt;t1/&gt; min of the test;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130834Z" creationid="CCYU" creationdate="20141113T130827Z">
+        <seg>一小時之間量測之局部放電等級無任何上升趨勢且測試最後 20 分鐘電壓無突然上升；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the absorbed active power at a rated frequency and reference temperature (see 11.1), associated with a pair of windings when rated current (tapping current) is flowing through the line terminals of one of the windings, and the terminals of the other winding are short-circuited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040129Z">
@@ -55512,6 +55520,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084004Z">
         <seg>冷煤多年間量測之最高溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the measured PD levels during the one hour period do not increase by more than 50 pC;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130936Z" creationid="CCYU" creationdate="20141113T130936Z">
+        <seg>一小時量測期間之局部放電等級增加低於 50 pC；</seg>
       </tuv>
     </tu>
     <tu>
