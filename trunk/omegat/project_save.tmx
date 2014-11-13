@@ -16348,8 +16348,8 @@
       <tuv lang="EN-US">
         <seg>For tests on shunt reactors a background PD level of up to 100pC may be accepted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130102Z" creationid="CCYU" creationdate="20141113T130102Z">
-        <seg>對於分路電抗器之測試，可接受不超過 100pC 之背景局部放電。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130153Z" creationid="CCYU" creationdate="20141113T130102Z">
+        <seg>對於分路電抗器 (shunt reactor) 之測試，可接受不超過 100pC 之背景局部放電。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27587,8 +27587,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE The higher background level for shunt reactors is because filtering of the test supply might not be possible where high current and high voltage is required.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130113Z" creationid="CCYU" creationdate="20141113T130113Z">
-        <seg>註 分路電抗器NOTE The higher background level for shunt reactors is because filtering of the test supply might not be possible where high current and high voltage is required.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130425Z" creationid="CCYU" creationdate="20141113T130113Z">
+        <seg>註 因為分路電抗器需要高電流和高電壓而可能無法對測試電源進行濾波，使其背景值較高。</seg>
       </tuv>
     </tu>
     <tu>
