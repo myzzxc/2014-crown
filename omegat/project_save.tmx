@@ -17659,6 +17659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guidance is given in IEG 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224530Z" creationid="Judy" creationdate="20141113T224521Z">
+        <seg>指示收錄於 IEC 60076-4 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guidance may be obtained from IEC 60071-1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165313Z" creationid="Judy" creationdate="20141109T165313Z">
@@ -21893,6 +21901,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T072745Z">
         <seg>一方面為流體力學，氣體流為可壓縮的；熱傳機制結合了熱傳導，包含固體與液體介質；而多數情況流體為紊流；使得熱量與質量傳導過程更加複雜化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of a coarse-fine type tapping winding, if the tap-changer diverter is provided with a non-linear element or arcing gap, which might operate if the transformer is tested on a particular tap-position, then an alternative tap-position may be chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224458Z" creationid="Judy" creationdate="20141113T224458Z">
+        <seg>粗-細型抽頭繞組中，若抽頭切換分流器具有非線性元件或電弧間隙且當變壓器於特定抽頭位置測試中可能會進行操作時，則應選擇替代抽頭位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32358,6 +32374,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132316Z">
         <seg>多電壓繞組 (Reconnectable windings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Records of tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224538Z" creationid="Judy" creationdate="20141113T224538Z">
+        <seg>測試記錄</seg>
       </tuv>
     </tu>
     <tu>
