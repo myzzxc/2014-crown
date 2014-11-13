@@ -16346,6 +16346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For tests on shunt reactors a background PD level of up to 100pC may be accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130102Z" creationid="CCYU" creationdate="20141113T130102Z">
+        <seg>對於分路電抗器之測試，可接受不超過 100pC 之背景局部放電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or non-bearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105630Z">
@@ -27573,6 +27581,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145347Z" creationid="CCYU" creationdate="20141101T145110Z">
         <seg>註 不同液體溫度為總損耗下最後一小時測試期間之讀數平均值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The higher background level for shunt reactors is because filtering of the test supply might not be possible where high current and high voltage is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130113Z" creationid="CCYU" creationdate="20141113T130113Z">
+        <seg>註 分路電抗器NOTE The higher background level for shunt reactors is because filtering of the test supply might not be possible where high current and high voltage is required.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42878,6 +42894,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T130307Z">
         <seg>除絕緣測試外的所有特性之測試皆於額定條件下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test can only be considered valid if the measured background PD level does not exceed 50 pC at both the beginning and the end of the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T125846Z" creationid="CCYU" creationdate="20141113T125846Z">
+        <seg>僅於測試開始和結束時之背景局部放電等級不超過 50 pC 的情況下，測試方為有效。</seg>
       </tuv>
     </tu>
     <tu>
