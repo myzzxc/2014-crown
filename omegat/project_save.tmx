@@ -40562,6 +40562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The impulse test sequence is applied to each of the line terminals of the tested winding in succession.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T231433Z" creationid="Judy" creationdate="20141113T231433Z">
+        <seg>突波測試程序接續於測試繞組之個線路端子上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The increase in pressure shall be less than 0&lt;t0/&gt;,2&lt;t1/&gt; &lt;t2/&gt;kPa&lt;t3/&gt; per hour measured over a period of at least 30 min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130834Z">
