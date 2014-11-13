@@ -27681,6 +27681,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Particular attention is drawn to the difference between the raise and lower positions at the change-over tap position(s) of a reversing type tapping winding or of a coarse-fine type tapping winding as these give different internal voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T223737Z" creationid="Judy" creationdate="20141113T223737Z">
+        <seg>註 應特別注意反向型抽頭繞組或粗-細型抽頭繞組之切換抽頭位置調升與調降位置之間的差異，其產生不同內部電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE See Annex D for cases where the winding sections have equal voltages,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T040641Z">
