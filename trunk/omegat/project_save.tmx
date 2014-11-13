@@ -17195,6 +17195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further recommendations about failure detection, suitable time-base durations, etc. are given in IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230750Z" creationid="Judy" creationdate="20141113T230750Z">
+        <seg>更多故障檢測、適當測試時間等建議收錄於 IEC 60076-4 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further windings, if existing, are open-circuited</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040203Z">
@@ -37874,6 +37882,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230757Z" creationid="Judy" creationdate="20141113T230757Z">
+        <seg>測試連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test correspondences</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142836Z">
@@ -39476,8 +39492,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The current flowing from tank to earth, or the transferred voltage in a non-tested winding, are examples of alternative suitable measuring quantities.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230418Z" creationid="Judy" creationdate="20141113T230418Z">
-        <seg>自油槽流向接地之電流、The current flowing from tank to earth, or the transferred voltage in a non-tested winding, are examples of alternative suitable measuring quantities.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230556Z" creationid="Judy" creationdate="20141113T230418Z">
+        <seg>自油槽流向接地之電流、或非測試繞組中的傳輸電壓皆為合適的量測值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39574,6 +39590,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124525Z" creationid="CCYU" creationdate="20141101T124525Z">
         <seg>多繞組變壓器之溫度上升測試細節應遵循投標階段所提出並達成協議之規則進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The detection method chosen shall be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230630Z" creationid="Judy" creationdate="20141113T230630Z">
+        <seg>檢測方法應由應製造商和買方之間達成協議。</seg>
       </tuv>
     </tu>
     <tu>
