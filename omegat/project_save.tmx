@@ -7053,6 +7053,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any such internal non-linear elements which are present in the service condition shall be present during the tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134630Z" creationid="CCYU" creationdate="20141114T134630Z">
+        <seg>任何於運轉中使用之內部非線性元件應於測試中存在，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any transformer that is repaired to restore its functionality (for exam&lt;t0/&gt;ple after a breakdown following many years in service) but is still to be regarded as compliant with this standard shall be subject to the tests described in this standard necessary to verify the repair at a test voltage of between 80 % and 100 % of the or&lt;t1/&gt;iginal test voltage level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T155557Z" creationid="CCYU" creationdate="20141111T155112Z">
@@ -14021,6 +14029,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085527Z">
         <seg>Exposure controls&lt;t0/&gt;: 暴露管控：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>External non-linear elements and other external voltage control elements such as capacitors shall be disconnected for test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134804Z" creationid="CCYU" creationdate="20141114T134804Z">
+        <seg>外部非線性元件和其它外部電壓控制元件如電容等應於測試時切斷連線。</seg>
       </tuv>
     </tu>
     <tu>
