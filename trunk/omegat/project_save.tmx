@@ -13929,6 +13929,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exceptions from this main procedure are given in 13.3.2 and 13.3.3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T135112Z" creationid="CCYU" creationdate="20141114T135112Z">
+        <seg>此主要程序之例外情形列於 13.3.2 和 13.3.3 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exceptions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101857Z">
@@ -40622,6 +40630,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T001719Z" creationid="Judy" creationdate="20141113T232152Z">
         <seg>阻抗應不超過連接線路之突波阻抗 (若買方有提供數值) 或 400 Ω 中取較低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The impulse circuit and measuring connections shall remain unchanged during reference and full voltage tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134930Z" creationid="CCYU" creationdate="20141114T134930Z">
+        <seg>於參照和全電壓測試期間，突波電路和量測連接應維持不變。</seg>
       </tuv>
     </tu>
     <tu>
