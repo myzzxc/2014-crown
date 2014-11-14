@@ -9807,6 +9807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chopped waves, if required, would not be repeated in the second sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134110Z" creationid="CCYU" creationdate="20141114T134110Z">
+        <seg>截波測試 (若有要求) 毋需重複第二組測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cigarette adhesive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140807T141621Z">
@@ -22227,8 +22235,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this case the first impulse test sequence tests the winding at the full voltage without the resistor but the required waveshape may not be achieved and the second sequence with the resistor achieves the waveshape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133842Z" creationid="CCYU" creationdate="20141114T133842Z">
-        <seg>此情況下第一組突波測試程序於全電壓下不加電阻進行繞組測試，但可能無法達到所需波形，而第二組測試程序In this case the first impulse test sequence tests the winding at the full voltage without the resistor but the required waveshape may not be achieved and the second sequence with the resistor achieves the waveshape.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133918Z" creationid="CCYU" creationdate="20141114T133842Z">
+        <seg>此情況下第一組突波測試程序於全電壓下不加電阻進行繞組測試，但可能無法達到所需波形，而第二組測試程序加上電阻以達成所需波形。</seg>
       </tuv>
     </tu>
     <tu>
