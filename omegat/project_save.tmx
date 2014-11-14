@@ -27697,6 +27697,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE If an impulse test is required by the purchaser on an LV winding with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;&lt;&lt;t3/&gt; 1,1 kV then this is normally applied to all the LV terminals (including the LV neutral) connected together with the higher voltage terminals earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T135451Z" creationid="CCYU" creationdate="20141114T135451Z">
+        <seg>註 若買方要求於 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 1,1 kV 之低壓繞組進行突波測試時，通常於所有低電壓端子 (包含低電壓中性端子) 相連而高電壓端子接地的條件下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE If this factor ranges from 100 + a to 100 &lt;t0/&gt;-&lt;t1/&gt; b, the tapping range is said to be: +a %, &lt;t2/&gt;-&lt;t3/&gt;b % or ±a %, if a = b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024241Z">
@@ -37958,6 +37966,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T231155Z" creationid="Judy" creationdate="20141113T231155Z">
         <seg>線路端子測試連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test connections for lightning impulse on the neutral</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T135525Z" creationid="CCYU" creationdate="20141114T135525Z">
+        <seg>中性端子雷擊突波測試連接</seg>
       </tuv>
     </tu>
     <tu>
