@@ -20681,6 +20681,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the winding has a neutral terminal, the neutral shall be earthed directly or through a low impedance such as a current measuring shunt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133230Z" creationid="CCYU" creationdate="20141114T133208Z">
+        <seg>若繞組具有中性端子，其中性端子須直接接地或通過低阻抗如電流量測分路器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the zero sequence requirements dictated the use of a delta connected winding that was not directly specified by the purchaser, then this shall be clearly stated by the manufacturer in the tender documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155546Z">
@@ -43006,6 +43014,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z">
         <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tank shall be earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133242Z" creationid="CCYU" creationdate="20141114T133242Z">
+        <seg>油槽須接地。</seg>
       </tuv>
     </tu>
     <tu>
