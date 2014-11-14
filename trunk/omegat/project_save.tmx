@@ -16707,6 +16707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers having a tapped winding near the neutral end of the winding, the tapping connection with the maximum turns ratio shall be chosen for the impulse test, if not otherwise agreed between purchaser and manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T140050Z" creationid="CCYU" creationdate="20141114T140050Z">
+        <seg>對於接近繞組中性端之處具有抽頭繞組之變壓器，若買方和製造商之間無期它協議則應選擇具有最大繞匝比之抽頭連接以進行突波測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers having a tapped winding, see als&lt;t2/&gt;o&lt;t3/&gt; 6.5 and item b) of 8.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021035Z">
