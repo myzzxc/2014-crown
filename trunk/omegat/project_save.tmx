@@ -20481,6 +20481,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the required waveshape cannot be obtained without the use of a resistor between neutral and earth, then an additional complete impulse test sequence shall be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133525Z" creationid="CCYU" creationdate="20141114T133525Z">
+        <seg>若中性點與地線之間不使用電阻則無法達到要求之波形時，應進行額外的完整突波測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the service conditions at the intended installation site do not fall within the limits of normal cooling conditions given in Clause 5, then the limits of temperature rise for the &lt;t0/&gt;transformer shall be modified in accordance with the rules indicated below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T123617Z" creationid="CCYU" creationdate="20141030T123617Z">
