@@ -5949,6 +5949,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively or in addition, the peak voltage of the impulse (maximum value of the recorded curve) is increased if the overshoot exceeds 5 % and the frequency of oscillation is higher than about 100 kHz by the application of the test voltage function in accordance with IEC 60060-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T032259Z" creationid="CCYU" creationdate="20141115T032259Z">
+        <seg>此外，若超越值超過 5 % 以及根據 IEC 60060-1 使用測試電壓函數使震盪頻率高於 100 kHz 時，可增加突波峰值 (紀錄曲線中最大值)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively the following typical values shall be used:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103645Z">
