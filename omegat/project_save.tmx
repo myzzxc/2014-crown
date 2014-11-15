@@ -4573,6 +4573,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A three-phase transformer shall be tested phase by phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T081134Z" creationid="CCYU" creationdate="20141115T081134Z">
+        <seg>三相變壓器應一次測試一相。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A three-winding transformer with the high-voltage winding rated 123 kV, star connected with neutral brought out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142806Z">
