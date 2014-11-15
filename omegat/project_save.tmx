@@ -41746,6 +41746,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The line to earth clearance figures given in this standard are based on those given IEC 60071-1 for a rod to structure electrode configuration for &lt; 850 kV lightning impulse le\ and the conductor to structure clearance for higher lightning impulse levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T140347Z" creationid="CCYU" creationdate="20141115T140347Z">
+        <seg>本標準所示之線路對地線之間隙圖為依據 IEC 60071-1 所示之雷擊突波電壓 &lt; 850 kV 之避雷針至結構電極設置以及較高雷擊突波電壓之導線至結構間隙提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The liquid temperature rises over&lt;t0/&gt; the external cooling medium temperature at the end of the total loss injection shall be multiplied by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T074602Z" creationid="CCYU" creationdate="20141102T074602Z">
