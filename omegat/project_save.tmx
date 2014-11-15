@@ -48875,6 +48875,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless otherwise specified the order of the different impulse applications shall be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062321Z" creationid="CCYU" creationdate="20141115T062321Z">
+        <seg>若無特別說明，施加不同突波之順序為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless otherwise specified, it shall be assumed that the range is symmetrical around the principal tapping and that the tapping steps in the tapped winding are equal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T131958Z">
@@ -54948,6 +54956,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>one full wave impulse at the full wave lightning impulse test voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062511Z" creationid="CCYU" creationdate="20141115T062511Z">
+        <seg>一組電壓為全波雷擊突波測試電壓之全波突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one full wave reference impulse at between 50 % and 70 % of the full wave lightning impulse test voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062419Z" creationid="CCYU" creationdate="20141115T062419Z">
+        <seg>一組電壓介於全波雷擊突波測試電壓 50 % 至 60 % 之間的全波參考突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>one reference impulse of a voltage between 50 % and 70 % of the full test voltage</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053102Z" creationid="CCYU" creationdate="20141115T033809Z">
@@ -57492,6 +57516,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222327Z" creationid="JUDY" creationdate="20141026T222327Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two chopped impulses at the chopped wave lightning impulse test voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062550Z" creationid="CCYU" creationdate="20141115T062550Z">
+        <seg>兩組電壓為截波雷擊突波測試電壓之截波突波；</seg>
       </tuv>
     </tu>
     <tu>
