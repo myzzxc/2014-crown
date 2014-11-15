@@ -12032,6 +12032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different time bases may be used to record the chopped wave lightning impulses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T061639Z" creationid="CCYU" creationdate="20141115T061639Z">
+        <seg>可使用不同時間區間紀錄截波雷擊突波。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
