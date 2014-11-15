@@ -20809,6 +20809,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer is to be tested by a third party the overswing is to be limited to this value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060734Z" creationid="CCYU" creationdate="20141115T060734Z">
+        <seg>若變壓器將由第三方進行測試，則過度震盪應限制於此數值以內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transport is not the responsibility of the manufacturer and &lt;t0/&gt;an acceleration&lt;t1/&gt; in excess of 1 g is expected during transport, the accelerations and frequencies shall be defined in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140117Z">
@@ -28267,8 +28275,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE Transformers are normally designed to withstand an overswing to the opposite polarity of 30 % of the amplitude of the &lt;t0/&gt;chopped wave lightning impulse.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060431Z" creationid="CCYU" creationdate="20141115T060431Z">
-        <seg>註 NOTE Transformers are normally designed to withstand an overswing to the opposite polarity of 30 % of the amplitude of the &lt;t0/&gt;chopped wave lightning impulse.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060631Z" creationid="CCYU" creationdate="20141115T060431Z">
+        <seg>註 變壓之設計通常能承受截波雷擊突波振幅 30 % 之不同極性過度震盪。</seg>
       </tuv>
     </tu>
     <tu>
