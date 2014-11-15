@@ -19960,6 +19960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If none of the 100 % full wave records differ from the lowest voltage record of the reference impulse records, then impulses e), f) and g) above may be omitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053813Z" creationid="CCYU" creationdate="20141115T053813Z">
+        <seg>若 100 % 全波紀錄與參考突波最低電壓紀錄皆無相異，則上述 e)、f) 以及 g) 之突波可忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If none of the methods above can be applied in full, because of limitations of test facilities, it may be agreed to perform the test with reduced loss, down to 80 % of the correct value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124208Z" creationid="CCYU" creationdate="20141101T124208Z">
@@ -21052,6 +21060,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>If, during any of these applications, an external flashover in the circuit or across a bushing spark gap occurs, or if the recording fails on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034351Z" creationid="CCYU" creationdate="20141115T034351Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If, during any of these applications, an external flashover in the circuit or across a bushing spark gap should occur, or if the recording should fail on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053833Z" creationid="CCYU" creationdate="20141115T053833Z">
         <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
       </tuv>
     </tu>
@@ -38274,6 +38290,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test criteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053838Z" creationid="CCYU" creationdate="20141115T053838Z">
+        <seg>測試標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test current &lt;t6/&gt;J</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075031Z" creationid="CCYU" creationdate="20141102T075031Z">
@@ -43838,6 +43862,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124150Z" creationid="CCYU" creationdate="20141112T124150Z">
         <seg>若無電壓崩潰發生則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is successful if there are no significant differences between voltage and current transients recorded from the lowest voltage reference impulse and those recorded at the ful test voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053849Z" creationid="CCYU" creationdate="20141115T053849Z">
+        <seg>若參考突波和全測試電壓之電壓和電流暫態無顯著差異則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
