@@ -10087,6 +10087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearance requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151750Z" creationid="CCYU" creationdate="20141115T151750Z">
+        <seg>間隙規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clockwise rotation of null adjustor pin produces flow from port P to port B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112748Z" creationid="Judy" creationdate="20141022T112748Z">
@@ -40186,6 +40194,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The clearance requirements are given in Table 4 for each value of lightning and switching impulse voltage for each value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151941Z" creationid="CCYU" creationdate="20141115T151941Z">
+        <seg>間隙規範如表 4 針對各 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值所給定之雷擊和開關突波電壓值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The clock number of single-phase transformers is determined as for three phase transformer but can only be 0 if both windings are in phase or 6 if they are in opposition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T151026Z">
@@ -42766,6 +42782,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142115Z" creationid="CCYU" creationdate="20141115T141025Z">
         <seg>相對相間隙為依據 IEC 60071-1 中所給定之導體至導體電極結構所提供，其計算方式為相對相除以相對地開關突波電壓值等於 1,5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The phase-to-phase clearance applies only between line terminals of the same winding, the phase to earth clearance applies to all other distances including to the line terminals of other windings and neutral terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151957Z" creationid="CCYU" creationdate="20141115T151957Z">
+        <seg>相相間隙適用相同纏繞的線航站樓之間僅，到地球間隙的階段適用于所有其他包括其他繞組線終端和中性終端的距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46510,6 +46534,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101213Z">
         <seg>這些次渦流促進了冷熱空氣的混和而熱空氣進一步加速了膨脹腔體中的對流熱傳導，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These statements shall be taken as proof that the transformer complies with the recommendations of this standard, or with the modified values which may have been agreed for the particular contract.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151740Z" creationid="CCYU" creationdate="20141115T151740Z">
+        <seg>此類陳述應視為變壓器符合本標準之建議、或依特定合約修改值之證據。</seg>
       </tuv>
     </tu>
     <tu>
