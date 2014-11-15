@@ -27241,6 +27241,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The impulse wave shape is purposely different from the standard waveshape of 250 / 2 500 ps recommended in IEC 60060-1, since IEC 60060-1 is intended for equipment without a saturable magnetic circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T104213Z" creationid="CCYU" creationdate="20141115T104213Z">
+        <seg>註 1 突波波形刻意與 IEC 60060-1 中所建議之標準 250 / 2 500 µs 波形不同，因為 IEC 60060-1 為用於無飽和磁路之設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The interpretation of rated power according to this subclause implies that it is a value of apparent power input to the transformer - including its own absorption of active and reactive power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T115007Z">
