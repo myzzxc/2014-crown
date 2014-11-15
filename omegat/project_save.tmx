@@ -8686,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bushing spark gaps may be removed or their spacing increased to prevent sparkover during the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T084204Z" creationid="CCYU" creationdate="20141115T084204Z">
+        <seg>可移除套管閃火間隙火增加其空間以避免測試時產生跳火。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bushings and tap-changers are specified, designed and tested i&lt;t0/&gt;n accordance with the relevant IEC standards.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074819Z" creationid="CCYU" creationdate="20141108T074819Z">
@@ -15830,6 +15838,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083656Z" creationid="CCYU" creationdate="20141115T083656Z">
         <seg>單相變壓器具有一組以上之繞組於操作時兩端連接至線路且指定開關突波測試時，則開關突波應施加於繞組兩端點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a star connected winding with a neutral connection not brought out and not connected earth internally, it is not always possible to achieve the appropriate test voltages by earthi</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083954Z" creationid="CCYU" creationdate="20141115T083954Z">
+        <seg>星形連接繞組中性點未抽出且未於內部接地，並非永遠可藉由一組以上之線路端子接地而達到適當的測試電壓，</seg>
       </tuv>
     </tu>
     <tu>
@@ -55424,6 +55440,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064011Z" creationid="CCYU" creationdate="20141115T064011Z">
         <seg>一組電壓介於全波雷擊突波測試電壓 75 % 至 90 % 之間的全波參考突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one or more line terminals, in this case the test connection shall be agreed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T084020Z" creationid="CCYU" creationdate="20141115T084020Z">
+        <seg>此情況下，測試方法依製造商和買方之間協議。</seg>
       </tuv>
     </tu>
     <tu>
