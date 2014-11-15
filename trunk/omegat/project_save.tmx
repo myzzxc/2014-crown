@@ -20577,6 +20577,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the standard impulse shape cannot reasonably be obtained because of low windinc inductance or high capacitance to earth and the resulting impulse shape is oscillatory so tha the relative overshoot magnitude exceeds 5 % then for windings that will receive a choppec wave lightning impulse test, the front time may be increased to reduce the overshoot.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030239Z" creationid="CCYU" creationdate="20141115T030239Z">
+        <seg>若因為低繞組電感或對地之高電容而無法獲得適當的標準突波波形，並造成突波震盪而使接受截波雷擊突波測試之繞組相對超越量超過 5 % 時，應增加波前時間以降低超越量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the tapping range exceeds ±5 % or the rated power is above 2 500 kVA, the guaranteed losses shall be stated on the principal tapping position, unless otherwise specified by the purchaser at the &lt;t0/&gt;enquiry stage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133045Z">
@@ -21253,6 +21261,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T143826Z">
         <seg>此外，來回氣體流產生之溫度振盪和熱傳導量以及再生器之高溫度梯度會產生能量損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In al cases with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;&lt;t3/&gt; 800 kV the front time shall not exceed 2,5 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030324Z" creationid="CCYU" creationdate="20141115T030324Z">
+        <seg>所有 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 800 kV 的情況下，波前時間不得超過 2,5 µs。</seg>
       </tuv>
     </tu>
     <tu>
