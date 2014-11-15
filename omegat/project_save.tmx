@@ -49171,6 +49171,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually, the same settings of the impulse generator and measuring equipment are used, and only the chopping gap equipment is added.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T061541Z" creationid="CCYU" creationdate="20141115T061541Z">
+        <seg>通常情況下，突波產生器和量測設備使用相同的設置，並只增加截取間隙設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>V/Hz in excess of 5.4.3 above;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164741Z">
