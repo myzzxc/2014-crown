@@ -29489,6 +29489,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O&lt;t0/&gt;ne&lt;t1/&gt; &lt;t2/&gt;reference impulse at between&lt;t3/&gt; &lt;t4/&gt;50 % and 60&lt;t5/&gt; &lt;t6/&gt;%&lt;t7/&gt; &lt;t8/&gt;of the full&lt;t9/&gt; &lt;t10/&gt;test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053026Z" creationid="CCYU" creationdate="20141115T053026Z">
+        <seg>一組電壓介於全測試電壓 50 % 至 60 % 之間的參考突波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OD PROCESSING &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071816Z">
