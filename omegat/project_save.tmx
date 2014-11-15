@@ -24073,6 +24073,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It follows from the above that the recommended values are in effect minimum values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151048Z" creationid="CCYU" creationdate="20141115T151048Z">
+        <seg>依據上述建議值為最小有效值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It gives details of the, applicable dielectric tests and minimum dielectric test levels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145800Z" creationid="CCYU" creationdate="20141107T145800Z">
@@ -40550,6 +40558,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143444Z">
         <seg>星形繞組落後高壓繞組 330°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design clearances shall be stated on the outline drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151200Z" creationid="CCYU" creationdate="20141115T151200Z">
+        <seg>設計間隙應於結構圖中說明，</seg>
       </tuv>
     </tu>
     <tu>
