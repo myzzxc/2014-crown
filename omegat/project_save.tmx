@@ -41242,6 +41242,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The impulses are applied either directly from the impulse voltage source to a line terminal &lt; the highest voltage winding, or to a lower voltage winding so that the test voltage is inductive transferred to the highest voltage winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075646Z" creationid="CCYU" creationdate="20141115T075646Z">
+        <seg>突波可直接由突波電壓源通入線路端子或最高電壓繞組，或通入較低電壓繞組使測試電壓以電感傳輸至最高電壓繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The increase in pressure shall be less than 0&lt;t0/&gt;,2&lt;t1/&gt; &lt;t2/&gt;kPa&lt;t3/&gt; per hour measured over a period of at least 30 min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T130834Z">
@@ -43518,6 +43526,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T072404Z">
         <seg>指定之混凝土抗壓強度必須為 2,500 psi 至 8,500 psi&lt;t0/&gt; ( 58.6 MPa 至 17.2 MPa)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specified test voltage shall appear between th line terminal of the highest voltage winding and earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075750Z" creationid="CCYU" creationdate="20141115T075750Z">
+        <seg>指定之測試電壓應施加於最高電壓繞組支線路端子和地線之間。</seg>
       </tuv>
     </tu>
     <tu>
