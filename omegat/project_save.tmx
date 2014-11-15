@@ -19744,10 +19744,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any further voltag collapse or deviation is observed then the test is failed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055220Z" creationid="CCYU" creationdate="20141115T055220Z">
+        <seg>若仍發生變壓崩潰或偏差則為未通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any further voltage collapse or deviation is observed then the test is failed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035604Z" creationid="CCYU" creationdate="20141115T035604Z">
-        <seg>若仍發生變壓崩潰或偏差則為不通過測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055226Z" creationid="CCYU" creationdate="20141115T035604Z">
+        <seg>若仍發生變壓崩潰或偏差則為未通過測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20885,6 +20893,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155825Z">
         <seg>若有任何單相變壓器組或三相單元之特別規範，使用者應指明；而製造商應於投標時明確說明提供之變壓器類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a voltage collapse or deviation and it is agreed between the manufacturer an' purchaser that the test is not immediately failed, the test sequence shall be completed an then the full test sequence repeated using the original reference impulse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055200Z" creationid="CCYU" creationdate="20141115T055200Z">
+        <seg>若發生電壓崩潰或偏差但經製造商與買方之間協議而不立即視為故障時，應完成測試程序，並使用原始參考突波重複執行完整的測試程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49759,6 +49775,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074534Z">
         <seg>水飽和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wave shape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055239Z" creationid="CCYU" creationdate="20141115T055239Z">
+        <seg>波形</seg>
       </tuv>
     </tu>
     <tu>
