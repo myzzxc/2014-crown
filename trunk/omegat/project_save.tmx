@@ -53124,6 +53124,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>full wave lightning impulse test voltage of the tested winding in volts;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025304Z" creationid="CCYU" creationdate="20141115T025304Z">
+        <seg>為測試繞組之全波雷擊突波測試電壓，單位為伏特；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>full-power tapping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025736Z">
@@ -55672,6 +55680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T134247Z">
         <seg>t) 非正常物理環境條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>t&lt;t0/&gt;/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025433Z" creationid="CCYU" creationdate="20141115T025433Z">
+        <seg>η</seg>
       </tuv>
     </tu>
     <tu>
