@@ -21417,6 +21417,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In circumstances where the manufacturer believes that it is not reasonably possible to meet the waveshape because of the transformer characteristics and the variations to the waveshape allowed in the following paragraphs will need to be applied then this shall be clearly stated in the tender.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024012Z" creationid="CCYU" creationdate="20141115T024012Z">
+        <seg>製造商認為因為變壓器特性和以下章節中容許之波形變化而無法達到要求之波形的情況下，應於投標時明確指出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In clear gas:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140253Z">
@@ -44254,6 +44262,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T105302Z" creationid="CCYU" creationdate="20141108T105302Z">
         <seg>變壓器各繞組之 U&lt;t0/&gt;m&lt;t1/&gt; 值和額定絕緣等級為詢價及交貨時需一併提供的資訊，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of the effective energy of the impulse generator shall be made available to the purchaser on request.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024110Z" creationid="CCYU" creationdate="20141115T024110Z">
+        <seg>突波產生器之有效能量值應依據買方要求提供。</seg>
       </tuv>
     </tu>
     <tu>
