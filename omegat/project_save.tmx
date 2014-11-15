@@ -40610,6 +40610,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The front time can be increased, but if 1,2 (is +30 % is exceeded then chopped waves are required to provide a high frequency test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T031504Z" creationid="CCYU" creationdate="20141115T031504Z">
+        <seg>可增加波前時間，但超出 1,2 µs ± 30 % 時則須使用截波以提供高頻測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full test voltage shall be applied for 60 s between all accessible terminals of the winding under test connected together and all accessible terminals of the re&lt;t0/&gt;maining windings, core, frame and tank or casing of the transformer, connected to earth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T122912Z" creationid="CCYU" creationdate="20141112T122912Z">
