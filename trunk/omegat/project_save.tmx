@@ -5173,6 +5173,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action following test failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T132410Z" creationid="CCYU" creationdate="20141115T132349Z">
+        <seg>測試失敗後續處置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active power consumption of motor drive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154342Z">
@@ -20929,6 +20937,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer fails any of the dielectric tests then the complete sequence of dielectric tes' shall be repeated at the full level following repair.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T132359Z" creationid="CCYU" creationdate="20141115T132359Z">
+        <seg>若If the transformer fails any of the dielectric tests then the complete sequence of dielectric tes' shall be repeated at the full level following repair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer has more than one set of ratings, depending upon different connections windings which have been specifically allowed for in the design, the additional ratings shall be given on the rating plate, or separate rating plates shall be fitted for each set.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021925Z">
@@ -28397,6 +28413,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054854Z">
         <seg>註 星形連接也稱作 Y-連接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Successive oscillograms might differ because of the influence of magnetic saturation on impulse duration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T132152Z" creationid="CCYU" creationdate="20141115T132152Z">
+        <seg>註 接續之波形圖可能因為磁飽和或突波時間而不同。</seg>
       </tuv>
     </tu>
     <tu>
