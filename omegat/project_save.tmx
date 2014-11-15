@@ -23865,6 +23865,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is permissible to apply the requirements of IEC 60060-1 Annex B to the evaluation of the parameters of the lightning impulse irrespective of the overshoot value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T031134Z" creationid="CCYU" creationdate="20141115T031134Z">
+        <seg>可使用 IEC 60060-1 附錄 B 之規範以估計各超越值之雷擊突波參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended that the analysis be performed by the &lt;t0/&gt;same laboratory in order to reduce&lt;t1/&gt; the uncertainty affecting the results.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142804Z" creationid="CCYU" creationdate="20141105T142804Z">
