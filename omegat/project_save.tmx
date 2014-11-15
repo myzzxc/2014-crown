@@ -10079,6 +10079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearance in air is understood as the shortest distance between any metallic part of tl bushing terminal and any part of the transformer, taking a line which does not pass through th bushing insulator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135209Z" creationid="CCYU" creationdate="20141115T135209Z">
+        <seg>空間間隙為任何套管端子之金屬零件與變壓器任何零間之間的最短距離，取不通過套管絕緣直線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clockwise rotation of null adjustor pin produces flow from port P to port B.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112748Z" creationid="Judy" creationdate="20141022T112748Z">
