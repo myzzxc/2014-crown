@@ -4589,6 +4589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A time to chopping of between 2 ps and 3 ps can be accepted by agreement provided that the peak value of the lightning impulse wave is achieved before the chop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060418Z" creationid="CCYU" creationdate="20141115T060418Z">
+        <seg>可依協議使用介於 2 µs 至 3 µs 之間的截取時間以於截波前達到雷擊突波之峰值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A total duration of 20 min for medium size transformers and up to 30 min for large transformers is &lt;t0/&gt;appropriate for the determination of the cooling down curve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125834Z" creationid="CCYU" creationdate="20141104T125742Z">
@@ -28257,6 +28265,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Transformers are normally designed to withstand an overswing to the opposite polarity of 30 % of the amplitude of the &lt;t0/&gt;chopped wave lightning impulse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060431Z" creationid="CCYU" creationdate="20141115T060431Z">
+        <seg>註 NOTE Transformers are normally designed to withstand an overswing to the opposite polarity of 30 % of the amplitude of the &lt;t0/&gt;chopped wave lightning impulse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 72,5 kV are expected to have uniform winding insulation to satisfy this test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143856Z" creationid="CCYU" creationdate="20141110T143856Z">
@@ -44038,6 +44054,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123102Z" creationid="CCYU" creationdate="20141112T123102Z">
         <seg>測試應使用近似正弦波之單相交流電壓，且不得低於額定頻率的 80 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test shall be made without the deliberate addition of impedance in the chopping circuit, but if the overswing observed during a reduced voltage application is more than 30 % then the minimum impedance required to bring the overswing below 30 % may be added to the chopping circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060109Z" creationid="CCYU" creationdate="20141115T060109Z">
+        <seg>測試應於不刻意增加截波電路阻抗的情況下進行，但使用降低電壓時若出現超過 30 % 的過度震盪時，則可加入最小的阻抗至截波電路中以使過度震盪低於 30 %。</seg>
       </tuv>
     </tu>
     <tu>
