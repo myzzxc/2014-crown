@@ -11608,6 +11608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delta connected windings with more th; three terminals brought out shall have the delta closed for the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083239Z" creationid="CCYU" creationdate="20141115T083239Z">
+        <seg>具有多於三個端子之三角連接繞組測試時應將三角連接閉路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Density</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143030Z">
