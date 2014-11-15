@@ -47626,6 +47626,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This standard does not consider the risk from intrusion of birds and other animals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135623Z" creationid="CCYU" creationdate="20141115T135623Z">
+        <seg>此標準未考量鳥類或其他動物侵入之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This standard is not applicable to the clearance between parts of the bushing itself and tl length of the bushing may need to be greater than the given clearances to pass the requin tests on the bushing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135518Z" creationid="CCYU" creationdate="20141115T135518Z">
+        <seg>此標準不適用套管零件本身之間隙，而套管長度需大於套管通過要求之測試所給定的間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This study adopts a thermal equilibrium model to deal with the temperature in porous medium.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103719Z">
