@@ -18469,6 +18469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highest Voltage for equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152442Z" creationid="CCYU" creationdate="20141115T152442Z">
+        <seg>設備最高電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highest Voltage for equipment winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134840Z" creationid="CCYU" creationdate="20141110T134840Z">
@@ -25169,6 +25177,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line to earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152523Z" creationid="CCYU" creationdate="20141115T152523Z">
+        <seg>線對地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linescanner</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044137Z">
@@ -26549,6 +26565,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144756Z">
         <seg>最低加速承受值，若高於 5.7.4.2 中所規定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum air clearance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152500Z" creationid="CCYU" creationdate="20141115T152500Z">
+        <seg>最低空間間隙</seg>
       </tuv>
     </tu>
     <tu>
@@ -31589,6 +31613,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153606Z">
         <seg>相位移之時鐘數記號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase to phase</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152621Z" creationid="CCYU" creationdate="20141115T152621Z">
+        <seg>相對相</seg>
       </tuv>
     </tu>
     <tu>
@@ -37874,6 +37906,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 4 - Minimum clearances in air &lt;t0/&gt;(1 of 2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152358Z" creationid="CCYU" creationdate="20141115T152358Z">
+        <seg>表 4 - 最低空間間隙 (2 之 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 5</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045630Z">
@@ -37918,6 +37958,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T045640Z">
         <seg>表 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table &lt;t0/&gt;4 &lt;t1/&gt;(2 of 2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152641Z" creationid="CCYU" creationdate="20141115T152641Z">
+        <seg>表 4 (2 之 2)</seg>
       </tuv>
     </tu>
     <tu>
