@@ -21025,6 +21025,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the transformer is specified for operation at an altitude higher than 1 000 m, the clearance requirements shall be increased by 1 % for every 100 m by which the altitude exceeds 1 000 m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150228Z" creationid="CCYU" creationdate="20141115T150038Z">
+        <seg>若變壓器指定用於海拔高度 1 000 公尺以上時，高於海拔 1 000 公尺以上每增加 100 公尺則間隙要求應增加 1 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer is specified with alternative methods of cooling, the respective lower power values are to be stated together with the rated power (which refers to the most efficient cooling).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T125424Z">
@@ -27897,6 +27905,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 If a clearance smaller than that according to the paragraph above is to be used, a type test either using the general methods given in Clauses 10 to 14 of this standard using the test voltages applicable to the transformer, or the tests given in another standard (for example IEC 62271-1) applicable to the connected substation equipment might be required on an arrangement simulating the actual clearance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150006Z" creationid="CCYU" creationdate="20141115T150006Z">
+        <seg>註 3 若使用小於上述章節所列之間隙，模擬實際間隙之配置可能需依本標準第 10 至 14 節給定之一般方法，使用適用於變壓器之電壓進行型式測試；或依其他標準 (例如 IEC 62271-1) 給定之適用於連接變電設備之測試進行型式測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 In an auto-transformer with tapping, the tapping with the highest load loss depends on how the tappings are arranged.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133657Z" creationid="CCYU" creationdate="20141029T133657Z">
@@ -33830,6 +33846,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023736Z">
         <seg>Reproductive toxicity 生殖毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements are given for the following clearances:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150336Z" creationid="CCYU" creationdate="20141115T150336Z">
+        <seg>將提供下列間隙之規範：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53352,6 +53376,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122946Z" creationid="CCYU" creationdate="20141104T122946Z">
         <seg>或串聯於同一電路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clearance between a line terminal of the high voltage winding and a line terminal of a lower voltage winding (see 16.2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150554Z" creationid="CCYU" creationdate="20141115T150554Z">
+        <seg>高電壓繞組之線路端子和較低電壓繞組支線路端子之間的間隙 (請見 16.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clearance phase-to-earth and phase-to-neutral;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150407Z" creationid="CCYU" creationdate="20141115T150407Z">
+        <seg>相對地及相對中性點間隙；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clearance phase-to-phase between phases of the same winding;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150448Z" creationid="CCYU" creationdate="20141115T150448Z">
+        <seg>同一繞組各相之間的相對相間隙；</seg>
       </tuv>
     </tu>
     <tu>
