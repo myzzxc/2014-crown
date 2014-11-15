@@ -19984,6 +19984,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If lower voltage windings do not have a switching impulse levc given in Table 2 then the manufacturer may choose the tap position for test unless otherwis specified by the purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075235Z" creationid="CCYU" creationdate="20141115T075235Z">
+        <seg>若低電壓繞組無表 2 所列之開關突波電壓，若買方無另行指定則製造商可選擇抽頭位置以進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If material has been swallowed and the exposed person is conscious, give small quantities of water to drink.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013335Z">
@@ -20693,6 +20701,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T132636Z">
         <seg>若買方欲進行比較時應於投標詢價時說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the ratio between the windings is variable by tappings, the tappings shall be used t bring the test voltage for the winding with lower &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; as close as possible to the correspondin test value given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074856Z" creationid="CCYU" creationdate="20141115T074856Z">
+        <seg>若繞組之間的比隨抽頭變化，抽頭之使用應使具有較低 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 之繞組電壓盡可能接近表 2 所列之對應測試值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45214,6 +45230,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144836Z">
         <seg>連接至發電機之繞組為三角連接，而電網側之繞組為星形連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The windings with lower &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; values may not receive their full tes voltage; this shall be accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075049Z" creationid="CCYU" creationdate="20141115T075049Z">
+        <seg>具有較低 &lt;t6/&gt;U&lt;t7/&gt;m&lt;t8/&gt; 值之繞組可能無法接收到其全測試電壓；此結果需由雙方協議。</seg>
       </tuv>
     </tu>
     <tu>
