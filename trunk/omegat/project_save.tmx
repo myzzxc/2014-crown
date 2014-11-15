@@ -24129,6 +24129,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also assumed that the arrangement incoming conductors does not reduce the effective clearances provided by the transform itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142653Z" creationid="CCYU" creationdate="20141115T142653Z">
+        <seg>也假設輸入導線配置不降低變壓器本身提供之有效間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also capable of resolving the effects caused by changes in small geometrical features and potentially be a great tool for the design and development process of a new Stirling engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T065802Z">
@@ -24149,6 +24157,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T083330Z">
         <seg>比起其他類型的史特林引擎，其製造與維修更簡單且更便宜，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is assumed that conductor clamps with their associated shield electrodes are suitably shap' so that they do not reduce the flashover voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142544Z" creationid="CCYU" creationdate="20141115T142544Z">
+        <seg>假設導線與其對應屏蔽電極連接良好因此不降低跳火電壓。</seg>
       </tuv>
     </tu>
     <tu>
