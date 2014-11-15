@@ -36962,6 +36962,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sufficient reverse polarity applications shall be made before each full impulse to ensure the magnetization of the core is similar before each full wave impulse in order to make the time to first zero as uniform as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T124306Z" creationid="CCYU" creationdate="20141115T124306Z">
+        <seg>應於各全波突波前施加足夠反向極性以確保核心磁化相似，並盡可能使達到第一組零電壓之時間一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suggested preparation for monitoring</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153448Z">
