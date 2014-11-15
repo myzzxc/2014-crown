@@ -24321,6 +24321,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is therefore assumed that at &gt; 850 kV lightning impulse level the bushing en and any connections normally have rounded electrode shapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142328Z" creationid="CCYU" creationdate="20141115T142328Z">
+        <seg>因此假設當雷擊突波電壓 &gt; 850 kV 時，套管端和任何連接通常具有圓形電極。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z">
