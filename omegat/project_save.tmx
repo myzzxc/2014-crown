@@ -44514,6 +44514,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test voltage is normally of negative polarity to reduce the risk of erratic external flashover in the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T103431Z" creationid="CCYU" creationdate="20141115T103431Z">
+        <seg>測試電壓極性通常為負以降低測試電路中不穩定之外部閃火風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test voltage shall be adjusted according to a voltmeter responsive to the mean value of voltage but scaled to read the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055445Z">
