@@ -46322,6 +46322,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are nominal values subject to normal manufacturing tolerances and they have to be selected so that the actual clearances will be at least equal to the specified values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151536Z" creationid="CCYU" creationdate="20141115T151536Z">
+        <seg>該數值為用於一般製造公差之名目值，且必須選擇其值以使實際間隙大於等於指定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These belt systems leak and free should not be present in these areas.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T075936Z">
