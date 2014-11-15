@@ -27937,6 +27937,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Further information is given in IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054854Z" creationid="CCYU" creationdate="20141115T054854Z">
+        <seg>註 更多的資訊收錄於 IEC 60076-4 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE ISO 14122 series, Safety of machinery — Permanent means of access to machinery, should be consulted where ladders, platforms and similar means of access are provided with the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035312Z">
@@ -43886,6 +43894,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034814Z" creationid="CCYU" creationdate="20141115T034814Z">
         <seg>若參考突波和全測試電壓之電壓和電流暫態無顯著差異則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is successful if there is no significant difference between the compared record; (beyond that which can reasonably be explained by small differences in the test voltage) am any changes between successive records are progressive and smooth, consistent with thi proper operation of the non-linear element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054831Z" creationid="CCYU" creationdate="20141115T054831Z">
+        <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
