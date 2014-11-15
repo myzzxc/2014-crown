@@ -4605,6 +4605,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A time to zero of less than &lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;000&lt;t3/&gt; pts is permissible if as far as practicable full reverse saturation of the core is achieved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123415Z" creationid="CCYU" creationdate="20141115T123415Z">
+        <seg>若核心可達到全反向飽和則允許低於 1 000 µs 之達零電壓時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A total duration of 20 min for medium size transformers and up to 30 min for large transformers is &lt;t0/&gt;appropriate for the determination of the cooling down curve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125834Z" creationid="CCYU" creationdate="20141104T125742Z">
@@ -27389,6 +27397,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130819Z" creationid="CCYU" creationdate="20141103T130819Z">
         <seg>註 2 更精確的代表特定繞組設置之 S 因子估計可由製造商指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 During the test considerable flux is developed in the magnetic circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123508Z" creationid="CCYU" creationdate="20141115T123459Z">
+        <seg>註 2 測試期間磁路中會產生大量磁通量，</seg>
       </tuv>
     </tu>
     <tu>
