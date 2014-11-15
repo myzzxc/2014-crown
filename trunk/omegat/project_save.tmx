@@ -45098,6 +45098,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage shall be measured at tf line terminal of the highest voltage winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T080814Z" creationid="CCYU" creationdate="20141115T080814Z">
+        <seg>應量測最高電壓繞組之線路端子電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage shall be raised to (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt; and a background PD measurement shall be made &lt;t8/&gt;and recorded.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154132Z" creationid="CCYU" creationdate="20141112T154132Z">
