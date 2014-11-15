@@ -14169,6 +14169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>External clearances in air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134702Z" creationid="CCYU" creationdate="20141115T134702Z">
+        <seg>外部空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External non-linear elements and other external voltage control elements such as capacitors shall be disconnected for test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134804Z" creationid="CCYU" creationdate="20141114T134804Z">
@@ -16340,8 +16348,8 @@
       <tuv lang="EN-US">
         <seg>For liquid-immersed transformers, the test voltage is normally of negative polarity, because this &lt;t0/&gt;reduces the risk of erratic external flashovers in the test circuit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135305Z" creationid="CCYU" creationdate="20141113T135305Z">
-        <seg>油浸式變壓器之測試電壓極性通常為負，因為可降低測試電路中不穩定之外部閃火風險。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134402Z" creationid="CCYU" creationdate="20141113T135305Z">
+        <seg>油浸式變壓器之測試電壓極性通常為負，因為可降低測試電路中不穩定之外部跳火風險。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19764,6 +19772,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134049Z">
         <seg>如果漏油事件發生在水道 (溪流、湖泊或河流)，我們的產品將能吸附水中油污，再一次消除那油污光澤並和保護水源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a test failure occurs as the result of a flashover external to the transformer, then th particular test may be repeated and if successful the test sequence may be completed and r repeat of previously successful tests is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134646Z" creationid="CCYU" creationdate="20141115T134332Z">
+        <seg>若測試故障係由變壓器外部跳火所造成，則需進行特定測試，若通過測試則完成測試程序且無須重複先前通過之測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44668,8 +44684,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The test voltage is normally of negative polarity to reduce the risk of erratic external flashover in the test circuit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T103431Z" creationid="CCYU" creationdate="20141115T103431Z">
-        <seg>測試電壓極性通常為負以降低測試電路中不穩定之外部閃火風險。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134408Z" creationid="CCYU" creationdate="20141115T103431Z">
+        <seg>測試電壓極性通常為負以降低測試電路中不穩定之外部跳火風險。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47390,6 +47406,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T143938Z" creationid="CCYU" creationdate="20141107T143938Z">
         <seg>IEC 60076 本部份中說明絕緣要求與特定繞組及其端子對應之絕緣測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This part of the standard is applicable when clearances in air are not specified by th purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134810Z" creationid="CCYU" creationdate="20141115T134810Z">
+        <seg>此部份標準適用於買方未指定空間間隙時，</seg>
       </tuv>
     </tu>
     <tu>
@@ -51039,6 +51063,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104327Z">
         <seg>當有指明時，應量測油槽加壓下變形與釋放壓力後油槽之永久變形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where such clearances are specified, the manufacturer may use higher values required for test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135002Z" creationid="CCYU" creationdate="20141115T135002Z">
+        <seg>當已指定間隙時，製造商可用較高之數值進行測試。</seg>
       </tuv>
     </tu>
     <tu>
