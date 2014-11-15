@@ -12921,6 +12921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During switching impulse tests, the voltages developed across different windings ar approximately proportional to the ratio of numbers of turns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074457Z" creationid="CCYU" creationdate="20141115T074457Z">
+        <seg>開關突波測試期間，不同繞組之間產生之電壓約與繞匝數比正比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the production of galvanized or annealed steel, the metal is heated to very critical temperatures to insure proper bonding of the galvanized coating or annealing of the metal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033519Z">
@@ -43938,6 +43946,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test criteria shall be as given in 13.2.2.2 for transformers without a non-linear element am</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074257Z" creationid="CCYU" creationdate="20141115T074257Z">
+        <seg>無非線性元件之變壓器測試標準如 13.2.2.2 所示，而具有非線性元件之變壓器測試標準如 13.2.3.2 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test current per phase 3 —/ shall be stated in the test report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070736Z">
@@ -44172,8 +44188,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The test sequence shall be as given in &lt;t0/&gt;13.2.2.1 &lt;t1/&gt;for transformers without a non-linear elemen &lt;t2/&gt;and 13.2.3.1 &lt;t3/&gt;for transformers with a non-linear element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T073937Z" creationid="CCYU" creationdate="20141115T073937Z">
-        <seg>無非線性元件之變壓器測試順序如 13.2.2.1 所示，而具有非線性元件之變壓器測試如 13.2.3.1 所示。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074307Z" creationid="CCYU" creationdate="20141115T073937Z">
+        <seg>無非線性元件之變壓器測試順序如 13.2.2.1 所示，而具有非線性元件之變壓器測試順序如 13.2.3.1 所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53872,6 +53888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150455Z" creationid="CCYU" creationdate="20141101T150455Z">
         <seg>銅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for transformers with a non-linear element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074310Z" creationid="CCYU" creationdate="20141115T074310Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
