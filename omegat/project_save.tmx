@@ -29105,6 +29105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No clearance values are given for this value of rated insulation level because it is not applicable to air insulation according to IEC 60071-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152936Z" creationid="CCYU" creationdate="20141115T152936Z">
+        <seg>此額定絕緣等級無給定間隙值，因為依據 IEC 60071-1，其不適用空間間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No data available</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142605Z">
@@ -52679,6 +52687,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124543Z" creationid="CCYU" creationdate="20141030T124543Z">
         <seg>a&lt;t0/&gt; 參照表 1 給定數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; These values are not given in IEC 60071-1:2011 for the particular value of &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; but are included either because they represent common practice in some parts of the world or for some switching impulse levels, and clearances because they represent a co-ordinated value for a particular value of lightning impulse level,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152805Z" creationid="CCYU" creationdate="20141115T152805Z">
+        <seg>a 該數值未針對特定 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值列於 IEC 60071-1:2011 中，但因為其能代表某些地區之常用實務值或某些開關突波等級、代表特定雷擊突波等級值之協調值，因而收錄於此。</seg>
       </tuv>
     </tu>
     <tu>
