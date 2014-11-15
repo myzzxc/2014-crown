@@ -45114,6 +45114,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There will be a threshold voltage at which the differences caused by the non-linear elements start to appear and the test sequence shall include at least one record below this threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T052209Z" creationid="CCYU" creationdate="20141115T052209Z">
+        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you might look at a two bucket system that is smaller (20g &lt;t2/&gt;overpack&lt;t3/&gt; or even just 5g buckets).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z">
