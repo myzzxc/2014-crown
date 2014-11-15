@@ -21017,6 +21017,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If, during any of these applications, an external flashover in the circuit or across a bushing spark gap occurs, or if the recording fails on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034351Z" creationid="CCYU" creationdate="20141115T034351Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If, under special circumstances, the minimum levels given in Table &lt;t0/&gt;2&lt;t1/&gt; are considered too high by the purchaser then the values in Table 3 may be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T124116Z" creationid="CCYU" creationdate="20141110T124116Z">
@@ -27701,6 +27709,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z">
         <seg>註 只有當繞組不用於三相連接至外部電路時才可稱為穩定繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Additional impulses at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034626Z" creationid="CCYU" creationdate="20141115T034626Z">
+        <seg>註 可使用振幅不高於參考突波電壓之額外突波，該結果無須紀錄於測試報告中。</seg>
       </tuv>
     </tu>
     <tu>
