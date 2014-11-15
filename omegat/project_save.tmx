@@ -38002,6 +38002,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test connections for lightning impulses applied to multiple line terminals simultaneously (LIMT)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021519Z" creationid="CCYU" creationdate="20141115T021519Z">
+        <seg>同時於多組線路之端子施加雷擊突波 (LIMT) 之測試連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test correspondences</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T142836Z">
@@ -42126,6 +42134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130259Z">
         <seg>買方應根據 6.4.2 或 6.4.3. 指明抽頭規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purchaser shall specify the terminals which are to be connected together for this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021622Z" creationid="CCYU" creationdate="20141115T021622Z">
+        <seg>買方應指明此項測試中應連接在一起的端子。</seg>
       </tuv>
     </tu>
     <tu>
