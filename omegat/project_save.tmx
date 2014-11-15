@@ -24545,6 +24545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning impulses shall be applied simultaneously to the specified line terminals connected together with the other terminals earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021815Z" creationid="CCYU" creationdate="20141115T021815Z">
+        <seg>指定之線路端子須連接在一起同時進行雷擊突波測試，其他端子接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Line</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020617Z">
@@ -27957,6 +27965,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T034444Z">
         <seg>註 除非有特別說明其他抽頭，否則此數值代表主抽頭 (請見 3.5.2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The voltages appearing within the winding during this test can significantly exceed the terminal voltages during this test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T022020Z" creationid="CCYU" creationdate="20141115T022020Z">
+        <seg>註 此項測試中繞組電壓可能大幅超出端子電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43546,6 +43562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test levels and details of the test arrangement shall be agreed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021847Z" creationid="CCYU" creationdate="20141115T021847Z">
+        <seg>測試電壓等級及詳細測試配置應由雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test sequence shall be as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153840Z" creationid="CCYU" creationdate="20141112T153840Z">
@@ -43582,6 +43606,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141112T053021Z" creationid="MAE" creationdate="20141112T053021Z">
         <seg>應由製造商於工廠進行測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test shall be carried out on each phase in turn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021920Z" creationid="CCYU" creationdate="20141115T021920Z">
+        <seg>應輪流針對各相進行測試。</seg>
       </tuv>
     </tu>
     <tu>
