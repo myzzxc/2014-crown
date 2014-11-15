@@ -5325,6 +5325,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional observations during the test (abnormal sounds, etc.) may be used to confirm the oscillographic records, but they do not constitute evidence in themselves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131953Z" creationid="CCYU" creationdate="20141115T131953Z">
+        <seg>測試期間可進行額外的觀測 (異音等) 以確認波形圖紀錄之解析，但其不作為證明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional routine tests for transformers with Um &gt; 72&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152731Z">
@@ -19960,6 +19968,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If during any of these applications an external flashover in the circuit or across a bushing spark gap should occur, or if the recording should fail on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131818Z" creationid="CCYU" creationdate="20141115T131818Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If dust is created use NIOSH or MSHA approved respirator for nuisance dust of</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173347Z">
@@ -30469,6 +30485,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T081637Z">
         <seg>正射校正影像之相對位移與幾何誤差比未正射校正之影像較低，因此一般認定其更為準確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oscillographic records shall be made of the impulse wave-shape on the line terminal under test and the current between the tested winding and earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131805Z" creationid="CCYU" creationdate="20141115T131805Z">
+        <seg>波形圖紀錄應包含測試線路端子上之突波波形和測試繞組與地線之間的電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44350,6 +44374,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070327Z" creationid="CCYU" creationdate="20141115T070327Z">
         <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is successful if there is no sudden collapse of voltage or discontinuity in the voltage or current indicated on the oscillographic records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131933Z" creationid="CCYU" creationdate="20141115T131933Z">
+        <seg>若無突發電壓崩潰發生或波形圖紀錄中無不連續之電壓或電流則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
