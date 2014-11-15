@@ -27377,6 +27377,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 The impulse withstand strength of the external insulation is polarity dependant, in contrast to what is assumed for the internal insulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144438Z" creationid="CCYU" creationdate="20141115T144438Z">
+        <seg>註 1 外部絕緣之突波耐壓強度取決於極性，與內部絕緣之假設相異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 The interpretation of rated power according to this subclause implies that it is a value of apparent power input to the transformer - including its own absorption of active and reactive power.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T115007Z">
@@ -44826,6 +44834,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tests prescribed for the internal insulation of the transformer do not automatically verify that the external insulation is satisfactory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144621Z" creationid="CCYU" creationdate="20141115T144621Z">
+        <seg>針對變壓器內部絕緣之測試並非直接使外部絕緣符合規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tests shall be performed in the sequence given below:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T142838Z" creationid="CCYU" creationdate="20141110T142838Z">
@@ -50927,6 +50943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123900Z">
         <seg>當具有此類限制時，抽頭為 '降低功率抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the clearances of the transformer are equal to or larger than the values specified in this standard and the bushings have properly selected ratings according to IEC 60137, then the external insulation of the transformer shall be regarded as satisfactory without further testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144317Z" creationid="CCYU" creationdate="20141115T144317Z">
+        <seg>當變壓器間隙等於或大於此標準所列之數值且套管依據 IEC 60137 正確地選定額定值，則視變壓器外部絕緣為滿足規範無須進一步測試。</seg>
       </tuv>
     </tu>
     <tu>
