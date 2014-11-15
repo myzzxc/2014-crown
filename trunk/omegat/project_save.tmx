@@ -12969,6 +12969,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E&lt;t0/&gt;mjn&lt;t1/&gt; is the minimum energy required from the impulse generator in joules; &lt;t2/&gt;f</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024810Z" creationid="CCYU" creationdate="20141115T024810Z">
+        <seg>E&lt;t0/&gt;min&lt;t1/&gt; 為突波產生器之最低能量要求，單位為焦耳； &lt;t2/&gt;f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EAN number: 40 15588 60227 6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114534Z">
@@ -22733,6 +22741,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185557Z">
         <seg>資料來源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information from previous experience of testing similar transformers can be used if available):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024655Z" creationid="CCYU" creationdate="20141115T024655Z">
+        <seg>若有類似變壓器之測試數值，可使用該資訊)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54888,6 +54904,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155448Z">
         <seg>額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated frequency of the transformer in hertz;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024851Z" creationid="CCYU" creationdate="20141115T024851Z">
+        <seg>變壓器額定頻率，單位為赫茲；</seg>
       </tuv>
     </tu>
     <tu>
