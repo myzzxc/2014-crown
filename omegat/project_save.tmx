@@ -47946,6 +47946,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To limit the voltage of opposite polari to approximately 50 % of the applied level, it is permissible to connect high resistance dampir resistors (5 kQ to 20 kQ) to earth at the non-tested phase terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T081908Z" creationid="CCYU" creationdate="20141115T081908Z">
+        <seg>為了限制相反極性之電壓大約等於施加電壓之 50 %，可於非測試端子連接高電阻值之阻尼電阻 (5 kΩ 至 20 kΩ) 至地線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To maintain a clean hydraulic system, the filters must be replaced on a periodic basis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104751Z">
