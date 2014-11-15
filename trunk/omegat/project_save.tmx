@@ -28249,6 +28249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE If the core does not saturate during the full voltage applications then reverse polarity applications might not be required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T124417Z" creationid="CCYU" creationdate="20141115T124417Z">
+        <seg>註 若核心於施加全電壓期間不飽和，則無須施加反向極性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE If this factor ranges from 100 + a to 100 &lt;t0/&gt;-&lt;t1/&gt; b, the tapping range is said to be: +a %, &lt;t2/&gt;-&lt;t3/&gt;b % or ±a %, if a = b.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024241Z">
