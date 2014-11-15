@@ -16034,6 +16034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For delta connected windings the terminal corresponding to the end of the phase under te shall be earthed either directly or through a small measuring impedance, the other termins shall be open circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T082912Z" creationid="CCYU" creationdate="20141115T082912Z">
+        <seg>三角連接繞組之測試相端點對應之端子直接接地或通過低量測阻抗接地，其他端子應開路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details on the flameproof joints contact MOOG Industrial Controls Division.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T102120Z">
@@ -38726,6 +38734,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145405Z" creationid="CCYU" creationdate="20141111T145335Z">
         <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 170 kV 之測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests on a three-phase transformer shall be arranged so that a differe terminal of the delta is earthed for each phase test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083139Z" creationid="CCYU" creationdate="20141115T083139Z">
+        <seg>三相變壓器之測試配置為各相測試時三角連接之各不同端子接地。</seg>
       </tuv>
     </tu>
     <tu>
