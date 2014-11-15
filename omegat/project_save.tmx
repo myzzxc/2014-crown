@@ -53348,6 +53348,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>c&lt;t0/&gt; No value of phase-phase clearance is given as transformers with this value of rated insulation level are usually single phase.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T153152Z" creationid="CCYU" creationdate="20141115T153152Z">
+        <seg>c&lt;t0/&gt; 由於此額定絕緣等級之變壓器通常為單相，因此無提供相對相間隙值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c&lt;t0/&gt;2&lt;t1/&gt;h&lt;t2/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144927Z" creationid="CCYU" creationdate="20141105T144927Z">
