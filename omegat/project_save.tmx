@@ -24041,6 +24041,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended to use a triggered-type chopping gap with adjustable timing, although a plain rod-rod gap is allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062042Z" creationid="CCYU" creationdate="20141115T062042Z">
+        <seg>即使允許棒狀放電器之間間隙，仍建議使用觸發式截取間隙及可調式定時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended you contact Moog at (716) 652-2000 to locate your closest Moog repair facility.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135201Z" creationid="CCYU" creationdate="20141023T135201Z">
@@ -42162,6 +42170,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The peak value of the chopped wave lightning impulse shall be as given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062131Z" creationid="CCYU" creationdate="20141115T062131Z">
+        <seg>截波雷擊突波之峰值應如表 2 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The peak value of voltage shall &lt;t0/&gt;be measured.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T123125Z" creationid="CCYU" creationdate="20141112T123125Z">
@@ -43798,6 +43814,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T022354Z" creationid="CCYU" creationdate="20141115T022354Z">
         <seg>測試突波應為標準全雷擊突波： 1,2 ± 30 % V 50 µs ± 20 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is combined with the full impulse test in a single sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062226Z" creationid="CCYU" creationdate="20141115T062226Z">
+        <seg>測試結合全突波測試於單一程序，</seg>
       </tuv>
     </tu>
     <tu>
