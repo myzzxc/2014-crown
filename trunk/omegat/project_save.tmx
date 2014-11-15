@@ -54588,6 +54588,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>one reference impulse of a voltage between 50 % and 70 % of the full test voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T033935Z" creationid="CCYU" creationdate="20141115T033809Z">
+        <seg>一組電壓介於全測試電壓 50 % 至 70 % 之間的參考突波測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>one-&lt;t0/&gt;twelfth of the sum of the monthly average temperatures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111853Z">
@@ -56801,6 +56809,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T130059Z" creationid="CCYU" creationdate="20141112T130059Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>three subsequent impulses at full voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T033930Z" creationid="CCYU" creationdate="20141115T033930Z">
+        <seg>三組於全電壓之接續突波測試。</seg>
       </tuv>
     </tu>
     <tu>
