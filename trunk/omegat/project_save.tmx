@@ -20008,6 +20008,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If none of the 100 % full wave records differ from the lowest voltage of the reference impuls record then impulses g), h) and i) above may be omitted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064524Z" creationid="CCYU" creationdate="20141115T064524Z">
+        <seg>若 100 % 全波紀錄與參考突波最低電壓紀錄皆無相異，則上述 g)、h) 以及 i) 之突波可忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If none of the 100 % full wave records differ from the lowest voltage record of the reference impulse records, then impulses e), f) and g) above may be omitted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053813Z" creationid="CCYU" creationdate="20141115T053813Z">
@@ -42794,6 +42802,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reference impulse voltages shall be at least 10 % (of the 100 % level) different from eac other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064500Z" creationid="CCYU" creationdate="20141115T064500Z">
+        <seg>參考突波電壓之間應至少具有 10 % (相對 100 % 電壓) 之差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The regenerative channel functions as it was designed for at most of the time within an engine cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T214547Z">
@@ -51523,6 +51539,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a comparison&lt;t0/&gt; &lt;t1/&gt;impulse at as&lt;t2/&gt; &lt;t3/&gt;nearly&lt;t4/&gt; &lt;t5/&gt;as possible&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;same voltage&lt;t10/&gt; &lt;t11/&gt;as&lt;t12/&gt; &lt;t13/&gt;a)&lt;t14/&gt; &lt;t15/&gt;above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064445Z" creationid="CCYU" creationdate="20141115T064445Z">
+        <seg>一組盡可能接近上述 a) 電壓值之比較突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a comparison&lt;t0/&gt; &lt;t1/&gt;impulse at as&lt;t2/&gt; &lt;t3/&gt;nearly&lt;t4/&gt; &lt;t5/&gt;as possible&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;same voltage&lt;t10/&gt; &lt;t11/&gt;as&lt;t12/&gt; &lt;t13/&gt;b)&lt;t14/&gt; &lt;t15/&gt;above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064439Z" creationid="CCYU" creationdate="20141115T064439Z">
+        <seg>一組盡可能接近上述 b) 電壓值之比較突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a comparison&lt;t0/&gt; &lt;t1/&gt;impulse at as&lt;t2/&gt; &lt;t3/&gt;nearly&lt;t4/&gt; &lt;t5/&gt;as possible&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;same voltage&lt;t10/&gt; &lt;t11/&gt;as&lt;t12/&gt; &lt;t13/&gt;c)&lt;t14/&gt; &lt;t15/&gt;above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064432Z" creationid="CCYU" creationdate="20141115T064432Z">
+        <seg>一組盡可能接近上述 c) 電壓值之比較突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a conducting element intended for connecting a winding to external conductors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T143752Z">
@@ -57635,6 +57675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>two full wave impulses at the full wave lightning impulse test voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062613Z" creationid="CCYU" creationdate="20141115T062613Z">
+        <seg>兩組電壓為全波雷擊突波測試電壓之全波突波。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two full wave&lt;t0/&gt; &lt;t1/&gt;impulses at the full wave lightning impulse test voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064417Z" creationid="CCYU" creationdate="20141115T064417Z">
         <seg>兩組電壓為全波雷擊突波測試電壓之全波突波。</seg>
       </tuv>
     </tu>
