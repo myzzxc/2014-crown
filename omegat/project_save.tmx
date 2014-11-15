@@ -27249,6 +27249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 This clause gives two methods of dealing with an overshoot of more than 5 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T031242Z" creationid="CCYU" creationdate="20141115T031242Z">
+        <seg>註 2 此節提供兩種處理超越值過 5 % 之方法，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 This quantity can be expressed in relative, dimensionless form, as a fraction z, of the reference impedance Zref, of the same winding of the pair.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T044244Z">
