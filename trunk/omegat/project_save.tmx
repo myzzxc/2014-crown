@@ -20465,6 +20465,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the minimum tail time is not achieved then by agreement between manufacturer and purchaser a shorter tail time may be accepted but the test voltage shall be increased by &lt;t0/&gt;1&lt;t1/&gt; % for each 2 ps by which the tail time is less than 40 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T033052Z" creationid="CCYU" creationdate="20141115T033052Z">
+        <seg>若無法達到最低波尾時間，可由製造商與買方之間協議接受較短的波尾時間，但波尾時間低於 40 µs 時，每減少 2 µs 時測試電壓須增加 1 %，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the neutral point of a star-connected or zigzag-connected winding is brought out, th&lt;t0/&gt;e&lt;t1/&gt; indication shall be YN (&lt;t2/&gt;yn&lt;t3/&gt;) or ZN (&lt;t4/&gt;zn&lt;t5/&gt;) respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142621Z">
