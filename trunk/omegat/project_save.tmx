@@ -4701,6 +4701,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A voltage opposite polarity and about half amplitude appears on the two remaining line terminals whic may be connected together but not connected to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T081534Z" creationid="CCYU" creationdate="20141115T081534Z">
+        <seg>其餘兩線路端子連接在一起但不接地，並使用相反極性之電壓和大約一半振幅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A well performing regenerator needs to maximize heat transfer rate and heat capacity while minimize dead volume, pressure drop, and energy losses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144019Z">
@@ -36246,6 +36254,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143201Z">
         <seg>清潔孔洞前必須清除孔洞內積水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Star connected windings with the neutral brought out shall be earthed at the neutral terrain either directly or through a low impedance such as a current measuring shunt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T081343Z" creationid="CCYU" creationdate="20141115T081343Z">
+        <seg>星形連接繞組之中性端子應直接接地或通過低阻抗如電流量測分路器接地。</seg>
       </tuv>
     </tu>
     <tu>
