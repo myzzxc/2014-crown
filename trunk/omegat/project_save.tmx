@@ -20793,6 +20793,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the purchaser intends to make the connection in a particular way which is likely to reduce t effective clearances, this shall be stated in the enquiry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143023Z" creationid="CCYU" creationdate="20141115T143023Z">
+        <seg>若買方欲以可能降低有效間隙之特定方式連接，應於詢價階段說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the purchaser intends to make the connections to the transformer in a way which may reduce the clearances provided by the transformer alone, this should be indicated in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132238Z" creationid="CCYU" creationdate="20141112T132238Z">
@@ -40486,6 +40494,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143444Z">
         <seg>星形繞組落後高壓繞組 330°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design shall provide for suitable conductors to be connected to the bushi terminals leading away from the transformer without infringing the clearances given in tl document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142849Z" creationid="CCYU" creationdate="20141115T142849Z">
+        <seg>設計應提供合適的導體連接至變壓器輸出套管端子而不影響本文中所給定之間隙。</seg>
       </tuv>
     </tu>
     <tu>
