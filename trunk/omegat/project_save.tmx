@@ -7413,6 +7413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As far as possible the same time to chop shall be used for all chopped wave lightning impulses in the sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062953Z" creationid="CCYU" creationdate="20141115T062953Z">
+        <seg>所有截波雷擊測試序列中應盡可能使用相同的截取時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As far as possible, the sensors should be placed in direct contact with the insulation of the winding &lt;t0/&gt;conductors, in the regions where the hot-spots are expected (i.e., at the upper winding extremities).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T150206Z" creationid="CCYU" creationdate="20141106T150206Z">
@@ -43974,6 +43982,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124150Z" creationid="CCYU" creationdate="20141112T124150Z">
         <seg>若無電壓崩潰發生則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is successful if there are no significant differences between voltage and curren' transients recorded from the reference reduced level full impulse and those recorded at the ful test voltage including the chopped impulses up to the time of chop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063456Z" creationid="CCYU" creationdate="20141115T063456Z">
+        <seg>若參考之降低電壓全突波和包含截波之全測試電壓之間的電壓和電流暫態無顯著差異則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
