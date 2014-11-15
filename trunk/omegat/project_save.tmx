@@ -16843,6 +16843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 800 kV there may be cases where a front time of less than 2,5 ps cannot be reasonably achieved because of a very high capacitance to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T032455Z" creationid="CCYU" creationdate="20141115T032450Z">
+        <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 800 kV 時，波前時間可能因為非常高的對地電容而無法低 2,5 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For transformers with a uniformly insulated lower voltage winding subject to an applied voltage test, the tap position may be chosen by the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T133957Z" creationid="CCYU" creationdate="20141113T133824Z">
@@ -22309,6 +22317,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090926Z">
         <seg>這些區域將需要洩漏處理工具組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In these cases a longer front time may be accepted by agreement between purchaser and manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T032603Z" creationid="CCYU" creationdate="20141115T032603Z">
+        <seg>在這些情況下可由買家和製造商之間協議接受較長的波前時間。</seg>
       </tuv>
     </tu>
     <tu>
