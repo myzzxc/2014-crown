@@ -44620,8 +44620,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The time to zero can be increased by inducing a remnant flux into the core of opposite direction to that induced during the test before each full-voltage test impulse.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T114344Z" creationid="CCYU" creationdate="20141115T113823Z">
-        <seg>降低達到零電壓之時間可藉由於各全電壓測試突波前，產生與測試期間感應反向之殘餘通量至核心。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123137Z" creationid="CCYU" creationdate="20141115T113823Z">
+        <seg>降低達到零電壓之時間可藉由於各全電壓測試突波前，產生與測試期間感應反向之殘餘通量至核心，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46982,6 +46982,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232916Z">
         <seg>此數值遠小於膨脹腔體注入相之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is normally accomplished by applying impulses of similar shape but opposite polarity at a voltage not exceeding 70 % of the full test level, but other methods may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123145Z" creationid="CCYU" creationdate="20141115T123135Z">
+        <seg>此方法通常由施加相似波形但極性相反之突波，其電壓不超過全測試電壓 70 %，但也可使用其他方法。</seg>
       </tuv>
     </tu>
     <tu>
