@@ -41538,6 +41538,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum allowable tail time is 20 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T033113Z" creationid="CCYU" creationdate="20141115T033113Z">
+        <seg>最低可接受波尾時間為 20 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum anchorage length (&lt;t0/&gt;lb,min&lt;t1/&gt;) and the minimum lap length (l0,min) according to EN 1992-1-1:2004+AC:2010 , (&lt;t2/&gt;lb,min&lt;t3/&gt;) acc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085633Z">
