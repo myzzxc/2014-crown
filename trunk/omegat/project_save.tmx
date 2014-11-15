@@ -44674,6 +44674,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage shall be raised to (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt; and a background PD measurement shall be made and recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T052743Z" creationid="CCYU" creationdate="20141115T052743Z">
+        <seg>增加電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage shall be raised to (i,&lt;t0/&gt;2&lt;t1/&gt;xL/&lt;t2/&gt;r&lt;t3/&gt;)/Vi' and held there for a minimum duration of 1 min and only long enough to make a stable PD measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154358Z" creationid="CCYU" creationdate="20141112T154358Z">
