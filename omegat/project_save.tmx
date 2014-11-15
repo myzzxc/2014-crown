@@ -17299,6 +17299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further information is given ii IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063812Z" creationid="CCYU" creationdate="20141115T063812Z">
+        <seg>更多資訊收錄於 IEC 60076-4 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Further information is given in IEC 60076-4.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135039Z" creationid="CCYU" creationdate="20141113T135039Z">
@@ -19992,6 +20000,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If non-linear elements or surge diverters are built into the transformer for the limitation o transferred overvoltage transients, they may operate during the test procedure and this ma cause differences between impulse records made at different voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063918Z" creationid="CCYU" creationdate="20141115T063918Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態傳輸時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If none of the 100 % full wave records differ from the lowest voltage record of the reference impulse records, then impulses e), f) and g) above may be omitted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053813Z" creationid="CCYU" creationdate="20141115T053813Z">
@@ -20932,6 +20948,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>If there is a voltage collapse or deviation and it is agreed between the manufacturer an' purchaser that the test is not immediately failed, the test sequence shall be completed an then the full test sequence repeated using the original reference impulse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055200Z" creationid="CCYU" creationdate="20141115T055200Z">
+        <seg>若發生電壓崩潰或偏差但經製造商與買方之間協議而不立即視為故障時，應完成測試程序，並使用原始參考突波重複執行完整的測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is a voltage collapse or deviation and it is agreed between the manufacturer anc purchaser that the test is not immediately failed the test sequence shall be completed and ther the full test sequence repeated using the original reference impulse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063833Z" creationid="CCYU" creationdate="20141115T063833Z">
         <seg>若發生電壓崩潰或偏差但經製造商與買方之間協議而不立即視為故障時，應完成測試程序，並使用原始參考突波重複執行完整的測試程序。</seg>
       </tuv>
     </tu>
@@ -22253,6 +22277,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132307Z" creationid="CCYU" creationdate="20141112T132307Z">
         <seg>當依據 IEC 60214-1 之抽頭切換器未於製造工廠進行例行介電測試時，則依本標準所進行之測試也作為本元件唯一進行之例行介電測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of the choppec impulses differences after the chopping time may be due to minor variations in the performance and timing of the chopping gap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063742Z" creationid="CCYU" creationdate="20141115T063731Z">
+        <seg>當截取突波於截取時間之後產生差異時，可能為效能和截取間隙之時間的次要變化所造成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28173,6 +28205,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T023023Z" creationid="MAE" creationdate="20141029T023023Z">
         <seg>註 平均溫度由下列氣象資料中取得 (請見 IEC 60076-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE The detailed interpretation of the test records and the discrimination between marginal differences an&lt; differences indicating failure requires a great deal of skill and experience.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063807Z" creationid="CCYU" creationdate="20141115T063807Z">
+        <seg>註 詳細的測試紀錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45350,6 +45390,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152612Z">
         <seg>沒有引擎循環期間於引擎室中關於壓力、溫度和熱傳導變化的資訊，以便更進一步理解發生於再生器和引擎室內的複雜物理過程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There will be ; threshold voltage at which the differences caused by the non-linear elements start to appea and the test sequence shall include at least one record below this threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063925Z" creationid="CCYU" creationdate="20141115T063925Z">
+        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之紀錄。</seg>
       </tuv>
     </tu>
     <tu>
