@@ -20553,6 +20553,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the relative overshoo magnitude exceeds 5 % at the full wave voltage level, then a test voltage function shall bt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030536Z" creationid="CCYU" creationdate="20141115T030536Z">
+        <seg>若於全波電壓等級下其相對超越量超過 5 %，則須依據 IEC 60060-1 使用測試電壓函數以決定測試電壓值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the required waveshape cannot be obtained without the use of a resistor between neutral and earth, then an additional complete impulse test sequence shall be applied.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133525Z" creationid="CCYU" creationdate="20141114T133525Z">
@@ -51575,6 +51583,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130002Z">
         <seg>對於兩組以上繞組之變壓器，任何固定兩特定繞組之匝數比之要求；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>applied in accordance with IEC 60060-1 to determine the test voltage value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030537Z" creationid="CCYU" creationdate="20141115T030537Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
