@@ -16570,6 +16570,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For test objects without a magnetic core or with a gapped core design, it is permissible to have a time to zero of less than 1 000 yts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123911Z" creationid="CCYU" creationdate="20141115T123911Z">
+        <seg>無磁核心或間隔核心設計之測試目標，可允許達零電壓時間低於 1 000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For test results please see attachments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065428Z">
@@ -35170,6 +35178,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123916Z" creationid="CCYU" creationdate="20141115T123916Z">
+        <seg>請見 IEC 60076-4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See IECEX certificate ITS 13.0012X</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075051Z" creationid="CCYU" creationdate="20141025T075051Z">
@@ -41338,6 +41354,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The impulse voltage can be sustained up to the instant when the core reaches saturation and the magnetizing impedance of the transformer becomes drastically reduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123737Z" creationid="CCYU" creationdate="20141115T123737Z">
+        <seg>突波電壓最高可維持於核心達到飽和瞬間，而變壓器磁化阻抗大量降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The impulses are applied either directly from the impulse voltage source to a line terminal &lt; the highest voltage winding, or to a lower voltage winding so that the test voltage is inductive transferred to the highest voltage winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075646Z" creationid="CCYU" creationdate="20141115T075646Z">
@@ -44334,6 +44358,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074307Z" creationid="CCYU" creationdate="20141115T073937Z">
         <seg>無非線性元件之變壓器測試順序如 13.2.2.1 所示，而具有非線性元件之變壓器測試順序如 13.2.3.1 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test sequence shall consist of one reference impulse of a voltage between 50 % and 70 % of the full test voltage and three impulses at full voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T124009Z" creationid="CCYU" creationdate="20141115T124009Z">
+        <seg>測試程序應包含一組電壓介於全測試電壓 50 % 至 70 % 之間的參考突波以及三組全電壓突波。</seg>
       </tuv>
     </tu>
     <tu>
