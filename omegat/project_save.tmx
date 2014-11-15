@@ -44930,6 +44930,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;reference impulse voltages shall be&lt;t2/&gt; &lt;t3/&gt;at least 10 % (of the 100 % level) different from each&lt;t4/&gt; &lt;t5/&gt;other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053601Z" creationid="CCYU" creationdate="20141115T053601Z">
+        <seg>參考突波電壓之間應至少具有 10 % (相對 100 % 電壓) 之差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;voltage may be induced from any winding or from a special winding or taps provided for test&lt;t2/&gt; &lt;t3/&gt;purposes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T141906Z" creationid="CCYU" creationdate="20141112T141906Z">
@@ -51519,6 +51527,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T091618Z" creationid="CCYU" creationdate="20141102T091618Z">
         <seg>a&lt;t0/&gt; (LV) 代表低壓繞組，而 (HV) 代表高壓繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; &lt;t1/&gt;comparison&lt;t2/&gt; &lt;t3/&gt;impulse at&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;nearly as&lt;t8/&gt; &lt;t9/&gt;possible the same voltage&lt;t10/&gt; &lt;t11/&gt;as a)&lt;t12/&gt; &lt;t13/&gt;above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053444Z" creationid="CCYU" creationdate="20141115T053444Z">
+        <seg>一組盡可能接近上述 a) 電壓值之比較突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; &lt;t1/&gt;comparison&lt;t2/&gt; &lt;t3/&gt;impulse at&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;nearly asp&lt;t8/&gt; &lt;t9/&gt;ossible the same voltage&lt;t10/&gt; &lt;t11/&gt;as b)&lt;t12/&gt; &lt;t13/&gt;above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053436Z" creationid="CCYU" creationdate="20141115T053436Z">
+        <seg>一組盡可能接近上述 b) 電壓值之比較突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; &lt;t1/&gt;comparisoni&lt;t2/&gt; &lt;t3/&gt;mpulse at&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;nearly as&lt;t8/&gt; &lt;t9/&gt;possible the same voltage&lt;t10/&gt; &lt;t11/&gt;as c)&lt;t12/&gt; &lt;t13/&gt;above;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053426Z" creationid="CCYU" creationdate="20141115T053426Z">
+        <seg>一組盡可能接近上述 c) 電壓值之比較突波；</seg>
       </tuv>
     </tu>
     <tu>
