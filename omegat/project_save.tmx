@@ -27649,6 +27649,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 It is recognised that in some countries, clearances can be different if based on LI and AC withstand voltages only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144925Z" creationid="CCYU" creationdate="20141115T144925Z">
+        <seg>註 2 某些國家中，若僅參照 LI 和 AC 耐壓時，間隙可能不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 Passive elements are not liable to cause electromagnetic disturbances and their performance is not liable to be affected by such disturbances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T132315Z">
@@ -43198,6 +43206,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233003Z">
         <seg>原因是由於其較大的熱容量，移動式再生器中的多孔介質中能夠於整個引擎週期中保持軸向溫度梯度的穩定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recommended clearances are dimensioned for the more onerous polarity (positive).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144804Z" creationid="CCYU" creationdate="20141115T144804Z">
+        <seg>建議之間隙用於更嚴格的極性 (正極)。</seg>
       </tuv>
     </tu>
     <tu>
