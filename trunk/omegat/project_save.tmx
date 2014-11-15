@@ -19952,6 +19952,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If non-linear elements or surge arresters are built into the transformer for the limitation of transferred overvoltage transients, they may operate during the test procedure and this may cause differences between impulse records made at different voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T051730Z" creationid="CCYU" creationdate="20141115T051730Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態傳輸時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If none of the methods above can be applied in full, because of limitations of test facilities, it may be agreed to perform the test with reduced loss, down to 80 % of the correct value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124208Z" creationid="CCYU" creationdate="20141101T124208Z">
