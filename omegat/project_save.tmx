@@ -20977,6 +20977,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this is not the case then the records of current and voltage from the following impulses shal be compared:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054029Z" creationid="CCYU" creationdate="20141115T054029Z">
+        <seg>若具有差異則需比較以下突波之電壓和電流紀錄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this is not the case, one or more particular loading combinations&lt;t1/&gt; have to be selected and specified for the temperature rise limits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112933Z" creationid="CCYU" creationdate="20141030T112933Z">
@@ -51531,6 +51539,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a) and g)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054036Z" creationid="CCYU" creationdate="20141115T054036Z">
+        <seg>a) 和 g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) for dry-type transformers, the reference temperature shall be according to the general requirements for tests in IEC 60076-11;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131226Z">
@@ -51727,6 +51743,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135523Z">
         <seg>增加箱體之真空、壓力和洩漏試驗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all the &lt;t0/&gt;100&lt;t1/&gt; % level impulse records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054105Z" creationid="CCYU" creationdate="20141115T054105Z">
+        <seg>所有 100 % 電壓之突波紀錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52019,6 +52043,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>b) and f)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054039Z" creationid="CCYU" creationdate="20141115T054039Z">
+        <seg>b) 和 f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) for liquid-immersed transformers with rated average winding temperature rise less than or equal to 65 K for OF or ON, or 70 K for OD;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131408Z">
@@ -52160,6 +52192,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T025050Z">
         <seg>c) 保證填充液體與繞組最大溫度上升量 (若非正常值)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c) and e)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054044Z" creationid="CCYU" creationdate="20141115T054044Z">
+        <seg>c) 和 e)</seg>
       </tuv>
     </tu>
     <tu>
