@@ -24817,6 +24817,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning impulse test on a neutral terminal (LIN)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070806Z" creationid="CCYU" creationdate="20141115T070806Z">
+        <seg>中性端子雷擊突波測試 (LIN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning impulse test on the neutral terminal (LIN)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145133Z" creationid="CCYU" creationdate="20141111T145133Z">
@@ -48935,6 +48943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T130136Z">
         <seg>除非另有指明，於 CbVV '最大電壓抽頭' 情況下，CFVV 和 VFVV 之間的切換點應同時為 '最大電流抽頭'，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under certain circumstances it might be appropriate to evaluate the waveshape parameters of non-standard waveshapes and perform the interpretation of deviations manually rather than relying completely on software tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070802Z" creationid="CCYU" creationdate="20141115T070802Z">
+        <seg>其於特定的情況下可用於評估非標準波形之波形參數，並人工進行變異之解析而非完全依靠軟體工具。</seg>
       </tuv>
     </tu>
     <tu>
