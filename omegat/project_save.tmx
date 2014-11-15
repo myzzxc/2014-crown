@@ -8814,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;L|</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025205Z" creationid="CCYU" creationdate="20141115T025205Z">
+        <seg>U&lt;t0/&gt;LI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&lt;t0/&gt;ab&lt;t1/&gt;l&lt;t2/&gt;e&lt;t3/&gt; &lt;t4/&gt;c&lt;t5/&gt;on&lt;t6/&gt;f&lt;t7/&gt;o&lt;t8/&gt;r&lt;t9/&gt;m&lt;t10/&gt;i&lt;t11/&gt;t&lt;t12/&gt;y &lt;t13/&gt;diam&lt;t14/&gt;et&lt;t15/&gt;er&lt;t16/&gt; &lt;t17/&gt;is&lt;t18/&gt; &lt;t19/&gt;Φ&lt;t20/&gt;4.&lt;t21/&gt;5~Φ&lt;t22/&gt;6.&lt;t23/&gt;0</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040247Z" creationid="CCYU" creationdate="20141025T040247Z">
@@ -48051,6 +48059,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>U&lt;t0/&gt; is the winding rated voltage in volts, phase-to-phase;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025148Z" creationid="CCYU" creationdate="20141115T025148Z">
+        <seg>U&lt;t0/&gt; 為繞組額定電壓，單位為伏特，相對相；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>U&lt;t0/&gt;m&lt;t1/&gt; (HV) line = 245 kV, Y connected (220 kV rated voltage);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122637Z" creationid="CCYU" creationdate="20141108T122637Z">
@@ -55668,6 +55684,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tail time in seconds; f&lt;t0/&gt;2&lt;t1/&gt; equal 50 x 10&lt;t2/&gt;'&lt;t3/&gt;6&lt;t4/&gt; s;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025003Z" creationid="CCYU" creationdate="20141115T025003Z">
+        <seg>為波尾時間，單位為秒； t&lt;t0/&gt;2&lt;t1/&gt; 等於 50 x 10&lt;t2/&gt;-&lt;t3/&gt;6&lt;t4/&gt; s；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tapped winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T124705Z">
@@ -57700,6 +57724,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150124Z" creationid="CCYU" creationdate="20141105T150124Z">
         <seg>1/t x [(CO)&lt;t0/&gt;2&lt;t1/&gt; -(CO)1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>z is the short circuit impedance in % seen from the impulse terminal see IEC 60076-1;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025112Z" creationid="CCYU" creationdate="20141115T025112Z">
+        <seg>z 為短路阻抗，以突波端子之 % 表示，請見 IEC 60076-1；</seg>
       </tuv>
     </tu>
     <tu>
