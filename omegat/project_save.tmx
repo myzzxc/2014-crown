@@ -21393,6 +21393,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a three-phase transformer, the voltage developed between line terminals during the te; shall be approximately 1,5 times the voltage between line and neutral terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075352Z" creationid="CCYU" creationdate="20141115T075352Z">
+        <seg>三相變壓器中，測試期間線路端子之間所產生之電壓應約為線路和中性端子之間電壓的 1,5 倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a transformer with forced, non-directed cooling (second code letter F), the rates of flow of liquid thr&lt;t0/&gt;ough all the windings are variable with the loading, and not directly related to the pumped flow through the cooling equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141636Z" creationid="CCYU" creationdate="20141028T141331Z">
