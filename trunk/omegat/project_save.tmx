@@ -21921,6 +21921,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, the provision of adequate clearances in air becomes technically difficult mainly high system voltages, particularly for relatively small units, or when the installation space restricted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143238Z" creationid="CCYU" creationdate="20141115T143238Z">
+        <seg>一般情況下，提供足夠的空間間隙之技術困難性主要為高系統電壓，尤其於較小的裝置、或有限的安裝空間中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, the same holds for a genuine OD-coole&lt;t8/&gt;d transformer where only a moderate leakage or controlled bleed passes from the coolers out into the free tank volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T083612Z" creationid="CCYU" creationdate="20141102T083612Z">
@@ -30621,6 +30629,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154324Z">
         <seg>Other adverse effects 其他不良影響</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other clearances based on past or current practice shall be subject to agreement between purchaser and manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143753Z" creationid="CCYU" creationdate="20141115T143753Z">
+        <seg>其他根據過去或現今實務之間隙應由買方與供應商之間協議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42834,6 +42850,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principle followed in this standard is to provide minimum, non-criticai clearanc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143625Z" creationid="CCYU" creationdate="20141115T143625Z">
+        <seg>本標準之原則為提供最低、非臨界間隙，其能滿足所需且於不同系統條件中以及不同氣候下無須進一步討論或證明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principle of the functional specification of a transformer with tappings according to 6.4.3 is to provide a framework for the specification of the operational requirements whilst leaving the detailed design of winding and tapping arrangements to the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144058Z">
@@ -43166,6 +43190,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233003Z">
         <seg>原因是由於其較大的熱容量，移動式再生器中的多孔介質中能夠於整個引擎週期中保持軸向溫度梯度的穩定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recommended clearances are referred to the rated withstand voltages of the internal insulation of the transformer, unless otherwise specified in the enquiry and order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144017Z" creationid="CCYU" creationdate="20141115T144017Z">
+        <seg>除詢價和訂購時指明外，建議之間隙應參照變壓器內部絕緣之額定耐壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58916,6 +58948,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T125839Z">
         <seg>變壓器是否經常電流過載，例如電爐變壓器和牽引輸送變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which are satisfactory without further discussion or proof under various system conditions and in different climates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143628Z" creationid="CCYU" creationdate="20141115T143628Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
