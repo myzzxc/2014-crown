@@ -15826,6 +15826,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a single phase transformer with one or more windings which will have both ends connect' to a line in service and with a switching impulse test specified, then the switching impulse te shall be applied to both ends of the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083656Z" creationid="CCYU" creationdate="20141115T083656Z">
+        <seg>單相變壓器具有一組以上之繞組於操作時兩端連接至線路且指定開關突波測試時，則開關突波應施加於繞組兩端點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a strategic asset or specific operating conditions (e.g., nuclear power plant) for which more severe requirements &lt;t0/&gt;are to be applied, the hot-spot winding temperature rise can be determined both by calculation and direct measurement and the obtained results compared.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T060608Z" creationid="CCYU" creationdate="20141102T060352Z">
@@ -36276,8 +36284,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Star connected windings with the neutral brought out shall be earthed at the neutral terrain either directly or through a low impedance such as a current measuring shunt.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T081343Z" creationid="CCYU" creationdate="20141115T081343Z">
-        <seg>星形連接繞組之中性端子應直接接地或通過低阻抗如電流量測分路器接地。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083736Z" creationid="CCYU" creationdate="20141115T081343Z">
+        <seg>星形連接中性點抽出繞組之中性端子應直接接地或通過低阻抗如電流量測分路器接地。</seg>
       </tuv>
     </tu>
     <tu>
