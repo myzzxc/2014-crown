@@ -5285,6 +5285,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional observations during the test (abnormal sounds, etc.) may be used to confirm the interpretation of the records, but they do not constitute evidence in themselves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035809Z" creationid="CCYU" creationdate="20141115T035809Z">
+        <seg>測試期間可進行額外的觀測 (異音等) 以確認紀錄之解析，但其不作為證明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional routine tests for transformers with Um &gt; 72&lt;t0/&gt;,5&lt;t1/&gt; kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152731Z">
@@ -38422,6 +38430,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121840Z" creationid="CCYU" creationdate="20141111T121749Z">
         <seg>72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 170 kV 之變壓器測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests on transformers with non-linear elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035822Z" creationid="CCYU" creationdate="20141115T035822Z">
+        <seg>具有非線性元件之變壓器測試</seg>
       </tuv>
     </tu>
     <tu>
