@@ -21073,6 +21073,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this is not the case then the records of current and voltage from the following impulses shall be compared:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070152Z" creationid="CCYU" creationdate="20141115T070152Z">
+        <seg>若具有差異則需比較以下突波之電壓和電流紀錄：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this is not the case, one or more particular loading combinations&lt;t1/&gt; have to be selected and specified for the temperature rise limits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T112933Z" creationid="CCYU" creationdate="20141030T112933Z">
@@ -22300,6 +22308,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>In the case of the choppec impulses differences after the chopping time may be due to minor variations in the performance and timing of the chopping gap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063742Z" creationid="CCYU" creationdate="20141115T063731Z">
+        <seg>當截取突波於截取時間之後產生差異時，可能為效能和截取間隙之時間的次要變化所造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of the chopped impulses differences after the chopping time may be due to minor variations in the performance and timing of the chopping gap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070141Z" creationid="CCYU" creationdate="20141115T070141Z">
         <seg>當截取突波於截取時間之後產生差異時，可能為效能和截取間隙之時間的次要變化所造成。</seg>
       </tuv>
     </tu>
@@ -27037,6 +27053,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T023845Z">
         <seg>註 1 對於具有兩個相同額定功率和額定電壓之二次繞組並與一次繞組有相同阻抗之變壓器 (也稱為 '雙二次繞組變壓器')，應協議針對稱負載情況，將兩組二次繞組同時短路進行額外的測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 Further information is given in IEC 60076-4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070330Z" creationid="CCYU" creationdate="20141115T070330Z">
+        <seg>註 更多的資訊收錄於 IEC 60076-4 之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44074,6 +44098,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test is successful if there are no significant differences between voltage and current transients recorded from the lowest voltage reference impulse and those recorded at the full test voltage including the chopped wave impulses up to the time of chop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070133Z" creationid="CCYU" creationdate="20141115T070133Z">
+        <seg>若最低電壓參考突波和包含截波之全測試電壓之間的電壓和電流暫態無顯著差異則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test is successful if there are no significant differences between voltage and current transients recorded from the reference impulse and those recorded at the full test voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034814Z" creationid="CCYU" creationdate="20141115T034814Z">
@@ -44085,6 +44117,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The test is successful if there is no significant difference between the compared record; (beyond that which can reasonably be explained by small differences in the test voltage) am any changes between successive records are progressive and smooth, consistent with thi proper operation of the non-linear element.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054831Z" creationid="CCYU" creationdate="20141115T054831Z">
+        <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test is successful if there is no significant difference between the compared records (beyond that which can reasonably be explained by small differences in the test voltage) and any changes between successive records should be progressive and smooth, consistent with the proper operation of the non-iinear element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070327Z" creationid="CCYU" creationdate="20141115T070327Z">
         <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
       </tuv>
     </tu>
@@ -51835,6 +51875,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a) and i);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070207Z" creationid="CCYU" creationdate="20141115T070207Z">
+        <seg>a) 和 i)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a) for dry-type transformers, the reference temperature shall be according to the general requirements for tests in IEC 60076-11;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131226Z">
@@ -52039,6 +52087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054105Z" creationid="CCYU" creationdate="20141115T054105Z">
         <seg>所有 100 % 電壓之突波紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>all the &lt;t0/&gt;100&lt;t1/&gt; % level impulse records;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070224Z" creationid="CCYU" creationdate="20141115T070224Z">
+        <seg>所有 100 % 電壓之突波紀錄；</seg>
       </tuv>
     </tu>
     <tu>
@@ -52339,6 +52395,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>b) and h);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070211Z" creationid="CCYU" creationdate="20141115T070211Z">
+        <seg>b) 和 h)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>b) for liquid-immersed transformers with rated average winding temperature rise less than or equal to 65 K for OF or ON, or 70 K for OD;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131408Z">
@@ -52436,6 +52500,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>both the chopped wave records up to the time of chop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070304Z" creationid="CCYU" creationdate="20141115T070304Z">
+        <seg>兩組截波紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>bottom-liquid temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T112340Z" creationid="CCYU" creationdate="20141028T112340Z">
@@ -52488,6 +52560,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054044Z" creationid="CCYU" creationdate="20141115T054044Z">
         <seg>c) 和 e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>c) and g);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070217Z" creationid="CCYU" creationdate="20141115T070217Z">
+        <seg>c) 和 g)；</seg>
       </tuv>
     </tu>
     <tu>
