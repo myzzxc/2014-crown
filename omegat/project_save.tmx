@@ -7413,10 +7413,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As far as possible the same time to chop shall be used for all chopped impulses in the sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064831Z" creationid="CCYU" creationdate="20141115T064831Z">
+        <seg>程序中所有截波應盡可能使用相同的截取時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As far as possible the same time to chop shall be used for all chopped wave lightning impulses in the sequence.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062953Z" creationid="CCYU" creationdate="20141115T062953Z">
-        <seg>所有截波雷擊測試序列中應盡可能使用相同的截取時間。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064841Z" creationid="CCYU" creationdate="20141115T062953Z">
+        <seg>所有截波雷擊測試程序中應盡可能使用相同的截取時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27865,6 +27873,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Additional impulses (full or chopped) at amplitudes not higher than 75 % of the full level can be used, the do not need to be shown in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064752Z" creationid="CCYU" creationdate="20141115T064752Z">
+        <seg>註 可使用振幅不高於全電壓 75 % 之額外突波 (全波或截波)，該結果無須紀錄於測試報告中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Additional impulses (full or chopped) at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062830Z" creationid="CCYU" creationdate="20141115T062830Z">
@@ -44350,6 +44366,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144125Z">
         <seg>應正確定義的三種的具體要求如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The time interval between the application of the last chopped wave and the first full wave aft&lt; the chop waves shall be as short as practicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064701Z" creationid="CCYU" creationdate="20141115T064701Z">
+        <seg>施加最後一截波後至第一個全波之間的時間應盡可能縮短。</seg>
       </tuv>
     </tu>
     <tu>
