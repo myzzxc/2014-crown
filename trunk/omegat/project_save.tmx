@@ -27817,6 +27817,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Additional impulses (full or chopped) at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062830Z" creationid="CCYU" creationdate="20141115T062830Z">
+        <seg>註 可使用振幅不高於參考突波電壓之額外突波 (全波或截波)，該結果無須紀錄於測試報告中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Additional impulses at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034626Z" creationid="CCYU" creationdate="20141115T034626Z">
@@ -43058,6 +43066,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same types of measuring channels and oscillographic records are specified as for the full- wave impulse test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062801Z" creationid="CCYU" creationdate="20141115T062801Z">
+        <seg>使用如全波突波測試所述之相同類型的量測通道和波形圖紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The scale of these photographs is 1:5000 and the original resolution is 0.375 m/pixel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063338Z">
@@ -57524,6 +57540,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062550Z" creationid="CCYU" creationdate="20141115T062550Z">
         <seg>兩組電壓為截波雷擊突波測試電壓之截波突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>two full wave impulses at the full wave lightning impulse test voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062613Z" creationid="CCYU" creationdate="20141115T062613Z">
+        <seg>兩組電壓為全波雷擊突波測試電壓之全波突波。</seg>
       </tuv>
     </tu>
     <tu>
