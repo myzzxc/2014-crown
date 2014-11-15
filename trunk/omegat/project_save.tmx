@@ -45130,6 +45130,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage impulse shall have a time to peak (T&lt;t0/&gt;p&lt;t1/&gt; as defined in IEC 60060-1) of at least 100 p.s, a time above 90 % (T&lt;t2/&gt;d&lt;t3/&gt; as defined in IEC 60060-1) of the specified amplitude of at least 200 |is, and a time to zero (T&lt;t4/&gt;z&lt;t5/&gt; as defined in IEC 60060-1) of a minimum of 1 000 |is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T103903Z" creationid="CCYU" creationdate="20141115T103903Z">
+        <seg>電壓突波達峰值時間 (T&lt;t0/&gt;p&lt;t1/&gt; 如 IEC 60060-1 所定義) 應至少為 100 µs，超過指定振幅 90 % 時間 (T&lt;t2/&gt;d&lt;t3/&gt; 如 IEC 60060-1 所定義) 應至少為 200 µs，而達零電壓時間 (T&lt;t4/&gt;z&lt;t5/&gt; 如 IEC 60060-1 所定義) 最低為 1 000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage is applied to all the terminals of a winding, including the neutral, simultaneousl&lt;t1/&gt;y so there is no turn-to-turn voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T134327Z" creationid="CCYU" creationdate="20141108T134327Z">
