@@ -33570,6 +33570,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;r&lt;t1/&gt; is the three-phase power rating in volt-amperes for which the impedance ‘z’ is defined.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025742Z" creationid="CCYU" creationdate="20141115T025742Z">
+        <seg>S&lt;t0/&gt;r&lt;t1/&gt; 為阻抗‘z’之三相功率額定值，單位為伏特-安培。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SAFETY DATA SHEET</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T160604Z">
@@ -53488,6 +53496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154506Z">
         <seg>阻抗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>impulse generator efficiency per unit; &lt;t0/&gt;77&lt;t1/&gt; = &lt;t2/&gt;1&lt;t3/&gt;,&lt;t4/&gt;0&lt;t5/&gt;;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025546Z" creationid="CCYU" creationdate="20141115T025546Z">
+        <seg>突波產生器每單位效率；η = 1,0；</seg>
       </tuv>
     </tu>
     <tu>
