@@ -27425,6 +27425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 The information given in IEC 60076-4 with reference to waveshape evaluation is based on the visual observation of oscillographic records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070546Z" creationid="CCYU" creationdate="20141115T070546Z">
+        <seg>註 2 IEC 60076-4 中所收錄之參考波形評估資訊為根據波形圖紀錄觀測所得，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The measurement of load loss on a large transformer requires considerable care and good measuring equipment because of the low power factor and the often large test currents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T024117Z">
