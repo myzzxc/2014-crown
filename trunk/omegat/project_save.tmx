@@ -28049,6 +28049,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The detailed interpretation of the test records and the discrimination between marginal differences and differences indicating failure requires a great deal of skill and experience.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035139Z" creationid="CCYU" creationdate="20141115T035139Z">
+        <seg>註 詳細的測試紀錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The different liquid temperatures are the average values of the readings during the last hour with total losses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145347Z" creationid="CCYU" creationdate="20141101T145110Z">
