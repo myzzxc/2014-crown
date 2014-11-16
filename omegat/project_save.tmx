@@ -4365,6 +4365,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A particular partial discharge gives rise to different values of apparent charge at differer terminals of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T162718Z" creationid="CCYU" creationdate="20141116T162718Z">
+        <seg>變壓器不同端子之特定局部放電產生不同的視在電荷值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A plot of the winding temperature would look as shown on Figure C.3, where the temperature of the winding is falling relatively rapidly for a period of some mi&lt;t0/&gt;nutes and then flattens out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141417Z" creationid="CCYU" creationdate="20141104T141417Z">
