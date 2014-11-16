@@ -4357,6 +4357,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A partial discharge (PD) is an electric discharge that only partially bridges electrically stresse* insulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T161226Z" creationid="CCYU" creationdate="20141116T161226Z">
+        <seg>局部放電 (PD) 為絕緣僅部份導電之放電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A plot of the winding temperature would look as shown on Figure C.3, where the temperature of the winding is falling relatively rapidly for a period of some mi&lt;t0/&gt;nutes and then flattens out.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141417Z" creationid="CCYU" creationdate="20141104T141417Z">
@@ -21597,6 +21605,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141650Z" creationid="CCYU" creationdate="20141104T141650Z">
         <seg>液體溫度變化具有非常大的熱時間常數之變壓器中 (主要適用於相對低額定功率之 ON.. 變壓器)，可假設漸進線為定值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a transformer, such a partial discharge causes a transient change of the voltag to earth at every externally available winding terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T161449Z" creationid="CCYU" creationdate="20141116T161449Z">
+        <seg>變壓器中，此局部放電造成每組可外部連接之繞組端子的對地電壓暫態改變。</seg>
       </tuv>
     </tu>
     <tu>
