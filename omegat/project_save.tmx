@@ -47058,6 +47058,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This annex is particularly applicable to the partial discharge measurements made durini induced voltage test with partial discharge measurement (lVPD) according to 11.3 but it may b' applied to any other partial discharge measurements made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T160839Z" creationid="CCYU" creationdate="20141116T160831Z">
+        <seg>本附錄特別適用於根據 11.3 之感應電壓測試及局部放電量測 (IVPD) 中進行之局部放電量測，但其也可能適用於進行任何其他局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This applied voltage is referred to as the short-circuit voltage (IEC 60050-421:1990, 421-07-01) of the pair of windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045210Z">
