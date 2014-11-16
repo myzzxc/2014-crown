@@ -1527,6 +1527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Connection of measuring and calibration circuits - Calibration procedure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T163410Z" creationid="CCYU" creationdate="20141116T163410Z">
+        <seg>2 量測與校正電路連接 - 校正程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 List of used symbols</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093506Z" creationid="CCYU" creationdate="20141102T093506Z">
@@ -39774,6 +39782,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200349Z">
         <seg>正功大於負功之絕對值，使輸出至引擎軸正淨功增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The acceptance test procedure specified in 11.3 calls for measurements of apparent charge ; the winding line terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T163254Z" creationid="CCYU" creationdate="20141116T163254Z">
+        <seg>於 11.3 中所列之測試程序要求量測繞組線路端子之視在電荷。</seg>
       </tuv>
     </tu>
     <tu>
