@@ -4797,6 +4797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wideband measuring system is less critical as to attenuation and response to different puls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T135019Z" creationid="CCYU" creationdate="20141117T135019Z">
+        <seg>寬頻帶量測系統受衰減和不同突波形狀響應之影響較小，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A wideband system utilises a relatively large rati between lower and upper limits of the frequency band, for example 50 kHz to 800 kHz.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133325Z" creationid="CCYU" creationdate="20141117T133325Z">
@@ -15742,6 +15750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150036Z" creationid="CCYU" creationdate="20141105T150028Z">
         <seg>第一系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, the transmission of th discharge pulse entails a high attenuation of the higher frequency components, and secom when applying a calibration pulse to the line terminal, the pulse is likely to excite loc oscillations at and near the terminal, and this will complicate the calibration when mid-bar frequencies greater than 500 kHz are used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T134819Z" creationid="CCYU" creationdate="20141117T134819Z">
+        <seg>第一，放電突波之傳輸代表較高頻率元件的高衰減；第二，當輸入測定突波至線路端子時，突波可能於端子附近激發局部震盪，此項現象於中帶頻率高於 500 kHz 時將使測定複雜化。</seg>
       </tuv>
     </tu>
     <tu>
