@@ -36258,6 +36258,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some systems use a fiber optic cab between the measuring impedance and the recording equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113116Z" creationid="Judy" creationdate="20141117T113116Z">
+        <seg>某些系統於量測阻抗和記錄設備之間使用光纖電纜，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some warehouses have a huge problem with condensation on their floor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T114322Z">
@@ -41710,6 +41718,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022040Z">
         <seg>阻抗對參考溫度校正時假設電抗為定值且由負載損耗所得之交流電阻如上述變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The impedance of the cable and the matched input impedance of the measurir instrument may form part of the measuring impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T112922Z" creationid="Judy" creationdate="20141117T112922Z">
+        <seg>電纜阻抗和量測儀器匹配輸入阻抗可能形成量測阻抗的一部份。</seg>
       </tuv>
     </tu>
     <tu>
