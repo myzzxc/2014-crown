@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19788,6 +19788,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T141930Z">
         <seg>若低電壓可為 11 kV 星形連接或 6,35 kV 三角連接，變壓器原廠設置為 11 kV 星形連接而高電壓為 110 kV 星形連接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If PD measurements need to be made at a terminal where a bushing test tap or insulated flange is not available then a separate high-voltage coupling capacitor is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T123121Z" creationid="CCYU" creationdate="20141117T123121Z">
+        <seg>若局部放電量測需要於無套管測試抽頭端子或無絕緣法蘭是一個終端然後一個單獨的高電壓耦合電容器使用。</seg>
       </tuv>
     </tu>
     <tu>
