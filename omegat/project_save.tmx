@@ -30778,6 +30778,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One is based on correlation of readings and calibrations at different pairs of terminals (in addition to the obligatory readings between line terminals and earth).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T153531Z" creationid="Judy" creationdate="20141117T153531Z">
+        <seg>其一為根據讀值與不同端子對之測定值的相關性 (除線路端子與接地之間的波形圖讀值外).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One, more or all of the impulses may be specified by the purchaser to be of positive polarity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135401Z" creationid="CCYU" creationdate="20141113T135401Z">
@@ -46551,6 +46559,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T141226Z">
         <seg>我們的吸收墊和護邊在多處皆能派上用場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are several known and published methods to locate discharges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T153238Z" creationid="Judy" creationdate="20141117T153238Z">
+        <seg>有多種已知且已發表之找尋放電位置的方法。</seg>
       </tuv>
     </tu>
     <tu>
