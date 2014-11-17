@@ -2920,6 +2920,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;7o is the calibration apparent charge</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124900Z" creationid="CCYU" creationdate="20141117T124900Z">
+        <seg>q0 為測定視在電荷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;9om(0=A)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143143Z" creationid="CCYU" creationdate="20141104T143143Z">
@@ -5161,6 +5169,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T112724Z">
         <seg>根據圖 1，活塞與換氣活塞的位移為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>According to IEC 60270, a calibration generator consists of a step voltage pulse generator with short rise time and a small series capacitor of known capacitance Co- Co should be small in comparison to C&lt;t0/&gt;1&lt;t1/&gt; (see IEC 60270 for specific requirements regarding rise time and the choice of C&lt;t2/&gt;0&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124654Z" creationid="CCYU" creationdate="20141117T124654Z">
+        <seg>依據 IEC 60270，測定產生器以短上升時間之步級電壓突波產生器和已知電容值 C0 之小串聯電容組成，C0 應小於 C&lt;t0/&gt;1&lt;t1/&gt; (上升時間和 C&lt;t2/&gt;0&lt;t3/&gt; 選定之特定規範請見 IEC 60270)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51451,6 +51467,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When this generator is connected between the transformer terminal and earth the injected charge from the pulse generator will be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124811Z" creationid="CCYU" creationdate="20141117T124811Z">
+        <seg>當此產生器連接於變壓器端子何地線之間時，由突波產生器輸入之電荷為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this product is handled, the person who has knowledge about explosion proof construction of this product should be worked according to this manual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020628Z" creationid="CCYU" creationdate="20141025T020628Z">
@@ -56688,6 +56712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142535Z">
         <seg>q) 變壓器設計應考量變壓器對於環境的衝擊，請見附錄 G。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>q&lt;t0/&gt;0&lt;t1/&gt;= U&lt;t2/&gt;0&lt;t3/&gt;x&lt;t4/&gt; Co</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124820Z" creationid="CCYU" creationdate="20141117T124820Z">
+        <seg>q&lt;t0/&gt;0&lt;t1/&gt;= U&lt;t2/&gt;0&lt;t3/&gt;x&lt;t4/&gt; C0</seg>
       </tuv>
     </tu>
     <tu>
