@@ -13033,6 +13033,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During the measurement of partial discharge between a line terminal of a winding and tl earthed tank, the normal arrangement is to install the measuring impedance Z&lt;t0/&gt;m&lt;t1/&gt; between tl condenser bushing test tap and the earthed flange of the bushing, see Figure A.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113709Z" creationid="Judy" creationdate="20141117T113709Z">
+        <seg>量測繞組線路端子和接地油槽隻接的局部放電時，一般的配置為於冷凝器套管測試抽頭和套管接地法蘭之間安裝量測阻抗 Z&lt;t0/&gt;m&lt;t1/&gt;，請見圖 A.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During the production of galvanized or annealed steel, the metal is heated to very critical temperatures to insure proper bonding of the galvanized coating or annealing of the metal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033519Z">
