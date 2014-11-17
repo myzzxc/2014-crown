@@ -19848,6 +19848,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a test ti is not provided, it is also possible to insulate the bushing flange from the tank and use it as tl measuring terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113929Z" creationid="Judy" creationdate="20141117T113929Z">
+        <seg>若未提供測試抽頭，也可將套管法蘭與油槽絕緣並將套管法蘭用作量測端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a transformer fails to meet its test requirements and the fault is in a bushing, provided th the purchaser is satisfied that the transformer is not in any way affected by the failure, it permissible to replace this bushing and continue the test on the transformer to completic without delay.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134207Z" creationid="CCYU" creationdate="20141115T134207Z">
