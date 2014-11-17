@@ -45650,6 +45650,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage change is measured using a serie coupling capacitance (usually a condenser type bushing) and a measuring impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T112353Z" creationid="Judy" creationdate="20141117T112353Z">
+        <seg>電壓變化以串聯之耦合電容 (通常為冷凝器型套管) 和量測阻抗進行量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage distribution in the tested phase is similar to that experienced during an induced voltage withstand test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133835Z" creationid="CCYU" creationdate="20141108T133835Z">
