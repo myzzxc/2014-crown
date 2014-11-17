@@ -4253,6 +4253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A further important consideration is whether phase correlated partial discharges are sustained below the operating voltage level, when triggered at the test level, because such partial discharges are most likely to be detrimental to the transformer in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T150422Z" creationid="Judy" creationdate="20141117T150422Z">
+        <seg>更重要的考量為相關聯性之局部放電是否於測試電壓下觸發時維持於操作電壓等級以下，因為此局部放電最可能損壞運行中之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A further winding in the transformer, usually with lower value of rated power than the secondary winding, is then often referred to as 'tertiary winding', see also definition 3.3.8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131139Z">
