@@ -8318,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Band-stop or other types of filters may be used to reduce the interference from external influences such as radio transmitters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T135412Z" creationid="CCYU" creationdate="20141117T135412Z">
+        <seg>可使用帶阻或其他型式濾波器以降低外部影響如無線電波傳輸的干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bar effective cross-sectional area</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T021524Z">
