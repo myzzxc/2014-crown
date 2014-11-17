@@ -40314,6 +40314,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The calibration of the complete measuring system is made by the injection of a known charge into the transformer terminal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124254Z" creationid="CCYU" creationdate="20141117T124254Z">
+        <seg>輸入已知電荷之變壓器端子以進行完整量測系統之測定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The capacitances between the central conductor and the measurii terminal, and between the measuring terminal and earth, act as a capacitive voltage divider 1 the partial discharge signal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T114157Z" creationid="Judy" creationdate="20141117T114157Z">
