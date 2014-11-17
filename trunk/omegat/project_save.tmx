@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40534,6 +40534,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132852Z" creationid="CCYU" creationdate="20141112T132852Z">
         <seg>此表中不同測試電壓等級的選擇取決於系統中預期過電壓環境的嚴重性以及特定安裝的重要性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The choice of measuring bandwidth does not affect the partial discharge pulse pattern and the statistical behaviour of the discharge which can be used to identify the discharge source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145028Z" creationid="Judy" creationdate="20141117T144914Z">
+        <seg>量測頻帶寬之選擇不影響局部放電突波模式和用於辨識放電源之放電行為統計性數值，</seg>
       </tuv>
     </tu>
     <tu>
