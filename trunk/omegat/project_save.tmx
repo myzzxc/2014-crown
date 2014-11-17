@@ -4797,6 +4797,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A wideband system utilises a relatively large rati between lower and upper limits of the frequency band, for example 50 kHz to 800 kHz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133325Z" creationid="CCYU" creationdate="20141117T133325Z">
+        <seg>寬頻帶系統使用較寬的頻帶範圍，例如 50 kHz 至 800 kHz。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A#&lt;t0/&gt;0&lt;t1/&gt; &lt;t2/&gt;—&lt;t3/&gt; #o ^a</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T144425Z" creationid="CCYU" creationdate="20141101T144425Z">
@@ -8946,6 +8954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080531Z">
         <seg>參照圖 4，膨脹腔體中此相由 h = 180.0° 至 360.0° 而壓縮腔體中由 h = 347.5° 至 156.5°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By the use of a narrow-band system, interference from local broadcasting stations may b avoided by suitably adjusting the mid-band frequency, but a check has to be made to show th; winding resonances near the measuring frequency do not greatly affect the measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133427Z" creationid="CCYU" creationdate="20141117T133427Z">
+        <seg>使用窄頻帶系統可避免來自當地廣播電臺的干擾可能 b 避免通過適當調整的中期頻帶的頻率，但一張支票就會作出以顯示 ；繞組共振測量頻率附近不大大影響測量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26547,8 +26563,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Measuring systems for partial discharges are classified as narrow-band or wideband systems A narrow-band system operates with a bandwidth of about 10 kHz or less at a certain tunin frequency (for example, radio noise meters).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133122Z" creationid="CCYU" creationdate="20141117T133122Z">
-        <seg>局部放電量測系統可分為窄頻帶或寬頻帶系統，窄頻帶系統之操作頻帶寬於特定調諧頻率下約為 10 kHz 以下 (例如，無線電波計)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133435Z" creationid="CCYU" creationdate="20141117T133122Z">
+        <seg>局部放電量測系統可分為窄頻帶或寬頻帶系統，窄頻帶系統之操作頻帶寬於特定調諧頻率下約為 10 kHz 以下 (例如，無線電波雜訊計)。</seg>
       </tuv>
     </tu>
     <tu>
