@@ -21369,6 +21369,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there has been no voltage collapse, but the test has been unsuccessful because of a PD level above the acceptance criteria then the test shall initially be regarded as non-destructive and the test object should not be rejected immediately upon such a result, but further investigations should be undertaken to identify and locate the partial discharge source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T150056Z" creationid="Judy" creationdate="20141117T150056Z">
+        <seg>若無電壓崩潰，但因局部放電電壓高於合格標準而未通過測試，則測試最初應視為非破壞性且不應立即退回此結果，應進行進一步調查以辨識並找出局部放電源位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is a particular requirement for either a bank of single phase transformer or a three phase unit, then this shall be specified by the user; otherwise the manufacturer shall make it clear in the tender document what type of transformer is being offered.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155825Z">
@@ -21725,6 +21733,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213723Z">
         <seg>改進史特林引擎的效能主要藉由廣泛的引擎循環之數值和實驗研究，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 11.3.5 PD level acceptance criteria are given.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145623Z" creationid="Judy" creationdate="20141117T145623Z">
+        <seg>局部放電電壓之合格標準如 11.3.5 所示。</seg>
       </tuv>
     </tu>
     <tu>
