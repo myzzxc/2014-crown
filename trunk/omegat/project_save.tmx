@@ -1967,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 Procedure after an unsuccessful test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145534Z" creationid="Judy" creationdate="20141117T145534Z">
+        <seg>4 測試失敗之後續處理程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 Service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091935Z">
@@ -4353,6 +4361,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070333Z">
         <seg>與大氣連接口裝有水汽去除換氣口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A narrow band system may be required in certain circumstances to eliminate interference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145322Z" creationid="Judy" creationdate="20141117T145322Z">
+        <seg>特定情況下可能需要窄頻代系統以消除干擾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9378,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T144610Z">
         <seg>Carcinogenicity 致癌性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Care should however be taken over the choice of measuring centre frequency to ensure a reasonable sensitivity to PD in the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145503Z" creationid="Judy" creationdate="20141117T145503Z">
+        <seg>應謹慎選擇量測中央頻率以確保對變壓器之局部放電具有適當的敏感性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22557,6 +22581,15 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121739Z" creationid="CCYU" creationdate="20141029T131931Z">
         <seg>此情況下，溫度上升限制應依 6.3 修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In summary a wide-band measuring system is the first preference because of the greater chance of detecting a partial discharge, the bandwidth should not be less than 100 kHz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145223Z" creationid="Judy" creationdate="20141117T145223Z">
+        <seg>總體來說，寬頻帶量測系統為優先考量，因其具有交高的機會偵測到局部放電，而其頻帶寬不應低於 100 kHz。
+</seg>
       </tuv>
     </tu>
     <tu>
