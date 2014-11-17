@@ -13051,8 +13051,8 @@
       <tuv lang="EN-US">
         <seg>During the measurement of partial discharge between a line terminal of a winding and tl earthed tank, the normal arrangement is to install the measuring impedance Z&lt;t0/&gt;m&lt;t1/&gt; between tl condenser bushing test tap and the earthed flange of the bushing, see Figure A.1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T120608Z" creationid="Judy" creationdate="20141117T113709Z">
-        <seg>量測繞組線路端子和接地油槽之局部放電時，一般的配置為於冷凝器套管測試抽頭和套管接地法蘭之間安裝量測阻抗 Z&lt;t0/&gt;m&lt;t1/&gt;，請見圖 A.1。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124024Z" creationid="Judy" creationdate="20141117T113709Z">
+        <seg>量測繞組線路端子和接地油槽之局部放電時，一般的配置為於電容器套管測試抽頭和套管接地法蘭之間安裝量測阻抗 Z&lt;t0/&gt;m&lt;t1/&gt;，請見圖 A.1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15316,8 +15316,8 @@
       <tuv lang="EN-US">
         <seg>Figure A.1 - Calibration circuit for partial discharge</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T120927Z" creationid="Judy" creationdate="20141117T120432Z">
-        <seg>圖 A.1 - 使用冷凝器套管型測試抽頭進行局部放電量測之測定電路</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124033Z" creationid="Judy" creationdate="20141117T120432Z">
+        <seg>圖 A.1 - 使用電容器套管型測試抽頭進行局部放電量測之測定電路</seg>
       </tuv>
     </tu>
     <tu>
@@ -42498,6 +42498,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measuring impedance (with a protective gap) is connected between the low voltage terminal of the capacitor and earth, see Figure A.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124122Z" creationid="CCYU" creationdate="20141117T123957Z">
+        <seg>量測阻抗 (含保護間隙) 連接於電容器低電壓端子和接地之間，請見圖 A.2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measuring technique and equipment is described in IEC 60270.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T103835Z" creationid="Judy" creationdate="20141117T103656Z">
@@ -45756,8 +45764,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The voltage change is measured using a serie coupling capacitance (usually a condenser type bushing) and a measuring impedance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T112353Z" creationid="Judy" creationdate="20141117T112353Z">
-        <seg>電壓變化以串聯之耦合電容 (通常為冷凝器型套管) 和量測阻抗進行量測。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124011Z" creationid="Judy" creationdate="20141117T112353Z">
+        <seg>電壓變化以串聯之耦合電容 (通常為電容器型套管) 和量測阻抗進行量測。</seg>
       </tuv>
     </tu>
     <tu>
