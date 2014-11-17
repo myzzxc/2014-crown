@@ -7693,6 +7693,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the test concerns the internal insulation, provisional electrostatic shielding on the outside is permitted and recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T152833Z" creationid="Judy" creationdate="20141117T152833Z">
+        <seg>由於測試考慮內部絕緣，允許並建議於外部使用暫時性靜電屏蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As the windings have a large electrical time constan&lt;t0/&gt;t (L/R), accurate readings are therefore obtained only after a certain delay.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T154355Z" creationid="CCYU" creationdate="20141101T154355Z">
@@ -24222,6 +24230,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T151817Z" creationid="Judy" creationdate="20141117T151817Z">
         <seg>調查局部放電是否由電源所產生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigation to determine whether the partial discharge source is within the transformer or outside (spitting from objects at floating potential in the hall, from live parts in air, or from sharp edges on earthed parts of the transformer).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T152622Z" creationid="Judy" creationdate="20141117T152622Z">
+        <seg>調查以測定局部放電源來自變壓器內部或外部 (於浮動電壓下分離出來自霍爾電壓、活動零件、或變壓器接地零件之尖銳邊緣)。</seg>
       </tuv>
     </tu>
     <tu>
