@@ -29625,6 +29625,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally the measurir impedance, the cable and the measuring instrument are supplied together so that the oven performance of the measuring system is optimised.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113331Z" creationid="Judy" creationdate="20141117T113140Z">
+        <seg>通常量測阻抗、電纜和量測儀器為同時提供以最佳化量測系統之整體性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normative references</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T164945Z" creationid="JUDY" creationdate="20141027T164945Z">
@@ -36260,8 +36268,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Some systems use a fiber optic cab between the measuring impedance and the recording equipment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113116Z" creationid="Judy" creationdate="20141117T113116Z">
-        <seg>某些系統於量測阻抗和記錄設備之間使用光纖電纜，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113143Z" creationid="Judy" creationdate="20141117T113116Z">
+        <seg>某些系統於量測阻抗和記錄設備之間使用光纖電纜。</seg>
       </tuv>
     </tu>
     <tu>
