@@ -24218,6 +24218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Investigation as to whether the partial discharge may be transmitted from the supply source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T151817Z" creationid="Judy" creationdate="20141117T151817Z">
+        <seg>調查局部放電是否由電源所產生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Irritating&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;Eyes&lt;t4/&gt; &lt;t5/&gt;Irritating&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;Skin</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181505Z">
@@ -47935,6 +47943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140243Z" creationid="CCYU" creationdate="20141101T140243Z">
         <seg>此特性對於管路中液體溫度測定之代表性很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is often facilitated by oscillographic monitoring or recording of the pattern of the partial discharges, external disturbances may for example be identified by their being asynchronous with the test voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T151712Z" creationid="Judy" creationdate="20141117T151712Z">
+        <seg>此舉可藉由監測波形圖或局部放電模式之記錄以達成，例如可由與測試電壓不同步之圖形辨識外部干擾。</seg>
       </tuv>
     </tu>
     <tu>
