@@ -5373,6 +5373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional measurements using the calibrator at different values of i?o may be useful to check the operation of the measuring instrument.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125446Z" creationid="CCYU" creationdate="20141117T125446Z">
+        <seg>使用測定儀於不同 q0 值下進行額外量測有助於檢查量測儀器之操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional observations during the test (abnormal sounds, etc.) may be used to confirm the interpretation of the records, but they do not constitute evidence in themselves.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035809Z" creationid="CCYU" creationdate="20141115T035809Z">
