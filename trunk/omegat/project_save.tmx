@@ -45403,6 +45403,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The testing environment should first be investigated to find any obvious sign of irrelevant sources of partial discharges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T150611Z" creationid="Judy" creationdate="20141117T150611Z">
+        <seg>應首先調查測試環境已找出任何局部放電之不相關來源的明顯跡象，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tests prescribed for the internal insulation of the transformer do not automatically verify that the external insulation is satisfactory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144621Z" creationid="CCYU" creationdate="20141115T144621Z">
@@ -48351,6 +48359,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T122456Z">
         <seg>這一系列的驗證實驗顯示 PIV 之精確度與區塊尺寸強烈相關，也受到影像內容影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should be followed by consultations between the manufacturer and purchaser to agree on further supplementary tests or other action to show either the presence of serious partial discharge, or that the transformer is satisfactory for service operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T150849Z" creationid="Judy" creationdate="20141117T150849Z">
+        <seg>並由製造商與買方之間協議進行進一步補充測試或其他處置以找出是否有嚴重局部放電，或變壓器能滿足其操作條件。</seg>
       </tuv>
     </tu>
     <tu>
