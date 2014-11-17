@@ -43082,6 +43082,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principle of the measurement is to determine the voltage change at the terminal caused t the injection of a calibrated amount of charge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T104203Z" creationid="Judy" creationdate="20141117T104203Z">
+        <seg>量測的原則為測定The principle of the measurement is to determine the voltage change at the terminal caused t the injection of a calibrated amount of charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principles of the standard abbreviated notation are shown in some examples below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T122340Z" creationid="CCYU" creationdate="20141108T122235Z">
