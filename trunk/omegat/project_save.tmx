@@ -7533,6 +7533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As much of the de-energised test circuit as possible should be connected to the terminal during calibration to take account of additional capacitance and any filter circuits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T120510Z" creationid="Judy" creationdate="20141117T120338Z">
+        <seg>斷電之測試電路於測試時應盡可能連接至端子以將額外電容以及所有濾波電路列入考慮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As seen from Figs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233452Z">
@@ -15294,6 +15302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142319Z">
         <seg>圖 1b — 可變通量電壓變化 (VFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure A.1 - Calibration circuit for partial discharge</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T120432Z" creationid="Judy" creationdate="20141117T120432Z">
+        <seg>圖 A.1 - 局部放電測定電路</seg>
       </tuv>
     </tu>
     <tu>
@@ -40276,8 +40292,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The calibration is therefore made between the top terminal of tl</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T114439Z" creationid="Judy" creationdate="20141117T114439Z">
-        <seg>因此於套管上端子與地線之間進行校正。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T120518Z" creationid="Judy" creationdate="20141117T114439Z">
+        <seg>因此於套管上端子與地線之間進行測定。</seg>
       </tuv>
     </tu>
     <tu>
