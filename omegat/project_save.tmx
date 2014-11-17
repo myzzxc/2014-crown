@@ -4373,6 +4373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A partial discharge free capacitor is required and its capacitance value C should be suitably large in comparison with the calibration generator capacitance &lt;t0/&gt;Cq&lt;t1/&gt; (see IEC 60270 for specific requirements).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T123751Z" creationid="CCYU" creationdate="20141117T123751Z">
+        <seg>需使用無局部放電之電容且其電容值 C 與測定產生器電容 &lt;t0/&gt;Cq&lt;t1/&gt; 相比應具有足夠大的數值 (特定規範請見 IEC 60270)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A particular partial discharge gives rise to different values of apparent charge at differer terminals of the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T162718Z" creationid="CCYU" creationdate="20141116T162718Z">
