@@ -15354,6 +15354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A.2 - Circuit for partial discharge measurement using</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125848Z" creationid="CCYU" creationdate="20141117T125848Z">
+        <seg>圖 A.2 - 使用高電壓耦合電容器進行局部放電量測之電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A1&lt;t0/&gt;: Overlapping joint for rebar connections of slabs and beams</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T151718Z">
@@ -52703,6 +52711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133256Z" creationid="CCYU" creationdate="20141028T132950Z">
         <seg>用以估計因為額外損耗增加及液體流變化造成繞組溫差局部增加之無因次因子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a high-voltage coupling capacitor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125853Z" creationid="CCYU" creationdate="20141117T125853Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
