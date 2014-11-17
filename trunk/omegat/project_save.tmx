@@ -4253,6 +4253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A graphical display of any detected partial discharge is generally useful, particularly because i offers a possibility of discriminating between true partial discharge in the transformer am certain forms of external disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T132245Z" creationid="CCYU" creationdate="20141117T132231Z">
+        <seg>偵測局部放電之圖形化顯示通常很實用，因為其能提高區別出變壓器中真實局部放電和特定形式外部干擾的可能性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A group of three single-phase auto-transformers designed for a 400 kV HV and a 130 kV intermediate voltage with 22 kV tertiary windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T143400Z">
@@ -47662,6 +47670,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090614Z">
         <seg>這對於進一步改善此類型引擎循環的效能相當重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is based on rate of repetition, point on the wave polarity differences, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T132402Z" creationid="CCYU" creationdate="20141117T132402Z">
+        <seg>此圖形由重複率、波形極性差異點等資訊組成。</seg>
       </tuv>
     </tu>
     <tu>
