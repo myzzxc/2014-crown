@@ -40274,6 +40274,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The calibration is therefore made between the top terminal of tl</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T114439Z" creationid="Judy" creationdate="20141117T114439Z">
+        <seg>因此於套管上端子與地線之間進行校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The capacitances between the central conductor and the measurii terminal, and between the measuring terminal and earth, act as a capacitive voltage divider 1 the partial discharge signal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T114157Z" creationid="Judy" creationdate="20141117T114157Z">
@@ -53448,6 +53456,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142420Z">
         <seg>brown 暗棕色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bushing and earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T114441Z" creationid="Judy" creationdate="20141117T114441Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
