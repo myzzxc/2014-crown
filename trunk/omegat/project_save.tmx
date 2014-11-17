@@ -24234,6 +24234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Investigation of the probable location of the source(s) in terms of the electrical circuit diagram of the transformer, for example single phase and applied voltage tests may be useful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T153133Z" creationid="Judy" creationdate="20141117T153133Z">
+        <seg>調查變壓器電路圖中放電源所在可能位置，例如單相與施加電壓測試可能有幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investigation to determine whether the partial discharge source is within the transformer or outside (spitting from objects at floating potential in the hall, from live parts in air, or from sharp edges on earthed parts of the transformer).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T152622Z" creationid="Judy" creationdate="20141117T152622Z">
