@@ -4429,6 +4429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A particular case is the identification of partial discharge in the dielectric of the capacitance graded bushings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154217Z" creationid="Judy" creationdate="20141117T154217Z">
+        <seg>特定的範例為辨識電容器等級套管之介電質的局部放電，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A particular partial discharge gives rise to different values of apparent charge at differer terminals of the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T162718Z" creationid="CCYU" creationdate="20141116T162718Z">
@@ -24502,6 +24510,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T083330Z">
         <seg>比起其他類型的史特林引擎，其製造與維修更簡單且更便宜，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to identify individual pulse shapes during the test with corresponding calibration waveforms, if records from wideband circuits are used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T153910Z" creationid="Judy" creationdate="20141117T153910Z">
+        <seg>若使用寬頻帶電路時，也可能於測試期間使用不同對應之測定波形以辨識各獨立突波波形。</seg>
       </tuv>
     </tu>
     <tu>
