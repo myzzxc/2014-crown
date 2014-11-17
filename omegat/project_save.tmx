@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>!;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154608Z" creationid="Judy" creationdate="20141117T154608Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"&lt;t0/&gt;n£&lt;t1/&gt; &lt;t2/&gt;USER INSTRUCTIONS &lt;t3/&gt;8&lt;t4/&gt;S&lt;t5/&gt;7&lt;t6/&gt;™</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080541Z" creationid="CCYU" creationdate="20141025T080541Z">
@@ -24242,6 +24250,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Investigation by acoustic or ultrasonic detection of the location of the source(s) within the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154328Z" creationid="Judy" creationdate="20141117T154328Z">
+        <seg>使用音波或超音波偵測油槽內之放電源位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigation of the location and nature of the source using ultra high frequency electromagnetic sensors introduced into the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154538Z" creationid="Judy" creationdate="20141117T154430Z">
+        <seg>使用安裝於油槽中之超高頻電磁感測器找出放電源之位置和其特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investigation of the probable location of the source(s) in terms of the electrical circuit diagram of the transformer, for example single phase and applied voltage tests may be useful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T153133Z" creationid="Judy" creationdate="20141117T153133Z">
@@ -25078,6 +25102,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124321Z">
         <seg>壓器種類，例如，分離繞組變壓器、自耦變壓器或串聯變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154625Z" creationid="Judy" creationdate="20141117T154625Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -55033,6 +55065,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164559Z">
         <seg>極端機械性衝擊和振動；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>f</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T154550Z" creationid="Judy" creationdate="20141117T154550Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
