@@ -26545,6 +26545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measuring systems for partial discharges are classified as narrow-band or wideband systems A narrow-band system operates with a bandwidth of about 10 kHz or less at a certain tunin frequency (for example, radio noise meters).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133122Z" creationid="CCYU" creationdate="20141117T133122Z">
+        <seg>局部放電量測系統可分為窄頻帶或寬頻帶系統，窄頻帶系統之操作頻帶寬於特定調諧頻率下約為 10 kHz 以下 (例如，無線電波計)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mechanical feedback elements position the spool relative to the valve body for a given input signal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T103007Z">
