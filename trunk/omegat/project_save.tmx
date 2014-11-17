@@ -48698,6 +48698,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To avoid errors the leads between the terminal and the calibrator and between the calibratoi and earth (at the bushing flange) should be kept as short as practicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T130948Z" creationid="CCYU" creationdate="20141117T130948Z">
+        <seg>為了避免誤差，端子和測定儀之間以及測定儀和接地 (位於套管法蘭) 之間的導線應盡可能縮短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To be agreed, but .-±15 %</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T085212Z">
