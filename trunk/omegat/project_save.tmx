@@ -24361,6 +24361,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is convenient if the calibration generator has a repetition frequency synchronised to the power frequency so that the resulting pulse can be viewed on an instrument also synchronised to the power frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125802Z" creationid="CCYU" creationdate="20141117T125802Z">
+        <seg>若測定產生器具有與電源頻率同步之重複頻率能使儀器上看見之產生突波與電源突波同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is found that Impingement is the major heat transfer mechanism in the expansion and compression chambers, and the temperature distribution is highly non-uniform across the engine volume at any given moment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205226Z">
