@@ -1567,6 +1567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 Neutral fault current calculation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151148Z" creationid="Judy" creationdate="20141118T151148Z">
+        <seg>2 中性點故障電流計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Normative references</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133614Z">
@@ -42376,6 +42384,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144710Z">
         <seg>前者被固定在空間中，而後者與換氣活塞相連並於引擎循環程中隨之移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The formulae below give guidance for the calculation of the maximum voltages which can occur at a neutral terminal earthed through an impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151105Z" creationid="Judy" creationdate="20141118T151105Z">
+        <seg>下列公式為經阻抗接地之中性端子上可能產生的最大電壓之計算方式。</seg>
       </tuv>
     </tu>
     <tu>
