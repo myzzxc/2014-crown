@@ -41572,6 +41572,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The determination of the withstand voltage of the neutral terminals of a transformer designed for use with a separate neutral end voltage regulating transformer is not covered by this annex.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T142436Z" creationid="Judy" creationdate="20141118T142405Z">
+        <seg>設計用於獨立中性端電壓整流變壓器的變壓器中性端子耐壓之測定未包含於此附錄中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The device is not&lt;t27/&gt; &lt;t28/&gt;intended for commercial&lt;t29/&gt; &lt;t30/&gt;use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040927Z">
