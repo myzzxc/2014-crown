@@ -4373,6 +4373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A loading of the secondary terminals with switchgear, short cables or added capacitors (a few nF), which act as lumped capacitance C&lt;t0/&gt;s&lt;t1/&gt; directly on the terminals (even during the first microsecond), will reduce the transferred overvoltage peak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095042Z" creationid="MAE" creationdate="20141118T095042Z">
+        <seg>具切換裝置、短電纜或增加電容 (數 nF，作為端子上之直接集總電容 C&lt;t0/&gt;s&lt;t1/&gt;，即便於最初幾微秒中) 之二次端子負載將能降低傳輸過電壓峰值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mat system can be designed to go under the tanks if they are raised or at the base of the spout of the tanks if that is more appropriate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T081317Z">
@@ -25818,6 +25826,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Longer cables or busbars are represented by their characteristic impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095145Z" creationid="MAE" creationdate="20141118T095145Z">
+        <seg>較長的電纜或匯流排以其特徵阻抗表示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loose Absorbent - &lt;t0/&gt;The trucking and heavy machinery industry is used to loose product and is hard to change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123130Z">
@@ -32532,8 +32548,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Pre-calculation is uncertain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094527Z" creationid="MAE" creationdate="20141118T094527Z">
-        <seg>預先計算值無法確定正確。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094550Z" creationid="MAE" creationdate="20141118T094527Z">
+        <seg>預先計算值無法確定其值正確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47517,8 +47533,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>They can be determined together by oscillographic measurements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094443Z" creationid="MAE" creationdate="20141118T094443Z">
-        <seg>可由波形圖量測同時決定其數值，</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094546Z" creationid="MAE" creationdate="20141118T094443Z">
+        <seg>可藉由波形圖量測決定其數值，</seg>
       </tuv>
     </tu>
     <tu>
