@@ -33523,6 +33523,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Re-processing of the transformer, or a period of rest, and subsequent repetition of the test may therefore be tried in this case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T040227Z" creationid="MAE" creationdate="20141118T040227Z">
+        <seg>因此，重新組裝之變壓器，或停機一段時間後，可重複進行此測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reaction to fire</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112613Z">
