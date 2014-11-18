@@ -49604,6 +49604,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To control fault levels or for other reasons the neutral terminal may be connected to earth through a considerable impedance (for example an arc-suppression reactor, earthing reactor or resistor).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T142110Z" creationid="Judy" creationdate="20141118T142110Z">
+        <seg>以控制故障電壓等級或中性端子因其他因素以相當高的阻抗接地 (例如電弧抑制電抗器、接地電抗器或電阻)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To demonstrate the general variations of temperature within the engine over an engine cycle, Fig. 5 shows the temperature contours of&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;entire&lt;t4/&gt; &lt;t5/&gt;engine&lt;t6/&gt; &lt;t7/&gt;at&lt;t8/&gt; &lt;t9/&gt;10&lt;t10/&gt; &lt;t11/&gt;different&lt;t12/&gt; &lt;t13/&gt;crank&lt;t14/&gt; &lt;t15/&gt;angles,&lt;t16/&gt; &lt;t17/&gt;from h = 36.0°&lt;t18/&gt; &lt;t19/&gt;to 360.0°&lt;t20/&gt; &lt;t21/&gt;with an increment of 36.0°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T020600Z">
