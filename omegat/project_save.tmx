@@ -25011,6 +25011,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is the responsibility of the purchaser to select the overvoltage protective device, to determine its impulse protection level, and to specify the corresponding impulse withstand voltage for the neutral terminal of the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T142756Z" creationid="Judy" creationdate="20141118T142756Z">
+        <seg>買方有義務選擇過變壓器中性端子之電壓保護裝置、決定其突波保護等級以及指明對應之突波耐壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is therefore assumed that at &gt; 850 kV lightning impulse level the bushing en and any connections normally have rounded electrode shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142328Z" creationid="CCYU" creationdate="20141115T142328Z">
@@ -52377,6 +52385,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132329Z" creationid="CCYU" creationdate="20141112T132329Z">
         <seg>當製造商欲使用嵌入變壓器之非線性元件 (例如避雷器或火花間隙) 以限制過電壓暫態時，製造商應於投標時通知買方並於訂購時標示於變壓器額定銘牌線路圖上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the neutral terminal is not directly earthed, an overvoltage protective device shall be installed between the neutral terminal and earth in order to limit transient voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T142551Z" creationid="Judy" creationdate="20141118T142551Z">
+        <seg>當中性端子未直接接地時，過電壓保護裝置應安裝於中性端子和地線之間以限制暫態電壓。</seg>
       </tuv>
     </tu>
     <tu>
