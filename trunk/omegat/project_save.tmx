@@ -472,8 +472,8 @@
       <tuv lang="EN-US">
         <seg>(They will therefore automatically eliminate the capacitively transferred component as long as the circuit inductance is low.)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T110742Z" creationid="CCYU" creationdate="20141118T110742Z">
-        <seg>(因此當電路具低電感時其將自動消除電容性傳輸項。)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114330Z" creationid="CCYU" creationdate="20141118T110742Z">
+        <seg>(因此當電路具低電感時其將自動消除電容性轉移項。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4383,8 +4383,8 @@
       <tuv lang="EN-US">
         <seg>A loading of the secondary terminals with switchgear, short cables or added capacitors (a few nF), which act as lumped capacitance C&lt;t0/&gt;s&lt;t1/&gt; directly on the terminals (even during the first microsecond), will reduce the transferred overvoltage peak.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095042Z" creationid="MAE" creationdate="20141118T095042Z">
-        <seg>具切換裝置、短電纜或增加電容 (數 nF，作為端子上之直接集總電容 C&lt;t0/&gt;s&lt;t1/&gt;，即便於最初幾微秒中) 之二次端子負載將能降低傳輸過電壓峰值。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114315Z" creationid="MAE" creationdate="20141118T095042Z">
+        <seg>具切換裝置、短電纜或增加電容 (數 nF，作為端子上之直接集總電容 C&lt;t0/&gt;s&lt;t1/&gt;，即便於最初幾微秒中) 之二次端子負載將能降低轉移過電壓峰值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4519,8 +4519,8 @@
       <tuv lang="EN-US">
         <seg>A reduction of the inductively transferred overvoltage component can be effected either by resistive damping through a surge diverter or by modification of the oscillation with capacitive loading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T110216Z" creationid="CCYU" creationdate="20141118T110216Z">
-        <seg>可透過避雷器作為電阻性阻尼或以電容性負載改變震盪以降低電感傳輸過電壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114322Z" creationid="CCYU" creationdate="20141118T110216Z">
+        <seg>可透過避雷器作為電阻性阻尼或以電容性負載改變震盪以降低電感轉移過電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,8 +8311,8 @@
       <tuv lang="EN-US">
         <seg>B.3 Power-frequency transferred overvoltage</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T113902Z" creationid="CCYU" creationdate="20141118T113902Z">
-        <seg>B.3 電源頻率轉移過電壓Power-frequency transferred overvoltage</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114336Z" creationid="CCYU" creationdate="20141118T113902Z">
+        <seg>B.3 電源頻率轉移過電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -20133,6 +20133,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T141228Z">
         <seg>若需進行閃電脈衝電壓測試，測試是否包含截波 (請見 IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a low-voltage winding which is physically adjacent to the high-voltage winding is left without connection to earth or with only a high-impedance connection to earth while the high-voltage winding is energised, there is a risk of power frequency overvoltage by capacitance division.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114413Z" creationid="CCYU" creationdate="20141118T114413Z">
+        <seg>若位於高電壓If a low-voltage winding which is physically adjacent to the high-voltage winding is left without connection to earth or with only a high-impedance connection to earth while the high-voltage winding is energised, there is a risk of power frequency overvoltage by capacitance division.</seg>
       </tuv>
     </tu>
     <tu>
