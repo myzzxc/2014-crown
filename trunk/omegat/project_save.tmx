@@ -4597,6 +4597,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stabilizing winding should normally be arranged for permanent connection to earth (tank) either externally or internally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120631Z" creationid="CCYU" creationdate="20141118T120631Z">
+        <seg>通常穩定繞組無論內部或外部應設置為永久接地 (油槽) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A study of particular transformer installation with regard to transferred surge overvoltages is, in general, justified only for large generator transformers, which have a large voltage ratio, and for large high-voltage system transformers with a low-voltage tertiary winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114239Z" creationid="MAE" creationdate="20141118T074202Z">
@@ -24915,6 +24923,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is the responsibility of the purchaser to prevent a tertiary winding from being accidentally left with too high an impedance to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120519Z" creationid="CCYU" creationdate="20141118T120519Z">
+        <seg>買方有義務避免三次繞組意外處與過高的接地阻抗中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is therefore assumed that at &gt; 850 kV lightning impulse level the bushing en and any connections normally have rounded electrode shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142328Z" creationid="CCYU" creationdate="20141115T142328Z">
@@ -43520,6 +43536,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T210322Z">
         <seg>假設核心汽缸之外牆 (於 &lt;t0/&gt;r&lt;t1/&gt;=&lt;t2/&gt;r&lt;t3/&gt;2&lt;t4/&gt;+δ&lt;t5/&gt;) 溫度保持固定線性分布：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The overvoltage is determined by capacitances between windings and between windings and earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120801Z" creationid="CCYU" creationdate="20141118T120801Z">
+        <seg>過電壓是由繞組間的電容以及繞組和地線之間的電容所決定的，</seg>
       </tuv>
     </tu>
     <tu>
