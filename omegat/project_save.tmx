@@ -41619,6 +41619,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The equivalent e.m.f.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094032Z" creationid="MAE" creationdate="20141118T094032Z">
+        <seg>等效電動勢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The essential characteristics regarding Safety in use are included under the Basic Works&lt;t0/&gt; &lt;t1/&gt;Requirement Mechanical resistance and stability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021047Z">
@@ -44599,6 +44607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T110039Z">
         <seg>窗台板的標稱厚度為 2 英吋或 3 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The simplest equivalent circuit as seen from the low-voltage winding consists of an electromotive force (e.m.f.) source in series with a transfer capacitance C&lt;t0/&gt;t&lt;t1/&gt;, see Figure B.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094027Z" creationid="MAE" creationdate="20141118T094027Z">
+        <seg>最簡單的等效電路，由低電壓繞組形成串聯電動勢 (e.m.f.) 源，其傳輸電容為 C&lt;t0/&gt;t&lt;t1/&gt; ，請見圖 B.1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56049,6 +56065,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141714Z">
         <seg>鐵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is a fraction s of the incoming surge on the high-voltage side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094141Z" creationid="MAE" creationdate="20141118T094141Z">
+        <seg>為高電壓測輸入突波之分量 s。</seg>
       </tuv>
     </tu>
     <tu>
