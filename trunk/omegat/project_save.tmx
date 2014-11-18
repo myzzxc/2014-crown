@@ -4509,6 +4509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A reduction of the inductively transferred overvoltage component can be effected either by resistive damping through a surge diverter or by modification of the oscillation with capacitive loading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T110216Z" creationid="CCYU" creationdate="20141118T110216Z">
+        <seg>可透過避雷器作為電阻性阻尼或以電容性負載改變震盪以降低電感傳輸過電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reference measurement (R&lt;t0/&gt;1&lt;t1/&gt;,6'&lt;t2/&gt;1&lt;t3/&gt;) of all winding resistances is made with the transformer at ambient temperature, in a steady-state condition (see IEC 60076-1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150141Z" creationid="CCYU" creationdate="20141101T150115Z">
