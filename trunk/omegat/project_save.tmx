@@ -20513,6 +20513,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no external loading is applied to the secondary winding, the voltage transient usually has a superimposed damped oscillation with a frequency determined by leakage inductance and winding capacitances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T105912Z" creationid="CCYU" creationdate="20141118T105912Z">
+        <seg>若二次繞組無外部負載，電壓暫態通常具有由洩漏電感和繞駔電容頻率所決定之疊加阻尼震盪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no information can be given, the manufacturer can provide information about the expected transferred voltages when the low-voltage terminals are open-circuited, and about the values of resistors or capacitors which are needed to keep the voltages within acceptable limits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073713Z" creationid="MAE" creationdate="20141118T073713Z">
@@ -42416,6 +42424,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123849Z" creationid="CCYU" creationdate="20141104T123849Z">
         <seg>感應電動勢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The inductive transfer of surge voltage depends on the flow of surge current in the high-voltage winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T105626Z" creationid="CCYU" creationdate="20141118T105626Z">
+        <seg>感應傳輸突波電壓由高電壓繞組中的突波電流流動產生。</seg>
       </tuv>
     </tu>
     <tu>
