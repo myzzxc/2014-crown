@@ -23084,8 +23084,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this case it may be agreed to repeat the test, possibly with extended duration, and possibly with an increased voltage level, as this may reduce the discharge level over time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T042226Z" creationid="MAE" creationdate="20141118T042226Z">
-        <seg>此情況下它可商定的重複試驗，可能與期限延長，並可能具有增加的電壓水準，因為這可能會隨著時間的推移降低排放水準。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T042454Z" creationid="MAE" creationdate="20141118T042226Z">
+        <seg>此情況下可依協議進行重複測試，可加長測試時間、並增加電壓水準，因為這現象可能會隨著時間而降低放電電壓。</seg>
       </tuv>
     </tu>
     <tu>
