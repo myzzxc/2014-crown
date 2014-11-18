@@ -40260,6 +40260,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The AC withstand voltage shall be higher than the maximum overvoltage arising under system fault conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T150523Z" creationid="Judy" creationdate="20141118T150523Z">
+        <seg>交流耐壓應高於系統故障情況下產生之最大過電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The CFD analysis identified some key factors that reduce the power of the engine: a geometrical feature that causes high level of hydraulic losses in the regenerator, and the entrapment of the gas in the pipe connecting two parts of the compression space and the dead volume introduced by the pipe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154715Z">
