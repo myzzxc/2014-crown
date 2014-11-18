@@ -42299,6 +42299,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information given below concerns only problems associated with the transformer itself under particular conditions of service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073118Z" creationid="MAE" creationdate="20141118T073118Z">
+        <seg>下述資訊僅考量變壓器本身於特定操作環境下的問題，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The information listed below shall be included on the rating plate when it is applicable to particular transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T022245Z">
@@ -43631,6 +43639,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130432Z" creationid="CCYU" creationdate="20141103T115807Z">
         <seg>此問題對具有分流墊圈之繞組很重要，因為因子隨液體管道配置而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The problem of transferred overvoltage is treated from a system point of view in IEC 60071-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073005Z" creationid="MAE" creationdate="20141118T073005Z">
+        <seg>IEC 60071-2 中以系統的角度探過電壓的問題，</seg>
       </tuv>
     </tu>
     <tu>
