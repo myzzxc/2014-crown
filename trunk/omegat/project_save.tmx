@@ -42804,6 +42804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The length of time at the PD measurement voltage should be given if this is less than one hour;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T131251Z" creationid="CCYU" creationdate="20141118T131251Z">
+        <seg>若局部放電量測電壓時間少於一小時則應指明其時間長度；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The level of partial discharge should be observed continuously or at frequent interval throughout the test period.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T132607Z" creationid="CCYU" creationdate="20141117T132607Z">
@@ -60334,6 +60342,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130010Z">
         <seg>任何抽頭或抽頭範圍是否為降低功率抽頭；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether partial discharge measurements are required and whether this is to be done with the induced voltage test or separately, and whether it is to be done on only one unit (type test unit) or all units.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T131141Z" creationid="CCYU" creationdate="20141118T131141Z">
+        <seg>是否需要局部電壓量測以及此量測是否同時進行感應電壓測試或另外進行，以及是否於單一元件進行 (形式測試元件) 或所有元件。</seg>
       </tuv>
     </tu>
     <tu>
