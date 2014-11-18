@@ -33348,6 +33348,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Q.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151839Z" creationid="Judy" creationdate="20141118T151835Z">
+        <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick estimation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082640Z">
@@ -53205,6 +53213,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; is the positive sequence impedance of the transformer in &lt;t2/&gt;Q</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151959Z" creationid="Judy" creationdate="20141118T151959Z">
+        <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; 為變壓器之正零序阻抗，單位為 Q。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[10] conducted an experimental study to investigate the impacts of several parameters on the performance of the MR in a γ-type &lt;t23/&gt;Stirling&lt;t24/&gt; engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154514Z">
@@ -56606,6 +56622,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is the negative sequence impedance of network in &lt;t0/&gt;Q.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151904Z" creationid="Judy" creationdate="20141118T151904Z">
+        <seg>為電網之負序列阻抗，單位為 Q。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the phase to earth voltage taken as &lt;t0/&gt;u&lt;t1/&gt;m&lt;t2/&gt;/Jz&lt;t3/&gt; in V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151724Z" creationid="Judy" creationdate="20141118T151716Z">
+        <seg>為相對地電壓 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;/ √3，單位為 V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the positive sequence impedance of the network in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151832Z" creationid="Judy" creationdate="20141118T151824Z">
+        <seg>為電網之正序列阻抗，單位為 Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is the rated voltage of the winding (see 3.4.3);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T022853Z">
@@ -56634,6 +56674,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023156Z">
         <seg>為具有抽頭之繞組空載時通入額定電壓至未抽頭繞組之端子電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the zero sequence impedance of the network in Q</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151922Z" creationid="Judy" creationdate="20141118T151922Z">
+        <seg>為電網之負零序阻抗，單位為 Q。</seg>
       </tuv>
     </tu>
     <tu>
