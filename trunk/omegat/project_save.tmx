@@ -5565,6 +5565,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally for transformers with non-uniform insulation:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T135419Z" creationid="Judy" creationdate="20141118T135419Z">
+        <seg>具有非線性絕緣之變壓器額外參數：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, the operating time for the connections and the time for stabilizing the d.c.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125013Z" creationid="CCYU" creationdate="20141104T125013Z">
@@ -55834,6 +55842,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130824Z" creationid="CCYU" creationdate="20141118T130824Z">
         <seg>全波雷擊突波測試 (LI)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>full wave lightning impulse test level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T135256Z" creationid="Judy" creationdate="20141118T135256Z">
+        <seg>全波雷擊突波測試。</seg>
       </tuv>
     </tu>
     <tu>
