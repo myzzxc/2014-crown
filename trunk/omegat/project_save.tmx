@@ -60434,6 +60434,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether a switching impulse test is required and whether it is to be done on only the first or on all units and whether the SI test replaces the LTAC test;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T140246Z" creationid="Judy" creationdate="20141118T140246Z">
+        <seg>是否需進行開關突波測試以及測試僅需於第一組裝置或於所有裝置上進行，以及是否以 SI 測試取代 LTAC 測試；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether alternative higher voltage levels are to be used for the induced voltage test with partial discharge measurement and whether it can be combined with the IVW test;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T135909Z" creationid="Judy" creationdate="20141118T135909Z">
