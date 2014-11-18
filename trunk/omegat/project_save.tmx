@@ -29043,6 +29043,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE For non-uniform insulation the manufacturer might design the winding with a higher than specified neutral insulation level because of the line terminal withstand test (special test).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T143204Z" creationid="Judy" creationdate="20141118T143204Z">
+        <seg>註 對於非統一絕緣繞組，製造商可能因為線端子耐壓測試 (特殊測試) 而設計具有高於指定值之中性絕緣等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE For series transformers, the tapping factor is the ratio of the voltage of the series winding corresponding to a given tapping to Ur.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023326Z">
