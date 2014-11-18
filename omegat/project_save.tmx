@@ -29635,6 +29635,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neutral insulation voltage level calculation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T141356Z" creationid="Judy" creationdate="20141118T141356Z">
+        <seg>中性絕緣電壓等級計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral terminal not directly earthed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153016Z" creationid="CCYU" creationdate="20141111T153016Z">
@@ -40356,6 +40364,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LIC value should be taken from the same line in Table 2 as the LI value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T141258Z" creationid="Judy" creationdate="20141118T141258Z">
+        <seg>LIC 值應使用表 2 中與 LI 值相同之同一列數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LIC value, if specified, should be taken from the same line in Table 2 as the LI value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T134059Z" creationid="Judy" creationdate="20141118T134059Z">
@@ -46526,8 +46542,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The values of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;,&lt;t3/&gt; LI, AV, and if specified LTAC and SI should preferably be chosen from a single line of Table 2 as they will then be a co-ordinated set, however it is permissible to choose values from different lines within the same &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; or from a higher &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; to match existing system insulation co-ordination.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T140841Z" creationid="Judy" creationdate="20141118T140841Z">
-        <seg>&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;、&lt;t3/&gt; LI 和 AV 值以及 LTAC 和 SI (若有指明) 應盡可能由表 2 同一列中選取，因為其為協調數值組，然而同 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; 的情況下允許由較高 &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; 值的不同列中選擇數值以與匹配現有系統絕緣。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T141209Z" creationid="Judy" creationdate="20141118T140841Z">
+        <seg>&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;、&lt;t3/&gt; LI 和 AV 值以及 LTAC 和 SI 值 (若有指明) 應盡可能由表 2 同一列中選取，因為其為協調數值組，然而同 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; 的情況下允許由較高 &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; 值的不同列中選擇數值以與匹配現有系統絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;,&lt;t3/&gt; LI, SI, AV and if specified, LTAC should preferably be chosen from a single line of Table 2 as they will then be a co-ordinated set, however it is permissible to choose values from different lines within the same &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; or from a higher &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; to match existing system insulation co-ordination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T141237Z" creationid="Judy" creationdate="20141118T141157Z">
+        <seg>&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;、&lt;t3/&gt; LI 和 AV 值以及 LTAC 值 (若有指明) 應盡可能由表 2 同一列中選取，因為其為協調數值組，然而同 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; 的情況下允許由較高 &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; 值的不同列中選擇數值以與匹配現有系統絕緣。</seg>
       </tuv>
     </tu>
     <tu>
