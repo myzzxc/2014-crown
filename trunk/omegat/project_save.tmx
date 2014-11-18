@@ -9142,6 +9142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;t&lt;t1/&gt; is of the order of 10&lt;t2/&gt;-9&lt;t3/&gt; F; s and C&lt;t4/&gt;t&lt;t5/&gt; are not well-defined quantities but dependent on the shape of the surge front.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094407Z" creationid="MAE" creationdate="20141118T094407Z">
+        <seg>C&lt;t0/&gt;t&lt;t1/&gt; 之量級為 10&lt;t2/&gt;-9&lt;t3/&gt; F；s 和 C&lt;t4/&gt;t&lt;t5/&gt; 為非明確定義之數值，其取決於突波波前形狀，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAGE CODE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080050Z" creationid="CCYU" creationdate="20141025T075917Z">
@@ -32522,6 +32530,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pre-calculation is uncertain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094527Z" creationid="MAE" creationdate="20141118T094527Z">
+        <seg>預先計算值無法確定正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precautionary Statements:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T143311Z">
@@ -47495,6 +47511,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T080508Z">
         <seg>油罐區通常位於外面因此會淋雨，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can be determined together by oscillographic measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094443Z" creationid="MAE" creationdate="20141118T094443Z">
+        <seg>可由波形圖量測同時決定其數值，</seg>
       </tuv>
     </tu>
     <tu>
