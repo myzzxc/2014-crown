@@ -6173,6 +6173,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively these measurements can be made at a reduced voltage during impulse tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074643Z" creationid="MAE" creationdate="20141118T074643Z">
+        <seg>或者可於降低電壓突波測試期間進行此類量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, the impedanc&lt;t8/&gt;e&lt;t9/&gt; may be specified in accordance with one of the methods below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T150402Z">
@@ -9434,6 +9442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
         <seg>100% 加拿大泥炭蘚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capacitive transfer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074805Z" creationid="MAE" creationdate="20141118T074805Z">
+        <seg>電容性傳輸</seg>
       </tuv>
     </tu>
     <tu>
@@ -24654,6 +24670,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125802Z" creationid="CCYU" creationdate="20141117T125802Z">
         <seg>若測定產生器具有與電源頻率同步之重複頻率能使儀器上看見之產生突波與電源突波同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is convenient to distinguish between two mechanisms of surge transfer, namely capacitive transfer and inductive transfer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074754Z" creationid="MAE" creationdate="20141118T074754Z">
+        <seg>兩種突波傳輸機制可簡單分為電容性傳輸核電感性傳輸。</seg>
       </tuv>
     </tu>
     <tu>
