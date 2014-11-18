@@ -7709,6 +7709,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As single phase auto transformers are tested separately, the transferred voltages appearing on the tertiary terminals when the transformers are connected as a three-phase bank needs to be considered</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074405Z" creationid="MAE" creationdate="20141118T074405Z">
+        <seg>由於單相自耦變壓器為獨立測試，當變壓器做三相組合連接實需考量傳輸電壓出現於三次繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As technical experts, &lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; specialists provide training seminars and webinars on the basics of infrared thermometry, as well installation, main­tenance and how to improve steel manufacturing processes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011955Z">
@@ -22373,6 +22381,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043533Z">
         <seg>為了進一步瞭解非遽變性地滑現象，我們使用位移檢測技術來量測整體位移模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to ensure that the transferred voltages do not exceed the specified level, or to confirm that surge arresters are not required, transferred surge measurements can be made using a low voltage recurrent surge generator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074549Z" creationid="MAE" creationdate="20141118T074549Z">
+        <seg>為了確保傳輸之電壓不超過指定等級，或確認無須避雷器，可使用低電壓週期突波產生器進行傳輸突波量測。</seg>
       </tuv>
     </tu>
     <tu>
