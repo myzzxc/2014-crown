@@ -7237,6 +7237,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any mix of values coming from different lines may result in over design in respect of some parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T134234Z" creationid="Judy" creationdate="20141118T134234Z">
+        <seg>混用不同列之數值可能造成某些特定參數與設計不符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any partial reproductio&lt;t4/&gt;n has to be identified as such.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T103239Z">
@@ -40320,6 +40328,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131901Z" creationid="CCYU" creationdate="20141112T131901Z">
         <seg>國際電工委員會 (IEC) 為一間世界性的標準制定組織，由所有國家電工委員會 (IEC 國家委員會) 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LIC value, if specified, should be taken from the same line in Table 2 as the LI value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T134059Z" creationid="Judy" creationdate="20141118T134059Z">
+        <seg>若有指明 LIC 值，應使用表 2 中與 LI 值相同之同一列數值。</seg>
       </tuv>
     </tu>
     <tu>
