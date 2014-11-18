@@ -46476,6 +46476,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The values of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;,&lt;t3/&gt; LI and AV should preferably be chosen from a single line of Table 2 as they will then be a co-ordinated set, however it is permissible to choose values from different lines within the same &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; or from a higher &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; to match existing system insulation co-ordination.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T133858Z" creationid="Judy" creationdate="20141118T133858Z">
+        <seg>&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;、&lt;t3/&gt; LI 以及 AV 值應盡可能由表 2 同一列中選取，因為其為協調數值組，然而同 &lt;t4/&gt;U&lt;t5/&gt;m&lt;t6/&gt; 的情況下允許由較高 &lt;t7/&gt;U&lt;t8/&gt;m&lt;t9/&gt; 值的不同列中選擇數值以與匹配現有系統絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The values of average temperature of the two windings are determined from the &lt;t0/&gt;resistance variations, and in addition by taking into account the liquid temperature decrease when the current is reduced to the rated value, as well as the variation of the external cooling medium temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T090551Z" creationid="Judy" creationdate="20141101T090036Z">
