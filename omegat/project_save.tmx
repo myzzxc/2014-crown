@@ -1551,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 For transformers and windings with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt;&lt;t3/&gt; 72,5 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130552Z" creationid="CCYU" creationdate="20141118T130552Z">
+        <seg>2 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV 之變壓器和繞組 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 List of used symbols</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093506Z" creationid="CCYU" creationdate="20141102T093506Z">
@@ -22134,6 +22142,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T152611Z" creationid="CCYU" creationdate="20141106T152611Z">
         <seg>所有情況下，應特別注意避免感測器與冷卻液體部分接觸，因為可能大幅影響其指示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In all cases:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130719Z" creationid="CCYU" creationdate="20141118T130719Z">
+        <seg>所有情況下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59882,6 +59898,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>value of &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;\</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130732Z" creationid="CCYU" creationdate="20141118T130732Z">
+        <seg>&lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value of current of the it&lt;t1/&gt;h&lt;t2/&gt; harmonic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091827Z">
@@ -59894,6 +59918,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T090833Z">
         <seg>第 i 個諧波之電流方均根值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value of l/&lt;t0/&gt;r&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130744Z" creationid="CCYU" creationdate="20141118T130744Z">
+        <seg>U&lt;t0/&gt;r&lt;t1/&gt; 值；</seg>
       </tuv>
     </tu>
     <tu>
