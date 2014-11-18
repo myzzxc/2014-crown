@@ -20329,6 +20329,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If capacitors are used, the capacitance value has usually to be of the order of tenths of microfarads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T110441Z" creationid="CCYU" creationdate="20141118T110441Z">
+        <seg>若使用電容，電容值通常為數十微法拉 (µF)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If considered necessary, a temperature rise limit for the magnetic core surfa&lt;t1/&gt;ce may be agreed between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T115535Z" creationid="CCYU" creationdate="20141030T115535Z">
