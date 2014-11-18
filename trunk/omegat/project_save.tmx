@@ -4573,6 +4573,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A study of particular transformer installation with regard to transferred surge overvoltages is, in general, justified only for large generator transformers, which have a large voltage ratio, and for large high-voltage system transformers with a low-voltage tertiary winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074202Z" creationid="MAE" creationdate="20141118T074202Z">
+        <seg>需考量傳輸突波過電壓之特定變壓器安裝研究通常僅用於具有大電壓比之大型發電機變壓器，以及具有低電壓三次繞組的大型高電壓系統之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A switching impulse test using the method given in Clause 14 shall be performed on the line terminals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145503Z" creationid="CCYU" creationdate="20141111T145458Z">
