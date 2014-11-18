@@ -4599,8 +4599,8 @@
       <tuv lang="EN-US">
         <seg>A study of particular transformer installation with regard to transferred surge overvoltages is, in general, justified only for large generator transformers, which have a large voltage ratio, and for large high-voltage system transformers with a low-voltage tertiary winding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074202Z" creationid="MAE" creationdate="20141118T074202Z">
-        <seg>需考量傳輸突波過電壓之特定變壓器安裝研究通常僅用於具有大電壓比之大型發電機變壓器，以及具有低電壓三次繞組的大型高電壓系統之變壓器。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114239Z" creationid="MAE" creationdate="20141118T074202Z">
+        <seg>需考量轉移突波過電壓之特定變壓器安裝研究通常僅用於具有大電壓比之大型發電機變壓器，以及具有低電壓三次繞組的大型高電壓系統之變壓器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7743,8 +7743,8 @@
       <tuv lang="EN-US">
         <seg>As single phase auto transformers are tested separately, the transferred voltages appearing on the tertiary terminals when the transformers are connected as a three-phase bank needs to be considered</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074405Z" creationid="MAE" creationdate="20141118T074405Z">
-        <seg>由於單相自耦變壓器為獨立測試，當變壓器做三相組合連接實需考量傳輸電壓出現於三次繞組。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114246Z" creationid="MAE" creationdate="20141118T074405Z">
+        <seg>由於單相自耦變壓器為獨立測試，當變壓器做三相組合連接實需考量轉移電壓出現於三次繞組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,24 +20563,24 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If no information can be given, the manufacturer can provide information about the expected transferred voltages when the low-voltage terminals are open-circuited, and about the values of resistors or capacitors which are needed to keep the voltages within acceptable limits.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073713Z" creationid="MAE" creationdate="20141118T073713Z">
-        <seg>若無可提供資訊，製造商可提供當低電壓繞組開路時的預期傳輸之過電壓資訊，以及維持電壓於容許限制範圍內所需的電阻或電容值。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114223Z" creationid="MAE" creationdate="20141118T073713Z">
+        <seg>若無可提供資訊，製造商可提供當低電壓繞組開路時的預期轉移過電壓資訊，以及維持電壓於容許限制範圍內所需的電阻或電容值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If non-linear elements or surge arresters are built into the transformer for the limitation of transferred overvoltage transients, they may operate during the test procedure and this may cause differences between impulse records made at different voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T051730Z" creationid="CCYU" creationdate="20141115T051730Z">
-        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態傳輸時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114033Z" creationid="CCYU" creationdate="20141115T051730Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If non-linear elements or surge diverters are built into the transformer for the limitation o transferred overvoltage transients, they may operate during the test procedure and this ma cause differences between impulse records made at different voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063918Z" creationid="CCYU" creationdate="20141115T063918Z">
-        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態傳輸時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114045Z" creationid="CCYU" creationdate="20141115T063918Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22436,8 +22436,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In most cases an oscillogram of the current flowing to earth from the tested winding (neutral current) or the capacitive probe current, i.e. the current transferred to the non-tested and shorted winding, will represent the best sensitivity for fault indication.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230255Z" creationid="Judy" creationdate="20141113T230255Z">
-        <seg>多數情況下，由測試繞組流向接地電流 (中性電流) 或電容性探測電流 (即傳輸至非測試或短路繞組之電流) 的波形圖最能呈現出故障情況。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114009Z" creationid="Judy" creationdate="20141113T230255Z">
+        <seg>多數情況下，由測試繞組流向接地電流 (中性電流) 或電容性探測電流 (即轉移至非測試或短路繞組之電流) 的波形圖最能呈現出故障情況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,8 +22476,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In order to ensure that the transferred voltages do not exceed the specified level, or to confirm that surge arresters are not required, transferred surge measurements can be made using a low voltage recurrent surge generator.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074549Z" creationid="MAE" creationdate="20141118T074549Z">
-        <seg>為了確保傳輸之電壓不超過指定等級，或確認無須避雷器，可使用低電壓週期突波產生器進行傳輸突波量測。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114301Z" creationid="MAE" creationdate="20141118T074549Z">
+        <seg>為了確保轉移電壓不超過指定等級，或確認無須避雷器，可使用低電壓週期突波產生器進行轉移突波量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31493,8 +31493,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Overvoltage transferred from the high-voltage</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T055102Z" creationid="MAE" creationdate="20141118T055102Z">
-        <seg>高壓繞組至低壓繞組之過電壓</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114144Z" creationid="MAE" creationdate="20141118T055102Z">
+        <seg>高壓繞組至低壓繞組之轉移過電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -40406,8 +40406,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The actual charge transferred at the site of a partial discharge cannot be measured directh instead the apparent charge &lt;t0/&gt;q&lt;t1/&gt; as defined in IEC 60270 is measured at the terminal a determined by a suitable calibration, see A.2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T162428Z" creationid="CCYU" creationdate="20141116T162428Z">
-        <seg>局部放電區域之實際電荷傳輸無法直接量測，取而代之於經適當校正所決定之端子處，量測 IEC 60270 中所定義之視在電荷 &lt;t0/&gt;q&lt;t1/&gt;，請見 A.2。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114117Z" creationid="CCYU" creationdate="20141116T162428Z">
+        <seg>局部放電區域之實際電荷轉移無法直接量測，取而代之於經適當校正所決定之端子處，量測 IEC 60270 中所定義之視在電荷 &lt;t0/&gt;q&lt;t1/&gt;，請見 A.2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41286,8 +41286,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The current flowing from tank to earth, or the transferred voltage in a non-tested winding, are examples of alternative suitable measuring quantities.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T230556Z" creationid="Judy" creationdate="20141113T230418Z">
-        <seg>自油槽流向接地之電流、或非測試繞組中的傳輸電壓皆為合適的量測值。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114024Z" creationid="Judy" creationdate="20141113T230418Z">
+        <seg>自油槽流向接地之電流、或非測試繞組中的轉移電壓皆為合適的量測值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42430,8 +42430,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The impulses are applied either directly from the impulse voltage source to a line terminal &lt; the highest voltage winding, or to a lower voltage winding so that the test voltage is inductive transferred to the highest voltage winding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T075646Z" creationid="CCYU" creationdate="20141115T075646Z">
-        <seg>突波可直接由突波電壓源通入線路端子或最高電壓繞組，或通入較低電壓繞組使測試電壓以電感傳輸至最高電壓繞組。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114105Z" creationid="CCYU" creationdate="20141115T075646Z">
+        <seg>突波可直接由突波電壓源通入線路端子或最高電壓繞組，或通入較低電壓繞組使測試電壓以電感轉移至最高電壓繞組。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43838,8 +43838,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The problem of transferred overvoltage is treated from a system point of view in IEC 60071-2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073404Z" creationid="MAE" creationdate="20141118T073005Z">
-        <seg>IEC 60071-2 中以系統的角度探傳輸之過電壓的問題，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114204Z" creationid="MAE" creationdate="20141118T073005Z">
+        <seg>IEC 60071-2 中以系統的角度探討轉移過電壓的問題，</seg>
       </tuv>
     </tu>
     <tu>
@@ -45974,8 +45974,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The transferred overvoltages to be considered are either transient surges or overvoltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073350Z" creationid="MAE" creationdate="20141118T073350Z">
-        <seg>傳輸之過電壓為暫態突波或過電壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114212Z" creationid="MAE" creationdate="20141118T073350Z">
+        <seg>轉移過電壓為暫態突波或過電壓。</seg>
       </tuv>
     </tu>
     <tu>
