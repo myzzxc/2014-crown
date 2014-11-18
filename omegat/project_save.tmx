@@ -60340,8 +60340,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>whether a lightning impulse test is required on any or all units to be supplied under the order rather than just on the first unit of the design;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T132507Z" creationid="Judy" creationdate="20141118T132507Z">
-        <seg>是否需要於所有裝置雷擊突波測試whether a lightning impulse test is required on any or all units to be supplied under the order rather than just on the first unit of the design;</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T132709Z" creationid="Judy" creationdate="20141118T132507Z">
+        <seg>是否需要於所有訂購之裝置進行雷擊突波測試或僅需於該設計之第一組裝置進行；</seg>
       </tuv>
     </tu>
     <tu>
@@ -60350,6 +60350,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130010Z">
         <seg>任何抽頭或抽頭範圍是否為降低功率抽頭；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether chopped wave lightning impulse tests are required and whether it is to be done on only the first or on all units;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T132859Z" creationid="Judy" creationdate="20141118T132859Z">
+        <seg>是否需進行截波雷擊突波測試以及測試需於第一組裝置或所有裝置上進行；</seg>
       </tuv>
     </tu>
     <tu>
