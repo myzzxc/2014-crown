@@ -23082,6 +23082,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case it may be agreed to repeat the test, possibly with extended duration, and possibly with an increased voltage level, as this may reduce the discharge level over time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T042226Z" creationid="MAE" creationdate="20141118T042226Z">
+        <seg>此情況下它可商定的重複試驗，可能與期限延長，並可能具有增加的電壓水準，因為這可能會隨著時間的推移降低排放水準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case the first impulse test sequence tests the winding at the full voltage without the resistor but the required waveshape may not be achieved and the second sequence with the resistor achieves the waveshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133918Z" creationid="CCYU" creationdate="20141114T133842Z">
@@ -34007,6 +34015,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134314Z">
         <seg>Relative density 相對密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relatively limited variation of the partial discharge level with voltage increase, a partial discharge pattern typical of a floating particle in the electrical field and an absence of an increase of level with time, may be accepted as evidence that the transformer is suitable for service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T042229Z" creationid="MAE" creationdate="20141118T042210Z">
+        <seg>電壓增加伴隨著相對有限的局部放電壓變化，此局部放電模式通常為電場中的浮動粒子且電壓不隨時間增加，因此可視為變壓器適合運作，</seg>
       </tuv>
     </tu>
     <tu>
