@@ -43212,6 +43212,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum neutral fault current /&lt;t0/&gt;faU&lt;t1/&gt;|&lt;t2/&gt;t&lt;t3/&gt; for a two winding three phase transformer (single phase earth fault on a star connected winding) can be calculated according to the following formula:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151501Z" creationid="Judy" creationdate="20141118T151501Z">
+        <seg>雙繞組三相變壓器之最大中性點故障電壓 I&lt;t0/&gt;fault&lt;t3/&gt; (星形連接繞組上之單相地線故障) 可由以下公式計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum temperature and the range of change in temperature in the expansion chamber are 823.17 K and 83.41 K for the case with MR, and these are 811.25 K and 117.16 K for the case without MR; whereas, these quantities in the compression chamber are 321.38 K and 30.90 K for the case with MR, and are 341.48 K and 45.7 K for the case without MR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072940Z">
