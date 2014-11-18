@@ -20139,8 +20139,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If a low-voltage winding which is physically adjacent to the high-voltage winding is left without connection to earth or with only a high-impedance connection to earth while the high-voltage winding is energised, there is a risk of power frequency overvoltage by capacitance division.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114413Z" creationid="CCYU" creationdate="20141118T114413Z">
-        <seg>若位於高電壓If a low-voltage winding which is physically adjacent to the high-voltage winding is left without connection to earth or with only a high-impedance connection to earth while the high-voltage winding is energised, there is a risk of power frequency overvoltage by capacitance division.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T115509Z" creationid="CCYU" creationdate="20141118T114413Z">
+        <seg>若鄰近高電壓繞組之低電壓繞組於高電壓繞組通電時未接地或僅使用高阻抗接地，將有由電容產生電源頻率轉移過電壓的風險。</seg>
       </tuv>
     </tu>
     <tu>
