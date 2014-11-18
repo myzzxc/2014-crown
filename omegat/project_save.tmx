@@ -15602,6 +15602,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.1 - Equivalent circuit for capacitive transfer of overvoltage B.2.3 inductive transfer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095525Z" creationid="MAE" creationdate="20141118T095525Z">
+        <seg>圖 B.1 - 電容傳輸過電壓之等效電路
+B.2.3 感應傳輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.1 - Temperature rise distribution model for ON cooling methods</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T105736Z" creationid="CCYU" creationdate="20141102T105736Z">
