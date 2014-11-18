@@ -30530,6 +30530,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095424Z" creationid="MAE" creationdate="20141118T095424Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O-Ring&lt;t0/&gt; &lt;t1/&gt;Inlet Orifice O-Ring</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T133012Z" creationid="CCYU" creationdate="20141022T133012Z">
@@ -44311,6 +44319,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092348Z">
         <seg>由此產生的無因次化相關平面 C(s) 顯示測試和搜尋 (I2) 區塊對於 s 域中的偏移範圍之間的 "匹配度"，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resulting shape of secondary overvoltage will normally have the character of a short (microsecond) peak, corresponding to the front of the incoming surge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095403Z" creationid="MAE" creationdate="20141118T095403Z">
+        <seg>二次過電壓之生成形狀通常對應輸入突波之波前會有短 (微秒) 峰值特徵。</seg>
       </tuv>
     </tu>
     <tu>
