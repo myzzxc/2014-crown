@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(They will therefore automatically eliminate the capacitively transferred component as long as the circuit inductance is low.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T110742Z" creationid="CCYU" creationdate="20141118T110742Z">
+        <seg>(因此當電路具低電感時其將自動消除電容性傳輸項。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is assumed to be the case when the ground acceleration level ag is below 2 ms-2 or approximately 0,2 g.) See IEC 60068-3-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110113Z">
