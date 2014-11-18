@@ -37571,6 +37571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such a procedure may be the last resort if other'means of improving the behaviour of the transformer or identifying the source have failed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T051446Z" creationid="MAE" creationdate="20141118T051446Z">
+        <seg>若其它改進變壓器效能或辨識放電源的方法失敗時，此程序為最後手段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such a simple engine is ideal for the study of basic &lt;t1/&gt;Stirling&lt;t2/&gt; engine cycle, allowing the computational domain to be meshed by a structured grid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T135943Z">
@@ -49528,6 +49536,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095925Z">
         <seg>Toxicological information 毒性資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traces of partial discharges visible after untanking are usually not found unless the transformer has been exposed for a considerable duration of time to levels which are very high in comparison with the acceptance limit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T051229Z" creationid="MAE" creationdate="20141118T051229Z">
+        <seg>除非變壓器長時間暴露於超出容許限制壓值，排空油槽後通常不會出現局部放電的痕跡。</seg>
       </tuv>
     </tu>
     <tu>
