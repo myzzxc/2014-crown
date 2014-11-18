@@ -60434,6 +60434,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>whether alternative higher voltage levels are to be used for the induced voltage test with partial discharge measurement and whether it can be combined with the IVW test;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T135909Z" creationid="Judy" creationdate="20141118T135909Z">
+        <seg>是否使用較高替代電壓等級進行感應電壓測試及局部放電量測，以及測試是否可與 IVW 測試合併；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>whether any tapping or range of tappings can be reduced power tappings;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T130010Z">
@@ -60454,6 +60462,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T132544Z" creationid="CCYU" creationdate="20141118T131141Z">
         <seg>是否需要局部電壓量測以及此量測是否同時進行感應電壓測試或另外進行，以及是否於單一裝置進行 (形式測試元件) 或於所有裝置進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>whether the required test voltage for the induced test voltage differs from twice rated voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T140109Z" creationid="Judy" creationdate="20141118T140109Z">
+        <seg>感應電壓測試所需知測試電壓等級是否與額定電壓兩倍值不同；</seg>
       </tuv>
     </tu>
     <tu>
