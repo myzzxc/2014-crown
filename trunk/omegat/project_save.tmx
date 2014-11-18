@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(including any tertiary or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152355Z" creationid="Judy" creationdate="20141118T152355Z">
+        <seg>(包含所有三次或穩定繞組)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(informative)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T135013Z">
@@ -53221,10 +53229,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;N&lt;t1/&gt; is the impedance between the neutral and earth in &lt;t2/&gt;n</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152514Z" creationid="Judy" creationdate="20141118T152514Z">
+        <seg>Z&lt;t0/&gt;N&lt;t1/&gt; 為中性點與地線之間的阻抗，單位為 Ω。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z&lt;t0/&gt;ot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152022Z" creationid="Judy" creationdate="20141118T152022Z">
         <seg>Z&lt;t0/&gt;0t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zfauit '&lt;t0/&gt;s&lt;t1/&gt; ^e impedance in &lt;t2/&gt;Q.&lt;t3/&gt; (taken as zero)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152643Z" creationid="Judy" creationdate="20141118T152643Z">
+        <seg>Zfault 為故障阻抗，單位為 Ω。(取零)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58586,6 +58610,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132236Z">
         <seg>穩定繞組 (stabilizing winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stabilizing winding)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152404Z" creationid="Judy" creationdate="20141118T152404Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
