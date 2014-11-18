@@ -54149,6 +54149,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied voltage test level;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T135212Z" creationid="Judy" creationdate="20141118T135212Z">
+        <seg>施加測試電壓等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>are normally at earth potential in service earthed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125959Z" creationid="CCYU" creationdate="20141112T125959Z">
