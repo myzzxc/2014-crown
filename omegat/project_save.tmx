@@ -12200,6 +12200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of the probable physical nature of the source by conclusions drawn from variation with test voltage level, hysteresis effect, pulse pattern along the test voltage wave, development of the partial discharge with time, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T035543Z" creationid="MAE" creationdate="20141118T035543Z">
+        <seg>藉由測試電壓等級變化、遲滯效應、測試電壓波形中之突波形式、局部放電隨時間之發展…等資訊以測定放電源之物理特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of top, average and bottom liquid temperature &lt;t0/&gt;rises</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T142957Z" creationid="CCYU" creationdate="20141101T142855Z">
@@ -31782,6 +31790,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160527Z" creationid="CCYU" creationdate="20141112T160527Z">
         <seg>局部放電 (PD) 量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partial discharge in the insulation system may be caused by insufficient drying or insufficient liquid impregnation, generally this will be apparent from the pattern of the partial discharge.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T040026Z" creationid="MAE" creationdate="20141118T040026Z">
+        <seg>絕緣系統之局部放電可能由於乾燥不足或液體填充不足所造成，通常此現象可由局部放電的模式中明顯看見。</seg>
       </tuv>
     </tu>
     <tu>
