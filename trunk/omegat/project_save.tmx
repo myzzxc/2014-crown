@@ -1855,6 +1855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 Minimum insulation level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T153059Z" creationid="Judy" creationdate="20141118T153059Z">
+        <seg>3 最低絕緣等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 Sampling of oil</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T141827Z" creationid="CCYU" creationdate="20141105T141827Z">
@@ -28975,6 +28983,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133611Z" creationid="CCYU" creationdate="20141112T133611Z">
         <seg>註 近似正弦波為極值除以 √2 與波形之均方根值差異不超過 5 % (請見 IEC 60060-1)，但可接受較大的偏差值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE As a guide, in accordance with common practice to calculate the worst case, the following values might be used:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T153042Z" creationid="Judy" creationdate="20141118T153042Z">
+        <seg>註 作為指示的情況下，一般實務上計算最差的情況，可使用下列數值：</seg>
       </tuv>
     </tu>
     <tu>
