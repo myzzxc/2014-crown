@@ -22602,6 +22602,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In particular circumstances, resonance conditions may arise.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120202Z" creationid="CCYU" creationdate="20141118T120129Z">
+        <seg>特定條件下可能出現共振狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular, failures have been reported at &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV and below where the transformer is energised/de-energised by a vacuum type circuit breaker from the remote end of a cable because a resonant condition might exist causing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134526Z" creationid="CCYU" creationdate="20141110T134526Z">
@@ -44496,6 +44504,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T074456Z">
         <seg>結果顯示具有移動式再生器的兩腔體之熱傳導量皆非常小，主要原因為兩腔體有較小的溫度梯度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The risk is obvious for a single-phase winding, but it can also exist for a three-phase winding if the primary winding voltage becomes asymmetric, as occurs during earth faults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120133Z" creationid="CCYU" creationdate="20141118T115955Z">
+        <seg>單相繞組於接地故障時具有明顯的發生風險，但當主繞組電壓電不對稱時，於三相繞組中也存在風險。</seg>
       </tuv>
     </tu>
     <tu>
