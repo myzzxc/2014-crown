@@ -47252,6 +47252,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There should be a margin between the impulse level of the neutral terminal and the operating voltage of the protective device, both of these voltages shall be above the maximum voltage arising under system fault conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T150800Z" creationid="Judy" creationdate="20141118T150800Z">
+        <seg>中性端子突波電壓等級和保護裝置之操作電壓之間應有一間距，此類電壓皆應高於系統故障情況下產生之最大電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was no information regarding pressure, temperature, and heat transfer variations in engine chambers within the engine cycles to facilitate better understanding on the complicated physical processes taking place in the regenerator and the engine chambers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152612Z">
