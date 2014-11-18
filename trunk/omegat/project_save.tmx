@@ -53215,8 +53215,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; is the positive sequence impedance of the transformer in &lt;t2/&gt;Q</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151959Z" creationid="Judy" creationdate="20141118T151959Z">
-        <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; 為變壓器之正零序阻抗，單位為 Q。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152312Z" creationid="Judy" creationdate="20141118T151959Z">
+        <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; 為變壓器之正序列阻抗，單位為 Ω。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;ot</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152022Z" creationid="Judy" creationdate="20141118T152022Z">
+        <seg>Z&lt;t0/&gt;0t</seg>
       </tuv>
     </tu>
     <tu>
@@ -56382,6 +56390,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152126Z" creationid="Judy" creationdate="20141118T152126Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in a transformer having a tapped winding, a specific connection of that winding, representing a definite effective number of turns in the tapped winding and, consequently, a definite turns ratio between this winding and any other winding with a fixed number of turns</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020528Z">
@@ -56624,8 +56640,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>is the negative sequence impedance of network in &lt;t0/&gt;Q.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151904Z" creationid="Judy" creationdate="20141118T151904Z">
-        <seg>為電網之負序列阻抗，單位為 Q。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152307Z" creationid="Judy" creationdate="20141118T151904Z">
+        <seg>為電網之負序列阻抗，單位為 Ω。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the negative sequence impedance of the transformer in Q</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152314Z" creationid="Judy" creationdate="20141118T152011Z">
+        <seg>為變壓器之負序列阻抗，單位為 Ω。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56640,8 +56664,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>is the positive sequence impedance of the network in</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151832Z" creationid="Judy" creationdate="20141118T151824Z">
-        <seg>為電網之正序列阻抗，單位為 Q</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152303Z" creationid="Judy" creationdate="20141118T151824Z">
+        <seg>為電網之正序列阻抗，單位為 Ω</seg>
       </tuv>
     </tu>
     <tu>
@@ -56680,8 +56704,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>is the zero sequence impedance of the network in Q</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T151922Z" creationid="Judy" creationdate="20141118T151922Z">
-        <seg>為電網之負零序阻抗，單位為 Q。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152310Z" creationid="Judy" creationdate="20141118T151922Z">
+        <seg>為電網之零序阻抗，單位為 Ω。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the zero sequence impedance of the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152319Z" creationid="Judy" creationdate="20141118T152034Z">
+        <seg>為變壓器之零序阻抗，單位為 Ω。</seg>
       </tuv>
     </tu>
     <tu>
