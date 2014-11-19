@@ -27323,6 +27323,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum impulse level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034911Z" creationid="MAE" creationdate="20141119T034911Z">
+        <seg>最低突波等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum member thinckness</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015557Z">
@@ -43438,8 +43446,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034357Z" creationid="MAE" creationdate="20141119T034357Z">
-        <seg>中性點The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034650Z" creationid="MAE" creationdate="20141119T034357Z">
+        <seg>中性點最低施加電壓等級應由本標準表 2 中選擇大於 U&lt;t0/&gt;ACneutral&lt;t1/&gt; 數值，其中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53633,6 +53641,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T013516Z" creationid="CCYU" creationdate="20141108T013516Z">
         <seg>[來源：IEC 60076-1:2011, 3.4.3]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^ACneutral ~ Zfauit &lt;t0/&gt;x</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034858Z" creationid="MAE" creationdate="20141119T034858Z">
+        <seg>UACneutral ＝ Zfault × ZN</seg>
       </tuv>
     </tu>
     <tu>
