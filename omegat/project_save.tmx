@@ -25115,6 +25115,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is the intention of this standard that the line to earth, neutral to earth, phase to phase and turn to turn insulation of the transformer shall be properly tested.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T132405Z" creationid="Judy" creationdate="20141119T132401Z">
+        <seg>本標準目的為正確地測試變壓器線路對地、中性對地、相對相和繞匝間之絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is the responsibility of the purchaser to prevent a tertiary winding from being accidentally left with too high an impedance to earth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120519Z" creationid="CCYU" creationdate="20141118T120519Z">
