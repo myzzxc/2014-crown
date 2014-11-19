@@ -13577,6 +13577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E.2.2 &lt;t0/&gt;Tests for transformers with a &lt;t1/&gt;72,5 &lt;t2/&gt;kV &lt; &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; &lt;,&lt;t6/&gt; &lt;t7/&gt;170 &lt;t8/&gt;kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T141600Z" creationid="Judy" creationdate="20141119T141600Z">
+        <seg>E.2.2 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 170 kV 之變壓器測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E&lt;t0/&gt;mjn&lt;t1/&gt; is the minimum energy required from the impulse generator in joules; &lt;t2/&gt;f</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024810Z" creationid="CCYU" creationdate="20141115T024810Z">
