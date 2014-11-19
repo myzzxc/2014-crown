@@ -41356,6 +41356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chopped wave lightning impulse test (LIC) is not regarded as necessary in general.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T140440Z" creationid="Judy" creationdate="20141119T140440Z">
+        <seg>截波雷擊突波測試 (LIC) 一般為非必需之測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chopped wave test voltage impulse has a higher peak value and contains higher frequency components than the full wave impulse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T131452Z" creationid="CCYU" creationdate="20141108T131452Z">
@@ -41768,6 +41776,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151200Z" creationid="CCYU" creationdate="20141115T151200Z">
         <seg>設計間隙應於結構圖中說明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The design of the phase to phase and phase to earth insulation is also proven with the lightning impulse (LI) test but in order to limit the testing equipment necessary for this category of transformer the lightning impulse test has been retained as a type rather than a routine test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T140355Z" creationid="Judy" creationdate="20141119T140234Z">
+        <seg>相對相和相對地絕緣之設計以雷擊突波 (LI) 測試驗證，但為了限制此類型變壓器所需之測試設備，雷擊突波測試歸類為形式測試而非例行測試。</seg>
       </tuv>
     </tu>
     <tu>
