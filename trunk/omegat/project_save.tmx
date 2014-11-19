@@ -7773,6 +7773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As both uniform and non- uniform insulation can be specified the list of tests has been prepared to accommodate both possibilities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T142419Z" creationid="Judy" creationdate="20141119T142358Z">
+        <seg>由於可指定統一或非統一絕緣，因此提供測試清單以供兩種絕緣測試使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As far as possible the same time to chop shall be used for all chopped impulses in the sequence.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064831Z" creationid="CCYU" creationdate="20141115T064831Z">
