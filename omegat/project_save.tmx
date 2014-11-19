@@ -7469,6 +7469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applied voltage minimum insulation level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034427Z" creationid="MAE" creationdate="20141119T034325Z">
+        <seg>施加電壓最低絕緣等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applied voltage or line terminal AC withstand</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134956Z" creationid="CCYU" creationdate="20141110T134956Z">
@@ -43424,6 +43432,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T130005Z" creationid="CCYU" creationdate="20141106T130005Z">
         <seg>光纖感測器之安裝方法隨繞組特性而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034357Z" creationid="MAE" creationdate="20141119T034357Z">
+        <seg>中性點The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
       </tuv>
     </tu>
     <tu>
