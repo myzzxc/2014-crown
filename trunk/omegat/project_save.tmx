@@ -49460,6 +49460,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This test is defined as a special test available at the request of the purchaser for use only when there are particularly onerous service conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T140722Z" creationid="Judy" creationdate="20141119T140722Z">
+        <seg>此測試定義為特定操作條件下僅於買方要求時進行之特殊測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This test is intended to verify that the transformer will be free of harmful partial discharges under normal operating conditions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T024912Z" creationid="Judy" creationdate="20141109T024912Z">
