@@ -4829,6 +4829,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A transformer connected Ynd11 with a rated HV voltage of 155 kV (i.e. &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; is 170 kV) and a rated power of 100 MVA with a 12 % positive sequence impedance on a 100 MVA base and a zero sequence impedance of 10,8 %, and with the HV neutral earthed through a 39 fi reactor will experience the following fault current in the HV neutral for an HV line to earth fault considering an infinite short circuit power of the network:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T041948Z" creationid="MAE" creationdate="20141119T041948Z">
+        <seg>電壓器連接為 Ynd11，額定高壓電壓為 155 kV (即 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 為 170 kV) 而額定功率為 100 MVA，於 100 MVA 的基準下具有 12 % 之正序列阻抗和 10,8 % 之零序阻抗，高壓中性點通過 39 Ω 電抗器接地，將高壓線路對地故障視為電網之無限短路電源，以故障電流流經高壓中性點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A transformer is considered as complying with this part when the quantities subject to tolerances are not outside the tolerances given in Table 1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T080339Z">
@@ -60942,6 +60950,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143534Z" creationid="CCYU" creationdate="20141104T143534Z">
         <seg>其對應至關機瞬間之平均繞組溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which gives a voltage of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042016Z" creationid="MAE" creationdate="20141119T042016Z">
+        <seg>可得到電壓為：</seg>
       </tuv>
     </tu>
     <tu>
