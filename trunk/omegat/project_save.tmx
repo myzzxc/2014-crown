@@ -53717,6 +53717,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^ACneutral &lt;t0/&gt;= 57 243 V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042336Z" creationid="MAE" creationdate="20141119T042336Z">
+        <seg>UACneutral = 57 243 V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^ACneutral &lt;t0/&gt;=&lt;t1/&gt; ^ &lt;t2/&gt;468 &lt;t3/&gt;x &lt;t4/&gt;39 V</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042312Z" creationid="MAE" creationdate="20141119T042312Z">
+        <seg>UACneutral = 1 468 × 39 V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>^ACneutral &lt;t0/&gt;—&lt;t1/&gt; ^ fault &lt;t2/&gt;x&lt;t3/&gt; ^-N</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042234Z" creationid="MAE" creationdate="20141119T042234Z">
+        <seg>UACneutral = Ifault × ZN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^ACneutral ~ Zfauit &lt;t0/&gt;x</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034858Z" creationid="MAE" creationdate="20141119T034858Z">
