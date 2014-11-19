@@ -48436,6 +48436,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This annex summarises the rules, which prevailed during the revision of this standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T132910Z" creationid="Judy" creationdate="20141119T132910Z">
+        <seg>此附錄彙總此標準經改版的各項規則，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This applied voltage is referred to as the short-circuit voltage (IEC 60050-421:1990, 421-07-01) of the pair of windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T045210Z">
