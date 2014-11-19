@@ -25355,6 +25355,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K&lt;t0/&gt;v&lt;t1/&gt; is the voltage asymmetry factor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T035439Z" creationid="MAE" creationdate="20141119T035439Z">
+        <seg>K&lt;t0/&gt;v&lt;t1/&gt; 為電壓不對稱因子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KG, Denzlingen, Germany, under a quality control program with inspections by ICC-ES.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T043718Z">
@@ -42564,6 +42572,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The highest asymmetrical peak voltage under these conditions is given by</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T035417Z" creationid="MAE" creationdate="20141119T035417Z">
+        <seg>於此條件下之最高不對稱之峰值電壓為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The highest voltage for equipment &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; and the rated insulation level (the set of assigned rated withstand voltages) determine the dielectric characteristics of a transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T104941Z" creationid="CCYU" creationdate="20141108T104934Z">
@@ -42664,6 +42680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134930Z" creationid="CCYU" creationdate="20141114T134930Z">
         <seg>於參照和全電壓測試期間，突波電路和量測連接應維持不變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The impulse level should be chosen to provide a margin above the operating level of the protective device, which should be chosen so that it does not operate under system short- circuit fault conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T035329Z" creationid="MAE" creationdate="20141119T035329Z">
+        <seg>突波電壓等級之選擇應高於保護裝置之操作電壓等級，應選擇使其不運作於系統短路故障情形下。</seg>
       </tuv>
     </tu>
     <tu>
