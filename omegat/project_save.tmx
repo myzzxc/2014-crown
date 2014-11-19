@@ -23035,6 +23035,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a purely resistive Z&lt;t0/&gt;N&lt;t1/&gt;, &lt;t2/&gt;K&lt;t3/&gt;v&lt;t4/&gt; is the same as the current asymmetry factor &lt;t5/&gt;k&lt;t6/&gt; as defined in IEC 60076-5, but for an inductive Z&lt;t7/&gt;N&lt;t8/&gt;, K&lt;t9/&gt;v&lt;t10/&gt; will be lower because of the DC component of current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040127Z" creationid="MAE" creationdate="20141119T040127Z">
+        <seg>於純電阻性 Z&lt;t0/&gt;N&lt;t1/&gt; 的情況下，&lt;t2/&gt;K&lt;t3/&gt;v&lt;t4/&gt; 與 IEC 60076-5 中所定義之電流不對稱因子 &lt;t5/&gt;k&lt;t6/&gt; 相同，但對於電感性 Z&lt;t7/&gt;N&lt;t8/&gt;，K&lt;t9/&gt;v&lt;t10/&gt; 值因為電流的直流項而較低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a transformer with an additional delta-connected winding, the value of the test current shall be such that the current in the delta-connected winding is not excessive, taking into account the duration of application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083350Z">
@@ -42080,6 +42088,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T145621Z" creationid="CCYU" creationdate="20141104T145621Z">
         <seg>冷卻曲線之外插需使用電腦數值程式以擬合分析函數至溫度讀數組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The factor K&lt;t11/&gt;v&lt;t12/&gt; can be taken as 2 in the worst case of a very high transformer &lt;t13/&gt;X/R &lt;t14/&gt;and a small resistive Z&lt;t15/&gt;N&lt;t16/&gt; but will be &lt; 2 in practical cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040444Z" creationid="MAE" creationdate="20141119T040444Z">
+        <seg>因子 K&lt;t11/&gt;v&lt;t12/&gt; 於變壓器具有非常高的 &lt;t13/&gt;X/R&lt;t14/&gt; 比和低電阻性 Z&lt;t15/&gt;N&lt;t16/&gt; 之最差的情況下可取 2 ，但實際情形會 &lt; 2。</seg>
       </tuv>
     </tu>
     <tu>
