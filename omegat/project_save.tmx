@@ -7741,6 +7741,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As all transformers and windings with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; of 72,5 kV and below are produced with uniform insulation, the line to earth and neutral to earth insulation are both verified during the applied voltage test (AV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T134300Z" creationid="Judy" creationdate="20141119T134300Z">
+        <seg>由於 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 小於等於 72,5 kV 之變壓器和繞組使用統一繞組製造，線路對地和中性對地絕緣皆於施加電壓測試 (AV) 中驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As an alternative and by agreement between manufacturer and purchaser, the winding temperature rise requirements may be limited to the hot-spot winding&lt;t1/&gt; temperature rise which shall be determined by direct measurement in this case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121223Z" creationid="CCYU" creationdate="20141030T121223Z">
