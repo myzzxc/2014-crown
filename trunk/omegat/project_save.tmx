@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>, therefore the minimum AV level from Table 2 is 70 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042430Z" creationid="MAE" creationdate="20141119T042430Z">
+        <seg>，因此根據表 2 最低施加電壓等級為 70 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- 19</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T052029Z">
