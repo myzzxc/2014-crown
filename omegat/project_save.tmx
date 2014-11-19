@@ -11568,6 +11568,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D.4 Example</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040837Z" creationid="MAE" creationdate="20141119T040837Z">
+        <seg>D.4 範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D: forced circulation through cooling equipment, directed &lt;t0/&gt;from the cooling equipment into at least the main windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141346Z" creationid="CCYU" creationdate="20141028T140102Z">
@@ -23035,6 +23043,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the case of a purely inductive Z&lt;t17/&gt;N&lt;t18/&gt;, K&lt;t19/&gt;v&lt;t20/&gt; can be taken as 1,05 as this represents the worst case with a transformer &lt;t21/&gt;XIR&lt;t22/&gt; of about 7.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040711Z" creationid="MAE" creationdate="20141119T040711Z">
+        <seg>於純電感性 Z&lt;t17/&gt;N&lt;t18/&gt; 的情況下，K&lt;t19/&gt;v&lt;t20/&gt; 可取 1,05，此數值代表變壓器 &lt;t21/&gt;X/R&lt;t22/&gt; 值約為 7 的最糟情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of a purely resistive Z&lt;t0/&gt;N&lt;t1/&gt;, &lt;t2/&gt;K&lt;t3/&gt;v&lt;t4/&gt; is the same as the current asymmetry factor &lt;t5/&gt;k&lt;t6/&gt; as defined in IEC 60076-5, but for an inductive Z&lt;t7/&gt;N&lt;t8/&gt;, K&lt;t9/&gt;v&lt;t10/&gt; will be lower because of the DC component of current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040127Z" creationid="MAE" creationdate="20141119T040127Z">
@@ -24991,6 +25007,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T031134Z" creationid="CCYU" creationdate="20141115T031134Z">
         <seg>可使用 IEC 60060-1 附錄 B 之規範以估計各超越值之雷擊突波參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended that L/&lt;t23/&gt;neutrai max&lt;t24/&gt; is calculated using a system model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040814Z" creationid="MAE" creationdate="20141119T040814Z">
+        <seg>建議使用系統模型計算 U&lt;t23/&gt;neutrai max&lt;t24/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42094,8 +42118,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The factor K&lt;t11/&gt;v&lt;t12/&gt; can be taken as 2 in the worst case of a very high transformer &lt;t13/&gt;X/R &lt;t14/&gt;and a small resistive Z&lt;t15/&gt;N&lt;t16/&gt; but will be &lt; 2 in practical cases.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040444Z" creationid="MAE" creationdate="20141119T040444Z">
-        <seg>因子 K&lt;t11/&gt;v&lt;t12/&gt; 於變壓器具有非常高的 &lt;t13/&gt;X/R&lt;t14/&gt; 比和低電阻性 Z&lt;t15/&gt;N&lt;t16/&gt; 之最差的情況下可取 2 ，但實際情形會 &lt; 2。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T040719Z" creationid="MAE" creationdate="20141119T040444Z">
+        <seg>因子 K&lt;t11/&gt;v&lt;t12/&gt; 於變壓器具有非常高的 &lt;t13/&gt;X/R&lt;t14/&gt; 比和低電阻性 Z&lt;t15/&gt;N&lt;t16/&gt; 之最糟的情況下可取 2 ，但實際情形會 &lt; 2。</seg>
       </tuv>
     </tu>
     <tu>
