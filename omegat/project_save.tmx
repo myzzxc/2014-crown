@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4389,6 +4389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lightning impulse level of 170 kV corresponds to a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; of 36 kV and this would be specified for the neutral.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T131151Z" creationid="Judy" creationdate="20141119T131151Z">
+        <seg>此電壓下合適的避雷器 (10 秒承受) 有 10 個 kA 防護級別的 140 kV 及允許邊距對此給出了 170 李水準 kV 中立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of all parts of the IEC 60076 series can be found, under the general title &lt;t0/&gt;Power transformers&lt;t1/&gt;, on the IEC website.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163930Z" creationid="JUDY" creationdate="20141027T163930Z">
@@ -4671,8 +4679,8 @@
       <tuv lang="EN-US">
         <seg>A suitable surge arrester for this voltage (10 second withstand) has a 10 kA protective level of 140 kV and allowing a margin on this gives an LI level of 170 kV for the neutral.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141119T130251Z" creationid="CCYU" creationdate="20141119T130251Z">
-        <seg>此電壓下合適的避雷器 (10 秒承受) 有 10 個 kA 防護級別的 140 kV 及允許邊距對此給出了 170 李水準 kV 中立。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T131335Z" creationid="CCYU" creationdate="20141119T130251Z">
+        <seg>此電壓下合適的避雷器 (耐壓 10 秒) 具有 140 kV 下 10 kA 之防護等級，並容許中性點之LI出了 170 李水準 kV 中立。</seg>
       </tuv>
     </tu>
     <tu>
