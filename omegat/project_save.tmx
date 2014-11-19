@@ -46284,6 +46284,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The testing of such transformers should remain quick and affordable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T133949Z" creationid="Judy" creationdate="20141119T133949Z">
+        <seg>此類變壓器之測試應能快速進行且成本低廉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tests prescribed for the internal insulation of the transformer do not automatically verify that the external insulation is satisfactory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T144621Z" creationid="CCYU" creationdate="20141115T144621Z">
@@ -48016,6 +48024,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T134531Z">
         <seg>這些油漬與油泥非常難以去除，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These transformers include distribution transformers, which are often produced in large quantities of a particular design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T133743Z" creationid="Judy" creationdate="20141119T133743Z">
+        <seg>此類變壓器包含分散式變壓器，通常同一特定設計會大量生產。</seg>
       </tuv>
     </tu>
     <tu>
