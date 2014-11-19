@@ -42884,6 +42884,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The induced test withstand (IVW), therefore, only needs to check the turn to turn insulation, and as &lt;t0/&gt;in the previous edition a test at twice the normal operating voltage have been considered as offering a sufficient margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T134947Z" creationid="Judy" creationdate="20141119T134936Z">
+        <seg>因此感應測試耐壓 (IVW) 僅需檢查繞匝間絕緣，前一版本中以兩倍正常操作電壓進行測試便已足夠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The inductive e.m.f.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123849Z" creationid="CCYU" creationdate="20141104T123849Z">
