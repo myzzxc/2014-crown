@@ -7997,6 +7997,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assuming &lt;t0/&gt;K&lt;t1/&gt;y&lt;t2/&gt; =&lt;t3/&gt; 1,05 for a reactive neutral impedance, the highest voltage on the neutral under system fault conditions is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141119T125859Z" creationid="CCYU" creationdate="20141119T125859Z">
+        <seg>假設無功中性阻抗 &lt;t0/&gt;K&lt;t1/&gt;y&lt;t2/&gt; =&lt;t3/&gt; 1,05，中性點於系統故障時之最高電壓為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152717Z" creationid="CCYU" creationdate="20141105T152717Z">
