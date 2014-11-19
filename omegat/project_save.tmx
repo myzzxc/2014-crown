@@ -43804,6 +43804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The neutral to earth insulation and for uniformly insulated transformers the line to earth insulation is proven with the applied voltage test (AV).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T142555Z" creationid="Judy" creationdate="20141119T142555Z">
+        <seg>中性對地絕緣和統一絕緣變壓器之線路對地絕緣以施加電壓測試 (AV) 驗證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The no load losses shall not be corrected for any effect of temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064551Z">
