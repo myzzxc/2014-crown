@@ -50597,6 +50597,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformers in this middle range are generally built to order but because of the higher powers transmitted, requirements for higher quality checks are included.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T142049Z" creationid="Judy" creationdate="20141119T142049Z">
+        <seg>此中型範圍變壓器通常為訂做，但因為其功率較高，因此有較高品質的檢查規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers intended to be connected directly to generators in such a way that they may be subjected to load rejection conditions shall be able to withstand 1,4 times rated voltage for 5 s at the transformer terminals to which the generator is to be connected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T135833Z">
