@@ -42900,6 +42900,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The induced test with partial discharge measurement (IVPD) has been considered also as too costly and too long for general application on these transformers, and furthermore its goals are covered by the IVW and AV tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T141240Z" creationid="Judy" creationdate="20141119T141240Z">
+        <seg>感應電壓測試和局部放電量測 (IVPD) 對於此類變壓器一般應用之成本過高且所需時間過長，再者其目的已包含於 IVW 和 AV 測試中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The induced test withstand (IVW), therefore, only needs to check the turn to turn insulation, and as &lt;t0/&gt;in the previous edition a test at twice the normal operating voltage have been considered as offering a sufficient margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T134947Z" creationid="Judy" creationdate="20141119T134936Z">
@@ -49464,6 +49472,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T140722Z" creationid="Judy" creationdate="20141119T140722Z">
         <seg>此測試定義為特定操作條件下僅於買方要求時進行之特殊測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test is defined as a special test available if required possibly with a reduced duration at the request of the purchaser for use when there are special service conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T141512Z" creationid="Judy" creationdate="20141119T141512Z">
+        <seg>此測試定義為特定操作條件下僅於買方要求時，可能於減少其測試時間下進行之特殊測試。</seg>
       </tuv>
     </tu>
     <tu>
