@@ -12112,6 +12112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the voltage level and on the type of transformer different tests have been selected to achieve this, and appropriately coordinated test voltage levels are given in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T132612Z" creationid="Judy" creationdate="20141119T132612Z">
+        <seg>根據電壓等級和變壓器類型選擇不同測試已達成此目標，而適當的協調測試電壓等級列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044717Z">
