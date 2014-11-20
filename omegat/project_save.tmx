@@ -17340,6 +17340,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this reason a line terminal AC (LTAC) test is routine for non-uniformly insulated transformers, but this can be replaced by agreement with a switching impulse (SI) test so that this class of transformer can be tested in a similar manner to larger units.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T125141Z" creationid="CCYU" creationdate="20141120T125141Z">
+        <seg>因此線路端子交流 (LTAC) 測試為非統一絕緣變壓器之例行測試，但此測試可依協議以開關突波 (SI) 測試替代，因而此類變壓器可使用與大型裝置類似之測試方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this reason only, the voltage variation shall be given as either on the HV or the LV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T150901Z">
@@ -44168,6 +44176,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142115Z" creationid="CCYU" creationdate="20141115T141025Z">
         <seg>相對相間隙為依據 IEC 60071-1 中所給定之導體至導體電極結構所提供，其計算方式為相對相除以相對地開關突波電壓值等於 1,5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The phase-to-phase and phase to earth insulation is also tested with the routine lightning impulse (LI) test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T125301Z" creationid="CCYU" creationdate="20141120T125301Z">
+        <seg>相對相與相對地絕緣也隨例行雷擊突波 (LI) 測試進行測試。</seg>
       </tuv>
     </tu>
     <tu>
