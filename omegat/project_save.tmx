@@ -6189,6 +6189,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All values below the acceptable limits given in this insulation coordination standard have been excluded from Table 2, but Table 3 has been introduced with lower values which may be used to co-ordinate with existing practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T215108Z" creationid="Judy" creationdate="20141120T215108Z">
+        <seg>此標準中所列之低於容許限制之所有數值已排除於表 2 之外，但表 3 包含了為配合實際情況可能使用之較低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allen&lt;t0/&gt; &lt;t1/&gt;wrench</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033944Z" creationid="CCYU" creationdate="20141025T033944Z">
