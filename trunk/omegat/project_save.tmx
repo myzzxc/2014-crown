@@ -19654,6 +19654,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60071-2, &lt;t0/&gt;Insulation co-ordination - Part 2: Application guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224755Z" creationid="Judy" creationdate="20141120T224659Z">
+        <seg>IEC 60071-2，&lt;t0/&gt;絕緣協調 - 第 2 部分：使用指南 (Insulation co-ordination - Part 2: Application guide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-1, &lt;t0/&gt;Power transformers&lt;t1/&gt; - &lt;t2/&gt;Part 1: General</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T102956Z" creationid="MAE" creationdate="20141028T102956Z">
@@ -19723,6 +19731,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134305Z">
         <seg>IEC 60076-3:2000，電力變壓器 — 第 3 部分：絕緣等級、介電試驗和外部空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-4, &lt;t0/&gt;Power transformers&lt;t1/&gt; - &lt;t2/&gt;Part 4: Guide to the lightning impulse and switching impulse testing - Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224720Z" creationid="Judy" creationdate="20141120T224720Z">
+        <seg>IEC 60076-4，電力變壓器 — 第 4 部份：閃電脈衝和切換脈衝測試指南 — 電力變壓器和電抗器 (Power transformers — Part 4: Guide to lightning impulse and switching impulse testing — Power transformers and reactors)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +19835,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134806Z">
         <seg>IEC 60137:2008，交流電壓超過 1000 V 之絕緣套管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60214-1, &lt;t0/&gt;Tap-changers - Part 1: Performance requirements and test methods</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224817Z" creationid="Judy" creationdate="20141120T224752Z">
+        <seg>IEC 60214-1，&lt;t0/&gt;抽頭開關 — 第 1 部分：性能規範和測試方法 (Tap-changers - Part 1: Performance requirements and test methods)</seg>
       </tuv>
     </tu>
     <tu>
