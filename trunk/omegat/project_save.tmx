@@ -43236,6 +43236,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The limited number of units as well as the necessary quality checks for these large and important units leads to the following tests:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212502Z" creationid="Judy" creationdate="20141120T212502Z">
+        <seg>此類大行且重要的裝置由於裝置數量有限以及必要之品質檢查而需進行以下測試：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The limits refer to steady state conditions under continuous rated power, and 20 °C average yearly temperature of the external cooling medium.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114055Z" creationid="CCYU" creationdate="20141030T114055Z">
@@ -48680,6 +48688,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125107Z">
         <seg>此類別包括擁有自己的卡車車隊、以及那些僅提供外部維修的公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This category of transformer covers the largest transmission and generation transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212311Z" creationid="Judy" creationdate="20141120T212311Z">
+        <seg>此類別之變壓器涵蓋最大型傳輸和發電變壓器。</seg>
       </tuv>
     </tu>
     <tu>
