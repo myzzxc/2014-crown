@@ -47086,8 +47086,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The values in Table 2 have been set using this general principle and the standardized figures for the IVW &lt;t0/&gt;present in the IEC 60071-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220911Z" creationid="Judy" creationdate="20141120T220859Z">
-        <seg>表 2 之數值使用 IEC 60071-1 中 IVW 之一般原則和標準化圖形，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T223528Z" creationid="Judy" creationdate="20141120T220859Z">
+        <seg>表 2 之數值使用 IEC 60071-1 中 IVW 之一般原則和標準化數字，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53149,10 +53149,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where exact figures are not available from IEC 60071-1 a third order polynomial regression was used to interpolate between the figures re-based to a phase to phase divided by phase to earth value of 1,5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T223505Z" creationid="Judy" creationdate="20141120T223402Z">
+        <seg>此處實際數字Where exact figures are not available from IEC 60071-1 a third order polynomial regression was used to interpolate between the figures re-based to a phase to phase divided by phase to earth value of 1,5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where figures are not given in IEC 60071-1 they have been obtained by linear interpolation rounded to the nearest 10 mm or 100 mm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T222728Z" creationid="Judy" creationdate="20141120T222728Z">
-        <seg>此處的圖表非 IEC 60071-1 所提供，其由線性內插法四捨五入至 10 mm 或 100 mm 而求得。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T223519Z" creationid="Judy" creationdate="20141120T222728Z">
+        <seg>此處之數字非 IEC 60071-1 所提供，其由線性內插法四捨五入至 10 mm 或 100 mm 而求得。</seg>
       </tuv>
     </tu>
     <tu>
