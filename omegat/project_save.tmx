@@ -2007,6 +2007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 Clearances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T221918Z" creationid="Judy" creationdate="20141120T221918Z">
+        <seg>4 空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 For transformers and windings &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;170 kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T140920Z" creationid="Judy" creationdate="20141118T140920Z">
@@ -40382,8 +40390,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The (1,58 x&lt;t0/&gt;u&lt;t1/&gt;r&lt;t2/&gt;)/i[z&lt;t3/&gt; value for the PD measurement level is 1,5 x &lt;t4/&gt;U&lt;t5/&gt;r&lt;t6/&gt; plus 5 % and is the level used in IEEE C57.12.00-2010 (i,8xU&lt;t7/&gt;r&lt;t8/&gt;)/V3 is 1,7 x &lt;t9/&gt;U&lt;t10/&gt;r&lt;t11/&gt; plus 5 % to account for the changed basis from &lt;t12/&gt;U&lt;t13/&gt;m&lt;t14/&gt; to &lt;t15/&gt;U&lt;t16/&gt;r&lt;t17/&gt; and to harmonise with IEEE C57.12.00-2010.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T221613Z" creationid="Judy" creationdate="20141120T221613Z">
-        <seg>局部放電量測電壓等級之 (1,58 x &lt;t0/&gt;U&lt;t1/&gt;r&lt;t2/&gt;)/√3&lt;t3/&gt; 值為 1,5 x &lt;t4/&gt;U&lt;t5/&gt;r&lt;t6/&gt; 加上 5 %，而此電壓於 IEEE C57.12.00-2010 中5  (1,8 x U&lt;t7/&gt;r&lt;t8/&gt;)/√3 is 1,7 x &lt;t9/&gt;U&lt;t10/&gt;r&lt;t11/&gt; plus 5 % to account for the changed basis from &lt;t12/&gt;U&lt;t13/&gt;m&lt;t14/&gt; to &lt;t15/&gt;U&lt;t16/&gt;r&lt;t17/&gt; and to harmonise with IEEE C57.12.00-2010.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T221911Z" creationid="Judy" creationdate="20141120T221613Z">
+        <seg>局部放電量測電壓等級之 (1,58 x &lt;t0/&gt;U&lt;t1/&gt;r&lt;t2/&gt;)/√3&lt;t3/&gt; 值為 1,5 x &lt;t4/&gt;U&lt;t5/&gt;r&lt;t6/&gt; 加上 5 %，而此電壓於 IEEE C57.12.00-2010 中之  (1,8 x U&lt;t7/&gt;r&lt;t8/&gt;)/√3 為 1,7 x &lt;t9/&gt;U&lt;t10/&gt;r&lt;t11/&gt; 加上 5 % 以將由 &lt;t12/&gt;U&lt;t13/&gt;m&lt;t14/&gt; 與 &lt;t15/&gt;U&lt;t16/&gt;r&lt;t17/&gt; 之轉換列入考量並與 IEEE C57.12.00-2010 統一。</seg>
       </tuv>
     </tu>
     <tu>
