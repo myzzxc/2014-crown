@@ -25027,6 +25027,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is considered therefore that a separate induced voltage withstand test is not necessary but the enhancement voltage of the IVPD test can be increased if desired for example to twice rated voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T213345Z" creationid="Judy" creationdate="20141120T213345Z">
+        <seg>因此獨立感應電壓耐壓測試為非必要之測試，但當需要額定電壓兩倍值時可增加 IVPD 測試之加強電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is convenient if the calibration generator has a repetition frequency synchronised to the power frequency so that the resulting pulse can be viewed on an instrument also synchronised to the power frequency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125802Z" creationid="CCYU" creationdate="20141117T125802Z">
