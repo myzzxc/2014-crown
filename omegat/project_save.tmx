@@ -20152,10 +20152,26 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEEE C57.12.00-2010, &lt;t0/&gt;Standard General Requirements for Liquid-Immersed Distribution, Power, and Regulating Transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T225325Z" creationid="Judy" creationdate="20141120T225325Z">
+        <seg>IEEE C57.12.00-2010，&lt;t0/&gt;液浸式配電、電力以及整流變壓器之標準一般規範 (Standard General Requirements for Liquid-Immersed Distribution, Power, and Regulating Transformers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEEE C57.142, Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T094931Z">
         <seg>IEEE C57.142，變壓器、切換裝置以及系統相互作用引起之切換暫態發生與解決指南 (Guide to describe the occurrence and mitigation of switching transients induced by transformer, switching device, and system interaction)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEEE C57.142-2010, &lt;t0/&gt;IEEE guide to describe the occurrence and mitigation of switching transients induced by transformers, switching device and system interaction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T225443Z" creationid="Judy" creationdate="20141120T225443Z">
+        <seg>IEEE C57.142-2010，&lt;t0/&gt;IEEE 變壓器、切換裝置以及系統相互作用引起之切換暫態發生與解決指南 (IEEE guide to describe the occurrence and mitigation of switching transients induced by transformers, switching device and system interaction)</seg>
       </tuv>
     </tu>
     <tu>
