@@ -25963,6 +25963,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning impulse tests including chopped waves are included as a routine test for these transformers as it is considered important to prove the ability of the transformer to withstand impulses including those containing higher frequency components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T213912Z" creationid="Judy" creationdate="20141120T213912Z">
+        <seg>由於驗證變壓器之突波 (包含較高頻率項) 耐壓能力相當重要，包含截波之雷擊突波測試列為此類變壓器之例行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning impulses applied to multiple line terminals simultaneously (LIMT)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121401Z" creationid="CCYU" creationdate="20141111T121401Z">
