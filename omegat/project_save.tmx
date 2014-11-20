@@ -17252,6 +17252,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purchaser who wishes to further test the line to earth insulation with an AC test, the single phase line terminal AC test (LTAC) can be specified as a special test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T214427Z" creationid="Judy" creationdate="20141120T214303Z">
+        <seg>對於希望以交流電測試進一步測試線路對地絕緣之買家，可指定單相線路端子交流測試 (LTAC) 為特殊測試，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purpose of grid and time-step independency test, an engine speed of 1,800 rpm was selected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230043Z">
