@@ -50173,6 +50173,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To test the turn-to-turn insulation and phase-to-phase insulation, an induced voltage withstand test (IVW) at twice rated voltage and an induced voltage test with partial discharge measurement (IVPD) are specified as routine tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T130119Z" creationid="CCYU" creationdate="20141120T130119Z">
+        <seg>為了測試繞匝間和相對相絕緣，感應電壓耐壓測試 (IVW) 於兩倍額定電壓下進行，且感應電壓測試和局部放電量測 (IVPD) 指定為例行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z">
