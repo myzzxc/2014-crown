@@ -22218,6 +22218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Table 2 the values were rounded up whenever this did not introduce an excessive bias to the general rule.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220426Z" creationid="Judy" creationdate="20141120T220426Z">
+        <seg>當不會對一般規則造成過大偏差時會將表 2 之數值為四捨五入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a Stirling engine, the actions of the displacer and the power pistons cause expansion and compression of the engine volume, and a moving mesh technique i&lt;t2/&gt;s needed to simulate such varia&lt;t3/&gt;tions in volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z">
@@ -43040,6 +43048,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T134947Z" creationid="Judy" creationdate="20141119T134936Z">
         <seg>因此感應測試耐壓 (IVW) 僅需檢查繞匝間絕緣，前一版本中以兩倍正常操作電壓進行測試便已足夠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The induced voltage withstand (IVW) of the line to earth is usually around 50 % of the switching impulse voltage i.e. about 40 % to 43 % of the lightning impulse withstand voltage (LI).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220654Z" creationid="Judy" creationdate="20141120T220654Z">
+        <seg>線路對地之感應電壓耐壓 (IVW) 通常約為開關突波電壓之 50 %，即約為雷擊突波耐壓 (LI) 之 40 % 至 43 %。</seg>
       </tuv>
     </tu>
     <tu>
