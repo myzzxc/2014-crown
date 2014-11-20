@@ -41396,6 +41396,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chopped wave lightning impulse test is a special test for these voltage levels to be specified only when required by the purchaser for particular service conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T125757Z" creationid="CCYU" creationdate="20141120T125757Z">
+        <seg>截波雷擊突波測試為特殊測試，應指明電壓水準，測試僅需於特定運作條件下由買方要求時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chopped wave test voltage impulse has a higher peak value and contains higher frequency components than the full wave impulse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T131452Z" creationid="CCYU" creationdate="20141108T131452Z">
