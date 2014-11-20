@@ -6573,6 +6573,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of the re-basing would be the clearance of 7 200 mm at 1 425 kV and 1,7 is taken to be equivalent to 1 615 kV and 1,5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224525Z" creationid="Judy" creationdate="20141120T224525Z">
+        <seg>重新計算值之範例為：若取 1,7 則 7 200 mm 之間隙耐壓為1 425 kV；若取 1,5 則耐壓為 1 615 kV 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An important contrast</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061908Z">
