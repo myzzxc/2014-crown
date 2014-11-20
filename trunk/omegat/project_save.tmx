@@ -50052,6 +50052,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To check the insulation to earth an applied voltage test is required as a routine test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212720Z" creationid="Judy" creationdate="20141120T212720Z">
+        <seg>需將施加電壓測試列為例行測試以檢查對地之絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To control fault levels or for other reasons the neutral terminal may be connected to earth through a considerable impedance (for example an arc-suppression reactor, earthing reactor or resistor).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T142110Z" creationid="Judy" creationdate="20141118T142110Z">
