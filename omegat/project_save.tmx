@@ -19928,6 +19928,22 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 61083-1, &lt;t0/&gt;Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for instruments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224957Z" creationid="Judy" creationdate="20141120T224957Z">
+        <seg>IEC 61083-1，&lt;t0/&gt;高電壓突波測試之量測儀器和軟體 - 第 1 部分：儀器要求規範 (Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for instruments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 61083-2, &lt;t0/&gt;Instruments and software used for measurement in high-voltage impulse tests - Part 2: Requirements for software</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T225040Z" creationid="Judy" creationdate="20141120T225040Z">
+        <seg>IEC 61083-2，&lt;t0/&gt;高電壓突波測試之量測儀器和軟體 - 第 2 部分：軟體要求規範 (Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for software)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 61099:2010, &lt;t0/&gt;Insulating liquids - Spec&lt;t1/&gt;ifications for unused synthetic organic esters for electrical purposes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160113Z" creationid="CCYU" creationdate="20141106T155329Z">
@@ -19980,6 +19996,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T091053Z">
         <seg>IEC 62262，電機設備外殼抗外部機械衝擊保護等級 (Degrees of protection provided by enclosures for electrical equipment against external mechanical impact) (IK 規範)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 62271-1&lt;t0/&gt;, High-voltage switchgear and controlgear - Part 1: Common specifications</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T225201Z" creationid="Judy" creationdate="20141120T225201Z">
+        <seg>IEC 62271-1，&lt;t0/&gt;高電壓切換元件和控制元件 - 第 1 部分：一般規格 (High-voltage switchgear and controlgear - Part 1: Common specifications)</seg>
       </tuv>
     </tu>
     <tu>
