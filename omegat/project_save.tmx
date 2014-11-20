@@ -22770,6 +22770,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to shorten the test time and not to reproduce twice the same type of dielectric stress in the transformer, the opportunity to combine these tests is given as the enhancement of the IVPD test gives similar stresses to the IVW and both are made in a configuration similar to the service conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T130642Z" creationid="CCYU" creationdate="20141120T130642Z">
+        <seg>為了縮短測試時間且不重複施加兩次相同類型介電電壓於變壓器，由於加強 IVPD 測試之施加電壓與 IVW 測試類似且皆於與操作環境類似之設置進行，因此可將此類測試結合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In particular an enhancem&lt;t11/&gt;ent voltage of (ViT&lt;t12/&gt;xU&lt;t13/&gt;m&lt;t14/&gt;)/4z&lt;t15/&gt; and a PD measurement voltage of (&lt;t16/&gt;1&lt;t17/&gt;,&lt;t18/&gt;5&lt;t19/&gt;xU&lt;t20/&gt;m&lt;t21/&gt;)/4z&lt;t22/&gt; may be used if higher.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T144056Z" creationid="CCYU" creationdate="20141111T144056Z">
