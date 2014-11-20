@@ -38948,6 +38948,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 2 continues to give a range of possible test voltage values for each &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; to allow the specification of a transformer to match a particular system requirement, whilst providing a minimum standard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T215501Z" creationid="Judy" creationdate="20141120T215501Z">
+        <seg>表 2 給定各 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 可能之測試電壓範圍以使變壓器之規格符合特定系統需求並滿足最低標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 2.&lt;t0/&gt; Replacement Parts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132510Z" creationid="CCYU" creationdate="20141022T132510Z">
