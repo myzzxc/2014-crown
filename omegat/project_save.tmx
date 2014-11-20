@@ -16987,6 +16987,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For non-uniform insulation as the test level is limited by the neutral insulation it is insufficient to prove the line to earth insulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T124823Z" creationid="CCYU" creationdate="20141120T124823Z">
+        <seg>由於非統一絕緣繞組之測試電壓水準受中性絕緣限制，因此不足以驗證線路對地絕緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ongoing installations over an extended period, the special inspector must make regular inspections to confirm correct handling and installation of the product.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T132117Z">
