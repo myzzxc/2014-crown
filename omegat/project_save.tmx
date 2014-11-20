@@ -35292,6 +35292,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rod to structure values have been used for lightning impulse levels &lt; 750 kV and conductor to structure values above 750 kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T222531Z" creationid="Judy" creationdate="20141120T222531Z">
+        <seg>放電棒至結構之數值用於雷擊突波電壓等級 ≤ 750 kV 以及導體至結構數值大於 750 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rod/Wire Mills</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T030126Z">
@@ -53129,6 +53137,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160012Z" creationid="CCYU" creationdate="20141111T160012Z">
         <seg>當同時測試舊與新零件時，測試電壓應經過協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where figures are not given in IEC 60071-1 they have been obtained by linear interpolation rounded to the nearest 10 mm or 100 mm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T222728Z" creationid="Judy" creationdate="20141120T222728Z">
+        <seg>此處的圖表非 IEC 60071-1 所提供，其由線性內插法四捨五入至 10 mm 或 100 mm 而求得。</seg>
       </tuv>
     </tu>
     <tu>
