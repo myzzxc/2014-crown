@@ -40588,6 +40588,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IVPD test checks the quality of the turn to turn and line to earth and phase to phase insulation connected in the service condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212931Z" creationid="Judy" creationdate="20141120T212931Z">
+        <seg>IVPD 測試檢查繞匝間、線路對地和相對相連接於運轉條件下之絕緣品質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IVPD test shall be performed at 100 % of the original test voltage level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160112Z" creationid="CCYU" creationdate="20141111T160112Z">
@@ -45600,6 +45608,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021101Z">
         <seg>未調查自然資源的永續使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The switching impulse test (SI) proves the phase to phase and line to earth withstand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T213014Z" creationid="Judy" creationdate="20141120T213014Z">
+        <seg>開關突波測試 (SI) 驗證相對相以及相對地耐壓。</seg>
       </tuv>
     </tu>
     <tu>
