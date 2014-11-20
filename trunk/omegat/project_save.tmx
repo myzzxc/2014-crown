@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13589,6 +13589,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T141600Z" creationid="Judy" creationdate="20141119T141600Z">
         <seg>E.2.2 72,5 kV &lt; &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤ 170 kV 之變壓器測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E.2.3 Tests for transformers with &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 170 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212100Z" creationid="Judy" creationdate="20141120T212100Z">
+        <seg>E.2.3 變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; &lt;t3/&gt;170 kV 之測試</seg>
       </tuv>
     </tu>
     <tu>
