@@ -14577,6 +14577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Except for &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; below 36 kV where the practices in use are somewhat different, the general rule is followed with only limited discrepancies to reflect existing practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T221238Z" creationid="Judy" creationdate="20141120T221238Z">
+        <seg>除 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; 低於 36 kV 外，因其實際使用上略有不同而與一般原則有些許差異以符合實際情況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Except on principal tap, when compared with the transformer in example 1, this transformer will have different &lt;t2/&gt;ohmic&lt;t3/&gt; impedances and therefore different short circuit currents are available at the LV even when the HV voltage and tap-position are the same.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T161004Z">
