@@ -22970,6 +22970,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, oscillations not greater than ±10 % should be aimed at, even with extensions to the front time as necessary and as agr&lt;t4/&gt;eed between manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160517Z" creationid="Judy" creationdate="20141122T160517Z">
+        <seg>一般情況下，即使超出所需波前時間也應維持震盪小於 ±10 %，並由製造商和買方之間達成協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, the injection phase of the expansion chamber is the ejection phase of &lt;t0/&gt;the compression chamber, and vice versa.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T100517Z">
@@ -47793,6 +47801,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T225646Z" creationid="Judy" creationdate="20141113T225646Z">
         <seg>測試記錄應包含測試電壓值 (使用濾波器或校正超越量後，&lt;t0/&gt;U&lt;t1/&gt;t&lt;t2/&gt; 請見 IEC 60060-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of the test voltage is determined according to the principles of IEC 60060-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160612Z" creationid="Judy" creationdate="20141122T160612Z">
+        <seg>測試電壓值依據 IEC 60060-1 之原則所決定。</seg>
       </tuv>
     </tu>
     <tu>
