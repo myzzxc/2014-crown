@@ -21073,6 +21073,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it is considered desirable to have a short front time (preferably within the specified limits) then oscillations and/or overshoots greater than ±5 % of the peak voltage, allowed in IEC 60060-1, may have to be acce&lt;t3/&gt;pted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T155952Z" creationid="Judy" creationdate="20141122T155952Z">
+        <seg>如需獲得短波前時間 (盡量低於指定限制) ，依據 IEC 60060-1 規範則允許震盪和超越量大於電壓峰值 ±5 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it’s not stored in a tank farm, it will be stored in drums.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T100854Z">
