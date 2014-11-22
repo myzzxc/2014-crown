@@ -8862,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before a test, an overall check of the test circuit and the measuring system may be performed at a voltage lower than the reduced voltage level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T153157Z" creationid="Judy" creationdate="20141122T153157Z">
+        <seg>測試前可以低於降低電壓水準之電壓進行測試電路與量測系統之整體檢查，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before an impulse of opposite polarity is applied, sufficient time should be allowed for any residual charge to dissipate.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135902Z" creationid="CCYU" creationdate="20141113T135902Z">
