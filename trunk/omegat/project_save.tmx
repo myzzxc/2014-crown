@@ -6311,8 +6311,8 @@
       <tuv lang="EN-US">
         <seg>Alternative means of switching impulse generation or simulation such as d.c.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T040743Z" creationid="Judy" creationdate="20141122T040743Z">
-        <seg>其它開關突波產生或模擬之方法如直流</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T041037Z" creationid="Judy" creationdate="20141122T040743Z">
+        <seg>其它開關突波產生或模擬如於中或低電壓繞組上中斷直流</seg>
       </tuv>
     </tu>
     <tu>
@@ -12684,6 +12684,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125218Z" creationid="CCYU" creationdate="20141106T125218Z">
         <seg>可依製造商和買方之間協議使用不同之配置，但由於感測器和光纖電纜非常脆弱，其數量應考慮繞組於工廠進行不同操作及應力下損害之風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different considerations in the choice of test circuits (terminal connections) for lightning and switching impulse tests apply for transformers and reactors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T041412Z" creationid="Judy" creationdate="20141122T041412Z">
+        <seg>選擇變壓器和電抗器之雷擊或開關突波測試電路 (端子連接) 有不同的考量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -56296,8 +56304,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>current interruption on an intermediate or low-voltage winding or the application of a part-period of power frequency voltage are not discussed since these methods are not a&lt;t0/&gt;s generally applicable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T040808Z" creationid="Judy" creationdate="20141122T040808Z">
-        <seg>電流中斷current interruption on an intermediate or low-voltage winding or the application of a part-period of power frequency voltage are not discussed since these methods are not a&lt;t0/&gt;s generally applicable.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T041116Z" creationid="Judy" creationdate="20141122T040808Z">
+        <seg>電流或輸入部分區間之電源頻率電壓之方法由於並非一般性適用而未於此處討論。</seg>
       </tuv>
     </tu>
     <tu>
