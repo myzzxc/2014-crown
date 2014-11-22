@@ -23811,6 +23811,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the impulse testing of large power transformers and reactors, of low winding inductance and/or high surge capacitance&lt;t0/&gt;, wider tolerances may have to be accepted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T155019Z" creationid="Judy" creationdate="20141122T155019Z">
+        <seg>具有低繞組電感和高突波電容之大型變壓器和電抗器的突波測試中，可容許較大的公差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the injection phase, impingement heat transfer is the major heat transfer mechanism which allows gas to be heated (in expansion chamber) or be cooled (in the compression chamber) very effectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213638Z">
@@ -47841,6 +47849,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155348Z">
         <seg>史特林引擎之幾何參數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values of waveshape specified may not always be obtainable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T154825Z" creationid="Judy" creationdate="20141122T154825Z">
+        <seg>指定之波形並非永遠可達到，</seg>
       </tuv>
     </tu>
     <tu>
