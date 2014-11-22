@@ -61868,8 +61868,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>waveshaping components, both internal and external to the generator, &lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;, R&lt;t3/&gt;se&lt;t4/&gt;, R&lt;t5/&gt;p&lt;t6/&gt;, C\_ &lt;t7/&gt;(plus, where applicable, the impedance of a voltage divider &lt;t8/&gt;Z-\)\</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T075836Z" creationid="Judy" creationdate="20141122T063344Z">
-        <seg>產生器內部和外部之波型產生項，&lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;、R&lt;t3/&gt;se&lt;t4/&gt;、R&lt;t5/&gt;p&lt;t6/&gt;、 CL&lt;t7/&gt; (加上電壓plus, where applicable, the impedance of a voltage divider &lt;t8/&gt;Z-\)\</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T080021Z" creationid="Judy" creationdate="20141122T063344Z">
+        <seg>產生器內部和外部之波型產生項，&lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;、R&lt;t3/&gt;se&lt;t4/&gt;、R&lt;t5/&gt;p&lt;t6/&gt;、 CL&lt;t7/&gt; (加上電壓分配阻抗 &lt;t8/&gt;Z1，如適用)；</seg>
       </tuv>
     </tu>
     <tu>
