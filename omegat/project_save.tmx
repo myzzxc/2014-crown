@@ -41652,6 +41652,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The arrange&lt;t0/&gt;ment of the test plant, test object and the interconnecting cables, earthing strips, and other equipment is limited by the space in the test room and, particularly, the proximity effect of any structures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T145840Z" creationid="Judy" creationdate="20141122T145840Z">
+        <seg>測試裝置、測試目標和內部連接電纜、接地片以及其它設備受測試空間所限制，特別於任何結構受鄰近影響時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The assumption of uniform chamber temperatures and the use of constant heat transfer coefﬁcients to account for heat transfer adopted by some zero&lt;t0/&gt;- &lt;t1/&gt;or one-dimensional models are too crude to reﬂect the reality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213316Z">
