@@ -6309,6 +6309,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative means of switching impulse generation or simulation such as d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T040743Z" creationid="Judy" creationdate="20141122T040743Z">
+        <seg>其它開關突波產生或模擬之方法如直流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively if specified by the purchaser and in special cases such as one single phase transformer, or multiple tap-changers, or when the tapping-range is not symmetrical, the tap- position which gives the highest internal voltages (determined either by calculation or by performing low voltage impulse measurements) shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T222624Z" creationid="Judy" creationdate="20141113T222624Z">
@@ -56282,6 +56290,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T123842Z" creationid="CCYU" creationdate="20141104T123842Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current interruption on an intermediate or low-voltage winding or the application of a part-period of power frequency voltage are not discussed since these methods are not a&lt;t0/&gt;s generally applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T040808Z" creationid="Judy" creationdate="20141122T040808Z">
+        <seg>電流中斷current interruption on an intermediate or low-voltage winding or the application of a part-period of power frequency voltage are not discussed since these methods are not a&lt;t0/&gt;s generally applicable.</seg>
       </tuv>
     </tu>
     <tu>
