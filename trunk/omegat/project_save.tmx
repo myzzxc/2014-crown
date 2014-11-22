@@ -42380,6 +42380,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current return path between the tes&lt;t0/&gt;t object and the impulse generator should be of low impedance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151243Z" creationid="Judy" creationdate="20141122T151243Z">
+        <seg>測試目標和突波產生器之間的電流返回路徑應為低阻抗，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The curves, that give factor &lt;t0/&gt;Q&lt;t1/&gt; as a function of rated power and conductor strand height, were obtained as average of a number of cases for which the calculation was made by means of computer programs and confirmed by experimental results.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121249Z" creationid="CCYU" creationdate="20141102T121149Z">
