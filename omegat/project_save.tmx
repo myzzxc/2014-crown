@@ -23947,6 +23947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this check, voltage may&lt;t1/&gt; be determined by means of a sphere gap or by comparative measurement with another approved device.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T153430Z" creationid="Judy" creationdate="20141122T153430Z">
+        <seg>此檢查之電壓可藉由球形間隙或與其他核准裝置進行比較性量測以決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this equation, the heat transfer from solid wall (surrounding) to gas (thermodynamic system) is positive, and that from gas to wall is negative.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T170915Z">
