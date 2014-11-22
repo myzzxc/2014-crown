@@ -23427,6 +23427,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In switching impulse testing, since the rates of change of the impulse volt&lt;t0/&gt;ages and currents are much reduced compared with those in.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152350Z" creationid="Judy" creationdate="20141122T152350Z">
+        <seg>開關突波測試中，由於突波電壓和電流變化率相對雷擊突波測試已大幅降低In switching impulse testing, since the rates of change of the impulse volt&lt;t0/&gt;ages and currents are much reduced compared with those in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In tectonics, there is an anticline, called the Tsukeng anticline, in the southeast of the landslide area, and the azimuth of the left limb is N135°W, 19°N.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043619Z">
@@ -47889,6 +47897,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132720Z" creationid="CCYU" creationdate="20141112T132720Z">
         <seg>電壓感應分佈於變壓器整組繞組上，線路端子為開路且測試相之線路端子電壓依變壓器繞匝比決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The voltage measuring circuit, which is a separate loop of the test object carrying on&lt;t0/&gt;ly the measuring current and not any major portion of the impulse current flowing through the windings under test, should also be effectively connected to the same reference earth,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152140Z" creationid="Judy" creationdate="20141122T152140Z">
+        <seg>電壓量測電路為與測試目標分開之迴路，其僅有量測電流通過且於測試時無任何突波電流的主要部分通過，電路也應有效地連接至相同的參考地線。</seg>
       </tuv>
     </tu>
     <tu>
