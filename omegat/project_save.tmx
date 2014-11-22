@@ -23429,8 +23429,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In switching impulse testing, since the rates of change of the impulse volt&lt;t0/&gt;ages and currents are much reduced compared with those in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152350Z" creationid="Judy" creationdate="20141122T152350Z">
-        <seg>開關突波測試中，由於突波電壓和電流變化率相對雷擊突波測試已大幅降低In switching impulse testing, since the rates of change of the impulse volt&lt;t0/&gt;ages and currents are much reduced compared with those in.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152404Z" creationid="Judy" creationdate="20141122T152350Z">
+        <seg>開關突波測試中，由於突波電壓和電流變化率相對雷擊突波測試已大幅降低</seg>
       </tuv>
     </tu>
     <tu>
@@ -55122,6 +55122,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T125853Z" creationid="CCYU" creationdate="20141117T125853Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a lightning impulse test and no chopping circuit is involved, the problems of potential gradients around the test circuit and with respect to the reference earth are less critical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152545Z" creationid="Judy" creationdate="20141122T152545Z">
+        <seg>且無使用截波電路，測試電路與其參考地線之電位差的問題較不嚴重，</seg>
       </tuv>
     </tu>
     <tu>
