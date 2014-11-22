@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -962,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042430Z" creationid="MAE" creationdate="20141119T042430Z">
         <seg>，因此根據表 2 最低施加電壓等級為 70 kV。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031752Z" creationid="Judy" creationdate="20141122T031752Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5285,6 +5293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ability to withstand short-circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031828Z" creationid="Judy" creationdate="20141122T031828Z">
+        <seg>短路電流承受力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abs &lt;t0/&gt;Sums</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130403Z" creationid="CCYU" creationdate="20141105T130403Z">
@@ -7189,6 +7205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Annexes A and B are for&lt;t0/&gt; information only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025741Z" creationid="Judy" creationdate="20141122T025741Z">
+        <seg>附錄 A 和 B 僅供參考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another important factor is that there are typhoons every year during summer time which have changed &lt;t0/&gt;vegetations&lt;t1/&gt; or even destroyed the morphology especially in mountain area in Taiwan.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142934Z">
@@ -7297,6 +7321,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222143Z" creationid="JUDY" creationdate="20141026T222143Z">
         <seg>任何 IEC 出版物和其相應的國家或區域性出版物之間的差異應標示在後方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any divergence between the IEC Standar&lt;t0/&gt;d and the corresponding national or regional standard shall be clearly indicated in the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025120Z" creationid="Judy" creationdate="20141122T025120Z">
+        <seg>任何 IEC 標準和其相應的國家或區域性出版物之間的差異應標示在後方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7513,6 +7545,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023752Z" creationid="CCYU" creationdate="20141025T023752Z">
         <seg>適用標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application guide</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032126Z" creationid="Judy" creationdate="20141122T032126Z">
+        <seg>應用指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -8297,6 +8337,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134441Z">
         <seg>請注意此 IEC 出版物的某些內容可能具有專利，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attention is drawn to the possibility that some of the elements of this International Standard may be the subject of patent rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025412Z" creationid="Judy" creationdate="20141122T025412Z">
+        <seg>請注意此國際標準的某些內容可能具有專利，</seg>
       </tuv>
     </tu>
     <tu>
@@ -12472,6 +12520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determination of sound levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032145Z" creationid="Judy" creationdate="20141122T032145Z">
+        <seg>音量等級測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Determination of the average winding to liquid temperature gradient</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T160347Z" creationid="CCYU" creationdate="20141101T160347Z">
@@ -14861,6 +14917,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135905Z" creationid="CCYU" creationdate="20141028T135905Z">
         <seg>F：強制循環流經冷卻設備，繞組中為虹吸管流；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;or dated references, only the edition cited applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033606Z" creationid="Judy" creationdate="20141122T033606Z">
+        <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18588,6 +18652,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guide to lightning impulse&lt;t0/&gt; and switching</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031728Z" creationid="Judy" creationdate="20141122T030045Z">
+        <seg>閃電脈衝和切換脈衝測試指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guideline for Europe&lt;t0/&gt;an technical approval of "Metal &lt;t1/&gt;anchors for use in conc&lt;t2/&gt;rete", ETAG 001 Part 5: "Bonded anchors", April 2013, &lt;t3/&gt;used as Eur&lt;t4/&gt;opean Assessment Document (EAD) &lt;t5/&gt;according to Article 66&lt;t6/&gt; Paragraph 3 of Regulation (EU) &lt;t7/&gt;No 305/2011.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T101949Z">
@@ -19342,6 +19414,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the method which employs an additional inductance in series with the capacitor to provide slightly damped oscillations transferred into the high- voltage winding is not applic&lt;t1/&gt;able.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T034729Z" creationid="Judy" creationdate="20141122T034518Z">
+        <seg>然而，使用額外電感與電容串聯以產生些許阻尼震盪轉移至高電壓繞組之方法不適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the phase-lag effect is less pronounced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T084529Z">
@@ -19622,10 +19702,26 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60060-1, &lt;t0/&gt;High-voltage test techniques - Part 1: General definitions and test requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033628Z" creationid="Judy" creationdate="20141122T033628Z">
+        <seg>IEC 60060-1，&lt;t0/&gt;高電壓測試技術 — 第 1 部份：一般定義及測試規範 (High-voltage test techniques -  Part 1: General definitions and test requirements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60060-1, &lt;t0/&gt;High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 1: General definitions and test requirements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T151101Z" creationid="CCYU" creationdate="20141107T151101Z">
         <seg>IEC 60060-1，&lt;t0/&gt;高電壓測試技術 — 第 1 部份：一般定義及測試規範 (High-voltage test techniques&lt;t1/&gt; - &lt;t2/&gt;Part 1: General definitions and test requirements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60060-2, &lt;t0/&gt;High-voltage test techniques - Part 2: Measuring systems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033644Z" creationid="Judy" creationdate="20141122T033644Z">
+        <seg>IEC 60060-2，&lt;t0/&gt;高電壓測試技術 — 第 2 部份：量測系統 (High-voltage test techniques - Part 2: Measuring systems)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19666,6 +19762,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224755Z" creationid="Judy" creationdate="20141120T224659Z">
         <seg>IEC 60071-2，&lt;t0/&gt;絕緣協調 - 第 2 部分：使用指南 (Insulation co-ordination - Part 2: Application guide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076 consists of the following parts, under the general title &lt;t0/&gt;Power transformers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025927Z" creationid="Judy" creationdate="20141122T025927Z">
+        <seg>IEC 60076 標題 ‘電力變壓器中’ 中包含以下部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19731,6 +19835,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T134112Z">
         <seg>IEC 60076-2，電力變壓器 — 第 2 部分：油浸式變壓器升溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 60076-3, &lt;t0/&gt;Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033733Z" creationid="Judy" creationdate="20141122T033649Z">
+        <seg>IEC 60076-3，&lt;t0/&gt;電力變壓器 — 第 3 部分：絕緣等級、介電試驗和外部空間間隙 (Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19879,6 +19991,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60289, &lt;t0/&gt;Reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033804Z" creationid="Judy" creationdate="20141122T033804Z">
+        <seg>IEC 60289，&lt;t0/&gt;電抗器 (Reactors)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60296:2003, &lt;t0/&gt;Fluids for &lt;t1/&gt;electrotechnical applications - Unused mineral insulating oils for transformers and switchgear</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T160134Z" creationid="CCYU" creationdate="20141106T154519Z">
@@ -19936,10 +20056,26 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 61083-1, &lt;t0/&gt;Instruments and software used for measuremen&lt;t1/&gt;t in high-voltage impulse tests&lt;t2/&gt; - &lt;t3/&gt;Part 1: Requirements for instruments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033907Z" creationid="Judy" creationdate="20141122T033907Z">
+        <seg>IEC 61083-1，&lt;t0/&gt;高電壓突波測試之量測儀器和軟體 - 第 1 部分：儀器要求規範 (Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for instruments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 61083-1, &lt;t0/&gt;Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for instruments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T224957Z" creationid="Judy" creationdate="20141120T224957Z">
         <seg>IEC 61083-1，&lt;t0/&gt;高電壓突波測試之量測儀器和軟體 - 第 1 部分：儀器要求規範 (Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for instruments)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IEC 61083-2, &lt;t0/&gt;Digital recorders for measurements in high-voltage impulse tests — Part 2: Evaluation of software used for the determination of the parameters of impu&lt;t1/&gt;lse waveforms</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033915Z" creationid="Judy" creationdate="20141122T033915Z">
+        <seg>IEC 61083-2，&lt;t0/&gt;高電壓突波測試之量測儀器和軟體 - 第 2 部分：軟體要求規範 (Instruments and software used for measurement in high-voltage impulse tests — Part 1: Requirements for software)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22898,6 +23034,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to promote international unification, IEC National Committees undertake to apply IEC International Standards transparently to the maximum extent possible in their national and regional standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025055Z" creationid="Judy" creationdate="20141122T025055Z">
+        <seg>為了促進國際上統一，IEC 國家委員會盡最大努力使 IEC 出版物適用於其國家和區域性的標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to promote international uniformit&lt;t0/&gt;y, IEC National Committees undertake to apply IEC Publications transparently to the maximum extent possible in their national and regional publications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222134Z" creationid="JUDY" creationdate="20141026T222134Z">
@@ -24091,6 +24235,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information is given on waveshapes, test circuits including test connections, earthing practices, failure detection methods, test procedures&lt;t0/&gt;, measuring techniques and interpretation of results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033354Z" creationid="Judy" creationdate="20141122T033354Z">
+        <seg>所提供資訊包含波形、包含測試連接之測試電路、接地方式、故障檢測方法、測試程序、量測技術以及結果解析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information on basic physical and chemical properties</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142250Z">
@@ -24667,6 +24819,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulation levels, dielectric tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025952Z" creationid="Judy" creationdate="20141122T025952Z">
+        <seg>絕緣等級、介電試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation of auxiliary wiring (AuxW)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160444Z" creationid="CCYU" creationdate="20141111T160444Z">
@@ -24747,6 +24907,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internation&lt;t2/&gt;al, governmental and non-governmental organizations liaising with the IEC also participate in this preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024812Z" creationid="Judy" creationdate="20141122T024812Z">
+        <seg>與 IEC 相關之國際性政府和非政府組織也參與籌劃工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>International Standard IEC 60076-1 has been prepared by IEC technical committee 14: Power transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134609Z">
@@ -24775,6 +24943,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115822Z" creationid="CCYU" creationdate="20141107T115822Z">
         <seg>國際標準 IEC 60076-3 由 IEC 技術委員會 14 出版：電力變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>International Standard IEC &lt;t0/&gt;60076-4 has been prepared by.IEC technical committee 14: Power transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025439Z" creationid="Judy" creationdate="20141122T025439Z">
+        <seg>國際標準 IEC 60076-1 由 IEC 技術委員會 14 出版：電力變壓器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25111,6 +25287,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153758Z">
         <seg>同時也能解出由細微幾何尺寸變化造成之效應，且具有潛力作為設計與發展新型史特林引擎的良好工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also generally applicable to the&lt;t0/&gt; testing of reactors (see IEC 60289), modifications to power transformer procedures being indicated where required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033146Z" creationid="Judy" creationdate="20141122T033146Z">
+        <seg>其內容同時適用於電抗器之測試 (請見 IEC 60289)，並指明當有需求時針對電力變壓器程序之修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32459,6 +32643,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Part 10:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032131Z" creationid="Judy" creationdate="20141122T032131Z">
+        <seg>第 10 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 1:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025937Z" creationid="Judy" creationdate="20141122T025937Z">
+        <seg>第 1 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Part 1: General</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T123815Z">
@@ -32467,10 +32667,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Part 2:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025941Z" creationid="Judy" creationdate="20141122T025941Z">
+        <seg>第 2 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Part 2: Temperature rise for liquid-immersed transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T221934Z" creationid="JUDY" creationdate="20141026T221934Z">
         <seg>第 2 部分：油浸式變壓器升溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 3:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025945Z" creationid="Judy" creationdate="20141122T025945Z">
+        <seg>第 3 部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32487,6 +32703,38 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145525Z" creationid="CCYU" creationdate="20141107T145525Z">
         <seg>第 3 部分：絕緣等級、介電試驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 4:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030049Z" creationid="Judy" creationdate="20141122T030049Z">
+        <seg>第 4 部份：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 4: Guide to the lightning impulse and switching impulse testing -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T012441Z" creationid="Judy" creationdate="20141122T012441Z">
+        <seg>第 4 部份：閃電脈衝和切換脈衝測試指南 — </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 5:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031812Z" creationid="Judy" creationdate="20141122T031812Z">
+        <seg>第 5 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 8:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031855Z" creationid="Judy" creationdate="20141122T031855Z">
+        <seg>第 8 部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33119,6 +33367,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114314Z">
         <seg>電源供應： 220 - 240 V~ 50 Hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power transformers and</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031801Z" creationid="Judy" creationdate="20141122T031801Z">
+        <seg>電力變壓器和電抗器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power transformers and &lt;t0/&gt;reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032459Z" creationid="Judy" creationdate="20141122T032459Z">
+        <seg>電力變壓器和電抗器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power transformers and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T012445Z" creationid="Judy" creationdate="20141122T012445Z">
+        <seg>電力變壓器和電抗器</seg>
       </tuv>
     </tu>
     <tu>
@@ -40764,6 +41036,38 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The IEC (International Electrotechnical Commission) is a worldwide organization &lt;t0/&gt;for standardization comprising all national electrotechnical committees (IEC National Committees).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024545Z" creationid="Judy" creationdate="20141122T024545Z">
+        <seg>國際電工委員會 (IEC) 為一間世界性的標準制定組織，由所有國家電工委員會 (IEC 國家委員會) 組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IEC collaborates closely with the International Organization for Standardization (ISO) in accordance with conditions determined by agreement&lt;t3/&gt; between the two organizations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024816Z" creationid="Judy" creationdate="20141122T024816Z">
+        <seg>IEC 與國際標準化組織 (ISO) 緊密合作並藉由協定確立兩個組織之間的標準條件相符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IEC provides no marking procedure to indicate its approval and cannot be rendered responsible for any equipment declared to be in conformity with one of its&lt;t0/&gt; standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025346Z" creationid="Judy" creationdate="20141122T025346Z">
+        <seg>IEC 未提供認證認證標章且不為任何宣稱符合其標準之設備背書。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IEC shall not be held responsible for identifying any or all such patent rights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025418Z" creationid="Judy" creationdate="20141122T025418Z">
+        <seg>IEC 無須負責標示任何或所有的專利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The IVPD test checks the quality of the turn to turn and line to earth and phase to phase insulation connected in the service condition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212931Z" creationid="Judy" creationdate="20141120T212931Z">
@@ -41692,6 +41996,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The committee has decided that the contents of this publication will remain unchang&lt;t0/&gt;ed until 2007.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032403Z" creationid="Judy" creationdate="20141122T032403Z">
+        <seg>委員會決議此出版物的內容將保持不變至 2007 年。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t0/&gt;http://webstore.iec.ch&lt;t1/&gt;" in the data related to the specific publ&lt;t2/&gt;ication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142540Z" creationid="CCYU" creationdate="20141107T142540Z">
@@ -42168,6 +42480,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105525Z">
         <seg>應量測並紀錄參考點至油槽壁之垂直距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The documents produced have the form of recommendations for international use and are published in the form of standards, technical specifications, technical reports or guides and they are accepted by the National Committees in&lt;t0/&gt; that sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025024Z" creationid="Judy" creationdate="20141122T024939Z">
+        <seg>IEC 出版物附有供國際使用之建議表並以標準、技術規格、技術報告或指南的形式出版，其為所有 IEC 國家委員會所接受。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42831,6 +43151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>The formal decisions or agreements of IEC on technical matters express, as nearly as possible, an international consensus of opinion on&lt;t0/&gt; the relevant subjects since each technical committee has representation from all interested IEC National Committees.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222017Z" creationid="JUDY" creationdate="20141026T222017Z">
+        <seg>由於每個技術委員會代表所有感興趣之 IEC 國家委員會，IEC 技術事項之正式決議或同意書代表國際間對於相關主題的意見一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The formal decisions or agreements of the IEC on technical matters express, as nearly as possible, an international consensus of opinion on the relevant subjects since each technical committee has representation from all int&lt;t0/&gt;erested National Committees.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024823Z" creationid="Judy" creationdate="20141122T024823Z">
         <seg>由於每個技術委員會代表所有感興趣之 IEC 國家委員會，IEC 技術事項之正式決議或同意書代表國際間對於相關主題的意見一致。</seg>
       </tuv>
     </tu>
@@ -44172,6 +44500,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The object of the IEC is to promote international co-operation on all questions concerning standardization in the electrical and electronic fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024551Z" creationid="Judy" creationdate="20141122T024551Z">
+        <seg>IEC 成立宗旨為促進電子和電機領域標準化之國際性合作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The objective of this study is to perform CFD&lt;t20/&gt; &lt;t21/&gt;simulation on the working cycle of a &lt;t22/&gt;γ-type Stirling engine to re&lt;t23/&gt;veal the characteristics of its heat transfer processes in great detail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T090451Z">
@@ -44528,6 +44864,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103854Z">
         <seg>實務上對預測當氣體流經移動式再生器時之氣體溫度可能有較低的準確性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The practice of switching impulse generation with discharge of a separate ca&lt;t0/&gt;pacitor into an intermediate or low-voltage winding is also applicable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T034521Z" creationid="Judy" creationdate="20141122T034421Z">
+        <seg>以獨立電容放電至中或低電壓繞組產生開關突波之方式也適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46652,6 +46996,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text of this standard is based on the follo&lt;t0/&gt;wing documents:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025656Z" creationid="Judy" creationdate="20141122T025656Z">
+        <seg>此標準之內文建立下列文件上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The text of this standard is based on the following documents:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T140649Z">
@@ -48756,6 +49108,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This International Standard cancels and replaces IEC 60722 published in 1982 and constitutes a technical revision of that document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025650Z" creationid="Judy" creationdate="20141122T025650Z">
+        <seg>此國際標準取代 1982 年發行 之 IEC 60722 並包含針對該文件之技術修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Junction Box assembly can be used in both Zone1 and Zone2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025239Z" creationid="CCYU" creationdate="20141025T025239Z">
@@ -49508,6 +49868,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This part of IEC 60076 gives guidance and explanatory comments on the existing procedures for lightning and switching impulse testing of power transformers to supplement the requirements of IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032906Z" creationid="Judy" creationdate="20141122T032853Z">
+        <seg>IEC 60076 此部分提供現有電壓變壓器雷擊和開關突波測試之指南和說明，作為 IEC 60076-3 規範之補充，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This part of IEC 60076 specifies the insulation requirements and the corresponding insulation tests with reference to specific windings and their terminals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T143938Z" creationid="CCYU" creationdate="20141107T143938Z">
@@ -49652,6 +50020,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This publication has been drafted in accordance with the &lt;t0/&gt;ISO/IEC Directives, Part 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025713Z" creationid="Judy" creationdate="20141122T025713Z">
+        <seg>此出版物依據 ISO/IEC 指令，第 3 部分草擬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This publication has been drafted in accordance with the IS&lt;t0/&gt;O/IEC Directives, Part 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142518Z" creationid="CCYU" creationdate="20141107T142518Z">
@@ -49744,6 +50120,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135518Z" creationid="CCYU" creationdate="20141115T135518Z">
         <seg>此標準不適用套管零件本身之間隙，而套管長度需大於套管通過要求之測試所給定的間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This standard is primarily based on the use of conventional impulse generators for both lightning and switching impulse testing of transformers and reactors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T034218Z" creationid="Judy" creationdate="20141122T034218Z">
+        <seg>此標準針對變壓器和電抗器之雷擊和開關突波測試主要使用傳統突波產生器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50481,6 +50865,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T100144Z">
         <seg>To the best of our knowledge no harmful effects are to be expected if the product is handled and used properly. 若正確的處理和使用產品，盡我們所知無危害性影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To this e&lt;t1/&gt;nd and in addition to other activities, the IEC publishes International Standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T024744Z" creationid="Judy" creationdate="20141122T024744Z">
+        <seg>對此 IEC 出版了國際標準，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53221,6 +53613,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where applicable, the test techniques are as recommended in IEC 60060-1 and IEC 60060-2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033556Z" creationid="Judy" creationdate="20141122T033556Z">
+        <seg>測試技術如適用時依據 IEC 60060-1 和 IEC 60060-2 中所建議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where both old and new parts are tested at the same time then an agreement on the test voltage level shall be reached.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160012Z" creationid="CCYU" creationdate="20141111T160012Z">
@@ -54869,6 +55269,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030018Z" creationid="Judy" creationdate="20141122T030018Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>all the &lt;t0/&gt;100&lt;t1/&gt; % level impulse records.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054105Z" creationid="CCYU" creationdate="20141115T054105Z">
@@ -55602,6 +56010,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T150448Z" creationid="CCYU" creationdate="20141115T150448Z">
         <seg>同一繞組各相之間的相對相間隙；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clearances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030004Z" creationid="Judy" creationdate="20141122T030004Z">
+        <seg>空間間隙</seg>
       </tuv>
     </tu>
     <tu>
@@ -56462,6 +56878,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>external</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030007Z" creationid="Judy" creationdate="20141122T030007Z">
+        <seg>外部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>external cooling medium</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T104107Z" creationid="MAE" creationdate="20141028T104107Z">
@@ -57114,6 +57538,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T154506Z">
         <seg>阻抗：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>impulse</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031740Z" creationid="Judy" creationdate="20141122T031740Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -58870,6 +59302,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031806Z" creationid="Judy" creationdate="20141122T031806Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reactors in general (IEC 60076-6);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132233Z">
@@ -58882,6 +59322,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141553Z">
         <seg>重新確認，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reconfirmed;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032413Z" creationid="Judy" creationdate="20141122T032413Z">
+        <seg>重新確認；</seg>
       </tuv>
     </tu>
     <tu>
@@ -59746,6 +60194,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142909Z" creationid="CCYU" creationdate="20141112T142909Z">
         <seg>測試頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>testing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031745Z" creationid="Judy" creationdate="20141122T031745Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -61662,6 +62118,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141600Z">
         <seg>撤回，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>withdrawn;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032423Z" creationid="Judy" creationdate="20141122T032423Z">
+        <seg>撤回；</seg>
       </tuv>
     </tu>
     <tu>
