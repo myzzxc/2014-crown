@@ -43270,8 +43270,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The front time &lt;t0/&gt;T\&lt;t1/&gt; is determined mainly by combination of the effective surge capacitance of the test object, including &lt;t2/&gt;Cl,&lt;t3/&gt; and the generator internal and external series resistances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T142735Z" creationid="Judy" creationdate="20141122T142735Z">
-        <seg>波前時間 &lt;t0/&gt;T\&lt;t1/&gt; is determined mainly by combination of the effective surge capacitance of the test object, including &lt;t2/&gt;Cl,&lt;t3/&gt; and the generator internal and external series resistances.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T143103Z" creationid="Judy" creationdate="20141122T142735Z">
+        <seg>波前時間 &lt;t0/&gt;T1&lt;t1/&gt; 主要由測試目標包含 &lt;t2/&gt;CL&lt;t3/&gt; 之有效突波電容和產生器之外部和內部串聯電阻之組合而決定。</seg>
       </tuv>
     </tu>
     <tu>
