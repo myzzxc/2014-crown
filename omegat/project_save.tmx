@@ -43134,8 +43134,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The following parameters influence the impulse waveshape;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062226Z" creationid="Judy" creationdate="20141122T062226Z">
-        <seg>下列為影響突波波型之參數：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144100Z" creationid="Judy" creationdate="20141122T062226Z">
+        <seg>下列為影響突波波形之參數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50950,8 +50950,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>To meet the different requirement&lt;t0/&gt;s of the waveshape for lightning and switching impulses, due consideration has to be given to the selection of the impulse generator parameters, such as capacitance and series and discharge (parallel) resistances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144017Z" creationid="Judy" creationdate="20141122T144017Z">
-        <seg>為了滿足雷擊和開關突波之不同波形要求規範，To meet the different requirement&lt;t0/&gt;s of the waveshape for lightning and switching impulses, due consideration has to be given to the selection of the impulse generator parameters, such as capacitance and series and discharge (parallel) resistances.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144435Z" creationid="Judy" creationdate="20141122T144017Z">
+        <seg>為了滿足雷擊和開關突波之不同波形要求規範，應仔細考量突波產生器參數之選擇，如電容以及串聯和放電 (並聯) 電阻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60584,8 +60584,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the effective capacitance C&lt;t0/&gt;t&lt;t1/&gt;, and inductance of the test object, 7,&lt;t2/&gt;t&lt;t3/&gt;; Qis constant for any given design and any given wavesha&lt;t4/&gt;pe, L&lt;t5/&gt;t&lt;t6/&gt; is also a constant for any given design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062630Z" creationid="Judy" creationdate="20141122T062630Z">
-        <seg>有效電容 C&lt;t0/&gt;t&lt;t1/&gt;，測試目標電感 L&lt;t2/&gt;t&lt;t3/&gt;；Ct 於任何給定設計和任何給定波型皆為常數，L&lt;t5/&gt;t&lt;t6/&gt; 於任何給定設計下為常數。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144108Z" creationid="Judy" creationdate="20141122T062630Z">
+        <seg>有效電容 C&lt;t0/&gt;t&lt;t1/&gt;，測試目標電感 L&lt;t2/&gt;t&lt;t3/&gt;；Ct 於任何給定設計和任何給定波形皆為常數，L&lt;t5/&gt;t&lt;t6/&gt; 於任何給定設計下為常數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60704,8 +60704,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the main circuit including &lt;t0/&gt;the impulse generator, additional waveshaping components and the test object;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T063420Z" creationid="Judy" creationdate="20141122T043901Z">
-        <seg>包含突波產生器、額外波型產生項以及測試目標之主要電路； </seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144056Z" creationid="Judy" creationdate="20141122T043901Z">
+        <seg>包含突波產生器、額外波形產生項以及測試目標之主要電路； </seg>
       </tuv>
     </tu>
     <tu>
@@ -61940,8 +61940,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>waveshaping components, both internal and external to the generator, &lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;, R&lt;t3/&gt;se&lt;t4/&gt;, R&lt;t5/&gt;p&lt;t6/&gt;, C\_ &lt;t7/&gt;(plus, where applicable, the impedance of a voltage divider &lt;t8/&gt;Z-\)\</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T080021Z" creationid="Judy" creationdate="20141122T063344Z">
-        <seg>產生器內部和外部之波型產生項，&lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;、R&lt;t3/&gt;se&lt;t4/&gt;、R&lt;t5/&gt;p&lt;t6/&gt;、 CL&lt;t7/&gt; (加上電壓分配阻抗 &lt;t8/&gt;Z1，如適用)；</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144115Z" creationid="Judy" creationdate="20141122T063344Z">
+        <seg>產生器內部和外部之波形產生項，&lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;、R&lt;t3/&gt;se&lt;t4/&gt;、R&lt;t5/&gt;p&lt;t6/&gt;、 CL&lt;t7/&gt; (加上電壓分配阻抗 &lt;t8/&gt;Z1，如適用)；</seg>
       </tuv>
     </tu>
     <tu>
