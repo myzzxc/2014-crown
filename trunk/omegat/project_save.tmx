@@ -9734,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152746Z" creationid="Judy" creationdate="20141122T152746Z">
+        <seg>測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canadian Sphagnum Peat Moss 100%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
@@ -25548,6 +25556,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not the intention of this standard to give any recommendation on measuring systems or their calibration but, of &lt;t0/&gt;course, the apparatus which is used should be approved in accordance with IEC 60060.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T153006Z" creationid="Judy" creationdate="20141122T153006Z">
+        <seg>本標準主旨非提供任何量測系統或其測定之建議，但使用之設備理所當然應為符合 IEC 60060 中所核准之設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is noticeable that for the case without MR, the rate of heat input is much larger, and the displacer power is so small that it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T091811Z">
@@ -30384,6 +30400,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012423Z">
         <seg>請勿於無靜態混合器的情況下使用！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nevertheless, it&lt;t1/&gt; is suggested that, as a precaution, the same earthing practices should be followed as used for lightning impulse testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152723Z" creationid="Judy" creationdate="20141122T152723Z">
+        <seg>但為小心起見仍建議使用與雷擊突波測試相同之接地方式。</seg>
       </tuv>
     </tu>
     <tu>
