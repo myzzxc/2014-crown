@@ -25467,6 +25467,15 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is good practice to firmly connect this current return path to the general earth system of the test room, preferably close to the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151520Z" creationid="Judy" creationdate="20141122T151520Z">
+        <seg>需將電流返回路徑緊密連接至測試間之一般接地系統並盡可能接近測試目標，
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important that the manufacturer assesses the adequacy of the test equipment to achieve a waveshape within the tolerances for the particular combination of transformer and test equipment at the bid stage and has a reasonable expectation of meeting the requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T023658Z" creationid="CCYU" creationdate="20141115T023658Z">
