@@ -44836,6 +44836,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The physical arrangement of test equipment, test object and measuring circuits can be divided into three major circuits:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043705Z" creationid="Judy" creationdate="20141122T043705Z">
+        <seg>測試設備之配置、測試目標以及量測電路可分為三種主要電路：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pixel coordinates are only defined for&lt;t21/&gt; &lt;t22/&gt;integer values of the column and row &lt;t23/&gt;numbers i and j, but noninteger&lt;t24/&gt; &lt;t25/&gt;values would be resulted from Eq.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T075425Z">
@@ -60566,6 +60574,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the main circuit including &lt;t0/&gt;the impulse generator, additional waveshaping components and the test object;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043901Z" creationid="Judy" creationdate="20141122T043901Z">
+        <seg>包含突波產生器、額外波型產生元件以及測試目標之主要電路； </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the maximum temperature of the cooling medium measured over many years</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T084004Z">
@@ -60819,6 +60835,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033905Z">
         <seg>變壓器於額定頻率下，設計可於所有特定抽頭位置及其抽頭功率下連續使用不損壞之電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the voltage measuring circuit;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043913Z" creationid="Judy" creationdate="20141122T043913Z">
+        <seg>電壓量測電路；</seg>
       </tuv>
     </tu>
     <tu>
