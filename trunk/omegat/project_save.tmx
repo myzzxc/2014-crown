@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25691,6 +25691,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It varies between the leakage inductance &lt;t9/&gt;L&lt;t10/&gt;s&lt;t11/&gt; for short-circuited terminals and &lt;t12/&gt;L&lt;t13/&gt;0&lt;t14/&gt; for open-circuited terminals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T063052Z" creationid="Judy" creationdate="20141122T063052Z">
+        <seg>其於短路端子洩露電感 &lt;t9/&gt;L&lt;t10/&gt;s&lt;t11/&gt; 和開路端子洩露電感 &lt;t12/&gt;L&lt;t13/&gt;O&lt;t14/&gt; 之間變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was found that impingement is the major heat transfer mechanism in the expansion and compression chambers, and the temperature distribution is three dimensional and highly non-uniform across the engine volume at any given moment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155124Z">
@@ -28143,6 +28151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135632Z" creationid="CCYU" creationdate="20141023T135632Z">
         <seg>Moog • 78N/760N 系列操作指南 • &lt;t0/&gt;修訂版本&lt;t1/&gt; 01/14&lt;t2/&gt; &lt;t3/&gt;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More details in this resp&lt;t15/&gt;ect are given in 7.1 and 7.3 and in annex A;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T063140Z" creationid="Judy" creationdate="20141122T063140Z">
+        <seg>更多詳細資訊收錄於 7.1 和 7.3 合附錄 A 之中；</seg>
       </tuv>
     </tu>
     <tu>
@@ -42596,6 +42612,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effective Z&lt;t7/&gt;t&lt;t8/&gt;, however, may be influenced by the terminal treatment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062819Z" creationid="Judy" creationdate="20141122T062819Z">
+        <seg>然而有效 L&lt;t7/&gt;t&lt;t8/&gt; 可能受端子條件影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ejection of gas in expansion or compression chambers is mainly caused by the reduction of volume in the individual chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080351Z">
@@ -43080,6 +43104,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151500Z">
         <seg>下列測試清單無任何特定順序，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following parameters influence the impulse waveshape;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062226Z" creationid="Judy" creationdate="20141122T062226Z">
+        <seg>下列為影響突波波型之參數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60486,6 +60518,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the effective capacitance C&lt;t0/&gt;t&lt;t1/&gt;, and inductance of the test object, 7,&lt;t2/&gt;t&lt;t3/&gt;; Qis constant for any given design and any given wavesha&lt;t4/&gt;pe, L&lt;t5/&gt;t&lt;t6/&gt; is also a constant for any given design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062630Z" creationid="Judy" creationdate="20141122T062630Z">
+        <seg>有效電容 C&lt;t0/&gt;t&lt;t1/&gt;，測試目標電感 L&lt;t2/&gt;t&lt;t3/&gt;；Ct 於任何給定設計和任何給定波型皆為常數，L&lt;t5/&gt;t&lt;t6/&gt; 於任何給定設計下為常數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the efficient use of energy and resources;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072235Z">
@@ -60514,6 +60554,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T155507Z">
         <seg>變壓器設計之操作頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the generator capacitance C&lt;t0/&gt;g&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T063158Z" creationid="Judy" creationdate="20141122T063158Z">
+        <seg>產生器電容 C&lt;t0/&gt;g&lt;t1/&gt;；</seg>
       </tuv>
     </tu>
     <tu>
@@ -60592,8 +60640,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>the main circuit including &lt;t0/&gt;the impulse generator, additional waveshaping components and the test object;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043901Z" creationid="Judy" creationdate="20141122T043901Z">
-        <seg>包含突波產生器、額外波型產生元件以及測試目標之主要電路； </seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T063420Z" creationid="Judy" creationdate="20141122T043901Z">
+        <seg>包含突波產生器、額外波型產生項以及測試目標之主要電路； </seg>
       </tuv>
     </tu>
     <tu>
@@ -61814,6 +61862,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131537Z">
         <seg>提煉、精煉和生產之廢料和污染；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waveshaping components, both internal and external to the generator, &lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;, R&lt;t3/&gt;se&lt;t4/&gt;, R&lt;t5/&gt;p&lt;t6/&gt;, C\_ &lt;t7/&gt;(plus, where applicable, the impedance of a voltage divider &lt;t8/&gt;Z-\)\</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T075836Z" creationid="Judy" creationdate="20141122T063344Z">
+        <seg>產生器內部和外部之波型產生項，&lt;t0/&gt;R&lt;t1/&gt;Si&lt;t2/&gt;、R&lt;t3/&gt;se&lt;t4/&gt;、R&lt;t5/&gt;p&lt;t6/&gt;、 CL&lt;t7/&gt; (加上電壓plus, where applicable, the impedance of a voltage divider &lt;t8/&gt;Z-\)\</seg>
       </tuv>
     </tu>
     <tu>
