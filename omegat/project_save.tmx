@@ -13585,6 +13585,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During impulse testing, zero potential cannot be as&lt;t1/&gt;sumed throughout the earthing systems due to the high values and rates of change of impulse currents and voltages and the finite impedances involved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T150140Z" creationid="Judy" creationdate="20141122T150140Z">
+        <seg>進行突波測試時，由於高突波電流和電壓改變速率以及使用有限阻抗，不可假設接地系統為零電位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During switching impulse tests, the voltages developed across different windings ar approximately proportional to the ratio of numbers of turns.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074457Z" creationid="CCYU" creationdate="20141115T074457Z">
@@ -48624,6 +48632,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233148Z">
         <seg>因此，再生器功能為維持膨脹腔體高溫度和壓縮腔體低溫的熱屏障，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the selection of a proper reference earth is important.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T150216Z" creationid="Judy" creationdate="20141122T150216Z">
+        <seg>因此選擇適當參考地線相當重要。</seg>
       </tuv>
     </tu>
     <tu>
