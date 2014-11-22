@@ -46405,6 +46405,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The surge capacitance of the transformer under test being constant, the series resistance may have to be reduced in an attempt to obtain the correct front time &lt;t0/&gt;T-\&lt;t1/&gt; or rate of rise, but the reduction should not be to the extent that oscillations on the cres&lt;t2/&gt;t of the voltage wave become excessive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T155445Z" creationid="Judy" creationdate="20141122T155445Z">
+        <seg>測試之變壓器的突波電容為定值，可降低串聯電阻以獲得正確的波前時間 &lt;t0/&gt;T1&lt;t1/&gt; 或上升速率，但不應過度降低使電壓之波峰震盪過大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sustainable use of natural resources was not investigated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021101Z">
