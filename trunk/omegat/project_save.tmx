@@ -12680,6 +12680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Differences are in details only, such as values of resistors and capacitors (and the terminal connections of the test object).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T143850Z" creationid="Judy" creationdate="20141122T143850Z">
+        <seg>僅有細部差異如電阻和電溶值 (以及測試目標之端子連接)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Different arrangements can be agreed between manufacturer and purchaser, but as the sensors and optical fibre &lt;t0/&gt;cables are very fragile, their number should take into consideration the risk of damage during the various operations and stresses which the windings are subjected to in the factory and in service.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125218Z" creationid="CCYU" creationdate="20141106T125218Z">
@@ -37966,8 +37974,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Specified waveshapes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043120Z" creationid="Judy" creationdate="20141122T043120Z">
-        <seg>指定波型</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144040Z" creationid="Judy" creationdate="20141122T043120Z">
+        <seg>指定波形</seg>
       </tuv>
     </tu>
     <tu>
@@ -43230,8 +43238,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The form of the voltage shall be as nearly as possible sinusoidal and its frequency shall be sufficiently above the rated frequency to avoid excessive magnetizing current during the test.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142142Z" creationid="CCYU" creationdate="20141112T142142Z">
-        <seg>電壓應盡可能接近正弦波型且其頻率應高於額定頻率以避免測試期間過大的磁化電流。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144036Z" creationid="CCYU" creationdate="20141112T142142Z">
+        <seg>電壓應盡可能接近正弦波形且其頻率應高於額定頻率以避免測試期間過大的磁化電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47942,8 +47950,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The voltage waveshapes to be used normally during lightning and switching impulse testing of transformers and react&lt;t0/&gt;ors are given in IEC 60076-3 and the methods for their determination are given in IEC 60060-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043345Z" creationid="Judy" creationdate="20141122T043345Z">
-        <seg>變壓器和電抗器之雷擊和開關突波測試一般使用之電壓波型收錄於 IEC 60076-3 之中，而其測定方法收錄於 IEC 60060-1 之中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144049Z" creationid="Judy" creationdate="20141122T043345Z">
+        <seg>變壓器和電抗器之雷擊和開關突波測試一般使用之電壓波形收錄於 IEC 60076-3 之中，而其測定方法收錄於 IEC 60060-1 之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50936,6 +50944,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104751Z">
         <seg>為了維持液壓系統清潔，應定期更換濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To meet the different requirement&lt;t0/&gt;s of the waveshape for lightning and switching impulses, due consideration has to be given to the selection of the impulse generator parameters, such as capacitance and series and discharge (parallel) resistances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T144017Z" creationid="Judy" creationdate="20141122T144017Z">
+        <seg>為了滿足雷擊和開關突波之不同波形要求規範，To meet the different requirement&lt;t0/&gt;s of the waveshape for lightning and switching impulses, due consideration has to be given to the selection of the impulse generator parameters, such as capacitance and series and discharge (parallel) resistances.</seg>
       </tuv>
     </tu>
     <tu>
