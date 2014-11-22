@@ -50133,6 +50133,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This point of connection should be used as refe&lt;t1/&gt;rence earth and to attain good earthing of the test object it should be connected to the reference earth by one or several conductors of low impedance (see IEC 60060-2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151819Z" creationid="Judy" creationdate="20141122T151819Z">
+        <seg>此連接點應作為參考地線並以一組或多組低阻抗導體連接至參考地線以使測試目標具有良好接地 (請見 IEC 60060-2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product can be used in Zone 1 and Zone 2 of hazardous Gases atmospheres.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022105Z" creationid="CCYU" creationdate="20141025T021912Z">
