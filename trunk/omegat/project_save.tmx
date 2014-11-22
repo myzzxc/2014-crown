@@ -19006,6 +19006,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, in this standard, lightning impulse testing is covered by a common text for b&lt;t1/&gt;oth transformers and reactors whilst switching impulse testing is dealt with separately for the two types of equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043105Z" creationid="Judy" creationdate="20141122T043105Z">
+        <seg>因此於此標準中，變壓器和電抗器之雷擊突波測試接使用相同內容，而開關突波測試針對兩種類型之次設備包含各別不同之內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
@@ -37924,6 +37932,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specified waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043120Z" creationid="Judy" creationdate="20141122T043120Z">
+        <seg>指定波型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spill Control Companies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T165019Z">
@@ -53905,6 +53921,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131959Z" creationid="CCYU" creationdate="20141112T131959Z">
         <seg>雖然以內部絕緣之額定耐壓值可作為外部絕緣之參考，但並非所有情況皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whilst, on reactors, lightning impulse testing &lt;t0/&gt;is similar to that on transformers, i.e., all terminals can be tested separately, different considerations apply and different problems arise in switching impulse testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T042731Z" creationid="Judy" creationdate="20141122T042731Z">
+        <seg>而電抗器之雷擊突波測試與變壓器類似，即所有端子依不同考量和開關突波測試產生之不同問題能分開測試。</seg>
       </tuv>
     </tu>
     <tu>
