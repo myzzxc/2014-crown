@@ -5717,6 +5717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, the recorded data may also be pr&lt;t1/&gt;ocessed by wave analysing algorithms, for example, for fault analysis in recordings (see clause 10).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142942Z" creationid="Judy" creationdate="20141123T142942Z">
+        <seg>另外，記錄的資料也可經由波形分析演算法進行處理，例如記錄之故障分析 (請見第 10 節)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, there has been a recently developed type, the thermal-lag &lt;t8/&gt;Stirling&lt;t9/&gt; engine, which has very simple structure compared with the three conventional types [5].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T134010Z">
@@ -49641,6 +49649,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T101733Z">
         <seg>為符合本報告章節 3.2.4.3 的脆鋼元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These samples should be presented directl&lt;t0/&gt;y as raw data for evaluating waveshape parameters (see 7.5.3.1) and also for the assessment of test results based on the comparison of recordings taken at reduced and full impulse voltage levels (see 7.5.3.2).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142800Z" creationid="Judy" creationdate="20141123T142800Z">
+        <seg>此樣本應直接以原始資料呈現以評估波形參數 (請見 7.5.3.1)，同時根據比較於降低突波電壓等級之記錄作為測試結果評估 (請見 7.5.3.2)。</seg>
       </tuv>
     </tu>
     <tu>
