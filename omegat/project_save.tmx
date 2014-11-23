@@ -12872,6 +12872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital recording of waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142146Z" creationid="Judy" creationdate="20141123T142146Z">
+        <seg>數位記錄波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
@@ -54410,6 +54418,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100002Z">
         <seg>When picked up, treat material as prescribed under heading "Disposal considerations". 吸附後，將材料依“廢棄處置注意事項”之規定處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When recording neutral or winding current, recording should continue at least until the inductive peak has been reached, thus permitting ex&lt;t1/&gt;amination of the wave to determine if there has been any change in inductance caused by short-circuiting of turns as a result of insulation failure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142052Z" creationid="Judy" creationdate="20141123T142052Z">
+        <seg>當記錄中性或繞組電流時，記錄應至少持續至達到電感峰值，因而能檢查波形以決定是否有任何因繞匝短路導致絕緣故障而產生之差異。</seg>
       </tuv>
     </tu>
     <tu>
