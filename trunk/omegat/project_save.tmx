@@ -50293,6 +50293,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This problem may be solved to some extent by the use of large capacitance within the generator, by pa&lt;t3/&gt;rallel stage operation, by adjustment of the series resistor or by specific test connections of the terminals of windings not under test or, in addition, of the non-tested terminals of windings under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051931Z" creationid="CCYU" creationdate="20141123T051931Z">
+        <seg>此問題可藉由於產生器中使用大電容、並聯操作、調整串聯電阻、或未測試繞組之端子特定測試連接、或額外測試繞組之未測試端子之特定測試連接以解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product can be used in Zone 1 and Zone 2 of hazardous Gases atmospheres.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022105Z" creationid="CCYU" creationdate="20141025T021912Z">
