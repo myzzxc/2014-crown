@@ -20087,6 +20087,14 @@ IEC 60076-13，電力變壓器 — 第 13 部份：自保護型油浸式變壓�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 60076-3 requires simultaneously the measurement of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112259Z" creationid="CCYU" creationdate="20141123T112259Z">
+        <seg>IEC 60076-3 要求同時量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 60076-3, &lt;t0/&gt;Power transformers - Part 3: Insulation levels, dielectric tests and external clearances in air</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033733Z" creationid="Judy" creationdate="20141122T033649Z">
@@ -54158,6 +54166,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When &lt;t0/&gt;digital recorders are used as straight-forward measuring instruments for recording of voltage and current waveshapes, without the purpose of mathematical processing (see clause 10) of the recorded data, they are to be regarded as technically advanced analo&lt;t1/&gt;gue instruments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112229Z" creationid="CCYU" creationdate="20141123T112229Z">
+        <seg>當使用數位記錄作為電壓和電流波形之直接量測儀器時，記錄資料若無數學處理 (請見第 10 節) 則視為技術先進之類比儀器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When IEC standards do not exist for such categories of transformers (in particular transformer having no winding exceeding 1000 V for industrial applications), this part of IEC 60076 may still be applicable either as a whole or in part.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125903Z">
@@ -56462,6 +56478,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>at least one of the transients listed in 7.3.2;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112353Z" creationid="CCYU" creationdate="20141123T112353Z">
+        <seg>至少一項 7.3.2 中所列之暫態；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ata'to-be inserted ...r</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125958Z" creationid="CCYU" creationdate="20141105T125958Z">
@@ -58387,6 +58411,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104026Z">
         <seg>換氣活塞高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hence, at least two independent recording channels are necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112417Z" creationid="CCYU" creationdate="20141123T112417Z">
+        <seg>因此，至少需要兩個獨立的記錄通道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61251,6 +61283,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042135Z">
         <seg>相對中性點 (真實或虛擬) 之間的相量和兩組繞組之相應端子之間的電壓相位差，高壓端子使用正序電壓系統，按字母順序或按數字順序編號：假設相量以逆時針旋轉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the applied voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112313Z" creationid="CCYU" creationdate="20141123T112313Z">
+        <seg>施加電壓；</seg>
       </tuv>
     </tu>
     <tu>
