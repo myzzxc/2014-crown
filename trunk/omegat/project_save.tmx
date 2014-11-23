@@ -32260,6 +32260,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oscillograms or digital recordings of chopped waves, however, are only compar&lt;t0/&gt;able for almost identical times to chopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T055659Z" creationid="CCYU" creationdate="20141123T055659Z">
+        <seg>然而截波之波形圖或數位紀錄僅於截波時間幾乎相同時可進行比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oscillographic records shall be made of the impulse wave-shape on the line terminal under test and the current between the tested winding and earth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131805Z" creationid="CCYU" creationdate="20141115T131805Z">
@@ -34553,6 +34561,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125443Z" creationid="CCYU" creationdate="20141031T125443Z">
         <seg>應以適當的方法避免擾流使讀數快速變化，如使用散熱器於溫度感測器使其熱時間常數與變壓器熱時間常數相近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate of collapse and amplitude of reversed polarity of the chopped impulse</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T055805Z" creationid="CCYU" creationdate="20141123T055805Z">
+        <seg>截波崩潰速率和反向極性之振幅</seg>
       </tuv>
     </tu>
     <tu>
