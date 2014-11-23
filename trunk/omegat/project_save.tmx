@@ -40901,6 +40901,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test methods for transformer neutrals are given in IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083145Z" creationid="CCYU" creationdate="20141123T083145Z">
+        <seg>變壓器中性點測試方法收錄於 IEC 60076-3 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test modification for particular transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T091951Z" creationid="Judy" creationdate="20141101T091951Z">
@@ -54274,6 +54282,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T084715Z">
         <seg>當阻抗值 ≥ 指定值 ± 10 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the indirect method is used, i.e. by an impulse transmitted to the neutral from one or more line terminals, the waveshape cannot be specified since it is contr&lt;t0/&gt;olled basically by the transformer parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083431Z" creationid="CCYU" creationdate="20141123T083431Z">
+        <seg>當使用非直接方法時，即由一組或多組線路端子轉移突波至中性點，由於波形基本上由變壓器參數所控制而無法指明波形。</seg>
       </tuv>
     </tu>
     <tu>
