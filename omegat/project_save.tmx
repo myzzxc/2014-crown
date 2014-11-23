@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6705,6 +6705,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142951Z">
         <seg>中電壓繞組為 36 kV、星形連接至中性點，與高壓繞組同相但非自藕。第三繞組 7,2 kV 星形連接，落後 150°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Analogue &lt;t0/&gt;recording of the impulse response current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T135921Z" creationid="Judy" creationdate="20141123T135921Z">
+        <seg>類比記錄突波響應電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -22726,6 +22734,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T213723Z">
         <seg>改進史特林引擎的效能主要藉由廣泛的引擎循環之數值和實驗研究，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impulse current is normally the most sensitive parameter in failure detection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140019Z" creationid="Judy" creationdate="20141123T140019Z">
+        <seg>突波電流通常為故障檢測最靈敏的參數，</seg>
       </tuv>
     </tu>
     <tu>
