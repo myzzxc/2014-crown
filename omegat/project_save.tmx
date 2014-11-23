@@ -22562,6 +22562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impulses chopped on the tail</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053709Z" creationid="CCYU" creationdate="20141123T053709Z">
+        <seg>波尾截波突波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In 11.3.5 PD level acceptance criteria are given.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T145623Z" creationid="Judy" creationdate="20141117T145623Z">
@@ -54006,6 +54014,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the waveshape is oscillatory due to extremely low inductance and/or small impulse generator capacitance, the amplitude of the opposite polarity should not exceed 50 % of the peak value of the first &lt;t0/&gt;amplitude.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053523Z" creationid="CCYU" creationdate="20141123T053523Z">
+        <seg>當波形因為極低電感或小突波產生器電容而震盪時，相反極性之振幅不應超出第一個振幅峰值之 50 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this generator is connected between the transformer terminal and earth the injected charge from the pulse generator will be:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124811Z" creationid="CCYU" creationdate="20141117T124811Z">
@@ -54570,6 +54586,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094054Z">
         <seg>當抽頭開關完全組裝於變壓器上，應執行下列操作程序無故障：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this limitation, guidance for selecting impulse generator capacitance and adjusting waveshapes is given in annex A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053652Z" creationid="CCYU" creationdate="20141123T053652Z">
+        <seg>根據此限制之突波產生器電容選擇和和波形調整之指南收錄於附錄 A 之中。</seg>
       </tuv>
     </tu>
     <tu>
