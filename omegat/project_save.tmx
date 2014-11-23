@@ -51621,6 +51621,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To facilitate the assessment of the test results, which is primarily based on the comparison of recordings taken at reduced and full levels, it is advantageous to provide for recordings of equal amplitude by the use of &lt;t0/&gt;appropriate attenuators at the oscilloscopes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T113200Z" creationid="CCYU" creationdate="20141123T113200Z">
+        <seg>評估測試結果主要根據降低全電壓水準之記錄比較，於示波器上使用適當衰減器以提供相同振幅之記錄有助於測試結果評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To help readers understand the dynamic processes inside the current Stirling engine, two videos have been made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205925Z">
