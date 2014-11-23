@@ -46261,6 +46261,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The resolution achieved should ensure that</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140442Z" creationid="Judy" creationdate="20141123T140442Z">
+        <seg>其解析度應確保</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result obtained should not deviate more than ± 0,5 K from the previous one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155721Z" creationid="CCYU" creationdate="20141104T155721Z">
@@ -56590,6 +56598,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>as clear a representation as possible is obtained from the oscillograms, including the higher freque&lt;t0/&gt;ncy components near the front of the wave;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140819Z" creationid="Judy" creationdate="20141123T140819Z">
+        <seg>盡可能由示波器上獲得清晰結果，包含接近波前之較高頻率項；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>at least one of the transients listed in 7.3.2;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112353Z" creationid="CCYU" creationdate="20141123T112353Z">
@@ -61483,6 +61499,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160335Z">
         <seg>通過繞組之線路端子的電流，由繞組之額定功率 Sr 和及額定電壓 Ur 求得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the current record is of sufficient duration to permit detection of any discrepancies occurring late in time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T141039Z" creationid="Judy" creationdate="20141123T141039Z">
+        <seg>電流記錄時間足以檢測任何後期產生之差異。</seg>
       </tuv>
     </tu>
     <tu>
