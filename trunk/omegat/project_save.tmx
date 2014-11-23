@@ -31932,6 +31932,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On multiple layer windings, the layer impedance may damp the collapse normally to the extent that it does not oscillate around zero (see figure B.20).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062255Z" creationid="CCYU" creationdate="20141123T062255Z">
+        <seg>多層繞組之層阻抗能減緩崩潰，通常使其不於零附近範圍震盪 (請見圖 B.20)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On such transformers, these values of impedance shall also be measured during the short-circuit impedance and load losses test (see 11.4) and shall be subject to the tolerances given in Clause 10.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T123955Z">
