@@ -12760,6 +12760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different times to chopping &lt;t0/&gt;T&lt;t1/&gt;c&lt;t2/&gt; (as defined in IEC 60060-2), will result in dif&lt;t3/&gt;ferent stresses (voltage and duration) in different parts of the winding(s) depending on the winding construction and arrangement employed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T054050Z" creationid="CCYU" creationdate="20141123T054050Z">
+        <seg>不同截波時間 &lt;t0/&gt;T&lt;t1/&gt;C&lt;t2/&gt; (依 IEC 60060-2 所定義) 將導致繞組不同部份依其結構和配置具有不同壓力 (電壓和持續時間)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
