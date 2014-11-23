@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Figures B.18, B.19 and B.21 show significant differences in amplitude and front time &lt;t0/&gt;T&lt;t1/&gt;-1&lt;t2/&gt; and time to half value &lt;t3/&gt;T&lt;t4/&gt;2&lt;t5/&gt; evaluations.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T105226Z" creationid="CCYU" creationdate="20141123T105226Z">
+        <seg>(圖 B.18、B.19 和 B.21 顯示出振幅和波前時間 &lt;t0/&gt;T&lt;t1/&gt;1&lt;t2/&gt; 和半高值時間 &lt;t3/&gt;T&lt;t4/&gt;2&lt;t5/&gt; 評估的顯著差異)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For multi-winding transformers, the rated power of eac&lt;t0/&gt;h&lt;t1/&gt; winding shall be given.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T020129Z">
