@@ -40869,6 +40869,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test procedures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T080145Z" creationid="CCYU" creationdate="20141123T080145Z">
+        <seg>測試程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test procedures of Xenon-Arc tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T143837Z">
@@ -54098,6 +54106,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123900Z">
         <seg>當具有此類限制時，抽頭為 '降低功率抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When testing reactors, both of the shunt and series types, items c) and e) are inapplicable; item d) may be applied but only as an additional means&lt;t0/&gt; of transient recording since it is likely to be less sensitive than when used in transformer testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T080136Z" creationid="CCYU" creationdate="20141123T080136Z">
+        <seg>當測試電感器時，項目 c) 和 e) 對分流器和串聯型皆不適用，項目 d) 可使用但由於其相對用於變壓器測試較不靈敏，因此僅作為額外的暫態紀錄方式。</seg>
       </tuv>
     </tu>
     <tu>
