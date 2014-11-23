@@ -46637,6 +46637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sum of items a), c) and d) or of items b), c) and d), is sometimes referred to as line current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T075743Z" creationid="CCYU" creationdate="20141123T075743Z">
+        <seg>項目 a)、c) 和 d) 或項目 b)、c) 和 d) 之總和有時也稱為線路電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The supplied current should be equal to the relevant rated current (tapping current) but shall not be less than 50 % thereof.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T015040Z">
@@ -61572,6 +61580,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T043913Z" creationid="Judy" creationdate="20141122T043913Z">
         <seg>電壓量測電路；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the voltage transferred to a non-tested &lt;t0/&gt;winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T075630Z" creationid="CCYU" creationdate="20141123T075630Z">
+        <seg>轉移至非測試繞組電壓。</seg>
       </tuv>
     </tu>
     <tu>
