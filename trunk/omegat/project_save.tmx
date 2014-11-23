@@ -24203,6 +24203,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this test, high inter-phase voltages may occur on&lt;t3/&gt; delta-connected windings and the danger of overstressing inter-phase insulation, internal or external, may limit the voltage that can be applied to the low-voltage winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T081743Z" creationid="CCYU" creationdate="20141123T081743Z">
+        <seg>此測試中，可能於三角連接繞組上產生高相內 (inter-phase) 電壓並使相內絕緣 (內部或外部) 承受過高電壓而可能限制可輸入至低電壓繞組之電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this&lt;t6/&gt; &lt;t7/&gt;study, the second strategy is adopted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T134455Z">
