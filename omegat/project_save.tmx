@@ -58199,6 +58199,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>if a terminal has been specified to be directly earthed or connected to a low-impedance cable in service, then that terminal should be directly earthed &lt;t0/&gt;during the test or earthed through a resistor with an ohmic value not in excess of the surge impedance of the cable;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063912Z" creationid="CCYU" creationdate="20141123T063912Z">
+        <seg>若一端子已指明直接接地或於運轉中連接至低阻抗電纜，則端子於測試中應直接接地或通過電阻值不超出電纜突波阻抗之電阻接地；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>if not specified, the manufacturer shall indicate the liquid preservation system in the tender.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T065022Z">
