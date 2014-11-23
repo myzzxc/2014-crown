@@ -45709,6 +45709,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principle of digital recording is the measurement of voltage or current waveshapes by taking samples during the test at regular time intervals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142359Z" creationid="Judy" creationdate="20141123T142359Z">
+        <seg>數位記錄之原理為測試期間於固定時間間隔取樣以量測電壓或電流波形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principle of the functional specification of a transformer with tappings according to 6.4.3 is to provide a framework for the specification of the operational requirements whilst leaving the detailed design of winding and tapping arrangements to the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T144058Z">
