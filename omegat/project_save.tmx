@@ -4303,8 +4303,8 @@
       <tuv lang="EN-US">
         <seg>A considerable number of discrete readings are to be made over a period of time, and these have to be evaluated for the extrapolation backwards in time to the instant of shutdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T141025Z" creationid="CCYU" creationdate="20141104T141025Z">
-        <seg>於一段時間內應紀錄足夠的讀數值，這些讀數用於外插法回推至關機瞬間之評估。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092918Z" creationid="CCYU" creationdate="20141104T141025Z">
+        <seg>於一段時間內應記錄足夠的讀數值，這些讀數用於外插法回推至關機瞬間之評估。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,16 +5655,16 @@
       <tuv lang="EN-US">
         <seg>Additional observations during the test (abnormal sounds, etc.) may be used to confirm the interpretation of the records, but they do not constitute evidence in themselves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035809Z" creationid="CCYU" creationdate="20141115T035809Z">
-        <seg>測試期間可進行額外的觀測 (異音等) 以確認紀錄之解析，但其不作為證明。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T035809Z">
+        <seg>測試期間可進行額外的觀測 (異音等) 以確認記錄之解析，但其不作為證明。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Additional observations during the test (abnormal sounds, etc.) may be used to confirm the oscillographic records, but they do not constitute evidence in themselves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131953Z" creationid="CCYU" creationdate="20141115T131953Z">
-        <seg>測試期間可進行額外的觀測 (異音等) 以確認波形圖紀錄之解析，但其不作為證明。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T131953Z">
+        <seg>測試期間可進行額外的觀測 (異音等) 以確認波形圖記錄之解析，但其不作為證明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,8 +6367,8 @@
       <tuv lang="EN-US">
         <seg>Alternatively or in addition, the peak voltage of the impulse (maximum value of the recorded curve) is increased if the overshoot exceeds 5 % and the frequency of oscillation is higher than about 100 kHz by the application of the test voltage function in accordance with IEC 60060-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T032259Z" creationid="CCYU" creationdate="20141115T032259Z">
-        <seg>此外，若超越值超過 5 % 以及根據 IEC 60060-1 使用測試電壓函數使震盪頻率高於 100 kHz 時，可增加突波峰值 (紀錄曲線中最大值)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T032259Z">
+        <seg>此外，若超越值超過 5 % 以及根據 IEC 60060-1 使用測試電壓函數使震盪頻率高於 100 kHz 時，可增加突波峰值 (記錄曲線中最大值)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6703,8 +6703,8 @@
       <tuv lang="EN-US">
         <seg>Analogue and digital recording systems</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092748Z" creationid="CCYU" creationdate="20141123T092748Z">
-        <seg>類比和數位紀錄系統</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092934Z" creationid="CCYU" creationdate="20141123T092748Z">
+        <seg>類比和數位記錄系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -9408,8 +9408,8 @@
       <tuv lang="EN-US">
         <seg>By their very nature, non-linear protection devices connected across the windings may cause differences between the reduced full-wave and the full-wave impulse oscillograms or digital recordings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T082346Z" creationid="CCYU" creationdate="20141123T082346Z">
-        <seg>由於其本身的性質，非線性保護裝置通過繞組之連接可能會導致降低全波與全波突波波形圖或數位紀錄之間的差異。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T082346Z">
+        <seg>由於其本身的性質，非線性保護裝置通過繞組之連接可能會導致降低全波與全波突波波形圖或數位記錄之間的差異。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11394,8 +11394,8 @@
       <tuv lang="EN-US">
         <seg>Continuous recording of the signal is not obligatory.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T132653Z" creationid="CCYU" creationdate="20141117T132653Z">
-        <seg>連續紀錄訊號並非強制性。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141117T132653Z">
+        <seg>連續記錄訊號並非強制性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,8 +12786,8 @@
       <tuv lang="EN-US">
         <seg>Different time bases may be used to record the chopped wave lightning impulses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T061639Z" creationid="CCYU" creationdate="20141115T061639Z">
-        <seg>可使用不同時間區間紀錄截波雷擊突波。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T061639Z">
+        <seg>可使用不同時間區間記錄截波雷擊突波。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,8 +12802,8 @@
       <tuv lang="EN-US">
         <seg>Different transients c&lt;t0/&gt;an be recorded and used separately or in combination, as shown in figure 2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064848Z" creationid="CCYU" creationdate="20141123T064848Z">
-        <seg>不同暫態可分別或合併紀錄以及使用，如圖 2 所示。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T064848Z">
+        <seg>不同暫態可分別或合併記錄以及使用，如圖 2 所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13715,8 +13715,8 @@
       <tuv lang="EN-US">
         <seg>During the test sequence the inception and extinction voltages of any significant PD activity should be noted to aid the evaluation of the test result if the test criteria are not met.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155701Z" creationid="CCYU" creationdate="20141112T155701Z">
-        <seg>測試期間應紀錄任何顯著的局部放電現象之起始與結束電壓，以於未符合測試規範時用於評估測試結果。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T155701Z">
+        <seg>測試期間應記錄任何顯著的局部放電現象之起始與結束電壓，以於未符合測試規範時用於評估測試結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14267,8 +14267,8 @@
       <tuv lang="EN-US">
         <seg>Either analogue or digital r&lt;t0/&gt;ecording systems may be used for the recording of lightning impulse voltage and current response waveshapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092028Z" creationid="CCYU" creationdate="20141123T092028Z">
-        <seg>可使用類比或數位紀錄系統進行雷擊突波電壓和電流響應波形紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T092028Z">
+        <seg>可使用類比或數位記錄系統進行雷擊突波電壓和電流響應波形記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16981,8 +16981,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For each required PD measurement step in the test sequence, PD measurements shall be made and recorded on all the line terminals equipped with bushings with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV, during the test, however if there are more than six such terminals then only six measurements need to be made (one on each of the highest voltage terminals) unless otherwise specified.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T162015Z" creationid="CCYU" creationdate="20141112T162015Z">
-        <seg>應於所有裝設套管且 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≥ 72,5 kV之線路端子上進行測試程序中每項要求之局部放電量測步驟並紀錄，若此條件之端子超過六組，除另行指定外僅需量測六組 (於各最高電壓端子上)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T162015Z">
+        <seg>應於所有裝設套管且 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≥ 72,5 kV之線路端子上進行測試程序中每項要求之局部放電量測步驟並記錄，若此條件之端子超過六組，除另行指定外僅需量測六組 (於各最高電壓端子上)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21131,8 +21131,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If during any of these applications an external flashover in the circuit or across a bushing spark gap should occur, or if the recording should fail on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131818Z" creationid="CCYU" creationdate="20141115T131818Z">
-        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T131818Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障記錄時，則測試無效並須進行進一步測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21299,32 +21299,32 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If non-linear elements or surge arresters are built into the transformer for the limitation of transferred overvoltage transients, they may operate during the test procedure and this may cause differences between impulse records made at different voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114033Z" creationid="CCYU" creationdate="20141115T051730Z">
-        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T051730Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波記錄，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If non-linear elements or surge diverters are built into the transformer for the limitation o transferred overvoltage transients, they may operate during the test procedure and this ma cause differences between impulse records made at different voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114045Z" creationid="CCYU" creationdate="20141115T063918Z">
-        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波紀錄，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T063918Z">
+        <seg>若變壓器裝有非線性元件或避雷器以限制過電壓暫態轉移時，此類元件可於測試中使用並可能造成不同電壓下有不同的突波記錄，</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If none of the 100 % full wave records differ from the lowest voltage of the reference impuls record then impulses g), h) and i) above may be omitted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064524Z" creationid="CCYU" creationdate="20141115T064524Z">
-        <seg>若 100 % 全波紀錄與參考突波最低電壓紀錄皆無相異，則上述 g)、h) 以及 i) 之突波可忽略。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T064524Z">
+        <seg>若 100 % 全波記錄與參考突波最低電壓記錄皆無相異，則上述 g)、h) 以及 i) 之突波可忽略。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If none of the 100 % full wave records differ from the lowest voltage record of the reference impulse records, then impulses e), f) and g) above may be omitted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053813Z" creationid="CCYU" creationdate="20141115T053813Z">
-        <seg>若 100 % 全波紀錄與參考突波最低電壓紀錄皆無相異，則上述 e)、f) 以及 g) 之突波可忽略。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T053813Z">
+        <seg>若 100 % 全波記錄與參考突波最低電壓記錄皆無相異，則上述 e)、f) 以及 g) 之突波可忽略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22404,16 +22404,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If this is not the case then the records of current and voltage from the following impulses shal be compared:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054029Z" creationid="CCYU" creationdate="20141115T054029Z">
-        <seg>若具有差異則需比較以下突波之電壓和電流紀錄：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T054029Z">
+        <seg>若具有差異則需比較以下突波之電壓和電流記錄：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If this is not the case then the records of current and voltage from the following impulses shall be compared:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070152Z" creationid="CCYU" creationdate="20141115T070152Z">
-        <seg>若具有差異則需比較以下突波之電壓和電流紀錄：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T070152Z">
+        <seg>若具有差異則需比較以下突波之電壓和電流記錄：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22500,16 +22500,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If, during any of these applications, an external flashover in the circuit or across a bushing spark gap occurs, or if the recording fails on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034351Z" creationid="CCYU" creationdate="20141115T034351Z">
-        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T034351Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障記錄時，則測試無效並須進行進一步測試。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If, during any of these applications, an external flashover in the circuit or across a bushing spark gap should occur, or if the recording should fail on any of the specified measuring channels, that application shall be disregarded and a further application made.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053833Z" creationid="CCYU" creationdate="20141115T053833Z">
-        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障紀錄時，則測試無效並須進行進一步測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T053833Z">
+        <seg>於上述測試期間，若於電路中或套管閃火間隙中產生了外部跳火，或任何特定量測通道有故障記錄時，則測試無效並須進行進一步測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23420,8 +23420,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In particular, failures have been reported at &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV and below where the transformer is energised/de-energised by a vacuum type circuit breaker from the remote end of a cable because a resonant condition might exist causing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134526Z" creationid="CCYU" creationdate="20141110T134526Z">
-        <seg>其中當 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV 或更低時，變壓器由遠端電纜以真空型斷路器通電 / 斷電有發生故障之紀錄，因為可能產生共振條件導致再觸發及重複暫態。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141110T134526Z">
+        <seg>其中當 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; = 36 kV 或更低時，變壓器由遠端電纜以真空型斷路器通電 / 斷電有發生故障之記錄，因為可能產生共振條件導致再觸發及重複暫態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25741,8 +25741,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It is essential, in acceptance testing, to record at least one of these transients in addition to the applied test voltage;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T065109Z" creationid="CCYU" creationdate="20141123T065109Z">
-        <seg>合格之測試必須紀錄輸入測試電壓之外至少其中一組參數：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T065109Z">
+        <seg>合格之測試必須記錄輸入測試電壓之外至少其中一組參數：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29398,8 +29398,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE 2 The information given in IEC 60076-4 with reference to waveshape evaluation is based on the visual observation of oscillographic records.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070546Z" creationid="CCYU" creationdate="20141115T070546Z">
-        <seg>註 2 IEC 60076-4 中所收錄之參考波形評估資訊為根據波形圖紀錄觀測所得，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T070546Z">
+        <seg>註 2 IEC 60076-4 中所收錄之參考波形評估資訊為根據波形圖記錄觀測所得，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29886,24 +29886,24 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE Additional impulses (full or chopped) at amplitudes not higher than 75 % of the full level can be used, the do not need to be shown in the test report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064752Z" creationid="CCYU" creationdate="20141115T064752Z">
-        <seg>註 可使用振幅不高於全電壓 75 % 之額外突波 (全波或截波)，該結果無須紀錄於測試報告中。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T064752Z">
+        <seg>註 可使用振幅不高於全電壓 75 % 之額外突波 (全波或截波)，該結果無須記錄於測試報告中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>NOTE Additional impulses (full or chopped) at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062830Z" creationid="CCYU" creationdate="20141115T062830Z">
-        <seg>註 可使用振幅不高於參考突波電壓之額外突波 (全波或截波)，該結果無須紀錄於測試報告中。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T062830Z">
+        <seg>註 可使用振幅不高於參考突波電壓之額外突波 (全波或截波)，該結果無須記錄於測試報告中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>NOTE Additional impulses at amplitudes not higher than the reference impulse voltage level can be used, these do not need to be shown in the test report.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T034626Z" creationid="CCYU" creationdate="20141115T034626Z">
-        <seg>註 可使用振幅不高於參考突波電壓之額外突波，該結果無須紀錄於測試報告中。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T034626Z">
+        <seg>註 可使用振幅不高於參考突波電壓之額外突波，該結果無須記錄於測試報告中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30150,8 +30150,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE It can also be helpful to record the PD pattern (phase angle, apparent charge and number) of any significant PD activity to aid evaluation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160850Z" creationid="CCYU" creationdate="20141112T155923Z">
-        <seg>註 紀錄任何顯著局部放電現象之模式(相位角、視在電荷和數量) 也有助於評估。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T155923Z">
+        <seg>註 記錄任何顯著局部放電現象之模式(相位角、視在電荷和數量) 也有助於評估。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30294,16 +30294,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE The detailed interpretation of the test records and the discrimination between marginal differences an&lt; differences indicating failure requires a great deal of skill and experience.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063807Z" creationid="CCYU" creationdate="20141115T063807Z">
-        <seg>註 詳細的測試紀錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T063807Z">
+        <seg>註 詳細的測試記錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>NOTE The detailed interpretation of the test records and the discrimination between marginal differences and differences indicating failure requires a great deal of skill and experience.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T035139Z" creationid="CCYU" creationdate="20141115T035139Z">
-        <seg>註 詳細的測試紀錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T035139Z">
+        <seg>註 詳細的測試記錄解析以及分辨無關緊要和具故障跡象之差異需要熟練的技術及經驗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32430,16 +32430,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Oscillograms or digital recordings of chopped waves, however, are only compar&lt;t0/&gt;able for almost identical times to chopping.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T055659Z" creationid="CCYU" creationdate="20141123T055659Z">
-        <seg>然而截波之波形圖或數位紀錄僅於截波時間幾乎相同時可進行比較。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T055659Z">
+        <seg>然而截波之波形圖或數位記錄僅於截波時間幾乎相同時可進行比較。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Oscillographic records shall be made of the impulse wave-shape on the line terminal under test and the current between the tested winding and earth.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131805Z" creationid="CCYU" creationdate="20141115T131805Z">
-        <seg>波形圖紀錄應包含測試線路端子上之突波波形和測試繞組與地線之間的電流。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T131805Z">
+        <seg>波形圖記錄應包含測試線路端子上之突波波形和測試繞組與地線之間的電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35079,16 +35079,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Readings of temperature and rate of water flow should be taken at regular intervals (&lt;t0/&gt;e.g., every ten minutes), or automatic continuous recording may be used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T125754Z" creationid="CCYU" creationdate="20141031T125754Z">
-        <seg>溫度讀數及水流率應定期讀取 (例如，每十分鐘)，或可使用自動連續紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092918Z" creationid="CCYU" creationdate="20141031T125754Z">
+        <seg>溫度讀數及水流率應定期讀取 (例如，每十分鐘)，或可使用自動連續記錄。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Readings should be taken at regular intervals (e.g., every ten minutes), or automatic continuous recording may be used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T140648Z" creationid="CCYU" creationdate="20141030T140648Z">
-        <seg>讀數應定期讀取 (例如，每十分鐘)，或可使用自動連續紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092918Z" creationid="CCYU" creationdate="20141030T140648Z">
+        <seg>讀數應定期讀取 (例如，每十分鐘)，或可使用自動連續記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41399,8 +41399,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;corrections made using the exponent values given in Table 3 are conservative and intended only for reporting the temperature rise during a test in steady state conditions performed within the limits indicated above.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T075838Z" creationid="CCYU" creationdate="20141102T075838Z">
-        <seg>使用表 3 給定之指數值進行校正為保守值，且僅於穩態條件下於上述限制內進行測試時用於紀錄溫度上升。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092918Z" creationid="CCYU" creationdate="20141102T075838Z">
+        <seg>使用表 3 給定之指數值進行校正為保守值，且僅於穩態條件下於上述限制內進行測試時用於記錄溫度上升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41711,16 +41711,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The PD level shall be measured and recorded every 5 min during the one hour period.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154912Z" creationid="CCYU" creationdate="20141112T154912Z">
-        <seg>於一小時的期間內每 5 分鐘量測局部放電等級並紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T154912Z">
+        <seg>於一小時的期間內每 5 分鐘量測局部放電等級並記錄。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The PD level shall be measured and recorded.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154418Z" creationid="CCYU" creationdate="20141112T154418Z">
-        <seg>量測局部放電等級並紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T154418Z">
+        <seg>量測局部放電等級並記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45775,8 +45775,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The purpose of the test is to establish:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133746Z" creationid="CCYU" creationdate="20141031T133746Z">
-        <seg>測試之目的為紀錄：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092918Z" creationid="CCYU" creationdate="20141031T133746Z">
+        <seg>測試之目的為記錄：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45927,8 +45927,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The recommendation in IEC 60076-3 to use a triggered-type&lt;t0/&gt; chopping gap is made because of its advantage in obtaining consistency of the time to chopping, thereby facilitating the comparison of oscillographic or digital recordings not only before but also after chopping.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062644Z" creationid="CCYU" creationdate="20141123T062629Z">
-        <seg>IEC 60076-3 中建議使用觸發型截波間距，因為其具有得到一致性截波時間之優點，使波形圖或數位紀錄不僅能於截波前也能於截波後進行比較，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T062629Z">
+        <seg>IEC 60076-3 中建議使用觸發型截波間距，因為其具有得到一致性截波時間之優點，使波形圖或數位記錄不僅能於截波前也能於截波後進行比較，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46089,6 +46089,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T140204Z">
         <seg>使用者應根據第 7 條款所列名稱指明所需之繞組連接以符合其應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements for analogue oscilloscopes and digital recorders are given in IEC 61083-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T093048Z" creationid="CCYU" creationdate="20141123T093048Z">
+        <seg>類比示波器和數位記錄器之要求規範收錄於 IEC 61083-1 之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46343,8 +46351,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The same types of measuring channels and oscillographic records are specified as for the full- wave impulse test.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T062801Z" creationid="CCYU" creationdate="20141115T062801Z">
-        <seg>使用如全波突波測試所述之相同類型的量測通道和波形圖紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T062801Z">
+        <seg>使用如全波突波測試所述之相同類型的量測通道和波形圖記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47359,24 +47367,24 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The test is successful if there is no significant difference between the compared record; (beyond that which can reasonably be explained by small differences in the test voltage) am any changes between successive records are progressive and smooth, consistent with thi proper operation of the non-linear element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054831Z" creationid="CCYU" creationdate="20141115T054831Z">
-        <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T054831Z">
+        <seg>正常操作非線性元件的條件下，若比較記錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後記錄之間皆吻合、平穩且一致則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The test is successful if there is no significant difference between the compared records (beyond that which can reasonably be explained by small differences in the test voltage) and any changes between successive records should be progressive and smooth, consistent with the proper operation of the non-iinear element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070327Z" creationid="CCYU" creationdate="20141115T070327Z">
-        <seg>正常操作非線性元件的條件下，若比較紀錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後紀錄之間皆吻合、平穩且一致則通過測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T070327Z">
+        <seg>正常操作非線性元件的條件下，若比較記錄後無顯著差異 (小幅差異可能因測試電壓差異造成)、以及前後記錄之間皆吻合、平穩且一致則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The test is successful if there is no sudden collapse of voltage or discontinuity in the voltage or current indicated on the oscillographic records.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T131933Z" creationid="CCYU" creationdate="20141115T131933Z">
-        <seg>若無突發電壓崩潰發生或波形圖紀錄中無不連續之電壓或電流則通過測試。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T131933Z">
+        <seg>若無突發電壓崩潰發生或波形圖記錄中無不連續之電壓或電流則通過測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48471,8 +48479,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The voltage shall be raised to (&lt;t0/&gt;0&lt;t1/&gt;,&lt;t2/&gt;4&lt;t3/&gt;xU&lt;t4/&gt;r&lt;t5/&gt;)/V&lt;t6/&gt;3&lt;t7/&gt; and a background PD measurement shall be made and recorded.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T052743Z" creationid="CCYU" creationdate="20141115T052743Z">
-        <seg>增加電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T052743Z">
+        <seg>增加電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48503,8 +48511,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The voltage shall be reduced to (o,&lt;t0/&gt;4&lt;t1/&gt;xiy&lt;t2/&gt;r&lt;t3/&gt;)/V&lt;t4/&gt;3&lt;t5/&gt; and the background PD level shall be measured and recorded.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155052Z" creationid="CCYU" creationdate="20141112T155052Z">
-        <seg>降低電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T155052Z">
+        <seg>降低電壓至 (0,4 x U&lt;t4/&gt;r&lt;t5/&gt;) / √3 並進行背景局部放電量測及記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48983,16 +48991,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>There will be ; threshold voltage at which the differences caused by the non-linear elements start to appea and the test sequence shall include at least one record below this threshold.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T063925Z" creationid="CCYU" creationdate="20141115T063925Z">
-        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T063925Z">
+        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之記錄。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>There will be a threshold voltage at which the differences caused by the non-linear elements start to appear and the test sequence shall include at least one record below this threshold.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T052209Z" creationid="CCYU" creationdate="20141115T052209Z">
-        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T052209Z">
+        <seg>其中將有一臨界電壓為非線性元件造成之差異出現之電壓，而測試程序應包含至少一組低於此臨界值之記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54264,8 +54272,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When testing reactors, both of the shunt and series types, items c) and e) are inapplicable; item d) may be applied but only as an additional means&lt;t0/&gt; of transient recording since it is likely to be less sensitive than when used in transformer testing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T080136Z" creationid="CCYU" creationdate="20141123T080136Z">
-        <seg>當測試電感器時，項目 c) 和 e) 對分流器和串聯型皆不適用，項目 d) 可使用但由於其相對用於變壓器測試較不靈敏，因此僅作為額外的暫態紀錄方式。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T080136Z">
+        <seg>當測試電感器時，項目 c) 和 e) 對分流器和串聯型皆不適用，項目 d) 可使用但由於其相對用於變壓器測試較不靈敏，因此僅作為額外的暫態記錄方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56200,16 +56208,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>all the &lt;t0/&gt;100&lt;t1/&gt; % level impulse records.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T054105Z" creationid="CCYU" creationdate="20141115T054105Z">
-        <seg>所有 100 % 電壓之突波紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T054105Z">
+        <seg>所有 100 % 電壓之突波記錄。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>all the &lt;t0/&gt;100&lt;t1/&gt; % level impulse records;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070224Z" creationid="CCYU" creationdate="20141115T070224Z">
-        <seg>所有 100 % 電壓之突波紀錄；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T070224Z">
+        <seg>所有 100 % 電壓之突波記錄；</seg>
       </tuv>
     </tu>
     <tu>
@@ -56641,8 +56649,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>both the chopped wave records up to the time of chop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T070304Z" creationid="CCYU" creationdate="20141115T070304Z">
-        <seg>兩組截波紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T070304Z">
+        <seg>兩組截波記錄。</seg>
       </tuv>
     </tu>
     <tu>
