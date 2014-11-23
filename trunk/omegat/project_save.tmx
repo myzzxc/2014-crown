@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17047,6 +17047,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T071144Z" creationid="CCYU" creationdate="20141102T071144Z">
         <seg>對於大型礦物油浸式電力變壓器，其額外的磁通量影響為潛在的風險因子，油中溶解氣體之色層分析可檢測可能局部過熱之離子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For large power transformers and particularly the intermediate and low-voltage windings thereof, the virtual time to half-value &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; may not be achievable within the value set by the tolerance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051423Z" creationid="CCYU" creationdate="20141123T051244Z">
+        <seg>對於大功率變壓器，特別是中和低電壓繞組，其半高值虛擬時間 &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; 可能無法於公差內之設置值範圍內達到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43769,6 +43777,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220654Z" creationid="Judy" creationdate="20141120T220654Z">
         <seg>線路對地之感應電壓耐壓 (IVW) 通常約為開關突波電壓之 50 %，即約為雷擊突波耐壓 (LI) 之 40 % 至 43 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The inductance of such windings may be so low that the resulting waveshape is oscillatory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051354Z" creationid="CCYU" creationdate="20141123T051354Z">
+        <seg>此類繞組之電感可能過低而使產生之波形震盪。</seg>
       </tuv>
     </tu>
     <tu>
