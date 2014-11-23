@@ -13761,6 +13761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During impulse tests, high electromagnetic fields are produced in the vicinity of the test set&lt;t0/&gt;up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T143107Z" creationid="Judy" creationdate="20141123T143107Z">
+        <seg>突波測試期間，測試裝置週邊將產生高電磁場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During switching impulse tests, the voltages developed across different windings ar approximately proportional to the ratio of numbers of turns.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074457Z" creationid="CCYU" creationdate="20141115T074457Z">
