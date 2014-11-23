@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>50 % of the rated lightning withstand voltage of that terminal for delta-connected windings (because of opposite polarity volta&lt;t0/&gt;ges to earth on the delta terminals - see also 7.4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053304Z" creationid="CCYU" creationdate="20141123T053304Z">
+        <seg>該端子之額定雷擊耐壓之 50 %，針對三角連接繞組 (因為三角端子對地電壓極性相反 - 請見 7.4)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5&lt;t0/&gt; &lt;t1/&gt;Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T070009Z">
@@ -2508,6 +2516,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z">
         <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75 % of the rated lightning withstand voltage of that terminal for star-connected windings;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053141Z" creationid="CCYU" creationdate="20141123T053141Z">
+        <seg>該端子之額定雷擊耐壓之 75 %，針對星形連接繞組；</seg>
       </tuv>
     </tu>
     <tu>
