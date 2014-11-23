@@ -25739,6 +25739,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is equally important to use the raw data for non-standard waveshape evaluation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T105019Z" creationid="CCYU" creationdate="20141123T105019Z">
+        <seg>使用原始資料評估非標準波形也同樣重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is essential that the terminal connections of the test object and the earthing practices employed relate to the method of fai&lt;t0/&gt;lure detection adopted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063007Z" creationid="CCYU" creationdate="20141123T063007Z">
@@ -26040,6 +26048,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070903Z">
         <seg>必須確認中性連接之電流與其電流承載力相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be emphasized that for the purpose of presenting results for acceptance by comparison of traces, the waveforms obtained by digital measurements should be produced from the raw data and not subjected to any mathematical p&lt;t0/&gt;rocessing, filtering, smoothing, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T104909Z" creationid="CCYU" creationdate="20141123T104909Z">
+        <seg>必須強調藉由比較記錄曲線呈現驗收結果，數位量測所得之波形應由原始資料產生且未經任何數學處理、濾波、平滑化等。</seg>
       </tuv>
     </tu>
     <tu>
