@@ -12808,6 +12808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital &lt;t0/&gt;recording offers the potential for mathematical interpretation of the results and allows additional mathematical processing to be used, for example, for fault analysis in recordings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T104207Z" creationid="CCYU" creationdate="20141123T104207Z">
+        <seg>數位紀錄具有針對結果進行數學解析的潛力，並能進行額外的數學處理，例如於記錄中進行故障分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
@@ -49497,6 +49505,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120817Z">
         <seg>於這些油罐區放置吸收墊與護邊是非常理想的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These techniques show promise but interpretation of the results is not ye&lt;t1/&gt;t proven nor unambiguous.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T104320Z" creationid="CCYU" creationdate="20141123T104320Z">
+        <seg>這些技術具有潛力但其結果未經證實也不明確。</seg>
       </tuv>
     </tu>
     <tu>
