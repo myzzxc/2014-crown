@@ -43005,6 +43005,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The direct method, involving an impulse voltage applied to the neutral with all line terminals earthed, permits a longer duration of wavefront, up to 13 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083657Z" creationid="CCYU" creationdate="20141123T083657Z">
+        <seg>以突波電壓輸入至中性點而所有線路端子接地的直接方法可容許最高 13 µs 的波前時間，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The displacer power is calculated by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090749Z">
