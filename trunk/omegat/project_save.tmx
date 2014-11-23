@@ -45597,6 +45597,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The preferred sweep time for records taken for waveshape determination during preliminary adjustment of the &lt;t0/&gt;test circuit parameters is &lt;10 ps for the wavefront record (longer sweep times may be necessary when testing transformer neutrals).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T123959Z" creationid="CCYU" creationdate="20141123T123959Z">
+        <seg>波形測定測試參數初步調整時，首選的記錄掃描時間為波前記錄 &lt; 10 µs (測試變壓器中性點時，可能需要較長的掃描時間)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pressure controlled by the flapper and nozzle variable orifice is fed to the end areas of the second stage spool.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T101916Z" creationid="Judy" creationdate="20141022T101731Z">
