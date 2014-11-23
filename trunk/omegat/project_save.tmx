@@ -42173,6 +42173,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The characteristic events during chopping are largely dependent on the geometrical arrangement of the chopping circuit involved and on t&lt;t0/&gt;he impedance of the chopping circuit and of the test object, all of which determine both the rate of collapse and the amplitude of the opposite polarity peak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T060142Z" creationid="CCYU" creationdate="20141123T060142Z">
+        <seg>截波期間之特徵事件很大程度取決於及波電路之幾何配置以及截波電路和測試目標之阻抗，以上所有參數決定崩潰速率和反極性波峰之振幅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The characteristics of the heat transfer process in the current &lt;t0/&gt;Stirling&lt;t1/&gt; engine without MR have been reported in Salazar et al.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231352Z">
