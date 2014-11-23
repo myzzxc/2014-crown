@@ -25827,6 +25827,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is difficult to lay down preferred rules for sweep speeds and what is meant by late in time as the r&lt;t0/&gt;esponse of every transformer is different and the speed is to some extent dependent on the type of winding employed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T141549Z" creationid="Judy" creationdate="20141123T141549Z">
+        <seg>掃描速度決定之規則難以訂定，且後期時間之定義因每組變壓器之響應不同與速度範圍取決於使用之繞組形式而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is equally important to use the raw data for non-standard waveshape evaluation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T105019Z" creationid="CCYU" creationdate="20141123T105019Z">
