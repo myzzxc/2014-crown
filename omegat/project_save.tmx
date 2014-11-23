@@ -61087,6 +61087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the current transferred to an adjacent shorted and non-tested winding, sometimes referred to as capacitively transferred current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T075551Z" creationid="CCYU" creationdate="20141123T075551Z">
+        <seg>轉移至相鄰短路且非測試繞組之電流，有時也稱為電容性轉移電流；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the difference between hot-spot &lt;t0/&gt;winding temperature and the external cooling medium temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132618Z" creationid="CCYU" creationdate="20141028T132618Z">
@@ -61444,6 +61452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041742Z">
         <seg>空載損耗和負載損耗總和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the tank current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T075603Z" creationid="CCYU" creationdate="20141123T075603Z">
+        <seg>油槽電流；</seg>
       </tuv>
     </tu>
     <tu>
