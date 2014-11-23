@@ -19126,6 +19126,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, it is not possible to state a time to chopping which is the most onerous either in general or for any particu&lt;t4/&gt;lar transformer or reactor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T054351Z" creationid="CCYU" creationdate="20141123T054351Z">
+        <seg>因此無法找出截波時間，無論對於一般或特定的變壓器或電抗器皆非常困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
