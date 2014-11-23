@@ -19710,6 +19710,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this may not always be possible even with the highest values of resistors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T081325Z" creationid="CCYU" creationdate="20141123T081325Z">
+        <seg>然而，即使於最高電阻值之下仍可能無法達到所需條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, under circumstances where it clear that some parts of the transformer that have been fully tested are not involved in tf failure or repair, then at the discretion of the purchaser these parts may not need to be teste again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T133544Z" creationid="CCYU" creationdate="20141115T133544Z">
@@ -25728,6 +25736,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T034900Z">
         <seg>It is intended to describe our products from the point of view of safety requirements and is not intended to guarantee any particular properties. 旨在以安全要求的角度說明我們的產品，不作為任何特定性質的保證。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is m&lt;t2/&gt;ore important to try to obtain the required voltage level by means of termination resistors of sufficiently high value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T081217Z" creationid="CCYU" creationdate="20141123T081217Z">
+        <seg>藉由足夠高的終端電阻值的方法嘗試獲得所需之電壓等級較為重要，</seg>
       </tuv>
     </tu>
     <tu>
