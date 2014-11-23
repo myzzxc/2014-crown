@@ -17692,6 +17692,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the test report (see clause 11) one pertinent recording is normally sufficient for acceptance tests; for diagnostic testing, however, several records with different sweep times may be required.'</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124959Z" creationid="CCYU" creationdate="20141123T124959Z">
+        <seg>測試報告 (請見第 11 節) 中通常一組相關記錄已足以用於驗收測試，然而可能需要不同掃描時間的多組記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the used symbols see Clause 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093534Z" creationid="CCYU" creationdate="20141102T093525Z">
