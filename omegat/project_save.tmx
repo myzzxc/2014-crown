@@ -19486,6 +19486,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in order to improve the wavetail 72, resistance earthing of the non-tested windings may be advantageous (see clause 5 and 7.1) and, in addition, the non-tested line terminals of the winding under test may also be resistance earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063529Z" creationid="CCYU" creationdate="20141123T063529Z">
+        <seg>然而為了改進波尾 T2，非測試繞組通過電阻接地可能有幫助 (請見第 5 節和 7.1)，另外，測試繞組之非測試線路端子也可通過電阻接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, in the case with MR, the power to drive displacer becomes significant due to the huge pressure drop caused by the porous medium, hence, it cannot be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090320Z">
@@ -22718,6 +22726,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z">
         <seg>當安裝其它濾芯至液壓管路時，建議大容量、低壓 ß3≥75 濾芯安裝於返回線路，此濾芯能增加濾芯元件更換時間間隔並大幅降低系統污染等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the methods of waveshape adjustment in 7.1, the following factors have to be considered:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063626Z" creationid="CCYU" creationdate="20141123T063626Z">
+        <seg>除 7.1 以外之額外波形調整方法，可考慮以下因素：</seg>
       </tuv>
     </tu>
     <tu>
