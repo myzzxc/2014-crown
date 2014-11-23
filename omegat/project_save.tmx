@@ -22570,6 +22570,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impedance, earthing of the non-tested terminals of the winding under test may then be applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083950Z" creationid="CCYU" creationdate="20141123T083920Z">
+        <seg>此時則使用測試繞組之非測試端子阻抗和接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important recommendations concerning your&lt;t0/&gt; &lt;t1/&gt;health</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T060703Z">
@@ -24127,6 +24135,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T070234Z">
         <seg>此處，來自膨脹腔體之高溫氣體無法於進入壓縮腔體前充分冷卻；另一方面，來自壓縮腔體之冷空氣無法於進入膨脹腔體前充分加熱，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the inductive loading of the generator&lt;t1/&gt; is significantly increased and it may be difficult to achieve times to half-value set by the tolerances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083923Z" creationid="CCYU" creationdate="20141123T083834Z">
+        <seg>此情況下，產生器之電感負載顯著地增加且可能難以於公差內達到半高值時間，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35193,6 +35209,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T132316Z">
         <seg>多電壓繞組 (Reconnectable windings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recording of tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083958Z" creationid="CCYU" creationdate="20141123T083958Z">
+        <seg>測試記錄</seg>
       </tuv>
     </tu>
     <tu>
