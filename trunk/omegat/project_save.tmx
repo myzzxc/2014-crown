@@ -34509,6 +34509,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protection of the sensitive electronic devices in the di&lt;t1/&gt;gital recording system, the entire processing equipment and its power supply against these fields is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T143336Z" creationid="Judy" creationdate="20141123T143336Z">
+        <seg>必須保護記錄系統、整組處理設備以及其電源供應中敏感之電氣裝置不受電磁場影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protective eyewear should be worn where dust levels are high enough to cause irritation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173652Z">
@@ -43177,6 +43185,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140914T025011Z">
         <seg>由 PIV 所提供的六種峰值檢測演算法得到之不同結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The digitizer screens should have a resolution of &gt;768 x 1 024 pixels and the printers should have &gt; 300 dots per inch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T143643Z" creationid="Judy" creationdate="20141123T143643Z">
+        <seg>數位化螢幕隻解析度應 ≥ 768 x 1 024 畫素且印表機應具有每英吋 &gt; 300 點 (DPI) 之解析度。</seg>
       </tuv>
     </tu>
     <tu>
