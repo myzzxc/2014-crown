@@ -12352,6 +12352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the form of the current trace and on the &lt;t0/&gt;use of linear or exponential sweeps, it may be necessary to use more than one record with different sweep times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140413Z" creationid="Judy" creationdate="20141123T140413Z">
+        <seg>依據電流曲線之形式以及使用線性或指數性掃描，可能需要使用多於一組不同掃描時間之記錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the voltage level and on the type of transformer different tests have been selected to achieve this, and appropriately coordinated test voltage levels are given in Table 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T132612Z" creationid="Judy" creationdate="20141119T132612Z">
@@ -49313,6 +49321,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T155927Z">
         <seg>因此，本研究的目的為探討具有移動式再生器與無移動式再生器之史特林引擎中熱傳導過程的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the recorded current waves are the main criteria of the test result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140111Z" creationid="Judy" creationdate="20141123T140111Z">
+        <seg>因此記錄之電流波為測試結果判定的主要標準。</seg>
       </tuv>
     </tu>
     <tu>
