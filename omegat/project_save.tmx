@@ -54806,6 +54806,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While the applied voltage is uniquely defined, &lt;t0/&gt;the choice of the other characteristic to be recorded is dependent on the selection of the method of failure detection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112745Z" creationid="CCYU" creationdate="20141123T112745Z">
+        <seg>當施加電壓以明確定義，記錄其它特性之選擇取決於故障檢測方法的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While the output voltage of the impulse generator is determined by the test levels of the windings with respect to their highest voltage for equipment &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; for the test object, the required energy storage capability is essentially dependent on the inherent i&lt;t3/&gt;mpedances of the test object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T145331Z" creationid="Judy" creationdate="20141122T145331Z">
