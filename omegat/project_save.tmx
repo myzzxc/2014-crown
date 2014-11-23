@@ -42261,6 +42261,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chopping loop, however, should be as small as possible to obtain the highest rate of collapse, but the overswing to opposite polarity sh&lt;t0/&gt;ould be limited to less than, or equal to 30 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T061913Z" creationid="CCYU" creationdate="20141123T061913Z">
+        <seg>然而截波迴路應盡可能地小以得到最高的崩潰速率，但反極性過擺動應限制於 30 % 以下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The classes of controlled products listed in the CPR, Section 32, &lt;t2/&gt;Part&lt;t3/&gt; IV, have been reviewed and based on Professional Judgment this product has been determined not to be WHMIS controlled.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185034Z">
