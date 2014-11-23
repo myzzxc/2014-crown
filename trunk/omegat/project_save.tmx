@@ -6717,6 +6717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analogue recording of the impulse voltage waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T121142Z" creationid="CCYU" creationdate="20141123T121142Z">
+        <seg>類比記錄突波電壓波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analogue recording of waveshapes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T112813Z" creationid="CCYU" creationdate="20141123T112813Z">
@@ -12644,6 +12652,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T160715Z" creationid="CCYU" creationdate="20141101T160715Z">
         <seg>繞組熱點溫度上升測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determination of the impulse voltage waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T121156Z" creationid="CCYU" creationdate="20141123T121156Z">
+        <seg>突波電壓波形測定</seg>
       </tuv>
     </tu>
     <tu>
