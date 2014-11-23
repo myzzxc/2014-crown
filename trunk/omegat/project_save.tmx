@@ -7589,6 +7589,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applicable methods of failure detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064521Z" creationid="CCYU" creationdate="20141123T064521Z">
+        <seg>故障檢測應用方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application guide</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032126Z" creationid="Judy" creationdate="20141122T032126Z">
@@ -15253,6 +15261,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T024010Z">
         <seg>廠房操作人員能選擇性地控制熱處理工件之溫度量測以大量的節省能源及時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failure detection is normally accomplished by examination of the oscillographic or raw data digital records of the applied test voltage and the impulse response current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064718Z" creationid="CCYU" creationdate="20141123T064718Z">
+        <seg>通常藉由檢查輸入測試電壓和突波響應電流之波形圖或數位記錄原始資料以進行故障檢測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35149,6 +35165,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ref&lt;t0/&gt;er also to IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064445Z" creationid="CCYU" creationdate="20141123T064445Z">
+        <seg>請參閱 IEC 60076-3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to Annex E for suggested installation methods.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062816Z" creationid="CCYU" creationdate="20141102T062816Z">
@@ -53994,6 +54018,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062926Z" creationid="CCYU" creationdate="20141102T062926Z">
         <seg>當同一繞組使用多於一組感測器時，最大讀值視為熱點繞組溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When non-linear elements or surge diverters - built into the transformer or external - are installed for the limitation of transferred overvoltage transients, the impulse test procedure should be discussed in advance for each particular case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064422Z" creationid="CCYU" creationdate="20141123T064422Z">
+        <seg>當變壓器中或外部裝有非線性元件或避雷器時以限制過電壓暫態轉移時，應提前針對特定情況討論突波測試程序。</seg>
       </tuv>
     </tu>
     <tu>
