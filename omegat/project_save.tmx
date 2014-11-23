@@ -40589,6 +40589,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terminal connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062806Z" creationid="CCYU" creationdate="20141123T062806Z">
+        <seg>端子連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminal connections and applicable methods of failure detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062800Z" creationid="CCYU" creationdate="20141123T062800Z">
+        <seg>故障檢測之端子連接和應用方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Terminal marking on the transformer follow&lt;t0/&gt;s national practice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153616Z">
@@ -44141,6 +44157,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The latter part will only be comparable fo&lt;t1/&gt;r reasonably identical times to chopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062728Z" creationid="CCYU" creationdate="20141123T062641Z">
+        <seg>後半部分僅能於足夠相似的截波時間下進行比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The length of time at the PD measurement voltage should be given if this is less than one hour;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T131251Z" creationid="CCYU" creationdate="20141118T131251Z">
@@ -45673,6 +45697,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T233003Z">
         <seg>原因是由於其較大的熱容量，移動式再生器中的多孔介質中能夠於整個引擎週期中保持軸向溫度梯度的穩定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recommendation in IEC 60076-3 to use a triggered-type&lt;t0/&gt; chopping gap is made because of its advantage in obtaining consistency of the time to chopping, thereby facilitating the comparison of oscillographic or digital recordings not only before but also after chopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062644Z" creationid="CCYU" creationdate="20141123T062629Z">
+        <seg>IEC 60076-3 中建議使用觸發型截波間距，因為其具有得到一致性截波時間之優點，使波形圖或數位紀錄不僅能於截波前也能於截波後進行比較，</seg>
       </tuv>
     </tu>
     <tu>
