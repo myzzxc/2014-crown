@@ -11192,6 +11192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connections for impulse testing are detailed in IEC 60076-3 for transformers and in IEC 60289 for reactors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063134Z" creationid="CCYU" creationdate="20141123T063134Z">
+        <seg>變壓器突波測試之連接詳細資訊收錄於 IEC 60076-3 之中；電抗器之詳細資訊收錄於 IEC 60289 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consequential Cost &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T130010Z">
@@ -31152,6 +31160,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T113331Z" creationid="Judy" creationdate="20141117T113140Z">
         <seg>通常量測阻抗、電纜和量測儀器為同時提供以最佳化量測系統之整體性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally the non-tested terminals of the phase winding under test are earthed and the non-tested phase windings are shorted &lt;t0/&gt;and earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063229Z" creationid="CCYU" creationdate="20141123T063229Z">
+        <seg>通常測試相繞組之非測試端子接地而非測試相繞組短路並接地。</seg>
       </tuv>
     </tu>
     <tu>
