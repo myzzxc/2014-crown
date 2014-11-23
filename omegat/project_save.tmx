@@ -34237,6 +34237,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proof that these differences are&lt;t0/&gt; indeed caused by operation of these devices should be demonstrated by making two or more reduced full-wave impulse tests at different voltage levels to show the trend in their operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T082719Z" creationid="CCYU" creationdate="20141123T082719Z">
+        <seg>應於不同電壓等級下進行兩次或多次降低全波突波測試以顯示其操作中之趨勢，以證明這些差異實際上由此類裝置之操作所引起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Propane-1,2-diol</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131947Z">
