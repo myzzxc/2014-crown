@@ -14705,6 +14705,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: 60 %, 80 %, 100 %, 80 %, 60 %.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083054Z" creationid="CCYU" creationdate="20141123T083054Z">
+        <seg>例如：60 %、80 %、100 %、80 %、60 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142000Z">
@@ -51570,6 +51578,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073022Z">
         <seg>為了解出這些過程，必須使用非常細小的格點與較短的時間，造成需要較長的運算時間以達收斂的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the reversibility of any non-linear effects, the same reduce&lt;t1/&gt;d full-wave impulses should follow up the full-wave test voltage in a reversed way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083022Z" creationid="CCYU" creationdate="20141123T083022Z">
+        <seg>為了展現任何非線性效應的可逆性，應於全波測試電壓下以相反方向進行相同的降低全波突波測試。</seg>
       </tuv>
     </tu>
     <tu>
