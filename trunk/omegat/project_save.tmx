@@ -7661,6 +7661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applied impulse test voltage wave recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124433Z" creationid="CCYU" creationdate="20141123T124433Z">
+        <seg>施加之突波測試電壓波形記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applied voltage minimum insulation level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034427Z" creationid="MAE" creationdate="20141119T034325Z">
@@ -23318,6 +23326,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043533Z">
         <seg>為了進一步瞭解非遽變性地滑現象，我們使用位移檢測技術來量測整體位移模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be present:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124548Z" creationid="CCYU" creationdate="20141123T124548Z">
+        <seg>為了決定測試波之振幅並能檢測出現之故障：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48641,6 +48657,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055339Z" creationid="CCYU" creationdate="20141115T055339Z">
         <seg>全波形突波之波形如 13.2.1 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wavetail record should permit the evaluation of the time to half-value and, on occasions, the amplitude of reversed pola&lt;t1/&gt;rity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124344Z" creationid="CCYU" creationdate="20141123T124344Z">
+        <seg>波尾記錄應足以評估半高值時間，有時也需評估反極性振幅。</seg>
       </tuv>
     </tu>
     <tu>
