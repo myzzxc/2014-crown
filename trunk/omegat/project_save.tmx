@@ -20400,6 +20400,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IEC 61083-1 specifies a 9-bit, 60 &lt;t0/&gt;MHz digitizer as the minimum resolution of the digitizer for the registration of impulse voltage and current waveshapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T082645Z" creationid="MAE" creationdate="20141124T082645Z">
+        <seg>IEC 61083-1 指定調整突波電壓和電流波形之數位紀錄儀最低解析度為 9-bit、60 &lt;t0/&gt;MHz。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IEC 61083-1, &lt;t0/&gt;Instruments and software used for measuremen&lt;t1/&gt;t in high-voltage impulse tests&lt;t2/&gt; - &lt;t3/&gt;Part 1: Requirements for instruments</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033907Z" creationid="Judy" creationdate="20141122T033907Z">
