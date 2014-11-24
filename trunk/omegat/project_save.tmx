@@ -17381,8 +17381,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For most transf&lt;t0/&gt;ormers, at full test level, the exponential decay of the wavetail is interrupted by a sudden fall through zero, at a variable time after the crest, due to core saturation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T135853Z" creationid="CCYU" creationdate="20141124T135853Z">
-        <seg>多數變壓器於全測試電壓等級下，波尾For most transf&lt;t0/&gt;ormers, at full test level, the exponential decay of the wavetail is interrupted by a sudden fall through zero, at a variable time after the crest, due to core saturation.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T140220Z" creationid="CCYU" creationdate="20141124T135853Z">
+        <seg>多數變壓器於全測試電壓等級下，波尾之指數衰減於波峰後不同時間，因為核心飽和突然掉至零點而中斷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49705,6 +49705,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130758Z" creationid="CCYU" creationdate="20141124T130758Z">
         <seg>因此將兩種設備分開處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the virtual time to half-value is not used to specify the wavetail of the&lt;t1/&gt; applied switching impulse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T140359Z" creationid="CCYU" creationdate="20141124T140359Z">
+        <seg>因此施加開關突波不使用虛擬半高值時間，</seg>
       </tuv>
     </tu>
     <tu>
