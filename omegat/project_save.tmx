@@ -4581,6 +4581,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A parallel measurement of the peak voltage by a peak voltmeter according to IEC 61083-1 is highly recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T084733Z" creationid="MAE" creationdate="20141124T084733Z">
+        <seg>依據 IEC 61083-1，強烈建議以值峰值電壓表同時量測電壓峰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A partial discharge (PD) is an electric discharge that only partially bridges electrically stresse* insulation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T161226Z" creationid="CCYU" creationdate="20141116T161226Z">
