@@ -24419,6 +24419,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, and &lt;t11/&gt;T&lt;t12/&gt;z&lt;t13/&gt; can only &lt;t14/&gt;be determined from full test-level shots.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142449Z" creationid="CCYU" creationdate="20141124T142449Z">
+        <seg>此情況下，僅能由施加全測試電壓以建立 &lt;t11/&gt;T&lt;t12/&gt;z&lt;t13/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, any variation in the transverse direction that is important for predicting the engine’s performance accurately will not be accounted for.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T221245Z">
