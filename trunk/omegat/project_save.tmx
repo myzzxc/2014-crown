@@ -23082,6 +23082,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, identical waveshapes at reduced and full test levels cannot be obtained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141403Z" creationid="CCYU" creationdate="20141124T141300Z">
+        <seg>此外，在降低和全測試電壓等級下無法獲得相同的波形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, some studies applied PIV technique for producing displacement map from multi-temporal images (Chambon et al., 2003).With this feature, we use PIV to analyze the movement of a fine mesh of the monochrome aerial photograph patch.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084430Z">
@@ -53554,6 +53562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123735Z" creationid="CCYU" creationdate="20141108T123735Z">
         <seg>除另行指定外，具有多種操作接線配置之繞組應針對各種配置進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless the core magnetization state is identical before each switching impulse &lt;t0/&gt;application at a given voltage level, identical waveshapes on successive applications will not be obtained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141321Z" creationid="CCYU" creationdate="20141124T141253Z">
+        <seg>除非核心磁化狀態於給定電壓等級下施加各開關突波之前完全相同，否則各突波施加後所得之波形不會完全相同。</seg>
       </tuv>
     </tu>
     <tu>
