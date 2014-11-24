@@ -18148,6 +18148,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For wave analysis, it is &lt;t0/&gt;important to take samples over the complete waveshape until the wave is completely damped, using the maximum available memory of the digitizer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090628Z" creationid="MAE" creationdate="20141124T090609Z">
+        <seg>波形分析中，使用數位記錄器的最大可用記憶體對完整波形取樣直到其完全穩定相當重要，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For what our spill kits will absorb, we are significantly less expensive than virtually every spill kit on the market.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133553Z">
@@ -25992,6 +26000,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T023658Z" creationid="CCYU" creationdate="20141115T023658Z">
         <seg>製造商於競標階段應針對特定變壓器組合及測試設備進行評估，以提供適當的測試設備使波形不超出公差並達到要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is important to programme the digitizer in such a way that a sufficient number of samples is present to deter&lt;t1/&gt;mine the virtual starting-point of the wave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090822Z" creationid="MAE" creationdate="20141124T090619Z">
+        <seg>必須以此方式設定數位記錄器以獲取足夠的取樣數，用以決定波之虛擬起始點。</seg>
       </tuv>
     </tu>
     <tu>
