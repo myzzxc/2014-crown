@@ -19422,6 +19422,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the requirement in IEC 60076-3 that a&lt;t1/&gt; phase-to-phase voltage of 1,5 &lt;t2/&gt;U&lt;t3/&gt; will occur when a voltage &lt;t4/&gt;U&lt;t5/&gt; is applied to one terminal, is valid only in principle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152536Z" creationid="CCYU" creationdate="20141124T152536Z">
+        <seg>因此 IEC 60076-3 之要求規範中，相對相電壓 1,5 &lt;t2/&gt;U&lt;t3/&gt; 將發生於電壓 &lt;t4/&gt;U&lt;t5/&gt; 施加於一組端子時，僅於理論上有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
@@ -49677,6 +49685,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, during a test, the interphase voltages are likely to be higher than 1,5 &lt;t6/&gt;U&lt;t7/&gt; if no measures are taken at the non-tested terminals t&lt;t8/&gt;o suppress the oscillatory voltages by means of high ohmic impedance earthing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152637Z" creationid="CCYU" creationdate="20141124T152637Z">
+        <seg>因此於測試中，相間電壓可能要高於 1,5 &lt;t6/&gt;U&lt;t7/&gt; 如果不採取措施在非測試終端 t &lt;t8/&gt; o 抑制振盪電壓通過高歐姆阻抗接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, for each winding, the corresponding hot-spot factor &lt;t0/&gt;(H &lt;t1/&gt;~QS)&lt;t2/&gt; depends on:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110826Z" creationid="CCYU" creationdate="20141102T110826Z">
@@ -55568,8 +55584,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Whilst the basic switching impulse wave is inductively transferred, the interph&lt;t0/&gt;ase capacitive coupling and the inherent phase capacitances and inductances can cause additional oscillations which are superimposed on the transferred voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152155Z" creationid="CCYU" creationdate="20141124T152155Z">
-        <seg>由於基本開關突波為感應傳輸，相內電容耦合以及固有相電容和電感會導致額外疊加於轉移電壓上之震盪，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152641Z" creationid="CCYU" creationdate="20141124T152155Z">
+        <seg>由於基本開關突波為感應傳輸，相間電容耦合以及固有相電容和電感會導致額外疊加於轉移電壓上之震盪，</seg>
       </tuv>
     </tu>
     <tu>
