@@ -23538,6 +23538,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to comply with the requirements of IEC 60076-3, there is only one admissible test connection for three-phase transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143011Z" creationid="CCYU" creationdate="20141124T143000Z">
+        <seg>為了符合 IEC 60076-3 規範，三相變壓器僅有一組可採納之測試連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be present</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085254Z" creationid="MAE" creationdate="20141124T085254Z">
@@ -26416,6 +26424,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132259Z">
         <seg>應注意太陽磁場干擾可能於變壓器中性點產生接地電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be noted that there may be significant differences in the shape of the wavetail on different limbs of a transformer due to the different reluctances of the magnetic circuit involved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142744Z" creationid="CCYU" creationdate="20141124T142744Z">
+        <seg>需注意變壓器不同心柱之波尾形狀可能有顯著的不同，因為其磁路具有不同的磁阻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41217,6 +41233,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062806Z" creationid="CCYU" creationdate="20141123T062806Z">
         <seg>端子連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminal connections &lt;t0/&gt;and applicable methods of failure detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142759Z" creationid="CCYU" creationdate="20141124T142759Z">
+        <seg>故障檢測之端子連接和應用方法</seg>
       </tuv>
     </tu>
     <tu>
