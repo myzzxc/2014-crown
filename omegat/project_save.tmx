@@ -48781,6 +48781,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The wavetail record should permit the evaluation of the time to half-value and, on occasions, the amplitude of reversed polarity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T082209Z" creationid="MAE" creationdate="20141124T082209Z">
+        <seg>波尾記錄應足以評估半高值時間，有時也需評估反極性振幅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The way they operate, they cannot be in a contained system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T115537Z">
