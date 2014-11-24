@@ -49021,6 +49021,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The wavetail is influenced not only by the usual waveshaping components but also by a probable saturation of the core.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T135736Z" creationid="CCYU" creationdate="20141124T135736Z">
+        <seg>波尾不僅受一般波形項影響也受核心可能飽和影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The wavetail record should permit the evaluation of the time to half-value and, on occasions, the amplitude of reversed pola&lt;t1/&gt;rity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124344Z" creationid="CCYU" creationdate="20141123T124344Z">
