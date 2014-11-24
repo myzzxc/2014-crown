@@ -17860,6 +17860,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this reason, when switching impulses are applied from the high-voltage side of the transformer, it is possible to establish &lt;t2/&gt;T\&lt;t3/&gt; and &lt;t4/&gt;T.&lt;t5/&gt;d from the reduced voltage applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142054Z" creationid="CCYU" creationdate="20141124T142054Z">
+        <seg>因此當施加開關突波於變壓器高電壓側時，可施加降低電壓以建立 &lt;t2/&gt;T1&lt;t3/&gt; 和 &lt;t4/&gt;T&lt;t5/&gt;d。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For this system the following applies:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141955Z">
@@ -54856,8 +54864,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When it does occur, its effect on the voltage waveshape may be &lt;t0/&gt;large or small depending on the amount of saturation&lt;t1/&gt; involved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141702Z" creationid="CCYU" creationdate="20141124T141702Z">
-        <seg>當其發生時，When it does occur, its effect on the voltage waveshape may be &lt;t0/&gt;large or small depending on the amount of saturation&lt;t1/&gt; involved.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141825Z" creationid="CCYU" creationdate="20141124T141702Z">
+        <seg>當飽和發生時，其對電壓波形的影響取決於飽和程度可能或大或小。</seg>
       </tuv>
     </tu>
     <tu>
