@@ -25987,6 +25987,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is determined by the effective winding capacitance, any load capacitance and the series resistances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T131145Z" creationid="CCYU" creationdate="20141124T131145Z">
+        <seg>其由有效繞組電容、任何負載電容以及串聯電阻所決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is difficult to lay down preferred rules for sweep speeds and what is meant by late in time as the r&lt;t0/&gt;esponse of every transformer is different and the speed is to some extent dependent on the type of winding employed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T141549Z" creationid="Judy" creationdate="20141123T141549Z">
