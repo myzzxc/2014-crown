@@ -16267,6 +16267,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.14 gives a clear example of this effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152228Z" creationid="CCYU" creationdate="20141124T152228Z">
+        <seg>圖 B.14 為此效應之明顯的範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.2 - Value of factor &lt;t0/&gt;Q &lt;t1/&gt;as a function of rated power and strand height (W)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121753Z" creationid="CCYU" creationdate="20141102T121753Z">
@@ -55554,6 +55562,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T131959Z" creationid="CCYU" creationdate="20141112T131959Z">
         <seg>雖然以內部絕緣之額定耐壓值可作為外部絕緣之參考，但並非所有情況皆適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whilst the basic switching impulse wave is inductively transferred, the interph&lt;t0/&gt;ase capacitive coupling and the inherent phase capacitances and inductances can cause additional oscillations which are superimposed on the transferred voltages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152155Z" creationid="CCYU" creationdate="20141124T152155Z">
+        <seg>由於基本開關突波為感應傳輸，相內電容耦合以及固有相電容和電感會導致額外疊加於轉移電壓上之震盪，</seg>
       </tuv>
     </tu>
     <tu>
