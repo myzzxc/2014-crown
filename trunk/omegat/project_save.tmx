@@ -8005,6 +8005,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As indicated in IEC 60076-3, there are no strict values specified for the virtual front time of a switching impulse wave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130911Z" creationid="CCYU" creationdate="20141124T130911Z">
+        <seg>如 IEC 60076-3 所示，開關突波之虛擬波前時間無嚴格的指定數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As long as no breakdown occurs, and unless very high partial discharges are sustained for a long time, the test is regarded as non-destructive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131653Z" creationid="CCYU" creationdate="20141113T131653Z">
@@ -26352,6 +26360,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T133352Z">
         <seg>應注意雖然並聯操作非不正常條件，仍建議使用者將與其他變壓器並聯時提醒製造商並指明所使用之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should, however, be sufficiently long to ensure essentially uniform distribution of voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T131006Z" creationid="CCYU" creationdate="20141124T131006Z">
+        <seg>然而時間應足以確保電壓本質上均勻分佈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49661,6 +49677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the two items of equipment are dealt with separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130758Z" creationid="CCYU" creationdate="20141124T130758Z">
+        <seg>因此將兩種設備分開處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the ﬂow and heat transfer phenomena of the engine cycle can be solved by transient three-dimensional laminar&lt;t9/&gt; &lt;t10/&gt;and compressible &lt;t11/&gt;Navier&lt;t12/&gt;–Stokes equations plus energy equation and ideal gas equation of state as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T125711Z">
@@ -51105,6 +51129,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133151Z" creationid="CCYU" creationdate="20141112T133151Z">
         <seg>此測試一般適用於中性端子於運作時未直接接地的情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This normally requires front &lt;t0/&gt;times of &gt;100 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T131044Z" creationid="CCYU" creationdate="20141124T131044Z">
+        <seg>通常所需之波前時間為 ≥ 100 µs，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52634,6 +52666,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123034Z" creationid="CCYU" creationdate="20141108T122554Z">
         <seg>變壓器名目額定電壓為 &lt;t0/&gt;66&lt;t1/&gt; / 11 kV &lt;t2/&gt;U&lt;t3/&gt;m&lt;t4/&gt; (HV) = 72,5 kV 和 &lt;t5/&gt;U&lt;t6/&gt;m&lt;t7/&gt; (LV) = 12 kV，皆為統一絕緣、Y 連接，其額定銘牌為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130801Z" creationid="CCYU" creationdate="20141124T130801Z">
+        <seg>變壓器</seg>
       </tuv>
     </tu>
     <tu>
@@ -54194,6 +54234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173836Z">
         <seg>工作 / 衛生措施：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wa&lt;t0/&gt;veshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130805Z" creationid="CCYU" creationdate="20141124T130805Z">
+        <seg>波形</seg>
       </tuv>
     </tu>
     <tu>
