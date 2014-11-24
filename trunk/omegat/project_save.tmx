@@ -26180,6 +26180,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is therefore recommended that higher sampling frequencies (as mentioned before) be used to di&lt;t1/&gt;scriminate noise in the measuring circuit from the actual behaviour of the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090319Z" creationid="MAE" creationdate="20141124T090319Z">
+        <seg>因此建議使用較高的取樣頻率 (如前所述) 以區別量測電路中之雜訊與測試目標之實際特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070447Z">
