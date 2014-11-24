@@ -19566,6 +19566,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High ohmic loading of the non-tested phase terminals of the winding system under test and/&lt;t0/&gt;or at the non-tested winding phase terminals is a convenient means to achieve appropriate damping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152944Z" creationid="CCYU" creationdate="20141124T152944Z">
+        <seg>高High ohmic loading of the non-tested phase terminals of the winding system under test and/&lt;t0/&gt;or at the non-tested winding phase terminals is a convenient means to achieve appropriate damping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High pressure &lt;t0/&gt;waterjet</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104216Z">
@@ -45909,6 +45917,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The phase-to-earth voltages at the non-tested terminals can be much higher than 0,5 &lt;t9/&gt;U.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152929Z" creationid="CCYU" creationdate="20141124T152929Z">
+        <seg>非測試端子之相對地電壓可遠高於 0,5 &lt;t9/&gt;U。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The phase-to-pha clearances are based on those given in IEC 60071-1 for a conductor-to-conductor electroi structure based on the switching impulse level with a phase-to-phase divided by phase-to-eai value of 1,5.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T142115Z" creationid="CCYU" creationdate="20141115T141025Z">
@@ -49687,8 +49703,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Therefore, during a test, the interphase voltages are likely to be higher than 1,5 &lt;t6/&gt;U&lt;t7/&gt; if no measures are taken at the non-tested terminals t&lt;t8/&gt;o suppress the oscillatory voltages by means of high ohmic impedance earthing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152637Z" creationid="CCYU" creationdate="20141124T152637Z">
-        <seg>因此於測試中，相間電壓可能要高於 1,5 &lt;t6/&gt;U&lt;t7/&gt; 如果不採取措施在非測試終端 t &lt;t8/&gt; o 抑制振盪電壓通過高歐姆阻抗接地。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152959Z" creationid="CCYU" creationdate="20141124T152637Z">
+        <seg>因此於測試中，若於飛測試端子上無藉由高歐姆阻抗接地之抑制震盪電壓措施則相間電壓可能要高於 1,5 &lt;t6/&gt;U&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
