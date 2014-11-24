@@ -37285,6 +37285,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sampling frequencies of 10 MHz to 20 MHz per channel of the digitizer normally suffice because the maximum frequencies of part winding resonance normally do not exceed 1 MHz to 2 MHz.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085614Z" creationid="MAE" creationdate="20141124T085614Z">
+        <seg>數位記錄器每通道取樣頻率 10 MHz 至 20 MHz 一般上以足夠，因為部份繞組共振通常不超過 1 MHz 至 2 MHz。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Santa Cruz, USA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014236Z">
@@ -58431,6 +58439,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>for chopped waves, a &lt;t0/&gt;period for presentation of 10 ps to 25 ps is usually found sufficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085348Z" creationid="MAE" creationdate="20141124T085348Z">
+        <seg>截波之呈現時間介於 10 µs 至 25 µs 通常已足夠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>for chopped waves, a sweep time&lt;t0/&gt; of 10 ps to 25 ps is usually found sufficient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124710Z" creationid="CCYU" creationdate="20141123T124710Z">
@@ -58443,6 +58459,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150455Z" creationid="CCYU" creationdate="20141101T150455Z">
         <seg>銅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for full waves, the period for the presentation of sampled data should not be less than /100 ps;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085332Z" creationid="MAE" creationdate="20141124T085332Z">
+        <seg>全波之取樣資料呈現時間不得低於 100 µs；</seg>
       </tuv>
     </tu>
     <tu>
