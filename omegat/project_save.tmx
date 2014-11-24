@@ -46541,6 +46541,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The response of transformers and reactors to switching impulses is very different because transformers have a complete magnetic circuit and the relatively long duration of the switching impulse therefore allows the establ&lt;t0/&gt;ishment of a significant amount of core flux (see IEC 60076-3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130601Z" creationid="CCYU" creationdate="20141124T130601Z">
+        <seg>變壓器電抗器對開關突波之響應非常不同，因為變壓器具有完整磁路且開關突波相對長的持續時間能建立大量的核心通量 (請見 IEC 60076-3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result obtained should not deviate more than ± 0,5 K from the previous one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155721Z" creationid="CCYU" creationdate="20141104T155721Z">
@@ -50865,6 +50873,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T155431Z">
         <seg>實際情況不一定如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not the case for reactors for which, in addition, waveshape problems and test procedures are different.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130706Z" creationid="CCYU" creationdate="20141124T130706Z">
+        <seg>電抗器的情況則不同，且波形問題和測試程序不同。</seg>
       </tuv>
     </tu>
     <tu>
