@@ -7685,6 +7685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applied impulse t&lt;t0/&gt;est voltage wave recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085245Z" creationid="MAE" creationdate="20141124T085245Z">
+        <seg>施加之突波測試電壓波形記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applied impulse test voltage wave recording</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124433Z" creationid="CCYU" creationdate="20141123T124433Z">
@@ -23422,6 +23430,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043533Z">
         <seg>為了進一步瞭解非遽變性地滑現象，我們使用位移檢測技術來量測整體位移模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be present</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T085254Z" creationid="MAE" creationdate="20141124T085254Z">
+        <seg>為了決定測試波之振幅並能檢測出現之故障：</seg>
       </tuv>
     </tu>
     <tu>
