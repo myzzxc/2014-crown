@@ -14601,6 +14601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errors in excess of 10 % have been observed due to the built-in curve smoothing algorithms in the digitizers (see&lt;t2/&gt; figures B.18, B.19 and B.21).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T084248Z" creationid="MAE" creationdate="20141124T084248Z">
+        <seg>誤差超過 10 % have been observed due to the built-in curve smoothing algorithms in the digitizers (see&lt;t2/&gt; figures B.18, B.19 and B.21).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Especially the last advantage makes it regarded as an important green energy device and potentially one of the most promising solutions to the global warming problem.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T212602Z">
@@ -23574,6 +23582,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T091106Z">
         <seg>尤其是具有交錯繞組之變壓器，量測相連接之線路端子的零序阻抗，當施加三相對稱電壓而一線路端子連接至中性點時可能造成不同數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular, when testing high-power-rated low-voltage windings with resulting unipo&lt;t1/&gt;lar overshoots with frequencies less than 0,5 MHz, IEC 61083-2 is not applicable for the amplitude evaluation of such non-standard waveshapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T084250Z" creationid="MAE" creationdate="20141124T084217Z">
+        <seg>其中當測試高額定功率低壓繞組產生單極超越量且頻率低於 0,5 Mhz 時，IEC 61083-2 並不適用於此類非標準波形之振幅評估，</seg>
       </tuv>
     </tu>
     <tu>
