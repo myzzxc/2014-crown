@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This interconnection of non-tested terminals is not necessary for transformers provided with a delta-connected winding.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143313Z" creationid="CCYU" creationdate="20141124T143313Z">
+        <seg>(非測試端子相互連接對具有三角連接繞組之變壓器為非必要性。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is assumed to be the case when the ground acceleration level ag is below 2 ms-2 or approximately 0,2 g.) See IEC 60068-3-3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110113Z">
@@ -50737,6 +50745,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150135Z" creationid="Judy" creationdate="20141101T075818Z">
         <seg>維持此條件 1 小時，期間至少每 5 分鐘持續記錄頂層液體、繞組熱點 (若有量測) 及外部冷媒溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This connection is shown in figure 4, which indicates that &lt;t0/&gt;the neutral should always be earthed and the terminals of the non-tested phases preferably interconnected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143202Z" creationid="CCYU" creationdate="20141124T143202Z">
+        <seg>此連接如圖 4 所示，中性點應永遠接地且非測試相之端子最好互相連接。</seg>
       </tuv>
     </tu>
     <tu>
