@@ -17291,6 +17291,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For failure detection, normally only the measurement of the applied voltage is sufficient, but when the test is performed&lt;t0/&gt; by applying the impulse to an intermediate or low-voltage terminal, the voltage should be measured at the terminal with the highest voltage for equipment &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T155300Z" creationid="CCYU" creationdate="20141124T155300Z">
+        <seg>對於故障檢測通常僅需施加電壓量測便已足夠，但當以施加突波至中或低電壓端子進行測試時，應量測設備 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; 中最高電壓的端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For fixing and/or supporting&lt;t0/&gt; &lt;t1/&gt;concrete structural elements or&lt;t2/&gt; &lt;t3/&gt;heavy units such as cladding and&lt;t4/&gt; &lt;t5/&gt;suspended ceilings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T022531Z">
