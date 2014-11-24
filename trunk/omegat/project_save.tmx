@@ -4107,6 +4107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;T&lt;t7/&gt;z&lt;t8/&gt; cannot be established until the first full-level voltage application is made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142215Z" creationid="CCYU" creationdate="20141124T142215Z">
+        <seg>於第一次施加全電壓等級之前無法建立&lt;t6/&gt;T&lt;t7/&gt;z&lt;t8/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t6/&gt;Therefore, &lt;t7/&gt;the net engine power is calculated by adding indicated power and displacer power together:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T090513Z">
@@ -54938,6 +54946,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T123900Z">
         <seg>當具有此類限制時，抽頭為 '降低功率抽頭'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When switching impulses are performed from the low-voltage side of the transformer, only &lt;t9/&gt;T-\&lt;t10/&gt; can be established from reduced voltage applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142400Z" creationid="CCYU" creationdate="20141124T142400Z">
+        <seg>當於變壓器低電壓側施加開關突波時，施加降低電壓僅能建立 &lt;t9/&gt;T1&lt;t10/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
