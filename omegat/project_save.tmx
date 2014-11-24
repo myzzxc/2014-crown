@@ -19862,6 +19862,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, resistive loading causes a significant lengthening of the wavefront at the non-tested terminals, resulting in a phase-to-phase voltage of less than &lt;t1/&gt;1,5 &lt;t2/&gt;U.&lt;t3/&gt; This results from the slightly different times at which the maxima of applied (&lt;t4/&gt;U&lt;t5/&gt;) and induced (0,5 &lt;t6/&gt;U) &lt;t7/&gt;voltages occur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T153635Z" creationid="CCYU" creationdate="20141124T153635Z">
+        <seg>然而，電阻性負載會導致非測試端子上的波前顯著拉長，使相對相電壓低於 &lt;t1/&gt;1,5 &lt;t2/&gt;U&lt;t3/&gt;，此現象由最大施加 (&lt;t4/&gt;U&lt;t5/&gt;) 和感應 (0,5 &lt;t6/&gt;U) &lt;t7/&gt;電壓產生些微不同的時間所引起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, some provision should be taken about the minimum creepage distance along the cable sheath that could b contaminated when handled during the mounting process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153400Z" creationid="CCYU" creationdate="20141106T153400Z">
