@@ -12880,6 +12880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital recording of the &lt;t0/&gt;impulse voltage waveshape '</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T074400Z" creationid="MAE" creationdate="20141124T074400Z">
+        <seg>數位記錄突波電壓波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital recording of waveshapes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142146Z" creationid="Judy" creationdate="20141123T142146Z">
@@ -43191,8 +43199,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The digitizer screens should have a resolution of &gt;768 x 1 024 pixels and the printers should have &gt; 300 dots per inch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T143643Z" creationid="Judy" creationdate="20141123T143643Z">
-        <seg>數位化螢幕隻解析度應 ≥ 768 x 1 024 畫素且印表機應具有每英吋 &gt; 300 點 (DPI) 之解析度。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T074346Z" creationid="Judy" creationdate="20141123T143643Z">
+        <seg>數位化螢幕隻解析度應 ≥ 768 x 1 024 畫素且印表機應具有每英吋 ≥ 300 點 (DPI) 之解析度。</seg>
       </tuv>
     </tu>
     <tu>
