@@ -17619,6 +17619,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For that reason, a number of 50 % pre-shots may be needed to determine the optimum range for the am&lt;t0/&gt;plitude of the voltage wave and/or the offset for each channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T122526Z" creationid="CCYU" creationdate="20141124T122526Z">
+        <seg>因此可能需要以 50 % 大小預先測試以決定電壓波振幅和各通道之偏移的最佳範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the calculation of the in-plane shear strength of anchor bolts attaching cold-formed steel track of bearing or non-bearing walls of light-frame construction to foundations or foundation stem walls, the in-plane shear strength in accordance with D.6.2 and D.6.3 need not be computed and D.3.3.5.3 need not apply provided all of the following are satisfied:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T105630Z">
