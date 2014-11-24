@@ -38189,6 +38189,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short-circuiting&lt;t0/&gt; of windings not under test is not practicable since the effect of such short- circuiting during the switching impulse test is basically the same as in an induced voltage test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T144409Z" creationid="CCYU" creationdate="20141124T144409Z">
+        <seg>非測試中之繞組短路不可行，因為開關突波測試中此短路之效應基本上與感應電壓測試中相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Short-term (less than 48-hour) temperature variations during adhesive storage are permitted as long as the temperature remains between 41°F and 104°F (5°C and 40°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134734Z">
