@@ -42941,6 +42941,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The choice of winding to which the test voltage is to&lt;t0/&gt; be directly applied and the level of that test voltage may normally be left to the manufacturer, commensurate with the requirement that the rated switching impulse withstand level is achieved in the winding with the highest rated voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T144118Z" creationid="CCYU" creationdate="20141124T144118Z">
+        <seg>直接施加測試電壓之繞組選擇和測試電壓選擇通常由製造商決定，以符合最高額定電壓繞組之額定開關突波耐壓等級規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The chopped wave lightning impulse shall have a time to chopping between 3 ps and &lt;t0/&gt;6&lt;t1/&gt; ps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055545Z" creationid="CCYU" creationdate="20141115T055545Z">
