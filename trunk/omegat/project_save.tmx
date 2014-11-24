@@ -36173,6 +36173,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requirements with, respect to sampling frequencies and resolution of the digitizers' input channels are the same as given in 7.5.3.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T125654Z" creationid="CCYU" creationdate="20141124T125654Z">
+        <seg>數位記錄器之輸入通道的取樣頻率和解析度規範與 7.5.3.1 之規範相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Residuals must be removed from packaging and when emptied completely disposed of in accordance with the regulations for waste removal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T161011Z">
@@ -47097,6 +47105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033833Z">
         <seg>於預熱、加熱、 熱煉、冷卻區量測鋼材溫度以確保冶金特性良好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stored data in the memory of the digitizer, however, allow&lt;t0/&gt;s for any other presentation of the same recording by zooming in or out at different time scales.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T125517Z" creationid="CCYU" creationdate="20141124T125517Z">
+        <seg>然而數位記錄器所儲存之資料可以其他縮放不同時間尺度之方式呈現相同資料。</seg>
       </tuv>
     </tu>
     <tu>
