@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(per unit) and 1,5 p.u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143648Z" creationid="CCYU" creationdate="20141124T143648Z">
+        <seg>(每單位) 與 1,5 p.u.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(percent)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103038Z">
@@ -50729,6 +50737,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T212311Z" creationid="Judy" creationdate="20141120T212311Z">
         <seg>此類別之變壓器涵蓋最大型傳輸和發電變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This circuit was selected f&lt;t0/&gt;or three-phase transformers with both three- and five-limb cores to perform simultaneously testing of the phase-to-earth and phase-to-phase insulation with 1,0 p.u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143612Z" creationid="CCYU" creationdate="20141124T143612Z">
+        <seg>此電路之選擇係用於具有三或五心柱核心之三相變壓器，以同時進行相對地與相對相絕緣測試 1,0 p.u.</seg>
       </tuv>
     </tu>
     <tu>
