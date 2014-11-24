@@ -59695,6 +59695,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>introduction o&lt;t0/&gt;f opposite polarity remanence, either by means of positive polarity impulses of approximately 50 % amplitude or direct current application;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T160557Z" creationid="CCYU" creationdate="20141124T160524Z">
+        <seg>輸入反極性頑磁，藉由約 50 % 振幅之正極性突波或施加直流電；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iron</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141714Z">
@@ -60587,6 +60595,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064011Z" creationid="CCYU" creationdate="20141115T064011Z">
         <seg>一組電壓介於全波雷擊突波測試電壓 75 % 至 90 % 之間的全波參考突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one negative polarity, reduced test level impulse (between 50 % and 75 % of the switching impulse withstand level);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T160630Z" creationid="CCYU" creationdate="20141124T160248Z">
+        <seg>一組負極性、降低測試電壓等級突波 (介於開關突波耐壓等級 50 % 至 75 % 之間)；</seg>
       </tuv>
     </tu>
     <tu>
