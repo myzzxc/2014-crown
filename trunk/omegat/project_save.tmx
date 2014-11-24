@@ -19510,6 +19510,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Historically, waveshape evaluation is based on oscilloscopic records, engineering rules and eye evaluation of waveshape parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T083520Z" creationid="MAE" creationdate="20141124T083520Z">
+        <seg>傳統波形評估係根據示波器紀錄、工程規則以及肉眼評估波形參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033332Z">
@@ -20402,8 +20410,8 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       <tuv lang="EN-US">
         <seg>IEC 61083-1 specifies a 9-bit, 60 &lt;t0/&gt;MHz digitizer as the minimum resolution of the digitizer for the registration of impulse voltage and current waveshapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T082645Z" creationid="MAE" creationdate="20141124T082645Z">
-        <seg>IEC 61083-1 指定調整突波電壓和電流波形之數位紀錄儀最低解析度為 9-bit、60 &lt;t0/&gt;MHz。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T083546Z" creationid="MAE" creationdate="20141124T082645Z">
+        <seg>IEC 61083-1 指定調整突波電壓和電流波形之數位紀錄器最低解析度為 9-bit、60 &lt;t0/&gt;MHz。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54728,8 +54736,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When zooming in on 10 ps time-periods or less for the evaluation of the wavefront or for the evaluation of chopped impulses, the use of&lt;t1/&gt; a 10-bit digitizer and 100 MHz sampling frequency should be considered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T083251Z" creationid="MAE" creationdate="20141124T083251Z">
-        <seg>當放大低於 10 µs 之時間區間進行波前評估或截波評估時，應考慮使用 10-bit 數位紀錄儀與 100 MHz 之取樣頻率。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T083539Z" creationid="MAE" creationdate="20141124T083251Z">
+        <seg>當放大低於 10 µs 之時間區間進行波前評估或截波評估時，應考慮使用 10-bit 數位紀錄器與 100 MHz 之取樣頻率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55250,6 +55258,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120712Z">
         <seg>隨著此類型公司常使用的潤滑劑量而異，他們將會有一區存放裝滿油品的手提桶，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the application of digital recorders in high- &lt;t0/&gt;voltage testing of power transformers, a warning with respect to amplitude and time parameters should be given with respect to the evaluation of non-standard waveshapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T083534Z" creationid="MAE" creationdate="20141124T083534Z">
+        <seg>使用數位記錄器With the application of digital recorders in high- &lt;t0/&gt;voltage testing of power transformers, a warning with respect to amplitude and time parameters should be given with respect to the evaluation of non-standard waveshapes.</seg>
       </tuv>
     </tu>
     <tu>
