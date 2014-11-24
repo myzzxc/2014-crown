@@ -11624,6 +11624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Core saturation does not usually occur on reduced-level voltage applications and may not even occur on full-level applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141639Z" creationid="CCYU" creationdate="20141124T141639Z">
+        <seg>核心飽和通不發生於施加降低等級電壓時，且即使於施加全電壓等級也可能不會發生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Core type transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T093654Z" creationid="CCYU" creationdate="20141102T093654Z">
@@ -37669,6 +37677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See 8.2.3 for test procedure which reduces the effects of core&lt;t1/&gt; saturation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141503Z" creationid="CCYU" creationdate="20141124T141503Z">
+        <seg>請見 8.2.3 之降低核心飽和效應之測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;t4/&gt;IEC&lt;t5/&gt; 60076-2 for temperature rise tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090643Z">
@@ -54834,6 +54850,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053022Z" creationid="CCYU" creationdate="20141123T053022Z">
         <seg>當任何非測試端子經阻抗接地時，必須確保任何非測試端子之對地電壓不超過 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When it does occur, its effect on the voltage waveshape may be &lt;t0/&gt;large or small depending on the amount of saturation&lt;t1/&gt; involved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T141702Z" creationid="CCYU" creationdate="20141124T141702Z">
+        <seg>當其發生時，When it does occur, its effect on the voltage waveshape may be &lt;t0/&gt;large or small depending on the amount of saturation&lt;t1/&gt; involved.</seg>
       </tuv>
     </tu>
     <tu>
