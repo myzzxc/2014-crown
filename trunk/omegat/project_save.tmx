@@ -17772,6 +17772,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the method of direct application to the &lt;t0/&gt;high-voltage winding, primarily referred to in this guide, the procedure involves the application, to each phase terminal, of</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T160104Z" creationid="CCYU" creationdate="20141124T160104Z">
+        <seg>此處主要使用直接施加於高電壓繞組之方法，程序包含施加至各相端子之</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purchaser who wishes to further test the line to earth insulation with an AC test, the single phase line terminal AC test (LTAC) can be specified as a special test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T214427Z" creationid="Judy" creationdate="20141120T214303Z">
@@ -51521,6 +51529,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051931Z" creationid="CCYU" creationdate="20141123T051931Z">
         <seg>此問題可藉由於產生器中使用大電容、並聯操作、調整串聯電阻、或未測試繞組之端子特定測試連接、或額外測試繞組之未測試端子之特定測試連接以解決。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This procedure includes reference to measures which may be taken to increase the impulse duration by delaying the possible onset of core saturation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T155845Z" creationid="CCYU" creationdate="20141124T155845Z">
+        <seg>此程序包含藉由延緩可能核心飽和發生以增加突波持續時間之參考措施。</seg>
       </tuv>
     </tu>
     <tu>
