@@ -17059,6 +17059,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For diagnostic .purposes, however, the software of the system offers the possibility to examine the wave ov&lt;t0/&gt;er the entire sampling time, or part of the wave as all information is stored in the computer memory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T123424Z" creationid="CCYU" creationdate="20141124T123424Z">
+        <seg>然而作為診斷用途，系統軟體可檢驗所有取樣時間內之波形或部分波形，所有資訊皆儲存於電腦記憶體中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For directly earthed terminals, only the leakage inductance (determined by the short-circuit impedance) is involved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T052431Z" creationid="CCYU" creationdate="20141123T052431Z">
