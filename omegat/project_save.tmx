@@ -55166,6 +55166,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the loading is too severe (too low a resistance), the tail time of the applied switching impulse is significantly shortened to&lt;t8/&gt; the extent that saturation effects may not occur.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T153948Z" creationid="CCYU" creationdate="20141124T153948Z">
+        <seg>當負載過重 (電阻太低)時，施加開關突波之波尾時間會顯著縮短使飽和效應可能不會發生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the manufacturer intends to use non-linear elements (for example surge &lt;t0/&gt;arresters or spark gaps), built into the transformer or tap-changer or externally fitted, for the limitation of overvoltage transients, this shall be brought to the purchaser's attention by the manufacturer at the tender and order stage and shall be indica&lt;t1/&gt;ted on the transformer rating plate circuit diagram.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123024Z" creationid="CCYU" creationdate="20141108T083458Z">
