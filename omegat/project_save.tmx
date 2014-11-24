@@ -19966,6 +19966,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;f high frequencies are observed in the voltage or current traces these are due to parasitic resonance in the measuring circuit or noise in the earthing system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090041Z" creationid="MAE" creationdate="20141124T090041Z">
+        <seg>若電壓或電流曲線出現高頻率，原因為量測電路中或接地系統中雜訊之寄生共振。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I&lt;t0/&gt;i represents the r.m.s.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091818Z">
