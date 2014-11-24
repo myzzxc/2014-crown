@@ -4091,6 +4091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;The current flowing to earth through the tested winding can additionally be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T155436Z" creationid="CCYU" creationdate="20141124T155436Z">
+        <seg>也可額外使用流經測試繞組之對地電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;The delta winding lag5 the high-voltage winding by 330°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144910Z">
@@ -41533,6 +41541,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Test proc&lt;t0/&gt;edures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T155452Z" creationid="CCYU" creationdate="20141124T155452Z">
+        <seg>測試程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test procedures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T080145Z" creationid="CCYU" creationdate="20141123T080145Z">
@@ -48049,6 +48065,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021847Z" creationid="CCYU" creationdate="20141115T021847Z">
         <seg>測試電壓等級及詳細測試配置應由雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test procedure is outlined in IEC 60076-3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T155527Z" creationid="CCYU" creationdate="20141124T155521Z">
+        <seg>測試程序大綱列於 IEC 60076-3 之中，</seg>
       </tuv>
     </tu>
     <tu>
