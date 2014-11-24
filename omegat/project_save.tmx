@@ -21569,6 +21569,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no delta windings are available, only 1,0 p.u.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T154504Z" creationid="CCYU" creationdate="20141124T154504Z">
+        <seg>若無三角連接繞組，僅能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no external loading is applied to the secondary winding, the voltage transient usually has a superimposed damped oscillation with a frequency determined by leakage inductance and winding capacitances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T105912Z" creationid="CCYU" creationdate="20141118T105912Z">
@@ -46677,6 +46685,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The requirement that 1,5 times the voltage between phase and neutral shall be developed between phases cannot be met on shell-type and five-limb core-type transformers without delta-connected windings, as &lt;t0/&gt;the flux cannot be directed through the windings on the non- tested limbs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T154414Z" creationid="CCYU" creationdate="20141124T154414Z">
+        <seg>殼式與非三角連接繞組之五心柱核心式變壓器無法達到相和中性點之間應具有的 1,5 倍電壓，因為通量無法直接通過非測試心柱上之繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The requirements for analogue oscilloscopes and digital recorders are given in IEC 61083-1.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T093048Z" creationid="CCYU" creationdate="20141123T093048Z">
@@ -60779,6 +60795,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125029Z">
         <seg>相繞組 (phase winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase-to-earth tests can be achieved by short-circuiting and earthing of the winding terminals of the non-tested phases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T154618Z" creationid="CCYU" creationdate="20141124T154618Z">
+        <seg>藉由非測試相之繞組端子短路和接地達成 1,0 p.u. 相對地測試。</seg>
       </tuv>
     </tu>
     <tu>
