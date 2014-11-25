@@ -17803,6 +17803,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For th&lt;t0/&gt;ree-phase reactors, the requirement, as in figure 4, that 1,5 times the voltage between phase and neutral shall be developed between phases, cannot be met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154729Z" creationid="CCYU" creationdate="20141125T154715Z">
+        <seg>三相電抗器之要求規範如圖 4，其無法達到各項之間應具有相與中性點間的 1,5 倍電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For that reason, a number of 50 % pre-shots may be needed to determine the optimum range for the am&lt;t0/&gt;plitude of the voltage wave and/or the offset for each channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134809Z" creationid="CCYU" creationdate="20141124T122526Z">
@@ -19554,6 +19562,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T054351Z" creationid="CCYU" creationdate="20141123T054351Z">
         <seg>因此無法找出截波時間，無論對於一般或特定的變壓器或電抗器皆非常困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hence, t&lt;t1/&gt;he normal impulse test procedures as used for lightning impulse tests are required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T155005Z" creationid="CCYU" creationdate="20141125T155005Z">
+        <seg>因此需進行與雷擊突波測試相同之一般突波測試程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44361,6 +44377,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T104710Z">
         <seg>沖洗過程應用盡儲水槽液體五十至一百次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The flux in these reactors cannot be directed through the windings on the non-tested limbs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154836Z" creationid="CCYU" creationdate="20141125T154836Z">
+        <seg>這些電抗器內的通量無法直接通過繞組之非測試心柱，</seg>
       </tuv>
     </tu>
     <tu>
