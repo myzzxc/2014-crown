@@ -52621,6 +52621,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To record the switching impulse, a sampling frequency of 10 MHz is sufficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134300Z" creationid="CCYU" creationdate="20141125T134300Z">
+        <seg>取樣頻率 10 MHz 已足以記錄開關突波，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To reduce the computational requirement, the correlation operations are conducted in the frequency domain by taking the fast Fourier transform (FFT) of each patch and following the convolution theorem.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090820Z">
