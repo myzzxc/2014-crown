@@ -39853,6 +39853,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subject to the waveshape differences described in 8.3.1, the same general principles apply to voltage and current recordings on reactors as for transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160001Z" creationid="CCYU" creationdate="20141125T160001Z">
+        <seg>由於符合 8.3.1 之中所述差異，因而使用與變壓器相同之一般原則, the same general principles apply to voltage and current recordings on reactors as for transformers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subject: Bacteria</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023424Z">
