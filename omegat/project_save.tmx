@@ -23714,6 +23714,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be present, the recording has to be long enough to encompass the first zero passage, that is, longer than the expected time &lt;t0/&gt;T&lt;t1/&gt;z&lt;t2/&gt;.&lt;t3/&gt; This normally requires recording times of 1 000 ns to 2 000 &lt;t4/&gt;|o.s&lt;t5/&gt; or 2 000 ns to 3 000 &lt;t6/&gt;ns&lt;t7/&gt; in exceptional cases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T135419Z" creationid="CCYU" creationdate="20141125T135419Z">
+        <seg>為了決定測試波之振幅並能檢測出現之故障，掃描時間應足以涵蓋第一次通過零點，即大於預期時間 &lt;t0/&gt;T&lt;t1/&gt;z&lt;t2/&gt;，通常所需記錄時間為 1 000 µs 至 2 000 µs，或於特殊情況下為 2 000 µs 至 3 000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be present:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T124548Z" creationid="CCYU" creationdate="20141123T124548Z">
@@ -38889,6 +38897,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T122635Z" creationid="CCYU" creationdate="20141124T122635Z">
         <seg>需特別注意雷擊突波之反極性的過擺動量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special attention should be given to the effect of magnetic saturation of the core and the possibility of clipping of voltage and current recordings because of saturation of the input amplifiers of the digitizer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T135051Z" creationid="CCYU" creationdate="20141125T135051Z">
+        <seg>必須特別注意核心磁化飽和嚮應以及因數位記錄器輸入放大器飽和而導致電壓和電流之記錄裁切。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57690,6 +57706,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131924Z" creationid="CCYU" creationdate="20141028T131924Z">
         <seg>平均液體溫度上升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>b) Applied impulse&lt;t0/&gt; test voltage wave recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T135112Z" creationid="CCYU" creationdate="20141125T135112Z">
+        <seg>b) 施加之突波測試電壓波形記錄</seg>
       </tuv>
     </tu>
     <tu>
