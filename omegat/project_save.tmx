@@ -35733,6 +35733,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recording of the voltage of the high-voltage terminal is requi&lt;t0/&gt;red during switching impulse testing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131700Z" creationid="CCYU" creationdate="20141125T131700Z">
+        <seg>開關突波測試期間需要記錄高電壓繞組之電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Records of tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224538Z" creationid="Judy" creationdate="20141113T224538Z">
