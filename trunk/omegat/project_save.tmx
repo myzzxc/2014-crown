@@ -6773,6 +6773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analogue and digital recording of the impulse response current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T142027Z" creationid="CCYU" creationdate="20141125T142027Z">
+        <seg>類比和數位記錄突波響應電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analogue and digital recording systems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092934Z" creationid="CCYU" creationdate="20141123T092748Z">
@@ -8065,6 +8073,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T080647Z">
         <seg>如先前所述，換氣與動力活塞運動造成腔體體積減少，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As mentioned in 8.2.2, impulse current may be recorded to possibly trace partial &lt;t0/&gt;discharges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T142147Z" creationid="CCYU" creationdate="20141125T142147Z">
+        <seg>如 8.2.2 所述，可記錄突波電流以追蹤局部放電，</seg>
       </tuv>
     </tu>
     <tu>
