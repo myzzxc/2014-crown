@@ -13873,6 +13873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to these implications, it appears logical, as in the case of transformers, to limit the maximum opposite polarity peak to a safe level, of not more&lt;t9/&gt; than 50 %, and to accept the corresponding values of 7V and &lt;t10/&gt;T&lt;t11/&gt;z&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T153816Z" creationid="CCYU" creationdate="20141125T153444Z">
+        <seg>因為這些影響而合理的限制最大反極性峰值於不超過 50 % 的安全等級內，如同變壓器的情況，並採用對應之T1 和 &lt;t10/&gt;T&lt;t11/&gt;z&lt;t12/&gt; 值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dur&lt;t0/&gt;ing this test the transformer is not subjected to rated voltage and rated current simultaneously, but to the calculated total losses, previously obtained by two separate determinations of losses, namely load loss at reference temperature and no-load loss (&lt;t1/&gt;see IEC 60076-1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T133642Z" creationid="CCYU" creationdate="20141031T133642Z">
@@ -17415,6 +17423,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051423Z" creationid="CCYU" creationdate="20141123T051244Z">
         <seg>對於大功率變壓器，特別是中和低電壓繞組，其半高值虛擬時間 &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; 可能無法於公差內之設置值範圍內達到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For large reactors, &lt;t0/&gt;Ta&lt;t1/&gt; and &lt;t2/&gt;T&lt;t3/&gt;z&lt;t4/&gt; as specified for transformers would require excessive impulse generator extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T153744Z" creationid="CCYU" creationdate="20141125T153744Z">
+        <seg>大型電抗器For large reactors, &lt;t0/&gt;Ta&lt;t1/&gt; and &lt;t2/&gt;T&lt;t3/&gt;z&lt;t4/&gt; as specified for transformers would require excessive impulse generator extension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31944,6 +31960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063229Z" creationid="CCYU" creationdate="20141123T063229Z">
         <seg>通常測試相繞組之非測試端子接地而非測試相繞組短路並接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally the transformer characteristic of &gt; 200 ps is not a problem for small reactors (&lt;100 Mvar for three-phase reactors with relatively high impedances).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T153723Z" creationid="CCYU" creationdate="20141125T153723Z">
+        <seg>變壓器特徵值 ≥ 200 µs 通常對於小型電抗器不成問題 (&lt;100 Mvar，具相對高電感之三相電抗器)。</seg>
       </tuv>
     </tu>
     <tu>
