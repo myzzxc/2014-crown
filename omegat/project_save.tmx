@@ -17900,6 +17900,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the wavefront record taken for waveshape determination during preliminary adjustment of the test circuit parameters, a sweep which encompasses the peak of the wave is necessary, which normally means 100 ps to 300 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133145Z" creationid="CCYU" creationdate="20141125T133145Z">
+        <seg>對於測試電路參數初步調整時用於測定波形所記錄之波前，其掃描時間範圍必須涵蓋波峰，通常為 100 µs 至 300 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For these transformers, if such a capability is required, it should be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132600Z">
