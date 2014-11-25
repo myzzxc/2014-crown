@@ -4597,6 +4597,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of 50 % reduced level impulses are needed to determine the optimum range of the voltage and/or the &lt;t0/&gt;offset for each channel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134800Z" creationid="CCYU" creationdate="20141125T134800Z">
+        <seg>因此需要以 50 % 大小之降低電壓突波決定電壓和各通道之偏移的最佳範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number of thermal sensors (e.g., optical fibre sensors) shall be mounted inside the windings in positions where it is supposed the hot-spots are located.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062543Z" creationid="CCYU" creationdate="20141102T062543Z">
@@ -17733,8 +17741,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For that reason, a number of 50 % pre-shots may be needed to determine the optimum range for the am&lt;t0/&gt;plitude of the voltage wave and/or the offset for each channel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T122526Z" creationid="CCYU" creationdate="20141124T122526Z">
-        <seg>因此可能需要以 50 % 大小預先測試以決定電壓波振幅和各通道之偏移的最佳範圍。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134809Z" creationid="CCYU" creationdate="20141124T122526Z">
+        <seg>因此可能需要以 50 % 大小預先測試以決定波電壓振幅和各通道之偏移的最佳範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26288,6 +26296,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090822Z" creationid="MAE" creationdate="20141124T090619Z">
         <seg>必須以此方式設定數位記錄器以獲取足夠的取樣數，用以決定波之虛擬起始點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is important to use the maximum available resolution of the input amplifiers of the digitizer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134616Z" creationid="CCYU" creationdate="20141125T134607Z">
+        <seg>使用數位記錄器之輸入放大器的最大可用解析度很重要，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46873,6 +46889,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T120215Z" creationid="Judy" creationdate="20141109T120215Z">
         <seg>介電測試之規範，要求之測試與測試電壓取決於特定變壓器中最高電壓之繞組中的設備最高電壓 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements for the digitizer as mentioned in 7.5.3 for the digital recording of lightning impulses are suff&lt;t2/&gt;icient for the recording of switching impulses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134539Z" creationid="CCYU" creationdate="20141125T134539Z">
+        <seg>如 7.5.3 所述之雷擊突波數位記錄器之規範便足以用於開關突波記錄。</seg>
       </tuv>
     </tu>
     <tu>
