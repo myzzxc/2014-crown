@@ -26636,6 +26636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is, however, advisable to use sweep times for bot&lt;t0/&gt;h voltage and current which cover the second half-cycle of the applied voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160228Z" creationid="CCYU" creationdate="20141125T160228Z">
+        <seg>然而，建議電壓和電流之掃描時間皆涵蓋施加電壓的第二個半循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may then be neces&lt;t0/&gt;sary to select bushings designed for higher insulation levels than otherwise required for operation at lower altitudes, see Clause 16 of this standard and IEC 60137.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074116Z" creationid="CCYU" creationdate="20141108T074116Z">
@@ -39855,8 +39863,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Subject to the waveshape differences described in 8.3.1, the same general principles apply to voltage and current recordings on reactors as for transformers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160001Z" creationid="CCYU" creationdate="20141125T160001Z">
-        <seg>由於符合 8.3.1 之中所述差異，因而使用與變壓器相同之一般原則, the same general principles apply to voltage and current recordings on reactors as for transformers.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160104Z" creationid="CCYU" creationdate="20141125T160001Z">
+        <seg>由於符合 8.3.1 之中所述差異，電抗器電壓和電流記錄使用與變壓器相同之一般原則。</seg>
       </tuv>
     </tu>
     <tu>
