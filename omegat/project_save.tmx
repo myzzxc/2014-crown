@@ -17908,6 +17908,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the wavetail record, &lt;t0/&gt;which is used only to determine the time above 90 % 7^, a sweep time of 500 ps to 1,000 ps is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133334Z" creationid="CCYU" creationdate="20141125T133334Z">
+        <seg>對於僅用於決定高於 90 % 之時間 Td 之波尾記錄，建議之掃描時間為 500 µs 至 1,000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For these transformers, if such a capability is required, it should be specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T132600Z">
@@ -23662,6 +23670,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143011Z" creationid="CCYU" creationdate="20141124T143000Z">
         <seg>為了符合 IEC 60076-3 規範，三相變壓器僅有一組可採納之測試連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to determine the amplitude of the test wave and to permit detection of any fault which may be pr&lt;t0/&gt;esent, the sweep time has to be long enough to encompass the first zero passage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133508Z" creationid="CCYU" creationdate="20141125T133501Z">
+        <seg>為了決定測試波之振幅並能檢測出現之故障，掃描時間應足以涵蓋第一次通過零點，</seg>
       </tuv>
     </tu>
     <tu>
