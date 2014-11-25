@@ -4083,6 +4083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;For small values of 7V &lt;t5/&gt;T&lt;t6/&gt;d&lt;t7/&gt; will become short and the opposite polarity peak may well app&lt;t8/&gt;roach 75 % of the test voltage level with an ensuing risk of phase-to-earth or phase-to-phase flashover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T153151Z" creationid="CCYU" creationdate="20141125T153151Z">
+        <seg>對於較小的 T1 值，&lt;t5/&gt;T&lt;t6/&gt;d&lt;t7/&gt; 將變短且反極性峰值可能接近測試電壓等級的 75 % 並伴隨著相對地或相對相跳火的風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;Raytek&lt;t5/&gt; and &lt;t6/&gt;Ircon&lt;t7/&gt; sensors, with digi­tal electronics and 2-way communi­cations, can be configured remotely from the safety of the control room.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T223217Z">
