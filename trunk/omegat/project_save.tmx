@@ -18302,8 +18302,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For wave analysis, it is &lt;t0/&gt;important to take samples over the complete waveshape until the wave is completely damped, using the maximum available memory of the digitizer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090628Z" creationid="MAE" creationdate="20141124T090609Z">
-        <seg>波形分析中，使用數位記錄器的最大可用記憶體對完整波形取樣直到其完全穩定相當重要，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134108Z" creationid="MAE" creationdate="20141124T090609Z">
+        <seg>波形分析中，使用數位記錄器的最大可用記憶體對完整波形取樣直到其完全消逝相當重要，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26276,6 +26276,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to programme the digitizer in such a way that a sufficient number of samples &lt;t1/&gt;is present to determine the virtual starting-point of the wave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134208Z" creationid="CCYU" creationdate="20141125T134208Z">
+        <seg>必須以此方式設定數位記錄器以獲取足夠的取樣數，用以決定波之虛擬起始點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to programme the digitizer in such a way that a sufficient number of samples is present to deter&lt;t1/&gt;mine the virtual starting-point of the wave.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090822Z" creationid="MAE" creationdate="20141124T090619Z">
@@ -26304,6 +26312,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T081217Z" creationid="CCYU" creationdate="20141123T081217Z">
         <seg>藉由足夠高的終端電阻值的方法嘗試獲得所需之電壓等級較為重要，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is necessary&lt;t0/&gt; to take samples over the complete waveshape, from the start to the time where the wave is completely damped, using the maximum available memory of the digitizer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134049Z" creationid="CCYU" creationdate="20141125T134049Z">
+        <seg>必須使用數位記錄器的最大可用記憶體，由起始直到波完全消逝對完整波形進行取樣。</seg>
       </tuv>
     </tu>
     <tu>
