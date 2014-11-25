@@ -17155,6 +17155,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For current recordings, it may be &lt;t0/&gt;advantageous to use, in addition, a shorter sweep time so as to be able to monitor the initial capacitive current in more detail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160426Z" creationid="CCYU" creationdate="20141125T160426Z">
+        <seg>電流記錄可額外使用較短的掃描時間以利更加詳細地監測初始電容性電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For dated references, only the edition cited applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133814Z">
@@ -43137,6 +43145,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081325Z">
         <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須依照 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic waveform of the current corresponding to the cosine voltage wave is sinusoidal (see figures 3b and B.16).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160615Z" creationid="CCYU" creationdate="20141125T160615Z">
+        <seg>電流基本波形為正弦波，對應餘弦電壓波 (請見圖 3b 和 B.16)。</seg>
       </tuv>
     </tu>
     <tu>
