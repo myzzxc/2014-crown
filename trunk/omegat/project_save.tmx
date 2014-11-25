@@ -45709,6 +45709,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of the required pre-magnetizing impulses and their level depend on the level of test voltage aimed for.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131402Z" creationid="CCYU" creationdate="20141125T131402Z">
+        <seg>所需之預磁化突波及其電壓等級取決於測試電壓目標等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The numerical procedure described below can be used t&lt;t0/&gt;o fit an analytical function to a set o1 timewise equidistant temperature readings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T145749Z" creationid="CCYU" creationdate="20141104T145749Z">
@@ -51525,6 +51533,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This point is reached when the time to the first zero passage remains constant on consecutive impulse applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131307Z" creationid="CCYU" creationdate="20141125T131307Z">
+        <seg>當施加之連續突波的第一次通過零點之時間維持定值時可達到此頑磁點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This point of connection should be used as refe&lt;t1/&gt;rence earth and to attain good earthing of the test object it should be connected to the reference earth by one or several conductors of low impedance (see IEC 60060-2).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151819Z" creationid="Judy" creationdate="20141122T151819Z">
@@ -52313,6 +52329,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044701Z">
         <seg>標題：馬達技術規範</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To achieve reasonably identical oscillograms or digital recordings at any test level, it is recommended that the same remanence point should always be established, preferably saturation re&lt;t1/&gt;manence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131122Z" creationid="CCYU" creationdate="20141125T131122Z">
+        <seg>為了於任何測試電壓等級下得到相同的波形圖或數位記錄，建議應總是建立相同的頑磁點，浸量為飽和頑磁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To avoid any pro&lt;t2/&gt;blems with external flashovers during this procedure, the level of such positive polarity pre-magnetizing impulses should not exceed 50 % to 60 % of the test voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131551Z" creationid="CCYU" creationdate="20141125T131551Z">
+        <seg>為了避免此程序中任何外部跳火的問題，該正極性預磁化突波之電壓等級應不超過測試電壓的 50 % 至 60 %。</seg>
       </tuv>
     </tu>
     <tu>
