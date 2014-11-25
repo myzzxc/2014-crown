@@ -17411,6 +17411,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For large values of 7V the damping coefficient will be large thus resulting in a relatively short time &lt;t1/&gt;T&lt;t2/&gt;z&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T152837Z" creationid="CCYU" creationdate="20141125T152837Z">
+        <seg>對於較大的 T1 值，阻尼係數將會較大而導致相對短的時間 &lt;t1/&gt;T&lt;t2/&gt;z&lt;t3/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For larger transformers by measurement or calculation as agreed between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T162019Z">
@@ -26632,6 +26640,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T104909Z" creationid="CCYU" creationdate="20141123T104909Z">
         <seg>必須強調藉由比較記錄曲線呈現驗收結果，數位量測所得之波形應由原始資料產生且未經任何數學處理、濾波、平滑化等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be long enough to ensure appr&lt;t0/&gt;oximately uniform distribution throughout the tested winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T152715Z" creationid="CCYU" creationdate="20141125T152715Z">
+        <seg>時間應足以確保測試繞組上接近均勻分佈。</seg>
       </tuv>
     </tu>
     <tu>
