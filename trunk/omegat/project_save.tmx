@@ -7663,8 +7663,8 @@
       <tuv lang="EN-US">
         <seg>Any turn-to-turn or part winding fault will also produce an instantaneous current peak, but with a much more rapid voltage collapse, indicating a flux blockage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151255Z" creationid="CCYU" creationdate="20141125T151255Z">
-        <seg>任何匝間或部份繞組故障也會產生暫態電流峰值，但伴隨著更快速的變壓崩潰，代表通量組塞。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151342Z" creationid="CCYU" creationdate="20141125T151255Z">
+        <seg>任何匝間或部份繞組故障也會產生暫態電流峰值，但伴隨著更快速的變壓崩潰，代表通量堵塞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35693,6 +35693,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151626Z" creationid="CCYU" creationdate="20141125T151626Z">
+        <seg>電抗器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the instruction manual carefully before using this device, especially the safety instructions, and keep the instruction manual for future use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083054Z">
@@ -49461,6 +49469,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The waveshape obtainable on reactors will be of a damped cosine form, without any saturation effects on the tail, since there is no complete ferro-magnetic circuit through the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151850Z" creationid="CCYU" creationdate="20141125T151850Z">
+        <seg>電抗器中所得之波形為阻尼餘弦形式，波尾無飽和效應，因為其不具通過繞組之完整鐵磁路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The wavetail is influenced not only by the usual waveshaping components but also by a probable saturation of the core.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T135855Z" creationid="CCYU" creationdate="20141124T135736Z">
@@ -52137,6 +52153,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043450Z">
         <seg>此地滑涵蓋面積廣大但並不明顯，其機制尚須藉由現有或新的地質資料以進一步研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This waveshape should be characterized mainly by its frequency, determ&lt;t0/&gt;ined by the reactor inductance and the generator capacitance, and the damping coefficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T152205Z" creationid="CCYU" creationdate="20141125T152205Z">
+        <seg>此波形應主要以其頻率進行測定，頻率以電抗器電感、產生器電容以及阻尼係數所決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55346,6 +55370,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064422Z" creationid="CCYU" creationdate="20141123T064422Z">
         <seg>當變壓器中或外部裝有非線性元件或避雷器時以限制過電壓暫態轉移時，應提前針對特定情況討論突波測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When oscillograms or digital recordings of the impulse &lt;t0/&gt;response current are taken, it is preferable to employ the same sweep time or sampling time as used for the voltage record.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151615Z" creationid="CCYU" creationdate="20141125T151615Z">
+        <seg>當記錄突波響應電流之波形圖或數位記錄時，最好使用相同的掃描時間或使用與電壓記錄相同的取樣時間。</seg>
       </tuv>
     </tu>
     <tu>
