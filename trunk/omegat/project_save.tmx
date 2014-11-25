@@ -7661,6 +7661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any turn-to-turn or part winding fault will also produce an instantaneous current peak, but with a much more rapid voltage collapse, indicating a flux blockage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151255Z" creationid="CCYU" creationdate="20141125T151255Z">
+        <seg>任何匝間或部份繞組故障也會產生暫態電流峰值，但伴隨著更快速的變壓崩潰，代表通量組塞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z">
@@ -51097,6 +51105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T024536Z" creationid="CCYU" creationdate="20141025T024536Z">
         <seg>本產品用於連接本公司之作動器與使用者之設備之間的防爆設備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This current peak will be coincident with a voltage collapse or decay&lt;t0/&gt; if it is due to the saturation effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T151102Z" creationid="CCYU" creationdate="20141125T151102Z">
+        <seg>此電流峰值將與因保效應引起之電壓崩潰或衰減一致。</seg>
       </tuv>
     </tu>
     <tu>
