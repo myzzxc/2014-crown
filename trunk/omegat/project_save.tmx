@@ -17429,8 +17429,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For large reactors, &lt;t0/&gt;Ta&lt;t1/&gt; and &lt;t2/&gt;T&lt;t3/&gt;z&lt;t4/&gt; as specified for transformers would require excessive impulse generator extension.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T153744Z" creationid="CCYU" creationdate="20141125T153744Z">
-        <seg>大型電抗器For large reactors, &lt;t0/&gt;Ta&lt;t1/&gt; and &lt;t2/&gt;T&lt;t3/&gt;z&lt;t4/&gt; as specified for transformers would require excessive impulse generator extension.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154022Z" creationid="CCYU" creationdate="20141125T153744Z">
+        <seg>大型電抗器之 &lt;t0/&gt;Td&lt;t1/&gt; 和 &lt;t2/&gt;T&lt;t3/&gt;z&lt;t4/&gt; 將需要超量的突波產生器範圍，如同變壓器之情況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17711,6 +17711,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T154919Z">
         <seg>對於 Y-Y 連接之變壓器或自耦變壓器，若設計有閉磁路之零序磁通且無指定三角繞組，則規範應由製造商和買方之間討論 (請見 IEC 60076-8)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For such cases, a minimum value for &lt;t5/&gt;T&lt;t6/&gt;d and &lt;t7/&gt;T&lt;t8/&gt;z&lt;t9/&gt; should be 120 ps and 500 ps respectively to assure adequate volt-time stress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154152Z" creationid="CCYU" creationdate="20141125T154152Z">
+        <seg>此情況下，&lt;t5/&gt;T&lt;t6/&gt;d 和 &lt;t7/&gt;T&lt;t8/&gt;z&lt;t9/&gt; 之最小值應分別為 120 µs 和 500 µs 以確保合適的電壓-時間壓力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38669,6 +38677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since there is only one winding per phase, the application point for the test voltage is the line terminal of the phase winding which is to be tested.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154343Z" creationid="CCYU" creationdate="20141125T154343Z">
+        <seg>因為一相僅有一繞組，測試電壓施加點為欲測試之相繞組的線路端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since these results are expressed in horizontal component, if we want to know the magnitude parallel to the slope of bedding, we can multiply the dip angle (19°) of secant of the bedding in this study area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T131906Z">
@@ -41568,6 +41584,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Terminal connections &lt;t0/&gt;and applicable methods of failure detection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142759Z" creationid="CCYU" creationdate="20141124T142759Z">
+        <seg>故障檢測之端子連接和應用方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminal connections and applicable methods of &lt;t0/&gt;failure detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154205Z" creationid="CCYU" creationdate="20141125T154205Z">
         <seg>故障檢測之端子連接和應用方法</seg>
       </tuv>
     </tu>
