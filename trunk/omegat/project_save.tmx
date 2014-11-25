@@ -46061,6 +46061,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other terminal of this phase winding should be earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154414Z" creationid="CCYU" creationdate="20141125T154414Z">
+        <seg>此項繞組的其他端子應接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other video named ‘‘&lt;t2/&gt;ﬂux_all&lt;t3/&gt;’’ plays the variations of local ﬂux on bottom plate, top plate, power cylinder wall, and regenerative wall, within two engine cycles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T210737Z">
