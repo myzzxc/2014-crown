@@ -46133,6 +46133,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The preferred method of introducing remanence is the application of opposite &lt;t0/&gt;(i.e. positive) polarity impulses of approximately 50 % test level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T130907Z" creationid="CCYU" creationdate="20141125T130907Z">
+        <seg>輸入頑磁的首選方法為施加約測試電壓等級 50 % 之反 (正) 極性突波。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The preferred method of tes&lt;t0/&gt;t is that of direct application although in special cases where the intermediate or low-voltage winding cannot, in service, be subjected to lightning overvoltages from the system connected to it, the "transferred surge" method may alternatively be employed&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T080838Z" creationid="CCYU" creationdate="20141123T080838Z">
