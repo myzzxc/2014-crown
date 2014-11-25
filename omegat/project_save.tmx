@@ -12968,6 +12968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital recording of the impulse voltage waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133747Z" creationid="CCYU" creationdate="20141125T133747Z">
+        <seg>數位記錄突波電壓波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital recording of waveshapes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T142146Z" creationid="Judy" creationdate="20141123T142146Z">
@@ -23494,6 +23502,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130458Z" creationid="CCYU" creationdate="20141103T125229Z">
         <seg>範例 d) 中，設置缺乏分流墊圈且限制,第一碟盤與等電位環之間管道 (指示值 S = 1,2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In exceptional cases, even longer sweep times, for example, 2 000 ps to 3 000 ps may be nec&lt;t4/&gt;essary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133731Z" creationid="CCYU" creationdate="20141125T133731Z">
+        <seg>特殊情況下可能需要更長的掃描時間，例如 2 000 µs 至 3 000 µs。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52013,6 +52029,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This time is longer than the expected time &lt;t1/&gt;T&lt;t2/&gt;z&lt;t3/&gt; and is normally 1 000 ps to 2 000 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133618Z" creationid="CCYU" creationdate="20141125T133618Z">
+        <seg>此時間較預期時間 &lt;t1/&gt;T&lt;t2/&gt;z&lt;t3/&gt; 長且通常為 1 000 µs 至 2 000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This type of specification is intended to allow the purchaser to specify &lt;t0/&gt;operational&lt;t1/&gt; requirements and not the category of voltage variation or which winding is to be tapped.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141428Z">
@@ -57018,6 +57042,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131853Z">
         <seg>多繞組變壓器中，額定電壓介於最高與最低繞組額定電壓之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a) Determination of the impulse voltage waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133808Z" creationid="CCYU" creationdate="20141125T133808Z">
+        <seg>a) 突波電壓波形測定</seg>
       </tuv>
     </tu>
     <tu>
