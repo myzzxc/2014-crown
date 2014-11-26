@@ -20304,8 +20304,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>However, this sensitivity is accompanied by the possibility of the recordings indicating a number of effects not directly associated with failure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233948Z" creationid="CCYU" creationdate="20141126T233907Z">
-        <seg>然而高靈敏度使記錄可能出現與故障非直接相關的指示，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T234125Z" creationid="CCYU" creationdate="20141126T233907Z">
+        <seg>然而高靈敏度使記錄可能出現與故障非直接相關的指示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39191,8 +39191,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Some possibilities have been identified in 9.1, which may be responsible for erratic bursts of oscill&lt;t1/&gt;ations or wavefront changes on current traces and should be investigated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233946Z" creationid="CCYU" creationdate="20141126T233946Z">
-        <seg>某些可能性已列於 9.1 之中，, which may be responsible for erratic bursts of oscill&lt;t1/&gt;ations or wavefront changes on current traces and should be investigated.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T234200Z" creationid="CCYU" creationdate="20141126T233946Z">
+        <seg>某些導致不規則振盪或電流線上波前變化的可能性已列於 9.1 之中，必須進一步調查。</seg>
       </tuv>
     </tu>
     <tu>
