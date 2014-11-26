@@ -11912,6 +11912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current recordings - Full-wave tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233551Z" creationid="CCYU" creationdate="20141126T233551Z">
+        <seg>電流記錄 - 全波測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current version : &lt;t0/&gt;1.0.0, issued: 23.03.2012</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T051520Z">
@@ -27606,8 +27614,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Likewise, incipient faults at or near the terminal under test may also give only small indications on the oscillograms or digital recordings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233148Z" creationid="CCYU" creationdate="20141126T233148Z">
-        <seg>同樣地，早期故障或測試下碼頭附近也可以給僅小徵兆示波圖上的數位錄音。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233419Z" creationid="CCYU" creationdate="20141126T233148Z">
+        <seg>同樣地，測試之端週邊的早期故障可能於波形圖或數位記錄上僅出現微小徵兆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47669,6 +47677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sensitivity of this measurement is higher than that of the applied voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233543Z" creationid="CCYU" creationdate="20141126T233543Z">
+        <seg>其測量靈敏度高於施加電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sensor should be placed at the centre of the spacer, as indicated in Figure E.3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T151249Z" creationid="CCYU" creationdate="20141106T150605Z">
@@ -53602,6 +53618,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074715Z" creationid="CCYU" creationdate="20141025T074715Z">
         <seg>培訓說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transferred voltage recordings will also indicate &lt;t0/&gt;the above-mentioned faults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233459Z" creationid="CCYU" creationdate="20141126T233459Z">
+        <seg>轉移電壓記錄也能指示上述故障，</seg>
       </tuv>
     </tu>
     <tu>
