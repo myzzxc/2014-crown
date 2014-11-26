@@ -28284,6 +28284,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Major changes in current records such as amplitude and frequency changes normally indicate part winding breakdowns within the tested winding, between windings or to earth (see figure&lt;t0/&gt; B.1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T234454Z" creationid="CCYU" creationdate="20141126T234454Z">
+        <seg>電流記錄的主要變化如振幅和頻率變化通常代表著測試繞組零件於繞組內、繞組間或接地故障 (請見圖 B.1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make hand washing equipment available in the work area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173815Z">
@@ -44897,6 +44905,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150419Z">
         <seg>故障發生後，不得再使用暖腳機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The form of the change will be different depending on the method of failure detection employed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T234557Z" creationid="CCYU" creationdate="20141126T234557Z">
+        <seg>變化形式將取決於採用的故障檢測方法而不同。</seg>
       </tuv>
     </tu>
     <tu>
