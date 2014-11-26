@@ -11944,6 +11944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currents may increase or decrease and the direction of the change together with the method of fault detection will give guidance on the nature and locati&lt;t1/&gt;on of the fault (see figure B.3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T234903Z" creationid="CCYU" creationdate="20141126T234903Z">
+        <seg>故障檢測中的電流可能增加或減少且方向變化將能指示出故障之性質與位置 (請見 B.3)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curve &lt;t0/&gt;A&lt;t1/&gt; shows the results from the seven PIV analyses of the random image, revealing a precision better than 0.01 pixels for patches greater than 8×8 pixels in size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T121116Z">
