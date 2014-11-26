@@ -3730,6 +3730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;This may require new setting of the discharge gaps on generators which have both series and parallel gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T131003Z" creationid="CCYU" creationdate="20141126T131003Z">
+        <seg>此時必須重新設定同時具有串聯和並聯間隙之產生器的放電間隙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Torque self-locking fitting to 57 inch lbs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T112613Z" creationid="Judy" creationdate="20141022T112613Z">
@@ -7177,6 +7185,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T085332Z">
         <seg>附件 B8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Annex B contains a number of&lt;t0/&gt; oscillograms and digital recordings taken during actual tests on transformers and reactors demonstrating fault and non-fault conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T124317Z" creationid="CCYU" creationdate="20141126T124317Z">
+        <seg>附錄 B 收錄許多變壓器和電抗器實際測試出現故障與非故障情形之波形圖和數位記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12968,6 +12984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different test voltage levels should be compensated by appropriate attenuations to obtain the same recording level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T124119Z" creationid="CCYU" creationdate="20141126T124119Z">
+        <seg>不同測試電壓等級應經過適當的衰減以獲得相同記錄電壓等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Different time bases may be used to record the chopped wave lightning impulses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T061639Z">
@@ -13132,6 +13156,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145331Z">
         <seg>不使用暖腳機時請將電源線由插座中拔除。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discrepancies of any kind are of concern and should be investigated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125344Z" creationid="CCYU" creationdate="20141126T125344Z">
+        <seg>若對差異有任何疑慮應進行調查，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17739,6 +17771,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For such an investigation into discrepancies, it is recommended to check first that the test circuit, the measuring circuit and earthing methods are not causing&lt;t0/&gt; the disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125715Z" creationid="CCYU" creationdate="20141126T125715Z">
+        <seg>對於差異之調查，建議先檢查測試電路，量測電路和接地方法不會造成干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For such cases, a minimum value for &lt;t5/&gt;T&lt;t6/&gt;d and &lt;t7/&gt;T&lt;t8/&gt;z&lt;t9/&gt; should be 120 ps and 500 ps respectively to assure adequate volt-time stress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T154152Z" creationid="CCYU" creationdate="20141125T154152Z">
@@ -19036,6 +19076,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally speaking, traces recorded from the same channel, under the same test cond&lt;t0/&gt;itions and using the same test circuit constants, should be identical except in the case of non-linear devices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T123715Z" creationid="CCYU" creationdate="20141126T123706Z">
+        <seg>一般來說，同一通道於相同測試條件並使用相同測試電路常數下之記錄應相同，除了非線性裝置例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally, these transformers are transported without liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T100548Z">
@@ -19450,6 +19498,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
         <seg>手較身體的其它部分對於溫度不敏感，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having eliminated or explained the above sources of discrepancies, variations in the wave&lt;t0/&gt;shape of voltage or current records between reduced and rated test voltage or between successive records at rated test voltage, which cann&lt;t1/&gt;ot be proved to originate in the test circuit or in non-linear resistors within the test object, are evidence of insulation failure from the test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T132159Z" creationid="CCYU" creationdate="20141126T132159Z">
+        <seg>消除或闡明上述干擾源後，無法證明降低和額定測試電壓之間的電壓和電流波形變化、或於額定測試電壓下之前後記錄的變化源自測試電路或測試目標內的非線性電阻，則為絕緣故障的證據。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22266,6 +22322,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the disturbances originate in the test circuit, every effort should be made to eliminate them or at least to minimize their effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125851Z" creationid="CCYU" creationdate="20141126T125851Z">
+        <seg>若干擾來自測試電路，必須盡所有方式消除干擾或至少最小化干擾效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the engine is removed or if it is still in place, use our product liberally in the containment area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T135059Z">
@@ -24611,6 +24675,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the majority of cases, however, these changes are limited to a time period c&lt;t2/&gt;orresponding to 50 % of the wavefront of the applied impulse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130526Z" creationid="CCYU" creationdate="20141126T130526Z">
+        <seg>然而大多數情況下，此變化僅發生於施加突波之波前 50 % 的時間範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the majority of the cases, particularly when large transformers with forced cooling are tested, and the cooling equipment is left operating after test power shutdown, it may be necessary to recognize a &lt;t0/&gt;falling asymptote, on which the more rapid initial variation is superimposed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142124Z" creationid="CCYU" creationdate="20141104T142124Z">
@@ -25939,6 +26011,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interpreta&lt;t0/&gt;tion of oscillograms or digital recordings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T123311Z" creationid="CCYU" creationdate="20141126T123311Z">
+        <seg>波形圖或數位記錄解析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interpretation of oscillograms or digital recordings is based on comparison of the waveshapes of voltages and current records &lt;t0/&gt;between reduced and rated test voltages or between successive records at rated test voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125009Z" creationid="CCYU" creationdate="20141126T125009Z">
+        <seg>波形圖或數位記錄之解析係根據降低和額定測試電壓之間的電壓和電流波形比較，或於額定測試電壓下之前後測試比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intr&lt;t0/&gt;oduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T020654Z" creationid="CCYU" creationdate="20141025T020654Z">
@@ -26652,6 +26740,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is, however, strongly emphasized that similar waveform discrepancies on another unit cannot necessarily be taken as&lt;t1/&gt; arising from the same cause as the faults will present themselves differently from design to design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T124602Z" creationid="CCYU" creationdate="20141126T124602Z">
+        <seg>然而，必須強調類似的波形差異之原因不一定相同，因為故障的呈現方式隨其設計不同而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may then be neces&lt;t0/&gt;sary to select bushings designed for higher insulation levels than otherwise required for operation at lower altitudes, see Clause 16 of this standard and IEC 60137.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074116Z" creationid="CCYU" creationdate="20141108T074116Z">
@@ -26760,6 +26856,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T133352Z">
         <seg>應注意雖然並聯操作非不正常條件，仍建議使用者將與其他變壓器並聯時提醒製造商並指明所使用之變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be remembered that in multi-stage generators, differences in the firing times of the individ&lt;t1/&gt;ual stages may give rise to minute changes in the amplitude of current records with high-frequency initial oscillations (without changing the basic frequency).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130311Z" creationid="CCYU" creationdate="20141126T130306Z">
+        <seg>必須銘記於多階產生器中，各階之不同發射時間可能導致電流記錄短暫改變伴隨高頻初始震盪 (不改變基頻)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27352,6 +27456,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121047Z" creationid="CCYU" creationdate="20141111T121047Z">
         <seg>中性端子雷擊突波測試 (LIN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning impulse</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T124609Z" creationid="CCYU" creationdate="20141126T124609Z">
+        <seg>雷擊突波</seg>
       </tuv>
     </tu>
     <tu>
@@ -31832,6 +31944,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133709Z">
         <seg>為龜裂混凝土：M8 至 M30，鋼筋 &lt;t0/&gt;Φ&lt;t1/&gt; &lt;t2/&gt;8 至 &lt;t3/&gt;Φ&lt;t4/&gt; &lt;t5/&gt;32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-gappe&lt;t0/&gt;d, non-linear resistors may produce a logical and progressive development or change with increasing voltage levels (see figure B.12).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T131544Z" creationid="CCYU" creationdate="20141126T131544Z">
+        <seg>無間隙、非線性電阻可能產生邏輯或漸進發展，或隨增加電壓等級變化 (請見圖 B.12)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37941,6 +38061,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secondly, it should be checked that core earthing or any non-linear elements within the test object are not the source of the disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T131147Z" creationid="CCYU" creationdate="20141126T131147Z">
+        <seg>其次，必須檢查核心接地或測試目標內所有非線性元件是否為干擾源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section 10: Stability and Reactivity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174945Z">
@@ -38233,6 +38361,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T144236Z">
         <seg>請見以下範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See figure B.13.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130319Z" creationid="CCYU" creationdate="20141126T130319Z">
+        <seg>請見圖 B.13。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43145,6 +43281,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T081325Z">
         <seg>單一錨固在張力下的基本混凝土斷裂強度，&lt;t0/&gt;N&lt;t1/&gt;b&lt;t2/&gt;，必須依照 ACI 318 D.5.2.2 使用本報告表中的 &lt;t3/&gt;k&lt;t4/&gt;c,cr&lt;t5/&gt;、&lt;t6/&gt;&lt;t7/&gt;k&lt;t8/&gt;c,uncr&lt;t9/&gt; 值計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic method for judging the results of a test is by comparison between the test waveforms obtained in a given test sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T123452Z" creationid="CCYU" creationdate="20141126T123452Z">
+        <seg>測試結果判定的基本方法為比較指定測試序列之間的波形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50005,6 +50149,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are sometimes also discrepancies after the peak, which may also originate from the generator, with multiple parallel stage operation, if the discharge circuits are not coincident in time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130759Z" creationid="CCYU" creationdate="20141126T130759Z">
+        <seg>有時於峰值後也會出現差異，此差異可能也源自產生器多階同時操作，其放電電路時間不同時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are t&lt;t0/&gt;w&lt;t1/&gt;o type of cable gland described in this manual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055145Z" creationid="CCYU" creationdate="20141025T055145Z">
@@ -51481,6 +51633,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T133244Z" creationid="CCYU" creationdate="20141108T133244Z">
         <seg>此為單相測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a skilled task and it is often difficult to decide the significance of discrepancies, even with considerable experience, because of the large number of pos&lt;t1/&gt;sible disturbance sources.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125259Z" creationid="CCYU" creationdate="20141126T125252Z">
+        <seg>解析需要高度技巧且即使具有經驗通常也難以分辨差異的顯著性，因為有許多可能的干擾源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54890,6 +55050,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135608Z">
         <seg>電壓比對應主抽頭以外之抽頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage recordings - Full-wave tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T132859Z" creationid="CCYU" creationdate="20141126T132859Z">
+        <seg>電壓記錄 - 全波測試</seg>
       </tuv>
     </tu>
     <tu>
