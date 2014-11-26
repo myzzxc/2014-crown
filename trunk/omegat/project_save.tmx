@@ -4429,6 +4429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A flashover across part of the winding will reduce the impedance of the winding, thus resulting in a decrease of the time to half-value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T232534Z" creationid="CCYU" creationdate="20141126T232534Z">
+        <seg>繞組零件之間的跳火將降低繞組阻抗，因而導致半高值時間降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A full wave lightning impulse test shall be &lt;t0/&gt;carried out on the line terminals using the method given in Clause 13 Test voltages are given in Table 2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T141544Z" creationid="CCYU" creationdate="20141111T141544Z">
@@ -4719,8 +4727,8 @@
       <tuv lang="EN-US">
         <seg>A reduction of the inductively transferred overvoltage component can be effected either by resistive damping through a surge diverter or by modification of the oscillation with capacitive loading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114322Z" creationid="CCYU" creationdate="20141118T110216Z">
-        <seg>可透過避雷器作為電阻性阻尼或以電容性負載改變震盪以降低電感轉移過電壓。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141118T110216Z">
+        <seg>可透過避雷器作為電阻性阻尼或以電容性負載改變振盪以降低電感轉移過電壓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6455,8 +6463,8 @@
       <tuv lang="EN-US">
         <seg>Alternatively or in addition, the peak voltage of the impulse (maximum value of the recorded curve) is increased if the overshoot exceeds 5 % and the frequency of oscillation is higher than about 100 kHz by the application of the test voltage function in accordance with IEC 60060-1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T032259Z">
-        <seg>此外，若超越值超過 5 % 以及根據 IEC 60060-1 使用測試電壓函數使震盪頻率高於 100 kHz 時，可增加突波峰值 (記錄曲線中最大值)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141115T032259Z">
+        <seg>此外，若超越值超過 5 % 以及根據 IEC 60060-1 使用測試電壓函數使振盪頻率高於 100 kHz 時，可增加突波峰值 (記錄曲線中最大值)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10203,6 +10211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022223Z">
         <seg>特徵黏結強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characteristic oscillations will also occur on the voltage wave at the &lt;t0/&gt;moment of flashover (see figures B.1 to B.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T232702Z" creationid="CCYU" creationdate="20141126T232702Z">
+        <seg>閃火瞬間於電壓波上將同時產生特徵振盪 (請見圖 B.1 至 B.5)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16701,8 +16717,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>First, the transmission of th discharge pulse entails a high attenuation of the higher frequency components, and secom when applying a calibration pulse to the line terminal, the pulse is likely to excite loc oscillations at and near the terminal, and this will complicate the calibration when mid-bar frequencies greater than 500 kHz are used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T134819Z" creationid="CCYU" creationdate="20141117T134819Z">
-        <seg>第一，放電突波之傳輸代表較高頻率元件的高衰減；第二，當輸入測定突波至線路端子時，突波可能於端子附近激發局部震盪，此項現象於中帶頻率高於 500 kHz 時將使測定複雜化。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141117T134819Z">
+        <seg>第一，放電突波之傳輸代表較高頻率元件的高衰減；第二，當輸入測定突波至線路端子時，突波可能於端子附近激發局部振盪，此項現象於中帶頻率高於 500 kHz 時將使測定複雜化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20160,8 +20176,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>However, the method which employs an additional inductance in series with the capacitor to provide slightly damped oscillations transferred into the high- voltage winding is not applic&lt;t1/&gt;able.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T034729Z" creationid="Judy" creationdate="20141122T034518Z">
-        <seg>然而，使用額外電感與電容串聯以產生些許阻尼震盪轉移至高電壓繞組之方法不適用。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="Judy" creationdate="20141122T034518Z">
+        <seg>然而，使用額外電感與電容串聯以產生些許阻尼振盪轉移至高電壓繞組之方法不適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21763,8 +21779,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If it is considered desirable to have a short front time (preferably within the specified limits) then oscillations and/or overshoots greater than ±5 % of the peak voltage, allowed in IEC 60060-1, may have to be acce&lt;t3/&gt;pted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T155952Z" creationid="Judy" creationdate="20141122T155952Z">
-        <seg>如需獲得短波前時間 (盡量低於指定限制) ，依據 IEC 60060-1 規範則允許震盪和超越量大於電壓峰值 ±5 %。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="Judy" creationdate="20141122T155952Z">
+        <seg>如需獲得短波前時間 (盡量低於指定限制) ，依據 IEC 60060-1 規範則允許振盪和超越量大於電壓峰值 ±5 %。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21843,8 +21859,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If no external loading is applied to the secondary winding, the voltage transient usually has a superimposed damped oscillation with a frequency determined by leakage inductance and winding capacitances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T105912Z" creationid="CCYU" creationdate="20141118T105912Z">
-        <seg>若二次繞組無外部負載，電壓暫態通常具有由洩漏電感和繞駔電容頻率所決定之疊加阻尼震盪。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141118T105912Z">
+        <seg>若二次繞組無外部負載，電壓暫態通常具有由洩漏電感和繞駔電容頻率所決定之疊加阻尼振盪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22596,8 +22612,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the standard impulse shape cannot reasonably be obtained because of low windinc inductance or high capacitance to earth and the resulting impulse shape is oscillatory so tha the relative overshoot magnitude exceeds 5 % then for windings that will receive a choppec wave lightning impulse test, the front time may be increased to reduce the overshoot.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030239Z" creationid="CCYU" creationdate="20141115T030239Z">
-        <seg>若因為低繞組電感或對地之高電容而無法獲得適當的標準突波波形，並造成突波震盪而使接受截波雷擊突波測試之繞組相對超越量超過 5 % 時，應增加波前時間以降低超越量。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141115T030239Z">
+        <seg>若因為低繞組電感或對地之高電容而無法獲得適當的標準突波波形，並造成突波振盪而使接受截波雷擊突波測試之繞組相對超越量超過 5 % 時，應增加波前時間以降低超越量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22756,8 +22772,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the transformer is to be tested by a third party the overswing is to be limited to this value.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060734Z" creationid="CCYU" creationdate="20141115T060734Z">
-        <seg>若變壓器將由第三方進行測試，則過度震盪應限制於此數值以內。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141115T060734Z">
+        <seg>若變壓器將由第三方進行測試，則過度振盪應限制於此數值以內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23748,8 +23764,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In general, oscillations not greater than ±10 % should be aimed at, even with extensions to the front time as necessary and as agr&lt;t4/&gt;eed between manufacturer and purchaser.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160517Z" creationid="Judy" creationdate="20141122T160517Z">
-        <seg>一般情況下，即使超出所需波前時間也應維持震盪小於 ±10 %，並由製造商和買方之間達成協議。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="Judy" creationdate="20141122T160517Z">
+        <seg>一般情況下，即使超出所需波前時間也應維持振盪小於 ±10 %，並由製造商和買方之間達成協議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24252,8 +24268,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In such an event, a compromise between the extent of allowable oscillations and the obtainable front time is necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160214Z" creationid="Judy" creationdate="20141122T160214Z">
-        <seg>此情況下必須於過大的震盪和可達到織坡前時間之間取得折衷。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="Judy" creationdate="20141122T160214Z">
+        <seg>此情況下必須於過大的振盪和可達到織坡前時間之間取得折衷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26878,8 +26894,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It should be remembered that in multi-stage generators, differences in the firing times of the individ&lt;t1/&gt;ual stages may give rise to minute changes in the amplitude of current records with high-frequency initial oscillations (without changing the basic frequency).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130311Z" creationid="CCYU" creationdate="20141126T130306Z">
-        <seg>必須銘記於多階產生器中，各階之不同發射時間可能導致電流記錄短暫改變伴隨高頻初始震盪 (不改變基頻)，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233025Z" creationid="CCYU" creationdate="20141126T130306Z">
+        <seg>必須銘記於多階產生器中，各階之不同發射時間可能導致電流記錄短暫改變伴隨高頻初始振盪 (不改變基頻)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27408,6 +27424,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144505Z">
         <seg>Legal entity 法人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Less extensive faults, such as breakdown of coil-to-coil or even turn-to-turn insulation are normally not recognizable on the voltage recordings but may sometimes be detected as high-frequency oscillations; cur&lt;t0/&gt;rent records will normally detect these faults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233007Z" creationid="CCYU" creationdate="20141126T233007Z">
+        <seg>小範圍的故障如線缺之間或甚至繞匝之間的絕緣故障通常無法於電壓記錄中辨識，但有時可偵測到高頻振盪Less extensive faults, such as breakdown of coil-to-coil or even turn-to-turn insulation are normally not recognizable on the voltage recordings but may sometimes be detected as high-frequency oscillations; cur&lt;t0/&gt;rent records will normally detect these faults.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31278,8 +31302,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE Transformers are normally designed to withstand an overswing to the opposite polarity of 30 % of the amplitude of the &lt;t0/&gt;chopped wave lightning impulse.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060631Z" creationid="CCYU" creationdate="20141115T060431Z">
-        <seg>註 變壓之設計通常能承受截波雷擊突波振幅 30 % 之不同極性過度震盪。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141115T060431Z">
+        <seg>註 變壓之設計通常能承受截波雷擊突波振幅 30 % 之不同極性過度振盪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32950,8 +32974,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>On multiple layer windings, the layer impedance may damp the collapse normally to the extent that it does not oscillate around zero (see figure B.20).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T062255Z" creationid="CCYU" creationdate="20141123T062255Z">
-        <seg>多層繞組之層阻抗能減緩崩潰，通常使其不於零附近範圍震盪 (請見圖 B.20)。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141123T062255Z">
+        <seg>多層繞組之層阻抗能減緩崩潰，通常使其不於零附近範圍振盪 (請見圖 B.20)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38767,8 +38791,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Similar co&lt;t0/&gt;nsiderations with respect to superimposed oscillations are valid also for single&lt;t1/&gt;phase auto-transformers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T154836Z" creationid="CCYU" creationdate="20141124T154836Z">
-        <seg>類似之疊加震盪考量對於單相自耦變壓器也有效。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141124T154836Z">
+        <seg>類似之疊加振盪考量對於單相自耦變壓器也有效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45223,8 +45247,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The inductance of such windings may be so low that the resulting waveshape is oscillatory.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T051354Z" creationid="CCYU" creationdate="20141123T051354Z">
-        <seg>此類繞組之電感可能過低而使產生之波形震盪。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141123T051354Z">
+        <seg>此類繞組之電感可能過低而使產生之波形振盪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48055,8 +48079,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The surge capacitance of the transformer under test being constant, the series resistance may have to be reduced in an attempt to obtain the correct front time &lt;t0/&gt;T-\&lt;t1/&gt; or rate of rise, but the reduction should not be to the extent that oscillations on the cres&lt;t2/&gt;t of the voltage wave become excessive.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T155445Z" creationid="Judy" creationdate="20141122T155445Z">
-        <seg>測試之變壓器的突波電容為定值，可降低串聯電阻以獲得正確的波前時間 &lt;t0/&gt;T1&lt;t1/&gt; 或上升速率，但不應過度降低使電壓之波峰震盪過大。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="Judy" creationdate="20141122T155445Z">
+        <seg>測試之變壓器的突波電容為定值，可降低串聯電阻以獲得正確的波前時間 &lt;t0/&gt;T1&lt;t1/&gt; 或上升速率，但不應過度降低使電壓之波峰振盪過大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48743,8 +48767,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The test shall be made without the deliberate addition of impedance in the chopping circuit, but if the overswing observed during a reduced voltage application is more than 30 % then the minimum impedance required to bring the overswing below 30 % may be added to the chopping circuit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T060109Z" creationid="CCYU" creationdate="20141115T060109Z">
-        <seg>測試應於不刻意增加截波電路阻抗的情況下進行，但使用降低電壓時若出現超過 30 % 的過度震盪時，則可加入最小的阻抗至截波電路中以使過度震盪低於 30 %。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141115T060109Z">
+        <seg>測試應於不刻意增加截波電路阻抗的情況下進行，但使用降低電壓時若出現超過 30 % 的過度振盪時，則可加入最小的阻抗至截波電路中以使過度振盪低於 30 %。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50351,8 +50375,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Therefore, during a test, the interphase voltages are likely to be higher than 1,5 &lt;t6/&gt;U&lt;t7/&gt; if no measures are taken at the non-tested terminals t&lt;t8/&gt;o suppress the oscillatory voltages by means of high ohmic impedance earthing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152959Z" creationid="CCYU" creationdate="20141124T152637Z">
-        <seg>因此於測試中，若於飛測試端子上無藉由高歐姆阻抗接地之抑制震盪電壓措施則相間電壓可能要高於 1,5 &lt;t6/&gt;U&lt;t7/&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141124T152637Z">
+        <seg>因此於測試中，若於飛測試端子上無藉由高歐姆阻抗接地之抑制振盪電壓措施則相間電壓可能要高於 1,5 &lt;t6/&gt;U&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56000,8 +56024,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When the waveshape is oscillatory due to extremely low inductance and/or small impulse generator capacitance, the amplitude of the opposite polarity should not exceed 50 % of the peak value of the first &lt;t0/&gt;amplitude.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053523Z" creationid="CCYU" creationdate="20141123T053523Z">
-        <seg>當波形因為極低電感或小突波產生器電容而震盪時，相反極性之振幅不應超出第一個振幅峰值之 50 %。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141123T053523Z">
+        <seg>當波形因為極低電感或小突波產生器電容而振盪時，相反極性之振幅不應超出第一個振幅峰值之 50 %。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56376,8 +56400,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Whilst the basic switching impulse wave is inductively transferred, the interph&lt;t0/&gt;ase capacitive coupling and the inherent phase capacitances and inductances can cause additional oscillations which are superimposed on the transferred voltages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152641Z" creationid="CCYU" creationdate="20141124T152155Z">
-        <seg>由於基本開關突波為感應傳輸，相間電容耦合以及固有相電容和電感會導致額外疊加於轉移電壓上之震盪，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233008Z" creationid="CCYU" creationdate="20141124T152155Z">
+        <seg>由於基本開關突波為感應傳輸，相間電容耦合以及固有相電容和電感會導致額外疊加於轉移電壓上之振盪，</seg>
       </tuv>
     </tu>
     <tu>
