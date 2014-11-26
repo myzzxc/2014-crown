@@ -4773,6 +4773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A significant increase, combined with a change in superimposed frequency in a neutral current is indicative of a fault within the tested winding whilst a decrease indicates a fault from the tested winding to an adjacent wi&lt;t0/&gt;nding or to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T235154Z" creationid="CCYU" creationdate="20141126T235154Z">
+        <seg>中性電流顯著的增加並伴隨著加頻率的變化代表測試繞組內故障，而電流降低代表故障發生於測試繞組週邊或接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A single-phase autotransformer designed for a 400 kV HV and a 130 kV intermediate&lt;t0/&gt; v&lt;t1/&gt;oltage with 22 kV tertiary windings all in phase</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015030Z">
