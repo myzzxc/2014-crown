@@ -20302,6 +20302,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this sensitivity is accompanied by the possibility of the recordings indicating a number of effects not directly associated with failure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233948Z" creationid="CCYU" creationdate="20141126T233907Z">
+        <seg>然而高靈敏度使記錄可能出現與故障非直接相關的指示，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, under circumstances where it clear that some parts of the transformer that have been fully tested are not involved in tf failure or repair, then at the discretion of the purchaser these parts may not need to be teste again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T133544Z" creationid="CCYU" creationdate="20141115T133544Z">
@@ -33348,6 +33356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oscillograms or digital recordings of the impulse response current are the most sensitive means for failure det&lt;t0/&gt;ection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233708Z" creationid="CCYU" creationdate="20141126T233708Z">
+        <seg>突波響應電流之波形圖或數位記錄為最靈敏的故障檢測方式，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oscillographic records shall be made of the impulse wave-shape on the line terminal under test and the current between the tested winding and earth.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141115T131805Z">
@@ -39169,6 +39185,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124549Z">
         <seg>其他加速計算流體力學模擬的假設如下：所有材料之流體黏度與熱學性質為定值，工作氣體為空氣並假設為理想氣體，忽略機械摩擦力與熱輻射影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some possibilities have been identified in 9.1, which may be responsible for erratic bursts of oscill&lt;t1/&gt;ations or wavefront changes on current traces and should be investigated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233946Z" creationid="CCYU" creationdate="20141126T233946Z">
+        <seg>某些可能性已列於 9.1 之中，, which may be responsible for erratic bursts of oscill&lt;t1/&gt;ations or wavefront changes on current traces and should be investigated.</seg>
       </tuv>
     </tu>
     <tu>
