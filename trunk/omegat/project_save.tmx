@@ -4685,6 +4685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A progressive but nevertheless total flashover across the winding under test will result in a somewhat slower voltage collapse, normally &lt;t0/&gt;occurring in a stepped manner (see figure B.1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T232409Z" creationid="CCYU" creationdate="20141126T232409Z">
+        <seg>測試之繞組漸進但徹底的跳火將導致較慢的電壓崩潰，通常以階段性的方式發生 (請見圖 B.1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A puncture in a small bag can cause a mess in a cab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125730Z">
@@ -13084,6 +13092,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114446Z">
         <seg>尺寸：約 180 x 130 cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct faults to earth near the terminal under test will result in a rapid and total collapse of the voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T232143Z" creationid="CCYU" creationdate="20141126T232143Z">
+        <seg>測試之端子周圍接地直接故障將導致快速且徹底的電壓崩潰，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35277,6 +35293,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provided that the time resolution is sufficiently high, a more detailed analysis of discrepancies is possible&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T232021Z" creationid="CCYU" creationdate="20141126T231937Z">
+        <seg>當時間解析度夠高的前提下，方能進行更詳細的差異分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provision for unusual service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163003Z">
@@ -52729,6 +52753,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024025Z">
         <seg>Thus, n&lt;t0/&gt;o further toxicological data/&lt;t1/&gt;ecotoxicological&lt;t2/&gt; data are reported. 因此，無進一步的毒理學資料 / 生態毒理學資料報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, the detectable discrepancies indicate major faults in the insulation or in the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T231821Z" creationid="CCYU" creationdate="20141126T231821Z">
+        <seg>因此，檢測出之差異代表絕緣或測試電路中的主要故障。</seg>
       </tuv>
     </tu>
     <tu>
