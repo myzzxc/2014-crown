@@ -27430,8 +27430,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Less extensive faults, such as breakdown of coil-to-coil or even turn-to-turn insulation are normally not recognizable on the voltage recordings but may sometimes be detected as high-frequency oscillations; cur&lt;t0/&gt;rent records will normally detect these faults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233007Z" creationid="CCYU" creationdate="20141126T233007Z">
-        <seg>小範圍的故障如線缺之間或甚至繞匝之間的絕緣故障通常無法於電壓記錄中辨識，但有時可偵測到高頻振盪Less extensive faults, such as breakdown of coil-to-coil or even turn-to-turn insulation are normally not recognizable on the voltage recordings but may sometimes be detected as high-frequency oscillations; cur&lt;t0/&gt;rent records will normally detect these faults.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233151Z" creationid="CCYU" creationdate="20141126T233007Z">
+        <seg>小範圍的故障如線缺之間或甚至繞匝之間的絕緣故障通常無法於電壓記錄中辨識，但有時可偵測到高頻振盪；電流記錄通常會檢測到此類故障，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27600,6 +27600,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021815Z" creationid="CCYU" creationdate="20141115T021815Z">
         <seg>指定之線路端子須連接在一起同時進行雷擊突波測試，其他端子接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Likewise, incipient faults at or near the terminal under test may also give only small indications on the oscillograms or digital recordings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233148Z" creationid="CCYU" creationdate="20141126T233148Z">
+        <seg>同樣地，早期故障或測試下碼頭附近也可以給僅小徵兆示波圖上的數位錄音。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38417,6 +38425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130319Z" creationid="CCYU" creationdate="20141126T130319Z">
         <seg>請見圖 B.13。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See figure B.6.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233139Z" creationid="CCYU" creationdate="20141126T233139Z">
+        <seg>請見圖 B.6。</seg>
       </tuv>
     </tu>
     <tu>
