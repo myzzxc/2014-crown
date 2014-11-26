@@ -4421,6 +4421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A fault from the test&lt;t0/&gt;ed winding to an adjacent winding will show an instantaneous increase in-amplitude in the same polarity sense and a change in basic frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T235550Z" creationid="CCYU" creationdate="20141126T235550Z">
+        <seg>測試繞組至相鄰繞組之故障將出現同極性振幅瞬間上升且基頻改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A few 20g spill kits should be a no brainer for every warehouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T113845Z">
@@ -10002,6 +10010,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074805Z" creationid="MAE" creationdate="20141118T074805Z">
         <seg>電容性傳輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capacitively transferred current will, for faults in the tested winding or to earth, show an instantaneous change in polarity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T235435Z" creationid="CCYU" creationdate="20141126T235351Z">
+        <seg>測試繞組內或接地故障時，電容性轉移電流將出現瞬間極性改變，</seg>
       </tuv>
     </tu>
     <tu>
@@ -50385,6 +50401,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T152612Z">
         <seg>沒有引擎循環期間於引擎室中關於壓力、溫度和熱傳導變化的資訊，以便更進一步理解發生於再生器和引擎室內的複雜物理過程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There will also be a change in basic frequency and there may be a decrease in amplitude.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T235433Z" creationid="CCYU" creationdate="20141126T235433Z">
+        <seg>其基頻也可能改變且振幅可能降低。</seg>
       </tuv>
     </tu>
     <tu>
