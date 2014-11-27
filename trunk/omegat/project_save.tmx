@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25127,6 +25127,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132510Z" creationid="CCYU" creationdate="20141112T132510Z">
         <seg>可依製造商和買方之協議，針對設備最高電壓 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; 要求較高的耐壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In transfer function analysis, the real time recor&lt;t0/&gt;ds of both the applied voltage &lt;t1/&gt;U(&lt;t2/&gt;t) and the resulting impulse response current 7(t), either at the transformer neutral or at the shorted non- tested winding to earth (capacitively transferred current), can be transferred by Fast Fourier Transformation (FFT&lt;t3/&gt;) algorithms to the frequency domain, respectively £/(©) and /(©).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224314Z" creationid="Judy" creationdate="20141127T224206Z">
+        <seg>傳遞函數分析中，無論於變壓器中性端或短路之非測試繞組端子接地處 (電容性轉移電流)，其施加電壓 &lt;t1/&gt;U(&lt;t2/&gt;t) 和突波響應電流 I(t) 之即時記錄可經由快速傅立葉轉換 (FFT) 演算法轉換至頻域，分別為 U(ω) 和 I(ω)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50393,6 +50401,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T124310Z" creationid="CCYU" creationdate="20141101T124310Z">
         <seg>然後量測之溫度值應依照 7.13 進行校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then voltage and current spectra ([/(to) and /(©)) are mathematically treated as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224508Z" creationid="Judy" creationdate="20141127T224508Z">
+        <seg>而電壓和電流頻譜 (U(ω) 和 I(ω)) 經以下數學運算：</seg>
       </tuv>
     </tu>
     <tu>
