@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7665,6 +7665,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143710Z">
         <seg>對於兩組以上繞組之變壓器，任何固定兩特定繞組之匝數比之要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225924Z" creationid="Judy" creationdate="20141127T225924Z">
+        <seg>傳遞函數Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18768,6 +18776,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084748Z">
         <seg>由重疊影像 (圖 5) 中可清楚的看見道路與其他物體由原始位置的位移，而位移的方向為朝向西北方，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the quadrupol&lt;t0/&gt;1&lt;t1/&gt;) theor&lt;t2/&gt;y the failure indications are derived as follows for the admittance function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225750Z" creationid="Judy" creationdate="20141127T225750Z">
+        <seg>根據四極理論&lt;t0/&gt;1&lt;t1/&gt;)，以下為導納函數之故障指示。</seg>
       </tuv>
     </tu>
     <tu>
