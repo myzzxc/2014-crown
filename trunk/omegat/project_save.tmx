@@ -55950,6 +55950,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When making the chopped wave test, failure of the chopping gap to chop, or any external part to spark over, although the voltag&lt;t0/&gt;e recording shows a chopped wave, gives a definite indication of a failure either within the test object or in the test circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T141328Z" creationid="CCYU" creationdate="20141127T141328Z">
+        <seg>當進行截波測試，即使電壓記錄顯示出截波，截波間隙故障或任何外部閃火明確指示出測試目標內部或測試電路內部故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When measuring such overswing, clipping of the recorded waveshape may occur by saturati&lt;t0/&gt;on of the input amplifier in the digitizer in the chosen range.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T122914Z" creationid="CCYU" creationdate="20141124T122914Z">
