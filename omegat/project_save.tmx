@@ -17547,6 +17547,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For gapped c&lt;t0/&gt;ore reactors, which have only one winding per phase and'no closed magnetic loop, the detection of turn-to-turn faults may be very difficult, or faults may be even left undetected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T143533Z" creationid="CCYU" creationdate="20141127T143533Z">
+        <seg>每相僅有一繞組且無封閉磁路之間隔核心電抗器，其繞匝間故障可能難以檢測或甚至無法檢測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For impedance earthed terminals, the main&lt;t1/&gt; inductance becomes predominant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T052725Z" creationid="CCYU" creationdate="20141123T052725Z">
