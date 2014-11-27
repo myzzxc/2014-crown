@@ -11103,6 +11103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comparison of the chopped-wave recordings after the instant of chopping is not normally possible unless the instants of chopping are almost identical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T134824Z" creationid="CCYU" creationdate="20141127T134824Z">
+        <seg>於截波後瞬間比較截波記錄通常不可能達成，除非截波瞬間幾乎完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance with the following codes:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140711T132748Z">
@@ -55226,6 +55234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141953Z" creationid="Judy" creationdate="20141022T141953Z">
         <seg>目視檢查所有零件之損壞或污染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vo&lt;t0/&gt;ltage and current recordings - Chopped-wave tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T134626Z" creationid="CCYU" creationdate="20141127T134626Z">
+        <seg>電壓和電流記錄 - 截波測試</seg>
       </tuv>
     </tu>
     <tu>
