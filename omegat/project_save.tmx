@@ -15009,6 +15009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even small differences in the instant of chopping, can, for some transformers, give rise to marked differences in the oscillation pattern after the chop (this pattern being a superp&lt;t1/&gt;osition of the transient phenomena due to the front of the original impulse and the chopping) and these differences may confuse comparison between the records of successful applications and those where a fault exists (see figure B.11).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140334Z" creationid="CCYU" creationdate="20141127T140334Z">
+        <seg>截波瞬間即使是很小的差異也可能造成某些變壓器截波後的振盪模式差異上升 (此模式為原始突波和截波之波前暫態現象疊加) 且差異可能與連續施加之記錄以及故障存在處之間的比較混淆 (請見圖 B.11)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though this is the coarsest grid, 20 cells have been allocated within the span of the regenerative channel, and they are concentrated towards all solid boundaries to resolve the flow and thermal boundary layers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230710Z">
