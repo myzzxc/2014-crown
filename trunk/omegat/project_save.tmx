@@ -39133,6 +39133,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small, local, jagged disturbances, perhaps spread over 2 ps or 3 ps, are a possible indication of severe discharge or partial breakdown in the insulation between turns or coils or coil connections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T000022Z" creationid="CCYU" creationdate="20141127T000022Z">
+        <seg>可能出現於 2 µs 至 3 µs 內的微小、局部、鋸齒狀干擾代表繞匝間或線圈連接絕緣可能嚴重放電或局部故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snuggle up under the extra-soft heating blanket for a pleasant, cosy well-being.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
