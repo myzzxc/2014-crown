@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18076,6 +18076,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the passive network of a transformer, both the admittance function and the impedance function are considered as a characteristic function in the frequency domain and should be independent of the waveshape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225135Z" creationid="Judy" creationdate="20141127T225135Z">
+        <seg>被動電網變壓器之導納函數和傳遞阻抗函數皆視為頻域中的特徵函數且與波形獨立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purchaser who wishes to further test the line to earth insulation with an AC test, the single phase line terminal AC test (LTAC) can be specified as a special test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T214427Z" creationid="Judy" creationdate="20141120T214303Z">
@@ -20122,6 +20130,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031152Z" creationid="CCYU" creationdate="20141025T031152Z">
         <seg>如何連接外部接地端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Howe&lt;t0/&gt;ver, since the voltage spectrum [/(to) does not exhibit any zero points, the transfer admittance function 7(co)/L/(co) is preferably used in transfer function analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225234Z" creationid="Judy" creationdate="20141127T225234Z">
+        <seg>然而，由於電壓頻譜 U(ω) 無任何零點，does not exhibit any zero points, the transfer admittance function 7(co)/L/(co) is preferably used in transfer function analysis.</seg>
       </tuv>
     </tu>
     <tu>
