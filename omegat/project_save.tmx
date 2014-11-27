@@ -7581,6 +7581,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any flattening of the poles is said to be indicative of partial discharges.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230541Z" creationid="Judy" creationdate="20141127T230541Z">
+        <seg>極點平坦化代表局部放電。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any inability of the manufacturer to perform the test or measurement at the rated frequency shall be stated by the manufacturer at the tender stage and appropriate conversion factors agreed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151431Z">
@@ -7671,8 +7679,8 @@
       <tuv lang="EN-US">
         <seg>Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230225Z" creationid="Judy" creationdate="20141127T225924Z">
-        <seg>轉換函數Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230504Z" creationid="Judy" creationdate="20141127T225924Z">
+        <seg>轉換函數中任何顯著的極點偏移代表部分繞組故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18094,8 +18102,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For the passive network of a transformer, both the admittance function and the impedance function are considered as a characteristic function in the frequency domain and should be independent of the waveshape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225135Z" creationid="Judy" creationdate="20141127T225135Z">
-        <seg>被動電網變壓器之導納函數和傳遞阻抗函數皆視為頻域中的特徵函數且與波形獨立。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230332Z" creationid="Judy" creationdate="20141127T225135Z">
+        <seg>被動電網變壓器之導納函數和轉換阻抗函數皆視為頻域中的特徵函數且與波形獨立。</seg>
       </tuv>
     </tu>
     <tu>
