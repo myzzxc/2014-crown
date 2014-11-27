@@ -35429,6 +35429,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provided that the time to chopping is reasonably identical from one voltage application to another, failures during this test w&lt;t0/&gt;ill be detectable both in the voltage and current recordings by differences in the oscillations after chopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T141741Z" creationid="CCYU" creationdate="20141127T141735Z">
+        <seg>各電壓施加之截波時間應盡可能一致，此期間的故障可由截波後波形圖中電壓和電流記錄差異檢測，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provision for unusual service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163003Z">
@@ -38529,6 +38537,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233139Z" creationid="CCYU" creationdate="20141126T233139Z">
         <seg>請見圖 B.6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See figures B.8 and B.9.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T141752Z" creationid="CCYU" creationdate="20141127T141752Z">
+        <seg>請見圖 B.8 和 B.9。</seg>
       </tuv>
     </tu>
     <tu>
