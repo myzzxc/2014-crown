@@ -18534,8 +18534,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For windings of small series c&lt;t0/&gt;apacitance, that is, exhibiting essentially travelling wave behaviour, it may be possible to identify the source of disturbances by evaluating the time difference between the arrival at the neutral of the capacitive and the travelling wave disturbances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T000510Z" creationid="CCYU" creationdate="20141127T000510Z">
-        <seg>具有串聯小電阻之繞組本質上即會出現波的傳遞行為，辨識干擾源可藉由評估電容性波到達中性點與干擾波傳遞之間的時間差異。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T000600Z" creationid="CCYU" creationdate="20141127T000510Z">
+        <seg>具有串聯小電阻之繞組本質上即會出現波的傳遞行為，辨識干擾源可藉由評估電容性波到達中性點與波傳遞干擾之間的時間差異。</seg>
       </tuv>
     </tu>
     <tu>
