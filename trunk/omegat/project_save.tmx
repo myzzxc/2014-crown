@@ -18500,6 +18500,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For transformers, any part-winding defect (turn-to-turn failure, disc-to-disc breakdown, or breakdowns in &lt;t0/&gt;tapping windings) will result in a flux blockage and will easily be detected by voltage and current records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T143231Z" creationid="CCYU" creationdate="20141127T143231Z">
+        <seg>變壓器任何部份繞組瑕疵 (繞匝間、碟盤間故障，或抽頭繞組故障) 將導致通量堵塞且可輕易由電壓和電流記錄中檢測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For truck fleets, loose product &lt;t0/&gt;isn&lt;t1/&gt; ‘t&lt;t2/&gt; really appealing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T125221Z">
