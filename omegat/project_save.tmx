@@ -19766,6 +19766,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the voltage records on switching impulse tests are a sufficiently sensitive means for detection of most faults (see figure B.15).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T142822Z" creationid="CCYU" creationdate="20141127T142822Z">
+        <seg>因此，開關突波測試之電壓記錄已足以檢測大多數故障 (請見圖 B.15)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
@@ -51097,6 +51105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141119T133743Z" creationid="Judy" creationdate="20141119T133743Z">
         <seg>此類變壓器包含分散式變壓器，通常同一特定設計會大量生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These types of fault cause a significant change in the voltage wave either as a complete collapse of the wave or a shortening of the tail or, sometimes, as a temporary dip i&lt;t1/&gt;n the trace.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T142707Z" creationid="CCYU" creationdate="20141127T142707Z">
+        <seg>此類型故障導致電壓波顯著變化，可能導致波形完全崩潰或波尾縮短，有時造成曲線短暫下降後上升。</seg>
       </tuv>
     </tu>
     <tu>
