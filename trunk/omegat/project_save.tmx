@@ -24419,6 +24419,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In switching impulse tests, owing to the uniform distribution of voltage throughout the winding, the fault normally involves major deterioration in the form of a short &lt;t0/&gt;circuit between sections, parts of a winding or even between windings or to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T142410Z" creationid="CCYU" creationdate="20141127T142410Z">
+        <seg>開關突波測試中，由於整個繞組之電壓均勻分佈，故障通常來自繞組各區域、零件之間或繞組接地的嚴重損壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In tectonics, there is an anticline, called the Tsukeng anticline, in the southeast of the landslide area, and the azimuth of the left limb is N135°W, 19°N.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043619Z">
