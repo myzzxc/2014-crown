@@ -7671,8 +7671,8 @@
       <tuv lang="EN-US">
         <seg>Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225924Z" creationid="Judy" creationdate="20141127T225924Z">
-        <seg>傳遞函數Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230225Z" creationid="Judy" creationdate="20141127T225924Z">
+        <seg>轉換函數Any shift of significant poles in the transfer function is indicative of a part-winding breakdown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13122,8 +13122,8 @@
       <tuv lang="EN-US">
         <seg>Digital processing, including transfer function analysis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223136Z" creationid="Judy" creationdate="20141127T223136Z">
-        <seg>數位處理，包括傳遞函數分析</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="Judy" creationdate="20141127T223136Z">
+        <seg>數位處理，包括轉換函數分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,8 +15179,8 @@
       <tuv lang="EN-US">
         <seg>Examples of such transfer function are given in figure B.17.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225422Z" creationid="Judy" creationdate="20141127T225422Z">
-        <seg>此傳遞函數之範例列於圖 B.17 之中。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="Judy" creationdate="20141127T225422Z">
+        <seg>此轉換函數之範例列於圖 B.17 之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20160,8 +20160,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Howe&lt;t0/&gt;ver, since the voltage spectrum [/(to) does not exhibit any zero points, the transfer admittance function 7(co)/L/(co) is preferably used in transfer function analysis.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225336Z" creationid="Judy" creationdate="20141127T225234Z">
-        <seg>傳遞然而，由於電壓頻譜 U(ω) 無任何零點，傳遞導納函數 I(ω)/U(ω) 為傳遞函數分析中的首選。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230242Z" creationid="Judy" creationdate="20141127T225234Z">
+        <seg>然而，由於電壓頻譜 U(ω) 無任何零點，轉換導納函數 I(ω)/U(ω) 為轉換函數分析中的首選。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24060,8 +24060,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In order to benefit from&lt;t0/&gt; additional mathematical investigation tools, such as transfer function analysis (see clause 10), for the examination of the test results, it is important that the same recording time for the recording of the impulse current and voltage is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T130013Z" creationid="CCYU" creationdate="20141124T130013Z">
-        <seg>為了利用額外的數學調查工具如傳遞函數分析 (見第 10 條) 檢驗測試結果，使用與記錄突波電流和電壓相同的記錄時間很重要。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="CCYU" creationdate="20141124T130013Z">
+        <seg>為了利用額外的數學調查工具如轉換函數分析 (見第 10 條) 檢驗測試結果，使用與記錄突波電流和電壓相同的記錄時間很重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25173,8 +25173,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In transfer function analysis, the real time recor&lt;t0/&gt;ds of both the applied voltage &lt;t1/&gt;U(&lt;t2/&gt;t) and the resulting impulse response current 7(t), either at the transformer neutral or at the shorted non- tested winding to earth (capacitively transferred current), can be transferred by Fast Fourier Transformation (FFT&lt;t3/&gt;) algorithms to the frequency domain, respectively £/(©) and /(©).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224314Z" creationid="Judy" creationdate="20141127T224206Z">
-        <seg>傳遞函數分析中，無論於變壓器中性端或短路之非測試繞組端子接地處 (電容性轉移電流)，其施加電壓 &lt;t1/&gt;U(&lt;t2/&gt;t) 和突波響應電流 I(t) 之即時記錄可經由快速傅立葉轉換 (FFT) 演算法轉換至頻域，分別為 U(ω) 和 I(ω)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="Judy" creationdate="20141127T224206Z">
+        <seg>轉換函數分析中，無論於變壓器中性端或短路之非測試繞組端子接地處 (電容性轉移電流)，其施加電壓 &lt;t1/&gt;U(&lt;t2/&gt;t) 和突波響應電流 I(t) 之即時記錄可經由快速傅立葉轉換 (FFT) 演算法轉換至頻域，分別為 U(ω) 和 I(ω)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56440,8 +56440,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When using digital r&lt;t0/&gt;ecording techniques, the transfer function analysis as described in clause 10 may be helpful to eliminate this confusion (see figure B.17).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140642Z" creationid="CCYU" creationdate="20141127T140642Z">
-        <seg>當使用數位記錄技術時，第 10 節所述之傳遞函數分析可能有助於消除此混淆 (請見圖 B.17)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="CCYU" creationdate="20141127T140642Z">
+        <seg>當使用數位記錄技術時，第 10 節所述之轉換函數分析可能有助於消除此混淆 (請見圖 B.17)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58801,8 +58801,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>by division of 7/(co)/7(co)&lt;t0/&gt; to form the transfer impedance function.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224836Z" creationid="Judy" creationdate="20141127T224836Z">
-        <seg>I(ω)/U(ω) 相除為傳遞阻抗函數。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230250Z" creationid="Judy" creationdate="20141127T224836Z">
+        <seg>I(ω)/U(ω) 相除為轉換阻抗函數。</seg>
       </tuv>
     </tu>
     <tu>
