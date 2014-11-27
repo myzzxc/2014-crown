@@ -58751,6 +58751,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>by division of 7( ©)/£/(©) to form the transfer admittance function, or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224737Z" creationid="Judy" creationdate="20141127T224708Z">
+        <seg>U(ω)/I(ω) 相除為導納函數，或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by division of 7/(co)/7(co)&lt;t0/&gt; to form the transfer impedance function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T224836Z" creationid="Judy" creationdate="20141127T224836Z">
+        <seg>I(ω)/U(ω) 相除為傳遞阻抗函數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>c 	concrete cover of post-installed rebar</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T040241Z">
