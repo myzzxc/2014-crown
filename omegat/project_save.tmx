@@ -7741,6 +7741,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any wavetail shortening in transformer tests is usually &lt;t0/&gt;quite distinguishable from variation in the length of the wavetail resulting from differing initial states of core magnetization on successive applications; nevertheless, the closer the initial states can be matched, the easier it becomes to distinguish be&lt;t1/&gt;tween a fault and a non-fault condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T144526Z" creationid="CCYU" creationdate="20141127T144526Z">
+        <seg>變壓器測試中任何波尾縮短通常能由改變連續施加電壓之核心磁化初始狀態所造成的波尾長度變化中分辨出；然而初始狀態越接近則越容易分辨出故障和非故障情形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092413Z">
