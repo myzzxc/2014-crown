@@ -7509,6 +7509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any changes in the frequency of the voltage and current recordings after the chopping should be investigated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140807Z" creationid="CCYU" creationdate="20141127T140758Z">
+        <seg>應調查截波後電壓和電流記錄中任何的頻率變化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any divergence between any IEC Publication and the corresponding national or r&lt;t1/&gt;egional publication shall be clearly indicated in the latter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115730Z" creationid="CCYU" creationdate="20141107T115730Z">
@@ -50765,6 +50773,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These &lt;t0/&gt;changes may be caused by either a flashover in the return loop to the laboratory earth or an internal failure in the test object</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140804Z" creationid="CCYU" creationdate="20141127T140804Z">
+        <seg>這些 &lt;t0/&gt; 的變化可能引起實驗室地球回路或閃或內部失敗的測試物件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These advantages are: very high efﬁciency, silence in operation, low level of toxic emission if powered by fuel, and the ability to use almost any kind of heat sources, including solar, biological, geothermal, or even industrial waste heat.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T210503Z">
@@ -56226,6 +56242,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T154356Z" creationid="Judy" creationdate="20141122T154356Z">
         <seg>當使用球間隙必須了解此舉僅為檢查而無法取代核准量測系統之例行測定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using digital r&lt;t0/&gt;ecording techniques, the transfer function analysis as described in clause 10 may be helpful to eliminate this confusion (see figure B.17).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140642Z" creationid="CCYU" creationdate="20141127T140642Z">
+        <seg>當使用數位記錄技術時，第 10 節所述之傳遞函數分析可能有助於消除此混淆 (請見圖 B.17)。</seg>
       </tuv>
     </tu>
     <tu>
