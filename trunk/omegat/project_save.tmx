@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47281,6 +47281,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T083233Z">
         <seg>換氣與動力活塞推動氣體造成類似衝擊的效應，大幅地朝熱或冷端壓縮等溫線並增加局部溫度梯度，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quadrupol theory is a mathematical tool to describe the relationship between input and output quantities in a linear elect&lt;t0/&gt;rical network in the time and frequency domain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230823Z" creationid="Judy" creationdate="20141127T230823Z">
+        <seg>四極理論為用於說明線性電網於時域和頻域中其輸入值與輸出值之間關係的數學工具。</seg>
       </tuv>
     </tu>
     <tu>
