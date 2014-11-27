@@ -36341,6 +36341,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recordings of the impulse response current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T220113Z" creationid="CCYU" creationdate="20141127T220113Z">
+        <seg>突波響應電流記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Records of tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224538Z" creationid="Judy" creationdate="20141113T224538Z">
