@@ -50775,8 +50775,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>These &lt;t0/&gt;changes may be caused by either a flashover in the return loop to the laboratory earth or an internal failure in the test object</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140804Z" creationid="CCYU" creationdate="20141127T140804Z">
-        <seg>這些 &lt;t0/&gt; 的變化可能引起實驗室地球回路或閃或內部失敗的測試物件</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T140925Z" creationid="CCYU" creationdate="20141127T140804Z">
+        <seg>這些變化可能由接地回路跳火或測試目標內部故障所引起。</seg>
       </tuv>
     </tu>
     <tu>
