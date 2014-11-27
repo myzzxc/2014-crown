@@ -15169,6 +15169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples of such transfer function are given in figure B.17.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225422Z" creationid="Judy" creationdate="20141127T225422Z">
+        <seg>此傳遞函數之範例列於圖 B.17 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of three-phase transformer connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141310Z">
@@ -20136,8 +20144,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Howe&lt;t0/&gt;ver, since the voltage spectrum [/(to) does not exhibit any zero points, the transfer admittance function 7(co)/L/(co) is preferably used in transfer function analysis.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225234Z" creationid="Judy" creationdate="20141127T225234Z">
-        <seg>然而，由於電壓頻譜 U(ω) 無任何零點，does not exhibit any zero points, the transfer admittance function 7(co)/L/(co) is preferably used in transfer function analysis.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T225336Z" creationid="Judy" creationdate="20141127T225234Z">
+        <seg>傳遞然而，由於電壓頻譜 U(ω) 無任何零點，傳遞導納函數 I(ω)/U(ω) 為傳遞函數分析中的首選。</seg>
       </tuv>
     </tu>
     <tu>
