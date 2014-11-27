@@ -19790,6 +19790,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here a higher resolution of the capacitive current flowing to earth, or a se&lt;t1/&gt;cond current record (the tank current), may be helpful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T143732Z" creationid="CCYU" creationdate="20141127T143732Z">
+        <seg>此處對地通入較高解析度之電容性電流或第二組電流記錄 (油槽電流) 可能有助於檢測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
