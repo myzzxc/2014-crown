@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13112,6 +13112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digital processing, including transfer function analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223136Z" creationid="Judy" creationdate="20141127T223136Z">
+        <seg>數位處理，包括傳遞函數分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital recording of the &lt;t0/&gt;impulse voltage waveshape '</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T074400Z" creationid="MAE" creationdate="20141124T074400Z">
@@ -15187,8 +15195,8 @@
       <tuv lang="EN-US">
         <seg>Except at the start of the wave or, in the case of tran&lt;t0/&gt;sformers, in the vicinity of core saturation, sharp changes of current occurring at the same time as any distortion of the voltage wave are indicative of failure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T221414Z" creationid="CCYU" creationdate="20141127T221414Z">
-        <seg>除波的開始Except at the start of the wave or, in the case of tran&lt;t0/&gt;sformers, in the vicinity of core saturation, sharp changes of current occurring at the same time as any distortion of the voltage wave are indicative of failure.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223000Z" creationid="CCYU" creationdate="20141127T221414Z">
+        <seg>變壓器除了波的開始，核心飽和附近電流發生急劇變化同時出現電壓波形干擾為故障的指示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56942,10 +56950,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the introduction of digital recording techniques in LI and SI impulse testing, there are now additional tools available for failure analysis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223408Z" creationid="Judy" creationdate="20141127T223408Z">
+        <seg>於 LI 和 SI 突波測試中使用數位記錄技術為故障分析增加了額外的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the multitude of machinery they have (compressors, generators, hydraulic pumps, there are going to be plenty of small but regular leaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070603Z">
         <seg>他們有各式機台 (壓縮機、發電機、液壓泵)，必定會有許多經常性的小範圍洩漏，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the nature of faults to be expected, current records are as sensitive as voltage records&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223108Z" creationid="Judy" creationdate="20141127T223108Z">
+        <seg>由於預期的故障性質，電流記錄與電壓記錄同樣靈敏。</seg>
       </tuv>
     </tu>
     <tu>
