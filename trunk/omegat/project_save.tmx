@@ -19902,6 +19902,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here the error in amplitude evaluation may be greater than 10 % due to the unknown in-built curve smoothing algorithms of digitizers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T042809Z" creationid="Judy" creationdate="20141129T042809Z">
+        <seg>因為數位記錄器內建未知的曲線平滑演算法，此處振幅評估之誤差可能大於 10 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here the maximum absolute local heat ﬂux at the top plate during the injection phase is 3.0 &lt;t0/&gt;kWm&lt;t1/&gt;—2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T232826Z">
