@@ -16579,6 +16579,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.22b shows a perfect &lt;t0/&gt;match between the transfer functions at reduced- and full-wave impulse tests.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T052445Z" creationid="Judy" creationdate="20141129T052445Z">
+        <seg>圖 B.22b 顯示出轉換函數於降低以及全波突波測試之間完美吻合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.3 - Typical liquid flow paths in a disk winding with &lt;t0/&gt;diverting washers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130944Z" creationid="CCYU" creationdate="20141103T130944Z">
