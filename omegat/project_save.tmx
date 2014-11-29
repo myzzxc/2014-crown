@@ -44517,6 +44517,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference in the &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; parameter is not explainable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T050527Z" creationid="Judy" creationdate="20141129T050527Z">
+        <seg>參數 &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; 之差異無法解釋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The difference is that the HV tapping voltage, according to the example, does not exceed the 'system highest voltage' of the HV system, which is 170 kV (IEC standardized value).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143347Z">
@@ -47521,6 +47529,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070328Z">
         <seg>變壓器原料應將以下標準列入考量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reading of the calibrated parallel peak voltmeter was 110 kV.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T050700Z" creationid="Judy" creationdate="20141129T050700Z">
+        <seg>校正之並聯峰值電壓計讀數為 110 kV。</seg>
       </tuv>
     </tu>
     <tu>
