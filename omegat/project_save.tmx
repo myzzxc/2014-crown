@@ -10118,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case 1: Example recordings of digitally evaluated non-standard waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T041945Z" creationid="Judy" creationdate="20141129T041945Z">
+        <seg>案例 1：非標準波形之數位記錄評估範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cases with and without MR have been investigated to understand the differences caused by the introduction of MR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101643Z">
@@ -17783,6 +17791,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T094340Z">
         <seg>For non-emergency personnel 非緊急工作人員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For non-standard waveshape 1,44/46 ps with 19 % &lt;t0/&gt;overshoot, evaluated by tangent through tail decay according to IEC 60060-1, see figure B.18.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T042044Z" creationid="Judy" creationdate="20141129T042044Z">
+        <seg>對於非標準波形For non-standard waveshape 1,44/46 ps with 19 % &lt;t0/&gt;overshoot, evaluated by tangent through tail decay according to IEC 60060-1, see figure B.18.</seg>
       </tuv>
     </tu>
     <tu>
