@@ -1575,6 +1575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1EC 1405/02</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070112Z" creationid="Judy" creationdate="20141129T070112Z">
+        <seg>IEC 1405/02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1EC/TS 60815 (all parts), Selection and dimensioning of high-voltage insulators intended for use in polluted conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T090400Z">
@@ -4405,6 +4413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failure digital recording of a tap changer lead flashover between taps is shown in figure B.23a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063111Z" creationid="Judy" creationdate="20141129T063053Z">
+        <seg>圖 B.23a 為抽頭切換器線路閃火故障之數位記錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A failure of the non-self-restoring internal insulation is catastrophic and normally leads to the transformer being out of service for a long period, while an external flashover may involve only a short interruption of service without causing lasting damage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132000Z" creationid="CCYU" creationdate="20141112T132000Z">
@@ -4765,6 +4781,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A report of the impulse tests conducted on the test object should &lt;t0/&gt;include at least the following information.-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064248Z" creationid="Judy" creationdate="20141129T064248Z">
+        <seg>於測試目標上所進行之突波測試的測試報告最少應包含以下資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A series of seven PIV analyses were conducted, in which the entire 3228×2448 pixels random image was covered in square patches with side length, L, 8, 16 and 32 pixels respectively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120221Z">
@@ -4857,6 +4881,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T145503Z" creationid="CCYU" creationdate="20141111T145458Z">
         <seg>開關突波測試應根據第 14 節所示之方法於線路端子上進行，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A tabulation showing impulse tests conducted on each terminal including</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064952Z" creationid="Judy" creationdate="20141129T064914Z">
+        <seg>各端子所進行之測試表格，包含</seg>
       </tuv>
     </tu>
     <tu>
@@ -8141,6 +8173,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As can be seen from the records in all previously shown examples, all defects were also detected by the real time records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063948Z" creationid="Judy" creationdate="20141129T063948Z">
+        <seg>如以上所有範例中可見，所有故障皆可由即時記錄中偵測到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As far as possible the same time to chop shall be used for all chopped impulses in the sequence.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064831Z" creationid="CCYU" creationdate="20141115T064831Z">
@@ -10146,6 +10186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051111Z" creationid="Judy" creationdate="20141129T051111Z">
         <seg>案例 2： 測試電路問題之反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case 3: Responses from test object failures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T062937Z" creationid="Judy" creationdate="20141129T062937Z">
+        <seg>案例 3： 測試目標故障之回應</seg>
       </tuv>
     </tu>
     <tu>
@@ -17627,6 +17675,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For failure digital recording between a coarse and a fine regulating winding, see figure B.23b.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063658Z" creationid="Judy" creationdate="20141129T063658Z">
+        <seg>粗部和細部整流繞組之間的故障數位記錄請見圖 B.23b。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For fixing and/or supporting&lt;t0/&gt; &lt;t1/&gt;concrete structural elements or&lt;t2/&gt; &lt;t3/&gt;heavy units such as cladding and&lt;t4/&gt; &lt;t5/&gt;suspended ceilings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T022531Z">
@@ -19272,6 +19328,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T065116Z">
         <seg>General information 一般資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General information, including</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064301Z" creationid="Judy" creationdate="20141129T064301Z">
+        <seg>一般資訊，包括</seg>
       </tuv>
     </tu>
     <tu>
@@ -23578,6 +23642,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impulse test reports</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064012Z" creationid="Judy" creationdate="20141129T064012Z">
+        <seg>突波測試報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impulses chopped on the tail</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053709Z" creationid="CCYU" creationdate="20141123T053709Z">
@@ -27568,6 +27640,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135639Z" creationid="CCYU" creationdate="20141028T135639Z">
         <seg>L：無可量測燃點之絕緣液體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L&lt;t0/&gt;{</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070232Z" creationid="Judy" creationdate="20141129T070232Z">
+        <seg>L&lt;t0/&gt;I</seg>
       </tuv>
     </tu>
     <tu>
@@ -37157,6 +37237,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reproductions of the pertinent recordings taken during the tests are an important part of &lt;t0/&gt;the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T071059Z" creationid="Judy" creationdate="20141129T071059Z">
+        <seg>測試所得之相關記錄的再現性為測試報告中重要的一部份，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reproductive Toxicity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175504Z">
@@ -39201,6 +39289,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144923Z">
         <seg>Signal word&lt;t0/&gt;              &lt;t1/&gt;: 警示語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Significant changes occur in&lt;t0/&gt; all real time and transfer function records.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063755Z" creationid="Judy" creationdate="20141129T063755Z">
+        <seg>即時以及轉換函數記錄街出現顯著的變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47597,6 +47693,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The real time recordings of voltage&lt;t0/&gt; and current at the full impulse and the transfer function show significant changes compared to the reduced full-wave impulse test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063355Z" creationid="Judy" creationdate="20141129T063355Z">
+        <seg>電壓和電流之全波突波即時記錄以及轉換函數中顯示出相對降低全波突波測試之間的明顯的變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The reason for the elevated gas temperature is due to the heating from the compression of the entire engine volume.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194131Z">
@@ -48081,6 +48185,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063338Z">
         <seg>這些照片的比例為 1: 5000 而原始解析度為 0.375 公尺 / 像素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The scaling of each axis (that is, magnitude and time) should be shown o&lt;t1/&gt;n every oscillogram or digital recording.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T071810Z" creationid="Judy" creationdate="20141129T071810Z">
+        <seg>各軸之 (即that is, magnitude and time) should be shown o&lt;t1/&gt;n every oscillogram or digital recording.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56430,6 +56542,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When specified, these recordings should be properly identified and arranged so that the necessary comparisons between full waves and chopped waves can be easily made.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T071515Z" creationid="Judy" creationdate="20141129T071515Z">
+        <seg>當有需要時，此記錄應適當地標明及排版以方便進行全波和截波之必要比較。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When storing, do not place any objects on the electric blanket to prevent buckling.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114216Z">
@@ -58006,6 +58126,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a diagram of the connections for each test, including</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065641Z" creationid="Judy" creationdate="20141129T065641Z">
+        <seg>各測試之連接圖，包括</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a dimensionless factor to &lt;t0/&gt;estimate the local increase of the average winding gradient due to the variation in the liquid flow stream</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133400Z" creationid="CCYU" creationdate="20141028T133400Z">
@@ -58422,6 +58550,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>actual set-up parameters (internal and external) for the impulse &lt;t0/&gt;generator;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065411Z" creationid="Judy" creationdate="20141129T065411Z">
+        <seg>突波產生器之實際設置參數 (內部和外部)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>actual test voltages for LI, full or chopped waves, and for SI;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065312Z" creationid="Judy" creationdate="20141129T065312Z">
+        <seg>LI 和 SI 全波或截波之實際測試電壓；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>actual waveshape parameters for LI &lt;t0/&gt;(T-\, T&lt;t1/&gt;2&lt;t2/&gt;, T&lt;t3/&gt;c&lt;t4/&gt;)&lt;t5/&gt; and for SI &lt;t6/&gt;(T-&lt;t7/&gt;1&lt;t8/&gt;, 7^, &lt;t9/&gt;T&lt;t10/&gt;z&lt;t11/&gt;)\</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065607Z" creationid="Judy" creationdate="20141129T065607Z">
+        <seg>實際波形參數， LI 為 &lt;t0/&gt;(T1, T&lt;t1/&gt;2&lt;t2/&gt;, T&lt;t3/&gt;c&lt;t4/&gt;)&lt;t5/&gt; 而 SI 為 &lt;t6/&gt;(T&lt;t7/&gt;1&lt;t8/&gt;, Td, &lt;t9/&gt;T&lt;t10/&gt;z&lt;t11/&gt;)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>addition of a clause on DC currents;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135419Z">
@@ -58482,6 +58634,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135523Z">
         <seg>增加箱體之真空、壓力和洩漏試驗；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>additional impedance in the chopping circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070413Z" creationid="Judy" creationdate="20141129T070413Z">
+        <seg>截波電路之額外阻抗</seg>
       </tuv>
     </tu>
     <tu>
@@ -59927,6 +60087,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>earthing arrangements of the non-tested terminals of th&lt;t0/&gt;e tested phase and of the non-tested phases, including values of any earthing resistances or impedances;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065930Z" creationid="Judy" creationdate="20141129T065930Z">
+        <seg>受測相與非受測相之非測試端子接地設置，包含任何接地電阻或阻抗值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>earthing through a low-impedance shunt for the purpose of impulse response current measurements may be considered the equivalent of direct &lt;t0/&gt;earthing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T064204Z" creationid="CCYU" creationdate="20141123T064204Z">
@@ -59955,6 +60123,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222419Z" creationid="JUDY" creationdate="20141026T222419Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>effective test object capacitance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070213Z" creationid="Judy" creationdate="20141129T070213Z">
+        <seg>測試目標有效電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>effective test object impedance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070240Z" creationid="Judy" creationdate="20141129T070240Z">
+        <seg>測試目標有效阻抗</seg>
       </tuv>
     </tu>
     <tu>
@@ -60227,6 +60411,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094005Z">
         <seg>高海拔外部絕緣：IEC 60076-3 油浸式變壓器，和 IEC 60076-11  乾式變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>external series resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070328Z" creationid="Judy" creationdate="20141129T070328Z">
+        <seg>外部串聯電阻</seg>
       </tuv>
     </tu>
     <tu>
@@ -60511,6 +60703,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ft&lt;t0/&gt;si</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070259Z" creationid="Judy" creationdate="20141129T070259Z">
+        <seg>R&lt;t0/&gt;si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>full wave lightning impulse test level (LI).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130824Z" creationid="CCYU" creationdate="20141118T130824Z">
@@ -60595,6 +60795,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033804Z">
         <seg>墊料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>generator capacitance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070135Z" creationid="Judy" creationdate="20141129T070135Z">
+        <seg>產生器電容</seg>
       </tuv>
     </tu>
     <tu>
@@ -61111,6 +61319,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>internal series resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070318Z" creationid="Judy" creationdate="20141129T070318Z">
+        <seg>內部串聯電阻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>introduction o&lt;t0/&gt;f opposite polarity remanence, either by means of positive polarity impulses of approximately 50 % amplitude or direct current application;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T160557Z" creationid="CCYU" creationdate="20141124T160524Z">
@@ -61519,6 +61735,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>loading capacitance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070152Z" creationid="Judy" creationdate="20141129T070152Z">
+        <seg>負載電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>loads&lt;t0/&gt; involving abnormal harmonic currents such as those that may result where appreciable load currents are controlled by solid-state or similar devices.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131238Z">
@@ -61571,6 +61795,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141712Z">
         <seg>錳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>manufacturer’s test engineer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064609Z" creationid="Judy" creationdate="20141129T064609Z">
+        <seg>製造商之測試工程師；</seg>
       </tuv>
     </tu>
     <tu>
@@ -61919,6 +62151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>numbering of recordings for identification and&lt;t0/&gt; easy cross-referencing;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065132Z" creationid="Judy" creationdate="20141129T065132Z">
+        <seg>可供辨識及方便交互參照之測試編號；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>o</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144852Z" creationid="CCYU" creationdate="20141105T144852Z">
@@ -62215,6 +62455,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>parallel resistance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070335Z" creationid="Judy" creationdate="20141129T070335Z">
+        <seg>並聯電阻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>parallel&lt;t0/&gt; operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132950Z">
@@ -62351,6 +62599,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>place and date of the test;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064516Z" creationid="Judy" creationdate="20141129T064516Z">
+        <seg>測試時間和地點；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>planned&lt;t0/&gt; short circuits as a part of regular operating or relaying practice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131748Z">
@@ -62475,6 +62731,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023938Z" creationid="CCYU" creationdate="20141025T023938Z">
         <seg>以防火外殼‘d’保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>purchaser'&lt;t0/&gt;s witnessing engineer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064653Z" creationid="Judy" creationdate="20141129T064653Z">
+        <seg>買方之見證工程師；</seg>
       </tuv>
     </tu>
     <tu>
@@ -62983,6 +63247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>serial number;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064415Z" creationid="Judy" creationdate="20141129T064415Z">
+        <seg>序號；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>series transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T141504Z">
@@ -63167,6 +63439,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specified test levels and waveshapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064745Z" creationid="Judy" creationdate="20141129T064745Z">
+        <seg>指定測試電壓等級和波形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>specified value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142846Z">
@@ -63203,6 +63483,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152404Z" creationid="Judy" creationdate="20141118T152404Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>standard to which the equipment is tested;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064726Z" creationid="Judy" creationdate="20141129T064726Z">
+        <seg>受測設備適用標準；</seg>
       </tuv>
     </tu>
     <tu>
@@ -63395,6 +63683,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025003Z" creationid="CCYU" creationdate="20141115T025003Z">
         <seg>為波尾時間，單位為秒； t&lt;t0/&gt;2&lt;t1/&gt; 等於 50 x 10&lt;t2/&gt;-&lt;t3/&gt;6&lt;t4/&gt; s；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tap position on which the test is carried out;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064450Z" creationid="Judy" creationdate="20141129T064450Z">
+        <seg>進行測試之抽頭位置；</seg>
       </tuv>
     </tu>
     <tu>
@@ -63607,6 +63903,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>terminal markings;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065651Z" creationid="Judy" creationdate="20141129T065651Z">
+        <seg>端子標記；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>terminals of different windings of a transformer, marked with the same letter or corresponding symbol</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T123653Z">
@@ -63619,6 +63923,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142909Z" creationid="CCYU" creationdate="20141112T142909Z">
         <seg>測試頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>test-circuit details;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065953Z" creationid="Judy" creationdate="20141129T065953Z">
+        <seg>測試電路詳細資訊；</seg>
       </tuv>
     </tu>
     <tu>
@@ -64875,10 +65187,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>type and magnitude of test waves;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065025Z" creationid="Judy" creationdate="20141129T065025Z">
+        <seg>測試波之形式和大小；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>type test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043607Z">
         <seg>型式測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type, rating and voltage of the equipment tested;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064408Z" creationid="Judy" creationdate="20141129T064408Z">
+        <seg>受測設備之形式、額定值以及電壓；</seg>
       </tuv>
     </tu>
     <tu>
@@ -65175,6 +65503,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061834Z">
         <seg>非常好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage and current measurement positions and arrangements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070030Z" creationid="Judy" creationdate="20141129T070030Z">
+        <seg>電壓和電流量測位置與設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65583,6 +65919,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T042016Z" creationid="MAE" creationdate="20141119T042016Z">
         <seg>可得到電壓為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which terminal the impulse is applied to;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065726Z" creationid="Judy" creationdate="20141129T065726Z">
+        <seg>施加突波之端子；</seg>
       </tuv>
     </tu>
     <tu>
