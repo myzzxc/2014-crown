@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case 2: Responses from test-circuit problems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051111Z" creationid="Judy" creationdate="20141129T051111Z">
+        <seg>案例 2： 測試電路問題之反應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cases with and without MR have been investigated to understand the differences caused by the introduction of MR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T101643Z">
