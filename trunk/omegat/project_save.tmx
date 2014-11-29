@@ -17795,6 +17795,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For non-standard chopped wave on a layer type winding, see figure B.20.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T045438Z" creationid="Judy" creationdate="20141129T045438Z">
+        <seg>對於非層式繞組上之非標準波形請見圖 B.20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For non-standard waveshape 1,44/46 ps with 19 % &lt;t0/&gt;overshoot, evaluated by tangent through tail decay according to IEC 60060-1, see figure B.18.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T042407Z" creationid="Judy" creationdate="20141129T042044Z">
@@ -19910,10 +19918,26 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here the digitizer evaluated the time to half-value as 5 ps, based on the first passage of the superimposed oscillation, whereas evaluation a&lt;t1/&gt;ccording to IEC 60060-1 shows 50 ps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T045339Z" creationid="Judy" creationdate="20141129T045339Z">
+        <seg>此處數位記錄器評估根據第一次通過疊加振盪之半高值時間為 5 μs，而根據 IEC 60060-1 評估為 50 μs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here the error in amplitude evaluation may be greater than 10 % due to the unknown in-built curve smoothing algorithms of digitizers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T042809Z" creationid="Judy" creationdate="20141129T042809Z">
         <seg>因為數位記錄器內建未知的曲線平滑演算法，此處振幅評估之誤差可能大於 10 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here the layer impedance avoids rapid collapse and oscillations around zero of the chopped wave to earth.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T045725Z" creationid="Judy" creationdate="20141129T045725Z">
+        <seg>此處層阻抗可阻止快速崩潰以及對地零點附近之截波振盪。</seg>
       </tuv>
     </tu>
     <tu>
