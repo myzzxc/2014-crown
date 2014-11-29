@@ -17803,6 +17803,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For non-standard waveshape 2&lt;t0/&gt;,48/50 ps, having superimposed oscillations with &gt;50 % amplitude and frequency less than 0,5 MHz, see figure B.19.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T043452Z" creationid="Judy" creationdate="20141129T043452Z">
+        <seg>對於非標準波形 2,48/50 μs，具有 &gt;50 % 振幅之疊加振盪且頻率低於 0,5 MHz，請見圖 B.19。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For non-uniform insulation as the test level is limited by the neutral insulation it is insufficient to prove the line to earth insulation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T124823Z" creationid="CCYU" creationdate="20141120T124823Z">
