@@ -16490,6 +16490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 2 - Lightning impulse test terminal connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132124Z" creationid="CCYU" creationdate="20141129T132124Z">
+        <seg>圖 2 - 閃電突波測試繞組連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 2 Illustration of 'clock number' notation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T012943Z">
@@ -57606,6 +57614,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z-i (Ci), &lt;t0/&gt;Z&lt;t1/&gt;2&lt;t2/&gt; (C&lt;t3/&gt;2&lt;t4/&gt;)&lt;t5/&gt; impedances (capacitances) in the voltage divider (see also figure 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132008Z" creationid="CCYU" creationdate="20141129T132008Z">
+        <seg>Z1(C1)、Z2(C2) 電壓分配器阻抗 (電容)，請見圖 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; is the positive sequence impedance of the transformer in &lt;t2/&gt;Q</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152312Z" creationid="Judy" creationdate="20141118T151959Z">
@@ -58798,6 +58814,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and &lt;t0/&gt;applicable methods of failure detection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132151Z" creationid="CCYU" creationdate="20141129T132151Z">
+        <seg>和故障檢測應用方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>and constitutes a technical revision.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115912Z" creationid="CCYU" creationdate="20141107T115912Z">
@@ -59351,6 +59375,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>capacitively transferred current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132025Z" creationid="CCYU" creationdate="20141129T132025Z">
+        <seg>電容性電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>category&lt;t0/&gt; of voltage variation:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131441Z">
@@ -59819,6 +59851,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073600Z" creationid="Judy" creationdate="20141129T073600Z">
         <seg>電流分路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current shunts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132030Z" creationid="CCYU" creationdate="20141129T132030Z">
+        <seg>電流分路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132159Z" creationid="CCYU" creationdate="20141129T132159Z">
+        <seg>電流波形</seg>
       </tuv>
     </tu>
     <tu>
@@ -65611,6 +65659,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>voltage &lt;t0/&gt;measuring circuit and transferred voltag</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132050Z" creationid="CCYU" creationdate="20141129T132050Z">
+        <seg>電壓量測電路和轉移電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>voltage and current measurement positions and arrangements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T070030Z" creationid="Judy" creationdate="20141129T070030Z">
@@ -65671,6 +65727,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083651Z">
         <seg>一般運作下，施加電壓不應超過相-接地電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage waveshape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132156Z" creationid="CCYU" creationdate="20141129T132156Z">
+        <seg>電壓波形</seg>
       </tuv>
     </tu>
     <tu>
