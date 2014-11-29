@@ -13168,6 +13168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Digitizers have been used in impulse testing since the 1980s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T025145Z" creationid="Judy" creationdate="20141129T025145Z">
+        <seg>數位記錄器自 1980 年代開始作為突波測試工具，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dimensioning of neutral connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035339Z">
@@ -20206,6 +20214,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, changes in the impulse current and/or the applied voltage which do not lead to a change in transfer admittance function, indicate a test circuit problem rather than a test object problem and hence is&lt;t0/&gt; a tool to differentiate between internal and external failures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T024757Z" creationid="Judy" creationdate="20141129T024757Z">
+        <seg>然而，突波電流或施加電壓之變化不會導致轉移導納函數變化，代表為測試電路問題而非測試目標的問題，因此可作為區分內部和外部故障的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, due to the compression effect posed by the movement of power pistons, there is large negative local heat ﬂux occurring at the ejection phase, which will be discussed in the next sub-section.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T233120Z">
@@ -20346,6 +20362,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T142811Z">
         <seg>然而，此差異是由於拍攝的時間所造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the literature and experience regarding transfer function analysis was for many years contradictory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T025441Z" creationid="Judy" creationdate="20141129T025331Z">
+        <seg>然而，文獻與多年的轉換函數分析經驗中仍具有許多矛盾之處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26671,6 +26695,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T141549Z" creationid="Judy" creationdate="20141123T141549Z">
         <seg>掃描速度決定之規則難以訂定，且後期時間之定義因每組變壓器之響應不同與速度範圍取決於使用之繞組形式而異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is emphasized that this technique is not fully proven for all cases and at present is only recommended as an additional aid to interpretation of results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T024934Z" creationid="Judy" creationdate="20141129T024934Z">
+        <seg>必須強調此技術尚未完全證實適用所有情況，目前僅建議作為結果解析的額外輔助工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44837,6 +44869,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final acceptance of test resul&lt;t0/&gt;ts is still based on comparison of waveforms as stated in 7.5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T025043Z" creationid="Judy" creationdate="20141129T025043Z">
+        <seg>最終測試結果驗收標準仍以 7.5 所述之波形為準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first part of the test may be terminated when the rate of change of top-liquid temperature rise has fallen below 1 K/h and has remained there for a period of 3 h.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064340Z" creationid="Judy" creationdate="20141101T064118Z">
@@ -50533,6 +50573,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are several rea&lt;t0/&gt;sons for these contradictions, namely</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T025618Z" creationid="Judy" creationdate="20141129T025618Z">
+        <seg>矛盾由許多原因造成，如</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are sometimes also discrepancies after the peak, which may also originate from the generator, with multiple parallel stage operation, if the discharge circuits are not coincident in time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T130759Z" creationid="CCYU" creationdate="20141126T130759Z">
@@ -52377,6 +52425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162013Z">
         <seg>這可能包括與絕緣液體同時運輸之限制或運輸過程中預期有與運作不同之環境條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This new technology represents a very powerful tool for the future, because it may also be used for on-line condition monitoring, both for dielectric defects and for mechanical defects after seve&lt;t0/&gt;re short-circuits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T041533Z" creationid="Judy" creationdate="20141129T041533Z">
+        <seg>未來此新技術可能是相當強大的工具，因為其可用於線上監測介電故障以及嚴重短路後之機械故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58278,6 +58334,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>affect the waveshape independence of the admittance function;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T030417Z" creationid="Judy" creationdate="20141129T030417Z">
+        <seg>影響波形與導納函數之獨立性；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>air</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030018Z" creationid="Judy" creationdate="20141122T030018Z">
@@ -59499,6 +59563,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T163032Z" creationid="CCYU" creationdate="20141116T163032Z">
         <seg>可得到變壓器中局部放電源之位置資訊，請見 A.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>digitizers may have non-standardized in-built &lt;t0/&gt;filters to filter noise from the signal which may</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T030336Z" creationid="Judy" creationdate="20141129T030209Z">
+        <seg>數位記錄器可能具有非標準之內建過濾信號雜訊之濾波器，其可能</seg>
       </tuv>
     </tu>
     <tu>
@@ -62615,6 +62687,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>result in incipient fault indications being filtered out and not recognized;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T030248Z" creationid="Judy" creationdate="20141129T030248Z">
+        <seg>導致初始故障被濾除而無法辨識；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>revision.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222408Z" creationid="JUDY" creationdate="20141026T222408Z">
@@ -63647,6 +63727,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the good/bad criteria for the deviations in the different fault con&lt;t0/&gt;ditions have not yet been established to an adequate degree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T030648Z" creationid="Judy" creationdate="20141129T030648Z">
+        <seg>目前未充分地建立出不同故障情況之差異的好壞標準。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the health or environmental impact of any substances which may be generated by potential fault conditions;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072802Z">
@@ -64511,6 +64599,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T080039Z" creationid="CCYU" creationdate="20141102T075958Z">
         <seg>變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformers and in particular the lightning impulse test circuits cannot be represented by a lumped linear circuit element for which quadrupol theory is fully applicable;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T025940Z" creationid="Judy" creationdate="20141129T025940Z">
+        <seg>變壓器和特定雷擊突波測試電路無法以一組完全適用四極理論之線性電路元件代表；</seg>
       </tuv>
     </tu>
     <tu>
