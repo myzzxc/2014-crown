@@ -16449,6 +16449,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1 - Typical &lt;t0/&gt;impulse test circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073628Z" creationid="Judy" creationdate="20141129T073628Z">
+        <seg>圖 1 - 典型突波測試電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 Moog Series 760N</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104357Z" creationid="Judy" creationdate="20141022T104357Z">
@@ -27600,6 +27608,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T084114Z">
         <seg>將油自此類桶子上方匯集並使其流至下方是一場持久戰，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073459Z" creationid="Judy" creationdate="20141129T073459Z">
+        <seg>數字代碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -57574,6 +57590,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z-\&lt;t0/&gt; (C,) impedance (capacitance) of the high-voltage arm of the voltage divide&lt;t1/&gt;r</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073605Z" creationid="Judy" creationdate="20141129T073605Z">
+        <seg>Z1(C1) 電壓分配器之高電壓臂阻抗 (電容)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z-connection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055528Z">
@@ -57586,6 +57610,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152312Z" creationid="Judy" creationdate="20141118T151959Z">
         <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; 為變壓器之正序列阻抗，單位為 Ω。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;2&lt;t1/&gt; (C&lt;t2/&gt;2&lt;t3/&gt;) impedance (capacitance)of the low-voltage arm of the voltage divider</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073622Z" creationid="Judy" creationdate="20141129T073622Z">
+        <seg>Z2(C2) 電壓分配器之低電壓臂阻抗 (電容)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59407,10 +59439,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>chopping circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073535Z" creationid="Judy" creationdate="20141129T073535Z">
+        <seg>截取電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>chopping equipment, where applicable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T142720Z" creationid="Judy" creationdate="20141122T142720Z">
         <seg>截波設備，如適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>chopping gap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073516Z" creationid="Judy" creationdate="20141129T073512Z">
+        <seg>截取間隙</seg>
       </tuv>
     </tu>
     <tu>
@@ -59763,6 +59811,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090126Z">
         <seg>量測電流不超過低電壓測與高電壓測之額定電流差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current shunt</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073600Z" creationid="Judy" creationdate="20141129T073600Z">
+        <seg>電流分路</seg>
       </tuv>
     </tu>
     <tu>
@@ -61127,6 +61183,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>impulse generator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073507Z" creationid="Judy" creationdate="20141129T073507Z">
+        <seg>突波產生器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>impulse generator efficiency per unit; &lt;t0/&gt;77&lt;t1/&gt; = &lt;t2/&gt;1&lt;t3/&gt;,&lt;t4/&gt;0&lt;t5/&gt;;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025546Z" creationid="CCYU" creationdate="20141115T025546Z">
@@ -61787,6 +61851,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T141706Z">
         <seg>鎂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>main circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073530Z" creationid="Judy" creationdate="20141129T073530Z">
+        <seg>主電路</seg>
       </tuv>
     </tu>
     <tu>
@@ -63023,6 +63095,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reference earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073554Z" creationid="Judy" creationdate="20141129T073554Z">
+        <seg>參考地線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reference temperature is 75 °C;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T131423Z">
@@ -63687,6 +63767,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>tank current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073648Z" creationid="Judy" creationdate="20141129T073648Z">
+        <seg>油槽電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>tap position on which the test is carried out;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T064450Z" creationid="Judy" creationdate="20141129T064450Z">
@@ -63923,6 +64011,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142909Z" creationid="CCYU" creationdate="20141112T142909Z">
         <seg>測試頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>test object</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073541Z" creationid="Judy" creationdate="20141129T073541Z">
+        <seg>測試目標</seg>
       </tuv>
     </tu>
     <tu>
@@ -65531,10 +65627,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>voltage divider</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073611Z" creationid="Judy" creationdate="20141129T073611Z">
+        <seg>電壓分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>voltage drop or rise for .a specified load condition</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T050006Z">
         <seg>指定負載條件下之電壓降或電壓升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage measuring circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073547Z" creationid="Judy" creationdate="20141129T073547Z">
+        <seg>電壓量測電路</seg>
       </tuv>
     </tu>
     <tu>
