@@ -2600,6 +2600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;d&lt;t1/&gt; time above 90 % of the specified amplitude</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132631Z" creationid="CCYU" creationdate="20141129T132631Z">
+        <seg>T&lt;t0/&gt;d&lt;t1/&gt; 超過指定振幅 90 % 之時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Rating plates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015326Z">
@@ -16510,6 +16518,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132019Z" creationid="CCYU" creationdate="20141022T132019Z">
         <seg>圖 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 3 - Transformer and reactor switching impulse waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132654Z" creationid="CCYU" creationdate="20141129T132654Z">
+        <seg>圖 3 - 變壓器和電抗器開關突波波形 waveshapes</seg>
       </tuv>
     </tu>
     <tu>
@@ -57646,6 +57662,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;1&lt;t1/&gt; (C^), &lt;t2/&gt;Z&lt;t3/&gt;2&lt;t4/&gt;(C&lt;t5/&gt;2&lt;t6/&gt;)&lt;t7/&gt; impedances (capacitances) in the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132732Z" creationid="CCYU" creationdate="20141129T132732Z">
+        <seg>Z1(C1)、Z2(C2) 電壓分配器阻抗 (電容)，請見圖 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z&lt;t0/&gt;1t&lt;t1/&gt; is the positive sequence impedance of the transformer in &lt;t2/&gt;Q</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152312Z" creationid="Judy" creationdate="20141118T151959Z">
@@ -59863,6 +59887,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>current measuring circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132744Z" creationid="CCYU" creationdate="20141129T132744Z">
+        <seg>電流量測電路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>current not&lt;t0/&gt; &lt;t1/&gt;exceeding the difference between the rated currents on the low-voltage side and the high-voltage side.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T090126Z">
@@ -61867,6 +61899,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T134441Z">
         <seg>發電機變壓器之卸除負載條件相對 5.3 更為嚴苛。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>loading &lt;t0/&gt;resistor, see 8.2.2.1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132809Z" creationid="CCYU" creationdate="20141129T132809Z">
+        <seg>負載電阻，請見 8.2.2.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -65032,6 +65072,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>time to first zero passage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132555Z" creationid="CCYU" creationdate="20141129T132555Z">
+        <seg>第一次通過零點時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>time&lt;t0/&gt; (s)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104712Z">
@@ -65727,6 +65775,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073611Z" creationid="Judy" creationdate="20141129T073611Z">
         <seg>電壓分配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage divider (see also figure 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132736Z" creationid="CCYU" creationdate="20141129T132736Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
