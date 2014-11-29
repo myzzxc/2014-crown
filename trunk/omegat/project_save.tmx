@@ -24883,6 +24883,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the following a few example recordings, both for real time and transfer function analysis, are presented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T041808Z" creationid="Judy" creationdate="20141129T041808Z">
+        <seg>以下的範例記錄中包含即時分析以及轉換函數分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the following, the discussion on the ﬂow and heat transfer characteristics is divided into injection phase, ejection phase, and in regenerative channel subsections.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101224Z">
