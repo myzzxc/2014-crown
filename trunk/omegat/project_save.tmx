@@ -43885,6 +43885,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The capacitivel&lt;t0/&gt;y transferred current from the LV winding sparks to a different earth than the tank and generator earth, resulting, after comparing with the reduced full- wave test, in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051730Z" creationid="Judy" creationdate="20141129T051730Z">
+        <seg>由低壓繞組對油槽和產生器地線以外之接地閃火引起的電容性轉移電流，與降低全波測試比較後，具有以下現象</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The categories of tapping voltage variation are defined as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140109Z">
