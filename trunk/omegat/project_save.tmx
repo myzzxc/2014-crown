@@ -18075,6 +18075,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For test-circuit problems caused by a sparkover to earth from a measuring cable, see figure B.22a.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051305Z" creationid="Judy" creationdate="20141129T051305Z">
+        <seg>對於由量測電纜接地閃火引起之測試電路問題，請見圖 B.22a。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For tests on shunt reactors a background PD level of up to 100pC may be accepted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130153Z" creationid="CCYU" creationdate="20141113T130102Z">
