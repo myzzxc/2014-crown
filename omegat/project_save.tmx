@@ -16522,6 +16522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 3b - Reactor switching impulse waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132247Z" creationid="CCYU" creationdate="20141129T132247Z">
+        <seg>圖 3b - 電抗器開關突波波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142448Z" creationid="CCYU" creationdate="20141023T142448Z">
@@ -41189,6 +41197,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt; time between the instant when the impulse is 30 % and 90 % of the peak value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132512Z" creationid="CCYU" creationdate="20141129T132512Z">
+        <seg>突波為峰值 30 % 瞬間以及 90 % 瞬間之間的時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T&lt;t0/&gt;0&lt;t1/&gt; is an estimate of the thermal time constant of the liquid.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143403Z" creationid="CCYU" creationdate="20141104T143403Z">
@@ -53661,6 +53677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tj</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132528Z" creationid="CCYU" creationdate="20141129T132528Z">
+        <seg>T1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To achieve reasonably identical oscillograms or digital recordings at any test level, it is recommended that the same remanence point should always be established, preferably saturation re&lt;t1/&gt;manence.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T131122Z" creationid="CCYU" creationdate="20141125T131122Z">
@@ -65655,6 +65679,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061834Z">
         <seg>非常好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>virtual front time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132533Z" creationid="CCYU" creationdate="20141129T132533Z">
+        <seg>虛擬波前時間</seg>
       </tuv>
     </tu>
     <tu>
