@@ -62103,6 +62103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral or winding current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T131840Z" creationid="CCYU" creationdate="20141129T131840Z">
+        <seg>中性或繞組電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T122423Z">
