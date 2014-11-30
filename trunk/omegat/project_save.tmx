@@ -46341,6 +46341,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The magnitude of the voltage is determined by the initial charging voltage, the number of capacitors in series at discharge, and the regulation of the circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152543Z" creationid="Judy" creationdate="20141130T152543Z">
+        <seg>電壓大小取決於初始充電電壓、放電時串聯電容數以及電路整流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main changes from the previous edition are as f&lt;t0/&gt;ollows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T120122Z" creationid="CCYU" creationdate="20141107T120122Z">
@@ -50553,6 +50561,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055339Z" creationid="CCYU" creationdate="20141115T055339Z">
         <seg>全波形突波之波形如 13.2.1 所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The waveshape is determined largely by the capacitances and resistances of the g&lt;t1/&gt;enerator and the impedance of the load.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152715Z" creationid="Judy" creationdate="20141130T152715Z">
+        <seg>波形主要由產生器和負載阻抗之電容和電阻所決定。</seg>
       </tuv>
     </tu>
     <tu>
