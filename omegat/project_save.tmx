@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5217,6 +5217,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063154Z" creationid="CCYU" creationdate="20141102T063154Z">
         <seg>∆Θh = Θh + ∆Θof - Θa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A.1 General</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152138Z" creationid="Judy" creationdate="20141130T152138Z">
+        <seg>A.1 概述</seg>
       </tuv>
     </tu>
     <tu>
@@ -35472,6 +35480,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020754Z">
         <seg>初級熔煉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Principles of waveshape control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152127Z" creationid="Judy" creationdate="20141130T152127Z">
+        <seg>波形控制原理</seg>
       </tuv>
     </tu>
     <tu>
