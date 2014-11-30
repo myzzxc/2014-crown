@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(figure A.1a)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153556Z" creationid="Judy" creationdate="20141130T153556Z">
+        <seg>(圖 A.1a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for&lt;t0/&gt; &lt;t1/&gt;Servovalve&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023250Z" creationid="CCYU" creationdate="20141025T023250Z">
@@ -9790,6 +9798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;g&lt;t1/&gt; &lt;t2/&gt;generator capacitance &lt;t3/&gt;C &lt;t4/&gt;= &lt;t5/&gt;C,&lt;t6/&gt; + C&lt;t7/&gt;L&lt;t8/&gt; + C-; &lt;t9/&gt;(see figure 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153504Z" creationid="Judy" creationdate="20141130T153504Z">
+        <seg>C&lt;t0/&gt;g&lt;t1/&gt; &lt;t2/&gt;產生器電容 &lt;t3/&gt;C &lt;t4/&gt;= &lt;t5/&gt;Ct&lt;t6/&gt; + C&lt;t7/&gt;L&lt;t8/&gt; + C1  &lt;t9/&gt;(請見圖 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&lt;t0/&gt;t&lt;t1/&gt; is of the order of 10&lt;t2/&gt;-9&lt;t3/&gt; F; s and C&lt;t4/&gt;t&lt;t5/&gt; are not well-defined quantities but dependent on the shape of the surge front.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094407Z" creationid="MAE" creationdate="20141118T094407Z">
@@ -16598,6 +16614,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142319Z">
         <seg>圖 1b — 可變通量電壓變化 (VFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure A,1 - Waveshape control for high-impedance windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153530Z" creationid="Judy" creationdate="20141130T153530Z">
+        <seg>圖 A,1 - 高阻抗繞組之波形控制</seg>
       </tuv>
     </tu>
     <tu>
