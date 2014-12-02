@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(figure A.1b)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T113314Z" creationid="CCYU" creationdate="20141202T113314Z">
+        <seg>(圖 A.1b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(for&lt;t0/&gt; &lt;t1/&gt;Servovalve&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023250Z" creationid="CCYU" creationdate="20141025T023250Z">
@@ -16556,8 +16564,8 @@
       <tuv lang="EN-US">
         <seg>Figure 3 - Transformer and reactor switching impulse waveshapes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132654Z" creationid="CCYU" creationdate="20141129T132654Z">
-        <seg>圖 3 - 變壓器和電抗器開關突波波形 waveshapes</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T113142Z" creationid="CCYU" creationdate="20141129T132654Z">
+        <seg>圖 3 - 變壓器和電抗器開關突波波形</seg>
       </tuv>
     </tu>
     <tu>
