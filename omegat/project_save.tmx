@@ -27476,6 +27476,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should, however, be pointed out that the effective transformer capacitance &lt;t0/&gt;C&lt;t1/&gt;t&lt;t2/&gt;, &lt;t3/&gt;included in the values of &lt;t4/&gt;C, &lt;t5/&gt;is a different phys&lt;t6/&gt;ical quantity for front and tail considerations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T115733Z" creationid="CCYU" creationdate="20141202T115733Z">
+        <seg>然而，必須指明包含於 C 值中的變壓器有效電容 &lt;t0/&gt;C&lt;t1/&gt;t&lt;t2/&gt;於波前和波尾中具有不同的物理量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should, however, be sufficiently long to ensure essentially uniform distribution of voltage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T131006Z" creationid="CCYU" creationdate="20141124T131006Z">
