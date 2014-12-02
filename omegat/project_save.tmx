@@ -24274,6 +24274,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, both front and tail parameters are adjusted according to these principles applicable for purely capacitive loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T115252Z" creationid="CCYU" creationdate="20141202T115252Z">
+        <seg>一般情況下，純電容性負載根據這些原則調整波前和波尾參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In general, it is usually not accessible for&lt;t2/&gt; direct measurement in testing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T041024Z">
