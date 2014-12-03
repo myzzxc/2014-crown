@@ -53773,6 +53773,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This test configuration applies the proper waveshape to the line-end insulation and is suitable for earth current measurements, although &lt;t0/&gt;the resistance may reduce slightly failure detection sensitivity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T213218Z" creationid="Judy" creationdate="20141203T213205Z">
+        <seg>此測試設置於線路端子絕緣施加適當的波形且適用於接地電流量測，雖然電阻可能些微降低故障檢測靈敏度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This test configuration is very suitable for current measurements since there is no increase &lt;t0/&gt;in the circuit resistance and the circuit therefore has good response to high-frequency disturbances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205911Z" creationid="Judy" creationdate="20141203T205911Z">
