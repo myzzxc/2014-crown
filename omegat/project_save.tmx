@@ -45445,6 +45445,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The envelope of oscillation will then be between curves P and P’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211846Z" creationid="Judy" creationdate="20141203T211826Z">
+        <seg>振盪之包絡則介於曲線 P 和 P’ 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The environmental impact of the transformer should be considered by both the manufacturer and the user over the lifetime of the unit from design to disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070036Z">
@@ -45625,6 +45633,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204721Z" creationid="Judy" creationdate="20141203T204721Z">
         <seg>最終分佈如線段 N，代表振盪之包絡介於曲線 M 和 M’ 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The final distribution will be similar to curve Q, where all, or almost all, of the voltage a&lt;t8/&gt;ppears across the resistor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211829Z" creationid="Judy" creationdate="20141203T211803Z">
+        <seg>最終分佈將與曲線 Q 類似，其中所有或幾乎所有的電壓皆通過電阻，</seg>
       </tuv>
     </tu>
     <tu>
@@ -57258,6 +57274,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T080136Z">
         <seg>當測試電感器時，項目 c) 和 e) 對分流器和串聯型皆不適用，項目 d) 可使用但由於其相對用於變壓器測試較不靈敏，因此僅作為額外的暫態記錄方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the capacitance to earth is large compared to the.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211913Z" creationid="Judy" creationdate="20141203T211913Z">
+        <seg>當接地電容</seg>
       </tuv>
     </tu>
     <tu>
