@@ -20262,6 +20262,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here again, the 75 % voltage lim&lt;t4/&gt;itation on the non-tested terminal(s) for star-connected windings and 50 % for delta-connected windings of their associated lightning impulse withstand level(s) applies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T203646Z" creationid="Judy" creationdate="20141203T203646Z">
+        <seg>此處非測試繞組之電壓限制依然為不超過其雷擊突波耐壓等級之 75 % (星形連接繞組) 或 50 % (三角連接繞組)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here heat transfer rate Q is calculated by integrating the local heat ﬂux q over the individual chamber’s wall surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200832Z">
@@ -22900,8 +22908,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the above-mentioned methods of wavetail control are still not sufficient to attain the prop&lt;t0/&gt;er time to half-value, a compromise is necessary between either accepting a shorter time to half&lt;t1/&gt;value or resorting to resistance earthing at the non-tested terminal(s) of the winding(s) under test, according to figure A.&lt;t2/&gt;6&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T202810Z" creationid="Judy" creationdate="20141203T202810Z">
-        <seg>若上述之波尾控制方法仍不足以達到適當的支柱 &lt;t0/&gt; er 時間到半值，妥協是必要之間或者接受到一半的時間縮短 &lt;t1/&gt; 值或訴諸電阻接地在非測試鬆動，根據試驗，圖 A.winding(s) &lt;t2/&gt;6 &lt;t3/&gt; 。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T203448Z" creationid="Judy" creationdate="20141203T202810Z">
+        <seg>若上述之波尾控制方法仍不足以達到適當的半高值時間，必須選擇接受較短的半高值時間或者根據圖 A.6 於測試繞組之非測試端子處以電阻接地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45223,8 +45231,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The effective inductance can be increased by resistance loading of the non-tested windings, with the limitation, however, that the voltages at the non-tested winding terminals should not exceed 75 % for star-connected windings or 50 % for &lt;t0/&gt;delta-connected windings of their associated lightning impulse withstand level(s).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T131035Z" creationid="CCYU" creationdate="20141203T131035Z">
-        <seg>有效電感可藉由非測試繞組之電阻負載以增加，然而非測試繞組端子之電壓應不超過其雷擊突波耐壓等級之 75 % (星形連接繞組 或 50 % (三角連接繞組)。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T203653Z" creationid="CCYU" creationdate="20141203T131035Z">
+        <seg>有效電感可藉由非測試繞組之電阻負載以增加，然而非測試繞組端子之電壓應不超過其雷擊突波耐壓等級之 75 % (星形連接繞組) 或 50 % (三角連接繞組)。</seg>
       </tuv>
     </tu>
     <tu>
