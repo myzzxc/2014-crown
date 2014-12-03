@@ -9598,6 +9598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown between turns in a fine-step tapping winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221910Z" creationid="Judy" creationdate="20141203T221910Z">
+        <seg>細調抽頭繞組內繞匝間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakdown between turns in tested main high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221845Z" creationid="Judy" creationdate="20141203T221845Z">
+        <seg>測試之主高電壓繞組的繞匝間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown, between discs, at entrance to tested high-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221221Z" creationid="Judy" creationdate="20141203T221221Z">
@@ -11019,6 +11035,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T130905Z" creationid="CCYU" creationdate="20141108T130905Z">
         <seg>線端子截波雷擊突波測試 (LIC)，&lt;t0/&gt;請見 &lt;t1/&gt;13.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chopped waves - Effects of differences to chopping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221949Z" creationid="Judy" creationdate="20141203T221949Z">
+        <seg>截波 - 截波差異效應</seg>
       </tuv>
     </tu>
     <tu>
@@ -43489,6 +43513,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T124635Z">
         <seg>製造商之產品，除製造商和買方之間另有協定外，應進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests with identical times to chopping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222029Z" creationid="Judy" creationdate="20141203T222029Z">
+        <seg>以相同截波時間測試</seg>
       </tuv>
     </tu>
     <tu>
