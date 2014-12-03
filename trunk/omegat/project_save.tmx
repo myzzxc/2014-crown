@@ -27748,6 +27748,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item 3 in figure&lt;t0/&gt; A.4 shows the equivalent transformer with one end of the winding solidly earthed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T203936Z" creationid="Judy" creationdate="20141203T203936Z">
+        <seg>圖 4 中的項目 3 為一端牢固接地之等效變壓器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item number: 60227</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114522Z">
@@ -35640,6 +35648,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T142421Z" creationid="CCYU" creationdate="20141105T142421Z">
         <seg>第二組樣品應盡量於溫度上升測試結束約 24 小時後採集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preference should be given, however, to a shorter time to half-value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T203733Z" creationid="Judy" creationdate="20141203T203733Z">
+        <seg>然而，應優先選擇較短的半高值時間。</seg>
       </tuv>
     </tu>
     <tu>
