@@ -27315,6 +27315,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is general practice to insert only enough resistance to produce a&lt;t10/&gt;n adequate length tail and the voltage appearing across the resistor is limited to not more than 75 % of the associated lightning impulse withstand level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T212541Z" creationid="Judy" creationdate="20141203T212541Z">
+        <seg>一般的做法為僅插入足以產生適當波尾長度之電阻，且通過電阻之電壓限制於不超過雷擊突波耐壓等級的 75%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is good practice to firmly connect this current return path to the general earth system of the test room, preferably close to the test object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151520Z" creationid="Judy" creationdate="20141122T151520Z">
