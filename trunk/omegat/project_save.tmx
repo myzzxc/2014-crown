@@ -7573,6 +7573,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another possible configuration is to insert a resistance in the earthed end of the winding under test.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211020Z" creationid="Judy" creationdate="20141203T211020Z">
+        <seg>另一種可能的設置是在測試繞組接地端插入電阻，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any additional requirements or tests regarding external insulation which are deemed necessary shall be sub&lt;t0/&gt;ject to agreement between manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020657Z" creationid="CCYU" creationdate="20141108T020657Z">
