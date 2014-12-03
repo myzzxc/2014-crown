@@ -57326,6 +57326,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the through capacitances are extremely small compared to the capacitance to earth, then a voltage distribution similar to curve O will occur,&lt;t6/&gt; which will result in an envelope of oscillation between curves O and O’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204944Z" creationid="Judy" creationdate="20141203T204944Z">
+        <seg>當通過電容相對電容至接地極小時，則電壓分佈與曲線 O 類似，其振盪包絡介於曲線 O 和 O’ 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the transformer has rated voltage applied to a primary winding, and rated current flows through the terminals of a secondary winding, the transformer receives the relevant rated power for that pair of windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T114348Z">
@@ -57986,6 +57994,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094054Z">
         <seg>當抽頭開關完全組裝於變壓器上，應執行下列操作程序無故障：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this configuration, there are portions of the winding that may exceed the applied voltage to the line terminals, but generally these windings have long time constants, and the t&lt;t7/&gt;ime for point T to oscillate to its maximum is usually long enough that the voltage applied at the terminals has decreased to 50 % of the crest value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205436Z" creationid="Judy" creationdate="20141203T205436Z">
+        <seg>此設置中部分繞組將超出施加至線路端子電壓，但這些繞組通常具有長時間常數，且 T 點振盪至其最大值之時間通常足以使施加至端子電壓降低至峰值的 50 % 。</seg>
       </tuv>
     </tu>
     <tu>
