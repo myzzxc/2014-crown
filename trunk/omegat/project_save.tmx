@@ -15049,6 +15049,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equations (A.7) and (A.8) give guidance for the control of &lt;t0/&gt;the wavetail by adjustment of the inductance of the test object T&lt;t1/&gt;t&lt;t2/&gt; &lt;t3/&gt;or&lt;t4/&gt; of the generator capacitance C&lt;t5/&gt;g&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130027Z" creationid="CCYU" creationdate="20141203T130027Z">
+        <seg>方程式 (A.7) 和 (A.8) 為藉由調整測試目標電感 L&lt;t1/&gt;t&lt;t2/&gt; &lt;t3/&gt;或 &lt;t4/&gt; 產生器電容 C&lt;t5/&gt;g&lt;t6/&gt; 以控制波尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023833Z" creationid="CCYU" creationdate="20141025T023833Z">
@@ -57830,6 +57838,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the non-tested windings short-circuited and earthed (usual connection), i&lt;t3/&gt;t&lt;t4/&gt; is the leakage inductance of the trans&lt;t5/&gt;former.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130209Z" creationid="CCYU" creationdate="20141203T130209Z">
+        <seg>非測試繞組短路並接地  (一般連接)，L&lt;t3/&gt;t&lt;t4/&gt; 為變壓器洩漏電感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the tap-changer fully assembled on the transformer, the following sequence of operations shall be performed without failure:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T094054Z">
@@ -58090,6 +58106,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152022Z" creationid="Judy" creationdate="20141118T152022Z">
         <seg>Z&lt;t0/&gt;0t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z&lt;t0/&gt;t&lt;t1/&gt; is influenced b&lt;t2/&gt;y the connection of the non-tested windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130059Z" creationid="CCYU" creationdate="20141203T130059Z">
+        <seg>L&lt;t0/&gt;t&lt;t1/&gt; 受非測試繞組之連接影響，</seg>
       </tuv>
     </tu>
     <tu>
