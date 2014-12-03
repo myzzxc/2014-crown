@@ -23362,6 +23362,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the through capacitances C-i and C&lt;t1/&gt;2&lt;t2/&gt; are large compared to the capacitance C&lt;t3/&gt;3&lt;t4/&gt; to earth then a voltage distribution similar to curve M in the graph will result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204454Z" creationid="Judy" creationdate="20141203T204454Z">
+        <seg>若通過電容 C1 和 C&lt;t1/&gt;2&lt;t2/&gt; 相對電容 C&lt;t3/&gt;3&lt;t4/&gt; 至接地大時，則電壓分佈與圖形中的曲線 M 相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the transformer cannot be mounted in its intended operating condition for testing (for example if the transformer is fitted with test-turrets and test-bushings or the arrangement of cooling equipment cannot be mounted in the in-service position, during the relevant factory test), an agreement shall be found between manufacturer and purchaser before the commencement of tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T125517Z">
