@@ -23394,6 +23394,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the through capacitances &lt;t2/&gt;C\&lt;t3/&gt; and C&lt;t4/&gt;2&lt;t5/&gt; are extremely large compared to the capacitance C&lt;t6/&gt;3&lt;t7/&gt; to earth, a distribution similar to curve P in the graph will result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211452Z" creationid="Judy" creationdate="20141203T211452Z">
+        <seg>若通過電容 C1 和 C&lt;t5/&gt;&lt;t6/&gt;2&lt;t2/&gt; 相對接地電容 C&lt;t3/&gt;3&lt;t4/&gt; 大時，則電壓分佈與圖形中的曲線 M 相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the through capacitances C-i and C&lt;t1/&gt;2&lt;t2/&gt; are large compared to the capacitance C&lt;t3/&gt;3&lt;t4/&gt; to earth then a voltage distribution similar to curve M in the graph will result.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210055Z" creationid="Judy" creationdate="20141203T204454Z">
@@ -27790,8 +27798,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Item 3 in figure A.5 shows the typical equivalent network of a transformer with the untested end of the winding earthed through a resist&lt;t1/&gt;or.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211155Z" creationid="Judy" creationdate="20141203T211155Z">
-        <seg>圖 4 中的項目 3 為一端牢固接地之等效變壓器。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211417Z" creationid="Judy" creationdate="20141203T211155Z">
+        <seg>圖 a.5 中的項目 3 為典型變壓器繞組之非測試端經由電阻接地之等效電路。</seg>
       </tuv>
     </tu>
     <tu>
