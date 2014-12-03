@@ -4211,6 +4211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t9/&gt;In these cases, the value of &lt;t10/&gt;T&lt;t11/&gt;2&lt;t12/&gt; cannot directly be adjusted according to equation (A.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T121408Z" creationid="CCYU" creationdate="20141203T121408Z">
+        <seg>此情況下，&lt;t10/&gt;T&lt;t11/&gt;2&lt;t12/&gt; 值無法根據方程式 (A.5) 直接調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t9/&gt;U&lt;t10/&gt;m&lt;t11/&gt; shall in no case be less than 17,5 kV.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133510Z" creationid="CCYU" creationdate="20141112T133510Z">
@@ -18920,6 +18928,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T133553Z">
         <seg>相同的洩漏處理工具組吸收量，我們的產品明顯比在市場上幾乎每個洩漏處理工具組更便宜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For windings of effective inductances &lt;t0/&gt;L&lt;t1/&gt;t&lt;t2/&gt; in the range 20 mH to 100 mH, the winding impedance considerably reduces the discharge, time constant &lt;t3/&gt;(t&lt;t4/&gt; = 7?&lt;t5/&gt;p&lt;t6/&gt;C&lt;t7/&gt;g&lt;t8/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T121317Z" creationid="CCYU" creationdate="20141203T121317Z">
+        <seg>繞組有效電感 &lt;t0/&gt;L&lt;t1/&gt;t&lt;t2/&gt; 介於 20 mH 至 100 mH 範圍內時，繞組阻抗大幅降低放電時間常數 &lt;t3/&gt;(τ&lt;t4/&gt; = R&lt;t5/&gt;p&lt;t6/&gt;C&lt;t7/&gt;g&lt;t8/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
