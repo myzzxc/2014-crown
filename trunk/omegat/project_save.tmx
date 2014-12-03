@@ -32404,6 +32404,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nearly the same considerations apply for the adjustment of the switching impulse front time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215207Z" creationid="Judy" creationdate="20141203T215207Z">
+        <seg>開關突波之波前時間調整也使用幾乎相同的原理，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Negative</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T023450Z">
@@ -44117,6 +44125,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of improvement in the tail time with this configuration is dependent on the characteristic of the winding and the values of in&lt;t4/&gt;ductance available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215113Z" creationid="Judy" creationdate="20141203T215113Z">
+        <seg>此設置之波尾時間增加量取決於繞組性質以及可用電感值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The analysis should be performed according to IEC 61181 by &lt;t0/&gt;means of a high precision gas-chromatographic method.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134910Z" creationid="CCYU" creationdate="20141105T134910Z">
@@ -52849,6 +52865,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205709Z" creationid="Judy" creationdate="20141203T205709Z">
         <seg>此設置並不會產生持續的繞組接地壓力，但會使繞組內絕緣遭受壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This configuration relies on a transfer of energy to the inductor from the impulse generator during the fr&lt;t3/&gt;ont portion of the wave and a transfer of energy from the inductor to the winding during the tail portion of the wave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T214924Z" creationid="Judy" creationdate="20141203T214924Z">
+        <seg>此設置於波前部分藉由突波產生器轉移能量至電感，並於波尾部分由電感轉移能量至繞組。</seg>
       </tuv>
     </tu>
     <tu>
