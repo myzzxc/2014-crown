@@ -18356,6 +18356,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the front time, &lt;t0/&gt;Q &lt;t1/&gt;can be calculated as &lt;t2/&gt;Q = &lt;t3/&gt;C&amp;&lt;t4/&gt; + V(C&lt;t5/&gt;s&lt;t6/&gt;C&lt;t7/&gt;e&lt;t8/&gt;) &lt;t9/&gt;where &lt;t10/&gt;Cb &lt;t11/&gt;is the bushing capacitance, &lt;t12/&gt;C&lt;t13/&gt;s&lt;t14/&gt; &lt;t15/&gt;is the winding series capacitance and &lt;t16/&gt;C&lt;t17/&gt;e&lt;t18/&gt; &lt;t19/&gt;is the winding earth capacitance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T120711Z" creationid="CCYU" creationdate="20141203T120642Z">
+        <seg>波前 &lt;t0/&gt;C1&lt;t1/&gt;可由 &lt;t2/&gt;C1 ≈ &lt;t3/&gt;CB&lt;t4/&gt; + ²√(C&lt;t5/&gt;s&lt;t6/&gt;C&lt;t7/&gt;e&lt;t8/&gt;) &lt;t9/&gt; 求得，其中 &lt;t10/&gt;CB&lt;t11/&gt; 為套管電容，&lt;t12/&gt;C&lt;t13/&gt;s&lt;t14/&gt; &lt;t15/&gt;為繞組電容，而&lt;t16/&gt;C&lt;t17/&gt;e&lt;t18/&gt; &lt;t19/&gt;為繞組接地電容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the interpretation of the results, it is suggested to take as a basis the so called &lt;t0/&gt;maximum analytical spread&lt;t1/&gt; which is the spread that can be expected between samples taken at the same time and at the same place,&lt;t2/&gt; including the variability of the sample, extraction process and analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T143839Z" creationid="CCYU" creationdate="20141105T143839Z">
@@ -18496,6 +18504,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T133334Z" creationid="CCYU" creationdate="20141125T133334Z">
         <seg>對於僅用於決定高於 90 % 之時間 Td 之波尾記錄，建議之掃描時間為 500 µs 至 1,000 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the wavetail, C&lt;t0/&gt;t&lt;t1/&gt; can be esti&lt;t2/&gt;mated as &lt;t3/&gt;Cb &lt;t4/&gt;plus part of &lt;t5/&gt;C&lt;t6/&gt;e&lt;t7/&gt;, &lt;t8/&gt;dependent on the initial voltage distribution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T120707Z" creationid="CCYU" creationdate="20141203T120707Z">
+        <seg>波尾For the wavetail, C&lt;t0/&gt;t&lt;t1/&gt; can be esti&lt;t2/&gt;mated as &lt;t3/&gt;Cb &lt;t4/&gt;plus part of &lt;t5/&gt;C&lt;t6/&gt;e&lt;t7/&gt;, &lt;t8/&gt;dependent on the initial voltage distribution.</seg>
       </tuv>
     </tu>
     <tu>
