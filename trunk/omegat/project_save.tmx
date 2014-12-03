@@ -9566,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown, line to neutral, across tested high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221056Z" creationid="Judy" creationdate="20141203T221056Z">
+        <seg>測試之高電壓繞組的線路至中性點故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brownish, fibrous material</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T145512Z">
@@ -11107,6 +11115,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T133838Z">
         <seg>Classification&lt;t0/&gt; &lt;t1/&gt;67/548/EEC 分類 67/548/EEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clause</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220912Z" creationid="Judy" creationdate="20141203T220912Z">
+        <seg>章節</seg>
       </tuv>
     </tu>
     <tu>
@@ -15329,6 +15345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220846Z" creationid="Judy" creationdate="20141203T220846Z">
+        <seg>範例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 1 — Constant flux voltage variation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131115Z">
@@ -16589,6 +16613,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T141700Z">
         <seg>圖 D.2 — 其他連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220839Z" creationid="Judy" creationdate="20141203T220839Z">
+        <seg>圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -19344,6 +19376,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T145031Z">
         <seg>全功率抽頭 — 降低功率抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full-wave faults</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220928Z" creationid="Judy" creationdate="20141203T220928Z">
+        <seg>全波故障</seg>
       </tuv>
     </tu>
     <tu>
@@ -28424,6 +28464,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T124609Z" creationid="CCYU" creationdate="20141126T124609Z">
         <seg>雷擊突波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning impulse test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220916Z" creationid="Judy" creationdate="20141203T220916Z">
+        <seg>雷擊突波測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -42169,6 +42217,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T015359Z">
         <seg>表 A1：材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table B.1 - Summary of examples illustrated in oscillograms and digital recordings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220826Z" creationid="Judy" creationdate="20141203T220826Z">
+        <seg>表 B.1 - 波形圖或數位記錄範例摘要</seg>
       </tuv>
     </tu>
     <tu>
