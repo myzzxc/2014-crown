@@ -18372,6 +18372,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the front &lt;t0/&gt;adjustments, the same applies as for high-impedance windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122659Z" creationid="CCYU" creationdate="20141203T122659Z">
+        <seg>調整波前，同樣適用於高阻抗繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the front time, &lt;t0/&gt;Q &lt;t1/&gt;can be calculated as &lt;t2/&gt;Q = &lt;t3/&gt;C&amp;&lt;t4/&gt; + V(C&lt;t5/&gt;s&lt;t6/&gt;C&lt;t7/&gt;e&lt;t8/&gt;) &lt;t9/&gt;where &lt;t10/&gt;Cb &lt;t11/&gt;is the bushing capacitance, &lt;t12/&gt;C&lt;t13/&gt;s&lt;t14/&gt; &lt;t15/&gt;is the winding series capacitance and &lt;t16/&gt;C&lt;t17/&gt;e&lt;t18/&gt; &lt;t19/&gt;is the winding earth capacitance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T120711Z" creationid="CCYU" creationdate="20141203T120642Z">
@@ -28576,6 +28584,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T084333Z">
         <seg>批號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low-impedance windings (it &lt; 20 mH)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122556Z" creationid="CCYU" creationdate="20141203T122556Z">
+        <seg>低阻抗繞組 (Lt &lt; 20 mH)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53937,6 +53953,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132528Z" creationid="CCYU" creationdate="20141129T132528Z">
         <seg>T1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To account for this effect, experience has shown that f?&lt;t13/&gt;p&lt;t14/&gt; has to be increased to a value two to ten times greater than the value derived from equation (A.5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122522Z" creationid="CCYU" creationdate="20141203T122522Z">
+        <seg>為了將此效應納入考量，經驗顯示 R&lt;t13/&gt;p&lt;t14/&gt; 值為方程式 (A.5) 所得之數值的二到十倍。</seg>
       </tuv>
     </tu>
     <tu>
