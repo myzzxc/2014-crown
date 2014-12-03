@@ -4541,6 +4541,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A further method of improving the time to half-value is being developed which uses an additional inductor in parallel with &lt;t0/&gt;R&lt;t1/&gt;s&lt;t2/&gt;,&lt;t3/&gt; thus&lt;t4/&gt; increasing the total circuit inductance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215623Z" creationid="Judy" creationdate="20141203T215623Z">
+        <seg>進一步增加半高值時間可藉由使用額外電感與  &lt;t0/&gt;R&lt;t1/&gt;s&lt;t2/&gt; 並聯而增加電路總電感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A further winding in the transformer, usually with lower value of rated power than the secondary winding, is then often referred to as 'tertiary winding', see also definition 3.3.8.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T131139Z">
@@ -16782,6 +16790,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T213523Z" creationid="Judy" creationdate="20141203T213523Z">
         <seg>圖 A.5 - 繞組經由電阻接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure A.6 - Resistance earthing of low-impedance windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215707Z" creationid="Judy" creationdate="20141203T215707Z">
+        <seg>圖 A.6 - 低阻抗繞組之電阻接地</seg>
       </tuv>
     </tu>
     <tu>
@@ -55438,6 +55454,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical &lt;t0/&gt;oscillograms and digital recordings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215759Z" creationid="Judy" creationdate="20141203T215759Z">
+        <seg>典型波形圖或數位記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Typically, this is applied either using a liquid column or gas pressure in the conservator.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095954Z">
@@ -63127,6 +63151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>non-tested terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215636Z" creationid="Judy" creationdate="20141203T215636Z">
+        <seg>非測試端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>non-uniform insulation of a transformer winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T020146Z" creationid="CCYU" creationdate="20141108T015835Z">
@@ -64995,6 +65027,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T065953Z" creationid="Judy" creationdate="20141129T065953Z">
         <seg>測試電路詳細資訊；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tested terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215631Z" creationid="Judy" creationdate="20141203T215631Z">
+        <seg>測試端子</seg>
       </tuv>
     </tu>
     <tu>
