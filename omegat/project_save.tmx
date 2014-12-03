@@ -12072,6 +12072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critically &lt;t5/&gt;(k =&lt;t6/&gt; 1) or over-critically &lt;t7/&gt;(k &gt;&lt;t8/&gt; 1) damped circuits result in exponential curves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123457Z" creationid="CCYU" creationdate="20141203T123457Z">
+        <seg>邊際值 &lt;t5/&gt;(k =&lt;t6/&gt; 1) 或過度 &lt;t7/&gt;(k &gt;&lt;t8/&gt; 1) 阻尼電路將形成指數曲線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cross-recessed head machine screw</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033732Z" creationid="CCYU" creationdate="20141025T033732Z">
@@ -20826,6 +20834,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154511Z">
         <seg>然而，關於移動式再生器效應對引擎效能之影響的資訊相當稀少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, these are normally not applicable since the corresponding resistance values &lt;t9/&gt;give unacceptably long front times.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123632Z" creationid="CCYU" creationdate="20141203T123632Z">
+        <seg>然而，這些情況通常都不適用，因為其相應的電阻值將導致過長的波前時間。</seg>
       </tuv>
     </tu>
     <tu>
