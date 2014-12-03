@@ -41375,16 +41375,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>T&lt;t0/&gt;2&lt;t1/&gt; * &lt;t2/&gt;0,7(R&lt;t3/&gt;S&lt;t4/&gt; + R&lt;t5/&gt;p&lt;t6/&gt;)(C&lt;t7/&gt;g&lt;t8/&gt; &lt;t9/&gt;+&lt;t10/&gt; C) (figure A.1a)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T114251Z" creationid="CCYU" creationdate="20141202T114251Z">
-        <seg>T&lt;t0/&gt;2&lt;t1/&gt; = &lt;t2/&gt;0,7(R&lt;t3/&gt;S&lt;t4/&gt; + R&lt;t5/&gt;p&lt;t6/&gt;)(C&lt;t7/&gt;g&lt;t8/&gt; &lt;t9/&gt;+&lt;t10/&gt; C) (圖 A.1a)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T115434Z" creationid="CCYU" creationdate="20141202T114251Z">
+        <seg>T&lt;t0/&gt;2&lt;t1/&gt; ≈ &lt;t2/&gt;0,7(R&lt;t3/&gt;S&lt;t4/&gt; + R&lt;t5/&gt;p&lt;t6/&gt;)(C&lt;t7/&gt;g&lt;t8/&gt; &lt;t9/&gt;+&lt;t10/&gt; C) (圖 A.1a)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>T&lt;t0/&gt;2&lt;t1/&gt; = &lt;t2/&gt;0,7R&lt;t3/&gt;p&lt;t4/&gt;{Cg&lt;t5/&gt; &lt;t6/&gt;+ C) (figure A.1b)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141202T114313Z" creationid="CCYU" creationdate="20141202T114313Z">
-        <seg>T&lt;t0/&gt;2&lt;t1/&gt; = &lt;t2/&gt;0,7R&lt;t3/&gt;p&lt;t4/&gt;(Cg&lt;t5/&gt; &lt;t6/&gt;+ C) (圖 A.1b)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T115449Z" creationid="CCYU" creationdate="20141202T114313Z">
+        <seg>T&lt;t0/&gt;2&lt;t1/&gt; ≈ &lt;t2/&gt;0,7R&lt;t3/&gt;p&lt;t4/&gt;(Cg&lt;t5/&gt; &lt;t6/&gt;+ C) (圖 A.1b)</seg>
       </tuv>
     </tu>
     <tu>
