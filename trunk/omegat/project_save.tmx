@@ -47549,6 +47549,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The oscillograms and digital recordings of fault and non-fault conditions reproduced on the following pages are extracted from records of actual tests on core-type power transformers with concentric cylindrical windings &lt;t0/&gt;and on shunt reactors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220149Z" creationid="Judy" creationdate="20141203T220149Z">
+        <seg>以下頁面之故障和非故障波形圖和數位記錄由具有同心柱繞組之核心式電力變壓器以及分配電抗器的實際測試中所截取，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The oscillograms or digital recordings of the applied voltage are a rela&lt;t0/&gt;tively insensitive means for failure detection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T231657Z" creationid="CCYU" creationdate="20141126T231657Z">
