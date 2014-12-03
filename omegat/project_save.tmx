@@ -9566,6 +9566,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown between tapping leads of outside tapping winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221425Z" creationid="Judy" creationdate="20141203T221425Z">
+        <seg>外抽頭繞組之線路間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakdown, between discs, at entrance to tested high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221221Z" creationid="Judy" creationdate="20141203T221221Z">
+        <seg>輸入測試之高電壓繞組處的碟盤間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakdown, interlayer, in course-step &lt;t0/&gt;tapping winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221338Z" creationid="Judy" creationdate="20141203T221338Z">
+        <seg>粗調抽頭繞組內層故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown, line to neutral, across tested high-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221056Z" creationid="Judy" creationdate="20141203T221056Z">
