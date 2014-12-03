@@ -16658,6 +16658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t0/&gt;A.3 - Damped oscillation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123914Z" creationid="CCYU" creationdate="20141203T123914Z">
+        <seg>圖 &lt;t0/&gt;A.3 - 阻尼振盪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A,1 - Waveshape control for high-impedance windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153530Z" creationid="Judy" creationdate="20141130T153530Z">
@@ -53589,6 +53597,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This voltage constitutes a damped oscillating wave (shown in figure A.3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123856Z" creationid="CCYU" creationdate="20141203T123856Z">
+        <seg>此電壓形成一組泥振盪波 (如圖 A.3 所示)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This waveshape should be characterized mainly by its frequency, determ&lt;t0/&gt;ined by the reactor inductance and the generator capacitance, and the damping coefficient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T152205Z" creationid="CCYU" creationdate="20141125T152205Z">
@@ -56734,6 +56750,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When &lt;t0/&gt;k &lt;&lt;t1/&gt; 1, the test voltage is given by</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123743Z" creationid="CCYU" creationdate="20141203T123743Z">
+        <seg>當 &lt;t0/&gt;k &lt;&lt;t1/&gt; 1 時，測試電壓為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When IEC standards do not exist for such categories of transformers (in particular transformer having no winding exceeding 1000 V for industrial applications), this part of IEC 60076 may still be applicable either as a whole or in part.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125903Z">
@@ -59210,6 +59234,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T100415Z">
         <seg>不得低於：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the damping coefficient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123717Z" creationid="CCYU" creationdate="20141203T123717Z">
+        <seg>而阻尼係數為</seg>
       </tuv>
     </tu>
     <tu>
