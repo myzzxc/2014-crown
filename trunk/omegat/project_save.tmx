@@ -20758,6 +20758,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, severe reduction of &lt;t1/&gt;R&lt;t2/&gt;s&lt;t3/&gt; will result in excessive overshoot or superimposed oscillations at the crest of the impulse wave and also, as described earlier, in an excessive opposite polarity peak.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T202454Z" creationid="Judy" creationdate="20141203T202454Z">
+        <seg>然而，大量降低 &lt;t1/&gt;R&lt;t2/&gt;s&lt;t3/&gt; 將導致波峰處的突波波形過度的超越量或疊加的振盪，以及前述之過度反極性峰值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, some provision should be taken about the minimum creepage distance along the cable sheath that could b contaminated when handled during the mounting process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153400Z" creationid="CCYU" creationdate="20141106T153400Z">
@@ -24974,6 +24982,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T133022Z" creationid="CCYU" creationdate="20141110T133022Z">
         <seg>此情況下，可依製造商和買方之間協議使用更高的測試電壓、雷擊突波、開關突波以及進行其它裝置之獨立測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such cases, it is recomme&lt;t4/&gt;nded that additional load capacitance C|_ is used for wavefront control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T202616Z" creationid="Judy" creationdate="20141203T202616Z">
+        <seg>在這種情況下，建議使用額外的負載電容 CL 進行波前控制，</seg>
       </tuv>
     </tu>
     <tu>
@@ -46541,6 +46557,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The load capacitance will then reduce the adverse effects of a small series resistor R&lt;t5/&gt;s&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T202722Z" creationid="Judy" creationdate="20141203T202722Z">
+        <seg>負載電容將能降低小串聯電阻 R&lt;t5/&gt;s&lt;t6/&gt; 之負面影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The load loss is measured with the winding at an average temperature &lt;t0/&gt;Θ&lt;t1/&gt;2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143955Z">
@@ -52713,6 +52737,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T123436Z">
         <seg>此方程可保守的估計後續 PIV 數據所產生的隨機誤差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This equation indicates another way &lt;t0/&gt;of adjusting the wavetail.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T202113Z" creationid="Judy" creationdate="20141203T202113Z">
+        <seg>此方程式為另一種調整波尾的方法，</seg>
       </tuv>
     </tu>
     <tu>
