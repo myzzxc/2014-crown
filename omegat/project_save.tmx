@@ -9830,6 +9830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;g&lt;t1/&gt; can be altered by series or parallel connection of the stages of the impulse generator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T131241Z" creationid="CCYU" creationdate="20141203T131241Z">
+        <seg>C&lt;t0/&gt;g&lt;t1/&gt; 能藉由並聯或串聯突波產生器各階之連接以改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&lt;t0/&gt;t&lt;t1/&gt; is of the order of 10&lt;t2/&gt;-9&lt;t3/&gt; F; s and C&lt;t4/&gt;t&lt;t5/&gt; are not well-defined quantities but dependent on the shape of the surge front.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094407Z" creationid="MAE" creationdate="20141118T094407Z">
@@ -45169,6 +45177,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T062819Z" creationid="Judy" creationdate="20141122T062819Z">
         <seg>然而有效 L&lt;t7/&gt;t&lt;t8/&gt; 可能受端子條件影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effective inductance can be increased by resistance loading of the non-tested windings, with the limitation, however, that the voltages at the non-tested winding terminals should not exceed 75 % for star-connected windings or 50 % for &lt;t0/&gt;delta-connected windings of their associated lightning impulse withstand level(s).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T131035Z" creationid="CCYU" creationdate="20141203T131035Z">
+        <seg>有效電感可藉由非測試繞組之電阻負載以增加，然而非測試繞組端子之電壓應不超過其雷擊突波耐壓等級之 75 % (星形連接繞組 或 50 % (三角連接繞組)。</seg>
       </tuv>
     </tu>
     <tu>
