@@ -52709,6 +52709,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This configuration does not produce a sustained stress from winding to earth, but it does stress the insu&lt;t8/&gt;lation within the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205709Z" creationid="Judy" creationdate="20141203T205709Z">
+        <seg>此設置並不會產生持續的繞組接地壓力，但會使繞組內絕緣遭受壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This connection is shown in figure 4, which indicates that &lt;t0/&gt;the neutral should always be earthed and the terminals of the non-tested phases preferably interconnected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143202Z" creationid="CCYU" creationdate="20141124T143202Z">
@@ -53649,6 +53657,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T025936Z">
         <seg>此技術也用於分析顆粒材料受伸展剪力時之位移場 (Chambon 等人，2003年)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This test configuration is very suitable for current measurements since there is no increase &lt;t0/&gt;in the circuit resistance and the circuit therefore has good response to high-frequency disturbances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205911Z" creationid="Judy" creationdate="20141203T205911Z">
+        <seg>此測試設置非常適合電流量測，因為電路之電阻沒有增加而使電路具有良好的高頻率干擾反應。</seg>
       </tuv>
     </tu>
     <tu>
