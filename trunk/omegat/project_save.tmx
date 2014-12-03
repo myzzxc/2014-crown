@@ -15233,6 +15233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evidently, the value of Ct for tail considerations is of minor importance in most practical cases (see equation (A.5)).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T121007Z" creationid="CCYU" creationdate="20141203T121007Z">
+        <seg>顯然地，波尾 Ct 於大多實際情況下較不重要 (請見方程式 (A.5))。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example 1 — Constant flux voltage variation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131115Z">
@@ -18510,8 +18518,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For the wavetail, C&lt;t0/&gt;t&lt;t1/&gt; can be esti&lt;t2/&gt;mated as &lt;t3/&gt;Cb &lt;t4/&gt;plus part of &lt;t5/&gt;C&lt;t6/&gt;e&lt;t7/&gt;, &lt;t8/&gt;dependent on the initial voltage distribution.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T120707Z" creationid="CCYU" creationdate="20141203T120707Z">
-        <seg>波尾For the wavetail, C&lt;t0/&gt;t&lt;t1/&gt; can be esti&lt;t2/&gt;mated as &lt;t3/&gt;Cb &lt;t4/&gt;plus part of &lt;t5/&gt;C&lt;t6/&gt;e&lt;t7/&gt;, &lt;t8/&gt;dependent on the initial voltage distribution.</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T120836Z" creationid="CCYU" creationdate="20141203T120707Z">
+        <seg>波尾 C&lt;t0/&gt;t&lt;t1/&gt;取決於初始電壓分佈，可由 &lt;t3/&gt;Cb &lt;t4/&gt; 加上部份 &lt;t5/&gt;C&lt;t6/&gt;e&lt;t7/&gt; 估算。</seg>
       </tuv>
     </tu>
     <tu>
