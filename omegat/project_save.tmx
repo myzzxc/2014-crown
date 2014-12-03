@@ -23364,8 +23364,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the through capacitances C-i and C&lt;t1/&gt;2&lt;t2/&gt; are large compared to the capacitance C&lt;t3/&gt;3&lt;t4/&gt; to earth then a voltage distribution similar to curve M in the graph will result.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204454Z" creationid="Judy" creationdate="20141203T204454Z">
-        <seg>若通過電容 C1 和 C&lt;t1/&gt;2&lt;t2/&gt; 相對電容 C&lt;t3/&gt;3&lt;t4/&gt; 至接地大時，則電壓分佈與圖形中的曲線 M 相似。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210055Z" creationid="Judy" creationdate="20141203T204454Z">
+        <seg>若通過電容 C1 和 C&lt;t1/&gt;2&lt;t2/&gt; 相對接地電容 C&lt;t3/&gt;3&lt;t4/&gt; 大時，則電壓分佈與圖形中的曲線 M 相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36281,6 +36281,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153406Z" creationid="Judy" creationdate="20141130T153406Z">
         <seg>R&lt;t0/&gt;s&lt;t1/&gt; = &lt;t2/&gt;R&lt;t3/&gt;s&lt;t4/&gt;i + &lt;t5/&gt;R&lt;t6/&gt;se&lt;t7/&gt;,&lt;t8/&gt; 總串聯電阻 (請見圖 1) &lt;t9/&gt;R&lt;t10/&gt;p&lt;t11/&gt; 並聯電阻 (請見圖 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>R&lt;t0/&gt;s&lt;t1/&gt;, R&lt;t2/&gt;p&lt;t3/&gt; (see figure 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210137Z" creationid="Judy" creationdate="20141203T210137Z">
+        <seg>R&lt;t0/&gt;s&lt;t1/&gt;, R&lt;t2/&gt;p&lt;t3/&gt; (請見圖 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57344,8 +57352,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>When the through capacitances are extremely small compared to the capacitance to earth, then a voltage distribution similar to curve O will occur,&lt;t6/&gt; which will result in an envelope of oscillation between curves O and O’.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204944Z" creationid="Judy" creationdate="20141203T204944Z">
-        <seg>當通過電容相對電容至接地極小時，則電壓分佈與曲線 O 類似，其振盪包絡介於曲線 O 和 O’ 之間。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210105Z" creationid="Judy" creationdate="20141203T204944Z">
+        <seg>當通過電容相對接地電容極小時，則電壓分佈與曲線 O 類似，其振盪包絡介於曲線 O 和 O’ 之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60031,6 +60039,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>capacitance to</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210046Z" creationid="Judy" creationdate="20141203T210046Z">
+        <seg>接地電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>capacitively transferred current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132025Z" creationid="CCYU" creationdate="20141129T132025Z">
@@ -60851,6 +60867,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T053514Z">
         <seg>例如：型號 TS 471</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>earth</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210156Z" creationid="Judy" creationdate="20141203T210124Z">
+        <seg>接地</seg>
       </tuv>
     </tu>
     <tu>
@@ -62027,6 +62051,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143016Z" creationid="CCYU" creationdate="20141110T143016Z">
         <seg>感應電壓耐壓測試 (IVW)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inductances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210215Z" creationid="Judy" creationdate="20141203T210215Z">
+        <seg>電感</seg>
       </tuv>
     </tu>
     <tu>
@@ -64215,6 +64247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>spark gap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210017Z" creationid="Judy" creationdate="20141203T210017Z">
+        <seg>閃火間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>special climatic conditions 4Z2, 4Z4, 4Z7;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110841Z">
@@ -65672,6 +65712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>through capacitances</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T205925Z" creationid="Judy" creationdate="20141203T205925Z">
+        <seg>通過電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>time (s)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124750Z">
@@ -65935,6 +65983,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125118Z">
         <seg>列車牽引變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210116Z" creationid="Judy" creationdate="20141203T210116Z">
+        <seg>變壓器</seg>
       </tuv>
     </tu>
     <tu>
