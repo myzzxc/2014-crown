@@ -41005,6 +41005,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such high opposite polarity oscillation may overstress inter-turn and inter-winding insulation due to high oscillatory stresses which can trigger partial discharges and enhanced electrode mechani&lt;t0/&gt;sms only due to testing limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T125344Z" creationid="CCYU" creationdate="20141203T125344Z">
+        <seg>高反極性振盪可能導致繞匝間和繞組間絕緣承受過高電壓，因為高反極性電壓會造成局部放電並因為測試之限制加強電極機制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such standards exist for:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T132048Z">
@@ -47225,6 +47233,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151658Z">
         <seg>操作條件：引擎轉速為 — 120.0 rpm (順時針)；冷端和熱端溫度分別為 300.0 K 和 400.0 K。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The opposite polarity peak &lt;t1/&gt;U&lt;t2/&gt;r&lt;t3/&gt; should therefore be limited to 50 % of the initial peak voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T125432Z" creationid="CCYU" creationdate="20141203T125432Z">
+        <seg>因此反極性峰值 &lt;t1/&gt;U&lt;t2/&gt;r&lt;t3/&gt; 應限制於初始電壓峰值的 50 %。</seg>
       </tuv>
     </tu>
     <tu>
