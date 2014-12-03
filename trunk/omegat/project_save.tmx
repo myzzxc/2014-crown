@@ -22457,6 +22457,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If in the last example, the resistance required to produce an adequate length tail had been smaller, &lt;t11/&gt;the final distribution line would be lowered to Q’, and the envelope of oscillation would then be between S and S”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T212825Z" creationid="Judy" creationdate="20141203T212825Z">
+        <seg>若最後一個範例中產生適當波尾長度所需之電阻較小時，最終分佈線將降至 Q’，而震盪之包絡則介於 S 和 S' 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it becomes damp it must be air-dried.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151025Z">
@@ -49329,6 +49337,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T133739Z">
         <seg>此系統標示為 fischer FIS EM 390 S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tail length and the voltage across the resistance should be measured to determine the value of resistance to be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T212939Z" creationid="Judy" creationdate="20141203T212939Z">
+        <seg>需量測波尾長度和通過電阻之電壓以決定使用之電阻值。</seg>
       </tuv>
     </tu>
     <tu>
