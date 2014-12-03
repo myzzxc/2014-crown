@@ -6213,6 +6213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again it is possible to produce excessively high voltages to earth in parts of the winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T212237Z" creationid="Judy" creationdate="20141203T212237Z">
+        <seg>其可能於部分繞組中產生過高接地電壓，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Porosity: 10 - 20% (V/V)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174641Z">
@@ -65788,6 +65796,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135031Z" creationid="CCYU" creationdate="20141105T135031Z">
         <seg>額定功率大於 100 MVA 之分離繞組三相變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>through capacitance, an initial distribution similar to curve S in then graph will occur and the final dis&lt;t9/&gt;tribution can again be assumed to curve Q. The envelope of oscillation is now between S and S’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T212143Z" creationid="Judy" creationdate="20141203T212143Z">
+        <seg>相對通過電容大時，初始分佈類似圖中曲線 S，而可再次假設最終分佈為曲線 Q，此時振盪之包絡介於 S 和 S’ 之間。</seg>
       </tuv>
     </tu>
     <tu>
