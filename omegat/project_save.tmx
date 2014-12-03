@@ -45565,6 +45565,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The final d&lt;t5/&gt;istribution is shown by line N, which means that the envelope of oscillation will be between curves M and M’.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T204721Z" creationid="Judy" creationdate="20141203T204721Z">
+        <seg>最終分佈如線段 N，代表振盪之包絡介於曲線 M 和 M’ 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first part of the test may be terminated when the rate of change of top-liquid temperature rise has fallen below 1 K/h and has remained there for a period of 3 h.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T064340Z" creationid="Judy" creationdate="20141101T064118Z">
