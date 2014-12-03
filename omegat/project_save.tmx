@@ -9614,6 +9614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown of tested main high-voltage winding of a transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222503Z" creationid="Judy" creationdate="20141203T222503Z">
+        <seg>變壓器之測試主高電壓繞組故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown, between discs, at entrance to tested high-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221221Z" creationid="Judy" creationdate="20141203T221221Z">
@@ -11443,6 +11451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T134824Z" creationid="CCYU" creationdate="20141127T134824Z">
         <seg>於截波後瞬間比較截波記錄通常不可能達成，除非截波瞬間幾乎完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comparison of the transfer function of a full wave and a chopped wave</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222559Z" creationid="Judy" creationdate="20141203T222559Z">
+        <seg>全波和截波之轉換函數比較</seg>
       </tuv>
     </tu>
     <tu>
@@ -39197,6 +39213,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Satisfactory test on a reactor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222511Z" creationid="Judy" creationdate="20141203T222511Z">
+        <seg>電抗器測試通過</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Satisfactory test on a transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222428Z" creationid="Judy" creationdate="20141203T222428Z">
+        <seg>變壓器測試通過</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scope</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141717Z">
@@ -55258,6 +55290,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074715Z" creationid="CCYU" creationdate="20141025T074715Z">
         <seg>培訓說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transfer function analysis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222524Z" creationid="Judy" creationdate="20141203T222524Z">
+        <seg>轉換函數分析</seg>
       </tuv>
     </tu>
     <tu>
