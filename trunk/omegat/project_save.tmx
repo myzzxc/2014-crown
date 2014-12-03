@@ -16690,6 +16690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure A.2 - Wavetail control for low impedance windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122950Z" creationid="CCYU" creationdate="20141203T122950Z">
+        <seg>圖 A.2 - 低阻抗繞組之波尾控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A1&lt;t0/&gt;: Overlapping joint for rebar connections of slabs and beams</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140720T151718Z">
@@ -18374,8 +18382,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For the front &lt;t0/&gt;adjustments, the same applies as for high-impedance windings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122659Z" creationid="CCYU" creationdate="20141203T122659Z">
-        <seg>調整波前，同樣適用於高阻抗繞組。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122744Z" creationid="CCYU" creationdate="20141203T122659Z">
+        <seg>調整波前之方法與高阻抗繞組相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18928,6 +18936,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T134108Z" creationid="MAE" creationdate="20141124T090609Z">
         <seg>波形分析中，使用數位記錄器的最大可用記憶體對完整波形取樣直到其完全消逝相當重要，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For wavetail adjustments, the test object can be represented by its effective inductance as indicated in figure A.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122917Z" creationid="CCYU" creationdate="20141203T122917Z">
+        <seg>對於波尾調整，測試目標可由其有效電感表示，如圖 A.2 所示。</seg>
       </tuv>
     </tu>
     <tu>
