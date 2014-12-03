@@ -4277,6 +4277,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;t0/&gt;winding terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210230Z" creationid="Judy" creationdate="20141203T210230Z">
+        <seg>A &lt;t0/&gt;繞組端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Declaration of Manufacturer according to Council Directive 94/9/EC is supplied with each servo valve.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135558Z" creationid="CCYU" creationdate="20141023T135558Z">
@@ -8929,6 +8937,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155020Z" creationid="CCYU" creationdate="20141104T155020Z">
         <seg>B = (S&lt;t0/&gt;b&lt;t1/&gt; - n × A&lt;t2/&gt;0&lt;t3/&gt;)/S&lt;t4/&gt;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B winding neutral end &lt;t0/&gt;E&lt;t1/&gt; voltage amplitude on the winding terminal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210309Z" creationid="Judy" creationdate="20141203T210309Z">
+        <seg>B 繞組中性端 &lt;t0/&gt;E&lt;t1/&gt; 繞組端子電壓振幅</seg>
       </tuv>
     </tu>
     <tu>
@@ -16734,6 +16750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122950Z" creationid="CCYU" creationdate="20141203T122950Z">
         <seg>圖 A.2 - 低阻抗繞組之波尾控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure A.4 - Effects due to short length of wavetail</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210350Z" creationid="Judy" creationdate="20141203T210350Z">
+        <seg>圖 A.4 - 短波尾長度之效應</seg>
       </tuv>
     </tu>
     <tu>
