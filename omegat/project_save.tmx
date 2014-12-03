@@ -17347,6 +17347,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a first estimation of &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt;, R&lt;t3/&gt;s&lt;t4/&gt; is assumed to be zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T124045Z" creationid="CCYU" creationdate="20141203T124040Z">
+        <seg>初次估計 &lt;t0/&gt;T&lt;t1/&gt;2&lt;t2/&gt; 時，假設 R&lt;t3/&gt;s&lt;t4/&gt; 為零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a forced-air-cooled transformer, the sensors shall be placed in the air at about 0,5 m from the intake &lt;t0/&gt;of the coolers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141031T124324Z" creationid="CCYU" creationdate="20141031T124324Z">
@@ -51085,6 +51093,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then equation (A.6) becomes:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T124116Z" creationid="CCYU" creationdate="20141203T124116Z">
+        <seg>則方程式 (A.6) 變為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then let the appliance&lt;t2/&gt; &lt;t3/&gt;cool down&lt;t4/&gt; &lt;t5/&gt;for at least 30 minutes&lt;t6/&gt; &lt;t7/&gt;before&lt;t8/&gt; &lt;t9/&gt;using it again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z">
@@ -55322,6 +55338,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T140253Z">
         <seg>NOCX 高密度聚乙烯管紫外線測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ui = Ucoscoot&lt;t0/&gt; and the time to half-value is given by</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T124314Z" creationid="CCYU" creationdate="20141203T124314Z">
+        <seg>Ut = Ucosω0 而半高值時間為</seg>
       </tuv>
     </tu>
     <tu>
