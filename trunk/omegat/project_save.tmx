@@ -9566,6 +9566,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown across one section in a fine-step tapping winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221526Z" creationid="Judy" creationdate="20141203T221526Z">
+        <seg>細調抽頭繞組內單段故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakdown between bushing foils</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221744Z" creationid="Judy" creationdate="20141203T221744Z">
+        <seg>套管金屬箔片間顧障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Breakdown between parallel conductors of a main high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221609Z" creationid="Judy" creationdate="20141203T221609Z">
+        <seg>主高電壓繞組之並聯導體間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown between tapping leads of outside tapping winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221425Z" creationid="Judy" creationdate="20141203T221425Z">
@@ -11003,6 +11027,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T134110Z" creationid="CCYU" creationdate="20141114T134110Z">
         <seg>截波測試 (若有要求) 毋需重複第二組測試程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chopped-wave faults</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221751Z" creationid="Judy" creationdate="20141203T221751Z">
+        <seg>截波故障</seg>
       </tuv>
     </tu>
     <tu>
