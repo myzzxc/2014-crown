@@ -14897,6 +14897,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effect of generator firing &lt;t0/&gt;differences</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222320Z" creationid="Judy" creationdate="20141203T222320Z">
+        <seg>產生器觸發差異效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effect of non-linear resistors in tap-changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222255Z" creationid="Judy" creationdate="20141203T222255Z">
+        <seg>抽頭切換器中非線性電阻效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effective anchorage depth</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141449Z">
@@ -33076,6 +33092,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-faults causing discrepancies</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222202Z" creationid="Judy" creationdate="20141203T222202Z">
+        <seg>非故障造成之差異</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-gappe&lt;t0/&gt;d, non-linear resistors may produce a logical and progressive development or change with increasing voltage levels (see figure B.12).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T131544Z" creationid="CCYU" creationdate="20141126T131544Z">
@@ -41629,6 +41653,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switching impulse tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222328Z" creationid="Judy" creationdate="20141203T222328Z">
+        <seg>開關突波測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switching lightly loaded and/or low power factor (inductively loaded) transformers with vacuum and SF6 interrupters may subject the transformer to potentially damaging voltage transients with frequencies up to the MHz range and voltages exceeding the transformer impulse withstand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T133912Z">
@@ -43521,6 +43553,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222029Z" creationid="Judy" creationdate="20141203T222029Z">
         <seg>以相同截波時間測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests with large and small differences in times to chopping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222137Z" creationid="Judy" creationdate="20141203T222137Z">
+        <seg>以大幅合小幅截波時間差異測試</seg>
       </tuv>
     </tu>
     <tu>
