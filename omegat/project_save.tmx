@@ -20742,6 +20742,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, in this case the effective transformer capacitance C&lt;t0/&gt;t&lt;t1/&gt; for the longer front time is equal to the effective winding earth capacitance C&lt;t2/&gt;e&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215356Z" creationid="Judy" creationdate="20141203T215356Z">
+        <seg>然而此情況下，較長波前時間之變壓器有效電容 C&lt;t0/&gt;t&lt;t1/&gt; 等於繞組有效接地電容 C&lt;t2/&gt;e&lt;t3/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, it can produce resampled images which have jagged edges.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080722Z">
