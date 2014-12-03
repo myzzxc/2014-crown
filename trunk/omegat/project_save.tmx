@@ -59969,8 +59969,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>being tested, sometimes in parallel with &lt;t0/&gt;R&lt;t1/&gt;s&lt;t2/&gt; (see figure A.6) increases the total circuit inductance and can often increase the tail time beyond that available with the impulse generator alone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T214207Z" creationid="Judy" creationdate="20141203T214207Z">
-        <seg>有時並聯 &lt;t0/&gt;R&lt;t1/&gt;s&lt;t2/&gt; (請見圖 A.6) increases the total circuit inductance and can often increase the tail time beyond that available with the impulse generator alone.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T214622Z" creationid="Judy" creationdate="20141203T214207Z">
+        <seg> (有時並聯 &lt;t0/&gt;R&lt;t1/&gt;s&lt;t2/&gt; 請見圖 A.6) 將增加電路總電感，且通常能使波尾增加至較單獨使用突波產生器長的時間。</seg>
       </tuv>
     </tu>
     <tu>
