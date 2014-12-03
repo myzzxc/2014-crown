@@ -20806,6 +20806,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the short tail will not stress the middle of the winding to earth so much as some other possible configurations since the short tail will not sustain the voltage for a lo&lt;t7/&gt;ng time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130741Z" creationid="CCYU" creationdate="20141203T130741Z">
+        <seg>然而，短波尾比起其它設置將使繞組中段對地之電壓不足，因為短波尾無法長時間維持電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, their effects are much&lt;t10/&gt; &lt;t11/&gt;smaller compared to that of the impingement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101240Z">
