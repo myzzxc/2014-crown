@@ -43053,6 +43053,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing in this configuration generally produces the greatest stress to the insulati&lt;t6/&gt;on between windings or portions of windings, even if a shorter tail results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130426Z" creationid="CCYU" creationdate="20141203T130426Z">
+        <seg>以此設置進行測試，即使形成較短波尾時，通常會於繞組之間或部份繞組絕緣產生最大電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T090324Z">
