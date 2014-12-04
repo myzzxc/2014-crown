@@ -17035,6 +17035,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.1 - Lightning impulse, full-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202252Z" creationid="Judy" creationdate="20141204T202252Z">
+        <seg>圖 B.1 - 雷擊突波，全波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.1 - Temperature rise distribution model for ON cooling methods</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T105736Z" creationid="CCYU" creationdate="20141102T105736Z">
@@ -17071,6 +17079,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T052445Z" creationid="Judy" creationdate="20141129T052445Z">
         <seg>圖 B.22b 顯示出轉換函數於降低以及全波突波測試之間完美吻合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.2a - Chopped wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202431Z" creationid="Judy" creationdate="20141204T202431Z">
+        <seg>圖 B.2a - 截波 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28808,6 +28824,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152523Z" creationid="CCYU" creationdate="20141115T152523Z">
         <seg>線對地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line-to-neutral breakdown across high-voltage winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202417Z" creationid="Judy" creationdate="20141204T202315Z">
+        <seg>400 kV 發電機變壓器高電壓繞組之線路至中性點故障</seg>
       </tuv>
     </tu>
     <tu>
@@ -63439,6 +63463,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral current, 25 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202217Z" creationid="Judy" creationdate="20141204T202217Z">
+        <seg>中性電流，25 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral or winding current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T131840Z" creationid="CCYU" creationdate="20141129T131840Z">
@@ -63595,6 +63627,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130642Z" creationid="CCYU" creationdate="20141105T130642Z">
         <seg>ν</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of 400 kV generator transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202331Z" creationid="Judy" creationdate="20141204T202331Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -67095,6 +67135,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T083651Z">
         <seg>一般運作下，施加電壓不應超過相-接地電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>voltage transferred to low-voltage winding, 100 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202152Z" creationid="Judy" creationdate="20141204T202152Z">
+        <seg>轉移至低電壓繞組電壓，100 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
