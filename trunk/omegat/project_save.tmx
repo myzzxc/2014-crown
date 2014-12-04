@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17091,6 +17091,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.2b - Chopped wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202510Z" creationid="Judy" creationdate="20141204T202510Z">
+        <seg>圖 B.2b - 截波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.3 - Typical liquid flow paths in a disk winding with &lt;t0/&gt;diverting washers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130944Z" creationid="CCYU" creationdate="20141103T130944Z">
@@ -31132,6 +31140,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Since failure occurred before the instant of chopping it is therefore regarded as a full-wave failure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202704Z" creationid="Judy" creationdate="20141204T202704Z">
+        <seg>註 1 由於故障發生於截取瞬間之前，因此視為全波故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 Single-phase transformers intended for connection in star to form a three-phase bank are designated by</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T095712Z" creationid="CCYU" creationdate="20141108T095712Z">
@@ -31304,6 +31320,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123508Z" creationid="CCYU" creationdate="20141115T123459Z">
         <seg>註 2 測試期間磁路中會產生大量磁通量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 Failure after approximately 2 ps clearly &lt;t0/&gt;indicated in the voltage and neutral current oscillograms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202822Z" creationid="Judy" creationdate="20141204T202822Z">
+        <seg>註 2 波形圖中ㄇㄧ約 2 μs 後之故障</seg>
       </tuv>
     </tu>
     <tu>
@@ -60110,6 +60134,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 10 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202539Z" creationid="Judy" creationdate="20141204T202539Z">
+        <seg>施加突波，10 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, 100 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202059Z" creationid="Judy" creationdate="20141204T202059Z">
@@ -63459,6 +63491,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024559Z">
         <seg>若為高壓繞組則乘以抽頭繞組之抽頭係數；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current, 100 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202549Z" creationid="Judy" creationdate="20141204T202549Z">
+        <seg>中性電流，100 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -67611,6 +67651,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>with fault (Notes&lt;t0/&gt; 1 and 2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202527Z" creationid="Judy" creationdate="20141204T202527Z">
+        <seg>故障 (註 1 和 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>with one winding short-circuited and, as far as practicable, rated current in the tapped winding, 10 cycles of tap-change operations across the range of two steps on each side from where a coarse or reversing changeover selector operates, or otherwise from the middle tapping (the &lt;t0/&gt;tapchanger&lt;t1/&gt; will pass 20 times through the changeover position).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095244Z">
@@ -67663,6 +67711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201854Z" creationid="Judy" creationdate="20141204T201854Z">
         <seg>無故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>without fault (Note 1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202458Z" creationid="Judy" creationdate="20141204T202458Z">
+        <seg>無故障 (註 1)</seg>
       </tuv>
     </tu>
     <tu>
