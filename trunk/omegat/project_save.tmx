@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17315,6 +17315,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.16 - Switching impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215159Z" creationid="Judy" creationdate="20141204T215159Z">
+        <seg>圖 B.16 - 開關突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.16a - Reduced test level (60 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215031Z" creationid="Judy" creationdate="20141204T215031Z">
@@ -32580,6 +32588,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Comparison of a reduced full lightning impulse wave (RFW) and a full chopped wave (FCW) on the same terminal of the same transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215422Z" creationid="Judy" creationdate="20141204T215422Z">
+        <seg>註 降低全雷擊突波 (RFW) 與全截波and a full chopped wave (FCW) on the same terminal of the same transformer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Comparison of the capacitively transferred current records for the 100 % voltage level with those for the 62,5 % voltage level shows initial high&lt;t0/&gt;-frequency changes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213801Z" creationid="Judy" creationdate="20141204T213617Z">
@@ -39929,6 +39945,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214624Z" creationid="Judy" creationdate="20141204T214624Z">
         <seg>400 kV 三相發電機變壓器之合格測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Satisfactory test on a 33 Mvar, 525 kV single-phase&lt;t0/&gt; shunt reactor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215310Z" creationid="Judy" creationdate="20141204T215310Z">
+        <seg>33 Mvar、525 kV 單相分配電抗器之合格測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -55325,6 +55349,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time ns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215323Z" creationid="Judy" creationdate="20141204T215323Z">
+        <seg>Time μs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time to chopping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053809Z" creationid="CCYU" creationdate="20141123T053809Z">
@@ -60762,6 +60794,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212546Z" creationid="Judy" creationdate="20141204T212546Z">
         <seg>施加突波，25 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>applied impulse, 5 000 ps sweep &lt;t0/&gt;(Tf&lt;t1/&gt; 200 ps, &lt;t2/&gt;T&lt;t3/&gt;d&lt;t4/&gt; 225 ps, &lt;t5/&gt;T&lt;t6/&gt;z&lt;t7/&gt; 1 000 &lt;t8/&gt;ps)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215153Z" creationid="Judy" creationdate="20141204T215153Z">
+        <seg>施加突波，5 000 μs 掃描 (T1 200 μs, Td 225 μs, Tz 1 000 μs)</seg>
       </tuv>
     </tu>
     <tu>
