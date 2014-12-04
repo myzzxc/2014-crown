@@ -15377,6 +15377,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evaluation with superimposed oscillations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T033913Z" creationid="MAE" creationdate="20141204T033913Z">
+        <seg>疊加振盪評估</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evaporation rate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143021Z">
@@ -26271,6 +26279,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T070618Z">
         <seg>惰性氣體壓力系統，液體上方膨脹空間充滿乾燥的惰性氣體於些微的高壓下，連接至一個壓力控制源或彈性氣囊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Influence of curve smoothing algorithms of digitizers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T033848Z" creationid="MAE" creationdate="20141204T033848Z">
+        <seg>數位記錄器曲線平滑演算法之影響</seg>
       </tuv>
     </tu>
     <tu>
