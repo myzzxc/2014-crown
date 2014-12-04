@@ -17115,6 +17115,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.3 - Lightning impulse, interlayer breakdown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203741Z" creationid="Judy" creationdate="20141204T203741Z">
+        <seg>圖 B.3 - 雷擊突波，400/220 kV 變壓器之粗調抽頭繞組的層間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.3 - Typical liquid flow paths in a disk winding with &lt;t0/&gt;diverting washers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130944Z" creationid="CCYU" creationdate="20141103T130944Z">
@@ -17143,6 +17151,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203244Z" creationid="Judy" creationdate="20141204T203244Z">
         <seg>圖 B.3a - 降低全波 (75 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.4a - Full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203758Z" creationid="Judy" creationdate="20141204T203758Z">
+        <seg>圖  B.4a - 全波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.4b - Full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203807Z" creationid="Judy" creationdate="20141204T203807Z">
+        <seg>圖  B.4b - 全波 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31958,8 +31982,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE &lt;t0/&gt;Failure after 30 gs, clearly indicated in voltage, capacitively transferred current and neutral current oscillograms.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203518Z" creationid="Judy" creationdate="20141204T203518Z">
-        <seg>註 2 電壓、電容性轉電流波形圖中明顯出現約 2 μs 後之故障。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203605Z" creationid="Judy" creationdate="20141204T203518Z">
+        <seg>註 電壓、電容性轉移電流以及中性電流之波形圖中明顯出現約 30 μs 後之故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62655,6 +62679,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in coarse-step tapping winding of a 400/220 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203744Z" creationid="Judy" creationdate="20141204T203744Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in cracked concrete&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022140Z">
@@ -63551,6 +63583,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral curre&lt;t0/&gt;nt, 100 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203821Z" creationid="Judy" creationdate="20141204T203821Z">
+        <seg>中性電流，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral current, 100 gs sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203434Z" creationid="Judy" creationdate="20141204T203434Z">
@@ -63571,6 +63611,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202217Z" creationid="Judy" creationdate="20141204T202217Z">
         <seg>中性電流，25 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current, 250 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203827Z" creationid="Judy" creationdate="20141204T203827Z">
+        <seg>中性電流，250 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
