@@ -9670,6 +9670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown by axial &lt;t0/&gt;flashover of the main high-voltage winding of a 525 kV</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214944Z" creationid="Judy" creationdate="20141204T214944Z">
+        <seg>525 kV 單相發電機變壓器之主高電壓繞組軸向閃火故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown of tested main high-voltage winding of a transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222503Z" creationid="Judy" creationdate="20141203T222503Z">
@@ -17283,6 +17291,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.15 - Switching impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214821Z" creationid="Judy" creationdate="20141204T214821Z">
+        <seg>圖 B.15 - 開關突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.15a - 90 % test level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214641Z" creationid="Judy" creationdate="20141204T214641Z">
@@ -17295,6 +17311,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214654Z" creationid="Judy" creationdate="20141204T214654Z">
         <seg>圖 B.15b - 100 % 測試電壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.16a - Reduced test level (60 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215031Z" creationid="Judy" creationdate="20141204T215031Z">
+        <seg>圖 B.16b - 降低測試電壓等級 (60 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.16b - Test level (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215019Z" creationid="Judy" creationdate="20141204T215019Z">
+        <seg>圖 B.16b - 測試電壓等級 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32382,8 +32414,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE &lt;t0/&gt;Failure indicated at approximately 300 ps at 100 % test level.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214721Z" creationid="Judy" creationdate="20141204T214721Z">
-        <seg>註 約NOTE &lt;t0/&gt;Failure indicated at approximately 300 ps at 100 % test level.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214810Z" creationid="Judy" creationdate="20141204T214721Z">
+        <seg>註 於 100 % 測試電壓等級下約 300 μs 時顯示故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65636,6 +65668,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T135104Z" creationid="CCYU" creationdate="20141105T135104Z">
         <seg>額定功率大於 33 MVA 之分離繞組單相變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>single-phase, generator transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214947Z" creationid="Judy" creationdate="20141204T214947Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
