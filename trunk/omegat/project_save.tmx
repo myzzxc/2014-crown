@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17371,6 +17371,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.18 - Full lightning impulse - Evaluation of a non-standard waveshape -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220432Z" creationid="Judy" creationdate="20141204T220432Z">
+        <seg>圖 B.18 - 全雷擊突波 - 非標準波形之評估 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.1a - Reduced full wave (75 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201847Z" creationid="Judy" creationdate="20141204T201847Z">
@@ -26843,6 +26851,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Influence of &lt;t0/&gt;in-built smoothing algorithms in digitizers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220447Z" creationid="Judy" creationdate="20141204T220447Z">
+        <seg>數位記錄器曲線平滑演算法之影響</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence of curve smoothing algorithms of digitizers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T033848Z" creationid="MAE" creationdate="20141204T033848Z">
@@ -33160,6 +33176,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133422Z" creationid="CCYU" creationdate="20141112T133422Z">
         <seg>註 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; ≤&lt;t3/&gt; 72,5 kV 之變壓器應設計統一繞組絕緣以滿足此測試規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Wave with 19 % overshoot &lt;t0/&gt;evaluated by tangent through tail decay according to IEC 60060-1, leading to an error of greater than 10 % in amplitude evaluation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220334Z" creationid="Judy" creationdate="20141204T220334Z">
+        <seg>根據 IEC 60060-1 以波尾衰減之切線來評估波形具有 19 % 超越量，導致振幅評估之誤差大於 10 %。</seg>
       </tuv>
     </tu>
     <tu>
