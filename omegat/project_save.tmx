@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14993,6 +14993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effect of no&lt;t0/&gt;n-linear resistors embodied in neutral end on-load tap-changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213328Z" creationid="Judy" creationdate="20141204T213328Z">
+        <seg>具有分離繞組之變壓器的負載抽頭切換器中非線性電阻之效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effect of non-linear resistors in tap-changer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222255Z" creationid="Judy" creationdate="20141203T222255Z">
@@ -17171,10 +17179,50 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.12 - Full lightning impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213131Z" creationid="Judy" creationdate="20141204T213131Z">
+        <seg>圖 B.12 - 全雷擊突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.12a -Reduced full wave (50 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212734Z" creationid="Judy" creationdate="20141204T212734Z">
         <seg>圖 B.12a - 降低全波 (50 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.13a - Reduced full wave (62,5 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213502Z" creationid="Judy" creationdate="20141204T213502Z">
+        <seg>圖 B.13a - 降低全波 (62,5 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.13b - First full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213354Z" creationid="Judy" creationdate="20141204T213354Z">
+        <seg>圖  B.13b - 第一全波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.13c - Second full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213450Z" creationid="Judy" creationdate="20141204T213424Z">
+        <seg>圖  B.13c - 第二全波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.13d - Final &lt;t0/&gt;reduced full wave (62,5 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213524Z" creationid="Judy" creationdate="20141204T213524Z">
+        <seg>圖 B.13d - 最終降低全波 (62,5 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31804,6 +31852,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 The changes in waveshape shown above are more marked than those &lt;t0/&gt;which generally result from the presence of non-linear resistors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213435Z" creationid="Judy" creationdate="20141204T213113Z">
+        <seg>註 2 以上波形變化相較一般具有非線性電阻時之結果更為明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 The high-voltage winding phasor is taken as reference, and the displacement for any other winding is conventionally expressed by the 'clock notation', that is, the hour indicated by the winding phasor when the H.V.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T042627Z">
@@ -32416,6 +32472,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132926Z" creationid="CCYU" creationdate="20141112T132926Z">
         <seg>註 特定安裝條件下，特別是變壓器由遠端電纜或長架空線路通電時，可能經常造成嚴重過電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Comparison of the capacitively transferred current records for the 100 % voltage level with those for the 62,5 % voltage level shows initial high&lt;t0/&gt;-frequency changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213617Z" creationid="Judy" creationdate="20141204T213617Z">
+        <seg>註 100 % 電壓等級與voltage level with those for the 62,5 % voltage level shows initial high&lt;t0/&gt;-frequency changes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60598,6 +60662,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 50 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213532Z" creationid="Judy" creationdate="20141204T213532Z">
+        <seg>施加突波，50 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, chopped wave, &lt;t0/&gt;50 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210315Z" creationid="Judy" creationdate="20141204T210315Z">
@@ -61196,6 +61268,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204653Z" creationid="Judy" creationdate="20141204T203416Z">
         <seg>相鄰短路繞組接地之電容性轉移電流，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitively transferred current, 50 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213540Z" creationid="Judy" creationdate="20141204T213540Z">
+        <seg>電容性轉移電流，50 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -64276,6 +64356,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205253Z" creationid="Judy" creationdate="20141204T205253Z">
         <seg>220/110 kV 變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of a transformer with separate windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T213332Z" creationid="Judy" creationdate="20141204T213332Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
