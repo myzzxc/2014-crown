@@ -33980,6 +33980,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-standard waveshape, comparison of non-standard &lt;t0/&gt;waveshapes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221533Z" creationid="Judy" creationdate="20141204T221416Z">
+        <seg>非標準波形，不同數位記錄器之同一記錄中非標準波形比較</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-standard waveshape, superimposed oscillations</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221059Z" creationid="Judy" creationdate="20141204T221059Z">
@@ -61387,6 +61395,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T124442Z" creationid="CCYU" creationdate="20141203T124442Z">
         <seg>但此理論條件將形成非阻尼振盪並具有 100 ％ 之反極性波峰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by digitizers of different make from the same recording</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221537Z" creationid="Judy" creationdate="20141204T221537Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
