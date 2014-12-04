@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17219,6 +17219,22 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.6 - Lightning&lt;t0/&gt; impulse, full-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205214Z" creationid="Judy" creationdate="20141204T205214Z">
+        <seg>圖 B.6 - 雷擊突波，全波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.6a - Reduced full wave (62,5 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204932Z" creationid="Judy" creationdate="20141204T204932Z">
+        <seg>圖 B.6a - 降低全波 (62,5 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.6b - Full wave (100 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204925Z" creationid="Judy" creationdate="20141204T204925Z">
@@ -32224,6 +32240,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160315Z" creationid="CCYU" creationdate="20141112T160315Z">
         <seg>加強電壓等級和一小時局部放電量測電壓列於 7.3.1.3、7.3.2.1 以及 7.3.3.1 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Failure after 30 ps to 35 ps, clearly indicated in both neutral and capacitively transferred current oscillograms and no indication in the applied voltage oscillogram.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205204Z" creationid="Judy" creationdate="20141204T205204Z">
+        <seg>註 中性和電容性轉移電流之波形圖中皆明顯出現約 30 μs 至 35 μs 後之故障，而施加電壓之波形圖中未顯示出故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60815,6 +60839,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>capacitively transferred &lt;t0/&gt;current from shorted adjacent winding to earth, 100 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204950Z" creationid="Judy" creationdate="20141204T204950Z">
+        <seg>相鄰短路繞組接地之電容性轉移電流，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>capacitively transferred current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132025Z" creationid="CCYU" creationdate="20141129T132025Z">
@@ -63884,6 +63916,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204915Z" creationid="Judy" creationdate="20141204T204915Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of a 220/110 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205253Z" creationid="Judy" creationdate="20141204T205253Z">
+        <seg>220/110 kV 變壓器</seg>
       </tuv>
     </tu>
     <tu>
