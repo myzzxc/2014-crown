@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17010,6 +17010,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 23a - Tap changer lead flashover between taps of a 300 NIVA, 400/110/30 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222700Z" creationid="Judy" creationdate="20141204T222700Z">
+        <seg>圖 23a - 300 MVA、400/110/30 變壓器之抽頭間的抽頭切換器導線閃火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 23b - Flashover between coarse and fine tapping windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222730Z" creationid="Judy" creationdate="20141204T222730Z">
+        <seg>圖 23b - 粗調與細調抽頭繞組之內繞匝間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132019Z" creationid="CCYU" creationdate="20141022T132019Z">
@@ -17487,6 +17503,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221331Z" creationid="Judy" creationdate="20141204T221331Z">
         <seg>圖 B.21 - 全雷擊突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.22 - Full lightning impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222415Z" creationid="Judy" creationdate="20141204T222415Z">
+        <seg>圖 B.22 - 全雷擊突波 -</seg>
       </tuv>
     </tu>
     <tu>
@@ -32990,8 +33014,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE Measuring cable sparkover from LV winding to different earth than&lt;t0/&gt; tank and generator earth.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221828Z" creationid="Judy" creationdate="20141204T221753Z">
-        <seg>註 量測由低壓繞組對油槽和產生器地線以外之電纜閃火，</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222438Z" creationid="Judy" creationdate="20141204T221753Z">
+        <seg>註 由低壓繞組對油槽和產生器地線以外之量測電纜閃火，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44433,6 +44457,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143734Z" creationid="CCYU" creationdate="20141110T143734Z">
         <seg>測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test-circuit problem caused by a sparkover to earth from a measuring cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222455Z" creationid="Judy" creationdate="20141204T222455Z">
+        <seg>由量測電纜接地閃火引起之測試電路問題</seg>
       </tuv>
     </tu>
     <tu>
