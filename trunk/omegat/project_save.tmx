@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16970,6 +16970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t0/&gt;B.10 - Chopped lightning impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210751Z" creationid="Judy" creationdate="20141204T210751Z">
+        <seg>圖 B.10 - 截取雷擊突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure A,1 - Waveshape control for high-impedance windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153530Z" creationid="Judy" creationdate="20141130T153530Z">
@@ -24518,6 +24526,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152412Z" creationid="Judy" creationdate="20141130T152412Z">
         <seg>突波產生方式為將一組並聯電容充電後接著以串聯放電，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impulses at different voltage levels with identical times to chopping</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T211020Z" creationid="Judy" creationdate="20141204T211020Z">
+        <seg>測試 115 kV 變壓器時於不同電壓等級而相同截取時間下之突波</seg>
       </tuv>
     </tu>
     <tu>
@@ -32488,6 +32504,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T035312Z">
         <seg>註 ISO 14122 系列，機械裝置安全 — 進入機械裝置應藉由梯子、平台或變壓器所提供之類似方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Identical voltage and neutral current records obtained when no difference in times to chopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210704Z" creationid="Judy" creationdate="20141204T210704Z">
+        <seg>註 當截取時間無差異時可得到相同的電壓和中性電流記錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67712,6 +67736,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T143319Z" creationid="CCYU" creationdate="20141104T143319Z">
         <seg>此處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>when testing a 115 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T211026Z" creationid="Judy" creationdate="20141204T211026Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
