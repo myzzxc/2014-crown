@@ -9646,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown short-circuiting one section of the fine-step tapping winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204901Z" creationid="Judy" creationdate="20141204T204901Z">
+        <seg>220 kV 變壓器之細調抽頭繞組內單段短路故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown, between discs, at entrance to tested high-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221221Z" creationid="Judy" creationdate="20141203T221221Z">
@@ -17187,6 +17195,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.5 - Lightning impulse, full-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204757Z" creationid="Judy" creationdate="20141204T204757Z">
+        <seg>圖 B.5 - 雷擊突波，全波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.5a - Reduced full wave (62,5 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204418Z" creationid="Judy" creationdate="20141204T204418Z">
@@ -17199,6 +17215,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204409Z" creationid="Judy" creationdate="20141204T204409Z">
         <seg>圖  B.5b - 全波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.6b - Full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204925Z" creationid="Judy" creationdate="20141204T204925Z">
+        <seg>圖  B.6b - 全波 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60801,17 +60825,17 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>capacitively transferred current from shorted adjacent winding to earth, 100 ps sweep NOTE Failure indicated in both voltage and capacitively &lt;t0/&gt;transferred current oscillograms.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204553Z" creationid="Judy" creationdate="20141204T204553Z">
-        <seg>短路、相鄰繞組接地之電容性轉移電流，100 μs 掃描
-註 2 電壓和電流波形圖中明顯出現約 2 μs 後之故障。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204749Z" creationid="Judy" creationdate="20141204T204553Z">
+        <seg>相鄰短路繞組接地之電容性轉移電流，100 μs 掃描
+註 電壓和轉移電流波形圖中皆顯示出故障。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>capacitively transferred current from the shorted, adjacent winding to earth, 100 gs sweep</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203416Z" creationid="Judy" creationdate="20141204T203416Z">
-        <seg>短路、相鄰繞組接地之電容性轉移電流，100 μs 掃描</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204653Z" creationid="Judy" creationdate="20141204T203416Z">
+        <seg>相鄰短路繞組接地之電容性轉移電流，100 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -63852,6 +63876,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134136Z">
         <seg>of &lt;t0/&gt;liquorice 甘草氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of a 220 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204915Z" creationid="Judy" creationdate="20141204T204915Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
