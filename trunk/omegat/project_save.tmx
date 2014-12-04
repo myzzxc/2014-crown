@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17251,6 +17251,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.14 - Switching impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214532Z" creationid="Judy" creationdate="20141204T214532Z">
+        <seg>圖 B.14 - 開關突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.14 gives a clear example of this effect.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152228Z" creationid="CCYU" creationdate="20141124T152228Z">
@@ -17271,6 +17279,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214133Z" creationid="Judy" creationdate="20141204T214133Z">
         <seg>圖 B.14c - 第二 100 % 測試電壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.15a - 90 % test level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214641Z" creationid="Judy" creationdate="20141204T214641Z">
+        <seg>圖 B.15a - 90 % 測試電壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.15b - 100 % test level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214654Z" creationid="Judy" creationdate="20141204T214654Z">
+        <seg>圖 B.15b - 100 % 測試電壓等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -32356,6 +32380,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;Failure indicated at approximately 300 ps at 100 % test level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214721Z" creationid="Judy" creationdate="20141204T214721Z">
+        <seg>註 約NOTE &lt;t0/&gt;Failure indicated at approximately 300 ps at 100 % test level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE &lt;t0/&gt;H&lt;t1/&gt; facto&lt;t2/&gt;r is obtained by the product of the Q and S factors (see 3.16 and 3.17).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T133126Z" creationid="CCYU" creationdate="20141028T133126Z">
@@ -39857,6 +39889,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014236Z">
         <seg>美國，聖塔克魯茲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Satisfactory test on &lt;t0/&gt;a 400 kV three-phase generator transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214624Z" creationid="Judy" creationdate="20141204T214624Z">
+        <seg>400 kV 三相發電機變壓器之合格測試</seg>
       </tuv>
     </tu>
     <tu>
@@ -63328,6 +63368,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>induced switching impulse voltage between the inter-connected terminals of the non-tested phase winding and earth (52 % of the ap&lt;t0/&gt;plied voltage, positive polarity), 5 000 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214506Z" creationid="Judy" creationdate="20141204T214506Z">
+        <seg>非測試相繞組之內部連接端子與地線之間的感應開關突波電壓 (52 % 施加電壓，正極性)，5 000 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>induced voltage test with partial discharge measurement (IVPD).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143035Z" creationid="CCYU" creationdate="20141110T143035Z">
@@ -64208,10 +64256,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral current, 5 000 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214517Z" creationid="Judy" creationdate="20141204T214517Z">
+        <seg>中性電流，5 000 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral current, 50 gs sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210036Z" creationid="Judy" creationdate="20141204T210036Z">
         <seg>中性電流，50 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current, 500 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T214704Z" creationid="Judy" creationdate="20141204T214704Z">
+        <seg>中性電流，500 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
