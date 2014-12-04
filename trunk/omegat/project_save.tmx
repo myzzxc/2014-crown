@@ -19476,6 +19476,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full lightning impulse, &lt;t0/&gt;failure between taps of tap changer and between coarse and fine tapping windings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053844Z" creationid="MAE" creationdate="20141204T053844Z">
+        <seg>抽頭切換器之抽頭間以及粗調和細調抽頭繞組間的全雷擊突波故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full wave lightning impulse test (LI)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T151631Z" creationid="CCYU" creationdate="20141110T151631Z">
@@ -38117,6 +38125,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Responses from test object failure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053645Z" creationid="MAE" creationdate="20141204T053645Z">
+        <seg>測試目標故障之回應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Responses from test-circuit problems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053617Z" creationid="MAE" creationdate="20141204T053617Z">
@@ -43529,6 +43545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T143734Z" creationid="CCYU" creationdate="20141110T143734Z">
         <seg>測試電壓列於表 2 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test-circuit problem caused by sparkover to earth from a measuring cable</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053638Z" creationid="MAE" creationdate="20141204T053638Z">
+        <seg>由量測電纜接地閃火引起之測試電路問題</seg>
       </tuv>
     </tu>
     <tu>
