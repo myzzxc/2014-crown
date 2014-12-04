@@ -11447,6 +11447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comparison of &lt;t0/&gt;non-standard waveshapes with different digitizers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053607Z" creationid="MAE" creationdate="20141204T053607Z">
+        <seg>不同數位記錄器之非標準波形比較</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comparison of the chopped-wave recordings after the instant of chopping is not normally possible unless the instants of chopping are almost identical.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T134824Z" creationid="CCYU" creationdate="20141127T134824Z">
@@ -18325,8 +18333,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For non-standard chopped wave on a layer type winding, see figure B.20.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T045438Z" creationid="Judy" creationdate="20141129T045438Z">
-        <seg>對於非層式繞組上之非標準波形請見圖 B.20。</seg>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053445Z" creationid="Judy" creationdate="20141129T045438Z">
+        <seg>對於層式繞組上之非標準波形請見圖 B.20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33156,6 +33164,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-standard chopped wave on a layer winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053544Z" creationid="MAE" creationdate="20141204T053434Z">
+        <seg>層式繞組上之非標準截波</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-uniform</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164930Z" creationid="Judy" creationdate="20141109T164930Z">
@@ -38097,6 +38113,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134455Z">
         <seg>Respiratory or skin &lt;t0/&gt;sensitisation 呼吸或皮膚過敏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responses from test-circuit problems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T053617Z" creationid="MAE" creationdate="20141204T053617Z">
+        <seg>測試電路問題之反應</seg>
       </tuv>
     </tu>
     <tu>
