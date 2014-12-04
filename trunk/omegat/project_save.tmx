@@ -9654,6 +9654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown between turns in the main high-voltage winding of a 115 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210239Z" creationid="Judy" creationdate="20141204T210239Z">
+        <seg>115 kV 變壓器之主高電壓繞組中的繞匝間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown of tested main high-voltage winding of a transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T222503Z" creationid="Judy" creationdate="20141203T222503Z">
@@ -17283,6 +17291,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.8 - Lightning impulse, chopped-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210144Z" creationid="Judy" creationdate="20141204T210144Z">
+        <seg>圖 B.8 - 雷擊突波，截波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.8a - Reduced chopped wave (60 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210007Z" creationid="Judy" creationdate="20141204T210007Z">
@@ -17295,6 +17311,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205922Z" creationid="Judy" creationdate="20141204T205922Z">
         <seg>圖 B.8b - 截波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.9a - Reduced chopped wave (70 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210302Z" creationid="Judy" creationdate="20141204T210302Z">
+        <seg>圖 B.9a - 降低截波 (70 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.9b - Chopped wave (115 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210248Z" creationid="Judy" creationdate="20141204T210248Z">
+        <seg>圖 B.9b - 截波 (115 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,6 +32336,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T160315Z" creationid="CCYU" creationdate="20141112T160315Z">
         <seg>加強電壓等級和一小時局部放電量測電壓列於 7.3.1.3、7.3.2.1 以及 7.3.3.1 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE Failure after 10 gs to 15 gs clearly indicated in transferred current and neutral current oscillograms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210131Z" creationid="Judy" creationdate="20141204T210131Z">
+        <seg>註 轉移電流以及中性電流之波形圖中明顯出現約 10 μs 至 15 μs 後之故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60358,6 +60398,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 10 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210018Z" creationid="Judy" creationdate="20141204T210018Z">
+        <seg>施加突波，10 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, 10 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202539Z" creationid="Judy" creationdate="20141204T202539Z">
@@ -60378,6 +60426,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202059Z" creationid="Judy" creationdate="20141204T202059Z">
         <seg>施加突波，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>applied impulse, chopped wave, &lt;t0/&gt;50 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210315Z" creationid="Judy" creationdate="20141204T210315Z">
+        <seg>施加突波，截波，50 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -60932,6 +60988,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204749Z" creationid="Judy" creationdate="20141204T204553Z">
         <seg>相鄰短路繞組接地之電容性轉移電流，100 μs 掃描
 註 電壓和轉移電流波形圖中皆顯示出故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitively transferred current from the shorted adjacent winding to earth, 50 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210030Z" creationid="Judy" creationdate="20141204T210030Z">
+        <seg>相鄰短路繞組接地之電容性轉移電流，50 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitively transferred current from the shorted adjacent winding to earth, 50 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210326Z" creationid="Judy" creationdate="20141204T210326Z">
+        <seg>相鄰短路繞組接地之電容性轉移電流，50 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -63812,6 +63884,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203827Z" creationid="Judy" creationdate="20141204T203827Z">
         <seg>中性電流，250 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current, 50 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210036Z" creationid="Judy" creationdate="20141204T210036Z">
+        <seg>中性電流，50 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
