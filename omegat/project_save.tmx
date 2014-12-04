@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9590,6 +9590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown between discs at entrance to high-voltage winding of 115 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203204Z" creationid="Judy" creationdate="20141204T203204Z">
+        <seg>輸入 115 kV 變壓器高電壓繞組處之碟盤間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown between parallel conductors of a main high-voltage winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T221609Z" creationid="Judy" creationdate="20141203T221609Z">
@@ -17119,6 +17127,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T130445Z" creationid="CCYU" creationdate="20141103T121637Z">
         <seg>圖 B.3 為一些液體迴路之典型範例，用於具有轉向墊圈而無額外軸向管道、且分流墊圈均勻分佈以考量不同的因子 S 損耗之繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.3a - Reduced full wave (62,5 &lt;t0/&gt;%)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203235Z" creationid="Judy" creationdate="20141204T203235Z">
+        <seg>圖 B.3a - 降低全波 (62,5 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.3b - Reduced full wave (75 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203244Z" creationid="Judy" creationdate="20141204T203244Z">
+        <seg>圖 B.3a - 降低全波 (75 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31928,6 +31952,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T133334Z">
         <seg>註 例如，變壓器需要於額定功率之特定最低百分比下與停機強制冷卻 (ONAN) 同時運作以冷卻輔助電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE &lt;t0/&gt;Failure after 30 gs, clearly indicated in voltage, capacitively transferred current and neutral current oscillograms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203518Z" creationid="Judy" creationdate="20141204T203518Z">
+        <seg>註 2 電壓、電容性轉電流波形圖中明顯出現約 2 μs 後之故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60150,6 +60182,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 100 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203251Z" creationid="Judy" creationdate="20141204T203251Z">
+        <seg>施加突波，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, 100 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202059Z" creationid="Judy" creationdate="20141204T202059Z">
@@ -60683,6 +60723,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132025Z" creationid="CCYU" creationdate="20141129T132025Z">
         <seg>電容性電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitively transferred current from the shorted, adjacent winding to earth, 100 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203416Z" creationid="Judy" creationdate="20141204T203416Z">
+        <seg>短路、相鄰繞組接地之電容性轉移電流，100 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -63499,6 +63547,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024559Z">
         <seg>若為高壓繞組則乘以抽頭繞組之抽頭係數；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current, 100 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203434Z" creationid="Judy" creationdate="20141204T203434Z">
+        <seg>中性電流，100 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
