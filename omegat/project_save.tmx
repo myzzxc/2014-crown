@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -306,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T013904Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(EC &lt;t0/&gt;1431/02</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205935Z" creationid="Judy" creationdate="20141204T205935Z">
+        <seg>(IEC &lt;t0/&gt;1431/02</seg>
       </tuv>
     </tu>
     <tu>
@@ -9598,6 +9606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakdown between foils of 66 kV bushing on tested winding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205915Z" creationid="Judy" creationdate="20141204T205915Z">
+        <seg>測試繞組之 66 kV 套管的金屬箔片間故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breakdown between leads of &lt;t0/&gt;two 1,1 % sections of outside tapping winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T204401Z" creationid="Judy" creationdate="20141204T204401Z">
@@ -17243,6 +17259,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.7 - Lightning impulse, &lt;t0/&gt;full-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205758Z" creationid="Judy" creationdate="20141204T205748Z">
+        <seg>圖 B.7 - 雷擊突波，全波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.7a - Full wave (100 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205305Z" creationid="Judy" creationdate="20141204T205305Z">
@@ -17255,6 +17279,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205338Z" creationid="Judy" creationdate="20141204T205338Z">
         <seg>圖 B.7b - 截波 (115 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.8a - Reduced chopped wave (60 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210007Z" creationid="Judy" creationdate="20141204T210007Z">
+        <seg>圖 B.8a - 降低截波 (60 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.8b - Chopped wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205922Z" creationid="Judy" creationdate="20141204T205922Z">
+        <seg>圖 B.8b - 截波 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31472,6 +31512,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202943Z" creationid="Judy" creationdate="20141204T202822Z">
         <seg>註 2 電壓和電流波形圖中明顯出現約 2 μs 後之故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 2 Failure just after the peak and before the instant&lt;t0/&gt; of chop indicated by a 10 % drop in the voltage wave and by the neutral current oscillogram.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T205739Z" creationid="Judy" creationdate="20141204T205739Z">
+        <seg>註 2 峰值後、截取前之故障可由 10 % 之電壓降以及中性電流波形圖中指示出。</seg>
       </tuv>
     </tu>
     <tu>
