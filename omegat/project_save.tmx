@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114553Z" creationid="Judy" creationdate="20141022T114553Z">
         <seg>(傳感器或元件不作動或作動速度緩慢)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Amplitudes not equalized)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201924Z" creationid="Judy" creationdate="20141204T201924Z">
+        <seg>(振幅未等化)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17043,6 +17051,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.1a - Reduced full wave (75 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201847Z" creationid="Judy" creationdate="20141204T201847Z">
+        <seg>圖 B.1a - 降低全波 (75 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.2 - Value of factor &lt;t0/&gt;Q &lt;t1/&gt;as a function of rated power and strand height (W)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121753Z" creationid="CCYU" creationdate="20141102T121753Z">
@@ -17191,6 +17207,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T105050Z">
         <seg>圖片說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure&lt;t0/&gt; B.1b - Full wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201819Z" creationid="Judy" creationdate="20141204T201819Z">
+        <seg>圖  B.1b - 全波 (100 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60062,6 +60086,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 100 ps sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202059Z" creationid="Judy" creationdate="20141204T202059Z">
+        <seg>施加突波，100 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied in accordance with IEC 60060-1 to determine the test voltage value.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T030537Z" creationid="CCYU" creationdate="20141115T030537Z">
@@ -67523,6 +67555,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>with fault</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201827Z" creationid="Judy" creationdate="20141204T201827Z">
+        <seg>故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>with one winding short-circuited and, as far as practicable, rated current in the tapped winding, 10 cycles of tap-change operations across the range of two steps on each side from where a coarse or reversing changeover selector operates, or otherwise from the middle tapping (the &lt;t0/&gt;tapchanger&lt;t1/&gt; will pass 20 times through the changeover position).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T095244Z">
@@ -67567,6 +67607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T032423Z" creationid="Judy" creationdate="20141122T032423Z">
         <seg>撤回；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>without fault</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T201854Z" creationid="Judy" creationdate="20141204T201854Z">
+        <seg>無故障</seg>
       </tuv>
     </tu>
     <tu>
