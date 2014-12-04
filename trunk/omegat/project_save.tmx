@@ -17090,6 +17090,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B,11d - Chopped wave (100 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212231Z" creationid="Judy" creationdate="20141204T212231Z">
+        <seg>圖 B.11d - 截波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.1 - Equivalent circuit for capacitive transfer of overvoltage B.2.3 inductive transfer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T095525Z" creationid="MAE" creationdate="20141118T095525Z">
@@ -17135,6 +17143,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T211844Z" creationid="Judy" creationdate="20141204T211844Z">
         <seg>圖 B.11b - 截波 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.11c- Reduced chopped wave (62,5 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212223Z" creationid="Judy" creationdate="20141204T212223Z">
+        <seg>圖 B.11c - 降低截波 (62,5 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32702,8 +32718,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE Tests with large differences in times to chopping (high-voltage winding).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T211908Z" creationid="Judy" creationdate="20141204T211908Z">
-        <seg>註 NOTE Tests with large differences in times to chopping (high-voltage winding).</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212000Z" creationid="Judy" creationdate="20141204T211908Z">
+        <seg>註 測試之截取時間具有大幅差異 (高電壓繞組)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33976,6 +33992,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132217Z" creationid="CCYU" creationdate="20141112T132217Z">
         <seg>註 4 ：三相串聯變壓器之串聯繞組設計為開放繞組，額定電壓為與星形 (Y) 連接相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note changes in the superimposed high-frequency oscillations on the capacitiveiy&lt;t0/&gt; transferred current and changes in the voltage wave after chop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212200Z" creationid="Judy" creationdate="20141204T212200Z">
+        <seg>注意截取後電容性轉移電流上之疊加高頻震盪以及電壓波變化。</seg>
       </tuv>
     </tu>
     <tu>
