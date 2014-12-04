@@ -9294,6 +9294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because the chopped wave contains more high-frequency input for the admittance transfer funct&lt;t0/&gt;ion, deviations between the RFW and FCW transfer functions only occur at high frequencies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215815Z" creationid="Judy" creationdate="20141204T215815Z">
+        <seg>因為截波導納轉換函數包含更多的高頻輸入，RFW 和 FCW 轉換函數之間的差異僅出現於高頻中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because there is geometric distortion in the aerial photographs, we have to rectify them by means of orthorectification which is a mathematical process of removing the geometric distortion caused by relief of ground objects and camera in a photograph.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T063302Z">
@@ -16898,6 +16906,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 18a - Applied voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220026Z" creationid="Judy" creationdate="20141204T220026Z">
+        <seg>圖 18a - 施加電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 18b - Neutral current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220044Z" creationid="Judy" creationdate="20141204T220044Z">
+        <seg>圖 18b - 中性電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1&lt;t0/&gt;c -- Combined voltage variation (&lt;t1/&gt;CbVV&lt;t2/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142332Z">
@@ -17335,6 +17359,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215019Z" creationid="Judy" creationdate="20141204T215019Z">
         <seg>圖 B.16b - 測試電壓等級 (100 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.17 - Lightning impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220010Z" creationid="Judy" creationdate="20141204T220010Z">
+        <seg>圖 B.17 - 雷擊突波 -</seg>
       </tuv>
     </tu>
     <tu>
@@ -62904,6 +62936,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>full chopped-wave FCW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215844Z" creationid="Judy" creationdate="20141204T215844Z">
+        <seg>全截波 FCW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>full wave lightning impulse test level (LI).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T130824Z" creationid="CCYU" creationdate="20141118T130824Z">
@@ -64288,6 +64328,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>neutral current at FCW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215918Z" creationid="Judy" creationdate="20141204T215918Z">
+        <seg>FCW 之中性電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>neutral current at RFW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215906Z" creationid="Judy" creationdate="20141204T215906Z">
+        <seg>RFW 之中性電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>neutral current, 100 gs sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T203434Z" creationid="Judy" creationdate="20141204T203434Z">
@@ -65380,6 +65436,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072503Z">
         <seg>整流系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reduced full-wave RFW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215833Z" creationid="Judy" creationdate="20141204T215833Z">
+        <seg>降低全波 RFW</seg>
       </tuv>
     </tu>
     <tu>
@@ -67528,6 +67592,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125118Z">
         <seg>列車牽引變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transfer (admittance) function at RFW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T215954Z" creationid="Judy" creationdate="20141204T215954Z">
+        <seg>RFW 之轉換 (導納) 函數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transfer (admittance) function&lt;t0/&gt; at FCW</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220001Z" creationid="Judy" creationdate="20141204T220001Z">
+        <seg>FCW 之轉換 (導納) 函數</seg>
       </tuv>
     </tu>
     <tu>
