@@ -17067,6 +17067,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.2 - Lightning impulse, full-wave failure -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202957Z" creationid="Judy" creationdate="20141204T202957Z">
+        <seg>圖 B.2 - 雷擊突波，全波故障 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.2 - Value of factor &lt;t0/&gt;Q &lt;t1/&gt;as a function of rated power and strand height (W)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T121753Z" creationid="CCYU" creationdate="20141102T121753Z">
@@ -31326,8 +31334,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>NOTE 2 Failure after approximately 2 ps clearly &lt;t0/&gt;indicated in the voltage and neutral current oscillograms.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202822Z" creationid="Judy" creationdate="20141204T202822Z">
-        <seg>註 2 波形圖中ㄇㄧ約 2 μs 後之故障</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T202943Z" creationid="Judy" creationdate="20141204T202822Z">
+        <seg>註 2 電壓和電流波形圖中明顯出現約 2 μs 後之故障。</seg>
       </tuv>
     </tu>
     <tu>
