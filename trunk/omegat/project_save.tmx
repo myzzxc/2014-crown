@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32724,6 +32724,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Tests with small differences in times to chopping (low-voltage winding).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212258Z" creationid="Judy" creationdate="20141204T212258Z">
+        <seg>註 測試之截取時間具有小幅差異 (低電壓繞組)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The additional set of requirements is applicable mainly to large system transformers for which emer&lt;t0/&gt;gency loading conditions deserve particular attention, and should not be regularly used for small and medium-size standardized transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T024231Z" creationid="MAE" creationdate="20141029T024231Z">
@@ -33996,10 +34004,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note changes in the superimposed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212514Z" creationid="Judy" creationdate="20141204T212447Z">
+        <seg>截取後電容性轉移電流上之疊加高頻震盪出現變化但電壓波幾乎無變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note changes in the superimposed high-frequency oscillations on the capacitiveiy&lt;t0/&gt; transferred current and changes in the voltage wave after chop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212200Z" creationid="Judy" creationdate="20141204T212200Z">
-        <seg>注意截取後電容性轉移電流上之疊加高頻震盪以及電壓波變化。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212534Z" creationid="Judy" creationdate="20141204T212200Z">
+        <seg>截取後電容性轉移電流上之疊加高頻震盪以及電壓波出現變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60534,6 +60550,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 25 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212546Z" creationid="Judy" creationdate="20141204T212546Z">
+        <seg>施加突波，25 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, chopped wave, &lt;t0/&gt;50 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210315Z" creationid="Judy" creationdate="20141204T210315Z">
@@ -61067,6 +61091,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210046Z" creationid="Judy" creationdate="20141203T210046Z">
         <seg>接地電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitiveiy transferred current, 25 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212604Z" creationid="Judy" creationdate="20141204T212604Z">
+        <seg>電容性轉移電流，25 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
@@ -62844,6 +62876,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163804Z">
         <seg>負載電流之高諧波含量超出 4.2 規定之限制；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>high-frequency oscillations on the capacitiveiy transferred current but virtually no difference in the voltage waves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212438Z" creationid="Judy" creationdate="20141204T212438Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
