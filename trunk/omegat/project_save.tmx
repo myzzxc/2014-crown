@@ -17493,8 +17493,16 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Figure B.22a - No indication in voltage; clear indication in current;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222041Z" creationid="Judy" creationdate="20141204T221923Z">
-        <seg>圖 B.22a - 電壓無故障跡象；電流明顯</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222212Z" creationid="Judy" creationdate="20141204T221923Z">
+        <seg>圖 B.22a - 電壓無故障跡象；電流明顯指示出故障；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.22b - After correction perfect match of all real time and transfer function traces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222408Z" creationid="Judy" creationdate="20141204T222321Z">
+        <seg>圖 B.22b - 校正後即時以及轉換函數曲線完美吻合</seg>
       </tuv>
     </tu>
     <tu>
@@ -40959,8 +40967,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Significant changes occur in&lt;t0/&gt; all real time and transfer function records.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063755Z" creationid="Judy" creationdate="20141129T063755Z">
-        <seg>即時以及轉換函數記錄街出現顯著的變化。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222331Z" creationid="Judy" creationdate="20141129T063755Z">
+        <seg>即時以及轉換函數記錄皆出現顯著的變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61796,6 +61804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051842Z" creationid="Judy" creationdate="20141129T051842Z">
         <seg>電流具有明顯指示；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>clear indication in transfer function</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222205Z" creationid="Judy" creationdate="20141204T222205Z">
+        <seg>轉換函數明顯指示出故障。</seg>
       </tuv>
     </tu>
     <tu>
