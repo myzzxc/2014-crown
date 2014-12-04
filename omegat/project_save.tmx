@@ -15057,6 +15057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effects of differences in times to chopping when testing a 220 kV transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212723Z" creationid="Judy" creationdate="20141204T212723Z">
+        <seg>測試 220 kV 變壓器時不同截取時間之效應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effects of porosity</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T092406Z">
@@ -17131,6 +17139,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure B.11 - Chopped lightning impulse -</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212633Z" creationid="Judy" creationdate="20141204T212633Z">
+        <seg>圖 B.11 - 截取雷擊突波 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure B.11a - &lt;t0/&gt;Reduced chopped wave (62,5 %}</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T211835Z" creationid="Judy" creationdate="20141204T211835Z">
@@ -17151,6 +17167,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212223Z" creationid="Judy" creationdate="20141204T212223Z">
         <seg>圖 B.11c - 降低截波 (62,5 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure B.12a -Reduced full wave (50 %)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212734Z" creationid="Judy" creationdate="20141204T212734Z">
+        <seg>圖 B.12a - 降低全波 (50 %)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31264,6 +31288,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T134812Z" creationid="CCYU" creationdate="20141028T134812Z">
         <seg>註 1 老化效應之抑制可藉由部份消除水生成劑或使用穩定劑以抑制水生成而達成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 1 All three oscillograms show neutral current, 75 (is sweep.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212849Z" creationid="Judy" creationdate="20141204T212849Z">
+        <seg>註 1 三組波形圖皆為中性電流，75 μs 掃描。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60558,6 +60590,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>applied impulse, 50 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212610Z" creationid="Judy" creationdate="20141204T212610Z">
+        <seg>施加突波，50 μs 掃描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>applied impulse, chopped wave, &lt;t0/&gt;50 ps sweep</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210315Z" creationid="Judy" creationdate="20141204T210315Z">
@@ -61091,6 +61131,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210046Z" creationid="Judy" creationdate="20141203T210046Z">
         <seg>接地電容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>capacitiveiy transferred &lt;t0/&gt;current, 50 gs sweep</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T212620Z" creationid="Judy" creationdate="20141204T212620Z">
+        <seg>電容性轉移電流，50 μs 掃描</seg>
       </tuv>
     </tu>
     <tu>
