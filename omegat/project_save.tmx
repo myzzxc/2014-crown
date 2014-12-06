@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/&lt;t0/&gt;N</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094628Z" creationid="Judy" creationdate="20141206T094628Z">
+        <seg>I&lt;t0/&gt;N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/l3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080545Z" creationid="CCYU" creationdate="20141025T080545Z">
@@ -2668,6 +2676,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132631Z" creationid="CCYU" creationdate="20141129T132631Z">
         <seg>T&lt;t0/&gt;d&lt;t1/&gt; 超過指定振幅 90 % 之時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7wa,it</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T084037Z" creationid="Judy" creationdate="20141206T084037Z">
+        <seg>LWA,IT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,6 +5333,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A-weighted sound</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T084059Z" creationid="Judy" creationdate="20141206T084000Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A-weighted sound pressure level with the test object inoperative</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063131Z" creationid="Judy" creationdate="20141206T063131Z">
+        <seg>測試目標未運轉時之 A-權重音壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.1 General</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152138Z" creationid="Judy" creationdate="20141130T152138Z">
@@ -5577,6 +5609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174511Z">
         <seg>自燃溫度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aa/a,in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083910Z" creationid="Judy" creationdate="20141206T083910Z">
+        <seg>LWA,IN</seg>
       </tuv>
     </tu>
     <tu>
@@ -6697,6 +6737,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T074643Z" creationid="MAE" creationdate="20141118T074643Z">
         <seg>或者可於降低電壓突波測試期間進行此類量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, measurements may be made on-&lt;t1/&gt;site if conditions are suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070739Z" creationid="Judy" creationdate="20141206T070739Z">
+        <seg>另外，當條件合適時可於現場進行量測。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods are valid and either can be used, as agreed between manufacturer and purchaser at'the time of placing the order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064738Z" creationid="Judy" creationdate="20141206T064738Z">
+        <seg>兩種方法皆有效並能使用，依製造商和買方之間於訂購時之協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Botto&lt;t0/&gt;m liquid is the term which actually means the temperature of liquid entering the windings at the bottom.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T134842Z" creationid="CCYU" creationdate="20141101T134842Z">
@@ -11167,6 +11223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choice of test method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064352Z" creationid="Judy" creationdate="20141206T064352Z">
+        <seg>測試方法選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chopped Wave Lightning Impulse</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134906Z" creationid="CCYU" creationdate="20141110T134906Z">
@@ -12500,6 +12564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233551Z" creationid="CCYU" creationdate="20141126T233551Z">
         <seg>電流記錄 - 全波測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current taken by a reactor is dependent on the voltage applied and&lt;t0/&gt; consequently, a reactor cannot be tested at no-load.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070410Z" creationid="Judy" creationdate="20141206T070410Z">
+        <seg>電抗器之電流取決於施加電壓，因此電抗器無法空載進行測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15245,6 +15317,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T092028Z">
         <seg>可使用類比或數位記錄系統進行雷擊突波電壓和電流響應波形記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either sound pressure or sound intensity measurements may be used to deter&lt;t0/&gt;mine the value of the sound power level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064538Z" creationid="Judy" creationdate="20141206T064538Z">
+        <seg>聲音強度量測或聲壓量測皆能用於測定聲音功率等級，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18395,6 +18475,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For North American applications, the sound level tests shall be made at no-load in accordance with national requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073801Z" creationid="Judy" creationdate="20141206T073801Z">
+        <seg>應用於北美洲時，音量測試應依據國家標準於空載下進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For YD transformers, the zero sequence impedance is measured from the Y side only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T085453Z">
@@ -18599,6 +18687,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T162502Z" creationid="CCYU" creationdate="20141102T060800Z">
         <seg>對於自耦連接變壓器，其限制參照等效雙繞組變壓器之額定功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For auto-transformers and three winding transformers, the two winding, rated power, S&lt;t0/&gt;t&lt;t1/&gt;, is used instead of&lt;t2/&gt;S&lt;t3/&gt;r</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083112Z" creationid="Judy" creationdate="20141206T083112Z">
+        <seg>自耦變壓器與三繞組變壓器，使用兩繞組、額定功率 S&lt;t0/&gt;t&lt;t1/&gt; 而非 &lt;t2/&gt;S&lt;t3/&gt;r。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,6 +19195,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For measurements made on the test object with or without its auxiliary cooling plant, the test object shall be on no-load and excited at the rated voltage of sinusoidal or practically sinusoidal waveform and rated frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T072531Z" creationid="Judy" creationdate="20141206T072531Z">
+        <seg>於含有或不含附加冷卻設備之測試目標上進行量測時，測試目標應為空載並輸入正弦波形額定電壓以及額定頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For mineral oil-immersed power transformers, the use of dissolved gas analysis (DGA) performed on oil samples extracted before and after the temperature &lt;t0/&gt;rise test may allow the detection of local overheating due to stray flux effects, incorrect circulation of the cooling oil, or loose connections of current-currying leads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134032Z" creationid="CCYU" creationdate="20141105T134032Z">
@@ -19560,6 +19664,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T043157Z" creationid="Judy" creationdate="20141206T043157Z">
         <seg>本文件中使用下列以及 IEC 60076-1 中給定之專有名詞與定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the purpose of this standard, "cooling auxiliaries" shall include forced air and forced oil cooling au&lt;t0/&gt;xiliaries and water cooling equipment, and shall exclude natural air and natural oil cooling.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T100736Z" creationid="Judy" creationdate="20141206T100736Z">
+        <seg>本標準中，"輔助冷卻" 應包含強制氣冷和強制油冷以及水冷設備，不包含自然氣冷和自然油冷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,6 +22190,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this tap position may not give the maximum sound level in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070941Z" creationid="Judy" creationdate="20141206T070941Z">
+        <seg>然而此抽頭位置可能無法產生運轉中最大音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, under circumstances where it clear that some parts of the transformer that have been fully tested are not involved in tf failure or repair, then at the discretion of the purchaser these parts may not need to be teste again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T133544Z" creationid="CCYU" creationdate="20141115T133544Z">
@@ -23225,6 +23345,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;t0/&gt;A/va.in '&lt;t1/&gt;s&lt;t2/&gt; f°&lt;t3/&gt;ur,&lt;t4/&gt;d to be 8 dB or more below the guaranteed sound power level, load current sound measurements are &lt;t5/&gt;not appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083317Z" creationid="Judy" creationdate="20141206T083317Z">
+        <seg>若 LWA,IN 低於保證聲音功率等級 8 dB 或更多時，不適用負載電流音量量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Cable Gland is not used, then conduit run from unit to a sealing fitting must be limited to 18” (457 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074325Z" creationid="CCYU" creationdate="20141025T074325Z">
@@ -23369,10 +23497,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a transformer has a very low no-load &lt;t0/&gt;sound level, the sound due to load current can influence the total sound level in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070136Z" creationid="Judy" creationdate="20141206T070136Z">
+        <seg>若變壓器具有非常低的空載音量，負載電流所造成之聲音會影響運轉中的總音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a transformer has alternative winding connections, how they should be changed, and which connection is required ex works.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T142149Z">
         <seg>若變壓器有替代繞組連接，其變更方式以及何組連接需於交貨時施工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a transformer is fitted with reactor-type on-load tap-changer equipment where the reactor may on certain tap-change positions be permanently energized, the measure&lt;t1/&gt;ments shall be made with the t&lt;t2/&gt;ransformer on a tapping which involves this condition and which is as near to the principal tapping as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073117Z" creationid="Judy" creationdate="20141206T073008Z">
+        <seg>若變壓器裝有電抗器型負載抽頭切換器設備，其電抗器於特定抽頭位置時可能永久激磁，應於變壓器中具有此條件之抽頭進行量測並盡可能接近主抽頭，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24194,6 +24338,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the calibration changes by more than 0,3 dB, the measurements shall be declared invalid and the test repeated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064337Z" creationid="Judy" creationdate="20141206T064337Z">
+        <seg>若校正量改變超過 0,3 dB，則測試無效並需重新測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the clear distance between lapped bars exceeds 44), then the lap length shall be increased by the difference between the clear bar distance and 4&lt;t0/&gt; ϕ&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T043202Z">
@@ -24366,6 +24518,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T022714Z" creationid="CCYU" creationdate="20141115T022714Z">
         <seg>若最大相對過衝量低於 5 %，測試電壓值可依 IEC 60060-1 定義作為極端值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the measurements can only be performed at a reduced current, the sound power level at the rated current shall be calculated by equation (5):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083852Z" creationid="Judy" creationdate="20141206T083852Z">
+        <seg>若僅能於降低電流下進行量測，於額定電流下之聲音功率等級應由等式 (5) 計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25058,6 +25218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ij</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094649Z" creationid="Judy" creationdate="20141206T094649Z">
+        <seg>IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illinois</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T184105Z">
@@ -25446,6 +25614,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T143826Z">
         <seg>此外，來回氣體流產生之溫度振盪和熱傳導量以及再生器之高溫度梯度會產生能量損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, when the transforme&lt;t0/&gt;r is in service, a superposition of the flux at no-load conditions and the stray flux occurs which causes a change in the flux density in certain parts of the core.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T071310Z" creationid="Judy" creationdate="20141206T071310Z">
+        <seg>另外，當變壓器運轉時，空載條件之疊加通量與雜散通量將導致核心特定部分之通量密度變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25878,6 +26054,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T143011Z" creationid="CCYU" creationdate="20141124T143000Z">
         <seg>為了符合 IEC 60076-3 規範，三相變壓器僅有一組可採納之測試連接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to decide whether it is &lt;t0/&gt;significant to perform load current sound measurements, the magnitude of the load current sound power level can be roughly estimated by equation (4):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074148Z" creationid="Judy" creationdate="20141206T074148Z">
+        <seg>為了決定是否需要進行負載電流音量量測，負載電流聲音功率等級之大小可由等式 (4) 估算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27955,6 +28139,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instrumentation and calibration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063210Z" creationid="Judy" creationdate="20141206T063210Z">
+        <seg>儀器使用與校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T054007Z">
@@ -29980,6 +30172,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load condition(s) shall be agreed between the manufacturer and purchaser at the time of placing the order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065946Z" creationid="Judy" creationdate="20141206T065946Z">
+        <seg>負載條件應依製造商和買方之間於訂購時之協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065154Z" creationid="Judy" creationdate="20141206T065154Z">
+        <seg>負載條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154155Z">
@@ -31112,6 +31320,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022530Z">
         <seg>其他抽頭位置之量測應於詢價時指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurements made in conformity with this standard tend to result in standard deviations of reproducibility between determinations made in different laboratories which are less than or equal to 3 dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065042Z" creationid="Judy" creationdate="20141206T065042Z">
+        <seg>依據本標準進行之測試，於不同實驗室進行之再現性標準變異應小於等於 3 dB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurements made in conformity with this standard tend to result in standard deviations of reproducibility between&lt;t0/&gt; determinations made in different laboratories which are less than or equal to 3 dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065141Z" creationid="Judy" creationdate="20141206T065141Z">
+        <seg>依據本標準進行之測試，於不同實驗室進行之再現性標準變異應小於等於 3 dB。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33212,6 +33436,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE DC bias currents ma&lt;t0/&gt;y cause a significant increase in the measured sound levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073213Z" creationid="Judy" creationdate="20141206T073213Z">
+        <seg>註 直流偏壓可能造成量測之音量顯著增加，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Delta connection is sometimes referred to as D-connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T055210Z">
@@ -34400,6 +34632,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T053445Z">
         <seg>高密度聚乙烯管無特定評估規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No-loa&lt;t0/&gt;d current and rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T072117Z" creationid="Judy" creationdate="20141206T072117Z">
+        <seg>空載電流和額定電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -37572,6 +37812,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094821Z" creationid="Judy" creationdate="20141206T094821Z">
+        <seg>主輻射面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Principles of waveshape control</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T152127Z" creationid="Judy" creationdate="20141130T152127Z">
@@ -38341,6 +38589,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rated current and short-circuit voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073825Z" creationid="Judy" creationdate="20141206T073825Z">
+        <seg>額定電流和短路電壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rated current injection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T074959Z" creationid="Judy" creationdate="20141101T074959Z">
@@ -38849,6 +39105,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T224538Z" creationid="Judy" creationdate="20141113T224538Z">
         <seg>測試記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduced-load current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083715Z" creationid="Judy" creationdate="20141206T083715Z">
+        <seg>降低負載電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -41997,6 +42261,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound intensity measurements shall be made using a class 1 sound intensity instrument complying with IEC 61043 and calibrated in accordance with 6.2 of ISO 9614-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063747Z" creationid="Judy" creationdate="20141206T063747Z">
+        <seg>聲音強度之量測應使用符合 IEC 61043 並依 ISO 9614-1 之 6.2 校正之 1 級聲音強度儀器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155922Z">
@@ -42025,6 +42297,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T031703Z" creationid="Judy" creationdate="20141206T031703Z">
         <seg>音量為用於額定與比較聲音源之參數，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound pressure measurements shall be made using a type 1 sound level meter complying with&lt;t0/&gt; IEC 61672-1 and IEC 61672-2 and calibrated in accordance with 5.2 of ISO 3746.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063625Z" creationid="Judy" creationdate="20141206T063625Z">
+        <seg>聲壓之量測應使用符合 IEC 61672-1 和 IEC 61672-2 並依 ISO 3746 之 5.2 校正之 1 型音量計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46981,6 +47261,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The definition of the principal radiating surface depends on the type of cooling auxiliaries employed and their position relative to the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T100520Z" creationid="Judy" creationdate="20141206T100520Z">
+        <seg>主輻射面之定義取決於使用之輔助冷卻設備形式以及其相對變壓器之位置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The deflection under pressure is the difference between this measure&lt;t0/&gt;ment and the first measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140929T122406Z">
@@ -47421,6 +47709,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The equation is valid for a reduced current of &gt;70 % of the rated current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094814Z" creationid="Judy" creationdate="20141206T094814Z">
+        <seg>等式適用於降低電流 ≥70 % 額定電流時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The equivalent e.m.f.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094032Z" creationid="MAE" creationdate="20141118T094032Z">
@@ -47449,6 +47745,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T220513Z">
         <seg>於空氣之可逆絕熱循環中確切的 &lt;t14/&gt;p-V&lt;t15/&gt; 關係為 &lt;t16/&gt;&lt;t17/&gt;，其中 &lt;t18/&gt;C&lt;t19/&gt; 為常數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The excitation voltage shall be appropriate to the tapping in use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073121Z" creationid="Judy" creationdate="20141206T073114Z">
+        <seg>激磁電壓應適合使用之抽頭，</seg>
       </tuv>
     </tu>
     <tu>
@@ -47981,6 +48285,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The frequenc&lt;t0/&gt;y range of the measuring equipment shall be adapted to the frequency spectrum of the test object, that is, an appropriate microphone spacer system shall be chosen in order to minimize systematic errors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064032Z" creationid="Judy" creationdate="20141206T064032Z">
+        <seg>量測設備之頻率範圍應適合測試目標之頻譜，即需選擇適當的麥克風以最小化系統性誤差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The front time &lt;t0/&gt;T\&lt;t1/&gt; is determined mainly by combination of the effective surge capacitance of the test object, including &lt;t2/&gt;Cl,&lt;t3/&gt; and the generator internal and external series resistances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T143103Z" creationid="Judy" creationdate="20141122T142735Z">
@@ -48233,6 +48545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T001719Z" creationid="Judy" creationdate="20141113T232152Z">
         <seg>阻抗應不超過連接線路之突波阻抗 (若買方有提供數值) 或 400 Ω 中取較低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The implications of increased sound levels due to d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073649Z" creationid="Judy" creationdate="20141206T073548Z">
+        <seg>製造商和買方皆應考量因為直流偏壓所造成之音量增加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49061,6 +49381,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measuring equipment shall be calibrated immediate&lt;t0/&gt;ly before and after the measurement sequence.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064228Z" creationid="Judy" creationdate="20141206T064228Z">
+        <seg>量測設備應於量測程序前後立即校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measuring impedance (with a protective gap) is connected between the low voltage terminal of the capacitor and earth, see Figure A.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T124122Z" creationid="CCYU" creationdate="20141117T123957Z">
@@ -49097,6 +49425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T150040Z" creationid="CCYU" creationdate="20141104T150034Z">
         <seg>此方法基於假設頂層液體溫度上升之下降量為線性 &lt;t0/&gt;Θ&lt;t1/&gt;om&lt;t2/&gt;(t)=A&lt;t3/&gt;0&lt;t4/&gt;-kt。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method to be used for summing the no-load and load.current sound levels is given in Clause 14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070256Z" creationid="Judy" creationdate="20141206T070256Z">
+        <seg>測定空載與負載電流音量之方法收錄於第 14 節之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51029,6 +51365,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sound intensity method of measurement described in this standard is in accordance with ISO 9614-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065108Z" creationid="Judy" creationdate="20141206T065108Z">
+        <seg>此標準所述之聲音強度量測方法符合 ISO 9614-1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sound level in service is influenced by the load current (see IEC 60076-10).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T160853Z">
@@ -51041,6 +51385,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161418Z">
         <seg>測試中依據 IEC 60076-10 所量測之音量等級不得超過保證的最高音量等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sound pressure method of measurement described in this standard is in accordance with&lt;t0/&gt; ISO 3746.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T064853Z" creationid="Judy" creationdate="20141206T064853Z">
+        <seg>此標準所述之聲壓量測方法符合 ISO 3746，</seg>
       </tuv>
     </tu>
     <tu>
@@ -52965,6 +53317,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The voltage shall be gradually increased until rate&lt;t0/&gt;d current flows in the short-circuited winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083659Z" creationid="Judy" creationdate="20141206T083659Z">
+        <seg>應逐漸增加電壓直至額定電流流入短路之繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The voltage shall be held at the one hour PD measurement voltage for a duration of at least one hour following the PD measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T154834Z" creationid="CCYU" creationdate="20141112T154834Z">
@@ -53317,6 +53677,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; voltage shall be in accordance with 10.5 of ,IEC 60076-1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T072602Z" creationid="Judy" creationdate="20141206T072602Z">
+        <seg>電壓應符合 IEC 60076-1 之 10.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;t2/&gt; &lt;t3/&gt;indications given on the working life cannot be interpreted as a guarantee given by the producer,&lt;t4/&gt; &lt;t5/&gt;but are to be regarded only as a means for choosing the right products in relation to the&lt;t6/&gt; &lt;t7/&gt;expected economically reasonable working life of the works.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020559Z">
@@ -53369,6 +53737,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T115538Z" creationid="CCYU" creationdate="20141107T115538Z">
         <seg>出版物委託技術委員會籌劃；任何對其主題感興趣的 IEC 國家委員會可以參與籌劃工作，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their presence may be verified by the existence of odd harmonics of the power frequency in the sound spectrum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073450Z" creationid="Judy" creationdate="20141206T073450Z">
+        <seg>若聲音頻譜中出現電源頻率之奇諧波則代表具有直流偏壓，</seg>
       </tuv>
     </tu>
     <tu>
@@ -53873,6 +54249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T143447Z">
         <seg>因此，颱風對於 PIV 結果之影響些微，因為紅菜坪地滑的位移量遠遠大於颱風造成之植被變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, under special conditions of intended application of a transformer (particularly &lt;t1/&gt;variable flux voltage variation), it may be agreed to measure the sound levels; on a tapping other than the principal tapping, or with a voltage other than the rated voltage on an untapped winding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T071822Z" creationid="Judy" creationdate="20141206T071812Z">
+        <seg>因此，變壓器之特殊應用條件下 (特別是可變通量電壓變化) 可依協議於主抽頭外之抽頭，或於無抽頭變壓器中使用額定電壓以外之電壓下量測音量，</seg>
       </tuv>
     </tu>
     <tu>
@@ -55757,6 +56141,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This shall be clearly indicated in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T071848Z" creationid="Judy" creationdate="20141206T071848Z">
+        <seg>並應清楚地於測試報告中指明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This should be followed by consultations between the manufacturer and purchaser to agree on further supplementary tests or other action to show either the presence of serious partial discharge, or that the transformer is satisfactory for service operation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T150849Z" creationid="Judy" creationdate="20141117T150849Z">
@@ -57246,6 +57638,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformers with or without cooling auxiliaries, dry-type transformers in enclosures and dry-type transformers with cooling auxiliaries inside the enclosure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T101322Z" creationid="Judy" creationdate="20141206T101322Z">
+        <seg>包含與不包含冷卻輔助之變壓器、機箱內之乾式變壓器以及包含冷卻輔助於機箱內之乾式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformers with re-connectable windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T123534Z" creationid="CCYU" creationdate="20141108T123534Z">
@@ -57962,6 +58362,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T104712Z">
         <seg>除另行指定外，油箱中的測試壓力應高於一般操作壓力 35 kPa，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless otherwise specified, the tests shall be carried out with the tap-changer (if any) on the principal tapping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070944Z" creationid="Judy" creationdate="20141206T070849Z">
+        <seg>若無特別說明，應於主抽頭上之抽頭切換器 (若有配置) 進行測試，</seg>
       </tuv>
     </tu>
     <tu>
@@ -59606,6 +60014,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When these measurements are required, one winding shall be short-circuited and a sinusoidal’ voltage as defined in 10.5 of IEG 60076-1 applied to the other winding at the rated frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083544Z" creationid="Judy" creationdate="20141206T083544Z">
+        <seg>當必須進行這些量測時，一繞組必須短路而另一繞組應於額定頻率下依據  IEC 60076-1 之 10.5 施加正弦電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this current is measured on the winding to which the impulse voltage is directly applied, whether or not this is the winding on which the specified test voltage level is to be achieved, the current comprises three parts:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T142352Z" creationid="CCYU" creationdate="20141125T142352Z">
@@ -59810,6 +60226,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T135002Z" creationid="CCYU" creationdate="20141115T135002Z">
         <seg>當已指定間隙時，製造商可用較高之數值進行測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where sufficient power is available in the factory to permit full energization of reactors, the methods to be followed are the same as those for transformers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T070637Z" creationid="Judy" creationdate="20141206T070637Z">
+        <seg>當於工廠中具有足以完全激發電抗器之功率時，應使用之方法與變壓器相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61974,6 +62398,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>at rated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T084017Z" creationid="Judy" creationdate="20141206T084014Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>at reduced current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094549Z" creationid="Judy" creationdate="20141206T094549Z">
+        <seg>為降低電流下之 A-權重聲音功率等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ata'to-be inserted ...r</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125958Z" creationid="CCYU" creationdate="20141105T125958Z">
@@ -62151,6 +62591,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>background noise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062851Z" creationid="Judy" creationdate="20141206T062851Z">
+        <seg>背景噪音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>backwards in time to the instant of shutdown.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T121750Z" creationid="CCYU" creationdate="20141104T121750Z">
@@ -62195,6 +62643,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T150953Z" creationid="CCYU" creationdate="20141101T150953Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bias currents should be taken&lt;t1/&gt; into consideration by both the manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073652Z" creationid="Judy" creationdate="20141206T073652Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -63012,6 +63468,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124913Z" creationid="CCYU" creationdate="20141104T124913Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094611Z" creationid="Judy" creationdate="20141206T084021Z">
+        <seg>為額定電流下之 A-權重聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -64320,6 +64784,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>horizontal distance between the principal radiating surface and the "measurement surface".</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062725Z" creationid="Judy" creationdate="20141206T062643Z">
+        <seg>主輻射面與 "量測面" 之水平距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>horizontal line on which the measuring positions are located, spaced at a definite horizontal distance&lt;t0/&gt; (the "measurement distance") from the principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062621Z" creationid="Judy" creationdate="20141206T062414Z">
+        <seg>量測所在位置之水平線，與主輻射面之絕對水平距離 ("量測距離") 間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hot-spot factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T132625Z" creationid="CCYU" creationdate="20141028T132625Z">
@@ -64352,6 +64832,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hypothetical surface enveloping the source &lt;t0/&gt;and on which the measurement points are located</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062841Z" creationid="Judy" creationdate="20141206T062841Z">
+        <seg>量測點所在之包圍音源的假想面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hypothetical surface surrounding the test object which is assumed to be the surface from which sound is radiated</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062006Z" creationid="Judy" creationdate="20141206T062006Z">
@@ -64372,6 +64860,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T065756Z">
         <seg>i &lt;t0/&gt;=&lt;t1/&gt; F&lt;t2/&gt; (I’,&lt;t3/&gt; j&lt;t4/&gt;’) &lt;t5/&gt;和 j &lt;t6/&gt;=&lt;t7/&gt; G&lt;t8/&gt; (I’,&lt;t9/&gt; y&lt;t10/&gt;’)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>i&lt;t0/&gt;WA&lt;t1/&gt; &lt;t2/&gt;in&lt;t3/&gt; is the A-weighted sound power level of the transformer at rated current, rated frequency and impedance voltage;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074336Z" creationid="Judy" creationdate="20141206T074336Z">
+        <seg>L&lt;t0/&gt;WA&lt;t1/&gt;,&lt;t2/&gt;in&lt;t3/&gt; 為變壓器於額定電流、額定頻率以及阻抗電壓下之 A-權重聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -64680,6 +65176,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>is</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083916Z" creationid="Judy" creationdate="20141206T083916Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>is a fraction s of the incoming surge on the high-voltage side.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094141Z" creationid="MAE" creationdate="20141118T094141Z">
@@ -64716,6 +65220,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T124228Z" creationid="CCYU" creationdate="20141104T124228Z">
         <seg>疊加至電阻性電壓 (於毫伏範圍內) 並使評估之電阻值受感應電壓極性影響而增加或降低，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the &lt;t0/&gt;reference power (1 MVA).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074515Z" creationid="Judy" creationdate="20141206T074515Z">
+        <seg>為參考功率 (1 MVA)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64764,6 +65276,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141118T152303Z" creationid="Judy" creationdate="20141118T151824Z">
         <seg>為電網之正序列阻抗，單位為 Ω</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the rated power in megavolt amperes (MVA);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074452Z" creationid="Judy" creationdate="20141206T074452Z">
+        <seg>為額定功率，單位為百萬伏安培 (MVA)；</seg>
       </tuv>
     </tu>
     <tu>
@@ -65236,6 +65756,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130500Z" creationid="CCYU" creationdate="20141105T130500Z">
         <seg>實測值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>measurement distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062627Z" creationid="Judy" creationdate="20141206T062627Z">
+        <seg>量測距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>measurement surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062738Z" creationid="Judy" creationdate="20141206T062738Z">
+        <seg>量測面</seg>
       </tuv>
     </tu>
     <tu>
@@ -66176,6 +66712,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>power level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T084011Z" creationid="Judy" creationdate="20141206T084011Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>power transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T140151Z">
@@ -66348,6 +66892,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160211Z">
         <seg>額定電流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rated current;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094642Z" creationid="Judy" creationdate="20141206T094642Z">
+        <seg>為額定電流；</seg>
       </tuv>
     </tu>
     <tu>
@@ -66548,6 +67100,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T072503Z">
         <seg>整流系統；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>reduced current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094659Z" creationid="Judy" creationdate="20141206T094659Z">
+        <seg>為降低電流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67612,6 +68172,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125138Z">
         <seg>測試變壓器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083924Z" creationid="Judy" creationdate="20141206T083924Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
