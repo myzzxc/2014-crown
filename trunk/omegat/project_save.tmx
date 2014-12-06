@@ -18819,6 +18819,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For cooler structures with an overall height of &gt;4 m (excluding&lt;t1/&gt; oil conservators, pipework, etc.), two prescribed contours shall be used which are on horizontal planes at one-third and two-thirds of the height, unless for safety reasons, a lower height is chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134638Z" creationid="Judy" creationdate="20141206T134638Z">
+        <seg>冷卻器總高度 ≥4 m  (不包含儲油槽、管路等) 時之測定線應位於高度三分之一及三分之二處之水平面，若因安全因素可選擇較低的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For current recordings, it may be &lt;t0/&gt;advantageous to use, in addition, a shorter sweep time so as to be able to monitor the initial capacitive current in more detail.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160426Z" creationid="CCYU" creationdate="20141125T160426Z">
@@ -19246,9 +19254,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For measurements made with the cooling auxilia&lt;t0/&gt;ries only energized, the prescribed contour for cooler structures with an overall height of &lt;4 m (excluding oil conservators, pipework, etc.) shall be on a horizontal plane at half the height.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134616Z" creationid="Judy" creationdate="20141206T134616Z">
-        <seg>對於僅冷卻設備通電之量測，冷卻器結構總高度 &lt;4 m (不包含儲油槽、管路等) 時之測定線應位於高度一半之水平面；
-</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134641Z" creationid="Judy" creationdate="20141206T134616Z">
+        <seg>對於僅冷卻設備通電之量測，冷卻器結構總高度 &lt;4 m (不包含儲油槽、管路等) 時之測定線應位於高度一半之水平面；</seg>
       </tuv>
     </tu>
     <tu>
@@ -31606,6 +31613,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microphone positions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134655Z" creationid="Judy" creationdate="20141206T134655Z">
+        <seg>麥克風位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015159Z">
@@ -33730,6 +33745,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T073454Z" creationid="MAE" creationdate="20141118T073454Z">
         <seg>註 買方有義務定義低電壓繞組之負載，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE It may be necessary to modify the measuring positi&lt;t0/&gt;ons for certain test objects on safety grounds, for example, in the case of transformers with horizontal high voltage bushings, the contour(s) may be confined to the safe zone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134646Z" creationid="Judy" creationdate="20141206T134646Z">
+        <seg>註 特定測試目標中可能因安全因素必須修改量測位置，例如具有水平高電壓套管之變壓器中，測定線應位於安全區中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36010,6 +36033,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T034904Z">
         <seg>僅傳遞鋼筋的軸向張力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the energy average shall be recorded in the test report</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134805Z" creationid="Judy" creationdate="20141206T134805Z">
+        <seg>測試報告中僅需記錄能量平均。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43048,6 +43079,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage-type measuring equipment with an averaging device may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134744Z" creationid="Judy" creationdate="20141206T134744Z">
+        <seg>可使用具有平均裝置之儲存型量測設備，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Store at room temperature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T105649Z">
@@ -49544,6 +49583,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The microphone positions shall be on the prescribed contour(s), approximately equally spaced and not more than 1 m apart, (see dimension &lt;t0/&gt;D&lt;t1/&gt; in Figures 1 to 5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134713Z" creationid="Judy" creationdate="20141206T134713Z">
+        <seg>麥克風應位於測定線 1 公尺內， (請見圖 1 至 5 之 D 位置)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The microphone shall be moved with approximately constant speed on the prescribed contour(s) around the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134747Z" creationid="Judy" creationdate="20141206T134747Z">
+        <seg>麥克風應以接近恆定的速度沿測試目標之測定線移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034650Z" creationid="MAE" creationdate="20141119T034357Z">
@@ -49756,6 +49811,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T141148Z">
         <seg>計算範圍中的網格數目為固定，引擎體積膨脹和壓縮藉由改變網格邊界以增加和減少網格體積，如手風琴運動般模擬引擎整體的膨脹或壓縮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of samples shall b&lt;t0/&gt;e not less than the number of microphone positions specified above.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134755Z" creationid="Judy" creationdate="20141206T134755Z">
+        <seg>取樣數不應低於上述之麥克風位置數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54092,6 +54155,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T052908Z">
         <seg>ICC 評估服務 LLC 於本報告中所述或提及之任何發現或其他事項、或對其任何報告所涵蓋之產品不提供保固。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There shall be a minimum of six microphone positions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134731Z" creationid="Judy" creationdate="20141206T134731Z">
+        <seg>最少應有六組麥克風。</seg>
       </tuv>
     </tu>
     <tu>
