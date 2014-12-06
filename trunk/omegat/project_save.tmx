@@ -29196,6 +29196,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shall exclude any cooling auxiliaries located &gt;3 m away from the transformer tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T103659Z" creationid="Judy" creationdate="20141206T103659Z">
+        <seg>不包It shall exclude any cooling auxiliaries located &gt;3 m away from the transformer tank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should be emphasized that for the purpose of presenting results for acceptance by comparison of traces, the waveforms obtained by digital measurements should be produced from the raw data and not subjected to any mathematical p&lt;t0/&gt;rocessing, filtering, smoothing, etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T104909Z" creationid="CCYU" creationdate="20141123T104909Z">
@@ -50241,6 +50249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T101625Z" creationid="Judy" creationdate="20141206T101625Z">
         <seg>主輻射面為包圍設備之曲線垂直投射面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The principal radiating surface shall include cooling auxiliaries located &lt;3 m away from the transformer tank, tank stiffeners and such&lt;t1/&gt; auxiliary equipment as cable boxes, tap-changers, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T103704Z" creationid="Judy" creationdate="20141206T103630Z">
+        <seg>主輻射面應包含位於變壓器油槽、油槽加強筋條以及輔助設備如電線盒、抽頭切換器等元件 3 公尺內之冷卻輔助設備；</seg>
       </tuv>
     </tu>
     <tu>
