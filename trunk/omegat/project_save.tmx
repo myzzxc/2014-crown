@@ -12328,6 +12328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooling auxiliaries mounted on a separate structure spaced £3 m away from the principal radiating surface of the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134345Z" creationid="Judy" creationdate="20141206T134345Z">
+        <seg>冷卻輔助設備安裝於距離變壓器主輻射面 ≥3 m 之獨立結構上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooling medium temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153917Z">
@@ -14597,6 +14605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002916Z" creationid="Judy" creationdate="20141206T002916Z">
         <seg>乾式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dry-type transformers without enclosures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134430Z" creationid="Judy" creationdate="20141206T134430Z">
+        <seg>無機箱之乾式變壓器</seg>
       </tuv>
     </tu>
     <tu>
@@ -18475,6 +18491,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For &lt;t0/&gt;transformers with a tank height &gt;2,5 m, two prescribed contours shall be used which are on horizontal planes at one-third and two-thirds of the tank height unless, for safety reasons, a lower height is chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134606Z" creationid="Judy" creationdate="20141206T134606Z">
+        <seg>油槽高度 ≥2,5 m 變壓器之測定線應位於油槽高度三分之一及三分之二處之水平面，若因安全因素可選擇較低的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For North American applications, the sound level tests shall be made at no-load in accordance with national requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073801Z" creationid="Judy" creationdate="20141206T073801Z">
@@ -19199,6 +19223,32 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T072531Z" creationid="Judy" creationdate="20141206T072531Z">
         <seg>於含有或不含附加冷卻設備之測試目標上進行量測時，測試目標應為空載並輸入正弦波形額定電壓以及額定頻率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For measurements made with forced air co&lt;t0/&gt;oling auxiliaries in service, the prescribed contour shall be spaced 2 m away from the principal radiating surface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134553Z" creationid="Judy" creationdate="20141206T134553Z">
+        <seg>強制氣冷設備 (若有設置) 運轉時量測之測定線應與主輻射面距離 2 m。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For measurements made with forced air cooling a&lt;t0/&gt;uxiliaries (if any) out of service, the prescribed contour shall be spaced 0,3 m away from the principal radiating surface unless, for safety reasons associated with dry-type units without enclosures, 1 m is chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134539Z" creationid="Judy" creationdate="20141206T134539Z">
+        <seg>強制氣冷設備 (若有設置) 停機時量測之測定線應與主輻射面距離 0,3 m，若因無機箱之乾式變壓器的相關因素可選擇 1 m。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For measurements made with the cooling auxilia&lt;t0/&gt;ries only energized, the prescribed contour for cooler structures with an overall height of &lt;4 m (excluding oil conservators, pipework, etc.) shall be on a horizontal plane at half the height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134616Z" creationid="Judy" creationdate="20141206T134616Z">
+        <seg>對於僅冷卻設備通電之量測，冷卻器結構總高度 &lt;4 m (不包含儲油槽、管路等) 時之測定線應位於高度一半之水平面；
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,6 +20090,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T032455Z" creationid="CCYU" creationdate="20141115T032450Z">
         <seg>變壓器 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt;&lt;t3/&gt; 800 kV 時，波前時間可能因為非常高的對地電容而無法低 2,5 µs。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For transformers with a tank height of &lt;2,5 m, the prescribed contour shall be on a horizontal plane at half the tank height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134602Z" creationid="Judy" creationdate="20141206T134602Z">
+        <seg>油槽高度 &lt;2,5 m 變壓器之測定線應位於油槽高度一半處之水平面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37732,6 +37790,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prescribed contour</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134503Z" creationid="Judy" creationdate="20141206T134503Z">
+        <seg>測定線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>President &lt;t0/&gt;Baderschneider</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140719T181745Z">
@@ -38057,6 +38123,15 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014101Z">
         <seg>製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Projections such as bushings, oil pipework and conservators, tank or cooler underbases, valves, control cubicles a&lt;t2/&gt;nd other secondary elements shall also be excluded, (see Figures 1, 2 and 3).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134333Z" creationid="Judy" creationdate="20141206T134333Z">
+        <seg>套管、油管和儲油箱、油槽或冷卻器基座、閥門、控制箱以及其它次級元件之投影也需排除 (請見圖 1、2 以及 3)。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -50245,6 +50320,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principal radiating surface is the surface &lt;t0/&gt;obtained by the vertical projection of a string contour encircling the equipment but excluding oil conservators, framework, pipework, valves and other secondary elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134402Z" creationid="Judy" creationdate="20141206T134402Z">
+        <seg>主輻射面為包圍設備之曲線垂直投射面，但不包括儲油箱、框架、管路、閥門以及其它次級元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The principal radiating surface is the surface obtained by the vertical projection of a string contour encircling the dry-type transformer excluding framework, external wiring and co&lt;t0/&gt;nnections and attached apparatus not affecting the sound radiation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134434Z" creationid="Judy" creationdate="20141206T134434Z">
+        <seg>主輻射面為包圍乾式變壓器之曲線垂直投射面，不包括框架、外部接線與連接以及不影響聲音輻射之附加裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principal radiating surface is the surface obtained by the vertical projection of a string contour encircling the equipment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T101625Z" creationid="Judy" creationdate="20141206T101625Z">
@@ -53233,6 +53324,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T111026Z">
         <seg>本歐洲技術評估的審核與評估方法，假設鋼筋連接至少有 50 年的工作壽命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vertical projection shall be from the top of the cooler structure to the base of &lt;t1/&gt;the active parts (see Figure 4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134413Z" creationid="Judy" creationdate="20141206T134413Z">
+        <seg>垂直投影應由冷卻器結構頂端至活動零件基座 (請見圖 4)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vertical projection shall be from the top of the transformer structure to the base of the active part (see Figure 5).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T134445Z" creationid="Judy" creationdate="20141206T134445Z">
+        <seg>垂直投影應由變壓器結構頂端至活動零件基座 (請見圖 5)。</seg>
       </tuv>
     </tu>
     <tu>
