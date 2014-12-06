@@ -35308,6 +35308,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the many parameters to be considered when designing and siting transformers, reactors and their associated cooling equipment is the amount of sound that the equipment is &lt;t0/&gt;likely to emit under normal operating conditions on site.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003552Z" creationid="Judy" creationdate="20141206T003552Z">
+        <seg>設備於現場正常操作條件下發出音量等級為設計與安裝變壓器、電抗器以及其相關冷卻設備時必須考慮的其中一項參數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One pertinent recording (see clause 11) is normally sufficient for acceptance tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T123128Z" creationid="CCYU" creationdate="20141124T123128Z">
@@ -41657,6 +41665,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T044259Z">
         <seg>Sources of key data used to compile the data sheet: 資料表編寫之關鍵資料來源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sources of sound</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003604Z" creationid="Judy" creationdate="20141206T003604Z">
+        <seg>聲音來源</seg>
       </tuv>
     </tu>
     <tu>
