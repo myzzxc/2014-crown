@@ -50237,6 +50237,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The principal radiating surface is the surface obtained by the vertical projection of a string contour encircling the equipment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T101625Z" creationid="Judy" creationdate="20141206T101625Z">
+        <seg>主輻射面為包圍設備之曲線垂直投射面，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The principle followed in this standard is to provide minimum, non-criticai clearanc</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T143625Z" creationid="CCYU" creationdate="20141115T143625Z">
