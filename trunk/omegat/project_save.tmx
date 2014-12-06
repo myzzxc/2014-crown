@@ -66200,6 +66200,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>prescribed contour</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062118Z" creationid="Judy" creationdate="20141206T062118Z">
+        <seg>測定線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pressure &lt;t0/&gt;(&lt;t1/&gt;Pa or &lt;t2/&gt;Nm&lt;t3/&gt;-2&lt;t4/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124402Z">
