@@ -12440,6 +12440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current flowing in the winding conductors produces electromagnetic forces in the windings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005410Z" creationid="Judy" creationdate="20141206T005410Z">
+        <seg>繞組導體中所流通之電流於繞組中產生電磁力，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current recordings - Full-wave tests</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233551Z" creationid="CCYU" creationdate="20141126T233551Z">
@@ -25230,6 +25238,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084430Z">
         <seg>此外，某些研究使用 PIV 技術由多時相影像中產生位移圖 (Chambon 等人，2003 年)，藉由此功能可使用 PIV 進行單色空拍照微小網格的運動分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, stray magnetic fields may induce vibrations in structural components.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005451Z" creationid="Judy" creationdate="20141206T005451Z">
+        <seg>此外，雜散磁場可能引起結構元件振動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68392,6 +68408,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132156Z">
         <seg>非正常強磁場，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>use of low induction levels, have reduced the amount of sound generated in the core such that the sound caused by the electromagnetic forc&lt;t2/&gt;es may become significant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005252Z" creationid="Judy" creationdate="20141206T005252Z">
+        <seg>能降低核心所產生的聲音量，因此由電磁力所引起的聲音變得較為顯著。</seg>
       </tuv>
     </tu>
     <tu>
