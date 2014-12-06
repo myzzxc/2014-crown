@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'n</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055550Z" creationid="Judy" creationdate="20141206T055550Z">
+        <seg>In</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(...100, 125, 160, 200, 250, 315, 400, 500, 630, 800, 1 000, etc.) kVA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122300Z">
@@ -52533,6 +52541,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The unit is Wm~&lt;t0/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055457Z" creationid="Judy" creationdate="20141206T055457Z">
+        <seg>單位為 Wm&lt;t0/&gt;-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The upper boundary is a constant value of short-circuit impedance as a percentage, which is determined by the permissible voltage drop at a specified loading and at a specified power factor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T140442Z">
@@ -62664,6 +62680,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>component of the sound intensity in the direction normal to a measurement &lt;t0/&gt;surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055646Z" creationid="Judy" creationdate="20141206T055646Z">
+        <seg>垂直量測面之聲音強度分量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>components&lt;t0/&gt; of Cartesian coordinate system (m)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T101440Z">
@@ -64076,6 +64100,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110705Z">
         <seg>granulate 顆粒狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>h</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055730Z" creationid="Judy" creationdate="20141206T055730Z">
+        <seg>LI</seg>
       </tuv>
     </tu>
     <tu>
@@ -65500,6 +65532,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T130629Z" creationid="CCYU" creationdate="20141113T130629Z">
         <seg>局部放電等級於一小時期間無超過 250 pC；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal sound intensity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055534Z" creationid="Judy" creationdate="20141206T055534Z">
+        <seg>垂直聲音強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>normal sound intensity level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055655Z" creationid="Judy" creationdate="20141206T055655Z">
+        <seg>垂直聲音強度等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -69072,6 +69120,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T110727Z" creationid="CCYU" creationdate="20141102T110630Z">
         <seg>繞組頂部之液體輸送變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vector quantity describing the amount and direction of the net flow of sound energy at a given position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055438Z" creationid="Judy" creationdate="20141206T055438Z">
+        <seg>聲音能量於特定位置之淨流量，為包含方向和量之向量。</seg>
       </tuv>
     </tu>
     <tu>
