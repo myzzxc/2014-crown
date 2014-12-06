@@ -50389,6 +50389,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The projection runs from the top of the transform&lt;t0/&gt;er tank cover (excluding bushings, turrets and other accessories situated above the tank cover) to the base of the tank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T103215Z" creationid="Judy" creationdate="20141206T103215Z">
+        <seg>投影面由變壓器油槽蓋頂部 (不包括套管、回轉臺及其它油槽蓋上方之其他配件) 至油槽底部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The proper temperature is critical to insure correct thickness and good bonding of the coating.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040522Z">
