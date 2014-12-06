@@ -45637,6 +45637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amplitude of these vibrations depends on the flux density in the laminations and the magnetic properties of&lt;t1/&gt; the core steel, and is therefore independent of the load current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T004835Z" creationid="Judy" creationdate="20141206T004835Z">
+        <seg>此類振動之振幅取決於疊片內磁通量密度以及核心鋼材的磁性，與負載電流無關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The analysis should be performed according to IEC 61181 by &lt;t0/&gt;means of a high precision gas-chromatographic method.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T134910Z" creationid="CCYU" creationdate="20141105T134910Z">
