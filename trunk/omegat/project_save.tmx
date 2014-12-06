@@ -5557,6 +5557,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ability to &lt;t0/&gt;withstand short circuit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002816Z" creationid="Judy" creationdate="20141206T002816Z">
+        <seg>短路電流承受力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability to withstand short-circuit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031828Z" creationid="Judy" creationdate="20141122T031828Z">
@@ -14449,6 +14457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry-type transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002916Z" creationid="Judy" creationdate="20141206T002916Z">
+        <seg>乾式變壓器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ductility factor according to CEN/TS 1992-4-5 Section 6.3.2.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T053424Z">
@@ -20840,6 +20856,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031728Z" creationid="Judy" creationdate="20141122T030045Z">
         <seg>閃電脈衝和切換脈衝測試指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guide to the lightning impulse and switching impulse testing - Power transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002755Z" creationid="Judy" creationdate="20141206T002755Z">
+        <seg>第 4 部份：閃電脈衝和切換脈衝測試指南 - 電力變壓器和電抗器</seg>
       </tuv>
     </tu>
     <tu>
@@ -27715,6 +27739,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulation levels, dielectric tests and external clearances in air</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002731Z" creationid="Judy" creationdate="20141206T002731Z">
+        <seg>絕緣等級、介電試驗和外部空間間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insulation of auxiliary wiring (AuxW)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T160444Z" creationid="CCYU" creationdate="20141111T160444Z">
@@ -29712,6 +29744,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T124911Z">
         <seg>超出額定功率負載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading guide for oil-immersed power transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002903Z" creationid="Judy" creationdate="20141206T002903Z">
+        <seg>油浸式電力變壓器負載指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -36204,6 +36244,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Part 11:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002911Z" creationid="Judy" creationdate="20141206T002911Z">
+        <seg>第 11 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 13:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002922Z" creationid="Judy" creationdate="20141206T002922Z">
+        <seg>第 13 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 14:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003017Z" creationid="Judy" creationdate="20141206T003017Z">
+        <seg>第 14 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Part 1:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T025937Z" creationid="Judy" creationdate="20141122T025937Z">
@@ -36280,6 +36344,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T031812Z" creationid="Judy" creationdate="20141122T031812Z">
         <seg>第 5 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 6:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002823Z" creationid="Judy" creationdate="20141206T002823Z">
+        <seg>第 6 部分：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Part 7:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002848Z" creationid="Judy" creationdate="20141206T002848Z">
+        <seg>第 7 部分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40793,6 +40873,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154421Z">
         <seg>選擇器室油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Self protected liquid filled transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003012Z" creationid="Judy" creationdate="20141206T003012Z">
+        <seg>自保護型液浸式變壓器</seg>
       </tuv>
     </tu>
     <tu>
@@ -61161,6 +61249,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>and of a flashover between coarse and fine tapping windings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T222948Z" creationid="Judy" creationdate="20141204T222948Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and reactors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002803Z" creationid="Judy" creationdate="20141206T002803Z">
         <seg></seg>
       </tuv>
     </tu>
