@@ -12576,6 +12576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;esign and application of liquid-immersed power transformers using high-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003044Z" creationid="Judy" creationdate="20141206T003044Z">
+        <seg>使用高溫絕緣材料之液浸式電力變壓器設計和應用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D&lt;t0/&gt;isplacements under tension load&lt;t1/&gt;1)&lt;t2/&gt; (rebar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055404Z">
@@ -46269,6 +46277,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The committee has decided that the contents of this publication will remain unchanged until the maintenance result date indicated on the IEC web site u&lt;t0/&gt;nder "&lt;t1/&gt;http://webstore.iec.ch&lt;t2/&gt;" in the data related to the specific publication.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003118Z" creationid="Judy" creationdate="20141206T003118Z">
+        <seg>委員會決議此出版物的內容將保持不變直到 IEC 網站 "http://webstore.iec.ch"上與特定的出版物相關資料中所列之日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The committee has decided that the contents of this publication will remain unchanged until the stability date indicated on the IEC web site under "&lt;t0/&gt;http://webstore.iec.ch&lt;t1/&gt;" in the data related to the specific publ&lt;t2/&gt;ication.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T142540Z" creationid="CCYU" creationdate="20141107T142540Z">
@@ -66836,6 +66852,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124829Z">
         <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>temperature insulation materials</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003049Z" creationid="Judy" creationdate="20141206T003049Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
