@@ -64352,6 +64352,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hypothetical surface surrounding the test object which is assumed to be the surface from which sound is radiated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T062006Z" creationid="Judy" creationdate="20141206T062006Z">
+        <seg>測試物周圍之假想表面，假設為聲音發射之表面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>i</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T125957Z" creationid="CCYU" creationdate="20141112T125957Z">
@@ -66208,6 +66216,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>principal &lt;t0/&gt;radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061821Z" creationid="Judy" creationdate="20141206T061821Z">
+        <seg>主輻射面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>principal tapping</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T023824Z">
@@ -67492,6 +67508,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z">
         <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ten times the logarithm to the base 10 of the ratio of a given sound power to the reference sound power &lt;t0/&gt;(W&lt;t1/&gt;0&lt;t2/&gt; =&lt;t3/&gt; 1 x 10&lt;t4/&gt;-12&lt;t5/&gt; W).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061751Z" creationid="Judy" creationdate="20141206T061751Z">
+        <seg>聲音功率與參考聲音功率比取以 10 為底之對數乘以十 (W&lt;t0/&gt;0&lt;t1/&gt; = 1 x 10&lt;t2/&gt;-12&lt;t3/&gt; Wm&lt;t4/&gt;-2&lt;t5/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
