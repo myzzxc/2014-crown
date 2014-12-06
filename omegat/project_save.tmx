@@ -11968,6 +11968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consequently, the radiated sound power is strongly dependent on the load current.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005850Z" creationid="Judy" creationdate="20141206T005746Z">
+        <seg>因此，發出之聲音量與負載電流高度相關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consideration shall be given to the long term performance of items such as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034120Z">
@@ -47561,6 +47569,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150419Z">
         <seg>故障發生後，不得再使用暖腳機，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The force (and therefore the amplitude of the vibration&lt;t0/&gt;s) is proportional to the square of the current, and the radiated sound power is proportional to the square of the vibrational amplitude.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005819Z" creationid="Judy" creationdate="20141206T005721Z">
+        <seg>力 (即為振動幅度) 與電流平方成正比，而發出之聲音量與振幅平方成正比。</seg>
       </tuv>
     </tu>
     <tu>
