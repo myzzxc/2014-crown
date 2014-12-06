@@ -28619,6 +28619,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is expressed in decibels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T060750Z" creationid="Judy" creationdate="20141206T060750Z">
+        <seg>單位為分貝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is found that Impingement is the major heat transfer mechanism in the expansion and compression chambers, and the temperature distribution is highly non-uniform across the engine volume at any given moment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205226Z">
@@ -33760,6 +33768,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220334Z" creationid="Judy" creationdate="20141204T220334Z">
         <seg>根據 IEC 60060-1 以波尾衰減之切線來評估波形具有 19 % 超越量，導致振幅評估之誤差大於 10 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE When &lt;t0/&gt;I„&lt;t1/&gt; is negative, the level is expressed as -XX dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061108Z" creationid="Judy" creationdate="20141206T061108Z">
+        <seg>註 當 In 為負時，強度以 -XX dB 表示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66896,6 +66912,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sound power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061127Z" creationid="Judy" creationdate="20141206T061127Z">
+        <seg>音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sound pressure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T043708Z" creationid="Judy" creationdate="20141206T043208Z">
@@ -67436,6 +67460,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104825Z">
         <seg>溫度 (K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ten times the logarithm to the base 10 of the ratio of the normal sound intensity to the reference sound intensity (7&lt;t0/&gt;0&lt;t1/&gt; = 1 x 10&lt;t2/&gt;-12&lt;t3/&gt; Wm&lt;t4/&gt;-2&lt;t5/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T060746Z" creationid="Judy" creationdate="20141206T060746Z">
+        <seg>垂直聲音強度與參考聲音強度比取以 10 為底之對數乘以十 (I&lt;t0/&gt;0&lt;t1/&gt; = 1 x 10&lt;t2/&gt;-12&lt;t3/&gt; Wm&lt;t4/&gt;-2&lt;t5/&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
