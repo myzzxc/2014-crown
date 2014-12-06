@@ -18475,6 +18475,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all electrical plants, the consequence of the presence of higher harmonics on the power supply should be understood.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T011439Z" creationid="Judy" creationdate="20141206T011439Z">
+        <seg>於所有的電廠中，應了解電源上具有高次諧波的影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For all other transformers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T024155Z">
@@ -26207,6 +26215,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231957Z">
         <seg>移動式再生器中之多孔介質，固體材料為銅，其密度、熱導率以及比熱分別為 8954 &lt;t12/&gt;kgm&lt;t13/&gt;-3&lt;t14/&gt;、386 &lt;t15/&gt;Wm&lt;t16/&gt;-1&lt;t17/&gt;K&lt;t18/&gt;-1&lt;t19/&gt; 以及 383 Jkg&lt;t20/&gt;-1&lt;t21/&gt;K&lt;t22/&gt;-1&lt;t23/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In th&lt;t1/&gt;e case of iron-cored reactors, further vibrations are induced by forces acting in the magnetic circuit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T011154Z" creationid="Judy" creationdate="20141206T011154Z">
+        <seg>鐵磁心中，施加於磁路上之力將引起更多的振動。</seg>
       </tuv>
     </tu>
     <tu>
