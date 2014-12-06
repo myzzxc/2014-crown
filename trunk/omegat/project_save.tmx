@@ -28627,6 +28627,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is expressed in watts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061424Z" creationid="Judy" creationdate="20141206T061424Z">
+        <seg>單位為瓦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is found that Impingement is the major heat transfer mechanism in the expansion and compression chambers, and the temperature distribution is highly non-uniform across the engine volume at any given moment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205226Z">
@@ -64880,6 +64888,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>l&lt;t0/&gt;\n</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061635Z" creationid="Judy" creationdate="20141206T061635Z">
+        <seg>L&lt;t0/&gt;w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>large&lt;t0/&gt; transformers with high-current bus bar arrangements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T132412Z">
@@ -66296,6 +66312,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rate at which airborne sound energy is radiated by a source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061416Z" creationid="Judy" creationdate="20141206T061416Z">
+        <seg>音源之聲音能量傳遞率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>rated current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T160211Z">
@@ -66914,8 +66938,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>sound power</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061127Z" creationid="Judy" creationdate="20141206T061127Z">
-        <seg>音量</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061626Z" creationid="Judy" creationdate="20141206T061127Z">
+        <seg>聲音功率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sound power level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T061511Z" creationid="Judy" creationdate="20141206T061511Z">
+        <seg>聲音功率等級</seg>
       </tuv>
     </tu>
     <tu>
