@@ -2159,6 +2159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 = 0,16 (&lt;t0/&gt;VIT)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T073715Z" creationid="CCYU" creationdate="20141207T073715Z">
+        <seg>4 = 0,16 (&lt;t0/&gt;V/T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 Clearances</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T221918Z" creationid="Judy" creationdate="20141120T221918Z">
@@ -4409,6 +4417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T210230Z" creationid="Judy" creationdate="20141203T210230Z">
         <seg>A &lt;t0/&gt;繞組端子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A = aS&lt;t0/&gt;v</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071143Z" creationid="CCYU" creationdate="20141207T071143Z">
+        <seg>A = αS&lt;t0/&gt;v</seg>
       </tuv>
     </tu>
     <tu>
@@ -9109,6 +9125,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average acoustic absorption coefficient, &lt;t0/&gt;a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071521Z" creationid="CCYU" creationdate="20141207T071521Z">
+        <seg>平均吸音係數，&lt;t0/&gt;α</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Average and integrated quantities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194903Z">
@@ -13356,6 +13380,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T082655Z">
         <seg>Description of first aid measures: 急救措施說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of room</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071528Z" creationid="CCYU" creationdate="20141207T071459Z">
+        <seg>房間說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -18683,6 +18715,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a test room to be satisfactory, &lt;t0/&gt;AIS&lt;t1/&gt; shall be &gt;&lt;t2/&gt;1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091149Z" creationid="CCYU" creationdate="20141207T091149Z">
+        <seg>合格之測試室，&lt;t0/&gt;AIS&lt;t1/&gt; 應 ≥&lt;t2/&gt;1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a three-phase transformer, the mean value of readings in the three phases is taken.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T064514Z">
@@ -23618,6 +23658,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a measured value of the sound absorption area ^4 is desired, it may be determined by measuring the reverberation time of the test room which is excited by broad-band sound or an impulsive sound with A-weighting on the receiving system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T073631Z" creationid="CCYU" creationdate="20141207T073631Z">
+        <seg>若需要聲音吸收面積 A 之量測值，可量測測試室之回聲時間，回聲時間受寬頻聲音或接收系統之具有 A-加權的突波聲音所激發。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a mixture of impulse polarities are used then additional reference impulses will be required and the test sequence shall be agreed between the manufacturer and purchaser.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135738Z" creationid="CCYU" creationdate="20141113T135738Z">
@@ -24693,8 +24741,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>If the measurements can only be performed at a reduced current, the sound power level at the rated current shall be calculated by equation (5):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083852Z" creationid="Judy" creationdate="20141206T083852Z">
-        <seg>若僅能於降低電流下進行量測，於額定電流下之聲音功率等級應由等式 (5) 計算：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071006Z" creationid="Judy" creationdate="20141206T083852Z">
+        <seg>若僅能於降低電流下進行量測，於額定電流下之聲音功率等級應由公式 (5) 計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26229,8 +26277,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In order to decide whether it is &lt;t0/&gt;significant to perform load current sound measurements, the magnitude of the load current sound power level can be roughly estimated by equation (4):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074148Z" creationid="Judy" creationdate="20141206T074148Z">
-        <seg>為了決定是否需要進行負載電流音量量測，負載電流聲音功率等級之大小可由等式 (4) 估算：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071003Z" creationid="Judy" creationdate="20141206T074148Z">
+        <seg>為了決定是否需要進行負載電流音量量測，負載電流聲音功率等級之大小可由公式 (4) 估算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28588,6 +28636,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Irregularly shaped room with furniture, irregularly &lt;t0/&gt;shaped machinery room or industrial room</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072233Z" creationid="CCYU" creationdate="20141207T072233Z">
+        <seg>具有擺設且不規則形狀之房間、不規則形機械室或工業室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Irritating&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;Eyes&lt;t4/&gt; &lt;t5/&gt;Irritating&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;Skin</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T181505Z">
@@ -29665,6 +29721,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135547Z" creationid="CCYU" creationdate="20141028T135547Z">
         <seg>K：燃點 &lt; 300 °C 之絕緣液體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K&lt;t0/&gt; shall be obtained from equation (10) or Figure 6 by entering the abscissa with the appropriate value of &lt;t1/&gt;A/S.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071034Z" creationid="CCYU" creationdate="20141207T070834Z">
+        <seg>K&lt;t0/&gt; 應藉由輸入適當的 &lt;t1/&gt;A/S 值並由公式 (10) 或圖 6 計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34413,6 +34477,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nearly empty &lt;t0/&gt;room with smooth hard walls made of concrete, brick, plaster or tile</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072005Z" creationid="CCYU" creationdate="20141207T071933Z">
+        <seg>接近空房，光滑堅硬之混凝土、磚、石膏或磁磚牆面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nearly the same considerations apply for the adjustment of the switching impulse front time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215207Z" creationid="Judy" creationdate="20141203T215207Z">
@@ -37321,6 +37393,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T093414Z">
         <seg>Partition coefficient: n-octanol/water 分配係數：正辛醇 / 水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partly empty room with smooth walls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072035Z" creationid="CCYU" creationdate="20141207T072035Z">
+        <seg>部份空房，牆面光滑</seg>
       </tuv>
     </tu>
     <tu>
@@ -40343,6 +40423,38 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room with acoustic materials on both &lt;t0/&gt;ceilings and walls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072625Z" creationid="CCYU" creationdate="20141207T072625Z">
+        <seg>天花板和牆面皆具有吸音材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room with furniture, rectangular machinery room, rectangular industrial room</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072157Z" creationid="CCYU" creationdate="20141207T072157Z">
+        <seg>具有擺設之房間、矩形機械室、矩形工業室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room with large.amounts of acoustic material on ceilings and walls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072640Z" creationid="CCYU" creationdate="20141207T072640Z">
+        <seg>天花板和牆面具有大量吸音材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Room with upholstered furniture, machinery or industrial room with a small amount of acoustic material (for example partially absorptive ceiling) on ceiling or walls</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072529Z" creationid="CCYU" creationdate="20141207T072529Z">
+        <seg>具有軟面擺設之房間、機械室或工業室，天花板或牆面具有少量吸音材料 (例如部份吸音天花板)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Routine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164955Z" creationid="Judy" creationdate="20141109T164955Z">
@@ -40451,6 +40563,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025742Z" creationid="CCYU" creationdate="20141115T025742Z">
         <seg>S&lt;t0/&gt;r&lt;t1/&gt; 為阻抗‘z’之三相功率額定值，單位為伏特-安培。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;v&lt;t1/&gt; is the total area of the surface of the test room (walls, ceilings and floors) in square</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071351Z" creationid="CCYU" creationdate="20141207T071351Z">
+        <seg>S&lt;t0/&gt;v&lt;t1/&gt; 為測試室表面總面積 (牆面、天花板以及地板)，單位為平方公尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44055,6 +44175,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt; is the reverberation time of the test room in seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091103Z" creationid="CCYU" creationdate="20141207T091058Z">
+        <seg>T&lt;t0/&gt; 為測試室回聲時間，單位為秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T&lt;t0/&gt; time between the instant when the impulse is 30 % and 90 % of the peak value</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141129T132512Z" creationid="CCYU" creationdate="20141129T132512Z">
@@ -44291,6 +44419,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T155314Z">
         <seg>表 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table 1 - Approximate values of the average acoustic absorption coefficient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071427Z" creationid="CCYU" creationdate="20141207T071427Z">
+        <seg>表 1 - 平均吸音係數之近似值</seg>
       </tuv>
     </tu>
     <tu>
@@ -46737,32 +46873,32 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is calculated by equation (9):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T061010Z" creationid="CCYU" creationdate="20141207T061010Z">
-        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (9) 計算，單位為平方公尺：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071027Z" creationid="CCYU" creationdate="20141207T061010Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由公式 (9) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (6):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054615Z" creationid="CCYU" creationdate="20141207T054615Z">
-        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (6) 計算，單位為平方公尺：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071015Z" creationid="CCYU" creationdate="20141207T054615Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由公式 (6) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (7):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060111Z" creationid="CCYU" creationdate="20141207T060111Z">
-        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (7) 計算，單位為平方公尺：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071019Z" creationid="CCYU" creationdate="20141207T060111Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由公式 (7) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (8):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060434Z" creationid="CCYU" creationdate="20141207T060434Z">
-        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (8) 計算，單位為平方公尺：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071023Z" creationid="CCYU" creationdate="20141207T060434Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由公式 (8) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48031,6 +48167,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The environmental correction &lt;t0/&gt;K&lt;t1/&gt; accounts for the influence of undesired sound reflections from room boundaries and/or reflecting objects near the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T070249Z" creationid="CCYU" creationdate="20141207T070249Z">
+        <seg>環境校正係數 &lt;t0/&gt;K&lt;t1/&gt; 將室內邊界反射和測試物件附近之反射物的影響納入考量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The environmental impact of the transformer should be considered by both the manufacturer and the user over the lifetime of the unit from design to disposal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T070036Z">
@@ -48049,8 +48193,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The equation is valid for a reduced current of &gt;70 % of the rated current.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094814Z" creationid="Judy" creationdate="20141206T094814Z">
-        <seg>等式適用於降低電流 ≥70 % 額定電流時。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071009Z" creationid="Judy" creationdate="20141206T094814Z">
+        <seg>公式適用於降低電流 ≥70 % 額定電流時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49427,6 +49571,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T073102Z">
         <seg>磁化電流將變得極度不對並具有較高的諧波含量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The magnitude of &lt;t2/&gt;K&lt;t3/&gt; depends principally on the ratio of the sound absorption area of the test room, &lt;t4/&gt;A,&lt;t5/&gt; to the area of the measure&lt;t6/&gt;ment surface, &lt;t7/&gt;S.&lt;t8/&gt; The calculated magnitude of &lt;t9/&gt;K&lt;t10/&gt; does not depend strongly on the location of the test object in the test room.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T070626Z" creationid="CCYU" creationdate="20141207T070626Z">
+        <seg>&lt;t2/&gt;K&lt;t3/&gt; 的大小實際上取決於測試室之聲音吸收面積 &lt;t4/&gt;A&lt;t5/&gt; 以及量測面積 &lt;t7/&gt;S&lt;t8/&gt; 之比率，&lt;t9/&gt;K&lt;t10/&gt; 之計算值不受測試目標於測試室之位置強烈影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53431,6 +53583,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The value of &lt;t0/&gt;A&lt;t1/&gt; is&lt;t2/&gt; given in square metres by equation (12):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T073706Z" creationid="CCYU" creationdate="20141207T073706Z">
+        <seg>&lt;t0/&gt;A&lt;t1/&gt; 值可由公式 (12) 計算，單位為平方公尺：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of &lt;t0/&gt;S&lt;t1/&gt; shall be calculated from the appropriate equation (equation (6), (7), (8) or (9)).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071041Z" creationid="CCYU" creationdate="20141207T070953Z">
+        <seg>&lt;t0/&gt;S&lt;t1/&gt; 值應由適當的公式計算 (公式 (6)、(7)、(8) 或 (9))。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The value of &lt;t2/&gt;A&lt;t3/&gt; in square metres is given by equation (11):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071126Z" creationid="CCYU" creationdate="20141207T071126Z">
+        <seg>&lt;t2/&gt;A&lt;t3/&gt; 可由公式 (11) 計算，單位為平方公尺：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The value of &lt;t20/&gt;f′ &lt;t21/&gt;c &lt;t22/&gt;used for calculation must&lt;t23/&gt; &lt;t24/&gt;be limited to 8,000 psi (55 MPa) in accordance with ACI 318 &lt;t25/&gt;D.3.7.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T072311Z">
@@ -56863,6 +57039,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will give a value for the environmental correction factor &lt;t3/&gt;K&lt;t4/&gt; &lt;7 dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091239Z" creationid="CCYU" creationdate="20141207T091239Z">
+        <seg>如此可得到環境校正因子 &lt;t3/&gt;K&lt;t4/&gt; &lt;7 dB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This work was supported by the &lt;t0/&gt;Ministry of Science and Technology&lt;t1/&gt;, Taiwan, Republic of China, under the grant number &lt;t2/&gt;MOST&lt;t3/&gt; &lt;t4/&gt;103-2622-E-168-006-CC3&lt;t5/&gt;.&lt;t6/&gt; The authors are very grateful for the financial support.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T104654Z">
@@ -59140,6 +59324,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T164741Z">
         <seg>V/Hz 超出 5.4.3 規範；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V&lt;t0/&gt; is the volume of the test room in cubic metres;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091030Z" creationid="CCYU" creationdate="20141207T091030Z">
+        <seg>V&lt;t0/&gt; 為測試室之體積，單位為立方公尺；</seg>
       </tuv>
     </tu>
     <tu>
@@ -66322,6 +66514,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>metres.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071241Z" creationid="CCYU" creationdate="20141207T071241Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>mg/m3 Total dust</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140706Z">
@@ -70562,6 +70762,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T082328Z" creationid="CCYU" creationdate="20141102T082124Z">
         <seg>其中 ΔΘ&lt;t1/&gt;o&lt;t2/&gt; 為油槽內頂層液體溫度上升，&lt;t3/&gt;H&lt;t4/&gt; 為熱點因子而 &lt;t5/&gt;g&lt;t6/&gt; 為平均繞組與平均液體溫差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>where &lt;t0/&gt;a&lt;t1/&gt; is the average acoustic absorption coefficient (see Table 1);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071229Z" creationid="CCYU" creationdate="20141207T071229Z">
+        <seg>其中 &lt;t0/&gt;α&lt;t1/&gt; 為平均吸音係數 (請見表 1)；</seg>
       </tuv>
     </tu>
     <tu>
