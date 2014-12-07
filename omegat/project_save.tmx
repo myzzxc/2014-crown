@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/&lt;t0/&gt;m&lt;t1/&gt; ' is the length in metres of the prescribed contour;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T055907Z" creationid="CCYU" creationdate="20141207T055907Z">
+        <seg>l&lt;t0/&gt;m&lt;t1/&gt; 為測定線長度，單位為公尺；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/l3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080545Z" creationid="CCYU" creationdate="20141025T080545Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101752Z">
         <seg>1, slightly water-endangering product.&lt;t0/&gt;   (&lt;t1/&gt;German VwVwS of May 17, 1999&lt;t2/&gt; ) 輕微水污染威脅產品。 (1999 年 5 月 17 日德國 VwVwS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1,25 is an empirical factor intended to take account of the sound energy radiated by the upper part of the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060037Z" creationid="CCYU" creationdate="20141207T060037Z">
+        <seg>1,25 為經驗因子，用以將測試目標上半部份輻射之聲音能量納入考量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2251,6 +2267,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064620Z">
         <seg>4 操作裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 = &lt;t0/&gt;(h&lt;t1/&gt; + 2) /&lt;t2/&gt;m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060129Z" creationid="CCYU" creationdate="20141207T060129Z">
+        <seg>5 = &lt;t0/&gt;(h&lt;t1/&gt; + 2) l&lt;t2/&gt;m</seg>
       </tuv>
     </tu>
     <tu>
@@ -31413,6 +31437,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurements made at 2 m from the &lt;t0/&gt;principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060100Z" creationid="CCYU" creationdate="20141207T060100Z">
+        <seg>距離主輻射面 2 m 處進行量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurements made in conformity with this standard tend to result in standard deviations of reproducibility between determinations made in different laboratories which are less than or equal to 3 dB.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065042Z" creationid="Judy" creationdate="20141206T065042Z">
@@ -46571,6 +46603,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054615Z" creationid="CCYU" creationdate="20141207T054615Z">
         <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (6) 計算，單位為平方公尺：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (7):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060111Z" creationid="CCYU" creationdate="20141207T060111Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (7) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
