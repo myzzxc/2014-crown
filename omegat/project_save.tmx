@@ -27420,6 +27420,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, the application of a single correction factor does not suffice and measurements should be performed, whenever possibl&lt;t1/&gt;e, in surroundings where environmental correction is not necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232253Z" creationid="Judy" creationdate="20141207T232253Z">
+        <seg>此情況下，使用單一校正因子並不足夠，且量測應盡可能於無需進行環境校正的環境中進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, the high temperature gas from the expansion chamber cannot be cooled enough before it reaches the compression chamber; on the contrary, the cold gas from the compression chamber cannot be heated up enough before it reaches the expansion chamber.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T070234Z">
@@ -42951,6 +42959,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound intensity method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232300Z" creationid="Judy" creationdate="20141207T232300Z">
+        <seg>聲音強度方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155922Z">
@@ -45922,6 +45938,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>Test environment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T061336Z" creationid="CCYU" creationdate="20141207T061336Z">
+        <seg>測試環境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test envirpnment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232310Z" creationid="Judy" creationdate="20141207T232310Z">
         <seg>測試環境</seg>
       </tuv>
     </tu>
@@ -52951,6 +52975,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The test environment shall ideally provide a measurement&lt;t0/&gt; surface which lies inside a sound field, essentially undisturbed by reflections from nearby objects and the environment boundaries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232331Z" creationid="Judy" creationdate="20141207T232331Z">
+        <seg>理想測試環境中位於聲場內之量測表面必須不受附近物體及環境邊界反射干擾，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The test equipment used in lightning and switching impulse applications is basically the same.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T143718Z" creationid="Judy" creationdate="20141122T143718Z">
@@ -55163,6 +55195,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T050509Z">
         <seg>因此需要更詳盡的模型以改進數值分析的精確度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, reflecting objects (with the exception of the supporting surface) shall be removed as far as possible from the t&lt;t1/&gt;est object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232341Z" creationid="Judy" creationdate="20141207T232341Z">
+        <seg>因此，應盡可能將測試物體上之反射物體 (不包括支撐面) 移除。</seg>
       </tuv>
     </tu>
     <tu>
