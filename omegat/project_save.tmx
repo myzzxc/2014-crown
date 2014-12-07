@@ -6773,6 +6773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternative method for calculation of environmental correction &lt;t0/&gt;K</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T093452Z" creationid="CCYU" creationdate="20141207T093452Z">
+        <seg>環境校正係數 &lt;t0/&gt;K 之其它計算方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively if specified by the purchaser and in special cases such as one single phase transformer, or multiple tap-changers, or when the tapping-range is not symmetrical, the tap- position which gives the highest internal voltages (determined either by calculation or by performing low voltage impulse measurements) shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141113T222624Z" creationid="Judy" creationdate="20141113T222624Z">
