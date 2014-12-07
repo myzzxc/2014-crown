@@ -44759,6 +44759,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table 2 - Test acceptance criteria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231310Z" creationid="Judy" creationdate="20141207T231310Z">
+        <seg>表 2 - 測試合格標準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table 2 - Test voltage levels &lt;t0/&gt;(1 of 2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134819Z" creationid="CCYU" creationdate="20141110T134819Z">
@@ -47899,6 +47907,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105605Z">
         <seg>我們公司的核心產品為一種全天然可再生的產品，比起市場上其他任何產品吸油性更佳、更快且更加經濟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The corrected average A-weighted sound pressure level, L&lt;t0/&gt;pA&lt;t1/&gt; , shall be calculated by using equation (16):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231433Z" creationid="Judy" creationdate="20141207T231433Z">
+        <seg>校正平均 A-加權聲壓等級 L&lt;t0/&gt;pA&lt;t1/&gt; 應由公式 (16) 計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -56231,6 +56247,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This condition shall &lt;t0/&gt;be recorded in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231246Z" creationid="Judy" creationdate="20141207T231246Z">
+        <seg>並應於測試報告中記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This condition shall be recorded in the test &lt;t1/&gt;report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T225739Z" creationid="Judy" creationdate="20141207T225739Z">
@@ -62930,8 +62954,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>a&lt;t0/&gt; Unless Ap&lt;t1/&gt;A&lt;t2/&gt;o is less than the guaranteed value, in which case the test object</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231032Z" creationid="Judy" creationdate="20141207T231032Z">
-        <seg>a&lt;t0/&gt; 除非Unless Ap&lt;t1/&gt;A&lt;t2/&gt;o is less than the guaranteed value, in which case the test object</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231236Z" creationid="Judy" creationdate="20141207T231032Z">
+        <seg>a&lt;t0/&gt; 除非 LpA0 小於保證值，否則應視測試目標為符合保證等級，</seg>
       </tuv>
     </tu>
     <tu>
@@ -68572,8 +68596,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>should be considered to have met the guaranteed level.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231034Z" creationid="Judy" creationdate="20141207T231034Z">
-        <seg> should be considered to have met the guaranteed level.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231240Z" creationid="Judy" creationdate="20141207T231034Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
