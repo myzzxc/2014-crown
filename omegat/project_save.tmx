@@ -5789,6 +5789,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accept test</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230959Z" creationid="Judy" creationdate="20141207T230959Z">
+        <seg>接受測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accept to connect for flame proof enclosure.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054740Z" creationid="CCYU" creationdate="20141025T054740Z">
@@ -40223,6 +40231,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat test &lt;t0/&gt;a</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231014Z" creationid="Judy" creationdate="20141207T231014Z">
+        <seg>重複測試&lt;t0/&gt;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace &lt;t0/&gt;Servovalve&lt;t1/&gt; and LVDT</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032551Z" creationid="CCYU" creationdate="20141025T032551Z">
@@ -62912,6 +62928,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a&lt;t0/&gt; Unless Ap&lt;t1/&gt;A&lt;t2/&gt;o is less than the guaranteed value, in which case the test object</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231032Z" creationid="Judy" creationdate="20141207T231032Z">
+        <seg>a&lt;t0/&gt; 除非Unless Ap&lt;t1/&gt;A&lt;t2/&gt;o is less than the guaranteed value, in which case the test object</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>a&lt;t0/&gt;) Kind of transformer (for example transformer, auto-transfor&lt;t1/&gt;mer, series transformer, etc.).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015751Z">
@@ -68542,6 +68566,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T043058Z">
         <seg>雙繞組之短路阻抗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>should be considered to have met the guaranteed level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T231034Z" creationid="Judy" creationdate="20141207T231034Z">
+        <seg> should be considered to have met the guaranteed level.</seg>
       </tuv>
     </tu>
     <tu>
