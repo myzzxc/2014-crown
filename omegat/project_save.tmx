@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10498,6 +10498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151446Z" creationid="CCYU" creationdate="20141104T151446Z">
         <seg>計算值如表 C.1 所示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculation of the area of the measurement surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054348Z" creationid="CCYU" creationdate="20141207T054348Z">
+        <seg>量測表面積計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -31397,6 +31405,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurements made at 0,3 m from the principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054510Z" creationid="CCYU" creationdate="20141207T054510Z">
+        <seg>距離主輻射面 0,3 m 處進行量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurements made in conformity with this standard tend to result in standard deviations of reproducibility between determinations made in different laboratories which are less than or equal to 3 dB.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T065042Z" creationid="Judy" creationdate="20141206T065042Z">
@@ -46547,6 +46563,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T073945Z">
         <seg>核准之危險地區標示包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (6):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054615Z" creationid="CCYU" creationdate="20141207T054615Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (6) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
