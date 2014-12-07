@@ -34221,6 +34221,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE In the presence of reflecting surface&lt;t0/&gt;s (other than the supporting surface), the test environment may be improved by the use of absorbing panels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232851Z" creationid="Judy" creationdate="20141207T232851Z">
+        <seg>註 若有 (支撐面以外之) 反射面存在，可使用吸音板以改善測試環境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE It can also be helpful to record the PD pattern (phase angle, apparent charge and number) of any significant PD activity to aid evaluation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T155923Z">
@@ -42955,6 +42963,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T023020Z" creationid="Judy" creationdate="20141206T023020Z">
         <seg>聲音強度之定義為每單位面積之能量通過率，單位為瓦每平方公尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound intensity level measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232916Z" creationid="Judy" creationdate="20141207T232916Z">
+        <seg>聲音強度等級量測</seg>
       </tuv>
     </tu>
     <tu>
