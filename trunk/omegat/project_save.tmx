@@ -24739,6 +24739,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the higher of the two average A-weighted background noise pressure levels is less than 3 dB lower than the uncorrected average A-weighted sound pressure level, the measurements shall be declared invalid and the test repeated except in cases &lt;t0/&gt;where the uncorrected average A-weighted sound pressure level is less than the guaranteed'value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230041Z" creationid="Judy" creationdate="20141207T230041Z">
+        <seg>若較高的兩組平均背景噪音聲壓等級與未校正平均 A-加權聲壓等級之差異小於 3 dB ，則測試無效且需重新測試，除了未校正平均 A-加權聲壓等級低於保證值的情況以外，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the hot-spot winding temperature rise is not directly measured, an estimate of its value can be made starting from the results of the temperature rise &lt;t0/&gt;test or using either design data or results of tests performed on similar transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T092431Z" creationid="CCYU" creationdate="20141102T092431Z">
@@ -56162,6 +56170,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>This condition shall be recorded in the test &lt;t1/&gt;report.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T225739Z" creationid="Judy" creationdate="20141207T225739Z">
+        <seg>並應於測試報告中記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This condition shall be recorded in the test report.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230049Z" creationid="Judy" creationdate="20141207T230049Z">
         <seg>並應於測試報告中記錄。</seg>
       </tuv>
     </tu>
