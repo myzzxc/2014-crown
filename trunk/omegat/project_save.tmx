@@ -24362,6 +24362,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If residual d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104923Z" creationid="CCYU" creationdate="20141207T104923Z">
+        <seg>若有殘餘直流電流，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If servo valve continues to malfunction after all recommended corrective action procedures are performed, defective valve should be returned to Moog for repair.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134904Z" creationid="CCYU" creationdate="20141023T134858Z">
@@ -33501,6 +33509,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 3 When the test object is energized, it is advisable to delay sound measurements until a stable condition is attained.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104853Z" creationid="CCYU" creationdate="20141207T104853Z">
+        <seg>註 3 當測試目標通電時，建議稍待至環境穩定後進行量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 4 &lt;t0/&gt;For&lt;t1/&gt; open windings (see 3.1 0.5.) of a transformer, the rated current of the open windings is the rated&lt;t2/&gt; &lt;t3/&gt;power divided by the number of phases and by the rated voltage of the open winding:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111732Z">
@@ -40227,6 +40243,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T125654Z" creationid="CCYU" creationdate="20141124T125654Z">
         <seg>數位記錄器之輸入通道的取樣頻率和解析度規範與 7.5.3.1 之規範相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Residual d.c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T105046Z" creationid="CCYU" creationdate="20141207T105046Z">
+        <seg>殘餘直流電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -66094,6 +66118,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142825Z" creationid="CCYU" creationdate="20141104T142825Z">
         <seg>為關機瞬間液體與繞組溫差之估計值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is present, the sound level may be affected for a few minutes or, in extreme cases, for&lt;t0/&gt; several hours.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T105030Z" creationid="CCYU" creationdate="20141207T105030Z">
+        <seg>幾分鐘內之音量可能受影響，於極端情況下影響可能長達數小時。</seg>
       </tuv>
     </tu>
     <tu>
