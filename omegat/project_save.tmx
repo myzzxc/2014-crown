@@ -22391,6 +22391,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the sound intensity method allows accurate determinations to be made with up to two reflecting walls at least 1,2 m from the prescribed contour(s) of the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232547Z" creationid="Judy" creationdate="20141207T232547Z">
+        <seg>然而聲音強度方法於兩反射牆面距離測試目標之測定線至少 1,2 m 以外時仍能得到精確的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, their effects are much&lt;t10/&gt; &lt;t11/&gt;smaller compared to that of the impingement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T101240Z">
@@ -25303,6 +25311,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T155311Z">
         <seg>若零序阻抗有高、低限值之規範，應由買方提出，並可能會影響核心配置和三角繞組之規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are three reflecting walls, the distance of each wall from &lt;t2/&gt;the prescribed contour(s) shall be at least 1,8 m.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T232651Z" creationid="Judy" creationdate="20141207T232651Z">
+        <seg>若具有三面反射牆，各牆面距離測定線應至少 1,8 m 以上。</seg>
       </tuv>
     </tu>
     <tu>
