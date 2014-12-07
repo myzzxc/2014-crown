@@ -36285,6 +36285,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once stability has been reached, it is recommended that the time spent making measurements be minimized to avoid changes in the sound level caused by changes&lt;t1/&gt; in transformer temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T105349Z" creationid="CCYU" creationdate="20141207T105349Z">
+        <seg>當達到穩定時，建議儘量減少量測時間以避免變壓器溫度變化導致音量變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once they are locked in, they are there until they are broken down into environmentally friendly elements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z">
@@ -66118,6 +66126,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142825Z" creationid="CCYU" creationdate="20141104T142825Z">
         <seg>為關機瞬間液體與繞組溫差之估計值；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is indicated by the presence of odd harmonics in the sound spectrum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T105206Z" creationid="CCYU" creationdate="20141207T105206Z">
+        <seg>可由聲音頻譜中出現之奇諧波辨別。</seg>
       </tuv>
     </tu>
     <tu>
