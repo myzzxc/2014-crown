@@ -11984,6 +11984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conditions for indoor measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062450Z" creationid="CCYU" creationdate="20141207T062450Z">
+        <seg>室內量測條件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conditions for safe storage, including any incompatibilities</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122915Z">
@@ -19195,6 +19203,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For indoor measurements, the requirements of 11.1.2 shall be met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062343Z" creationid="CCYU" creationdate="20141207T062343Z">
+        <seg>室內量測應符合 11.1.2 之要求規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For information about rules and tests regarding the temperature rise of liquid-immersed transformers, see IEC 60076-2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T134634Z">
@@ -19440,6 +19456,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T155535Z">
         <seg>對於紅菜坪地滑的情形，位移量為 40–50 像素 (24–28 公尺)，其 RMS 誤差約為 0.25–0.3 像素 (0.15–0.18 公尺)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For outdoor measure&lt;t0/&gt;ments in a test area, the requirements of 11.1.3 shall be met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062415Z" creationid="CCYU" creationdate="20141207T062415Z">
+        <seg>於測試區域內之室外量測應符合 11.1.3 之要求規範。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33589,6 +33613,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE Care should be taken to ensure that the supporting surface does not radiate an appreciable sound energy due to vibration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062951Z" creationid="CCYU" creationdate="20141207T062951Z">
+        <seg>註 應注意確保支撐面不因振動發出聲音能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE Certain installation conditions, particularly where energisation of the transformer is from the remote end of a cable or a long overhead li&lt;t0/&gt;ne, can lead to severe exposure to overvoltages which might be frequent and repetitive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T125752Z" creationid="CCYU" creationdate="20141110T125752Z">
@@ -39435,6 +39467,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084918Z">
         <seg>Reference to other sections: 其他章節之參考資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reflecting planes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062455Z" creationid="CCYU" creationdate="20141207T062455Z">
+        <seg>反射平面</seg>
       </tuv>
     </tu>
     <tu>
@@ -46431,6 +46471,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The acoustic absorption coefficient shall preferably &lt;t0/&gt;be less than 0,1 over the frequency range concerned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T063116Z" creationid="CCYU" creationdate="20141207T063101Z">
+        <seg>頻率範圍內之吸音係數盡可能低於 0,1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The actual charge transferred at the site of a partial discharge cannot be measured directh instead the apparent charge &lt;t0/&gt;q&lt;t1/&gt; as defined in IEC 60270 is measured at the terminal a determined by a suitable calibration, see A.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T114117Z" creationid="CCYU" creationdate="20141116T162428Z">
@@ -51051,6 +51099,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T064500Z" creationid="CCYU" creationdate="20141115T064500Z">
         <seg>參考突波電壓之間應至少具有 10 % (相對 100 % 電壓) 之差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reflecting plane is usually the floor of the room &lt;t0/&gt;and shall be larger than the projection of the measurement surface upon it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062631Z" creationid="CCYU" creationdate="20141207T062631Z">
+        <seg>反射面通常為室內地板，其應大於測量面之投影。</seg>
       </tuv>
     </tu>
     <tu>
