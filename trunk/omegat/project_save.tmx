@@ -5415,8 +5415,8 @@
       <tuv lang="EN-US">
         <seg>A-weighted sound pressure level with the test object inoperative</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063131Z" creationid="Judy" creationdate="20141206T063131Z">
-        <seg>測試目標未運轉時之 A-權重音壓等級</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095410Z" creationid="Judy" creationdate="20141206T063131Z">
+        <seg>測試目標未運轉時之 A-加權音壓等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -31701,6 +31701,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurements shall not be made under extreme &lt;t0/&gt;meteorological conditions, for example, in the presence of temperature gradients, wind gradients, precipitation or high humidity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095241Z" creationid="CCYU" creationdate="20141207T095241Z">
+        <seg>不得於極端氣候條件下進行量測，例如溫度不均、風速不均、降雨或高濕度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurements using a pocket in the cover may be disturbed by eddy current heating</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132423Z" creationid="CCYU" creationdate="20141101T132423Z">
@@ -42783,6 +42791,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound pressure level measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095255Z" creationid="CCYU" creationdate="20141207T095255Z">
+        <seg>聲壓等級量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound pressure measurements shall be made using a type 1 sound level meter complying with&lt;t0/&gt; IEC 61672-1 and IEC 61672-2 and calibrated in accordance with 5.2 of ISO 3746.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T063625Z" creationid="Judy" creationdate="20141206T063625Z">
@@ -49959,6 +49975,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measurements shall be taken when the background noise is approximately constant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095517Z" creationid="CCYU" creationdate="20141207T095359Z">
+        <seg>量測必須於背景噪音約為恆定時進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measuring equipment may be connected to the measuring impedance by a matche coaxial cable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141117T112741Z" creationid="Judy" creationdate="20141117T112741Z">
@@ -56097,8 +56121,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This has resulted in a number of internationally standardized weightings of which the A- weighting network is the most common.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T022838Z" creationid="Judy" creationdate="20141206T022746Z">
-        <seg>靈敏度具有許多國際標準化權重方式，其中最常用的為 A-權重 (A-weighting) 電路。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095445Z" creationid="Judy" creationdate="20141206T022746Z">
+        <seg>靈敏度具有許多國際標準化加權方式，其中最常用的為 A-加權 (A-weighting) 電路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63178,8 +63202,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>at reduced current;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094549Z" creationid="Judy" creationdate="20141206T094549Z">
-        <seg>為降低電流下之 A-權重聲音功率等級；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095455Z" creationid="Judy" creationdate="20141206T094549Z">
+        <seg>為降低電流下之 A-加權聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -64244,8 +64268,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>current;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094611Z" creationid="Judy" creationdate="20141206T084021Z">
-        <seg>為額定電流下之 A-權重聲音功率等級；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095450Z" creationid="Judy" creationdate="20141206T084021Z">
+        <seg>為額定電流下之 A-加權聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -65660,8 +65684,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>i&lt;t0/&gt;WA&lt;t1/&gt; &lt;t2/&gt;in&lt;t3/&gt; is the A-weighted sound power level of the transformer at rated current, rated frequency and impedance voltage;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074336Z" creationid="Judy" creationdate="20141206T074336Z">
-        <seg>L&lt;t0/&gt;WA&lt;t1/&gt;,&lt;t2/&gt;in&lt;t3/&gt; 為變壓器於額定電流、額定頻率以及阻抗電壓下之 A-權重聲音功率等級；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T095420Z" creationid="Judy" creationdate="20141206T074336Z">
+        <seg>L&lt;t0/&gt;WA&lt;t1/&gt;,&lt;t2/&gt;in&lt;t3/&gt; 為變壓器於額定電流、額定頻率以及阻抗電壓下之 A-加權聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
