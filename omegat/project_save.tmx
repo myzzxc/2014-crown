@@ -32925,6 +32925,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 When the total number of measuring positions exceeds 10, it is permissible to measure the background noise level at only 10 positions e&lt;t0/&gt;qually distributed around the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T103542Z" creationid="CCYU" creationdate="20141207T103542Z">
+        <seg>註 1 當量測位置數超過 10 時，可僅於均勻分佈於測試目標周圍之 10 個位置量測背景噪音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 When voltage is induced in a winding with no neutral connection, the voltages with respect to earth at each terminal of this winding will depend on the capacitances to earth and other win&lt;t0/&gt;dings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T134020Z" creationid="CCYU" creationdate="20141112T134020Z">
