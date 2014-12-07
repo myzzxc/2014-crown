@@ -24755,6 +24755,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the initial and final average background noise pressure levels differ by more than 3 dB and the higher value is less than 8 dB lower than the uncorrected average A-weighted sound pressure level, the measurements shall be declared invalid and the &lt;t0/&gt;test repeated except in cases where the uncorrected average A-weighted sound pressure level is less than the guaranteed value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T225544Z" creationid="Judy" creationdate="20141207T225544Z">
+        <seg>若初始與最終平均背景噪音聲壓等級差異大於 3 dB 且低於未校正平均 A-加權聲壓等級超過 8 dB 時，則測試無效，且除了未校正平均 A-加權聲壓等級低於保證值的情況以外需重新測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the installation site is more than 1 000 m above sea-level but the factory is not, then the allowable temperature rises during the test in the factory shall be reduced as follows:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T125253Z" creationid="CCYU" creationdate="20141030T125253Z">
