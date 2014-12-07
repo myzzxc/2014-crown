@@ -49031,6 +49031,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The height(s) of the microphone(s) during the background noise measurements shall be the same as for the measurements of the t&lt;t1/&gt;est object sound levels; the background noise measurements shall be taken at points on the prescribed contour(s).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T103337Z" creationid="CCYU" creationdate="20141207T103337Z">
+        <seg>背景噪音量測之麥克風高度應與測試目標音量量測時相同；應於測定線上量測背景噪音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The high-voltage winding phasor diagram is oriented with phase I pointing at 12 o'clock.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153611Z">
