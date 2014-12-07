@@ -18643,6 +18643,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For North American applications, sound levels shall be measured with and without the cooling equipment in operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104403Z" creationid="CCYU" creationdate="20141207T104403Z">
+        <seg>應用於北美洲時，應量測冷卻設備運轉與停機之音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For North American applications, the sound level tests shall be made at no-load in accordance with national requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T073801Z" creationid="Judy" creationdate="20141206T073801Z">
@@ -70266,6 +70274,38 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T213501Z" creationid="Judy" creationdate="20141203T213501Z">
         <seg>變壓器 X 接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment and any oil-circulating pumps in service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104224Z" creationid="CCYU" creationdate="20141207T104224Z">
+        <seg>變壓器通電，冷卻設備及所有油循環泵運轉；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment and any oil-circulating pumps out of service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104207Z" creationid="CCYU" creationdate="20141207T104207Z">
+        <seg>變壓器通電，冷卻設備及所有油循環泵停機；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment out of service, oil-ci&lt;t0/&gt;rculating pumps in service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104245Z" creationid="CCYU" creationdate="20141207T104245Z">
+        <seg>變壓器通電，冷卻設備停機，油循環泵運轉；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer unenergized, cooling equipment and any oil-circulating pumps in service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104259Z" creationid="CCYU" creationdate="20141207T104259Z">
+        <seg>變壓器斷電，冷卻設備及所有油循環泵運轉；</seg>
       </tuv>
     </tu>
     <tu>
