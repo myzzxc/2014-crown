@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/&lt;t0/&gt;m&lt;t1/&gt; is the length in metres of the prescribed contour;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060355Z" creationid="CCYU" creationdate="20141207T060355Z">
+        <seg>l&lt;t0/&gt;m&lt;t1/&gt; 為測定線長度，單位為公尺；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/l3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080545Z" creationid="CCYU" creationdate="20141025T080545Z">
@@ -1759,6 +1767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 is the measurement distance in metres.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060415Z" creationid="CCYU" creationdate="20141207T060415Z">
+        <seg>2 為量測距離，單位為公尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 min for &lt;t0/&gt;transformers &lt; 100 MVA;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125229Z" creationid="CCYU" creationdate="20141104T125229Z">
@@ -2273,8 +2289,8 @@
       <tuv lang="EN-US">
         <seg>5 = &lt;t0/&gt;(h&lt;t1/&gt; + 2) /&lt;t2/&gt;m</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060129Z" creationid="CCYU" creationdate="20141207T060129Z">
-        <seg>5 = &lt;t0/&gt;(h&lt;t1/&gt; + 2) l&lt;t2/&gt;m</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060504Z" creationid="CCYU" creationdate="20141207T060129Z">
+        <seg>S = &lt;t0/&gt;(h&lt;t1/&gt; + 2) l&lt;t2/&gt;m</seg>
       </tuv>
     </tu>
     <tu>
@@ -2395,6 +2411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T070009Z">
         <seg>5 清潔和維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5= (A+ 1)/&lt;t0/&gt;m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060527Z" creationid="CCYU" creationdate="20141207T060454Z">
+        <seg>S= (h + 1)l&lt;t0/&gt;m</seg>
       </tuv>
     </tu>
     <tu>
@@ -31269,6 +31293,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measuremen&lt;t0/&gt;ts made at 1 m from the principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060428Z" creationid="CCYU" creationdate="20141207T060428Z">
+        <seg>距離主輻射面 1 m 處進行量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of &lt;t0/&gt;d.c.&lt;t1/&gt; insulation resistance between each winding to earth and between windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152926Z">
@@ -46611,6 +46643,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060111Z" creationid="CCYU" creationdate="20141207T060111Z">
         <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (7) 計算，單位為平方公尺：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The area &lt;t0/&gt;S&lt;t1/&gt; of the measurement surface, expressed in square metres, is given by equation (8):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060434Z" creationid="CCYU" creationdate="20141207T060434Z">
+        <seg>量測表面積 &lt;t0/&gt;S&lt;t1/&gt; 可由等式 (8) 計算，單位為平方公尺：</seg>
       </tuv>
     </tu>
     <tu>
@@ -64874,10 +64914,18 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>h&lt;t0/&gt; is either the height in metres of the transformer tank (Figure 2 or 3), or the height in metres of the cooling auxiliaries including fans (Figure 4);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060345Z" creationid="CCYU" creationdate="20141207T060311Z">
+        <seg>h&lt;t0/&gt; 為變壓器油槽高度，單位為公尺 (圖 2 或 3)，或冷卻輔助設備包含風扇之高度 (圖 4) 單位為公尺；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>h&lt;t0/&gt; is either the height in metres of the transformer tank (Figures 1, 2 or 3) or, for dry-type transformers without enclosures (Figure 5), the height&lt;t1/&gt; in metres of the core and its framework;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T055820Z" creationid="CCYU" creationdate="20141207T055820Z">
-        <seg>h&lt;t0/&gt; 為變壓器油槽高度，單位為公尺 (圖 1、2 或 3)；無機箱乾式變壓器 (圖 5)，高度為核心及其框架，單位為公尺；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060337Z" creationid="CCYU" creationdate="20141207T055820Z">
+        <seg>h&lt;t0/&gt; 為變壓器油槽高度，單位為公尺 (圖 1、2 或 3)，或無機箱乾式變壓器 (圖 5) 之核心及其框架高度，單位為公尺；</seg>
       </tuv>
     </tu>
     <tu>
