@@ -46673,8 +46673,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The acoustic absorption coefficient shall preferably &lt;t0/&gt;be less than 0,1 over the frequency range concerned.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T063116Z" creationid="CCYU" creationdate="20141207T063101Z">
-        <seg>頻率範圍內之吸音係數盡可能低於 0,1，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094512Z" creationid="CCYU" creationdate="20141207T063101Z">
+        <seg>受測頻率範圍內之吸音係數盡可能低於 0,1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The acoustic absorption coefficient shall preferably be less than 0,1 over the frequency range of interest.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094508Z" creationid="CCYU" creationdate="20141207T094508Z">
+        <seg>受測頻率範圍內之吸音係數盡可能低於 0,1，</seg>
       </tuv>
     </tu>
     <tu>
@@ -51321,8 +51329,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The reflecting plane is usually the floor of the room &lt;t0/&gt;and shall be larger than the projection of the measurement surface upon it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T062631Z" creationid="CCYU" creationdate="20141207T062631Z">
-        <seg>反射面通常為室內地板，其應大於測量面之投影。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094432Z" creationid="CCYU" creationdate="20141207T062631Z">
+        <seg>反射面通常為室內地板，其尺寸應大於測量面之投影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reflecting plane shall be either undisturbed earth or an artificial surface such as concrete or sealed asphal&lt;t0/&gt;t and shall be larger than the projection of the measurement surface upon it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094437Z" creationid="CCYU" creationdate="20141207T094413Z">
+        <seg>反射面應為無干擾地面或混凝土、密封瀝青等人造表面，其尺寸應大於測量面之投影。</seg>
       </tuv>
     </tu>
     <tu>
