@@ -27340,6 +27340,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T093731Z" creationid="CCYU" creationdate="20141207T093731Z">
+        <seg>此情況下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this check, voltage may&lt;t1/&gt; be determined by means of a sphere gap or by comparative measurement with another approved device.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T153430Z" creationid="Judy" creationdate="20141122T153430Z">
@@ -29733,10 +29741,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K ~&lt;t0/&gt; A/Vm &lt;t1/&gt;—&lt;t2/&gt; A/Vr</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T093814Z" creationid="CCYU" creationdate="20141207T093814Z">
+        <seg>K = LWm - LWr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>K: insulating liquid with fire point &gt; 300 °C;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T135547Z" creationid="CCYU" creationdate="20141028T135547Z">
         <seg>K：燃點 &lt; 300 °C 之絕緣液體；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>K&lt;t0/&gt; may be calcu&lt;t1/&gt;lated by determining the apparent sound power level of a reference sound source which has previously been calibrated in a free field over a reflecting plane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T093721Z" creationid="CCYU" creationdate="20141207T093721Z">
+        <seg>K&lt;t0/&gt; 可由經無反射平面開放空間校正之參考聲源的聲音功率等級來計算，</seg>
       </tuv>
     </tu>
     <tu>
