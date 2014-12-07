@@ -4397,6 +4397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt;8 dB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230918Z" creationid="Judy" creationdate="20141207T230918Z">
+        <seg>≥8 dB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt;93 % - Readily -&lt;t0/&gt; &lt;t1/&gt;-&lt;t2/&gt;              &lt;t3/&gt; -</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T025944Z">
@@ -13236,6 +13244,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T145223Z">
         <seg>Date of printing&lt;t0/&gt;       &lt;t1/&gt;: Date of revision&lt;t2/&gt;       &lt;t3/&gt;:  印刷日期：修訂日期：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decisi&lt;t0/&gt;on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230902Z" creationid="Judy" creationdate="20141207T230902Z">
+        <seg>判定</seg>
       </tuv>
     </tu>
     <tu>
@@ -28028,6 +28044,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initial&lt;t0/&gt; &lt;t1/&gt;Va &lt;t2/&gt;- &lt;t3/&gt;flnal&lt;t4/&gt;VA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230846Z" creationid="Judy" creationdate="20141207T230846Z">
+        <seg>初始 LbgA - 最終 LbgA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Initially, the full impulse voltage is applied across the winding and resistance in series; therefore, the stress across the winding will be reduced.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T213431Z" creationid="Judy" creationdate="20141203T213431Z">
@@ -33381,6 +33405,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 While the stand&lt;t0/&gt;ard permits a small difference between the background noise level and the combined sound level of the background and the test object, every effort should be made to obtain a difference of at least 6 dB.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230442Z" creationid="Judy" creationdate="20141207T230442Z">
+        <seg>註 2 當標準允許較小的背景噪音量以及測試目標音量和背景噪音量之結合的差異時，最小差異應至少為 6 dB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 3 .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T063535Z" creationid="CCYU" creationdate="20141102T063535Z">
@@ -33561,6 +33593,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T133303Z" creationid="CCYU" creationdate="20141030T133303Z">
         <seg>註 3 當標準變壓器用於高海拔時，可計算由冷卻及溫度上升觀點對應至正常環境條件下，以額定功率運作之降低功率值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE 3 When the difference between the background noi&lt;t0/&gt;se level and the combined sound level is less than 3 dB, consideration should be given to using an alternative measurement method (see Clause 12 and Annex A).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230647Z" creationid="Judy" creationdate="20141207T230647Z">
+        <seg>註 3 當背景噪音量以及測試目標音量和背景噪音量之結合的差異小於 3 dB 時，應考慮使用替代量測方法 (請見第 12 節和附錄 A)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46831,6 +46871,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The above requirements are summarized in Table 2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230703Z" creationid="Judy" creationdate="20141207T230703Z">
+        <seg>表 2 總結了上述要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The absolute value of the positive work is larger than that of the negative work, giving rise to positive &lt;t0/&gt;net work&lt;t1/&gt; output to the engine’s shaft.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T200349Z">
@@ -59676,6 +59724,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091030Z" creationid="CCYU" creationdate="20141207T091030Z">
         <seg>V&lt;t0/&gt; 為測試室之體積，單位為立方公尺；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>V&gt; - &lt;t0/&gt;the higher&lt;t1/&gt; &lt;t2/&gt;Va</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230817Z" creationid="Judy" creationdate="20141207T230817Z">
+        <seg>LpA0 - 較高的 LbgA</seg>
       </tuv>
     </tu>
     <tu>
