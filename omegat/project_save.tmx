@@ -6775,8 +6775,8 @@
       <tuv lang="EN-US">
         <seg>Alternative method for calculation of environmental correction &lt;t0/&gt;K</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T093452Z" creationid="CCYU" creationdate="20141207T093452Z">
-        <seg>環境校正係數 &lt;t0/&gt;K 之其它計算方法</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094704Z" creationid="CCYU" creationdate="20141207T093452Z">
+        <seg>環境校正因子 &lt;t0/&gt;K 之其它計算方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -10600,8 +10600,8 @@
       <tuv lang="EN-US">
         <seg>Calculation of environmental correction &lt;t0/&gt;K</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T063347Z" creationid="CCYU" creationdate="20141207T063328Z">
-        <seg>環境校正係數 &lt;t0/&gt;K 之計算</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094656Z" creationid="CCYU" creationdate="20141207T063328Z">
+        <seg>環境校正因子 &lt;t0/&gt;K 之計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110652Z">
         <seg>下列為根據 IEC 60721-3-4:1995 定義之環境條件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environmental correction &lt;t0/&gt;K</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094719Z" creationid="CCYU" creationdate="20141207T094649Z">
+        <seg>環境校正因子 &lt;t0/&gt;K</seg>
       </tuv>
     </tu>
     <tu>
@@ -48233,8 +48241,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>The environmental correction &lt;t0/&gt;K&lt;t1/&gt; accounts for the influence of undesired sound reflections from room boundaries and/or reflecting objects near the test object.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T070249Z" creationid="CCYU" creationdate="20141207T070249Z">
-        <seg>環境校正係數 &lt;t0/&gt;K&lt;t1/&gt; 將室內邊界反射和測試物件附近之反射物的影響納入考量。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094659Z" creationid="CCYU" creationdate="20141207T070249Z">
+        <seg>環境校正因子 &lt;t0/&gt;K&lt;t1/&gt; 將室內邊界反射和測試物件附近之反射物的影響納入考量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56817,8 +56825,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>This requirement is usually fulfilled when indoor measurements are made over concrete, resin, steel or hard tile flooring.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T063249Z" creationid="CCYU" creationdate="20141207T063249Z">
-        <seg>通常於水泥、樹脂或硬磁磚地板之室內進行量測時能符合此要求。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094541Z" creationid="CCYU" creationdate="20141207T063249Z">
+        <seg>通常於混凝土、樹脂或硬磁磚地板之室內進行量測時能符合此要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This requirement is usually fulfilled when outdoor measurements are &lt;t0/&gt;made over concrete, sealed asphalt, sand or stone surfaces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094627Z" creationid="CCYU" creationdate="20141207T094536Z">
+        <seg>通常於混凝土、密封瀝青、砂質或石頭表面進行量測時能符合此要求。</seg>
       </tuv>
     </tu>
     <tu>
