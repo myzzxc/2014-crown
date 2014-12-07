@@ -46175,6 +46175,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;A-weighted sound pressure level of the background noise shall be measured immediately before the measurements on the test object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T103030Z" creationid="CCYU" creationdate="20141207T102932Z">
+        <seg>背景噪音之 A-加權聲壓等級應於量測測試目標前後立即量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;Ircon&lt;t1/&gt; Sensors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043713Z">
