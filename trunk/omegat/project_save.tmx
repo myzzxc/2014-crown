@@ -33077,6 +33077,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 If the background noise pressure level is clearly much lower than the combined sound pressure level of the background noise and the test object (that is, if the difference is more than 10 dB), measurements &lt;t0/&gt;of the background noise may be made at only one of the measuring positions and no correction of the measured sound level of the equipment is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T103941Z" creationid="CCYU" creationdate="20141207T103941Z">
+        <seg>註 2 若背景噪音聲壓明顯低於結合測試目標與背景噪音之聲壓等級時 (即差異大於 10 dB 時)，可僅於其中一個量測點量測背景噪音且無須校正量測之設備音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 In a separate winding tr&lt;t0/&gt;ansformer, the tapping with the highest load loss is normally the tapping with the maximum current.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141029T133533Z" creationid="CCYU" creationdate="20141029T133533Z">
@@ -50671,6 +50679,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The permissible combinat&lt;t0/&gt;ions are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104103Z" creationid="CCYU" creationdate="20141207T104103Z">
+        <seg>以下為允許之組合：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The phase-to-earth voltages at the non-tested terminals can be much higher than 0,5 &lt;t9/&gt;U.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152929Z" creationid="CCYU" creationdate="20141124T152929Z">
@@ -52931,6 +52947,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021847Z" creationid="CCYU" creationdate="20141115T021847Z">
         <seg>測試電壓等級及詳細測試配置應由雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test object shall be energized as agreed by the manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104043Z" creationid="CCYU" creationdate="20141207T104043Z">
+        <seg>測試目標應由製造商和買方協定通電，</seg>
       </tuv>
     </tu>
     <tu>
