@@ -14857,6 +14857,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the correlation of no- load and load current sound, the actual sound power level in service, &lt;t0/&gt;Twa.sn.&lt;t1/&gt; will be lower than that obtained by the above equation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T224431Z" creationid="Judy" creationdate="20141208T224431Z">
+        <seg>由於空載和負載之校正，實際運轉之聲音功率等級 L&lt;t0/&gt;WA,SN&lt;t1/&gt; 將低於上述公式所得之數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to the eccentric location of the power cylinders, Fig. 9 again shows that the local heat ﬂux distribution is not axisymmetric, especially near both entrances of the regenerative channel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T194815Z">
@@ -16709,6 +16717,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T021800Z" creationid="Judy" creationdate="20141206T021800Z">
         <seg>風扇和泵會因為強制使空氣或油流動而產生噪音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Far-field calculations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T224648Z" creationid="Judy" creationdate="20141208T224648Z">
+        <seg>開放空間計算</seg>
       </tuv>
     </tu>
     <tu>
@@ -48451,6 +48467,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T075031Z" creationid="CCYU" creationdate="20141108T075031Z">
         <seg>完整變壓器之介電測試需檢查元件正確使用及安裝，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The differ&lt;t2/&gt;ences, however, are within the measuring uncertainties,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T224524Z" creationid="Judy" creationdate="20141208T224524Z">
+        <seg>但差異仍落於量測不確定性之範圍內。</seg>
       </tuv>
     </tu>
     <tu>
