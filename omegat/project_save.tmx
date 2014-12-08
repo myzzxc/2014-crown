@@ -30117,6 +30117,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>L&lt;t0/&gt; wa.in&lt;t1/&gt; &lt;t2/&gt;is&lt;t3/&gt; the A-weighted rated current sound power level (see 6.3 or 6.4).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T223841Z" creationid="Judy" creationdate="20141208T223841Z">
+        <seg>L&lt;t0/&gt;WA,IN&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;為 A-加權額定電流聲音功率等級 (請見 6.3 或 6.4)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>L&lt;t0/&gt;W&lt;t1/&gt;a,sn '&lt;t2/&gt;s&lt;t3/&gt; -the A-weighted sound power level of the transformer at sinusoidal rated voltage, sinusoidal rated cur&lt;t4/&gt;rent and rated frequency (load sound level);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T223556Z" creationid="Judy" creationdate="20141208T223556Z">
