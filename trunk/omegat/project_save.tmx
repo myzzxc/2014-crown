@@ -8525,6 +8525,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an approximate calculation, assuming free-field conditions over a reflecting plane, the A- weighted sound pressure level, Z,&lt;t0/&gt;pAR&lt;t1/&gt;, at a distance &lt;t2/&gt;R&lt;t3/&gt; in metres from the geometrica&lt;t4/&gt;l centre of the equipment is given by equation (24):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225055Z" creationid="Judy" creationdate="20141208T225055Z">
+        <seg>假設無反射面之開放空間環境下以作近似運算，距離設備幾何中心 R (公尺) 之 A-加權聲壓等級 L&lt;t0/&gt;pAR&lt;t1/&gt; 可由公式 (24) 計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As argued in &lt;t17/&gt;Mahkamov&lt;t18/&gt; &lt;t19/&gt;[10], this effect is insignificant compared with other heat&lt;t20/&gt; &lt;t21/&gt;transfer effects in Stirling engine, thus it can be neglected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T021036Z">
@@ -41039,6 +41047,15 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;h&lt;t1/&gt; = &lt;t2/&gt;2nR&lt;t3/&gt;2&lt;t4/&gt; is the area of the surface of a hemisphere of radius &lt;t5/&gt;R,&lt;t6/&gt; and &lt;t7/&gt;R&lt;t8/&gt; is greater than 30 m; Z&lt;t9/&gt;WA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225304Z" creationid="Judy" creationdate="20141208T225304Z">
+        <seg>S&lt;t0/&gt;h&lt;t1/&gt; = &lt;t2/&gt;2πR&lt;t3/&gt;2&lt;t4/&gt; 為半徑 &lt;t5/&gt;R&lt;t6/&gt; 之半球表面積，而 &lt;t7/&gt;R&lt;t8/&gt; 大於 30 m；
+L&lt;t9/&gt;WA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S&lt;t0/&gt;r&lt;t1/&gt; is the three-phase power rating in volt-amperes for which the impedance ‘z’ is defined.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025742Z" creationid="CCYU" creationdate="20141115T025742Z">
@@ -66774,6 +66791,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T074515Z" creationid="Judy" creationdate="20141206T074515Z">
         <seg>為參考功率 (1 MVA)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the A-weighted sound power level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225329Z" creationid="Judy" creationdate="20141208T225329Z">
+        <seg>為 A-加權聲音功率等級。</seg>
       </tuv>
     </tu>
     <tu>
