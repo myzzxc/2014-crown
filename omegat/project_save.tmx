@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(17):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T215722Z" creationid="Judy" creationdate="20141208T215722Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(2)&lt;t0/&gt; &lt;t1/&gt;How to connect the internal grounding terminal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T031839Z" creationid="CCYU" creationdate="20141025T031839Z">
@@ -47395,6 +47403,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T223644Z" creationid="Judy" creationdate="20141207T223644Z">
         <seg>平均 A-加權背景噪音聲壓等級 L&lt;t1/&gt;bgA&lt;t2/&gt;應使用公式 (15) 於測試前後分別計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The average A-weighted sound intensity level, ij&lt;t0/&gt;A&lt;t1/&gt;, shall be calculated from the A-weighted normal sound intensity levels, &lt;t2/&gt;Z|&lt;t3/&gt;A&lt;t4/&gt;j, &lt;t5/&gt;measured with the test object energized by using equation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T215719Z" creationid="Judy" creationdate="20141208T215719Z">
+        <seg>平均 A-加權聲音強度等級 L&lt;t0/&gt;IA&lt;t1/&gt; 應由測試目標通電下所量測之 A-加權正常聲音強度等級 &lt;t2/&gt;L&lt;t3/&gt;IA&lt;t4/&gt;i&lt;t5/&gt; 使用公式 (17) 計算：</seg>
       </tuv>
     </tu>
     <tu>
