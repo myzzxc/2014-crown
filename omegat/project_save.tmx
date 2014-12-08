@@ -50415,6 +50415,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The microphone spacer shall be chosen to cover the sound spectrum to be me&lt;t0/&gt;asured otherwise the lower or upper frequencies will not be taken into account and errors will be introduced.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T105111Z" creationid="CCYU" creationdate="20141208T105111Z">
+        <seg>應選擇涵蓋欲量測之聲音頻譜的麥克風，否則將無法接收較高或較低頻率而造成誤差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum AV level for the neutral should be chosen from Table 2 of this standard to be greater than l/&lt;t0/&gt;ACneutra&lt;t1/&gt;| Where:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141119T034650Z" creationid="MAE" creationdate="20141119T034357Z">
