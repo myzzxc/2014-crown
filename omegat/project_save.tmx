@@ -20573,6 +20573,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For-North American applications,.sound, level shall be measured wi&lt;t0/&gt;th and without the cooling equipment in operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104158Z" creationid="CCYU" creationdate="20141208T104158Z">
+        <seg>應用於北美洲時，應量測冷卻設備運轉與停機之音量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032212Z">
@@ -50967,6 +50975,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The permissible combinations are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104125Z" creationid="CCYU" creationdate="20141208T104125Z">
+        <seg>以下為允許之組合：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The phase-to-earth voltages at the non-tested terminals can be much higher than 0,5 &lt;t9/&gt;U.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T152929Z" creationid="CCYU" creationdate="20141124T152929Z">
@@ -53235,6 +53251,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021847Z" creationid="CCYU" creationdate="20141115T021847Z">
         <seg>測試電壓等級及詳細測試配置應由雙方協議。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The test object shall be &lt;t0/&gt;energized as agreed by the manufacturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104120Z" creationid="CCYU" creationdate="20141208T104120Z">
+        <seg>測試目標應由製造商和買方協定通電，</seg>
       </tuv>
     </tu>
     <tu>
@@ -70662,6 +70686,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment and any oil-circulating pump&lt;t0/&gt;s in service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104137Z" creationid="CCYU" creationdate="20141208T104137Z">
+        <seg>變壓器通電，冷卻設備及所有油循環泵運轉；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>transformer energized, cooling equipment and any oil-circulating pumps in service;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104224Z" creationid="CCYU" creationdate="20141207T104224Z">
@@ -70681,6 +70713,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
         <seg>transformer energized, cooling equipment out of service, oil-ci&lt;t0/&gt;rculating pumps in service;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104245Z" creationid="CCYU" creationdate="20141207T104245Z">
+        <seg>變壓器通電，冷卻設備停機，油循環泵運轉；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment out of service, oil-circulating pumps in service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104144Z" creationid="CCYU" creationdate="20141208T104144Z">
         <seg>變壓器通電，冷卻設備停機，油循環泵運轉；</seg>
       </tuv>
     </tu>
