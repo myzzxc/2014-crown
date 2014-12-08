@@ -5525,6 +5525,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&lt;t0/&gt;w&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt;'&lt;t4/&gt;s</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222544Z" creationid="Judy" creationdate="20141208T222544Z">
+        <seg>L&lt;t0/&gt;W&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AC is the highest rated AC withstand voltage level to earth designed for the terminals of each winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121745Z" creationid="CCYU" creationdate="20141108T121745Z">
@@ -6001,6 +6009,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134417Z">
         <seg>Acute oral toxicity 急性口服毒性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Addition of no-load and load current sound power levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222723Z" creationid="Judy" creationdate="20141208T222723Z">
+        <seg>空載和負載電流5 聲功率級</seg>
       </tuv>
     </tu>
     <tu>
@@ -20391,8 +20407,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For transformers with cooling auxiliaries mounted on a separate structure, the sound power level of the transformer plus cooling auxiliaries, A &lt;t0/&gt;wai&gt;&lt;t1/&gt;'&lt;t2/&gt;s&lt;t3/&gt; calculated by using equation (22):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222318Z" creationid="Judy" creationdate="20141208T222318Z">
-        <seg>對於具有冷卻輔助設備直接安裝於油槽上之變壓器，其冷卻輔助設備之聲音功率等級 L&lt;t0/&gt;wA0&lt;t1/&gt; 如公式 (21) 所示：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222521Z" creationid="Judy" creationdate="20141208T222318Z">
+        <seg>對於冷卻輔助設備安裝於單獨結構上之變壓器，其變壓器加上冷卻輔助設備之聲音功率等級 L&lt;t0/&gt;wA1&lt;t1/&gt; 可由公式 (22) 計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -69026,6 +69042,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sound power level of the transformer;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222601Z" creationid="Judy" creationdate="20141208T222601Z">
+        <seg>為變壓器之聲音功率等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sound pressure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T043708Z" creationid="Judy" creationdate="20141206T043208Z">
@@ -72178,6 +72202,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T125952Z" creationid="CCYU" creationdate="20141105T125952Z">
         <seg>數據輸入處</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>£&lt;t0/&gt;wao&lt;t1/&gt; is the sound power level of the cooling auxiliaries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222630Z" creationid="Judy" creationdate="20141208T222630Z">
+        <seg>L &lt;t0/&gt;WA0&lt;t1/&gt; 為冷卻輔助設備之聲音功率等級；</seg>
       </tuv>
     </tu>
     <tu>
