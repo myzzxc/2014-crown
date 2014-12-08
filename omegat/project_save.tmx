@@ -46695,6 +46695,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The A-weighted sound power level of the test object, i&lt;t0/&gt;WA&lt;t1/&gt; shall be calculated from either the corrected average A-weighted sound pressure level, i&lt;t2/&gt;pA&lt;t3/&gt; , or the average A-weighted sound</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T221036Z" creationid="Judy" creationdate="20141208T221030Z">
+        <seg>測試目標之 A-加權聲音功率等級  L&lt;t0/&gt;WA&lt;t1/&gt; 應由校正平均 A-加權聲壓等級 L&lt;t2/&gt;pA&lt;t3/&gt; 或平均 A-加權聲音強度等級 LIA，分別依據公式 (19) 或 (20) 計算：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The AC withstand test has been redefined (LTAC instead of ACSD).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T141941Z" creationid="CCYU" creationdate="20141107T141941Z">
@@ -66502,6 +66510,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132225Z" creationid="CCYU" creationdate="20141112T132225Z">
         <seg>變壓器繞組之中性端子直接或間接接地，其設計使用較線路端子低的絕緣等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>intensity level, &lt;t0/&gt;L\&lt;t1/&gt;A&lt;t2/&gt; , according to equation (19) or (20), respectively:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T221038Z" creationid="Judy" creationdate="20141208T221038Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
