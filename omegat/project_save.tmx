@@ -68771,6 +68771,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reference to this m&lt;t0/&gt;easurement standard;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T230037Z" creationid="Judy" creationdate="20141208T230037Z">
+        <seg>參照此量測標準；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>refers to measurement of 'cold winding resistance' (11.2);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143419Z">
@@ -70352,6 +70360,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134122Z">
         <seg>自耦變壓器之串聯及共用繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the sound power level determination method used (where appropriate);</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T230235Z" creationid="Judy" creationdate="20141208T230235Z">
+        <seg>使用之聲音功率等級測定方法 (於適當情況下)；</seg>
       </tuv>
     </tu>
     <tu>
