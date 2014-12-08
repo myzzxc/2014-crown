@@ -10654,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculation of sound power level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T220552Z" creationid="Judy" creationdate="20141208T220552Z">
+        <seg>聲音功率等級計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculation of the area of the measurement surface</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T054348Z" creationid="CCYU" creationdate="20141207T054348Z">
@@ -28836,6 +28844,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iri order to maintain standard deviations which are &lt;3 dB, the maximum allowable value for A&lt;t0/&gt;L &lt;t1/&gt;is 8 dB(A).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T220419Z" creationid="Judy" creationdate="20141208T220419Z">
+        <seg>為了維持標準變異 ≤3 dB，ΔL 之最大允許值為 dB(A)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Irregularly shaped room with furniture, irregularly &lt;t0/&gt;shaped machinery room or industrial room</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072233Z" creationid="CCYU" creationdate="20141207T072233Z">
@@ -34217,6 +34233,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T210704Z" creationid="Judy" creationdate="20141204T210704Z">
         <seg>註 當截取時間無差異時可得到相同的電壓和中性電流記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOTE If AZ is &gt;8 dB(A), an alternative measurement method should be considered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T220509Z" creationid="Judy" creationdate="20141208T220509Z">
+        <seg>註 若ΔL &gt;8 dB(A)，應考慮使用替代量測方法，</seg>
       </tuv>
     </tu>
     <tu>
@@ -42027,6 +42051,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T075042Z" creationid="CCYU" creationdate="20141025T075042Z">
         <seg>請見 ATEX 認證 &lt;t0/&gt;ITS03ATEX11531X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Annex A.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T220526Z" creationid="Judy" creationdate="20141208T220526Z">
+        <seg>請見附錄 A。</seg>
       </tuv>
     </tu>
     <tu>
