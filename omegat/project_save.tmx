@@ -54055,6 +54055,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The uncorrected average A-weighted sound pressure level, Zp&lt;t0/&gt;A0&lt;t1/&gt; , is calculated from the measured sound pressure levels as described in equation (14).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T215954Z" creationid="Judy" creationdate="20141208T215954Z">
+        <seg>未校正平均 A-加權聲壓等級 L&lt;t0/&gt;pA0&lt;t1/&gt; 係由公式 (14) 所述之量測聲壓等級計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The unit is Wm~&lt;t0/&gt;2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T055457Z" creationid="Judy" creationdate="20141206T055457Z">
