@@ -34533,6 +34533,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE The above equation is applicable strictly only to independent sound sources.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T224204Z" creationid="Judy" creationdate="20141208T224204Z">
+        <seg>註 上述公式僅適用獨立聲源，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE The additional set of requirements is applicable mainly to large system transformers for which emer&lt;t0/&gt;gency loading conditions deserve particular attention, and should not be regularly used for small and medium-size standardized transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141029T024231Z" creationid="MAE" creationdate="20141029T024231Z">
@@ -52595,6 +52603,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161418Z">
         <seg>測試中依據 IEC 60076-10 所量測之音量等級不得超過保證的最高音量等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sound of the cooling auxiliaries, if required, shall be considered by inclusion in either &lt;t0/&gt;^WA.UN &lt;t1/&gt;or&lt;t2/&gt; A/VA,IN-</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T224110Z" creationid="Judy" creationdate="20141208T224110Z">
+        <seg>若有要求冷卻輔助設備之音量，應將 L&lt;t0/&gt;WA,UN&lt;t1/&gt; 或 L&lt;t2/&gt;WA,IN 納入考量。</seg>
       </tuv>
     </tu>
     <tu>
