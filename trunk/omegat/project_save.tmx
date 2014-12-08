@@ -18803,6 +18803,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a more accurate value, &lt;t0/&gt;other factors such as atmospheric absorption, reflections and screening should be considered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225458Z" creationid="Judy" creationdate="20141208T225458Z">
+        <seg>若要得到更精確的數值，應考慮其他因素如大氣吸音、反射以及屏蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a multi-winding transformer, there are several values of load loss corresponding to the different two-winding&lt;t0/&gt; combinations (see Clause 7 of I&lt;t1/&gt;EC 60076-8:1997).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T040533Z">
@@ -38533,6 +38541,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presentation of results</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225534Z" creationid="Judy" creationdate="20141208T225534Z">
+        <seg>結果呈現</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>President &lt;t0/&gt;Baderschneider</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140719T181745Z">
@@ -52028,6 +52044,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152112Z" creationid="CCYU" creationdate="20141105T152112Z">
         <seg>建議於進行任何改善行動之決定前重複最終分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The report shall include all the following information:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225555Z" creationid="Judy" creationdate="20141208T225555Z">
+        <seg>報告應包含以下資訊：</seg>
       </tuv>
     </tu>
     <tu>
@@ -69935,6 +69959,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T075551Z" creationid="CCYU" creationdate="20141123T075551Z">
         <seg>轉移至相鄰短路且非測試繞組之電流，有時也稱為電容性轉移電流；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the date of the tests;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T225644Z" creationid="Judy" creationdate="20141208T225644Z">
+        <seg>測試日期；</seg>
       </tuv>
     </tu>
     <tu>
