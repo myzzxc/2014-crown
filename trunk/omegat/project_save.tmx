@@ -48127,6 +48127,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The criterion, A &lt;t0/&gt;L,&lt;t1/&gt; forjudging the acceptability of a test environment and the background noise is given by equation (18):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T220210Z" creationid="Judy" creationdate="20141208T220210Z">
+        <seg>判定測試環境和背景噪音之合格標準 Δ&lt;t0/&gt;L&lt;t1/&gt; 如公式 (18) 所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cross-correlation of I1(X) and I2(X+s) is evaluated, and normalized by the square root of the sum of the square values of I2(X+s) over the range of X occupied by the test I1 patch.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092136Z">
