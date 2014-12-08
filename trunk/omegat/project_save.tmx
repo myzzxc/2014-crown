@@ -10622,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculation of average sound intensity level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T105812Z" creationid="CCYU" creationdate="20141208T105812Z">
+        <seg>平均聲音強度等級計算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculation of average sound pressure level</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T113013Z" creationid="CCYU" creationdate="20141207T113013Z">
@@ -36465,6 +36473,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121005Z" creationid="CCYU" creationdate="20141030T121005Z">
         <seg>具有大量螺栓連接之非常低電阻之繞組 (例如，電爐變壓器之低壓繞組)，藉由電壓變化測定平均繞組溫度上升可能非常困難且具有大量不確定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once stability has been reached, it is recommended that the time spent making measurements be minimized to avo&lt;t1/&gt;id changes in the sound level caused by changes in transformer temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T105755Z" creationid="CCYU" creationdate="20141208T105755Z">
+        <seg>當達到穩定時，建議儘量減少量測時間以避免變壓器溫度變化導致音量變化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66508,8 +66524,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>is present, the sound level may be affec&lt;t0/&gt;ted for a few minutes or, in extreme cases,-for several hours.-Residual d.c.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T105618Z" creationid="CCYU" creationdate="20141208T105618Z">
-        <seg>幾分鐘內之音量可能受影響，於極端情況下影響可能長達數小時。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T105740Z" creationid="CCYU" creationdate="20141208T105618Z">
+        <seg>幾分鐘內之音量可能受影響，於極端情況下影響可能長達數小時。殘餘直流電流</seg>
       </tuv>
     </tu>
     <tu>
