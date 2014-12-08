@@ -46607,6 +46607,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The A-weighted normal sound intensity level and the A-weighted sound pressure level shall be recorded for each measuring position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141208T104534Z" creationid="CCYU" creationdate="20141208T104534Z">
+        <seg>應記錄每個量測位置之正常聲音強度等級和 A-加權聲壓等級，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The A-weighted sound &lt;t0/&gt;pressure level shall be recorded for each measuring position.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104540Z" creationid="CCYU" creationdate="20141207T104459Z">
