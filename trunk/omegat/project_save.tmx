@@ -34529,6 +34529,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE If the narrow-band measuring method is selected, the actual harmonic generated may fall outside the bandwidth of th&lt;t0/&gt;e measuring instrument when the frequency of the power supply is still within its permitted variation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T131803Z" creationid="CCYU" creationdate="20141209T131803Z">
+        <seg>註 若選擇窄頻量測方法，當電源頻率仍保持其允許的變化內時，實際產生之諧波可能落於量測儀器之頻寬外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE If the sound power levels of the individual fans and pumps of &lt;t0/&gt;the cooling auxiliaries are known, the total sound power level of the cooling auxiliaries can be obtained by adding together the individual values on an energy basis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222121Z" creationid="Judy" creationdate="20141208T222121Z">
