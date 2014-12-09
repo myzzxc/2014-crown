@@ -17476,6 +17476,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 2 - Typical microphone positions for sound measurement on transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123258Z" creationid="CCYU" creationdate="20141209T123258Z">
+        <seg>圖 2 - 變壓器音量量測的典型麥克風位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 2 Illustration of 'clock number' notation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T012943Z">
@@ -20711,6 +20719,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forced air cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123516Z" creationid="CCYU" creationdate="20141209T123516Z">
+        <seg>強制氣冷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forging</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T032212Z">
@@ -21885,6 +21901,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123928Z">
         <seg>引擎高 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height of the tank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123138Z" creationid="CCYU" creationdate="20141209T123138Z">
+        <seg>油槽高度</seg>
       </tuv>
     </tu>
     <tu>
@@ -31815,6 +31839,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123159Z" creationid="CCYU" creationdate="20141209T123159Z">
+        <seg>量測距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurement of &lt;t0/&gt;d.c.&lt;t1/&gt; insulation resistance between each winding to earth and between windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T152926Z">
@@ -38723,6 +38755,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020754Z">
         <seg>初級熔煉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Principal &lt;t0/&gt;radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123458Z" creationid="CCYU" creationdate="20141209T123458Z">
+        <seg>主輻射面</seg>
       </tuv>
     </tu>
     <tu>
@@ -59107,6 +59147,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transformer tank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123151Z" creationid="CCYU" creationdate="20141209T123151Z">
+        <seg>變壓器油槽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transformer to be suitable for step down operation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153707Z">
@@ -59375,6 +59423,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074423Z" creationid="CCYU" creationdate="20141025T074423Z">
         <seg>關閉電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turret</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123101Z" creationid="CCYU" creationdate="20141209T123101Z">
+        <seg>回轉臺</seg>
       </tuv>
     </tu>
     <tu>
@@ -66333,6 +66389,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>having cooling auxiliaries mounted either directly on the tank or on a separate structure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123340Z" creationid="CCYU" creationdate="20141209T123340Z">
+        <seg>具有冷卻設備直接安裝於油槽上或</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>health and safety of the workforce.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072121Z">
@@ -69337,6 +69401,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T043733Z" creationid="Judy" creationdate="20141206T043655Z">
         <seg>聲壓等級 (sound pressure level)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spaced &lt;3 m away from the principal radiating surface of the main tank</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123445Z" creationid="CCYU" creationdate="20141209T123445Z">
+        <seg>安裝於距離主油槽之主輻射面 &lt;3 m 之分離結構上</seg>
       </tuv>
     </tu>
     <tu>
