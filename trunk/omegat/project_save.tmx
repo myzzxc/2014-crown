@@ -5469,6 +5469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A.1 Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124904Z" creationid="CCYU" creationdate="20141209T124904Z">
+        <seg>A.1 概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A.1.1 Normal information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124040Z">
@@ -16757,8 +16765,8 @@
       <tuv lang="EN-US">
         <seg>Fans and pumps both tend to generate broad-band noise due to the forced flow of air or oil.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T021800Z" creationid="Judy" creationdate="20141206T021800Z">
-        <seg>風扇和泵會因為強制使空氣或油流動而產生噪音。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T125535Z" creationid="Judy" creationdate="20141206T021800Z">
+        <seg>風扇和泵會因為強制使空氣或油流動而產生寬頻噪音。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26399,6 +26407,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In circumstances where background noise levels lead to invalid results according to the criteria laid down in 11.3 and 12.3, narrow-band or time-synchronous measurements may offer a way to filter out unwanted signals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T125332Z" creationid="CCYU" creationdate="20141209T125332Z">
+        <seg>當背景噪音導致結果根據 11.3 和 12.3 之標準而無效之情況下，可使用窄頻或時間同步量測以過濾不需要之訊號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In circumstances where the manufacturer believes that it is not reasonably possible to meet the waveshape because of the transformer characteristics and the variations to the waveshape allowed in the following paragraphs will need to be applied then this shall be clearly stated in the tender.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T024012Z" creationid="CCYU" creationdate="20141115T024012Z">
@@ -35037,6 +35053,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113952Z">
         <seg>名稱及型號： MEDISANA 纖體按摩機 AC 850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Narrow-band and time-synchronous measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124858Z" creationid="CCYU" creationdate="20141209T124858Z">
+        <seg>窄頻和時間同步量測</seg>
       </tuv>
     </tu>
     <tu>
@@ -55636,6 +55660,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore uncorrelated noise can be attenuated by applying time-synchro&lt;t0/&gt;nous averaging or- narrow-band measurements at the relevant frequencies only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130000Z" creationid="CCYU" creationdate="20141209T130000Z">
+        <seg>因此未校正之噪音可藉由使用時間同步平均或僅於相關頻率進行窄頻量測以降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, a movement of the bushing relative to the body changes the flow null.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T113526Z">
@@ -56040,6 +56072,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133530Z">
         <seg>此負載損耗依相關抽頭電流值計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These methods cannot eliminate the eff&lt;t0/&gt;ects of reflections described by the environmental'correction &lt;t1/&gt;K.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T125439Z" creationid="CCYU" creationdate="20141209T125439Z">
+        <seg>此方法無法消除環境校正因子 &lt;t1/&gt;K 之反射效應。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59185,6 +59225,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T034129Z">
         <seg>變壓器製造商應慎重注意有效的變壓器液體裝載方式並採取有效的防止洩漏措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transformer sound is characterized by tones at double the power frequency and at even harmonics of the power frequency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T125824Z" creationid="CCYU" creationdate="20141209T125824Z">
+        <seg>變壓器音量測定使用兩倍電源頻率及電源頻率奇諧波之音調，</seg>
       </tuv>
     </tu>
     <tu>
