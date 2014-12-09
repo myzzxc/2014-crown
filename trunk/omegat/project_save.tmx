@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/ is the rated frequency;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T224706Z" creationid="Judy" creationdate="20141209T224706Z">
+        <seg>f 為額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/&lt;t0/&gt;N</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T094628Z" creationid="Judy" creationdate="20141206T094628Z">
@@ -31155,8 +31163,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>LpAv is the A-weighted sound pressure level measured over the chosen bandwidth, A&lt;t0/&gt;f &lt;t1/&gt;centred on a frequency eq&lt;t2/&gt;ual to 2/V, at rated voltage and rated frequency;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T224505Z" creationid="Judy" creationdate="20141209T224505Z">
-        <seg>LpAv 為選定頻寬上量測之 A-加權聲壓等級，Δ&lt;t0/&gt;f &lt;t1/&gt; 以頻率 2fv 為終點, at rated voltage and rated frequency;</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T224650Z" creationid="Judy" creationdate="20141209T224505Z">
+        <seg>LpAv 為選定頻寬、Δ&lt;t0/&gt;f &lt;t1/&gt; 以頻率 2fv 為中心頻率、額定電壓以及額定頻率下所量測之 A-加權聲壓等級；</seg>
       </tuv>
     </tu>
     <tu>
