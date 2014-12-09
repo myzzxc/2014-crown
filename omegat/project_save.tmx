@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Horizontalforced air cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122314Z" creationid="CCYU" creationdate="20141209T122314Z">
+        <seg>1 水平強制氣冷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 M-screw (two typ&lt;t0/&gt;e of Straight or Elbow&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033301Z" creationid="CCYU" creationdate="20141025T033301Z">
@@ -10630,6 +10638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cable box</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122333Z" creationid="CCYU" creationdate="20141209T122333Z">
+        <seg>電線盒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cable&lt;t0/&gt; &lt;t1/&gt;G&lt;t2/&gt;land</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022536Z" creationid="CCYU" creationdate="20141025T022536Z">
@@ -12924,6 +12940,16 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T141346Z" creationid="CCYU" creationdate="20141028T140102Z">
         <seg>D：強制循環流經冷卻設備，由冷卻設備定向進入主繞組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt; Microphone spacing &lt;t1/&gt;h&lt;t2/&gt; Height of the tank &lt;t3/&gt;X&lt;t4/&gt; Measurement distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121807Z" creationid="CCYU" creationdate="20141209T121807Z">
+        <seg>D&lt;t0/&gt; 麥克風間距
+&lt;t1/&gt;h&lt;t2/&gt; 油槽高度
+&lt;t3/&gt;X&lt;t4/&gt; 量測距離</seg>
       </tuv>
     </tu>
     <tu>
@@ -17369,6 +17395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 1 - Typical microphone positions for sound measurement on transformers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122227Z" creationid="CCYU" creationdate="20141209T122110Z">
+        <seg>圖 1 - 不含冷卻設備之變壓器音量量測的典型麥克風位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 1 Moog Series 760N</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104357Z" creationid="Judy" creationdate="20141022T104357Z">
@@ -21585,6 +21619,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043405Z">
         <seg>HT 外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HV bushings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121704Z" creationid="CCYU" creationdate="20141209T121704Z">
+        <seg>高壓套管</seg>
       </tuv>
     </tu>
     <tu>
@@ -30253,6 +30295,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LV bushings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121722Z" creationid="CCYU" creationdate="20141209T121722Z">
+        <seg>低壓套管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LV low voltage;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T121934Z" creationid="CCYU" creationdate="20141108T121934Z">
@@ -32189,6 +32239,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microphone spacing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122417Z" creationid="CCYU" creationdate="20141209T122417Z">
+        <seg>麥克風間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015159Z">
@@ -34013,6 +34071,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE A typical form for the presentation of results is given in Annex B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122117Z" creationid="CCYU" creationdate="20141209T122056Z">
+        <seg>註 典型結果呈現之範例收錄於附錄 B 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE A winding is referred to as a stabilizing winding only if it is not intended for three-phase connection to an external circuit.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132913Z">
@@ -34921,6 +34987,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101507Z">
         <seg>National regulations/information (Germany)&lt;t0/&gt;: 國家法規 / 資訊 (德國) ：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Natural air cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122400Z" creationid="CCYU" creationdate="20141209T122400Z">
+        <seg>自然氣冷</seg>
       </tuv>
     </tu>
     <tu>
@@ -36617,6 +36691,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T121005Z" creationid="CCYU" creationdate="20141030T121005Z">
         <seg>具有大量螺栓連接之非常低電阻之繞組 (例如，電爐變壓器之低壓繞組)，藉由電壓變化測定平均繞組溫度上升可能非常困難且具有大量不確定性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On-load tap-changer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121656Z" creationid="CCYU" creationdate="20141209T121656Z">
+        <seg>負載抽頭開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -43876,6 +43958,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T021132Z">
         <seg>煉鋼 – 高爐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stiffeners and jacking lug</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121600Z" creationid="CCYU" creationdate="20141209T121600Z">
+        <seg>加強筋條和插座環</seg>
       </tuv>
     </tu>
     <tu>
@@ -60457,6 +60547,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertical forced air cooling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122344Z" creationid="CCYU" creationdate="20141209T122344Z">
+        <seg>垂直強制氣冷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Very Bad</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061928Z">
@@ -65623,6 +65721,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T131636Z">
         <seg>勵磁超過額定電壓的 110 % 或額定 V / Hz 的 110 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>excluding cooling equipment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122228Z" creationid="CCYU" creationdate="20141209T122228Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
