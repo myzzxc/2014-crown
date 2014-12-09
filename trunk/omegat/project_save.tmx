@@ -12312,6 +12312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231643Z" creationid="Judy" creationdate="20141209T231643Z">
+        <seg>連接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connections for impulse testing are detailed in IEC 60076-3 for transformers and in IEC 60289 for reactors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T063134Z" creationid="CCYU" creationdate="20141123T063134Z">
@@ -13370,6 +13378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date of measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231612Z" creationid="Judy" creationdate="20141209T231612Z">
+        <seg>量測時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date of previous issue</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033430Z">
@@ -13722,6 +13738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Details of guaranteed level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231722Z" creationid="Judy" creationdate="20141209T231722Z">
+        <seg>保證等級詳細資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details of sound-level requirements, guarantees, and special measurements (see IEC 60076-10).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T142501Z">
@@ -13750,6 +13774,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T073733Z" creationid="CCYU" creationdate="20141102T073731Z">
         <seg>評估 DGA 結果之詳細測試方法及驗收標準收錄於附錄 D 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231627Z" creationid="Judy" creationdate="20141209T231627Z">
+        <seg>變壓器詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -38457,6 +38489,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place of manufacture</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231604Z" creationid="Judy" creationdate="20141209T231604Z">
+        <seg>製造地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the cartridge in the application gun.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T012522Z">
@@ -39727,6 +39767,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T145854Z" creationid="CCYU" creationdate="20141105T145854Z">
         <seg>增加率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rated current</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231646Z" creationid="Judy" creationdate="20141209T231646Z">
+        <seg>額定電流</seg>
       </tuv>
     </tu>
     <tu>
@@ -42772,6 +42820,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Serial number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231630Z" creationid="Judy" creationdate="20141209T231630Z">
+        <seg>序號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Series windings (for example found in autotransformers and phase shifting transformers) where the rated voltage of the winding is less than the rated voltage of the system, shall be assi&lt;t0/&gt;gned a value of &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt; corresponding to the rated voltage of the highest voltage system to which the winding is connected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T095123Z" creationid="CCYU" creationdate="20141108T095123Z">
@@ -43584,6 +43640,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T061331Z" creationid="CCYU" creationdate="20141207T061331Z">
         <seg>聲壓方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound pressure/povyer level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231740Z" creationid="Judy" creationdate="20141209T231740Z">
+        <seg>聲壓 / 功率等級</seg>
       </tuv>
     </tu>
     <tu>
@@ -45960,6 +46024,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142304Z">
         <seg>抽頭係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tapping range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231636Z" creationid="Judy" creationdate="20141209T231636Z">
+        <seg>抽頭範圍</seg>
       </tuv>
     </tu>
     <tu>
@@ -61021,6 +61093,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voltage ratio</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231640Z" creationid="Judy" creationdate="20141209T231640Z">
+        <seg>電壓比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voltage ratios corresponding to tappings other than the principal tapping.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T135608Z">
@@ -65551,6 +65631,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dB(A) Measurement distance, &lt;t0/&gt;X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231755Z" creationid="Judy" creationdate="20141209T231755Z">
+        <seg>dB(A) 量測距離，&lt;t0/&gt;X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>damaging fumes and vapours;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163539Z">
@@ -67557,6 +67645,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150103Z" creationid="CCYU" creationdate="20141105T150103Z">
         <seg>1/t x [(C&lt;t0/&gt;2&lt;t1/&gt;H2)2-(C2H&lt;t2/&gt;2&lt;t3/&gt;)1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>kA Rated voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231703Z" creationid="Judy" creationdate="20141209T231703Z">
+        <seg>kA	額定電壓</seg>
       </tuv>
     </tu>
     <tu>
