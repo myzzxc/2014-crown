@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/ is the &lt;t0/&gt;rated frequency;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225257Z" creationid="Judy" creationdate="20141209T225257Z">
+        <seg>f 為額定頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/ is the rated frequency;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T224706Z" creationid="Judy" creationdate="20141209T224706Z">
@@ -5513,6 +5521,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130447Z" creationid="CCYU" creationdate="20141209T130447Z">
         <seg>A.2 窄頻量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A.3 Time-sync,hronous measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225335Z" creationid="Judy" creationdate="20141209T225335Z">
+        <seg>A.3 時間同步量測</seg>
       </tuv>
     </tu>
     <tu>
@@ -63261,6 +63277,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>^max ~ 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225319Z" creationid="Judy" creationdate="20141209T225319Z">
+        <seg>vmax = 10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>^neutral max &lt;t0/&gt;=&lt;t1/&gt; 85,0 kV</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141119T130037Z" creationid="CCYU" creationdate="20141119T130037Z">
@@ -73033,6 +73057,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222630Z" creationid="Judy" creationdate="20141208T222630Z">
         <seg>L &lt;t0/&gt;WA0&lt;t1/&gt; 為冷卻輔助設備之聲音功率等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>£|Av&lt;t0/&gt; is the A-weighted normal sound intensity level measured over the chosen bandwidth, &lt;t1/&gt;Af,&lt;t2/&gt; centred on a frequency equal to 2/V at rated voltage and rated frequency;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225249Z" creationid="Judy" creationdate="20141209T225249Z">
+        <seg>LIAv 為選定頻寬、Δ&lt;t0/&gt;f &lt;t1/&gt; 以頻率 2fv 為中心頻率、額定電壓以及額定頻率下所量測之 A-加權正常聲音強度等級；</seg>
       </tuv>
     </tu>
     <tu>
