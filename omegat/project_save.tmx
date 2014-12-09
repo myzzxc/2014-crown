@@ -5501,6 +5501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A.2 Narrow-band measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130447Z" creationid="CCYU" creationdate="20141209T130447Z">
+        <seg>A.2 窄頻量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A0&lt;t0/&gt;b&lt;t1/&gt;=0&lt;t2/&gt;b&lt;t3/&gt;-0&lt;t4/&gt;a</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T145106Z" creationid="CCYU" creationdate="20141101T145106Z">
@@ -56088,6 +56096,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T133530Z">
         <seg>此負載損耗依相關抽頭電流值計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These methods are applicable for sound pressure and sound intensity measurements and can be used to calculate sound power levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130353Z" creationid="CCYU" creationdate="20141209T130353Z">
+        <seg>這些方法適用於聲壓、聲音強度量測，並可用於計算聲音功率等級。</seg>
       </tuv>
     </tu>
     <tu>
