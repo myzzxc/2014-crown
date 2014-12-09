@@ -10320,8 +10320,8 @@
       <tuv lang="EN-US">
         <seg>By using a trigger signal synchronous with the transformer sound, for example, the network voltage, all non-synchronous noise will be eliminated.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225817Z" creationid="Judy" creationdate="20141209T225817Z">
-        <seg>藉由使用觸發訊號與變壓器聲音同步，By using a trigger signal synchronous with the transformer sound, for example, the network voltage, all non-synchronous noise will be eliminated.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230142Z" creationid="Judy" creationdate="20141209T225817Z">
+        <seg>藉由使用觸發訊號與變壓器聲音同步，電網電壓、所有非同步噪音將會被消除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33297,6 +33297,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 1 Many industrial noise sources may be synchro&lt;t0/&gt;nous, in these cases, the use of this method is not appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230135Z" creationid="Judy" creationdate="20141209T230101Z">
+        <seg>註 1 許多工業噪音源可能會同步，此情況下可能不適合使用此方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 1 No rules are given for ambient temperatures lower than the normal ones.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124645Z" creationid="CCYU" creationdate="20141030T124636Z">
@@ -47840,6 +47848,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T213316Z">
         <seg>某些零維或一維模型假設均勻溫度分布並固定熱對流係數來計算熱傳導效應無法呈現真實的特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The attenuation of the ambient noise, &lt;t0/&gt;N,&lt;t1/&gt; depends on the number of averages, n, that are included in the measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230125Z" creationid="Judy" creationdate="20141209T230125Z">
+        <seg>環境噪音The attenuation of the ambient noise, &lt;t0/&gt;N,&lt;t1/&gt; depends on the number of averages, n, that are included in the measurement.</seg>
       </tuv>
     </tu>
     <tu>
