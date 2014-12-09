@@ -25103,6 +25103,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the measured supply frequency generates a harmonic frequency outside the chosen bandwidth (A/), the acceptance of the measurement requires agreement b&lt;t1/&gt;etween manufacturer and purchaser, or a wider bandwidth should be selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T132111Z" creationid="CCYU" creationdate="20141209T132111Z">
+        <seg>若量測之電源頻率產生選定頻寬 (Δf) 外之諧波頻率，量測合格標準需由製造商與買方間協議，或應選擇較寬的頻寬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the measurements can only be performed at a reduced current, the sound power level at the rated current shall be calculated by equation (5):</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071006Z" creationid="Judy" creationdate="20141206T083852Z">
