@@ -10318,6 +10318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By using a trigger signal synchronous with the transformer sound, for example, the network voltage, all non-synchronous noise will be eliminated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225817Z" creationid="Judy" creationdate="20141209T225817Z">
+        <seg>藉由使用觸發訊號與變壓器聲音同步，By using a trigger signal synchronous with the transformer sound, for example, the network voltage, all non-synchronous noise will be eliminated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By&lt;t0/&gt; &lt;t1/&gt;appropiate&lt;t2/&gt; &lt;t3/&gt;use&lt;t4/&gt; &lt;t5/&gt;of &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;product&lt;t9/&gt; &lt;t10/&gt;no&lt;t11/&gt; &lt;t12/&gt;health&lt;t13/&gt; &lt;t14/&gt;damage&lt;t15/&gt; &lt;t16/&gt;is&lt;t17/&gt; &lt;t18/&gt;known.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134541Z">
@@ -58560,6 +58568,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T053809Z" creationid="CCYU" creationdate="20141123T053809Z">
         <seg>截波時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time-synchronous averaging is an averaging of digitized time records of the sound signal, the&lt;t0/&gt; start of which is defined by a repetitive trigger signal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225820Z" creationid="Judy" creationdate="20141209T225708Z">
+        <seg>時間同步平均為聲音訊號之數位時間記錄的平均，由重複觸發訊號起始，</seg>
       </tuv>
     </tu>
     <tu>
