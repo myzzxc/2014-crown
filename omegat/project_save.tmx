@@ -19896,6 +19896,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For sound intensity measurements, results obtained by time synchronous averaging are valid for values of A&lt;t0/&gt;L&lt;t1/&gt; up to &lt;t2/&gt;SIN&lt;t3/&gt; + 8 dB(A).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231120Z" creationid="Judy" creationdate="20141209T231120Z">
+        <seg>對於聲音強度量測，由時間同步平均所得之結果，於 Δ&lt;t0/&gt;L&lt;t1/&gt; 小於 &lt;t2/&gt;S/N&lt;t3/&gt; + 8 dB(A) 時有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For specific needs please contact our application specialists.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020611Z">
