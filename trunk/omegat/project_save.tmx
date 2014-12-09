@@ -41764,6 +41764,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SIN&lt;t0/&gt; =&lt;t1/&gt; 10 Ig &lt;t2/&gt;n&lt;t3/&gt; ,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230700Z" creationid="Judy" creationdate="20141209T230700Z">
+        <seg>S/N = 10 Ig n </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SING –</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T091130Z">
@@ -57760,6 +57768,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T151819Z" creationid="Judy" creationdate="20141122T151819Z">
         <seg>此連接點應作為參考地線並以一組或多組低阻抗導體連接至參考地線以使測試目標具有良好接地 (請見 IEC 60060-2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This principle can be applied to both sound pressure and sound intensity measurements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230742Z" creationid="Judy" creationdate="20141209T230742Z">
+        <seg>此原理可應用於聲壓和聲音強度量測。</seg>
       </tuv>
     </tu>
     <tu>
