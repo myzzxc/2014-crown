@@ -61473,6 +61473,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the sound pressure method is used, the following information shall be included:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112420Z" creationid="CCYU" creationdate="20141209T112420Z">
+        <seg>當使用聲壓方法時，應包含以下資訊：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the tapping factor deviates from unity, the tapping current for full-power &lt;t0/&gt;tappings&lt;t1/&gt; may rise above rated current on one of the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T124749Z">
@@ -63045,6 +63053,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T152545Z" creationid="Judy" creationdate="20141122T152545Z">
         <seg>且無使用截波電路，測試電路與其參考地線之電位差的問題較不嚴重，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a list of persons present during the tests;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112331Z" creationid="CCYU" creationdate="20141209T112331Z">
+        <seg>現場測試人員清單；</seg>
       </tuv>
     </tu>
     <tu>
@@ -69835,6 +69851,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the A-weighted sound pressure levels of the background noise at each background noise measuring position;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112547Z" creationid="CCYU" creationdate="20141209T112547Z">
+        <seg>背景雜訊於每個量測位置之 A-加權聲壓等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the PD level measured at a voltage level of (i,&lt;t0/&gt;2&lt;t1/&gt;xU&lt;t2/&gt;r&lt;t3/&gt;)/V^after the one hour period does not exceed 100 pC.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T131134Z" creationid="CCYU" creationdate="20141113T131134Z">
@@ -70368,6 +70392,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T134122Z">
         <seg>自耦變壓器之串聯及共用繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the signature of the person responsible for tes&lt;t0/&gt;ting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112357Z" creationid="CCYU" creationdate="20141209T112357Z">
+        <seg>測試負責人員簽名。</seg>
       </tuv>
     </tu>
     <tu>
