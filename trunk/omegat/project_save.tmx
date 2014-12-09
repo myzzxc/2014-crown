@@ -46048,6 +46048,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tertiary bushings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121146Z" creationid="CCYU" creationdate="20141209T121146Z">
+        <seg>三次套管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tertiary windings and stabilizing windings in large transformers are also subjected to the same risk.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120235Z" creationid="CCYU" creationdate="20141118T120235Z">
@@ -69855,6 +69863,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T083924Z" creationid="Judy" creationdate="20141206T083924Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the A-weighted sound power level, A&lt;t0/&gt;WA&lt;t1/&gt;, founded to the &lt;t2/&gt;nearest integer, for each set of test conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121049Z" creationid="CCYU" creationdate="20141209T121049Z">
+        <seg>各測試條件組之 A-加權聲音功率等級 L&lt;t0/&gt;WA&lt;t1/&gt;，四捨五入至最近整數。</seg>
       </tuv>
     </tu>
     <tu>
