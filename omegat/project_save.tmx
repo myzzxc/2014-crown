@@ -17597,6 +17597,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 4 - Typical microphone &lt;t0/&gt;positions for sound measurement on cooling auxiliaries mounted on a separate structure spaced £3 m away from the principal radiating surface</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124224Z" creationid="CCYU" creationdate="20141209T124224Z">
+        <seg>圖 4 - 冷卻輔助設備音量量測的典型麥克風位置
+冷卻輔助設備安裝於距離變壓器之主輻射面 ≥3 m 之分離結構上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 4 — Illustration of 'clock number' notation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152514Z">
@@ -68129,6 +68138,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>of shell type transformer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153838Z" creationid="CCYU" creationdate="20141106T153838Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of the transformer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124226Z" creationid="CCYU" creationdate="20141209T124226Z">
         <seg> </seg>
       </tuv>
     </tu>
