@@ -62773,6 +62773,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Z,|&lt;t0/&gt;Ai&lt;t1/&gt; is the A-weighted sound intensity level at rated voltage and rated frequency;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T225115Z" creationid="Judy" creationdate="20141209T225115Z">
+        <seg>L&lt;t0/&gt;IAi&lt;t1/&gt; 為額定電壓和額定頻率下之 A-加權聲音強度等級；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Z-\&lt;t0/&gt; (C,) impedance (capacitance) of the high-voltage arm of the voltage divide&lt;t1/&gt;r</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073605Z" creationid="Judy" creationdate="20141129T073605Z">
@@ -71945,6 +71953,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122719Z" creationid="CCYU" creationdate="20141104T122719Z">
         <seg>使用定電流電源、電子穩定電源或具有額外串聯電阻之強力電池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>v&lt;t0/&gt; is the sequence number (1, 2, 3, etc.) of multiples of the even harmonics of the rated frequency;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T224944Z" creationid="Judy" creationdate="20141209T224944Z">
+        <seg>v&lt;t0/&gt; 為額定頻率之諧波乘數 (1、2、3 等)；</seg>
       </tuv>
     </tu>
     <tu>
