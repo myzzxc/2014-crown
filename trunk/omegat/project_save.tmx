@@ -20447,8 +20447,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For transformers with cooling auxiliaries mounted on a separate structure, the sound power level of the transformer plus cooling auxiliaries, A &lt;t0/&gt;wai&gt;&lt;t1/&gt;'&lt;t2/&gt;s&lt;t3/&gt; calculated by using equation (22):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222521Z" creationid="Judy" creationdate="20141208T222318Z">
-        <seg>對於冷卻輔助設備安裝於單獨結構上之變壓器，其變壓器加上冷卻輔助設備之聲音功率等級 L&lt;t0/&gt;wA1&lt;t1/&gt; 可由公式 (22) 計算：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121006Z" creationid="Judy" creationdate="20141208T222318Z">
+        <seg>對於冷卻輔助設備安裝於單獨結構上之變壓器，其變壓器加上冷卻輔助設備之聲音功率等級 L&lt;t0/&gt;WA1&lt;t1/&gt; 可由公式 (22) 計算：</seg>
       </tuv>
     </tu>
     <tu>
@@ -66453,8 +66453,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>i&lt;t0/&gt;w&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt; is the sound power level of the transformer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T221724Z" creationid="Judy" creationdate="20141208T221724Z">
-        <seg>L&lt;t0/&gt;w&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt; 為變壓器之聲音功率等級。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T120932Z" creationid="Judy" creationdate="20141208T221724Z">
+        <seg>L&lt;t0/&gt;W&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt; 為變壓器之聲音功率等級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69995,6 +69995,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the average A-weighted sound intensity level, Z)&lt;t0/&gt;A&lt;t1/&gt; , rounded to the nearest integer, for each set of test conditions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T120551Z" creationid="CCYU" creationdate="20141209T120551Z">
+        <seg>各測試條件組之平均 A-加權聲音強度等級 L&lt;t0/&gt;IA&lt;t1/&gt;，四捨五入至最近整數；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the average temperature of the top-liquid and bottom liquid temperatures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T131910Z" creationid="CCYU" creationdate="20141028T131910Z">
@@ -70572,10 +70580,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the uncorrected average A-weighted sound pressure level, Zp&lt;t0/&gt;A0&lt;t1/&gt; , for each set of test conditions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T120510Z" creationid="CCYU" creationdate="20141209T120510Z">
+        <seg>各測試條件組之未校正平均 A-加權聲壓等級 L&lt;t0/&gt;pA0&lt;t1/&gt;；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the use of an environmental management system (ISO 14001);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T071853Z">
         <seg>使用環境管理系統 (ISO 14001)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the value of &lt;t0/&gt;AL&lt;t1/&gt; for each set of test conditions;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T121016Z" creationid="CCYU" creationdate="20141209T120929Z">
+        <seg>各測試條件組之 &lt;t0/&gt;ΔL&lt;t1/&gt; 值；</seg>
       </tuv>
     </tu>
     <tu>
