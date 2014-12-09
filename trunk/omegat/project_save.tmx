@@ -69851,10 +69851,18 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the A-weighted sound pressure levels for each measuring position for the following test conditions (as agreed by the manufacturer and purchaser):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112850Z" creationid="CCYU" creationdate="20141209T112744Z">
+        <seg>各量測位置於下列測試條件下 (依製造商和買方協定) 之 A-加權聲壓級：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the A-weighted sound pressure levels of the background noise at each background noise measuring position;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112547Z" creationid="CCYU" creationdate="20141209T112547Z">
-        <seg>背景雜訊於每個量測位置之 A-加權聲壓等級；</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112609Z" creationid="CCYU" creationdate="20141209T112547Z">
+        <seg>背景噪音於每個量測位置之 A-加權聲壓等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -69943,6 +69951,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125234Z">
         <seg>由繞線組成之單相或三相繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the average A-weighted background noise pressure level &lt;t0/&gt;before and after the measurement sequence;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112646Z" creationid="CCYU" creationdate="20141209T112559Z">
+        <seg>量測程序前後之平均 A-加權背景噪音聲壓等級；</seg>
       </tuv>
     </tu>
     <tu>
@@ -71107,6 +71123,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T213501Z" creationid="Judy" creationdate="20141203T213501Z">
         <seg>變壓器 X 接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transformer energized, cooling equipment and any oil-circulating p&lt;t0/&gt;umps out of service;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T112859Z" creationid="CCYU" creationdate="20141209T112859Z">
+        <seg>變壓器通電，冷卻設備及所有油循環泵停機；</seg>
       </tuv>
     </tu>
     <tu>
