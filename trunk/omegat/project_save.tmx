@@ -17614,6 +17614,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 5 - Typical microphone positions for sound measurement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124536Z" creationid="CCYU" creationdate="20141209T124536Z">
+        <seg>圖 5 - 無機箱乾式變壓器音量量測的典型麥克風位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 6 - Environmental correction, &lt;t0/&gt;K</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124558Z" creationid="CCYU" creationdate="20141209T124558Z">
+        <seg>圖 6 - 環境校正因子 &lt;t0/&gt;K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t0/&gt;1&lt;t1/&gt;a — Constant flux voltage variation (CFVV)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142204Z">
@@ -66367,6 +66383,16 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>h&lt;t0/&gt; Height of core with framework &lt;t1/&gt;D&lt;t2/&gt; Microphone spacing &lt;t3/&gt;X&lt;t4/&gt; Measurement distance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124453Z" creationid="CCYU" creationdate="20141209T124453Z">
+        <seg>h&lt;t0/&gt; 核心含框架高度
+&lt;t1/&gt;D&lt;t2/&gt; 麥克風間距
+&lt;t3/&gt;X&lt;t4/&gt; 量測距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>h&lt;t0/&gt; is either the height in metres of the transformer tank (Figure 2 or 3), or the height in metres of the cooling auxiliaries including fans (Figure 4);</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060345Z" creationid="CCYU" creationdate="20141207T060311Z">
@@ -68155,6 +68181,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T124744Z">
         <seg>曲柄至齒輪中心之偏移距離 (m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>on dry-type transformers without enclosures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T124539Z" creationid="CCYU" creationdate="20141209T124539Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
