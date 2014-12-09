@@ -12520,6 +12520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contract</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231543Z" creationid="Judy" creationdate="20141209T231543Z">
+        <seg>合約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control Port A</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T110408Z" creationid="Judy" creationdate="20141022T110408Z">
@@ -33841,6 +33849,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE 2 When time-synchronous measurements are made, it is essential that the microphone is kept in a fixed position relative to the transformer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231310Z" creationid="Judy" creationdate="20141209T231310Z">
+        <seg>註 2 當進行時間同步量測時，必須確定麥克風保持於相對變壓器的固定位置上，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE 2 While the stand&lt;t0/&gt;ard permits a small difference between the background noise level and the combined sound level of the background and the test object, every effort should be made to obtain a difference of at least 6 dB.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230442Z" creationid="Judy" creationdate="20141207T230442Z">
@@ -43200,6 +43216,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043149Z">
         <seg>燒結廠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231558Z" creationid="Judy" creationdate="20141209T231558Z">
+        <seg>地點</seg>
       </tuv>
     </tu>
     <tu>
@@ -58844,6 +58868,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move the microphone continuously on the &lt;t0/&gt;prescribed contour as described in Clause 9 is not possible in this case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231421Z" creationid="Judy" creationdate="20141209T231421Z">
+        <seg>此情況下無法如第 9 節所述於測定線上持續移動麥克風。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To prevent creases, do not place any objects on the foot warmer when storing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T143208Z">
@@ -59777,6 +59809,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T215759Z" creationid="Judy" creationdate="20141203T215759Z">
         <seg>典型波形圖或數位記錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typical &lt;t0/&gt;report of sound level determination</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231511Z" creationid="Judy" creationdate="20141209T231511Z">
+        <seg>典型音量測定報告</seg>
       </tuv>
     </tu>
     <tu>
