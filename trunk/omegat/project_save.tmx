@@ -35065,6 +35065,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Narrow-band and time-synchronous measurements can only be valid for tests, made with any cooling equipment and oil circulating pumps out of service.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130215Z" creationid="CCYU" creationdate="20141209T130215Z">
+        <seg>窄頻和時間同步量測僅於冷卻設備和循環泵停機之條件下進行測試時有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>National Threshold Limit Values of the corresponding countries as amended in each case.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050145Z">
@@ -48136,6 +48144,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132852Z" creationid="CCYU" creationdate="20141112T132852Z">
         <seg>此表中不同測試電壓等級的選擇取決於系統中預期過電壓環境的嚴重性以及特定安裝的重要性，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The choice of an alternative &lt;t0/&gt;measurement method is subject to agreement .between manu&lt;t1/&gt;facturer and purchaser.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T130246Z" creationid="CCYU" creationdate="20141209T130246Z">
+        <seg>選擇替代量測方法需依製造商和買方協議。</seg>
       </tuv>
     </tu>
     <tu>
