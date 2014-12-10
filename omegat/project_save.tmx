@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10lg(m&lt;t0/&gt;0&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121538Z" creationid="CCYU" creationdate="20141210T121538Z">
+        <seg>10lg(S/S&lt;t0/&gt;0&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>11.1&lt;t0/&gt; &lt;t1/&gt;Information on toxicological effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134414Z">
@@ -8473,6 +8481,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020628Z">
         <seg>面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Area of measurement surface, &lt;t0/&gt;S</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121513Z" creationid="CCYU" creationdate="20141210T121513Z">
+        <seg>量測表面積，&lt;t0/&gt;S</seg>
       </tuv>
     </tu>
     <tu>
@@ -22143,6 +22159,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114335Z">
         <seg>加熱輸出：約 120 W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height of test object, /?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121500Z" creationid="CCYU" creationdate="20141210T121500Z">
+        <seg>測試目標高度，h</seg>
       </tuv>
     </tu>
     <tu>
