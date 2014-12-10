@@ -5453,6 +5453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A-weighted / Narrow-band / Time-synchronous</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120349Z" creationid="CCYU" creationdate="20141210T120349Z">
+        <seg>A-加權 / 窄頻 / 時間同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A-weighted sound</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T084059Z" creationid="Judy" creationdate="20141206T084000Z">
@@ -13306,10 +13314,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRY-TYPE &lt;t0/&gt;TRANSFORMER WITH ENCLOSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120210Z" creationid="CCYU" creationdate="20141210T120210Z">
+        <seg>乾式變壓器含機箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRY-TYPE TRANSFORMER WITH COOLERS INSIDE ENCLOSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120240Z" creationid="CCYU" creationdate="20141210T120240Z">
+        <seg>乾式變壓器含冷卻器於機箱內</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DRY-TYPE TRANSFORMER WITHOUT ENCLOSURE</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120122Z" creationid="CCYU" creationdate="20141210T120122Z">
-        <seg>無機箱乾式變壓器</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120221Z" creationid="CCYU" creationdate="20141210T120122Z">
+        <seg>乾式變壓器不含機箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -13758,6 +13782,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231722Z" creationid="Judy" creationdate="20141209T231722Z">
         <seg>保證等級詳細資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of measurement method</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120255Z" creationid="CCYU" creationdate="20141210T120255Z">
+        <seg>量測方法詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -32193,6 +32225,15 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measurement standard Sound pressure / Sound intensity</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120323Z" creationid="CCYU" creationdate="20141210T120323Z">
+        <seg>量測標準
+聲壓 / 聲音強度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measurements at other tap positions m&lt;t0/&gt;ay be specified in the enquiry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T022530Z">
@@ -46024,6 +46065,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T120220Z">
         <seg>我們的產品非常適合用於油罐區，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120243Z" creationid="CCYU" creationdate="20141210T120243Z">
+        <seg>抽頭位置</seg>
       </tuv>
     </tu>
     <tu>
