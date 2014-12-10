@@ -10862,6 +10862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calculated A-weighted sound pressure &lt;t0/&gt;level or sound power level I&lt;t1/&gt;pA&lt;t2/&gt; &lt;t3/&gt;or&lt;t4/&gt; i&lt;t5/&gt;WA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125309Z" creationid="CCYU" creationdate="20141210T125309Z">
+        <seg>計算 A-加權聲壓等級或聲音功率等級 LpA 或 LWA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calculated quantities as per Table C.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T151446Z" creationid="CCYU" creationdate="20141104T151446Z">
@@ -41030,8 +41038,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Remarks, additional results, etc. (including details of any significantly high sound pressure levels at positions other than the measuring positions):</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T124841Z" creationid="CCYU" creationdate="20141210T124841Z">
-        <seg>註記 、額外結果等Remarks, additional results, etc. (including details of any significantly high sound pressure levels at positions other than the measuring positions):</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125107Z" creationid="CCYU" creationdate="20141210T124841Z">
+        <seg>註記 、額外結果等 (包含任何量測位置以外之顯著高聲壓等級的詳細資訊)：</seg>
       </tuv>
     </tu>
     <tu>
