@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>' 8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123827Z" creationid="CCYU" creationdate="20141210T123827Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'&lt;t0/&gt;additional&lt;t1/&gt; loss'.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T143748Z">
@@ -5485,6 +5493,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A-weighted sound &lt;t0/&gt;pressure levels of the background noise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123725Z" creationid="CCYU" creationdate="20141210T123700Z">
+        <seg>背景噪音之 A-加權聲壓等級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A-weighted sound pressure level with the test object inoperative</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T104505Z" creationid="Judy" creationdate="20141206T063131Z">
@@ -8925,6 +8941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assuming sound pressure method is used</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123632Z" creationid="CCYU" creationdate="20141210T123632Z">
+        <seg>假設使用聲壓法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T152717Z" creationid="CCYU" creationdate="20141105T152717Z">
@@ -8981,6 +9005,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At end of tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123816Z" creationid="CCYU" creationdate="20141210T123816Z">
+        <seg>測試結束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At higher temperatures acetic acid may be released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T095903Z">
@@ -9033,6 +9065,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T133107Z">
         <seg>此部分中的幾處指明或建議替代或額外的技術解決方案或程序應達成之“協議”，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At start of tests</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123808Z" creationid="CCYU" creationdate="20141210T123808Z">
+        <seg>測試起始</seg>
       </tuv>
     </tu>
     <tu>
@@ -38732,8 +38772,16 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Plan of test object;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120904Z" creationid="CCYU" creationdate="20141210T120904Z">
-        <seg>測試目標之計畫：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123744Z" creationid="CCYU" creationdate="20141210T120904Z">
+        <seg>測試目標之規劃：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plan position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123737Z" creationid="CCYU" creationdate="20141210T123737Z">
+        <seg>規劃位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -67468,8 +67516,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>including measuring positions, position of HV bushings, proximity of nearby sound reflecting surfaces, for example, e&lt;t0/&gt;quipment, walls, and positions for background noise measurements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121117Z" creationid="CCYU" creationdate="20141210T121117Z">
-        <seg>包括量測位置、高壓套管位置、鄰近之聲音反射面如設備、牆面以及背景雜訊量測之位置</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T123709Z" creationid="CCYU" creationdate="20141210T121117Z">
+        <seg>包括量測位置、高壓套管位置、鄰近之聲音反射面如設備、牆面以及背景噪音量測之位置</seg>
       </tuv>
     </tu>
     <tu>
