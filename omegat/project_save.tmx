@@ -12888,6 +12888,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current at which measurements made (if appropriate)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121330Z" creationid="CCYU" creationdate="20141210T121330Z">
+        <seg>進行量測處之電流 (如適用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current flowing in the winding conductors produces electromagnetic forces in the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005410Z" creationid="Judy" creationdate="20141206T005410Z">
@@ -13358,6 +13366,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120221Z" creationid="CCYU" creationdate="20141210T120122Z">
         <seg>乾式變壓器不含機箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRY-TYPE TRANSFORMER'WITH COOLERS INSIDE ENCLOSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120826Z" creationid="CCYU" creationdate="20141210T120826Z">
+        <seg>乾式變壓器含冷卻器於機箱內</seg>
       </tuv>
     </tu>
     <tu>
@@ -16431,6 +16447,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T101857Z">
         <seg>例外：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excitation voltage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121213Z" creationid="CCYU" creationdate="20141210T121213Z">
+        <seg>通電電壓</seg>
       </tuv>
     </tu>
     <tu>
@@ -21001,6 +21025,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121218Z" creationid="CCYU" creationdate="20141210T121218Z">
+        <seg>頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frequency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T124446Z">
@@ -22127,6 +22159,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123138Z" creationid="CCYU" creationdate="20141209T123138Z">
         <seg>油槽高度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Height(s) of microphone above ground:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121143Z" creationid="CCYU" creationdate="20141210T121143Z">
+        <seg>麥克風離地高度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30729,6 +30769,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Length of prescribed contour(s), /&lt;t0/&gt;m</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121436Z" creationid="CCYU" creationdate="20141210T121436Z">
+        <seg>測定線長度，l&lt;t0/&gt;m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Less extensive faults, such as breakdown of coil-to-coil or even turn-to-turn insulation are normally not recognizable on the voltage recordings but may sometimes be detected as high-frequency oscillations; cur&lt;t0/&gt;rent records will normally detect these faults.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233151Z" creationid="CCYU" creationdate="20141126T233007Z">
@@ -32117,6 +32165,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T123159Z" creationid="CCYU" creationdate="20141209T123159Z">
         <seg>量測距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measurement distance, &lt;t0/&gt;X</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121350Z" creationid="CCYU" creationdate="20141210T121350Z">
+        <seg>量測距離，&lt;t0/&gt;X</seg>
       </tuv>
     </tu>
     <tu>
@@ -38646,6 +38702,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121212Z">
         <seg>於手提桶下放置吸收墊不僅能避免操作員造成的經常性滴漏，同時也能預防大規模的洩漏發生 (叉動車刺穿、閥門破裂或閥門未緊閉)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plan of test object;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120904Z" creationid="CCYU" creationdate="20141210T120904Z">
+        <seg>測試目標之計畫：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46681,6 +46745,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T043431Z">
         <seg>測試分類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test conditions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121150Z" creationid="CCYU" creationdate="20141210T121150Z">
+        <seg>測試條件</seg>
       </tuv>
     </tu>
     <tu>
@@ -67366,6 +67438,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022231Z">
         <seg>&lt;t0/&gt;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>including measuring positions, position of HV bushings, proximity of nearby sound reflecting surfaces, for example, e&lt;t0/&gt;quipment, walls, and positions for background noise measurements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121117Z" creationid="CCYU" creationdate="20141210T121117Z">
+        <seg>包括量測位置、高壓套管位置、鄰近之聲音反射面如設備、牆面以及背景雜訊量測之位置</seg>
       </tuv>
     </tu>
     <tu>
