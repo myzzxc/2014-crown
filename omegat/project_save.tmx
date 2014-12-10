@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(delete as appropriate)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120607Z" creationid="CCYU" creationdate="20141210T120607Z">
+        <seg>(刪除不適用項)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(figure A.1a)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141130T153556Z" creationid="Judy" creationdate="20141130T153556Z">
@@ -10790,6 +10798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calibration information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120802Z" creationid="CCYU" creationdate="20141210T120802Z">
+        <seg>校正資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Canadian Sphagnum Peat Moss 100%</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134333Z">
@@ -13330,9 +13346,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRY-TYPE TRANSFORMER WITH ENCLOSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120820Z" creationid="CCYU" creationdate="20141210T120820Z">
+        <seg>乾式變壓器含機箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DRY-TYPE TRANSFORMER WITHOUT ENCLOSURE</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120221Z" creationid="CCYU" creationdate="20141210T120122Z">
+        <seg>乾式變壓器不含機箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DRY-TYPE&lt;t0/&gt; TRANSFORMER WITHOUT ENCLOSURE</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120816Z" creationid="CCYU" creationdate="20141210T120816Z">
         <seg>乾式變壓器不含機箱</seg>
       </tuv>
     </tu>
@@ -13782,6 +13814,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231722Z" creationid="Judy" creationdate="20141209T231722Z">
         <seg>保證等級詳細資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details of me&lt;t0/&gt;asuring instrument</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120626Z" creationid="CCYU" creationdate="20141210T120626Z">
+        <seg>量測儀器詳細資訊</seg>
       </tuv>
     </tu>
     <tu>
@@ -31609,6 +31649,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120728Z" creationid="CCYU" creationdate="20141210T120728Z">
+        <seg>製造商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make hand washing equipment available in the work area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T173815Z">
@@ -32418,6 +32466,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meter type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120755Z" creationid="CCYU" creationdate="20141210T120744Z">
+        <seg>儀器類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Method Detail</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T021736Z">
@@ -32518,6 +32574,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141209T122417Z" creationid="CCYU" creationdate="20141209T122417Z">
         <seg>麥克風間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microphone type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120749Z" creationid="CCYU" creationdate="20141210T120749Z">
+        <seg>麥克風類型</seg>
       </tuv>
     </tu>
     <tu>
@@ -45397,6 +45461,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TRANSFORMER / REACTOR WITH COOLERS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120814Z" creationid="CCYU" creationdate="20141210T120814Z">
+        <seg>變壓器 / 反應器含冷卻器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSFORMER / REACTOR WITHOUT COOLERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120107Z" creationid="CCYU" creationdate="20141210T115906Z">
@@ -46713,6 +46785,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T091951Z" creationid="Judy" creationdate="20141101T091951Z">
         <seg>特定變壓器之測試修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test object</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T120808Z" creationid="CCYU" creationdate="20141210T120808Z">
+        <seg>測試目標</seg>
       </tuv>
     </tu>
     <tu>
