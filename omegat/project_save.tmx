@@ -13634,6 +13634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125450Z" creationid="CCYU" creationdate="20141210T125450Z">
+        <seg>日期：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decisi&lt;t0/&gt;on</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T230902Z" creationid="Judy" creationdate="20141207T230902Z">
@@ -21909,6 +21917,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T133235Z">
         <seg>保證最高溫度上升資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guaranteed sound pressure level or sound power level</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125329Z" creationid="CCYU" creationdate="20141210T125329Z">
+        <seg>保證聲壓等級或聲音功率等級 level</seg>
       </tuv>
     </tu>
     <tu>
@@ -38714,6 +38730,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Persons present during sound level measurements and their status</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125417Z" creationid="CCYU" creationdate="20141210T125417Z">
+        <seg>音量量測現場人員及人員狀態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phase displacement in clock number notation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153606Z">
@@ -43489,6 +43513,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144923Z">
         <seg>Signal word&lt;t0/&gt;              &lt;t1/&gt;: 警示語：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Signed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T125459Z" creationid="CCYU" creationdate="20141210T125459Z">
+        <seg>簽章：</seg>
       </tuv>
     </tu>
     <tu>
