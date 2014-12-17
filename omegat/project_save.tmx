@@ -29418,8 +29418,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T205610Z">
-        <seg>導論</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141217T114958Z">
+        <seg>簡介</seg>
       </tuv>
     </tu>
     <tu>
@@ -64818,6 +64818,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002803Z" creationid="Judy" creationdate="20141206T002803Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and the SDGs: Preliminary exploration of the issues</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141217T114943Z" creationid="Judy" creationdate="20141217T114943Z">
+        <seg>問題初步探討</seg>
       </tuv>
     </tu>
     <tu>
