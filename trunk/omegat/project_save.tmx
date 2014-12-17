@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14174,6 +14174,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T155027Z" creationid="CCYU" creationdate="20141101T153547Z">
         <seg>關機瞬間繞組電阻測定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development cooperation in the light of sustainable development</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141217T114501Z" creationid="Judy" creationdate="20141217T114501Z">
+        <seg>永續發展與永續發展目標 (SDGs) 之開發合作：</seg>
       </tuv>
     </tu>
     <tu>
