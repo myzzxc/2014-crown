@@ -21483,8 +21483,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Furthermore, as s&lt;t2/&gt;tated in its introduction, it had the ambition of being "a comprehensive blueprint for action to be taken globally, from now into the twenty-first century".</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T231306Z" creationid="Judy" creationdate="20141218T231306Z">
-        <seg>此外，其簡介中說明 21 世紀議程具有雄心成為 "由現在至二十一世紀全球所採取行動的全面性藍圖"。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T231326Z" creationid="Judy" creationdate="20141218T231306Z">
+        <seg>此外，其簡介中說明 21 世紀議程具有願景成為 "由現在至二十一世紀全球所採取行動的全面性藍圖"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48337,6 +48337,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T022139Z" creationid="CCYU" creationdate="20141025T022139Z">
         <seg>本產品操作之環境溫度範圍為 -15&lt;t0/&gt;℃&lt;t1/&gt;~&lt;t2/&gt;+60&lt;t3/&gt;℃&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ambition was high, and so were the stated goals of the Agenda: improving the living standards o&lt;t3/&gt;f those in need; better managing and protecting the earth’s ecosystem; and bringing about a more prosperous future for all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T231757Z" creationid="Judy" creationdate="20141218T231757Z">
+        <seg>議程具有遠大願景，其設定目標為：提高有所需求的人類生活水準；改進地球生態系統的管理和保護；並帶給全人類更加繁榮的未來。</seg>
       </tuv>
     </tu>
     <tu>
