@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29624,6 +29624,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It explores the evolution of international cooperation, and in particular finance, in response to the emergence of the sustainable development agenda, and their contribution to su&lt;t1/&gt;pporting that agenda.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T140255Z" creationid="Judy" creationdate="20141218T140255Z">
+        <seg>它揭示了國際合作，並在特定的金融領域，在可持續發展議程中，出現的反應和他們對蘇的貢獻 &lt;t1/&gt; pporting 這一議程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It follows from the above that the recommended values are in effect minimum values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T151048Z" creationid="CCYU" creationdate="20141115T151048Z">
@@ -52663,8 +52671,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>The purpose of this paper is to explore the nexus between the sustainable development agenda -- fro&lt;t0/&gt;m the Earth Summit in 1992 to Rio+20 in 2012 -- and development cooperation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141217T115623Z" creationid="Judy" creationdate="20141217T115512Z">
-        <seg>本文為探索永續發展  — 由 1992 年地球高峰會 (Earth Summit) 至 2012 年里約+20 (Rio+20) — 之議程和發展合作。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T140300Z" creationid="Judy" creationdate="20141217T115512Z">
+        <seg>本文為探索永續發展  — 由 1992 年地球高峰會 (Earth Summit) 至 2012 年里約+20 (Rio+20) — 之議程和發展合作，</seg>
       </tuv>
     </tu>
     <tu>
