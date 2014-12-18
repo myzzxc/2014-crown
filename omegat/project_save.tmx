@@ -29626,8 +29626,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>It explores the evolution of international cooperation, and in particular finance, in response to the emergence of the sustainable development agenda, and their contribution to su&lt;t1/&gt;pporting that agenda.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T140255Z" creationid="Judy" creationdate="20141218T140255Z">
-        <seg>它揭示了國際合作，並在特定的金融領域，在可持續發展議程中，出現的反應和他們對蘇的貢獻 &lt;t1/&gt; pporting 這一議程。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T140747Z" creationid="Judy" creationdate="20141218T140255Z">
+        <seg>其探討特別針對金融領域之國際合作對應永續發展議程的演變，以及對於支持該議程的貢獻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58285,6 +58285,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This paper &lt;t0/&gt;does not engage in detailed examination of the financial flows related to international cooperation - a topic that is covered elsewhere.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T141505Z" creationid="Judy" creationdate="20141218T141505Z">
+        <seg>本文未詳細審查國際合作相關之財務流動  — 此主題收錄於其他論文中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This part of IEC 60076 applies to liquid-immersed transformers, identifies power transformers according to their cooling methods, def&lt;t0/&gt;ines temperature rise limits and gives the methods for temperature rise tests.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141028T102846Z" creationid="MAE" creationdate="20141028T102846Z">
@@ -62034,6 +62042,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074601Z">
         <seg>我們的產品能將油污從水中吸附，使水能正常丟棄處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We then examine how the elaboration of Sustainable Development Goals (SDGs), as proposed by the Rio+20 outcome document, could provide a framework for more effective international cooperation for sustainable development.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T141329Z" creationid="Judy" creationdate="20141218T141329Z">
+        <seg>我們接著檢視依照里約 +20 之成果文件擬定的永續發展目標 (SDGs) 如何提供更有效的永續發展之國際合作架構。</seg>
       </tuv>
     </tu>
     <tu>
