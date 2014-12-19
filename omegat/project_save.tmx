@@ -23243,6 +23243,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Human development has seen progress on a global level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223218Z" creationid="Judy" creationdate="20141219T223218Z">
+        <seg>人類發展取得了全球性的進展。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hydraulic machines</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121230Z">
@@ -44069,6 +44077,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some cou&lt;t0/&gt;ntries have developed rapidly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223422Z" creationid="Judy" creationdate="20141219T223344Z">
+        <seg>有些國家迅速的發展，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some other assumptions to facilitate CFD simulation are made as&lt;t5/&gt; &lt;t6/&gt;follows: ﬂuid viscosity and thermal properties all materials are assumed constant, the working gas is air and assumed to be ideal gas,&lt;t7/&gt; &lt;t8/&gt;and effects from mechanical friction and thermal radiation are ignored.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124549Z">
@@ -61664,8 +61680,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>Various chapters of Agenda 21 have progressed at different paces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223131Z" creationid="Judy" creationdate="20141219T223131Z">
-        <seg>21 世紀議程各章的進展速度也不同。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223416Z" creationid="Judy" creationdate="20141219T223131Z">
+        <seg>21 世紀議程各章的進展速度也不同，</seg>
       </tuv>
     </tu>
     <tu>
