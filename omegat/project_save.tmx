@@ -38002,6 +38002,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overall, since 1992 progress on sustainable development has been limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223053Z" creationid="Judy" creationdate="20141219T223053Z">
+        <seg>總體而言，自 1992 年以來永續發展的進展有限，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overhead installation allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T141214Z">
@@ -61650,6 +61658,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T140807Z">
         <seg>可變通量電壓變化 (VFVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various chapters of Agenda 21 have progressed at different paces.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223131Z" creationid="Judy" creationdate="20141219T223131Z">
+        <seg>21 世紀議程各章的進展速度也不同。</seg>
       </tuv>
     </tu>
     <tu>
