@@ -19913,8 +19913,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For example, according to a review of Agenda 21 und&lt;t0/&gt;ertaken during the preparation of Rio+20 (Stakeholder Forum, 2012), the</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T094458Z" creationid="Judy" creationdate="20141220T094458Z">
-        <seg>例如，於根據審查議程 21 和 &lt;t0/&gt; ertaken 的裡約 + 20 （利益相關方論壇，2012年），製備過程中</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T094935Z" creationid="Judy" creationdate="20141220T094458Z">
+        <seg>例如，根據里約+20 準備期間進行之 21 世紀議程的審查 (利益相關方論壇，2012)，</seg>
       </tuv>
     </tu>
     <tu>
@@ -22133,6 +22133,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z">
         <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得地面控制點數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group of 77 developing countries still &lt;t0/&gt;favour&lt;t1/&gt; the implementation of the financial agreement in Rio and this would include a separate, specific global fund, as well as commitments that &lt;t2/&gt;financing will not be obtained through reallocation of existing development assistance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T094932Z" creationid="Judy" creationdate="20141220T094932Z">
+        <seg>77 國開發中國家集團仍贊成里約會議之財政協定的執行，包括一個單獨的、 具體的全球基金，以及承諾， &lt;t2/&gt; 融資不獲得通過重新分配現有的發展援助。</seg>
       </tuv>
     </tu>
     <tu>
