@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(WESS)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T154744Z" creationid="Judy" creationdate="20141220T154744Z">
+        <seg>世界經濟與社會調查 (WESS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(d: Nominal diameter of the bar; h: Rip height of the bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125835Z">
@@ -13080,6 +13088,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coverage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T154525Z" creationid="Judy" creationdate="20141220T154525Z">
+        <seg>覆蓋範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cracked</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T074539Z">
@@ -16503,6 +16519,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112259Z">
         <seg>重要特性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Estimate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T154523Z" creationid="Judy" creationdate="20141220T154523Z">
+        <seg>估計</seg>
       </tuv>
     </tu>
     <tu>
@@ -61554,6 +61578,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141218T230545Z" creationid="Judy" creationdate="20141218T144651Z">
         <seg>聯合國環境與發展會議催生了大量的國際文件以持續提供永續發展的架構，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNDESA,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T154545Z" creationid="Judy" creationdate="20141220T154545Z">
+        <seg>聯合國經濟社會事務部，</seg>
       </tuv>
     </tu>
     <tu>
