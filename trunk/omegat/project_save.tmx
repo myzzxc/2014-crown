@@ -40452,6 +40452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Providing liquidity to lending institutions when this is&lt;t0/&gt; the limiting factor;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T140947Z" creationid="Judy" creationdate="20141220T140947Z">
+        <seg>當貸款機構為限制因素時增加其流動性；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Provision for unusual service conditions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T163003Z">
