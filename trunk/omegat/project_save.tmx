@@ -12976,6 +12976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Correct the imbalance between the “needs” and the resource flows: if global &lt;t0/&gt;decarbonisation&lt;t1/&gt; is to occur, allocations should reflect needs at the country and regional level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T142821Z" creationid="Judy" creationdate="20141220T142821Z">
+        <seg>改正 "需求" 和資源流動之間的不平衡：若進行全球減碳，分配撥款應反映國家和區域層級之需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrected average A-weighted sound pressure level, &lt;t0/&gt;L</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T124352Z" creationid="CCYU" creationdate="20141210T124238Z">
@@ -22187,8 +22195,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Go&lt;t0/&gt;ing forward, three important directions should be kept in mind:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T142517Z" creationid="Judy" creationdate="20141220T142517Z">
-        <seg>應牢記三個重要方向：</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T142601Z" creationid="Judy" creationdate="20141220T142517Z">
+        <seg>展望未來，應牢記三個重要方向：</seg>
       </tuv>
     </tu>
     <tu>
