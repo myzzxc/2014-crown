@@ -6637,6 +6637,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agriculture and food: increasing&lt;t0/&gt; agricultural yields to ensure global food security without further expanding agricultural land (developing country only).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T160922Z" creationid="Judy" creationdate="20141220T160922Z">
+        <seg>農業和食物：不進一步擴大農業用地的情況下增加農業的產量以確保全球糧食穩定（僅適用於開發中國家）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Air Porosity: 10 - 20% (V/V)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174641Z">
@@ -15287,6 +15295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053525Z" creationid="CCYU" creationdate="20141025T053525Z">
         <seg>文件編號：MRJ05003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does not include estimates for other major uses such as sustainable freshwater management, forestry, fisheries etc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T161001Z" creationid="Judy" creationdate="20141220T161001Z">
+        <seg>不包括其他主要的用途，例如永續的淡水管理、林業、漁業等的估計數。</seg>
       </tuv>
     </tu>
     <tu>
