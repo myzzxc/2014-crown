@@ -4291,6 +4291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;(UNDESA, 2012a)&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T034108Z" creationid="CCYU" creationdate="20141221T034108Z">
+        <seg>（聯合國經濟社會事務部，2012a）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;Based on 2-in.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
@@ -63782,10 +63790,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What high-leverage points of intervention in investment chains should be targeted?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T034050Z" creationid="CCYU" creationdate="20141221T034050Z">
+        <seg>應針對投資鏈哪些高槓桿點進行干預？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is known of the loss of biodiversity points to our current inability to limit &lt;t3/&gt;it.&lt;t4/&gt; Some of the major ecosystems such as oceans are thought by scientis&lt;t5/&gt;ts to be approaching dangerous thresholds that could trigger collapse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T225918Z" creationid="Judy" creationdate="20141219T225918Z">
         <seg>目前人們無法限制以致生物多樣性的減少，科學家認為某些主要的生態系統如海洋已瀕臨瓦解的危險邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What strategy should be followed to align rules and institutions with sustainability objectives?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T033919Z" creationid="CCYU" creationdate="20141221T033919Z">
+        <seg>應遵循何種策略以使規則和機構與永續發展的目標相符？</seg>
       </tuv>
     </tu>
     <tu>
