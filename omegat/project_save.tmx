@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46905,6 +46905,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sustainable development scenarios produced for &lt;t0/&gt;Rio+20 by various research groups have explored a broad range of sustainability goals, most associated with major international development and sustainability goals that are either agreed or have been under discussion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T075338Z" creationid="Judy" creationdate="20141221T075338Z">
+        <seg>多個研究團體對里約+20 所提出之永續發展方案已經探索了廣泛的永續性目標，主要為以達成共識或正在討論之關於國際發展和永續性目標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sustainable use of natural resources (BWR 7&lt;t0/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123605Z">
@@ -59014,6 +59022,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072420Z">
         <seg>他們也會拿到客戶長時間鎖住洩漏物的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are also grounded in (subsets of&lt;t1/&gt;) existing mainstream scientific sets of goals, but clearly leave out elements of wider sustainable development perspectives that typically include community or society aspects, such as peace and social capital.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T075637Z" creationid="Judy" creationdate="20141221T075637Z">
+        <seg>他們也基於現有主流科學設定之目標（的子集），但清楚地留出更廣泛的可持續發展觀點，通常包括社區或社會的方面，例如和平與社會資本的要素。</seg>
       </tuv>
     </tu>
     <tu>
