@@ -9883,9 +9883,9 @@
       <tuv lang="EN-US">
         <seg>BOX 2: Sustainable development scenarios de&lt;t0/&gt;veloped for Rio+20 &lt;t1/&gt;High level of agreement on overall conclusions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T064107Z" creationid="CCYU" creationdate="20141221T064002Z">
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T072523Z" creationid="CCYU" creationdate="20141221T064002Z">
         <seg>方塊 2：里約+20 發展之永續發展方案
-整體結論之高層協定</seg>
+高度共識之整體結論</seg>
       </tuv>
     </tu>
     <tu>
@@ -32545,6 +32545,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020411Z">
         <seg>以下列出幾種常見的應用中如何使用紅外感應器的幾個例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Little agreement on specific policy suggestions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T072657Z" creationid="CCYU" creationdate="20141221T072657Z">
+        <seg>未達共識之特定政策建議</seg>
       </tuv>
     </tu>
     <tu>
