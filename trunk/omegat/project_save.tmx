@@ -6213,6 +6213,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional &lt;t0/&gt;investment in energy infrastructure and capital stock in 2020 in non-OECD countries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012341Z" creationid="Judy" creationdate="20141221T012341Z">
+        <seg>2020 年非經合組織國家之能源基礎設施之額外投資與資本存量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional assumptions to facilitate CFD simulation are as follows: fluid viscosity and thermal properties of all materials are assumed constant, the working gas is air and assumed to be ideal gas, and effects from mechanical friction and thermal radiation are ignored.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141016T140004Z">
@@ -9886,6 +9894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on &lt;t0/&gt;modelling&lt;t1/&gt; undertaken with the IEA World Energy Model.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012418Z" creationid="Judy" creationdate="20141221T012418Z">
+        <seg>根據國際能源總署之世界能源模型進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on estimates provided by the UN agencies in charge of drafting its chapters, Ag&lt;t0/&gt;enda 21 was &lt;t1/&gt;costed&lt;t2/&gt; out at $625 billion USD a year, although this estimate was not validated by governments (Agenda 21, chapter 33).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T133844Z" creationid="Judy" creationdate="20141219T133809Z">
@@ -12916,6 +12932,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231543Z" creationid="Judy" creationdate="20141209T231543Z">
         <seg>合約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrasts a Reference Scenario with a 450ppm greenhouse gas concentration scenario.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012532Z" creationid="Judy" creationdate="20141221T012532Z">
+        <seg>與溫室氣體濃度  450ppm 之參考情況進行對比。</seg>
       </tuv>
     </tu>
     <tu>
