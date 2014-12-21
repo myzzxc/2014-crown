@@ -4869,6 +4869,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A key problem is the existence of important trade-offs across time, sectors, and issues.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T073646Z" creationid="Judy" creationdate="20141221T073646Z">
+        <seg>一個關鍵問題為時間、部份和議題間具有重要的權衡取捨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A larger difference may be acceptable at higher than rated voltage unless this measurement is subject to guarantee.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060700Z">
@@ -33321,6 +33329,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T061107Z" creationid="CCYU" creationdate="20141221T060247Z">
         <seg>許多 "基線" (BAU) 方案已探討了世界持續以其主導之發展模式的潛在後果，此類型之最新方案為假設科技不斷進步之 "動態線" (DAU) 方案，例如能源效率跟隨以往之動態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many “green” scenarios are unsustainable in at least one or more dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T073733Z" creationid="Judy" creationdate="20141221T073733Z">
+        <seg>許多 "綠化" 方案無法於至少一個或多個維度中持續。</seg>
       </tuv>
     </tu>
     <tu>
