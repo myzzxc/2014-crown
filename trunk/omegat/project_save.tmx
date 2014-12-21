@@ -13328,6 +13328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currency transaction taxes (CTT or Tobin tax)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T042737Z" creationid="CCYU" creationdate="20141221T042737Z">
+        <seg>貨幣交易稅（CTT 或 Tobin 稅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T040434Z" creationid="CCYU" creationdate="20141025T040434Z">
