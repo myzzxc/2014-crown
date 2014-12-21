@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7145,6 +7145,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T160232Z">
         <seg>雖然 PIV 技術不如傳統傳統小區域地質田野調查精確，但它可以為研究人員難以進入的地區提供之大範圍分析以及非遽變性地滑或山地潛移的不明顯趨勢，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although the coverage, assumptions and methodologies in various studies differ, the estimates in Table 1 are clearly an order of magnitude greater than current flow&lt;t0/&gt;s directed to activities that form part of sustainable development.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T015530Z" creationid="CCYU" creationdate="20141221T015530Z">
+        <seg>儘管涵蓋範圍、假設和各種研究方法不同，表 1 中的估計顯然較現今永續發展活動流向大一個數量級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16775,6 +16783,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T041000Z" creationid="MAE" creationdate="20141118T041000Z">
         <seg>即使少量接觸較高的局部放電亦可能導致油或液體局部損壞並暫時降低結束與再起始電壓，但可能於數小時內自行恢復原始的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if all concerned donor Governments were to meet the target of 0.7% of GNI in official development assistance, this would provide only USD 270 billion a year for all uses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T015726Z" creationid="CCYU" creationdate="20141221T015726Z">
+        <seg>即使所有捐助國政府之官方發展援助達到國民總收入 0.7% 之目標，每年也僅為所有使用者提供 2700 億美元。</seg>
       </tuv>
     </tu>
     <tu>
