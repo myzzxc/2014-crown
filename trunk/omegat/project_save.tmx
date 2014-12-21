@@ -4435,6 +4435,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t7/&gt;(UNDESA, 2012a).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T063735Z" creationid="CCYU" creationdate="20141221T063735Z">
+        <seg>（聯合國經濟社會事務部，2012a）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t8/&gt;T&lt;t9/&gt;hey found that power output decreased sharply for low fill factors and large wire diameters, which resulted in smaller total heat transfer area in the regenerator matrix.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T151841Z">
@@ -10741,6 +10749,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092801Z">
         <seg>透過最小平方高斯擬合將插值擬合至接近整數的峰值，位移向量解析度可達單像素以下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By its sheer scale, human activity will have transgressed&lt;t4/&gt; the majority of the planetary boundaries as defined by J. &lt;t5/&gt;Rockstrom&lt;t6/&gt; and colleagues in 2009, with unknown effects but increasing the long-term risk of global collapse of the earth’s ecosystem.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T063718Z" creationid="CCYU" creationdate="20141221T063718Z">
+        <seg>人類活動龐大的規模違背 J. Rockstrom 及其同僚於 2009 年所定義之主要行星邊界，其影響未知，但增加了地球生態系統的全球性瓦解的長期風險。</seg>
       </tuv>
     </tu>
     <tu>
