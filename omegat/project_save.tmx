@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(IEA)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012154Z" creationid="Judy" creationdate="20141221T012154Z">
+        <seg>國際能源總署 (IEA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the transformer has several assigned cooling methods, the respectiv&lt;t0/&gt;e&lt;t1/&gt; power values may be expressed as percentages of rated power, for example ONAN/ONA 70/100 %.)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021211Z">
@@ -9690,6 +9698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023434Z" creationid="CCYU" creationdate="20141025T023434Z">
         <seg>遮蔽元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BAU scenarios make investments according to existing patterns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012035Z" creationid="Judy" creationdate="20141221T012035Z">
+        <seg>基線方案依據現有模式進行投資。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54941,6 +54957,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The study then contrasts the economic, social and environmental outcomes of the scenarios.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012126Z" creationid="Judy" creationdate="20141221T012126Z">
+        <seg>該研究比對方案的經濟、社會和環境的成果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The subject of this European Technical Assessment is the post-installed connection, by&lt;t0/&gt; &lt;t1/&gt;anchoring or overlap connection joint, of reinforcing bars (&lt;t2/&gt;rebars&lt;t3/&gt;) in existing structures made of&lt;t4/&gt; &lt;t5/&gt;normal weight concrete, using the "&lt;t6/&gt;Multifix&lt;t7/&gt; Injection System MF-EX1 for rebar connection" in&lt;t8/&gt; &lt;t9/&gt;accordance with the regulations for reinforced concrete construction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015606Z">
@@ -61722,6 +61746,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T154850Z" creationid="Judy" creationdate="20141220T154850Z">
         <seg>2000 - 2050 年每年 1 兆 1000 億美元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USD 197bn each year</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T012226Z" creationid="Judy" creationdate="20141221T012226Z">
+        <seg>每年 1970 億美元</seg>
       </tuv>
     </tu>
     <tu>
