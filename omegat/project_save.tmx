@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22721,6 +22721,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132229Z">
         <seg>必須特別注意以確保指定之阻抗值正確，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great differences remain in&lt;t0/&gt; terms of specific policy recommendations that are drawn from scenario results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T073459Z" creationid="Judy" creationdate="20141221T073459Z">
+        <seg>由方案中結果得出之特定的政策建議存在著巨大差異，</seg>
       </tuv>
     </tu>
     <tu>
