@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28235,6 +28235,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other words, it is highly likely that scenario&lt;t0/&gt;s in general tend to underestimate the challenge of moving humanity onto a sustainable development path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T074828Z" creationid="Judy" creationdate="20141221T074828Z">
+        <seg>換句話說，該方案極有可能傾向於低估人類對永續發展路徑上所帶來的挑戰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, the adoption of sustainable &lt;t1/&gt;behaviours&lt;t2/&gt; by individuals and firms alike is in no small part conditioned by the broader rules and institutions in society.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T025408Z" creationid="CCYU" creationdate="20141221T025242Z">
@@ -41210,8 +41218,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Proposed “solutions” are often inconsistent across sectors.&lt;t0/&gt; For example, all the mainstream sustainable development scenarios for Rio+20 see substantial increases in biofuel production and deployment of modern renewables, and consequently lead to significantly increased water and land use, increased water stress f&lt;t1/&gt;or the majority of the world population, as well as anthropogenic interference with phosphorus and nitrogen flows at a level that has been deemed incompatible with planetary limits by environmental science.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T074304Z" creationid="Judy" creationdate="20141221T074304Z">
-        <seg>各部份間所提出之 "解決方案" 往往不一致。例如，所有里約+20 之主流的永續發展方案中，預見生質燃料生產和部署現代可再生能源，並因此導致顯著增加的水和土地利用，增加水壓力 f &lt;t1/&gt; 或大多數的世界人口，磷和氮流在一定水準，已被環境科學視為與行星的限制不相容的匯的人為干擾。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T074642Z" creationid="Judy" creationdate="20141221T074304Z">
+        <seg>各部份間所提出之 "解決方案" 往往不一致。例如，所有里約+20 之主流的永續發展方案中預見現代可再生能源中生質燃料之生產和配置大幅增加，並因此導致水和土地利用顯著增加，使大多數的世界人口增加缺水壓力，且人為造成之磷和氮流之水準已超出環境科學所提出之行星限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45661,6 +45669,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T013454Z" creationid="Judy" creationdate="20141221T013454Z">
         <seg>資料來源：作者之論述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source: UNDESA (2012a).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T074944Z" creationid="Judy" creationdate="20141221T074944Z">
+        <seg>來源：聯合國經濟社會事務部 (2012a)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59486,6 +59502,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030243Z" creationid="CCYU" creationdate="20141025T030243Z">
         <seg>此電纜接頭不包含於 MOOG 範圍內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This calls for greater caution and humility about what can be achieved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T074929Z" creationid="Judy" creationdate="20141221T074929Z">
+        <seg>必須更謹慎和謙虛地評估可能達到之目標。</seg>
       </tuv>
     </tu>
     <tu>
