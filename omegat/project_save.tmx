@@ -22676,6 +22676,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gross world product quadruples to US$300 trillion in 2050, with Brazil, Russia, India, China and South&lt;t1/&gt; Africa (BRICS) alone accounting for 40% of the world economy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T062618Z" creationid="CCYU" creationdate="20141221T062618Z">
+        <seg>2050 年世界生產毛額將四倍成長至 $300 兆美元，巴西、俄羅斯、印度、中國以及南非（金磚四國）將占世界經濟的 40%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground control points (GCPs) are necessary information on the Earth's surface to determine the relationship, so the GCPs data (read from the 1/5000 photo base map which is measured by Aerial Survey Office, Forestry Bureau) have to be acquired before we start to rectify these images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z">
@@ -29311,6 +29319,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T172805Z">
         <seg>建議焚化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Income convergence across countries continues rapidly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T062753Z" creationid="CCYU" creationdate="20141221T062753Z">
+        <seg>各國之收入水平持續迅速收斂。</seg>
       </tuv>
     </tu>
     <tu>
