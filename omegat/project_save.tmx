@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28993,6 +28993,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T023052Z">
         <seg>圖中並未繪製橫向鋼筋，橫向鋼筋應遵守 EN 1992-1-1:20044，AC：2010。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Rio+20 outcome document, member States clearly stated that the SDG process “needs to be &lt;t0/&gt;coordinated and coherent with the processes to consider the post-2015 development agenda.” During both SDG and post-2015 consultations (formal and informal), member States, civil society, and UN stakeholders consistently expressed their desire for a single&lt;t1/&gt; set of development goals to complement the MDGs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T101217Z" creationid="Judy" creationdate="20141221T101217Z">
+        <seg>里約+20 之成果文件中，會員國清楚指出發展目標 "需要協調和連貫與考慮 2015 年後之發展議程"。於發展目標和 2015 年後之協商中（正式的和非正式），會員國、公民社會以及聯合國在利益相關方一貫表示他們渴望單套發展目標以補足千禧年發展目標。</seg>
       </tuv>
     </tu>
     <tu>
