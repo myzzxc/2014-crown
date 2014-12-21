@@ -6190,6 +6190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action-oriented</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091320Z" creationid="Judy" creationdate="20141221T091320Z">
+        <seg>行動導向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active power consumption of motor drive</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154342Z">
@@ -9252,6 +9260,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134520Z">
         <seg>Aspiration hazard 吸入危害性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aspirational</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091442Z" creationid="Judy" creationdate="20141221T091442Z">
+        <seg>立定目標</seg>
       </tuv>
     </tu>
     <tu>
@@ -12743,6 +12759,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T133514Z" creationid="CCYU" creationdate="20141101T133514Z">
         <seg>關於強制循環變壓器頂層液體溫度之影響，請見附錄 A。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concise</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091331Z" creationid="Judy" creationdate="20141221T091331Z">
+        <seg>簡潔</seg>
       </tuv>
     </tu>
     <tu>
@@ -16451,6 +16475,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174044Z">
         <seg>泥土氣味</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Easy to communicate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091339Z" creationid="Judy" creationdate="20141221T091339Z">
+        <seg>易溝通</seg>
       </tuv>
     </tu>
     <tu>
@@ -22858,6 +22890,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T160411Z" creationid="Judy" creationdate="20141220T160411Z">
         <seg>全球估計數根據一系列的研究結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global in nature</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091450Z" creationid="Judy" creationdate="20141221T091450Z">
+        <seg>全球性</seg>
       </tuv>
     </tu>
     <tu>
@@ -32658,6 +32698,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T233419Z" creationid="CCYU" creationdate="20141126T233148Z">
         <seg>同樣地，測試之端週邊的早期故障可能於波形圖或數位記錄上僅出現微小徵兆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limited in number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091351Z" creationid="Judy" creationdate="20141221T091351Z">
+        <seg>限制數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -45998,6 +46046,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T143618Z" creationid="Judy" creationdate="20141220T143618Z">
         <seg>來源：聯合國經濟社會事務部 (2012b)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source: United Nations &lt;t0/&gt;( 2012&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091608Z" creationid="Judy" creationdate="20141221T091608Z">
+        <seg>資料來源：聯合國 (2012)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63344,6 +63400,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T004808Z">
         <seg>單位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Universally applicable to all countries, while taking into &lt;t0/&gt;account different national realities, capacity and levels of development, and respecting national policies and priorities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091532Z" creationid="Judy" creationdate="20141221T091532Z">
+        <seg>普遍適用於所有的國家，同時考慮到不同國家國情、能力和發展水準，並尊重國家政策和優先事項。</seg>
       </tuv>
     </tu>
     <tu>
