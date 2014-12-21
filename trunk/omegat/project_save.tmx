@@ -12327,6 +12327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commuters have &lt;t0/&gt;to use automobiles if no public transport systems are in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T024939Z" creationid="CCYU" creationdate="20141221T024939Z">
+        <seg>若無大眾運輸系統則通勤者必須使用汽車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Companies that are processing meat (&lt;t0/&gt;eg&lt;t1/&gt;.&lt;t2/&gt; &lt;t3/&gt;Smithfield Foods, Tyson, &lt;t4/&gt;etc&lt;t5/&gt;).&lt;t6/&gt; They often have heavy duty hydraulic machinery that constantly leaks and can&lt;t7/&gt;’&lt;t8/&gt;t be taken offline.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T070421Z">
@@ -23399,6 +23407,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T104915Z">
         <seg>Hotmelt&lt;t0/&gt; adhesive 熱熔膠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Households cannot recycle domestic waste if the infrastructure that allows for separate waste treatment is not in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T024847Z" creationid="CCYU" creationdate="20141221T024847Z">
+        <seg>若無建立分類之處理設施則家庭無法回收居家廢物，</seg>
       </tuv>
     </tu>
     <tu>
