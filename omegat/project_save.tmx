@@ -17127,6 +17127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ex: review energy strategy of international development banks; same for agricultural and rural development strategy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T084004Z" creationid="Judy" creationdate="20141221T084004Z">
+        <seg>例：審查國際開發銀行之能源策略；對於農業和鄉村發展策略亦同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T220846Z" creationid="Judy" creationdate="20141203T220846Z">
@@ -27376,6 +27384,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083950Z" creationid="CCYU" creationdate="20141123T083920Z">
         <seg>此時則使用測試繞組之非測試端子阻抗和接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T084010Z" creationid="Judy" creationdate="20141221T084010Z">
+        <seg>執行</seg>
       </tuv>
     </tu>
     <tu>
@@ -44798,6 +44814,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141127T141752Z" creationid="CCYU" creationdate="20141127T141752Z">
         <seg>請見圖 B.8 和 B.9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See how aid can best &lt;t0/&gt;contribute to specific &lt;t1/&gt;sectoral&lt;t2/&gt; objectives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T083834Z" creationid="Judy" creationdate="20141221T083834Z">
+        <seg>研究援助如何能最有效地對特定部份目標產生貢獻。</seg>
       </tuv>
     </tu>
     <tu>
