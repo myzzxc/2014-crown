@@ -14416,8 +14416,8 @@
       <tuv lang="EN-US">
         <seg>Despite their variety in terms of &lt;t0/&gt;modelling&lt;t1/&gt; approach and desired goals, the sustainable development scenarios developed for Rio+20 agree to a large extent in their overall conclusions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T064333Z" creationid="CCYU" creationdate="20141221T064333Z">
-        <seg>Connection timed out: connect</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T064553Z" creationid="CCYU" creationdate="20141221T064333Z">
+        <seg>儘管模擬的方法和目標有不同的形式，針對里約+20 所開發之永續發展方案很大程度上同意其整體的結論。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58158,6 +58158,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T064000Z">
         <seg>可使用較小的雙桶系統 (20g 包裝或更小的 5g 包裝)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There&lt;t0/&gt; are numerous feasible pathways to sustainable development.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T064612Z" creationid="CCYU" creationdate="20141221T064612Z">
+        <seg>具有許多永續發展的可行途徑。</seg>
       </tuv>
     </tu>
     <tu>
