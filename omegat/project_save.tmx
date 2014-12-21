@@ -30296,6 +30296,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>International Finance Facility (IFF)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T043047Z" creationid="CCYU" creationdate="20141221T043047Z">
+        <seg>國際融資機制 (IFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>International Standard IEC 60076-1 has been prepared by IEC technical committee 14: Power transformers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T134609Z">
@@ -47897,6 +47905,15 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T020118Z">
         <seg>抽頭 (Tappings)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taxes on airline travel or fuel &lt;t0/&gt;Taxes on global arms trade</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T043221Z" creationid="CCYU" creationdate="20141221T043221Z">
+        <seg>航空稅或燃料稅
+全球軍火貿易稅</seg>
       </tuv>
     </tu>
     <tu>
