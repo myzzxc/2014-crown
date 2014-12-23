@@ -10050,6 +10050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BOX 4: lessons from international cooperation on &lt;t0/&gt;transboundary&lt;t1/&gt; environmental issues</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134435Z" creationid="Judy" creationdate="20141223T134435Z">
+        <seg>方塊 4：跨國環境議題之國際合作借鑑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BROWN GREEN</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T135837Z" creationid="CCYU" creationdate="20141023T135837Z">
@@ -11618,6 +11626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case 1: Unconditional&lt;t0/&gt; &lt;t1/&gt;pledges, lenient rules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134316Z" creationid="Judy" creationdate="20141223T134229Z">
+        <seg>案例 1：無條件承諾，寬鬆的規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case 2: Responses from test-circuit problems</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T051111Z" creationid="Judy" creationdate="20141129T051111Z">
@@ -11626,10 +11642,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Case 2: Unconditional&lt;t0/&gt; &lt;t1/&gt;pledges, &lt;t2/&gt;strict rules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134312Z" creationid="Judy" creationdate="20141223T134252Z">
+        <seg>案例 2：無條件承諾，嚴格的規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case 3: Conditional&lt;t0/&gt; &lt;t1/&gt;pledges, lenient rules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134308Z" creationid="Judy" creationdate="20141223T134308Z">
+        <seg>案例 3：有條件承諾，寬鬆的規則</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Case 3: Responses from test object failures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T062937Z" creationid="Judy" creationdate="20141129T062937Z">
         <seg>案例 3： 測試目標故障之回應</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case 4: Conditional&lt;t0/&gt; &lt;t1/&gt;pledges, strict rules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134345Z" creationid="Judy" creationdate="20141223T134345Z">
+        <seg>案例 4：有條件承諾，嚴格的規則</seg>
       </tuv>
     </tu>
     <tu>
@@ -32970,6 +33010,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T021815Z" creationid="CCYU" creationdate="20141115T021815Z">
         <seg>指定之線路端子須連接在一起同時進行雷擊突波測試，其他端子接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Likely emissions end &lt;t0/&gt;points, based on four&lt;t1/&gt; &lt;t2/&gt;different scenario&lt;t3/&gt; &lt;t4/&gt;futures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T134214Z" creationid="Judy" creationdate="20141223T134214Z">
+        <seg>可能排放結束點，基於四種不同的方案設定條件：</seg>
       </tuv>
     </tu>
     <tu>
