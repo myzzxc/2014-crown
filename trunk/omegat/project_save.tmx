@@ -39305,9 +39305,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>One of the most divisive fault lines concerns the compatibility of sustained economic growth at the global level with environmental sustainability, and by extension the compatibility of societies based &lt;t1/&gt;on ever expanding</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T113554Z" creationid="Judy" creationdate="20141223T113554Z">
-        <seg>
-One of the most divisive fault lines concerns the compatibility of sustained economic growth at the global level with environmental sustainability, and by extension the compatibility of societies based &lt;t1/&gt;on ever expanding</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T114237Z" creationid="Judy" creationdate="20141223T113554Z">
+        <seg>最大的意見分歧斷層之一為全球性的持續經濟成長與環境的永續性之相容性，以及於社會基礎上拓展不斷增長的物質消費使之相容於全球行星上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71581,6 +71580,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T104039Z">
         <seg>重量 (kg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>material consumption with global planetary limits.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T114242Z" creationid="Judy" creationdate="20141223T114242Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
