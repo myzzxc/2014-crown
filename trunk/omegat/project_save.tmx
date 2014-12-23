@@ -24146,8 +24146,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>However, in many cases the addition of these is simply not adequate to solve the problem.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T120847Z" creationid="Judy" creationdate="20141223T120847Z">
-        <seg>然而，在許多情況下這些另外並非只是不足以解決問題。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T121005Z" creationid="Judy" creationdate="20141223T120847Z">
+        <seg>然而，許多情況下這些行動並不足以解決問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61007,6 +61007,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T123856Z">
         <seg>此為雙桶系統能發揮效用之處，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This issue has been abundantly analyzed in the case of climate change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T121041Z" creationid="Judy" creationdate="20141223T121041Z">
+        <seg>對氣候變化的案例中清楚地分析了此問題。</seg>
       </tuv>
     </tu>
     <tu>
