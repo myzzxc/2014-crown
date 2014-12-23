@@ -5207,8 +5207,8 @@
       <tuv lang="EN-US">
         <seg>A second difference between the contexts of the MDGs and the SDGs is the prevalence of collective action problems at the heart of sustainable development, and the&lt;t0/&gt; frequent failure of countries at solving those problems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T115953Z" creationid="Judy" creationdate="20141223T115953Z">
-        <seg>千禧年發展目標M3千年發展目標的上下文和 Sdg 的第二個區別是集體行動問題在可持續發展的核心的盛行和 &lt;t0/&gt; 頻繁失敗的國家在解決這些問題。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T120419Z" creationid="Judy" creationdate="20141223T115953Z">
+        <seg>千禧年發展目標與發展目標間的第二個差異性為永續發展的核心中普遍存有行動問題，以及解決此類問題的國家經常失敗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28448,6 +28448,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T141806Z">
         <seg>在許多應用中，特別是大抽頭範圍之變壓器，對於不同範圍的部份組合使兩種方式：組合電壓變化 (CbVV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many cases the critical issue is the lack of credible enforcement mechanisms that could constrain government actions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T120555Z" creationid="Judy" creationdate="20141223T120555Z">
+        <seg>許多情況下這一關鍵問題是缺乏能約束政府行為的可信的執法機制。</seg>
       </tuv>
     </tu>
     <tu>
