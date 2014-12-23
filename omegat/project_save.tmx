@@ -5149,6 +5149,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A recent global survey of experts found them split on this issue (see Figure 1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T114425Z" creationid="Judy" creationdate="20141223T114425Z">
+        <seg>專家最近進行的一項全球調查發現他們對此問題的意見分歧（請見圖 1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A reduced mechanical attribute of the pipes cannot be derived from these existing microfissures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064504Z">
