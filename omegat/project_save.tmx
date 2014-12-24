@@ -6894,6 +6894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All ODA figures are from the OECD statistics website - &lt;t0/&gt;http://stats.oecd.org/qwids/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T114322Z" creationid="Judy" creationdate="20141224T114322Z">
+        <seg>所有官方發展援助圖示來自經濟合作暨發展組織統計網站 - &lt;t0/&gt;http://stats.oecd.org/qwids/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All cartridges could also be extruded by a battery tool.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061535Z">
@@ -54703,6 +54711,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T095009Z">
         <seg>標稱鋼剪力強度，&lt;t1/&gt;V&lt;t2/&gt;sa&lt;t3/&gt;，必須依照本報告表 5 和表 8 中錨固元件類型，以 &lt;t4/&gt;α&lt;t5/&gt;V,seis &lt;t6/&gt;進行調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The notion of “costs” &lt;t0/&gt;can be understood in different ways and this can generate confusion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T114531Z" creationid="Judy" creationdate="20141224T114531Z">
+        <seg>"成本" 的概念可由不同的方式解釋，這可能產生混淆。</seg>
       </tuv>
     </tu>
     <tu>
