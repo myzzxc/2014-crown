@@ -9186,8 +9186,8 @@
       <tuv lang="EN-US">
         <seg>As measured by its ability to &lt;t1/&gt;support a global shift to SD, the current framework for international coopera&lt;t2/&gt;tion, while constantly evolving, suffers from important shortcomings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T103725Z" creationid="Judy" creationdate="20141224T103536Z">
-        <seg>以其支援全球性轉移至永續發展作為衡量，國際合作的現行架構雖然不斷地進步，但仍有重大的不足之處。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T103954Z" creationid="Judy" creationdate="20141224T103536Z">
+        <seg>以其支援全球性轉移至永續發展作為衡量，國際合作的現行架構雖然不斷地進步，但仍有重大的不足之處，</seg>
       </tuv>
     </tu>
     <tu>
@@ -10926,6 +10926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T115448Z" creationid="Judy" creationdate="20141223T115448Z">
         <seg>企業有義務提供永續性的產品線而不是非永續性產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But other problem areas have been pointed out in this paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T104109Z" creationid="Judy" creationdate="20141224T104109Z">
+        <seg>但本文中指出了其它的問題領域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54071,6 +54079,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T192516Z">
         <seg>蓄熱通道主要功能為於膨脹腔體注入相時預熱氣體和於壓縮腔體注入相時預冷氣體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The management of global common resources is perhaps the area where gaps (and stakes) are the highest.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141224T104018Z" creationid="Judy" creationdate="20141224T103948Z">
+        <seg>全球共有資源管理可能是差距（和風險）最高的領域。</seg>
       </tuv>
     </tu>
     <tu>
