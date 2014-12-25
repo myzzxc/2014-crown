@@ -32278,6 +32278,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It manages and monitors video from various surveillance devices to provide real-time data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141225T125443Z" creationid="Judy" creationdate="20141225T125443Z">
+        <seg>影像分析管理並監控各種監控設備中的影像以提供即時資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may then be neces&lt;t0/&gt;sary to select bushings designed for higher insulation levels than otherwise required for operation at lower altitudes, see Clause 16 of this standard and IEC 60137.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T074116Z" creationid="CCYU" creationdate="20141108T074116Z">
@@ -65256,6 +65264,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141225T113644Z" creationid="Judy" creationdate="20141225T113644Z">
         <seg>影像分析正在改變零售業</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Video analytics&lt;t0/&gt; &lt;t1/&gt;is a revolutionary technology that translates video footages into meaningful surveillance and business data using computer algorithms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20141225T125452Z" creationid="Judy" creationdate="20141225T125312Z">
+        <seg>影像分析&lt;t0/&gt;&lt;t1/&gt;為一種革命性的技術，其利用電腦演算法將錄影轉化成具有意義的監控和的商業資料。</seg>
       </tuv>
     </tu>
     <tu>
