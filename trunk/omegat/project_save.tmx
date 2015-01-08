@@ -7046,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All other necessary trouble shooting eliminations and maintenance work can only be performed by authorized personal of the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132431Z" creationid="CCYU" creationdate="20150108T132431Z">
+        <seg>僅能由製造商授權人員執行所有其他必要的故障排除和維修工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T133748Z">
@@ -55199,6 +55207,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151658Z">
         <seg>操作條件：引擎轉速為 — 120.0 rpm (順時針)；冷端和熱端溫度分別為 300.0 K 和 400.0 K。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The operator is obligated to contact the manufacturer in such incident.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132530Z" creationid="CCYU" creationdate="20150108T132530Z">
+        <seg>營運商有義務與製造商聯繫進行上述服務。</seg>
       </tuv>
     </tu>
     <tu>
