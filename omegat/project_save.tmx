@@ -41559,6 +41559,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the level on the machine table and level the machine in the X and Y direction to 0.1mm/meter (.004“/40“&lt;t0/&gt;)(&lt;t1/&gt;SEE PHOTO)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T152850Z" creationid="CCYU" creationdate="20150108T152850Z">
+        <seg>將水平儀置於機台桌面上並降機台 X 和 Y 方向之水平調整至 0.1mm/meter (.004“/40“)( 請見圖）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Placing sets of mats under   the totes not only protects against constant drips from operators, but also provides disaster prevention in the event of a larger leak (forklift puncture, broken valve or valve left open).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T121206Z">
@@ -64216,6 +64224,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T030844Z">
         <seg>運輸重量 (若與總重量不同)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transporting Safety Clamps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T152858Z" creationid="CCYU" creationdate="20150108T152858Z">
+        <seg>運輸安全扣</seg>
       </tuv>
     </tu>
     <tu>
