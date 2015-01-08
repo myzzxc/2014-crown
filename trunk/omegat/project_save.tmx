@@ -32870,6 +32870,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep away loose parts as tools, cloths, hair etc. from the danger zone of the rotating grinding wheel or the rotating profiling wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T134358Z" creationid="CCYU" creationdate="20150108T134358Z">
+        <seg>活動件如工具、衣物、頭髮等應遠離旋轉中之砂輪或加工輪等危險區域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep container tightly closed and dry in a cool, well-ventilated place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T123136Z">
