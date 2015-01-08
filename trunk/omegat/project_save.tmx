@@ -53731,6 +53731,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The gas pressure shock absorber of the protection cover can only be dismantled while in extended state.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T134859Z" creationid="CCYU" creationdate="20150108T134859Z">
+        <seg>保護蓋之氣壓式避震器僅能於伸展狀態下拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The gas that ﬂows forwards and backwards between expansion and compression chambers introduces very strong heat convection effect in both chambers and results in complicated heat transfer behaviors between the gas and the solid boundaries and highly non-uniform temperature distributions across the chambers at any given moment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T021812Z">
