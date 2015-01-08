@@ -2295,6 +2295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&lt;t0/&gt; &lt;t1/&gt;phase; 4&lt;t2/&gt;00&lt;t3/&gt;V&lt;t4/&gt; - 480V&lt;t5/&gt; ~&lt;t6/&gt; ± 10%</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153334Z" creationid="CCYU" creationdate="20150108T153334Z">
+        <seg>3 相；400 V - 480V ~ ± 10%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3&lt;t0/&gt; The requirements of the IVW test can be incorporated in the IVPD test so that only one test</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165142Z" creationid="Judy" creationdate="20141109T165142Z">
@@ -4609,6 +4617,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071143Z" creationid="CCYU" creationdate="20141207T071143Z">
         <seg>A = αS&lt;t0/&gt;v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A CEE-Plug or Direct connection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153623Z" creationid="CCYU" creationdate="20150108T153623Z">
+        <seg>A CEE-插頭或直接連接</seg>
       </tuv>
     </tu>
     <tu>
@@ -7508,6 +7524,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T215617Z">
         <seg>其中，Schmidt 提出的模型最為經典，Schmidt 模型之改進版本為當今史特林引擎數值分析最廣泛採用的模型 [6-8]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Amperage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153401Z" creationid="CCYU" creationdate="20150108T153401Z">
+        <seg>電流：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13348,6 +13372,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153548Z" creationid="CCYU" creationdate="20150108T153548Z">
+        <seg>連接：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connections</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231643Z" creationid="Judy" creationdate="20141209T231643Z">
@@ -17391,6 +17423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error message list&lt;t0/&gt; &lt;t1/&gt; &lt;t2/&gt; (09/2011)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153726Z" creationid="CCYU" creationdate="20150108T153726Z">
+        <seg>錯誤訊息清單 (09/2011)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errors in excess of 10 % have been observed due to the built-in curve smoothing algorithms in the digitizers (see&lt;t2/&gt; figures B.18, B.19 and B.21).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T084400Z" creationid="MAE" creationdate="20141124T084248Z">
@@ -18051,6 +18091,70 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022822Z">
         <seg>Eyes&lt;t0/&gt;                  &lt;t1/&gt; :&lt;t2/&gt; &lt;t3/&gt;Slightly irritating to the eyes. 眼睛：對眼睛有輕微刺激性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F100: emergency stop is activated</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153901Z" creationid="CCYU" creationdate="20150108T153825Z">
+        <seg>F100： 已啟用緊急停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F101: over-current drives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153938Z" creationid="CCYU" creationdate="20150108T153840Z">
+        <seg>F101：驅動電流過載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F102: over-current profiling unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153956Z" creationid="CCYU" creationdate="20150108T153930Z">
+        <seg>F102：加工單元電流過載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F103: fuse 24 voltage-power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154105Z" creationid="CCYU" creationdate="20150108T154105Z">
+        <seg>F103：24 伏特-電源斷開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F104: fuse 230/400 voltage-power</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154140Z" creationid="CCYU" creationdate="20150108T154140Z">
+        <seg>F104：230/400 伏特-電源斷開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F105: back-up battery discharged</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154204Z" creationid="CCYU" creationdate="20150108T154204Z">
+        <seg>F105：備用電池耗盡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F106: speed control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154211Z" creationid="CCYU" creationdate="20150108T154211Z">
+        <seg>F106：速度控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F107: main voltage control</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154224Z" creationid="CCYU" creationdate="20150108T154224Z">
+        <seg>F107：主電壓控制</seg>
       </tuv>
     </tu>
     <tu>
@@ -22686,6 +22790,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frequency:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153337Z" creationid="CCYU" creationdate="20150108T153337Z">
+        <seg>頻率：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From &gt; 20 to &lt; 100</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T125535Z" creationid="CCYU" creationdate="20141106T125535Z">
@@ -22994,6 +23106,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140821T015846Z">
         <seg>另外，引擎具有移動元件及動力活塞；因此計算範圍的體積隨時間變化，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fused power:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153539Z" creationid="CCYU" creationdate="20150108T153532Z">
+        <seg>斷開電流：</seg>
       </tuv>
     </tu>
     <tu>
@@ -64176,6 +64296,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T161512Z">
         <seg>運輸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transport &amp; Startup</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153645Z" creationid="CCYU" creationdate="20150108T153645Z">
+        <seg>運輸 &amp; 啟動</seg>
       </tuv>
     </tu>
     <tu>
