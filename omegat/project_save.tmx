@@ -6222,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accumulators and batteries have to be disposed according to the EU Battery regulations 91/157/EWG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130534Z" creationid="CCYU" creationdate="20150108T130534Z">
+        <seg>蓄電池和電池組須依據歐盟電池規章 91/157/EWG 進行處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accurate and reliable temperature measurement is a part of efficient metal processing and steel manu­facturing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T100609Z">
@@ -45186,6 +45194,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130731Z" creationid="CCYU" creationdate="20150108T130731Z">
+        <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety Data Sheet Competent Person:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134149Z">
@@ -47054,6 +47070,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T085432Z">
         <seg>Specific end use(s): 特定用途：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific laws of the country’s disposal regulations have to be obeyed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130714Z" creationid="CCYU" creationdate="20150108T130714Z">
+        <seg>必須遵守各國廢棄處置規章之具體法條。</seg>
       </tuv>
     </tu>
     <tu>
