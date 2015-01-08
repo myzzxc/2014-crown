@@ -18216,6 +18216,46 @@ F114: Fehler CNC  …</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F115: fault A-axis &lt;t0/&gt;Honring&lt;t1/&gt; …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155040Z" creationid="CCYU" creationdate="20150108T155040Z">
+        <seg>F115：A-軸故障 &lt;t0/&gt;警示音&lt;t1/&gt; …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F116: fault Z-Axis &lt;t0/&gt;Honri&lt;t1/&gt;ng&lt;t2/&gt; …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155050Z" creationid="CCYU" creationdate="20150108T155050Z">
+        <seg>F116：Z-軸故障 &lt;t0/&gt;警示音&lt;t1/&gt; …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F117: fault PU-Axis …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155117Z" creationid="CCYU" creationdate="20150108T155117Z">
+        <seg>F117：PU-軸故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F118: Beltcrack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155136Z" creationid="CCYU" creationdate="20150108T155136Z">
+        <seg>F118：皮帶斷裂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F119: fault Z-axis balancing …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155152Z" creationid="CCYU" creationdate="20150108T155152Z">
+        <seg>F119：Z-軸平衡故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F: forced circulation (fans, pumps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140237Z" creationid="CCYU" creationdate="20141028T140237Z">
