@@ -23744,6 +23744,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handling the machine can still be hazardous if not handled by authorized personal or if used improperly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131043Z" creationid="CCYU" creationdate="20150108T131043Z">
+        <seg>若由未經授權之人員操作或不當使用機台，可能造成危險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hands are considerably less sensitive towards heat than the rest of the body’s surface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T150024Z">
@@ -54383,6 +54391,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165329Z" creationid="Judy" creationdate="20141109T165329Z">
         <seg>表 2 所示之最低特定 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;值代表最低測試電壓等級，若無其它指示則應使用此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine is build and designed according to today’s technology.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130841Z" creationid="CCYU" creationdate="20150108T130841Z">
+        <seg>該機台根據現今的技術設計和製造。</seg>
       </tuv>
     </tu>
     <tu>
