@@ -7248,6 +7248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alterations performed by the operator have to be authorized by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T133536Z" creationid="CCYU" creationdate="20150108T133536Z">
+        <seg>營運商進行之修改必須經由製造商授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternative equivalent methods of measurement may be used and additional measurements on the opposite side of the transformer may be required to compensate for tank movement during the test.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T103348Z">
@@ -32242,6 +32250,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T125142Z" creationid="CCYU" creationdate="20150108T125142Z">
         <seg>禁止由未經訓練人員進行啟動、操作或維修機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is prohibited to perform functions which could endanger personal, a non-involved third party, or the function and operation safety.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T133814Z" creationid="CCYU" creationdate="20150108T133814Z">
+        <seg>禁止執行可能造成個人、非相關協力廠商或功能和操作安全危害之功能。</seg>
       </tuv>
     </tu>
     <tu>
