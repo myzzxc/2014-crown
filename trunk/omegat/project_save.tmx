@@ -45338,6 +45338,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety glasses are necessary when setting up the machine with open protection cover.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T134103Z" creationid="CCYU" creationdate="20150108T134103Z">
+        <seg>打開保護蓋進行機台安裝設置時必須使用安全眼鏡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety in case of fire (BWR 2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T112513Z">
@@ -54471,6 +54479,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165329Z" creationid="Judy" creationdate="20141109T165329Z">
         <seg>表 2 所示之最低特定 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;值代表最低測試電壓等級，若無其它指示則應使用此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The machine can only be operated by one person at a time and no person should be around the danger zone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T133920Z" creationid="CCYU" creationdate="20150108T133920Z">
+        <seg>機台同一時間僅能由單人操作，且危險區應保持淨空。</seg>
       </tuv>
     </tu>
     <tu>
