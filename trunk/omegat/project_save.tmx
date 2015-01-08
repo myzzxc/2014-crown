@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;The&lt;t1/&gt; feet are packed in a box with the accessories).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T151606Z" creationid="CCYU" creationdate="20150108T151606Z">
+        <seg>（支腳附於配件盒中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;VOCV 814.018 VOC regulation CH&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101434Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T070843Z">
         <seg>(參照經過 XENO 測試之樣品)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(SEE PHOTO) When the machine is at the final location, first screw in the 4 machine feet before setting the machine in place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T151457Z" creationid="CCYU" creationdate="20150108T151457Z">
+        <seg>（請見圖）當機台位於最終位置時，於放置機台前先鎖上 4 根支腳。</seg>
       </tuv>
     </tu>
     <tu>
