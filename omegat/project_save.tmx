@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(SEE PHOTO)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153218Z" creationid="CCYU" creationdate="20150108T153218Z">
+        <seg>（請見圖）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(SEE PHOTO) When the machine is at the final location, first screw in the 4 machine feet before setting the machine in place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T151457Z" creationid="CCYU" creationdate="20150108T151457Z">
@@ -10518,6 +10526,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105513Z">
         <seg>加壓前，當油槽處於一般工作液體水準時，應量測緊貼於測試間結構或地面之參考點，與變壓器分離之參考點應盡可能靠近油槽於加壓下預期之最大變形點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before turning on the machine the two transporting safety clamps for the X and Y axis must be removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153026Z" creationid="CCYU" creationdate="20150108T153026Z">
+        <seg>開機前必須將兩組 X 和 Y 軸之運輸安全扣拆除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41839,6 +41855,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153234Z" creationid="CCYU" creationdate="20150108T153234Z">
+        <seg>電力需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Power supply: 220 - 240 V~ 50 Hz</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114314Z">
@@ -49739,6 +49763,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Technical Data:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153246Z" creationid="CCYU" creationdate="20150108T153246Z">
+        <seg>技術資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical description of the product</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T104252Z">
@@ -56311,6 +56343,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T063355Z" creationid="Judy" creationdate="20141129T063355Z">
         <seg>電壓和電流之全波突波即時記錄以及轉換函數中顯示出相對降低全波突波測試之間的明顯的變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rear machine cover must be removed and then the M8 threaded can be removed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153208Z" creationid="CCYU" creationdate="20150108T153208Z">
+        <seg>必須卸下後方之機蓋後方可拆除 M8 螺桿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65752,6 +65792,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T132859Z" creationid="CCYU" creationdate="20141126T132859Z">
         <seg>電壓記錄 - 全波測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voltage:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153251Z" creationid="CCYU" creationdate="20150108T153251Z">
+        <seg>電壓：</seg>
       </tuv>
     </tu>
     <tu>
