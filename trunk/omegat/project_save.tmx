@@ -10948,8 +10948,8 @@
       <tuv lang="EN-US">
         <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; is not liable in any way for damage or trouble shootings caused by failure to comply with the operation manual or failure&lt;t3/&gt; &lt;t4/&gt;to comply with the local safety, accident, and environment regulations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131611Z" creationid="CCYU" creationdate="20150108T131611Z">
-        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; 是不以任何方式損壞或麻煩的槍擊事件造成的未能遵守的操作手冊或失敗承擔責任 &lt;t3/&gt; &lt;t4/&gt; 要遵守當地的安全、 意外和環境法規。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131953Z" creationid="CCYU" creationdate="20150108T131611Z">
+        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; 不為未遵守操作手冊或未遵守當地安全、意外和環境法規所造成之任何形式的損壞或故障排除承擔責任。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47374,6 +47374,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T083736Z" creationid="CCYU" creationdate="20141115T081343Z">
         <seg>星形連接中性點抽出繞組之中性端子應直接接地或通過低阻抗如電流量測分路器接地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start up, trouble shooting elimination and maintenance can only be performed by personal trained by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132056Z" creationid="CCYU" creationdate="20150108T132056Z">
+        <seg>啟動、故障排除以及維護僅能由經製造商訓練之人員進行。</seg>
       </tuv>
     </tu>
     <tu>
