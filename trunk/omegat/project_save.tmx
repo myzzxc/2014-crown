@@ -52611,6 +52611,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dimensions&lt;t4/&gt; &lt;t5/&gt;of the grinding wheel&lt;t6/&gt;s&lt;t7/&gt; &lt;t8/&gt;have to comply with the specifications of the technical data sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124244Z" creationid="CCYU" creationdate="20150108T124244Z">
+        <seg>砂輪尺寸必須符合技術資料表之規格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The direct method, involving an impulse voltage applied to the neutral with all line terminals earthed, permits a longer duration of wavefront, up to 13 ps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083657Z" creationid="CCYU" creationdate="20141123T083657Z">
@@ -54047,6 +54055,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132227Z" creationid="CCYU" creationdate="20141112T132227Z">
         <seg>本文收錄電力變壓器中特定繞組及其端子之絕緣要求與對應之絕緣測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The integrated process data suggestion can not be assured for all grinding wheels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124543Z" creationid="CCYU" creationdate="20150108T124543Z">
+        <seg>整合加工資料之建議不作為所有砂輪之保證。</seg>
       </tuv>
     </tu>
     <tu>
