@@ -10962,6 +10962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; is not liable for damage caused by supplies not approved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132954Z" creationid="CCYU" creationdate="20150108T132954Z">
+        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; 不為使用未經認證之耗材所造成之損壞承擔任何責任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; is not liable in any way for damage or trouble shootings caused by failure to comply with the operation manual or failure&lt;t3/&gt; &lt;t4/&gt;to comply with the local safety, accident, and environment regulations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131953Z" creationid="CCYU" creationdate="20150108T131611Z">
@@ -40019,6 +40027,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140127Z" creationid="CCYU" creationdate="20141103T140127Z">
         <seg>僅冷卻曲線最後一部分受冷卻裝置設定影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only tools, supplies, parts, and accessories can be used that are approved by &lt;t0/&gt;Burri-Werkzeugmaschinen-GmbH&amp;Co.&lt;t1/&gt;KG.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132850Z" creationid="CCYU" creationdate="20150108T132850Z">
+        <seg>僅能使用經 &lt;t0/&gt;Burri-Werkzeugmaschinen-GmbH&amp;Co.&lt;t1/&gt;KG. 認證之工具、耗材、零件以及配件。</seg>
       </tuv>
     </tu>
     <tu>
