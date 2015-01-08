@@ -6030,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abidance of maintenance and servic&lt;t0/&gt;e term&lt;t1/&gt;s is also a part of &lt;t2/&gt;the application according to r&lt;t3/&gt;egulation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124654Z" creationid="CCYU" creationdate="20150108T124654Z">
+        <seg>依據規範，持續的維護服務條款也為應用中的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability to &lt;t0/&gt;withstand short circuit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T002816Z" creationid="Judy" creationdate="20141206T002816Z">
@@ -7010,6 +7018,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T073026Z">
         <seg>所有原始的測試報告已存放於 PES.TEC，基於保密原因，資料僅能由個別專家與審查員進行審查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All other applications are prohibited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124723Z" creationid="CCYU" creationdate="20150108T124723Z">
+        <seg>禁止所有其它應用。</seg>
       </tuv>
     </tu>
     <tu>
