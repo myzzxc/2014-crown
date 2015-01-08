@@ -32766,6 +32766,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KG&lt;t3/&gt; is not liable for damage caused because of improper operation, but the operator of the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T125734Z" creationid="CCYU" creationdate="20150108T125734Z">
+        <seg>KG&lt;t3/&gt; 不針對不當操作造成之壞負賠償責任，操作人員應自行承擔後果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep away from foodstuffs and beverages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T122506Z">
