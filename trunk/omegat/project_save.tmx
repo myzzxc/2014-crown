@@ -18175,6 +18175,47 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F110: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond wrong position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154622Z" creationid="CCYU" creationdate="20150108T154622Z">
+        <seg>F110：外徑修整 (O.D.dressing) 鑽石位置錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F111: selector switch damaged</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154643Z" creationid="CCYU" creationdate="20150108T154643Z">
+        <seg>F111：選擇開關故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F112: selector switch wrong position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154656Z" creationid="CCYU" creationdate="20150108T154656Z">
+        <seg>F112：選擇開關位置錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F113: fault Balancing-Controller</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154733Z" creationid="CCYU" creationdate="20150108T154733Z">
+        <seg>F113：平衡控制器 (Balancing-Controller) 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F114: fault CNCF114: Fehler CNC  …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154806Z" creationid="CCYU" creationdate="20150108T154806Z">
+        <seg>F114：CNC 故障
+F114: Fehler CNC  …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F: forced circulation (fans, pumps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140237Z" creationid="CCYU" creationdate="20141028T140237Z">
