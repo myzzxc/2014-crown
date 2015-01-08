@@ -35711,6 +35711,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving of the axes can lead to serious injuries or can be fatal if the safety instructions are not followed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131153Z" creationid="CCYU" creationdate="20150108T131153Z">
+        <seg>若未遵循安全指示，軸的移動會導致人員嚴重傷害甚至致命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multi-Fix Fasteners &lt;t0/&gt;Pte&lt;t1/&gt; Ltd</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T015041Z">
@@ -61471,6 +61479,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081638Z">
         <seg>本使用說明書屬於此裝置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This instruction manual must be read to avoid operation errors and to provide a trouble free operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131418Z" creationid="CCYU" creationdate="20150108T131418Z">
+        <seg>必須閱讀本使用說明書以避免錯誤操作，並使機台運作無故障。</seg>
       </tuv>
     </tu>
     <tu>
