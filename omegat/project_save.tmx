@@ -18159,6 +18159,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F108: spindle brake is not released</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154306Z" creationid="CCYU" creationdate="20150108T154256Z">
+        <seg>F108：主軸煞車未鬆開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F109: Safeline not ready</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T154332Z" creationid="CCYU" creationdate="20150108T154300Z">
+        <seg>F109：安全線未就緒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F: forced circulation (fans, pumps).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141028T140237Z" creationid="CCYU" creationdate="20141028T140237Z">
