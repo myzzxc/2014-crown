@@ -3976,6 +3976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond not swiveled in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155518Z" creationid="CCYU" creationdate="20150108T155507Z">
+        <seg>外徑修整未旋入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Raytek&lt;t1/&gt; and &lt;t2/&gt;Ircon&lt;t3/&gt; are not endorsed, sponsored, affiliated with or otherwise authorized by any named company.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T011457Z">
@@ -18252,6 +18260,62 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155152Z" creationid="CCYU" creationdate="20150108T155152Z">
         <seg>F119：Z-軸平衡故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F120: fault C-axis NC-PU …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155212Z" creationid="CCYU" creationdate="20150108T155212Z">
+        <seg>F120：C-軸 NC-PU 故障…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F121: fault B-axis …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155223Z" creationid="CCYU" creationdate="20150108T155223Z">
+        <seg>F121：B-軸故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F122: fault Y-axis …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155229Z" creationid="CCYU" creationdate="20150108T155229Z">
+        <seg>F122：Y-軸故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F123: fault X-axis …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155236Z" creationid="CCYU" creationdate="20150108T155236Z">
+        <seg>F123：X-軸故障 …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F124: fault CAN-Communication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155302Z" creationid="CCYU" creationdate="20150108T155302Z">
+        <seg>F124：CAN-通訊故障 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F125: fault measurement &lt;t0/&gt;balancing weight&lt;t1/&gt; width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155337Z" creationid="CCYU" creationdate="20150108T155337Z">
+        <seg>F125：量測平衡重量寬度故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F127: fault pneum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155514Z" creationid="CCYU" creationdate="20150108T155418Z">
+        <seg>F127：氣動</seg>
       </tuv>
     </tu>
     <tu>
