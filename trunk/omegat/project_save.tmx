@@ -22574,6 +22574,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fork the machine from the back side, through the openings provided for the forks in the machine bed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T151146Z" creationid="CCYU" creationdate="20150108T151146Z">
+        <seg>由背側機床供叉車使用之開口叉起機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form/&lt;t0/&gt;Colour</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142351Z">
