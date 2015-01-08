@@ -10946,6 +10946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; is not liable in any way for damage or trouble shootings caused by failure to comply with the operation manual or failure&lt;t3/&gt; &lt;t4/&gt;to comply with the local safety, accident, and environment regulations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131611Z" creationid="CCYU" creationdate="20150108T131611Z">
+        <seg>Burri-Werkzeugmaschinen-GmbH&amp;Co&lt;t0/&gt;.&lt;t1/&gt;KG&lt;t2/&gt; 是不以任何方式損壞或麻煩的槍擊事件造成的未能遵守的操作手冊或失敗承擔責任 &lt;t3/&gt; &lt;t4/&gt; 要遵守當地的安全、 意外和環境法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bushing oil pressure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154302Z">
@@ -28324,6 +28332,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to this operation manual you have to comply with the legal safety, accident, and environment regulations of the particular country.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131521Z" creationid="CCYU" creationdate="20150108T131521Z">
+        <seg>除本操作手冊外，仍必須遵守特定之國家安全、意外和環境法規。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, &lt;t19/&gt;h&lt;t20/&gt;ef&lt;t21/&gt; must be &lt;t22/&gt;substituted for &lt;t23/&gt;ℓ&lt;t24/&gt;e&lt;t25/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T080300Z">
@@ -32784,8 +32800,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>KG&lt;t3/&gt; is not liable for damage caused because of improper operation, but the operator of the machine.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130335Z" creationid="CCYU" creationdate="20150108T125734Z">
-        <seg>KG&lt;t3/&gt; 不針對不當操作造成之壞負賠償責任，營運商應自行承擔後果。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131632Z" creationid="CCYU" creationdate="20150108T125734Z">
+        <seg>KG&lt;t3/&gt; 不針對不當操作造成之損壞負賠償責任，營運商應自行承擔後果。</seg>
       </tuv>
     </tu>
     <tu>
