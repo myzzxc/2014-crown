@@ -9064,6 +9064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Area around the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145250Z" creationid="Judy" creationdate="20150109T145250Z">
+        <seg>機器周圍區域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Area of measurement surface, &lt;t0/&gt;S</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121513Z" creationid="CCYU" creationdate="20141210T121513Z">
@@ -12787,6 +12795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleaning Frequency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145228Z" creationid="Judy" creationdate="20150109T145228Z">
+        <seg>清洗頻率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning and maintenance</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100325Z">
@@ -14570,6 +14586,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140508Z">
         <seg>DSL 加拿大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Daily</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145231Z" creationid="Judy" creationdate="20150109T145231Z">
+        <seg>每日</seg>
       </tuv>
     </tu>
     <tu>
@@ -17715,6 +17739,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T230710Z">
         <seg>即使此為最粗糙的網格，再生通道內也有 20 個單位網格，且集中於固體邊界處以解出流場和熱邊界層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even with the main switch turned off there are several components which remain under power such as the ca&lt;t0/&gt;binet light and electrical plug.&lt;t1/&gt; &lt;t2/&gt;They are special marked (EN 60204).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145218Z" creationid="Judy" creationdate="20150109T145218Z">
+        <seg>即使主開關關閉時，仍有部分零件如機箱照明和電源插頭保有電源，其具有特別標記 (EN 60204)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31606,6 +31638,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inside of the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145242Z" creationid="Judy" creationdate="20150109T145242Z">
+        <seg>機器內部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insoluble</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110853Z">
@@ -32931,6 +32971,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T133814Z" creationid="CCYU" creationdate="20150108T133814Z">
         <seg>禁止執行可能造成個人、非相關協力廠商或功能和操作安全危害之功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommend that the main switch be turned off and locked out when performing maintenance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145002Z" creationid="Judy" creationdate="20150109T145002Z">
+        <seg>建議於保養進行時應將主開關關閉並鎖定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34787,6 +34835,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141003T153849Z">
         <seg>MVA 主抽頭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Housing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145258Z" creationid="Judy" creationdate="20150109T145258Z">
+        <seg>機器外殼</seg>
       </tuv>
     </tu>
     <tu>
@@ -44524,8 +44580,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Remarks</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T043928Z">
-        <seg>Remarks 備註</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145238Z">
+        <seg>備註</seg>
       </tuv>
     </tu>
     <tu>
@@ -67013,6 +67069,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weekly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145233Z" creationid="Judy" creationdate="20150109T145233Z">
+        <seg>每週</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight :</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T151742Z">
@@ -68417,6 +68481,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T015951Z">
         <seg>製造年份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yearly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145234Z" creationid="Judy" creationdate="20150109T145234Z">
+        <seg>每年</seg>
       </tuv>
     </tu>
     <tu>
