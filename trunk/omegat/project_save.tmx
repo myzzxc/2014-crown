@@ -9040,6 +9040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approved Grease</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153849Z" creationid="Judy" creationdate="20150109T153849Z">
+        <seg>認證潤滑脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Approved:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042725Z" creationid="CCYU" creationdate="20141025T042725Z">
@@ -48323,6 +48331,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153854Z" creationid="Judy" creationdate="20150109T153854Z">
+        <seg>規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specification for nuts&lt;t0/&gt;3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T103408Z">
@@ -49415,6 +49431,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T093406Z">
         <seg>下列出版物提供評等和測試之補充規則：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplier</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153851Z" creationid="Judy" creationdate="20150109T153851Z">
+        <seg>供應商</seg>
       </tuv>
     </tu>
     <tu>
@@ -55728,6 +55752,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165329Z" creationid="Judy" creationdate="20141109T165329Z">
         <seg>表 2 所示之最低特定 &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;值代表最低測試電壓等級，若無其它指示則應使用此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lubrication points in the middle are for the spindles X and Y. The others right and left of them are for the carriages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153833Z" creationid="Judy" creationdate="20150109T153833Z">
+        <seg>中間為 X 和 Y 主軸之潤滑點。左、 右兩側為其帶動機構之潤滑點。</seg>
       </tuv>
     </tu>
     <tu>
