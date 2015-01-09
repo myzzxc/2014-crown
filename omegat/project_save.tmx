@@ -42728,6 +42728,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preventative Maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T144533Z" creationid="Judy" creationdate="20150109T144533Z">
+        <seg>預防性維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prevention</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T143326Z">
