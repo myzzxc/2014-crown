@@ -14470,6 +14470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DO NOT EVER CLEAN THE MACHINE WITH COMPRESSED AIR.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145630Z" creationid="Judy" creationdate="20150109T145630Z">
+        <seg>請勿使用壓縮空氣清潔機器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DO NOT remove self-locking fitting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T114206Z">
@@ -17279,6 +17287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electrical Maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145636Z" creationid="Judy" creationdate="20150109T145636Z">
+        <seg>電氣維護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrohydraulic Servo Valve</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T113927Z">
@@ -17315,6 +17331,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T144401Z">
         <seg>Emergency phone: 緊急聯絡電話：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency stop button function</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145645Z" creationid="Judy" creationdate="20150109T145645Z">
+        <seg>緊急停止按鈕功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -20873,6 +20897,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T102847Z">
         <seg>施加與現場操作相同之真空水準，再次量測參考點至油槽壁面的垂直距離，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foot switch function</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145730Z" creationid="Judy" creationdate="20150109T145730Z">
+        <seg>腳踏開關功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -27076,6 +27108,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an error is detected analysis and repair immediately</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145726Z" creationid="Judy" creationdate="20150109T145726Z">
+        <seg>如偵測到錯誤應立即分析並修復</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If any further voltag collapse or deviation is observed then the test is failed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T055220Z" creationid="CCYU" creationdate="20141115T055220Z">
@@ -31674,6 +31714,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125217Z">
         <seg>檢驗證明書 3.1 遵照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspection of electrical cabinet and operators panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145923Z" creationid="Judy" creationdate="20150109T145853Z">
+        <seg>檢查電箱和操作面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspection of exposed cables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145901Z" creationid="Judy" creationdate="20150109T145802Z">
+        <seg>檢查外露電纜</seg>
       </tuv>
     </tu>
     <tu>
@@ -44854,6 +44910,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T114639Z" creationid="Judy" creationdate="20141022T114639Z">
         <seg>更換濾芯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace if damaged immediately</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145845Z" creationid="Judy" creationdate="20150109T145845Z">
+        <seg>若有損壞立即更換</seg>
       </tuv>
     </tu>
     <tu>
