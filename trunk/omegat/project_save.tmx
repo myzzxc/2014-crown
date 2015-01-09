@@ -12883,6 +12883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean power panel with a damp cloth only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T154745Z" creationid="Judy" creationdate="20150109T154557Z">
+        <seg>僅使用擦拭布清潔電力面板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning Frequency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145228Z" creationid="Judy" creationdate="20150109T145228Z">
@@ -21413,6 +21421,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For cleaning the power panel, the unit has to be switched off, in order to avoid unintentional function by touching the screen or pres&lt;t0/&gt;s&lt;t1/&gt;ing a key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T154509Z" creationid="Judy" creationdate="20150109T154445Z">
+        <seg>清潔電力面板時應將該裝置關閉，以避免觸碰螢幕或按鍵而意外啟動機台功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For comparison of non-standard waveshapes by digitizers of different make from the same recording: in the example in figure B.21, a difference of 7 % in amplitude (109,9 kV versus</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T050340Z" creationid="Judy" creationdate="20141129T050239Z">
@@ -21449,6 +21465,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160426Z" creationid="CCYU" creationdate="20141125T160426Z">
         <seg>電流記錄可額外使用較短的掃描時間以利更加詳細地監測初始電容性電流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For damping the cloth only use suitable screen cleaner</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T154830Z" creationid="Judy" creationdate="20150109T154824Z">
+        <seg>擦拭布僅能沾取適當的螢幕清潔劑。</seg>
       </tuv>
     </tu>
     <tu>
