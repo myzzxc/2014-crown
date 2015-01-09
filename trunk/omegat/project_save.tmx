@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(coin cell CR2477N&lt;t0/&gt; &lt;t1/&gt;24,5x7,7  3V)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150241Z" creationid="Judy" creationdate="20150109T150241Z">
+        <seg>（鈕扣電池 CR2477N 24,5x7,7  3V）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(d: Nominal diameter of the bar; h: Rip height of the bar)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T125835Z">
@@ -10458,6 +10466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Battery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150522Z" creationid="Judy" creationdate="20150109T150522Z">
+        <seg>電池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Battery Powerpanel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150123Z" creationid="Judy" creationdate="20150109T145949Z">
@@ -11506,6 +11522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CF-Card</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150521Z" creationid="Judy" creationdate="20150109T150521Z">
+        <seg>CF-記憶卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CFVV applies for &lt;t0/&gt;tappings&lt;t1/&gt; with tapping factors below the maximum voltage tapping factor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140923T142050Z">
@@ -12006,6 +12030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T075331Z">
         <seg>重心標記</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Battery &lt;t0/&gt;/ Change Compact-Flash-Card</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150334Z" creationid="Judy" creationdate="20150109T150334Z">
+        <seg>更改電池 / 更換快閃記憶卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -40300,6 +40332,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T053151Z" creationid="CCYU" creationdate="20141115T053151Z">
         <seg>一組電壓介於全測試電壓 75 % 至 90 % 之間的參考突波；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>O&lt;t0/&gt;perating panel &lt;t1/&gt;must be opened (door) &lt;t2/&gt;and change the battery &lt;t3/&gt;of &lt;t4/&gt;the power panel&lt;t5/&gt; and the CF-Card for Software-Update</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150515Z" creationid="Judy" creationdate="20150109T150515Z">
+        <seg>必須打開操作面板（門）並更換電力面板電池以及軟體更新之 CF-記憶卡</seg>
       </tuv>
     </tu>
     <tu>
