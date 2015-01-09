@@ -15750,6 +15750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disconnect the power supply to the Power Panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151210Z" creationid="Judy" creationdate="20150109T151210Z">
+        <seg>切斷電力面板電源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discrepancies of any kind are of concern and should be investigated.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T125344Z" creationid="CCYU" creationdate="20141126T125344Z">
@@ -39792,6 +39800,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally, the settings should stay &lt;t0/&gt;remain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151121Z" creationid="Judy" creationdate="20150109T151121Z">
+        <seg>通常情況下，設定應能保持不變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normally, vibrations occur at e&lt;t0/&gt;ven harmonics of the power frequency, with the first harmonic being dominant.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T011825Z" creationid="Judy" creationdate="20141206T011825Z">
@@ -46271,6 +46287,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071919Z">
         <seg>系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe the settings of the machine (with photos, notes etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150927Z" creationid="Judy" creationdate="20150109T150927Z">
+        <seg>儲存機台設定（以照片、筆記等方式）</seg>
       </tuv>
     </tu>
     <tu>
