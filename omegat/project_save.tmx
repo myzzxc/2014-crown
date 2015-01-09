@@ -23935,6 +23935,54 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H101: reserved</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114318Z" creationid="Judy" creationdate="20150109T114318Z">
+        <seg>H101：已指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H102: switch on control system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114336Z" creationid="Judy" creationdate="20150109T114336Z">
+        <seg>H102：開啟控制系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H103: key locked</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114402Z" creationid="Judy" creationdate="20150109T114402Z">
+        <seg>H103：已鎖定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H104: choose setup- or &lt;t0/&gt;start menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114442Z" creationid="Judy" creationdate="20150109T114442Z">
+        <seg>H104：選擇安裝-或開始功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H105: push startbutton</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114508Z" creationid="Judy" creationdate="20150109T114508Z">
+        <seg>H105：按下開始按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H106: changing menu during cycle is not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114623Z" creationid="Judy" creationdate="20150109T114623Z">
+        <seg>H106：加工期間禁止切換功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
