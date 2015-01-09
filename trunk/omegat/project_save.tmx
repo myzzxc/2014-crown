@@ -24111,6 +24111,46 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H123: Rework &lt;t0/&gt;choi&lt;t1/&gt;ced&lt;t2/&gt; -&gt; Risk of collision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120007Z" creationid="Judy" creationdate="20150109T120007Z">
+        <seg>H123：重新選擇 -&gt; 碰撞風險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H124: Balancing quality not reached</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120035Z" creationid="Judy" creationdate="20150109T120035Z">
+        <seg>H124：未達平衡品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H125: No Air-Pressure available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120059Z" creationid="Judy" creationdate="20150109T120059Z">
+        <seg>H125：無氣壓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H126: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond not swiveled in</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120136Z" creationid="Judy" creationdate="20150109T120136Z">
+        <seg>H126：外徑整修鑽石未旋入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H127: O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120144Z" creationid="Judy" creationdate="20150109T120144Z">
+        <seg>H127：外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
@@ -71147,6 +71187,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T024646Z">
         <seg>若為低壓繞組則除以抽頭繞組之抽頭係數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dressing diamond not swiveled out</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120213Z" creationid="Judy" creationdate="20150109T120213Z">
+        <seg>整修鑽石未旋出</seg>
       </tuv>
     </tu>
     <tu>
