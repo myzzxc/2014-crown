@@ -24151,6 +24151,22 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H128: complete stroke different X TOT</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120405Z" creationid="Judy" creationdate="20150109T120405Z">
+        <seg>H128：完整行程相異 X TOT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H129: Number of strokes max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120436Z" creationid="Judy" creationdate="20150109T120436Z">
+        <seg>H129：最大型行程數 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
