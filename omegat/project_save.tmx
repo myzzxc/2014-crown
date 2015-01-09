@@ -24047,6 +24047,38 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H115: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; is not set up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115300Z" creationid="Judy" creationdate="20150109T115300Z">
+        <seg>H115：外徑整修未設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H116: switch off key switch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115444Z" creationid="Judy" creationdate="20150109T115444Z">
+        <seg>H116：開關選擇開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H117: filter cleaning is on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115536Z" creationid="Judy" creationdate="20150109T115536Z">
+        <seg>H117：濾清器清洗已開啟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H118: function is not available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115559Z" creationid="Judy" creationdate="20150109T115559Z">
+        <seg>H118：功能不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
