@@ -34839,6 +34839,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lubrication &lt;t0/&gt;points Y-Axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153626Z" creationid="Judy" creationdate="20150109T153626Z">
+        <seg>Y 軸潤滑點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lubrication service&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;oints</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153431Z" creationid="Judy" creationdate="20150109T153420Z">
+        <seg>潤滑保養點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lv&lt;t0/&gt;	effective embedment depth, ≥ l0+ ci</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044233Z">
@@ -44938,6 +44954,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove service lid on rear cover in order to get access to the &lt;t0/&gt;lubrication&lt;t1/&gt; points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153607Z" creationid="Judy" creationdate="20150109T153428Z">
+        <seg>拆下後方外蓋上之保養蓋以進行潤滑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the cap by turning and pulling it off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
@@ -51152,6 +51176,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T022243Z">
         <seg>溫度範圍 B&lt;t0/&gt;3&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tension&lt;t0/&gt; &lt;t1/&gt;260N or 107Hz</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153356Z" creationid="Judy" creationdate="20150109T153356Z">
+        <seg>張力 260N 或 107Hz</seg>
       </tuv>
     </tu>
     <tu>
@@ -73989,6 +74021,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T125753Z">
         <seg>低壓繞組 (low-voltage winding)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lubrication &lt;t0/&gt;points X-Axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153620Z" creationid="Judy" creationdate="20150109T153620Z">
+        <seg>X 軸潤滑點</seg>
       </tuv>
     </tu>
     <tu>
