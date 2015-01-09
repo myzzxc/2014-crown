@@ -24057,8 +24057,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>H116: switch off key switch</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115444Z" creationid="Judy" creationdate="20150109T115444Z">
-        <seg>H116：開關選擇開關</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115705Z" creationid="Judy" creationdate="20150109T115444Z">
+        <seg>H116：關閉選擇開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -24075,6 +24075,38 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115559Z" creationid="Judy" creationdate="20150109T115559Z">
         <seg>H118：功能不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H119: no balancing weight detected</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115623Z" creationid="Judy" creationdate="20150109T115623Z">
+        <seg>H119：未偵測到平衡重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H120: open door</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115633Z" creationid="Judy" creationdate="20150109T115633Z">
+        <seg>H120：開門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H121: switch on key switch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115657Z" creationid="Judy" creationdate="20150109T115657Z">
+        <seg>H121：開啟選擇開關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H122: push foot switch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115732Z" creationid="Judy" creationdate="20150109T115732Z">
+        <seg>H122：壓下腳踏開關</seg>
       </tuv>
     </tu>
     <tu>
