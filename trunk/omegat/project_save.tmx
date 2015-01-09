@@ -4066,6 +4066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Switch on the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121333Z" creationid="Judy" creationdate="20150109T121333Z">
+        <seg>開啟機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The following is excluded under&lt;t1/&gt; &lt;t2/&gt;the warranty:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074800Z">
@@ -31622,6 +31630,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install the new motor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121248Z" creationid="Judy" creationdate="20150109T121248Z">
+        <seg>安裝新馬達。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install the other inlet orifice and the retainer plugs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132418Z" creationid="Judy" creationdate="20141022T142513Z">
@@ -55544,6 +55560,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T064642Z">
         <seg>機械性質應該會保持在初始值的 95% 以上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mechanical zero point position of the C-axis is parallel to the Y-axis resp. 90° to the X-axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121443Z" creationid="Judy" creationdate="20150109T121443Z">
+        <seg>C-軸之機械零點與 Y-軸平行且與 X-軸夾 90°。</seg>
       </tuv>
     </tu>
     <tu>
