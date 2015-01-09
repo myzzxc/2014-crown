@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;see&lt;t1/&gt; &lt;t2/&gt;sketch&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121211Z" creationid="Judy" creationdate="20150109T121211Z">
+        <seg>（請見圖）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;tapping&lt;t1/&gt; factor) or &lt;t2/&gt; (tapping factor expressed as a percentage)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T111838Z">
@@ -6622,10 +6630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the c- axis to the approx. mechanical zero point</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121153Z" creationid="Judy" creationdate="20150109T121153Z">
+        <seg>調整 c-軸至接近機械零點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjustment Procedure</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T113640Z">
         <seg>調整步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjustment of the REF-Offset C-axis after motor exchange</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121018Z" creationid="Judy" creationdate="20150109T121018Z">
+        <seg>更換馬達後進行 REF-偏移 C-軸調整</seg>
       </tuv>
     </tu>
     <tu>
@@ -44486,6 +44510,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T011954Z">
         <seg>旋轉並拉出外蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the defective motor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121043Z" creationid="Judy" creationdate="20150109T121043Z">
+        <seg>拆下損壞的馬達</seg>
       </tuv>
     </tu>
     <tu>
