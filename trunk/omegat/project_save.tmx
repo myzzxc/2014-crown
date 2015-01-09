@@ -44132,8 +44132,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Ref-Offset in&lt;t0/&gt;vers to be entered in degrees.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121651Z" creationid="Judy" creationdate="20150109T121651Z">
-        <seg>Ref-Offset invers to be entered in degrees.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122112Z" creationid="Judy" creationdate="20150109T121651Z">
+        <seg>參考偏移量以度為單位輸入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44198,6 +44198,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T084918Z">
         <seg>Reference to other sections: 其他章節之參考資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reff-Offset &lt;t0/&gt;C&lt;t1/&gt;-&lt;t2/&gt;axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122202Z" creationid="Judy" creationdate="20150109T122202Z">
+        <seg>C-軸參考偏移</seg>
       </tuv>
     </tu>
     <tu>
