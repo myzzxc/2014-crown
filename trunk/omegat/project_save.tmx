@@ -6870,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that, the display shows zero.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141559Z" creationid="Judy" creationdate="20150109T141559Z">
+        <seg>接著螢幕顯示為零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After that, we applied the cross-correlation method in the PIV technique to analyze the displacement of the Hongtsaiping landslide area in the selected images.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T062904Z">
@@ -17803,6 +17811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083054Z" creationid="CCYU" creationdate="20141123T083054Z">
         <seg>例如：60 %、80 %、100 %、80 %、60 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: the display shows 20 mm, axis is on mechanical zero point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141354Z" creationid="Judy" creationdate="20150109T141354Z">
+        <seg>例：螢幕顯示 20 mm，軸位於機械零點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44166,6 +44182,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122548Z" creationid="Judy" creationdate="20150109T121651Z">
         <seg>Ref-偏移量以度為單位輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ref-Offset invers (enter – 20 mm and switch the machine off and on)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141541Z" creationid="Judy" creationdate="20150109T141541Z">
+        <seg>Ref-偏移量（輸入 – 20 mm 並關閉機台後再開啟）</seg>
       </tuv>
     </tu>
     <tu>
