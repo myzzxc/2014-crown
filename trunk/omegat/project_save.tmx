@@ -12539,6 +12539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check, if date, time and input datas are correct.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151827Z" creationid="Judy" creationdate="20150109T151827Z">
+        <seg>檢查日期、時間以及輸入資料是否正確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chemical</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T180301Z">
@@ -31750,6 +31758,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert the new battery with correct polarity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151603Z" creationid="Judy" creationdate="20150109T151603Z">
+        <seg>確保極性正確，插入新電池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert the static mixer and lock it in place (turn to the right).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T014946Z">
@@ -35932,6 +35948,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141117T133435Z" creationid="CCYU" creationdate="20141117T133122Z">
         <seg>局部放電量測系統可分為窄頻帶或寬頻帶系統，窄頻帶系統之操作頻帶寬於特定調諧頻率下約為 10 kHz 以下 (例如，無線電波雜訊計)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mechanical Maintenance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151838Z" creationid="Judy" creationdate="20150109T151838Z">
+        <seg>機械維護</seg>
       </tuv>
     </tu>
     <tu>
@@ -43530,6 +43554,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put on the battery cover&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151717Z" creationid="Judy" creationdate="20150109T151717Z">
+        <seg>蓋上電池蓋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pyrometer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T043956Z">
@@ -49379,6 +49411,22 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch off the machine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151726Z" creationid="Judy" creationdate="20150109T151726Z">
+        <seg>關閉機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch on the machine after about 20 seconds&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151744Z" creationid="Judy" creationdate="20150109T151744Z">
+        <seg>約 20 秒後開啟機台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch on the machine and read the position of the axis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141311Z" creationid="Judy" creationdate="20150109T141311Z">
@@ -53504,6 +53552,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140813T105605Z">
         <seg>我們公司的核心產品為一種全天然可再生的產品，比起市場上其他任何產品吸油性更佳、更快且更加經濟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The correct positioning of the removal strip must be taken into consideratio&lt;t0/&gt;n</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151655Z" creationid="Judy" creationdate="20150109T151655Z">
+        <seg>必須將拆除拉條放入正確的位置。</seg>
       </tuv>
     </tu>
     <tu>
