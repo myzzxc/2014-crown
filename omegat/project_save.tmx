@@ -11914,6 +11914,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carefully remove the used battery from the holder by pulling the remo&lt;t0/&gt;v&lt;t1/&gt;al strip&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151348Z" creationid="Judy" creationdate="20150109T151348Z">
+        <seg>謹慎拉出拆除拉條將舊電池由固定座中拆下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cartridge type/size</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T044529Z">
@@ -16178,6 +16186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052411Z">
         <seg>請勿將電器設備置於可能掉落浴缸或洗臉盆處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not touch the new battery with pliers or uninsulated tweezers -&gt;risk of short circuiting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151431Z" creationid="Judy" creationdate="20150109T151431Z">
+        <seg>請勿使用鉗子或未絕緣的鑷子觸碰新電池 -&gt; 具有短路風險。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52928,6 +52944,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160615Z" creationid="CCYU" creationdate="20141125T160615Z">
         <seg>電流基本波形為正弦波，對應餘弦電壓波 (請見圖 3b 和 B.16)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The battery should not be held by its edges</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151525Z" creationid="Judy" creationdate="20150109T151525Z">
+        <seg>不應抓取電池邊緣</seg>
       </tuv>
     </tu>
     <tu>
