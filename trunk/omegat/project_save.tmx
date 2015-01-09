@@ -24031,6 +24031,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grease 1,5 g per Spi&lt;t0/&gt;n&lt;t1/&gt;dle, see lubricants table for type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153036Z" creationid="Judy" creationdate="20150109T153036Z">
+        <seg>每主軸 1,5 g 潤滑脂，形式請見潤滑劑表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Great care is therefore needed to ensure that the specified impedance is correct.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T132229Z">
@@ -64793,6 +64801,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142706Z" creationid="CCYU" creationdate="20141023T142706Z">
         <seg>免付費： +1-800-272-MOOG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tooth Belt for Y axis check and possibly retention</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153332Z" creationid="Judy" creationdate="20150109T153332Z">
+        <seg>Y 軸齒形皮帶檢查及可能使用期限</seg>
       </tuv>
     </tu>
     <tu>
