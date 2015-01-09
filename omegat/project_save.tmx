@@ -6638,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the X or Y axis to the approx. mechanical zero point ( about 1mm in front of the rubber bumper, see &lt;t0/&gt;sketch&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T140925Z" creationid="Judy" creationdate="20150109T140925Z">
+        <seg>調整  X 或 Y 軸至接近機械零點（約距離橡膠緩衝條前端 1 mm 處，請見圖）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the c- axis to the approx. mechanical zero point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121153Z" creationid="Judy" creationdate="20150109T121153Z">
