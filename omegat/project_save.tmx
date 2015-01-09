@@ -7600,6 +7600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amount of grease per way 4,7 cm³ see lubricants table for type</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152904Z" creationid="Judy" creationdate="20150109T152904Z">
+        <seg>每通道潤滑劑量 4,7 cm³，形式請見潤滑劑表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amperage:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153401Z" creationid="CCYU" creationdate="20150108T153401Z">
@@ -10326,6 +10334,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T061837Z">
         <seg>差</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ballscrews for X-and Y-Axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152940Z" creationid="Judy" creationdate="20150109T152940Z">
+        <seg>X-和 Y-軸滾珠螺桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -50876,6 +50892,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teflonspray</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152729Z" creationid="Judy" creationdate="20150109T152729Z">
+        <seg>鐵氟龍噴霧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tel.: +49 40 / 79 02 36 300&lt;t0/&gt; &lt;t1/&gt;Fax: +49 40 / 79 02 36 357 &lt;t2/&gt;e-mail&lt;t3/&gt;: umco@umco.de</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134854Z">
@@ -68737,6 +68761,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014340Z">
         <seg>全球總部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X-and Y-Axis grease</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152742Z" creationid="Judy" creationdate="20150109T152742Z">
+        <seg>X- 和 Y-軸潤滑</seg>
       </tuv>
     </tu>
     <tu>
