@@ -43064,6 +43064,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Procedure for changing the battery</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150643Z" creationid="Judy" creationdate="20150109T150643Z">
+        <seg>更換電池步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Procedure for winding resistance measurement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T140334Z" creationid="CCYU" creationdate="20141103T140334Z">
@@ -52896,6 +52904,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T160615Z" creationid="CCYU" creationdate="20141125T160615Z">
         <seg>電流基本波形為正弦波，對應餘弦電壓波 (請見圖 3b 和 B.16)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The battery will be changed when the machine is on&lt;t0/&gt;!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150731Z" creationid="Judy" creationdate="20150109T150731Z">
+        <seg>電池於機台開啟時進行更換！</seg>
       </tuv>
     </tu>
     <tu>
