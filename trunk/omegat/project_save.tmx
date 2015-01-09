@@ -6662,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjustment of the REF-Offset X and Y-axis after motor exchange</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122518Z" creationid="Judy" creationdate="20150109T122518Z">
+        <seg>更換馬達後進行 X-軸和 Y-軸之 REF-偏移調整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjustments to the bond strength may also be taken for increased concrete compressive strength as noted in the footnotes to the corresponding tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T075201Z">
@@ -44204,8 +44212,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Reff-Offset &lt;t0/&gt;C&lt;t1/&gt;-&lt;t2/&gt;axis</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122202Z" creationid="Judy" creationdate="20150109T122202Z">
-        <seg>C-軸參考偏移</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T122532Z" creationid="Judy" creationdate="20150109T122202Z">
+        <seg>C-軸 Reff-偏移</seg>
       </tuv>
     </tu>
     <tu>
