@@ -23983,6 +23983,38 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H107: swivel in &lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114721Z" creationid="Judy" creationdate="20150109T114639Z">
+        <seg>H107：旋入外徑修整鑽石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H108: swivel out &lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114736Z" creationid="Judy" creationdate="20150109T114736Z">
+        <seg>H108：旋出外徑修整鑽石</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H109: switch on profiling unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114801Z" creationid="Judy" creationdate="20150109T114801Z">
+        <seg>H109：開啟加工單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H110: profiling is set up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114917Z" creationid="Judy" creationdate="20150109T114917Z">
+        <seg>H110：加工程序已設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
