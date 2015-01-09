@@ -34951,6 +34951,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make the electrical contact to the motor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141024Z" creationid="Judy" creationdate="20150109T141024Z">
+        <seg>連接馬達電源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makes them appear clean and dry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071127Z">
@@ -39932,6 +39940,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T134206Z">
         <seg>2012 年 11 月 9 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now make the mechanical connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141214Z" creationid="Judy" creationdate="20150109T141214Z">
+        <seg>此時連接機構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48155,6 +48171,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start the machine and drive the new motor to nearly 0 in the JOG-menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141141Z" creationid="Judy" creationdate="20150109T141141Z">
+        <seg>啟動機台並於 JOG-功能表中驅動新馬達至接近 0 處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start up, trouble shooting elimination and maintenance can only be performed by personal trained by the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132056Z" creationid="CCYU" creationdate="20150108T132056Z">
@@ -49039,6 +49063,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123605Z">
         <seg>自然資源的永續使用 (BWR 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch on the machine and read the position of the axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141311Z" creationid="Judy" creationdate="20150109T141311Z">
+        <seg>開啟機台並讀取軸的位置。</seg>
       </tuv>
     </tu>
     <tu>
