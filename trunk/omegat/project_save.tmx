@@ -24009,8 +24009,40 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>H110: profiling is set up</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T114917Z" creationid="Judy" creationdate="20150109T114917Z">
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115224Z" creationid="Judy" creationdate="20150109T114917Z">
         <seg>H110：加工程序已設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H111: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; only with closed machine-hood</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115019Z" creationid="Judy" creationdate="20150109T115019Z">
+        <seg>H111：僅能於機台外罩關閉時進行外徑整修</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H112: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; is set up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115239Z" creationid="Judy" creationdate="20150109T115028Z">
+        <seg>H112：外徑整修已設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H113: close door</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115200Z" creationid="Judy" creationdate="20150109T115200Z">
+        <seg>H113：關門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H114: profiling is not set up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115253Z" creationid="Judy" creationdate="20150109T115253Z">
+        <seg>H114：加工程序未設定</seg>
       </tuv>
     </tu>
     <tu>
