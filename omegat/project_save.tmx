@@ -40688,6 +40688,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only authorized personal should perform maintenance on the PM.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T144852Z" creationid="Judy" creationdate="20150109T144852Z">
+        <seg>僅能由授權人員進行保養。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only for the purpose of estimating the hot-spot wind&lt;t0/&gt;ing temperature rise by calculation, starting from the results of a temperature rise test, the same model indicated for natural liquid flow can be assumed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T134744Z" creationid="CCYU" creationdate="20141103T134744Z">
@@ -51992,6 +52000,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041525Z">
         <seg>質點影像測速 (Particle Image Velocimetry, PIV) 技術最初用於流體力學領域，其優勢為藉由交互相關 (Cross-correlation) 法以分析流體影像之位移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Profile Machine PM&lt;t0/&gt;280&lt;t1/&gt;T / PM550T&lt;t2/&gt; Built today’s technical design standards and &lt;t3/&gt;is&lt;t4/&gt; nearly maintenance free.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T144734Z" creationid="Judy" creationdate="20150109T144734Z">
+        <seg>加工機 PM280T / PM550T 以現今的技術設計標準建造，幾乎無需保養。</seg>
       </tuv>
     </tu>
     <tu>
