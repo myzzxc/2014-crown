@@ -7454,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After this&lt;t5/&gt; the touchpad calibration&lt;t6/&gt; will &lt;t7/&gt;start automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161648Z" creationid="Judy" creationdate="20150110T161648Z">
+        <seg>接著將自動進行觸控板校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have changed the filter setting you have to refresh the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142454Z" creationid="Judy" creationdate="20150110T142454Z">
@@ -26937,6 +26945,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;f a software update has been made (insert a new SD-card) it may happen that the keys on the touchpad will no longer react upon touching as &lt;t1/&gt;the calibrati&lt;t2/&gt;on&lt;t3/&gt; data are no longer&lt;t4/&gt; available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161519Z" creationid="Judy" creationdate="20150110T161519Z">
+        <seg>若進行軟體更新（插入新 SD-記憶卡）可能使觸控板無反應，因為校正資料已不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I&lt;t0/&gt;f high frequencies are observed in the voltage or current traces these are due to parasitic resonance in the measuring circuit or noise in the earthing system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141124T090041Z" creationid="MAE" creationdate="20141124T090041Z">
@@ -32202,6 +32218,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091446Z" creationid="Judy" creationdate="20150110T091446Z">
         <seg>此情況下，選擇開關功能為速度控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case you have to&lt;t0/&gt; open &lt;t1/&gt;the main menu and p&lt;t2/&gt;ress&lt;t3/&gt; the button of the joystick for &lt;t4/&gt;about 5 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161622Z" creationid="Judy" creationdate="20150110T161622Z">
+        <seg>此情況下必須打開主功能選單並按下搖桿按鈕大約 5 秒鐘，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44340,6 +44364,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T052056Z">
         <seg>請特別注意以下關於電氣設備之事項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please touch these&lt;t8/&gt; marks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160318Z" creationid="Judy" creationdate="20150110T160318Z">
+        <seg>請點觸標示。</seg>
       </tuv>
     </tu>
     <tu>
