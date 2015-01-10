@@ -4200,6 +4200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;Machinedata with p&lt;t4/&gt;asswordinput</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143755Z" creationid="Judy" creationdate="20150110T143755Z">
+        <seg>92 機台數據密碼輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
@@ -7650,6 +7658,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165320Z" creationid="Judy" creationdate="20141109T165320Z">
         <seg>所有測試電壓為相對接地電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the data are sensible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143906Z" creationid="Judy" creationdate="20150110T143906Z">
+        <seg>所有的資料皆很敏感，</seg>
       </tuv>
     </tu>
     <tu>
@@ -62776,6 +62792,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T124640Z">
         <seg>所以本研究中，引擎規模縮小一倍以降低雷諾數並維持引擎內部為層流，避免需要使用紊流模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore the machine data are password protected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143928Z" creationid="Judy" creationdate="20150110T143928Z">
+        <seg>因此機台資料以密碼保護。</seg>
       </tuv>
     </tu>
     <tu>
