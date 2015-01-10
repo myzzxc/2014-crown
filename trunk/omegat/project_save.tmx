@@ -7726,6 +7726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All parameters of the axis will be &lt;t0/&gt;reset to default parameters</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162542Z" creationid="Judy" creationdate="20150110T162542Z">
+        <seg>軸的所有參數都將重設為預設參數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140911T133748Z">
@@ -10580,6 +10588,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T143112Z">
         <seg>注意！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attention:&lt;t0/&gt; All  data&lt;t1/&gt; &lt;t2/&gt;in the control unit &lt;t3/&gt;will be overwritten</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162454Z" creationid="Judy" creationdate="20150110T162454Z">
+        <seg>注意：&lt;t0/&gt;所有控制單元中的資料將會被覆蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -26057,6 +26073,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here the reading file is shown</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162419Z" creationid="Judy" creationdate="20150110T162419Z">
+        <seg>此處顯示讀取檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here we are talking about large hydraulic machines that leak.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072603Z">
@@ -36091,6 +36115,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T134828Z">
         <seg>直接至發電機之變壓器卸除負載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162607Z" creationid="Judy" creationdate="20150110T162554Z">
+        <seg>載入：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49091,6 +49123,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Default:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162515Z" creationid="Judy" creationdate="20150110T162515Z">
+        <seg>回復預設值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up system functions (language, time and date …)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052331Z" creationid="Judy" creationdate="20150110T052331Z">
@@ -55288,6 +55328,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T144118Z" creationid="CCYU" creationdate="20141124T144118Z">
         <seg>直接施加測試電壓之繞組選擇和測試電壓選擇通常由製造商決定，以符合最高額定電壓繞組之額定開關突波耐壓等級規範。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The choosen file will be loaded and all data of&lt;t0/&gt; the &lt;t1/&gt;control unit&lt;t2/&gt; will be overwritten</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162559Z" creationid="Judy" creationdate="20150110T162559Z">
+        <seg>將載入選擇檔和所有資料的 &lt;t0/&gt; &lt;t1/&gt; 控制單元 &lt;t2/&gt; 將會被覆蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -65148,6 +65196,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the reading or saving folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162350Z" creationid="Judy" creationdate="20150110T162350Z">
+        <seg>此為讀取或儲存資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the reference level (0 dB) to which all the other levels are compared.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T022234Z" creationid="Judy" creationdate="20141206T022234Z">
@@ -70733,10 +70789,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window &lt;t0/&gt;File&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162406Z" creationid="Judy" creationdate="20150110T162406Z">
+        <seg>視窗&lt;t0/&gt;檔案&lt;t1/&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window &lt;t0/&gt;Medium:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162110Z" creationid="Judy" creationdate="20150110T162110Z">
         <seg>視窗&lt;t0/&gt;媒體：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window &lt;t0/&gt;Path:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162325Z" creationid="Judy" creationdate="20150110T162325Z">
+        <seg>視窗&lt;t0/&gt;路徑：</seg>
       </tuv>
     </tu>
     <tu>
