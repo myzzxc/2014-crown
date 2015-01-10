@@ -24375,6 +24375,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fully auto.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153301Z" creationid="Judy" creationdate="20150110T153301Z">
+        <seg>全自動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fully respect all the Rio Principles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T085546Z" creationid="Judy" creationdate="20141221T085546Z">
@@ -31866,6 +31874,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T123404Z">
         <seg>膨脹腔體由 h = 0.0° 至 180.0°；而壓縮腔體由 h = 156.6° 至 347.4°。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the field „&lt;t0/&gt;O&lt;t1/&gt;nly reworking activ&lt;t2/&gt;e&lt;t3/&gt;“ &lt;t4/&gt;the &lt;t5/&gt;zero&lt;t6/&gt; &lt;t7/&gt;poin&lt;t8/&gt;t handling &lt;t9/&gt;is &lt;t10/&gt;determined.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153128Z" creationid="Judy" creationdate="20150110T153128Z">
+        <seg>於 “&lt;t0/&gt;只啟用再加工&lt;t3/&gt;” 欄位中決定了加工零點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48687,6 +48703,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083505Z">
         <seg>See section: Description of first aid measures 參閱章節：急救措施說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See&lt;t0/&gt; at option 5.1&lt;t1/&gt; „Work&lt;t2/&gt; &lt;t3/&gt;pi&lt;t4/&gt;e&lt;t5/&gt;ce&lt;t6/&gt; &lt;t7/&gt;data threaded wheel“.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153252Z" creationid="Judy" creationdate="20150110T153252Z">
+        <seg>請見選項 5.1 “螺紋輪工件資料”。</seg>
       </tuv>
     </tu>
     <tu>
