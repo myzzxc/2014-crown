@@ -4248,6 +4248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;8&lt;t2/&gt; &lt;t3/&gt;Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152839Z" creationid="Judy" creationdate="20150110T152839Z">
+        <seg>98 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -27783,6 +27791,14 @@ IEC 60529:1989，外殼保護等級 (Degrees of protection provided by enclosure
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040229Z">
         <seg>重要資訊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IMPORTANT: THIS MENU SHOULD&lt;t0/&gt; ONLY BE USED BY TRAINED PERSONA&lt;t1/&gt;L.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152757Z" creationid="Judy" creationdate="20150110T152757Z">
+        <seg>重要資訊：此功能表只能由受過訓練之人員使用。</seg>
       </tuv>
     </tu>
     <tu>
