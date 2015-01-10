@@ -2970,8 +2970,8 @@
       <tuv lang="EN-US">
         <seg>7&lt;t0/&gt;1 Diagnostic Menu</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015355Z" creationid="Judy" creationdate="20150110T015355Z">
-        <seg>7&lt;t0/&gt;1 故障診斷選單</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015616Z" creationid="Judy" creationdate="20150110T015355Z">
+        <seg>7&lt;t0/&gt;1 故障診斷功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,6 +3136,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8&lt;t0/&gt;1 Explorer main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015543Z" creationid="Judy" creationdate="20150110T015543Z">
+        <seg>8&lt;t0/&gt;1 瀏覽器主畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8&lt;t0/&gt;2 Editor main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015550Z" creationid="Judy" creationdate="20150110T015550Z">
+        <seg>8&lt;t0/&gt;2 編輯器主畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8N--factor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T055415Z">
@@ -3196,6 +3212,102 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024656Z">
         <seg>96 hours 96 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;1 System Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015608Z" creationid="Judy" creationdate="20150110T015608Z">
+        <seg>9&lt;t0/&gt;1 系統功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;10 Language change</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015744Z" creationid="Judy" creationdate="20150110T015744Z">
+        <seg>9&lt;t0/&gt;10 變更語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;11 Touchpad-Calibration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015756Z" creationid="Judy" creationdate="20150110T015756Z">
+        <seg>9&lt;t0/&gt;11 觸控板校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;12 Ethernet page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015810Z" creationid="Judy" creationdate="20150110T015810Z">
+        <seg>9&lt;t0/&gt;12 網路畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;13 Backup</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015815Z" creationid="Judy" creationdate="20150110T015815Z">
+        <seg>9&lt;t0/&gt;13 備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;2 Machinedata with passwordinput</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015639Z" creationid="Judy" creationdate="20150110T015639Z">
+        <seg>9&lt;t0/&gt;2 機台數據密碼輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;3 Machinedata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015647Z" creationid="Judy" creationdate="20150110T015647Z">
+        <seg>9&lt;t0/&gt;3 機台數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;5 Components</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015701Z" creationid="Judy" creationdate="20150110T015701Z">
+        <seg>9&lt;t0/&gt;5 元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;6 Times</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015708Z" creationid="Judy" creationdate="20150110T015708Z">
+        <seg>9&lt;t0/&gt;6 運行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;7 Axisdata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015716Z" creationid="Judy" creationdate="20150110T015716Z">
+        <seg>9&lt;t0/&gt;7 軸數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;8 Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015720Z" creationid="Judy" creationdate="20150110T015720Z">
+        <seg>9&lt;t0/&gt;8 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;9 Setup date and time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015735Z" creationid="Judy" creationdate="20150110T015735Z">
+        <seg>9&lt;t0/&gt;9 設定日期時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,6 +4036,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150106Z" creationid="CCYU" creationdate="20141105T150106Z">
         <seg>&lt;S&lt;t0/&gt;A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;1&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;O&lt;t4/&gt;peration panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015832Z" creationid="Judy" creationdate="20150110T015832Z">
+        <seg>&lt;t0/&gt;1&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;操作面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;4 位置</seg>
       </tuv>
     </tu>
     <tu>
