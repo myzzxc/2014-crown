@@ -10160,6 +10160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Axisdata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005416Z" creationid="Judy" creationdate="20150110T005416Z">
+        <seg>軸數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Axisfaults</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005121Z" creationid="Judy" creationdate="20150110T005121Z">
@@ -10342,6 +10350,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T062508Z">
         <seg>各行業銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005453Z" creationid="Judy" creationdate="20150110T005453Z">
+        <seg>備份</seg>
       </tuv>
     </tu>
     <tu>
@@ -13251,6 +13267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Components</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005345Z" creationid="Judy" creationdate="20150110T005345Z">
+        <seg>元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Components and materials</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140922T162945Z">
@@ -14778,6 +14802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042251Z" creationid="CCYU" creationdate="20141025T042251Z">
         <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date Time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005430Z" creationid="Judy" creationdate="20150110T005430Z">
+        <seg>日期時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -17295,6 +17327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editor main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005217Z" creationid="Judy" creationdate="20150110T005217Z">
+        <seg>編輯器主畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Education, RD&amp;D and population goals are essential, with very large synergies with the development and &lt;t0/&gt;environmental dimensions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T072446Z" creationid="CCYU" creationdate="20141221T072446Z">
@@ -17827,6 +17867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T013344Z" creationid="Judy" creationdate="20141221T013344Z">
         <seg>估計的基礎為提供主要分佈在撒哈拉以南非洲地區 10 億以上的人口取的電力以及 28 億的人口有乾淨的烹飪設施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethernet</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005452Z" creationid="Judy" creationdate="20150110T005452Z">
+        <seg>網路</seg>
       </tuv>
     </tu>
     <tu>
@@ -34263,6 +34311,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Language Change</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005437Z" creationid="Judy" creationdate="20150110T005437Z">
+        <seg>變更語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Large Hydraulic Machines</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071611Z">
@@ -35291,6 +35347,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T092701Z">
         <seg>機械廠設置有吸收護邊及墊子，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machinedata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005335Z" creationid="Judy" creationdate="20150110T005335Z">
+        <seg>機台數據</seg>
       </tuv>
     </tu>
     <tu>
@@ -36956,6 +37020,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142056Z" creationid="CCYU" creationdate="20141023T142056Z">
         <seg>安裝孔岐管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mounting the Grinding Wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005458Z" creationid="Judy" creationdate="20150110T005458Z">
+        <seg>安裝砂輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -41464,6 +41536,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005419Z" creationid="Judy" creationdate="20150110T005419Z">
+        <seg>選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orifice Assembly</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132419Z" creationid="CCYU" creationdate="20141022T132419Z">
@@ -43004,6 +43084,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T053217Z" creationid="Judy" creationdate="20141220T053217Z">
         <seg>人口問題已經證實難以國家間協調的方式處理，雖然某些國家已經於短時間內大幅降低人口增長速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005340Z" creationid="Judy" creationdate="20150110T005340Z">
+        <seg>位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -64660,6 +64748,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Times</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005407Z" creationid="Judy" creationdate="20150110T005407Z">
+        <seg>運行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T053533Z" creationid="CCYU" creationdate="20141025T053533Z">
@@ -65297,6 +65393,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T021223Z">
         <seg>總重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Touchpad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005447Z" creationid="Judy" creationdate="20150110T005447Z">
+        <seg>觸控板</seg>
       </tuv>
     </tu>
     <tu>
