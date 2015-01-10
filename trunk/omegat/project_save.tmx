@@ -7848,6 +7848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also you can change the k&lt;t0/&gt;e&lt;t1/&gt;v data from the drives in all axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152717Z" creationid="Judy" creationdate="20150110T152717Z">
+        <seg>此外，還可以由驅動中更改所有軸的 kev 資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, breaking of roads and bended stems of betel palms are commonly observed in this study area suggesting unstable ground movement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T045631Z">
@@ -23299,6 +23307,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T032818Z">
         <seg>For the classification and labelling of the product see section 2. 產品之分類與標示請見第 2 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the control to accept the input value the machine must be restarted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152542Z" creationid="Judy" creationdate="20150110T152542Z">
+        <seg>必須重新啟動機台使輸入數值生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41604,6 +41620,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141214Z" creationid="Judy" creationdate="20150109T141214Z">
         <seg>此時連接機構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now measure the position from the end bumper and the Reverse value is input in to the REF OFFSET.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152457Z" creationid="Judy" creationdate="20150110T152457Z">
+        <seg>此時測量距離橡膠擋板端點的位置，並輸入正負相反數值至 REF 偏移中。</seg>
       </tuv>
     </tu>
     <tu>
