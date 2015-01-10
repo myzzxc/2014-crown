@@ -36295,6 +36295,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machine Equipment – The machine equipment &lt;t0/&gt;is defined by this value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150057Z" creationid="Judy" creationdate="20150110T150057Z">
+        <seg>機台設備 — 機台設備由此值定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machine Housing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145258Z" creationid="Judy" creationdate="20150109T145258Z">
@@ -65588,6 +65596,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This v&lt;t1/&gt;alue is a company-setting and must not be changed!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150136Z" creationid="Judy" creationdate="20150110T150136Z">
+        <seg>此數值為公司設置且不能更改！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This voltage constitutes a damped oscillating wave (shown in figure A.3).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T123856Z" creationid="CCYU" creationdate="20141203T123856Z">
@@ -73761,8 +73777,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>dress dia  pneumatic” - If  a pneumatic outside diameter dresser is available, this option enables this feature in the Software.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145812Z" creationid="Judy" creationdate="20150110T145812Z">
-        <seg>修整直徑”  - If  a pneumatic outside diameter dresser is available, this option enables this feature in the Software.</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150003Z" creationid="Judy" creationdate="20150110T145812Z">
+        <seg>修整” - 若有氣動外徑整修器，軟體中的此選項能啟用此功能。</seg>
       </tuv>
     </tu>
     <tu>
