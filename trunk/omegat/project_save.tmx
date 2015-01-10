@@ -4192,6 +4192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;System Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143050Z" creationid="Judy" creationdate="20150110T143050Z">
+        <seg>91 系統功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
@@ -24095,6 +24103,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From here you can select different system-data pages&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143108Z" creationid="Judy" creationdate="20150110T143108Z">
+        <seg>此處可以選擇不同的系統資料頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the above review, it is realized that more sophisticated models are needed to resolve these complicated physical processes and the effects from some parameters crucial to the prediction of the overall engine performance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T153729Z">
@@ -29145,6 +29161,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132602Z" creationid="CCYU" creationdate="20141112T132602Z">
         <seg>若繞組之中性端子與線路端子具有相同額定絕緣等級，則中性端子之絕緣等級無須另外標明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the option CNC is activated, the editor can also be open at this menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143046Z" creationid="Judy" creationdate="20150110T143046Z">
+        <seg>若已啟用 CNC 選項，可於此功能選單中開啟編輯器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54628,6 +54652,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The buttons are self-explanatory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142942Z" creationid="Judy" creationdate="20150110T142942Z">
+        <seg>按鍵功能如按鍵標示所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The buttons on the top and bottom of the touch screen are global and are present on every page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031633Z" creationid="Judy" creationdate="20150110T031633Z">
@@ -70305,6 +70337,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161928Z">
         <seg>藉由具有良好的地面物體外觀如房屋、塔等不易改變物體之單色正射校正空拍照片，PIV 能顯示準確的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the editor you can edit all kind of ASCII files (e.g.CNC programs).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142825Z" creationid="Judy" creationdate="20150110T142825Z">
+        <seg>使用編輯器可以編輯所有類型的 ASCII 檔案（例如 CNC 程序）。</seg>
       </tuv>
     </tu>
     <tu>
