@@ -7790,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the parameters in the control unit&lt;t0/&gt; will be written &lt;t1/&gt;into the &lt;t2/&gt;Config.CSV.&lt;t3/&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162800Z" creationid="Judy" creationdate="20150110T162800Z">
+        <seg>控制單元的所有參數將寫入 &lt;t2/&gt;Config.CSV.&lt;t3/&gt; 檔案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All three brands are now part of FLUKE.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T234652Z">
@@ -10594,8 +10602,8 @@
       <tuv lang="EN-US">
         <seg>Attention:&lt;t0/&gt; All  data&lt;t1/&gt; &lt;t2/&gt;in the control unit &lt;t3/&gt;will be overwritten</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162454Z" creationid="Judy" creationdate="20150110T162454Z">
-        <seg>注意：&lt;t0/&gt;所有控制單元中的資料將會被覆蓋</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162835Z" creationid="Judy" creationdate="20150110T162454Z">
+        <seg>注意：&lt;t0/&gt;所有控制單元中的資料將會被覆寫</seg>
       </tuv>
     </tu>
     <tu>
@@ -48459,6 +48467,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162711Z" creationid="Judy" creationdate="20150110T162711Z">
+        <seg>儲存：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scope</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T141717Z">
@@ -51783,6 +51799,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032348Z" creationid="CCYU" creationdate="20141025T032348Z">
         <seg>端子台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;he previous values will be &lt;t1/&gt;overwritten</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162824Z" creationid="Judy" creationdate="20150110T162824Z">
+        <seg>之前的數值將會被覆寫</seg>
       </tuv>
     </tu>
     <tu>
@@ -55334,8 +55358,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>The choosen file will be loaded and all data of&lt;t0/&gt; the &lt;t1/&gt;control unit&lt;t2/&gt; will be overwritten</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162559Z" creationid="Judy" creationdate="20150110T162559Z">
-        <seg>將載入選擇檔和所有資料的 &lt;t0/&gt; &lt;t1/&gt; 控制單元 &lt;t2/&gt; 將會被覆蓋</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162829Z" creationid="Judy" creationdate="20150110T162559Z">
+        <seg>將載入選擇之檔案且控制單元的所有資料將會被覆寫</seg>
       </tuv>
     </tu>
     <tu>
