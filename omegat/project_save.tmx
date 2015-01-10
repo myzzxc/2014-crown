@@ -6990,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Affirmation&lt;t0/&gt; (if is no foot&lt;t1/&gt;switch existing)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020033Z" creationid="Judy" creationdate="20150110T020033Z">
+        <seg>確認（是否無腳踏開關）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few days of the Chi-Chi event, the Hongtsaiping area in central Taiwan was reported to have several meters of slide in a small scale area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T043335Z">
@@ -14124,6 +14132,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015941Z" creationid="Judy" creationdate="20150110T015941Z">
+        <seg>控制關閉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control on</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015938Z" creationid="Judy" creationdate="20150110T015938Z">
+        <seg>控制開啟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Control parameters</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T131447Z">
@@ -17795,6 +17819,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T102834Z">
         <seg>最小伸長量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emergency Stop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020039Z" creationid="Judy" creationdate="20150110T020039Z">
+        <seg>緊急停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -34119,6 +34151,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Joystick</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020115Z" creationid="Judy" creationdate="20150110T020115Z">
+        <seg>選擇搖桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Judging from the values of maximum velocity, heat input, and work output within a cycle, grid and time-step independent solutions can be achieved by the grid with 110,569 cells at 200 time steps per cycle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T154207Z">
@@ -43320,6 +43360,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Po&lt;t0/&gt;wer Panel &lt;t1/&gt;420&lt;t2/&gt; with Display</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015924Z" creationid="Judy" creationdate="20150110T015924Z">
+        <seg>電力面板 &lt;t1/&gt;420&lt;t2/&gt; 含螢幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Point</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T020614Z">
@@ -47727,6 +47775,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T154421Z">
         <seg>選擇器室油溫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selector switch</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020049Z" creationid="Judy" creationdate="20150110T020049Z">
+        <seg>選擇開關</seg>
       </tuv>
     </tu>
     <tu>
@@ -66449,6 +66505,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T161159Z" creationid="Judy" creationdate="20141220T161159Z">
         <seg>的聯合國環境規劃署 (UNEP)，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>USB connector</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020044Z" creationid="Judy" creationdate="20150110T020044Z">
+        <seg>USB 連接器</seg>
       </tuv>
     </tu>
     <tu>
