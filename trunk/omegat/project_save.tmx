@@ -3304,6 +3304,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9&lt;t0/&gt;13&lt;t1/&gt; Ethernet page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161852Z" creationid="Judy" creationdate="20150110T161852Z">
+        <seg>9&lt;t0/&gt;12 網路畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9&lt;t0/&gt;2 Machinedata with passwordinput</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015639Z" creationid="Judy" creationdate="20150110T015639Z">
@@ -4204,6 +4212,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160128Z" creationid="Judy" creationdate="20150110T160128Z">
         <seg>911 觸控板校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;12&lt;t2/&gt; Ethernet page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161651Z" creationid="Judy" creationdate="20150110T161651Z">
+        <seg>9&lt;t0/&gt;12 網路畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -10408,6 +10424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the lower part you can enter the IP-address and the subnet mask.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161826Z" creationid="Judy" creationdate="20150110T161826Z">
+        <seg>於下半部分中可以輸入 IP 位址和子網路遮罩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the same time, a voltmeter responsive to the &lt;t0/&gt;r.m.s&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T055616Z">
@@ -10428,6 +10452,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T224138Z" creationid="Judy" creationdate="20141219T224138Z">
         <seg>同時，人類企業對環境的影響已有全球性的增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the upper part, you can enter the access data for the network.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161741Z" creationid="Judy" creationdate="20150110T161737Z">
+        <seg>於上半部分可以輸入網路存取資料，</seg>
       </tuv>
     </tu>
     <tu>
@@ -11830,6 +11862,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T115448Z" creationid="Judy" creationdate="20141223T115448Z">
         <seg>企業有義務提供永續性的產品線而不是非永續性產品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But its only possible if there is a network connection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161810Z" creationid="Judy" creationdate="20150110T161745Z">
+        <seg>但僅適用於具有網路連接的情況下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78445,6 +78485,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T053520Z" creationid="Judy" creationdate="20141220T053520Z">
         <seg>收入成長（包括消除貧窮）一直是所有發展政策的目標且被視為不可或缺的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>status</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161829Z" creationid="Judy" creationdate="20150110T161829Z">
+        <seg>狀態</seg>
       </tuv>
     </tu>
     <tu>
