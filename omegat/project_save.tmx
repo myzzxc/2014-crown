@@ -2359,6 +2359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&lt;t1/&gt;2 &lt;t2/&gt;Global button functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015234Z" creationid="Judy" creationdate="20150110T015234Z">
+        <seg>3&lt;t1/&gt;2 &lt;t2/&gt; 緊急停止按鈕功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 = 0,16 (&lt;t0/&gt;VIT)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T073715Z" creationid="CCYU" creationdate="20141207T073715Z">
@@ -2507,6 +2515,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T064620Z">
         <seg>4 操作裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4&lt;t0/&gt;1 Startmenu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015250Z" creationid="Judy" creationdate="20150110T015250Z">
+        <seg>4 &lt;t0/&gt;1 開始功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2824,6 +2840,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6&lt;t0/&gt;1 Jog mainaxis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015258Z" creationid="Judy" creationdate="20150110T015258Z">
+        <seg>6&lt;t0/&gt;1 移動主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6&lt;t0/&gt;2 Jog NC-profiling unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015326Z" creationid="Judy" creationdate="20150110T015326Z">
+        <seg>6&lt;t0/&gt;2 移動 NC-加工單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6JJ)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130657Z" creationid="CCYU" creationdate="20141105T130657Z">
@@ -2932,6 +2964,54 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073102Z">
         <seg>7 技術規格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;1 Diagnostic Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015355Z" creationid="Judy" creationdate="20150110T015355Z">
+        <seg>7&lt;t0/&gt;1 故障診斷選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;2 Diagnostic Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015403Z" creationid="Judy" creationdate="20150110T015403Z">
+        <seg>7&lt;t0/&gt;2  診斷輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;3 Diagnostic Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015415Z" creationid="Judy" creationdate="20150110T015415Z">
+        <seg>7&lt;t0/&gt;3 診斷輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;4 Logbook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015423Z" creationid="Judy" creationdate="20150110T015423Z">
+        <seg>7&lt;t0/&gt;4 記錄檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;5 Diagnostic Mainaxis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015448Z" creationid="Judy" creationdate="20150110T015442Z">
+        <seg>7&lt;t0/&gt;5 主軸故障診斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7&lt;t0/&gt;6 Diagnostic C-and A -Axis NC-PG (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015526Z" creationid="Judy" creationdate="20150110T015526Z">
+        <seg>7&lt;t0/&gt;6  C-軸 / A-軸 NC-加工單元故障診斷（選配）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42812,6 +42892,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T020155Z">
         <seg>Physical state 物理狀態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pi&lt;t0/&gt;c.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015224Z" creationid="Judy" creationdate="20150110T015224Z">
+        <seg>圖</seg>
       </tuv>
     </tu>
     <tu>
