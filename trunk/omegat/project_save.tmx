@@ -4168,6 +4168,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;Diagnostic Mainaxis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141531Z" creationid="Judy" creationdate="20150110T141531Z">
+        <seg>75 主軸故障診斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;6&lt;t2/&gt; &lt;t3/&gt;Diagnostic C-&lt;t4/&gt;and A -&lt;t5/&gt;Axis NC-PG&lt;t6/&gt; (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141540Z" creationid="Judy" creationdate="20150110T141540Z">
+        <seg>76  C-軸 / A-軸 NC-加工單元故障診斷（選配）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;8&lt;t1/&gt;1&lt;t2/&gt; Explorer main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141753Z" creationid="Judy" creationdate="20150110T141753Z">
+        <seg>81 瀏覽器主畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
@@ -41960,6 +41984,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the logbook is full then the newest fault is logged and the oldest is deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141524Z" creationid="Judy" creationdate="20150110T141524Z">
+        <seg>當記錄檔容量已滿時，最新的記錄將會覆蓋最舊的記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once they are locked in, they are there until they are broken down into environmentally friendly elements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z">
@@ -45494,6 +45526,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T131917Z" creationid="CCYU" creationdate="20141022T131917Z">
         <seg>重新調整歸零。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Readout of &lt;t0/&gt;axis faults&lt;t1/&gt; with &lt;t2/&gt;fault number&lt;t3/&gt; and &lt;t4/&gt;clear text&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141715Z" creationid="Judy" creationdate="20150110T141715Z">
+        <seg>軸故障讀數與故障編號及清除文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70193,6 +70233,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141225T124640Z" creationid="Judy" creationdate="20141225T124640Z">
         <seg>隨著資料量日益上升的趨勢，需要使用新技術以進行分析並利用資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the „Q“ button you can quit the faults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141743Z" creationid="Judy" creationdate="20150110T141743Z">
+        <seg>可使用 “Q” 按鈕退出故障。</seg>
       </tuv>
     </tu>
     <tu>
