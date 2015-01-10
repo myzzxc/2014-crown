@@ -4232,6 +4232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;6&lt;t2/&gt; &lt;t3/&gt;Times</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150336Z" creationid="Judy" creationdate="20150110T150336Z">
+        <seg>96 運行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -12686,6 +12694,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144129Z" creationid="Judy" creationdate="20150110T144015Z">
         <seg>&lt;t0/&gt;必須&lt;t1/&gt;由受過訓練之人員進行變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing this value may disable features of you machine or cause malfunction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150216Z" creationid="Judy" creationdate="20150110T150216Z">
+        <seg>更改此數值可能使機台功能失效或導致故障。</seg>
       </tuv>
     </tu>
     <tu>
