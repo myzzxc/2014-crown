@@ -4152,6 +4152,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;Diagnostic Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141248Z" creationid="Judy" creationdate="20150110T141248Z">
+        <seg>73 診斷輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;4&lt;t2/&gt; &lt;t3/&gt;Logbook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141328Z" creationid="Judy" creationdate="20150110T141328Z">
+        <seg>74 記錄檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
@@ -28228,6 +28244,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it’s red,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141233Z" creationid="Judy" creationdate="20150110T141233Z">
+        <seg>若為紅色，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If leakage is present and cannot be rectified by replacing O-Rings, remove the discrepant component and return for repair or replacement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T134235Z" creationid="CCYU" creationdate="20141023T134235Z">
@@ -31906,6 +31930,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090635Z" creationid="Judy" creationdate="20150110T090635Z">
         <seg>此功能表中能手動控制機台三個主軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this menu you can see the o&lt;t0/&gt;utput.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141253Z" creationid="Judy" creationdate="20150110T141253Z">
+        <seg>此功能選單中可顯示輸出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53572,6 +53604,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LOGBOOK displays the f&lt;t0/&gt;aults with the date and time at which they occurred.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141411Z" creationid="Judy" creationdate="20150110T141411Z">
+        <seg>記錄檔顯示故障及其發生的日期和時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LV winding lags the HV by 330°.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T142508Z">
@@ -69237,6 +69277,22 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the field green the input is active.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141321Z" creationid="Judy" creationdate="20150110T141321Z">
+        <seg>當欄位為綠色時代表已啟用輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the field green&lt;t3/&gt; the input&lt;t4/&gt; is&lt;t5/&gt; active&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141219Z" creationid="Judy" creationdate="20150110T141219Z">
+        <seg>當欄位為綠色時代表已啟用輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the foot warmer is in operation, the control unit may warm up slightly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T145510Z">
@@ -78589,6 +78645,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T052746Z">
         <seg>於額定頻率下三相星形 (Y) 連接或 Z 連接繞組之線路端子與中性端子相連接之阻抗，以歐姆每相表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the input &lt;t0/&gt;is &lt;t1/&gt;not activ&lt;t2/&gt;e&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141243Z" creationid="Judy" creationdate="20150110T141243Z">
+        <seg>則輸入未啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the input is not active.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141324Z" creationid="Judy" creationdate="20150110T141324Z">
+        <seg>則輸入未啟用。</seg>
       </tuv>
     </tu>
     <tu>
