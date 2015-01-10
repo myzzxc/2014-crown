@@ -29965,6 +29965,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If “1” is entered here, the autom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153547Z" creationid="Judy" creationdate="20150110T153547Z">
+        <seg>若此處輸入 “1”，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If “Automatic filter cleaning “ is activated, after  a defined &lt;t0/&gt;time (in the “times” –window) the vacuum device cleans the filter for the defined time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145534Z" creationid="Judy" creationdate="20150110T145534Z">
@@ -64804,6 +64812,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done fully automatical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153714Z" creationid="Judy" creationdate="20150110T153714Z">
+        <seg>此動作為全自動行程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is done with hydraulic machines, presses, cutting machines, etc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T092306Z">
@@ -77001,6 +77017,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>p&lt;t0/&gt;rofilingcycle&lt;t1/&gt; is only relevant for the threaded wheel&lt;t2/&gt;s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153501Z" creationid="Judy" creationdate="20150110T153501Z">
+        <seg>加工循環&lt;t1/&gt;只使用於螺紋輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>pH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T092515Z">
@@ -77333,6 +77357,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T102329Z">
         <seg>printing date&lt;t0/&gt;: &lt;t1/&gt;08.07.2014 印刷日期：2014 年 7 月 8 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>profiling cycle will be started immediately after the overdressing cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153654Z" creationid="Judy" creationdate="20150110T153654Z">
+        <seg>修整加工程序後將立即啟動自動加工程序。</seg>
       </tuv>
     </tu>
     <tu>
