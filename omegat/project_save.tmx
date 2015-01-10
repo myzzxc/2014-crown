@@ -10160,6 +10160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Axisfaults</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005121Z" creationid="Judy" creationdate="20150110T005121Z">
+        <seg>軸故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>B = (S&lt;t0/&gt;b&lt;t1/&gt;-nxA&lt;t2/&gt;0&lt;t3/&gt;)/S&lt;t4/&gt;e</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T155020Z" creationid="CCYU" creationdate="20141104T155020Z">
@@ -15510,6 +15518,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diagnostic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004932Z" creationid="Judy" creationdate="20150110T004932Z">
+        <seg>故障診斷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagnostic Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005024Z" creationid="Judy" creationdate="20150110T005024Z">
+        <seg>診斷輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagnostic Outputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005027Z" creationid="Judy" creationdate="20150110T005027Z">
+        <seg>診斷輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diagram of connections, or connection symbol, or both.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142237Z">
@@ -17255,6 +17287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005208Z" creationid="Judy" creationdate="20150110T005208Z">
+        <seg>編輯器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Education, RD&amp;D and population goals are essential, with very large synergies with the development and &lt;t0/&gt;environmental dimensions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T072446Z" creationid="CCYU" creationdate="20141221T072446Z">
@@ -18227,6 +18267,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T081601Z">
         <seg>符號說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005148Z" creationid="Judy" creationdate="20150110T005148Z">
+        <seg>瀏覽器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005205Z" creationid="Judy" creationdate="20150110T005205Z">
+        <seg>瀏覽器主畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -33759,10 +33815,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jog C-axis / A-axis NC-profiling unit (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004920Z" creationid="Judy" creationdate="20150110T004920Z">
+        <seg>移動 C-軸 / A-軸 NC-加工單元（選配）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jog Menu</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004838Z" creationid="Judy" creationdate="20150110T004838Z">
         <seg>移動功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jog mainaxis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004853Z" creationid="Judy" creationdate="20150110T004853Z">
+        <seg>移動主軸</seg>
       </tuv>
     </tu>
     <tu>
@@ -34779,6 +34851,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033856Z" creationid="CCYU" creationdate="20141025T033856Z">
         <seg>內六角固定螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logbook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005112Z" creationid="Judy" creationdate="20150110T005112Z">
+        <seg>記錄檔</seg>
       </tuv>
     </tu>
     <tu>
