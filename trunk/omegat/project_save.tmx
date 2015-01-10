@@ -1719,6 +1719,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;1 Operation panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015148Z" creationid="Judy" creationdate="20150110T015148Z">
+        <seg>1&lt;t0/&gt;1 操作面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt;Characteristic bond strength values correspond to concrete compressive strength in the range 2,500 psi &lt;t1/&gt; f&lt;t2/&gt;´&lt;t3/&gt;c &lt;t4/&gt; 4,500 psi.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T024959Z">
@@ -2127,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt;1 &lt;t1/&gt;Switch functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015208Z" creationid="Judy" creationdate="20150110T015208Z">
+        <seg>2&lt;t0/&gt;1 &lt;t1/&gt; 開關功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2&lt;t0/&gt;d&lt;t1/&gt;0 &lt;t2/&gt;= drill hole diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T020730Z">
@@ -2331,6 +2347,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T165142Z" creationid="Judy" creationdate="20141109T165142Z">
         <seg>a&lt;t0/&gt; IVW 測試之要求可於 IVPD 測試中進行，因此僅需一次測試</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3&lt;t0/&gt;1 Global pages elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015219Z" creationid="Judy" creationdate="20150110T015219Z">
+        <seg>3&lt;t0/&gt;1  主畫面元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -34791,6 +34815,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of figures</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015120Z" creationid="Judy" creationdate="20150110T015120Z">
+        <seg>圖片清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>List of symbols</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T142435Z">
@@ -37028,6 +37060,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005458Z" creationid="Judy" creationdate="20150110T005458Z">
         <seg>安裝砂輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mounting the diamond dressing wheel VPG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015050Z" creationid="Judy" creationdate="20150110T015050Z">
+        <seg>安裝鑽石修整砂輪 VPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -42776,6 +42816,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015137Z" creationid="Judy" creationdate="20150110T015137Z">
+        <seg>圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick up with absorbent material (e.g., sand, sawdust, general-purpose binder).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095748Z">
@@ -46847,6 +46895,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123359Z">
         <seg>使用安全 (BWR 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety precautions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015108Z" creationid="Judy" creationdate="20150110T015108Z">
+        <seg>安全措施</seg>
       </tuv>
     </tu>
     <tu>
