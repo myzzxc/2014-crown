@@ -10354,6 +10354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balancing (optional enclosure 4.2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004241Z" creationid="Judy" creationdate="20150110T004241Z">
+        <seg>平衡（選配附件 4.2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ballscrews for X-and Y-Axis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152940Z" creationid="Judy" creationdate="20150109T152940Z">
@@ -11670,6 +11678,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144850Z" creationid="CCYU" creationdate="20141105T144850Z">
         <seg>CO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CNC (optional enclosure 4.1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004232Z" creationid="Judy" creationdate="20150110T004232Z">
+        <seg>CNC（選配附件 4.1）</seg>
       </tuv>
     </tu>
     <tu>
@@ -43481,6 +43497,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Profiling wheel   (optional enclosure 5.3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004446Z" creationid="Judy" creationdate="20150110T004446Z">
+        <seg>加工輪（選配附件 5.3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Progress has been registered in access to education, on the health front, and in access to basic services such as water and sanitation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141219T223628Z" creationid="Judy" creationdate="20141219T223628Z">
@@ -64268,6 +64292,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threaded wheel   (optional enclosure 5.1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004403Z" creationid="Judy" creationdate="20150110T004403Z">
+        <seg>螺紋輪（選配附件 5.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threads engagement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060705Z" creationid="CCYU" creationdate="20141025T060705Z">
@@ -65025,6 +65057,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153332Z" creationid="Judy" creationdate="20150109T153332Z">
         <seg>Y 軸齒形皮帶檢查及可能使用期限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toothed Rack  (optional enclosure 5.2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004431Z" creationid="Judy" creationdate="20150110T004431Z">
+        <seg>齒條（選配附件 5.2）</seg>
       </tuv>
     </tu>
     <tu>
@@ -68985,6 +69025,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074718Z">
         <seg>若沒有處理，含油的水必須作為危險廢棄物處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workpiece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004244Z" creationid="Judy" creationdate="20150110T004244Z">
+        <seg>工件</seg>
       </tuv>
     </tu>
     <tu>
