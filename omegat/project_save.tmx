@@ -41608,6 +41608,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now mount the motor and move away from the rubber bumper and then return to the 1.00mm position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152326Z" creationid="Judy" creationdate="20150110T152326Z">
+        <seg>此時安裝馬達並遠離橡膠擋板，接著再返回到 1.00 mm 的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -62624,6 +62632,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z">
         <seg>於下次使用前需使裝置至少冷卻 30 分鐘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then manually position the X axis to the back or the Y axis to right to 1 mm from the rubber bumper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152205Z" creationid="Judy" creationdate="20150110T152205Z">
+        <seg>接著手動定位 X 軸至橡膠擋板後方距離 1 mm 處，或 Y 軸至橡膠擋板右方距離 1 mm 處。</seg>
       </tuv>
     </tu>
     <tu>
