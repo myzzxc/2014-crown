@@ -25939,8 +25939,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Here you can input the time that the dust collection system runs between filter cleaning cycles and how long the filter cleaning cycle is&lt;t0/&gt;,&lt;t1/&gt; in seconds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150548Z" creationid="Judy" creationdate="20150110T150548Z">
-        <seg>此處可以輸入濾清器清洗週期中集塵系統運行次數，以及濾清器清潔時間，以秒為單位。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150854Z" creationid="Judy" creationdate="20150110T150548Z">
+        <seg>此處可以輸入濾清器清洗週期中集塵系統運行時間，以及濾清器清潔時間，以秒為單位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32152,8 +32152,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In this example the cleaning will take place after the dust collection has run for at least 40 minutes or &lt;t2/&gt;unti&lt;t3/&gt;l the end of the program if it is longer and then the filter will be cleaned.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150635Z" creationid="Judy" creationdate="20150110T150635Z">
-        <seg>此範例中將清洗將放置集塵器運行至少 40 分鐘後或 &lt;t2/&gt; 單位 &lt;t3/&gt; l 程式如果是更長的時間，然後清理該篩選器，將會結束。</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150844Z" creationid="Judy" creationdate="20150110T150635Z">
+        <seg>此範例中將於集塵器運行至少 40 分鐘後進行濾清器清潔，或當加工程序時間大於 40 分鐘時，於加工結束後清理濾清器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55768,6 +55768,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T153831Z" creationid="CCYU" creationdate="20141112T153831Z">
         <seg>除加強電壓等級外，測試時間應和測試頻率無關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dust collection is automatically turned on by automatic cycle start.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151132Z" creationid="Judy" creationdate="20150110T151132Z">
+        <seg>當自動循環開始時集塵器將自動開啟。</seg>
       </tuv>
     </tu>
     <tu>
