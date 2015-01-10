@@ -25913,6 +25913,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can activate or deactivate auxiliary components and options for the machine&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145236Z" creationid="Judy" creationdate="20150110T145236Z">
+        <seg>此處可啟用或停用機台輔助元件和選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can setup the actual device (HD0, USB stick).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142321Z" creationid="Judy" creationdate="20150110T142321Z">
@@ -29881,6 +29889,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100036Z" creationid="Judy" creationdate="20150110T100036Z">
         <seg>若要停止主軸需再次按下相同按鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If “Automatic filter cleaning “ is activated, after  a defined &lt;t0/&gt;time (in the “times” –window) the vacuum device cleans the filter for the defined time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145534Z" creationid="Judy" creationdate="20150110T145534Z">
+        <seg>若啟動 “自動濾清器清潔”，經過設定時間後（“次數” 範圍）吸塵設備將依設定時間清潔濾清器。</seg>
       </tuv>
     </tu>
     <tu>
