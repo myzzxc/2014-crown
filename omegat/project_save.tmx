@@ -12626,6 +12626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change to editor / o&lt;t0/&gt;pen file or folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142723Z" creationid="Judy" creationdate="20150110T142723Z">
+        <seg>切換至編輯器 / 開啟檔案或資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characteristic &lt;t0/&gt;bending moment&lt;t1/&gt;, Stainless steel A4 and HCR, property class 50 (&gt;M24) and 70 (≤ M24)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T050527Z">
@@ -14508,6 +14516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142535Z" creationid="Judy" creationdate="20150110T142535Z">
+        <seg>複製檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright © 2014 &lt;t0/&gt;Page 1 of 16</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140713T053005Z">
@@ -14632,6 +14648,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T133727Z">
         <seg>龜裂混凝土：M12 至 M30，鋼筋 &lt;t0/&gt;Φ&lt;t1/&gt; &lt;t2/&gt;12 至 &lt;t3/&gt;Φ&lt;t4/&gt; &lt;t5/&gt;32。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142615Z" creationid="Judy" creationdate="20150110T142615Z">
+        <seg>建立新檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142640Z" creationid="Judy" creationdate="20150110T142640Z">
+        <seg>建立新資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -14832,6 +14864,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T072244Z" creationid="CCYU" creationdate="20141025T072244Z">
         <seg>客戶規格 (可選)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142530Z" creationid="Judy" creationdate="20150110T142530Z">
+        <seg>剪下檔案</seg>
       </tuv>
     </tu>
     <tu>
@@ -15482,6 +15522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014658Z">
         <seg>Delayed and immediate effects as well as chronic effects from short and long-term exposure 延遲性與立即性的影響，以及短期與長期暴露之慢性影響</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete file or folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142626Z" creationid="Judy" creationdate="20150110T142523Z">
+        <seg>刪除檔案或資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -17851,6 +17899,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T044506Z">
         <seg>邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit&lt;t0/&gt;or</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142731Z" creationid="Judy" creationdate="20150110T142731Z">
+        <seg>編輯器</seg>
       </tuv>
     </tu>
     <tu>
@@ -43056,6 +43112,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page back</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142511Z" creationid="Judy" creationdate="20150110T142511Z">
+        <seg>上一頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page: 1 / 10</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="YCC" changedate="20140705T044657Z">
@@ -43432,6 +43496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142543Z" creationid="Judy" creationdate="20150110T142543Z">
+        <seg>貼上檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peat Moss</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140511Z">
@@ -43652,6 +43724,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015137Z" creationid="Judy" creationdate="20150110T015137Z">
         <seg>圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pic.&lt;t0/&gt;8&lt;t1/&gt;2 Editor main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142741Z" creationid="Judy" creationdate="20150110T142741Z">
+        <seg>圖 82 編輯器主畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -45890,6 +45970,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142521Z" creationid="Judy" creationdate="20150110T142521Z">
+        <seg>重新整理頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regarding dangerous substances there may be requirements (e.g. transposed &lt;t0/&gt;Europeanlegislation&lt;t1/&gt; and national laws, regulations and administrative provisions) applicable to the&lt;t2/&gt; &lt;t3/&gt;products falling within the scope of this European Technical Assessment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T020914Z">
@@ -46302,6 +46390,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060253Z" creationid="CCYU" creationdate="20141025T055840Z">
         <seg>由接線盒組上拆除電線。(參考 MRJ05002，6.3“更換伺服閥和 LVDT”)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename file or folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142555Z" creationid="Judy" creationdate="20150110T142555Z">
+        <seg>重新命名檔案或資料夾</seg>
       </tuv>
     </tu>
     <tu>
