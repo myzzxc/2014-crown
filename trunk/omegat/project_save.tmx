@@ -31486,6 +31486,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Positions Menu you can change the amount of pull out in the axis for finishing profiling during the last 3 passes where we finish from one direction only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144802Z" creationid="Judy" creationdate="20150110T144625Z">
+        <seg>在位置功能表中，可以更改最終 3 刀表面加工之軸的拉出量，其中僅由單一個方向完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Rio+20 outcome document, member States clearly stated that the SDG process “needs to be &lt;t0/&gt;coordinated and coherent with the processes to consider the post-2015 development agenda.” During both SDG and post-2015 consultations (formal and informal), member States, civil society, and UN stakeholders consistently expressed their desire for a single&lt;t1/&gt; set of development goals to complement the MDGs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T101217Z" creationid="Judy" creationdate="20141221T101217Z">
@@ -65608,6 +65616,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T060642Z" creationid="CCYU" creationdate="20141123T060642Z">
         <seg>此為截波電路配置以及使此電路符合限制值所使用之額外阻抗 Z&lt;t1/&gt;c&lt;t2/&gt; 之指南 (請見圖 1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This&lt;t0/&gt; pull out amount is DP or modul&lt;t1/&gt; dependent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144739Z" creationid="Judy" creationdate="20150110T144739Z">
+        <seg>拉出量取決於 DP 或模組。</seg>
       </tuv>
     </tu>
     <tu>
