@@ -26081,6 +26081,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can choose the medium CF&lt;t0/&gt;(&lt;t1/&gt; &lt;t2/&gt;installed Compact Flash-Card) or USB s&lt;t3/&gt;tick</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162248Z" creationid="Judy" creationdate="20150110T162248Z">
+        <seg>此處可選擇 CF（插入 CF 記憶卡）或 USB 隨身碟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can input the time that the dust collection system runs between filter cleaning cycles and how long the filter cleaning cycle is&lt;t0/&gt;,&lt;t1/&gt; in seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150854Z" creationid="Judy" creationdate="20150110T150548Z">
@@ -30417,6 +30425,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220426Z" creationid="Judy" creationdate="20141120T220426Z">
         <seg>當不會對一般規則造成過大偏差時會將表 2 之數值為四捨五入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In This menu you can save all&lt;t0/&gt; machine parameters, threaded wheel&lt;t1/&gt; data&lt;t2/&gt; etc. in a file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162005Z" creationid="Judy" creationdate="20150110T162005Z">
+        <seg>此功能表中可以儲存所有機台參數、 螺紋輪等資料於檔案中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58284,6 +58300,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The na&lt;t3/&gt;me of the file will always be “&lt;t4/&gt;Config.CSV”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162048Z" creationid="Judy" creationdate="20150110T162048Z">
+        <seg>檔案名稱永遠為 “&lt;t4/&gt;Config.CSV”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The necessary time for this stabilizat&lt;t1/&gt;ion may be reduced by:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122422Z" creationid="CCYU" creationdate="20141104T122422Z">
@@ -70705,6 +70729,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T130347Z">
         <seg>無負載之繞組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window &lt;t0/&gt;Medium:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162110Z" creationid="Judy" creationdate="20150110T162110Z">
+        <seg>視窗&lt;t0/&gt;媒體：</seg>
       </tuv>
     </tu>
     <tu>
