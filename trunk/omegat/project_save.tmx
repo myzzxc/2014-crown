@@ -15782,6 +15782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004024Z" creationid="Judy" creationdate="20150110T004024Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard the used filter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141925Z" creationid="Judy" creationdate="20141022T141925Z">
@@ -16795,6 +16803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082946Z">
         <seg>E) 插入鋼筋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E-Mail: info@burri.de</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004021Z" creationid="Judy" creationdate="20150110T004021Z">
+        <seg>電子郵件：info@burri.de</seg>
       </tuv>
     </tu>
     <tu>
@@ -18940,6 +18956,14 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141023T142648Z" creationid="CCYU" creationdate="20141023T142648Z">
         <seg>傳真：+1-716-687-7910</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fax: +49(0)741-1748898-22</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004007Z" creationid="Judy" creationdate="20150110T004007Z">
+        <seg>傳真：+49(0)741-1748898-22</seg>
       </tuv>
     </tu>
     <tu>
@@ -24043,6 +24067,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091450Z" creationid="Judy" creationdate="20141221T091450Z">
         <seg>全球性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global pages elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004120Z" creationid="Judy" creationdate="20150110T004120Z">
+        <seg>主畫面元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -40512,6 +40544,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O&lt;t0/&gt;perating manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T003941Z" creationid="Judy" creationdate="20150110T003941Z">
+        <seg>操作手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;perating panel &lt;t1/&gt;must be opened (door) &lt;t2/&gt;and change the battery &lt;t3/&gt;of &lt;t4/&gt;the power panel&lt;t5/&gt; and the CF-Card for Software-Update</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T150515Z" creationid="Judy" creationdate="20150109T150515Z">
@@ -41244,6 +41284,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T111151Z">
         <seg>操作指示燈最初為綠色，接著閃爍紅光然後紅光恆亮代表加熱階段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation panel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004026Z" creationid="Judy" creationdate="20150110T004026Z">
+        <seg>操作面板</seg>
       </tuv>
     </tu>
     <tu>
@@ -48675,6 +48723,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004124Z" creationid="Judy" creationdate="20150110T004124Z">
+        <seg>開始功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start the machine and drive the new motor to nearly 0 in the JOG-menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141141Z" creationid="Judy" creationdate="20150109T141141Z">
@@ -49575,6 +49631,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T123605Z">
         <seg>自然資源的永續使用 (BWR 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004031Z" creationid="Judy" creationdate="20150110T004031Z">
+        <seg>開關功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -51072,6 +51136,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T063136Z">
         <seg>Telephone no.&lt;t0/&gt;          +49 (0)40 82 20 0 電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone&lt;t0/&gt; : +49(0)741-1748898-0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T003959Z" creationid="Judy" creationdate="20150110T003959Z">
+        <seg>電話：&lt;t0/&gt;+49(0)741-1748898-0</seg>
       </tuv>
     </tu>
     <tu>
