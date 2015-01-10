@@ -36959,6 +36959,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max Modul&lt;t0/&gt;e&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T154113Z" creationid="Judy" creationdate="20150110T154113Z">
+        <seg>最大模組：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015231Z">
@@ -57804,6 +57812,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum value of the modul&lt;t0/&gt;e&lt;t1/&gt; (m&lt;t2/&gt;),&lt;t3/&gt;can be limited in this array.&lt;t4/&gt; &lt;t5/&gt;This value will&lt;t6/&gt; also &lt;t7/&gt;be&lt;t8/&gt; &lt;t9/&gt;considered in other menus, &lt;t10/&gt;for example threaded wheel data.&lt;t11/&gt;,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T154307Z" creationid="Judy" creationdate="20150110T154307Z">
+        <seg>模組最大值 (m) 可於此陣列中限制，此數值也用於其他功能表中，例如螺紋輪資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum voltage across each phase winding under test shall not differ from the minimum voltage by more than 3 %.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T151238Z">
@@ -65800,6 +65816,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150136Z" creationid="Judy" creationdate="20150110T150136Z">
         <seg>此數值為公司設置且不能更改！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This value will be &lt;t0/&gt;automatically set to 1 after the machine is switched on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T154104Z" creationid="Judy" creationdate="20150110T154104Z">
+        <seg>此數值於幾檯啟動後將自動設定為 1 。</seg>
       </tuv>
     </tu>
     <tu>
