@@ -31782,6 +31782,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the event you must change out a motor the REF OFFSET value must be measured and input into the control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151624Z" creationid="Judy" creationdate="20150110T151624Z">
+        <seg>當必須更換馬達時，必須測量 REF 偏移值並輸入至控制項中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the examined cases and similar others, the consequ&lt;t0/&gt;ence is a local overheating of the conductors and of the turn insulation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141103T130324Z">
@@ -54060,6 +54068,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The REF OFFSET values must be reinput after every software update.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151518Z" creationid="Judy" creationdate="20150110T151518Z">
+        <seg>REF 偏移值必須於每次軟體更新後重新輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The RMS (Root Mean Square) error of the cross-correlation is about 0.3 pixels.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T093035Z">
@@ -70577,6 +70593,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T125701Z" creationid="CCYU" creationdate="20141203T125701Z">
         <seg>於 50 % 之反極性峰值 &lt;t0/&gt;U&lt;t1/&gt;r&lt;t2/&gt; 限制下必須使用一定程度的阻尼，使半高值時間低於方程式 (A.7) 之計算值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the motor connected but not mounted; move the motor to the X or Y zero position respectively with the joy stick in the start menu or in the extra-function menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151748Z" creationid="Judy" creationdate="20150110T151748Z">
+        <seg>連接馬達但未安裝於機台；，與電機連接，但不是安裝 ；移動到 X 或 Y 零位置分別用操縱杆在開始功能表或額外功能功能表中的電機。</seg>
       </tuv>
     </tu>
     <tu>
