@@ -3186,8 +3186,8 @@
       <tuv lang="EN-US">
         <seg>8&lt;t0/&gt;1 Explorer main page</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015543Z" creationid="Judy" creationdate="20150110T015543Z">
-        <seg>8&lt;t0/&gt;1 瀏覽器主畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141944Z" creationid="Judy" creationdate="20150110T015543Z">
+        <seg>8&lt;t0/&gt;1 檔案管理器主畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,8 +4186,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;8&lt;t1/&gt;1&lt;t2/&gt; Explorer main page</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141753Z" creationid="Judy" creationdate="20150110T141753Z">
-        <seg>81 瀏覽器主畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141952Z" creationid="Judy" creationdate="20150110T141753Z">
+        <seg>81 檔案管理器主畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -18841,16 +18841,16 @@
       <tuv lang="EN-US">
         <seg>Explorer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005148Z" creationid="Judy" creationdate="20150110T005148Z">
-        <seg>瀏覽器</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141924Z" creationid="Judy" creationdate="20150110T005148Z">
+        <seg>檔案管理器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Explorer main page</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005205Z" creationid="Judy" creationdate="20150110T005205Z">
-        <seg>瀏覽器主畫面</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141936Z" creationid="Judy" creationdate="20150110T005205Z">
+        <seg>檔案管理器主畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -70177,6 +70177,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T161928Z">
         <seg>藉由具有良好的地面物體外觀如房屋、塔等不易改變物體之單色正射校正空拍照片，PIV 能顯示準確的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the explorer you can navigate on the device (HD0, USB-stick).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142141Z" creationid="Judy" creationdate="20150110T141846Z">
+        <seg>使用檔案管理器可瀏覽儲存媒體（HD0、USB 隨身碟）。</seg>
       </tuv>
     </tu>
     <tu>
