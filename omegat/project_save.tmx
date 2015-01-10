@@ -4224,6 +4224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;Components</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145143Z" creationid="Judy" creationdate="20150110T145143Z">
+        <seg>95 元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -22497,6 +22505,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132951Z" creationid="CCYU" creationdate="20141112T132951Z">
         <seg>例如 &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &lt; 1,1 KV 之繞組可使用 &lt;t3/&gt;U&lt;t4/&gt;m&lt;t5/&gt; 3,6 kV 繞組之測試數值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example when finish dressing a 4 MOD wheel by using a standard factor of 3 to determine the finish depth plus a safety factor, 4 x 3 = 12mm pull out is required.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145136Z" creationid="Judy" creationdate="20150110T145136Z">
+        <seg>例如 4  MOD 輪之最終整修時，使用 3 倍標準係數來決定加工深度加上安全係數，需要 4 × 3 = 12 mm 拉出量。</seg>
       </tuv>
     </tu>
     <tu>
