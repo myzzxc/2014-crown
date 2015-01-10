@@ -4192,6 +4192,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;10&lt;t2/&gt; L&lt;t3/&gt;anguage change</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160111Z" creationid="Judy" creationdate="20150110T160111Z">
+        <seg>910 變更語言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;11&lt;t2/&gt; &lt;t3/&gt;Touchpad-Calibration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160128Z" creationid="Judy" creationdate="20150110T160128Z">
+        <seg>911 觸控板校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;System Menu</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143050Z" creationid="Judy" creationdate="20150110T143050Z">
@@ -7346,6 +7362,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084539Z">
         <seg>正射校正後，PIV 重疊兩張完全相同區域的校正影像，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After push the button „SET&lt;t0/&gt;“ the&lt;t1/&gt; new data &lt;t2/&gt;is &lt;t3/&gt;activ&lt;t4/&gt;e&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160100Z" creationid="Judy" creationdate="20150110T160100Z">
+        <seg>按下 “設定” 按鈕後新資料生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After push&lt;t2/&gt;ing&lt;t3/&gt; the s&lt;t4/&gt;tart button&lt;t5/&gt; &lt;t6/&gt;marks &lt;t7/&gt;will appear on the display.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160254Z" creationid="Judy" creationdate="20150110T160254Z">
+        <seg>按下開始按鈕後，螢幕將顯示標示，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25993,10 +26025,26 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can calibrat&lt;t0/&gt;e&lt;t1/&gt; the touchpad.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160144Z" creationid="Judy" creationdate="20150110T160144Z">
+        <seg>此處可以校正觸控板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can input the time that the dust collection system runs between filter cleaning cycles and how long the filter cleaning cycle is&lt;t0/&gt;,&lt;t1/&gt; in seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150854Z" creationid="Judy" creationdate="20150110T150548Z">
         <seg>此處可以輸入濾清器清洗週期中集塵系統運行時間，以及濾清器清潔時間，以秒為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can select the language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T160122Z" creationid="Judy" creationdate="20150110T160122Z">
+        <seg>此處可以選擇語言。</seg>
       </tuv>
     </tu>
     <tu>
