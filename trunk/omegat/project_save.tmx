@@ -6750,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actual device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142257Z" creationid="Judy" creationdate="20150110T142250Z">
+        <seg>儲存設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual progress in technology performance at the global level has fallen short of requirements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T055554Z" creationid="Judy" creationdate="20141220T055554Z">
@@ -7338,6 +7346,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T012607Z">
         <seg>變壓器已裝載液體並斷電 3 小時以上後，方可測定平均液體溫度且繞組溫度應視為與平均液體溫度相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After you have changed the filter setting you have to refresh the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142454Z" creationid="Judy" creationdate="20150110T142454Z">
+        <seg>當更改篩選器設定後必須刷新頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11726,6 +11742,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051216Z" creationid="Judy" creationdate="20150110T051216Z">
         <seg>按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Button functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142459Z" creationid="Judy" creationdate="20150110T142459Z">
+        <seg>按鈕功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -21310,8 +21334,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Filter</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T104426Z" creationid="Judy" creationdate="20141022T104426Z">
-        <seg>濾芯</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142359Z" creationid="Judy" creationdate="20141022T104426Z">
+        <seg>篩選器</seg>
       </tuv>
     </tu>
     <tu>
@@ -25749,6 +25773,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072603Z">
         <seg>此處我們將討論大型液壓機台的洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can setup the actual device (HD0, USB stick).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142321Z" creationid="Judy" creationdate="20150110T142321Z">
+        <seg>此處可設定儲存設備（HD0、USB 隨身碟）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70189,6 +70221,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the filter you can display certain files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142436Z" creationid="Judy" creationdate="20150110T142436Z">
+        <seg>可使用篩選器以顯示特定檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the introduction of digital recording techniques in LI and SI impulse testing, there are now additional tools available for failure analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T223408Z" creationid="Judy" creationdate="20141127T223408Z">
@@ -70473,6 +70513,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051209Z" creationid="Judy" creationdate="20150110T051209Z">
         <seg>可使用以下功能表之：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can copy, delete, rename, cut and paste files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142228Z" creationid="Judy" creationdate="20150110T142228Z">
+        <seg>可複製、刪除、剪下以及貼上檔案。</seg>
       </tuv>
     </tu>
     <tu>
