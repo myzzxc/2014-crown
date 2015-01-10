@@ -4216,6 +4216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;4&lt;t2/&gt; &lt;t3/&gt;Positions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144236Z" creationid="Judy" creationdate="20150110T144236Z">
+        <seg>94 位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -7346,6 +7354,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155024Z" creationid="CCYU" creationdate="20141112T155024Z">
         <seg>一小時局部放電量測結束後電壓應降低至 (1,2 x U&lt;t2/&gt;r&lt;t3/&gt;) / √3 並維持至少 1 分鐘，僅於足夠的時間下才能進行穩定的局部放電量測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the password input you are here&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144201Z" creationid="Judy" creationdate="20150110T144201Z">
+        <seg>輸入密碼後之畫面：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12654,6 +12670,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142723Z" creationid="Judy" creationdate="20150110T142723Z">
         <seg>切換至編輯器 / 開啟檔案或資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes &lt;t0/&gt;must&lt;t1/&gt; made by trained personal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144129Z" creationid="Judy" creationdate="20150110T144015Z">
+        <seg>&lt;t0/&gt;必須&lt;t1/&gt;由受過訓練之人員進行變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24119,6 +24143,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From here you can sele&lt;t0/&gt;ct different machine-data pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144229Z" creationid="Judy" creationdate="20150110T144229Z">
+        <seg>此處可以選擇不同機台資料頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From here you can select different system-data pages&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T143108Z" creationid="Judy" creationdate="20150110T143108Z">
@@ -32290,6 +32322,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T161241Z">
         <seg>Incompletely emptied packaging must be disposed of in the form of disposal specified by the regional disposer. 未完全清空之包裝必須依當地廢棄物處置廠商之指定形式處置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect input can endanger human and machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144048Z" creationid="Judy" creationdate="20150110T144048Z">
+        <seg>不正確的輸入可能危害人員及機台</seg>
       </tuv>
     </tu>
     <tu>
@@ -43764,6 +43804,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015137Z" creationid="Judy" creationdate="20150110T015137Z">
         <seg>圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pic.&lt;t0/&gt; &lt;t1/&gt;9&lt;t2/&gt;3&lt;t3/&gt; &lt;t4/&gt;Machinedata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144208Z" creationid="Judy" creationdate="20150110T144208Z">
+        <seg>圖 93 機台數據</seg>
       </tuv>
     </tu>
     <tu>
