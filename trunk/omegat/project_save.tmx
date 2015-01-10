@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>( optional enclosure 5.4)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090434Z" creationid="Judy" creationdate="20150110T090434Z">
+        <seg>（選配附件 5.4）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>( optional enclosure 5.5)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090445Z" creationid="Judy" creationdate="20150110T090445Z">
+        <seg>（選配附件 5.5）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(...100, 125, 160, 200, 250, 315, 400, 500, 630, 800, 1 000, etc.) kVA.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T122300Z">
@@ -722,6 +738,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130417Z" creationid="CCYU" creationdate="20141105T130417Z">
         <seg>(分鐘)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(optional enclosure 5.1)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090317Z" creationid="Judy" creationdate="20150110T090317Z">
+        <seg>（選配附件 5.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(optional enclosure 5.2)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090326Z" creationid="Judy" creationdate="20150110T090326Z">
+        <seg>（選配附件 5.2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(optional enclosure 5.3)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090340Z" creationid="Judy" creationdate="20150110T090340Z">
+        <seg>（選配附件 5.3）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(optional enclosure 5.6)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090453Z" creationid="Judy" creationdate="20150110T090453Z">
+        <seg>（選配附件 5.6）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2353,8 +2401,8 @@
       <tuv lang="EN-US">
         <seg>3&lt;t0/&gt;1 Global pages elements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015219Z" creationid="Judy" creationdate="20150110T015219Z">
-        <seg>3&lt;t0/&gt;1  主畫面元素</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030913Z" creationid="Judy" creationdate="20150110T015219Z">
+        <seg>3&lt;t0/&gt;1  共用功能列</seg>
       </tuv>
     </tu>
     <tu>
@@ -4048,6 +4096,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;2&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Switch functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030334Z" creationid="Judy" creationdate="20150110T030334Z">
+        <seg>&lt;t0/&gt;2&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;開關功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;3&lt;t1/&gt;1&lt;t2/&gt; G&lt;t3/&gt;lobal pages elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030841Z" creationid="Judy" creationdate="20150110T030554Z">
+        <seg>&lt;t0/&gt;3&lt;t1/&gt;1&lt;t2/&gt; 共用功能列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;4&lt;t1/&gt;1&lt;t2/&gt; S&lt;t3/&gt;tartmenu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050922Z" creationid="Judy" creationdate="20150110T050922Z">
+        <seg>&lt;t0/&gt;4&lt;t1/&gt;1&lt;t2/&gt; 開始功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
+        <seg>61 移動主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;6&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;Jog NC-profiling unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100532Z" creationid="Judy" creationdate="20150110T100532Z">
+        <seg>62 移動 NC-加工單元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Diagnostic Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101225Z" creationid="Judy" creationdate="20150110T101225Z">
+        <seg>71 故障診斷功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;7&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;Diagnostic Inputs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141017Z" creationid="Judy" creationdate="20150110T141017Z">
+        <seg>72  診斷輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;9&lt;t1/&gt;4 Positions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015653Z" creationid="Judy" creationdate="20150110T015653Z">
@@ -4407,6 +4511,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T095826Z">
         <seg>&lt;t1/&gt;2&lt;t2/&gt;碳鋼和合金鋼製緊固件的機械特性 – 第 1 部分：螺栓、螺釘和螺柱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;3&lt;t2/&gt;2&lt;t3/&gt; &lt;t4/&gt;G&lt;t5/&gt;lobal button functions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050847Z" creationid="Judy" creationdate="20150110T050847Z">
+        <seg>&lt;t1/&gt;3&lt;t2/&gt;2&lt;t3/&gt;&lt;t4/&gt; 緊急停止按鈕功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to the equipment, the manual speed for the profiling unit can be entered with this key</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100516Z" creationid="Judy" creationdate="20150110T100516Z">
+        <seg>不同設備加工單元速度之手動速度可以此按鍵輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>According to the geological map compiled by the Central Geological Survey (Fig. 2), the study area is located at inner foothill zone, and is underlain mainly by Miocene sedimentary rocks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T035403Z">
@@ -7122,6 +7242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T014759Z">
         <seg>After skin contact 接觸皮膚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After switching on the main&lt;t0/&gt; switch&lt;t1/&gt;,&lt;t2/&gt; the &lt;t3/&gt;s&lt;t4/&gt;tart&lt;t5/&gt; &lt;t6/&gt;me&lt;t7/&gt;nu will come up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051115Z" creationid="Judy" creationdate="20150110T051115Z">
+        <seg>開啟主開關後，將顯示開始功能表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10264,6 +10392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic balancing &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051421Z" creationid="Judy" creationdate="20150110T051421Z">
+        <seg>自動平衡（附件中選配文件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -10485,6 +10621,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T023434Z" creationid="CCYU" creationdate="20141025T023434Z">
         <seg>遮蔽元件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>B&lt;t0/&gt;utton</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031551Z" creationid="Judy" creationdate="20150110T031551Z">
+        <seg>按鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -11538,6 +11682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051216Z" creationid="Judy" creationdate="20150110T051216Z">
+        <seg>按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By agreement between manufacturer and purchaser, temperature rise limits can be guaranteed and/or a special test regarding load cycle &lt;t0/&gt;operation specified (see IEC 60076-7).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T134202Z" creationid="CCYU" creationdate="20141030T134202Z">
@@ -11950,6 +12102,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004232Z" creationid="Judy" creationdate="20150110T004232Z">
         <seg>CNC（選配附件 4.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CNC (optional enclosure 4.1&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052433Z" creationid="Judy" creationdate="20150110T052433Z">
+        <seg>CNC （選配附件 4.1）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CNC-main page &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure&lt;t3/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051324Z" creationid="Judy" creationdate="20150110T051324Z">
+        <seg>CNC-主頁面（附件中選配文件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,6 +12542,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T083053Z">
         <seg>Change all contaminated clothing. 換下所有受污染衣物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change between dimension unit &lt;t0/&gt;inch&lt;t1/&gt; and &lt;t2/&gt;mm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050640Z" creationid="Judy" creationdate="20150110T050640Z">
+        <seg>變更尺寸單位為英寸或毫米</seg>
       </tuv>
     </tu>
     <tu>
@@ -14500,6 +14676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current display for B-axis (B) und axis profiling unit (PG)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050803Z" creationid="Judy" creationdate="20150110T050803Z">
+        <seg>B-軸 (B) 以及加工單元 (PG) 軸之電流顯示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current flowing in the winding conductors produces electromagnetic forces in the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T005410Z" creationid="Judy" creationdate="20141206T005410Z">
@@ -14714,6 +14898,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034248Z" creationid="CCYU" creationdate="20141025T034248Z">
         <seg>請勿將零件 1 由接線盒組上鬆脫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;ust collection hand pipe&lt;t1/&gt; on / off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T045959Z" creationid="Judy" creationdate="20150110T045959Z">
+        <seg>集塵管開 / 關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;ust collection&lt;t1/&gt; on / off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031807Z" creationid="Judy" creationdate="20150110T031756Z">
+        <seg>集塵開 / 關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -15258,6 +15458,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141123T140413Z" creationid="Judy" creationdate="20141123T140413Z">
         <seg>依據電流曲線之形式以及使用線性或指數性掃描，可能需要使用多於一組不同掃描時間之記錄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the version of the machin&lt;t0/&gt;e&lt;t1/&gt;, the following options are available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090242Z" creationid="Judy" creationdate="20150110T090242Z">
+        <seg>根據不同機台版本具有以下選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -15826,6 +16034,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005027Z" creationid="Judy" creationdate="20150110T005027Z">
         <seg>診斷輸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagnostic functions (logbook, state of the in/outputs, axisfaults, …)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051544Z" creationid="Judy" creationdate="20150110T051544Z">
+        <seg>故障診斷功能（記錄檔、輸入 / 輸出狀態、軸故障、⋯⋯）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19016,10 +19232,42 @@ F114: Fehler CNC  …</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;ault readout field</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031008Z" creationid="Judy" creationdate="20150110T031008Z">
+        <seg>故障讀數欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;ault reset</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031713Z" creationid="Judy" creationdate="20150110T031713Z">
+        <seg>故障重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;ilter cleaner from the dust collection&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050203Z" creationid="Judy" creationdate="20150110T050116Z">
+        <seg>集塵濾清器清潔，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>F&lt;t0/&gt;or dated references, only the edition cited applies.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T033606Z" creationid="Judy" creationdate="20141122T033606Z">
         <seg>對於註明日期之參考資料，只適用引用之版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;unction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031704Z" creationid="Judy" creationdate="20150110T031704Z">
+        <seg>功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -22438,6 +22686,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more specific information about the fault you must go into the “Diagons&lt;t0/&gt;t&lt;t1/&gt;ic Menu” and go to the log book to see if there is more than the actual fault.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031259Z" creationid="Judy" creationdate="20150110T031259Z">
+        <seg>更詳細的資訊需進入 “故障診斷選單” 中讀取並開啟記錄檔以確認是否有更多的故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For most transf&lt;t0/&gt;ormers, at full test level, the exponential decay of the wavetail is interrupted by a sudden fall through zero, at a variable time after the crest, due to core saturation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T140220Z" creationid="CCYU" creationdate="20141124T135853Z">
@@ -23607,6 +23863,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090440Z" creationid="Judy" creationdate="20150110T090440Z">
+        <seg>成型輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form wheel   ( optional enclosure 5.5)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004716Z" creationid="Judy" creationdate="20150110T004716Z">
@@ -23871,6 +24135,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051220Z" creationid="Judy" creationdate="20150110T051220Z">
+        <seg>功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functional &lt;t0/&gt;specification</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T141129Z">
@@ -24011,6 +24283,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T153539Z" creationid="CCYU" creationdate="20150108T153532Z">
         <seg>斷開電流：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G&lt;t0/&gt;lobal pages elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030852Z" creationid="Judy" creationdate="20150110T030337Z">
+        <seg>共用功能列</seg>
       </tuv>
     </tu>
     <tu>
@@ -24465,8 +24745,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Global pages elements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004120Z" creationid="Judy" creationdate="20150110T004120Z">
-        <seg>主畫面元素</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030909Z" creationid="Judy" creationdate="20150110T004120Z">
+        <seg>共用功能列</seg>
       </tuv>
     </tu>
     <tu>
@@ -24923,6 +25203,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120640Z" creationid="Judy" creationdate="20150109T120640Z">
         <seg>H130：整流器未就緒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&lt;t0/&gt;ere you can select different d&lt;t1/&gt;iagnost&lt;t2/&gt;i&lt;t3/&gt;c&lt;t4/&gt; &lt;t5/&gt;pages&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101305Z" creationid="Judy" creationdate="20150110T101305Z">
+        <seg>此處可選擇不同故障診斷頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25649,10 +25937,18 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Honing ring</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090428Z" creationid="Judy" creationdate="20150110T090347Z">
+        <seg>搪磨環</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Honing ring   ( optional enclosure 5.4)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004554Z" creationid="Judy" creationdate="20150110T004554Z">
-        <seg>搪磨環   ( optional enclosure 5.4)</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090415Z" creationid="Judy" creationdate="20150110T004554Z">
+        <seg>搪磨環（選配附件 5.4）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26301,6 +26597,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T091818Z">
         <seg>Ii 為</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;n the menu „Jog a&lt;t1/&gt;xis NC-PG“ &lt;t2/&gt;you can control the C-a&lt;t3/&gt;xis&lt;t4/&gt; and the A-axis&lt;t5/&gt; &lt;t6/&gt;if available&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100839Z" creationid="Judy" creationdate="20150110T100715Z">
+        <seg>可於 “移動軸 NC-PG” 之功能選單中控制 C-軸與 A-軸&lt;t6/&gt;（若存在）&lt;t7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28581,6 +28885,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the joystick button is pressed the axis drives continuous.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091140Z" creationid="Judy" creationdate="20150110T091140Z">
+        <seg>若壓下搖桿按鈕，軸以連續方式驅動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the joystick button isn’t pressed&lt;t2/&gt;,&lt;t3/&gt; the axis makes incremental steps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091015Z" creationid="Judy" creationdate="20150110T091015Z">
+        <seg>若未壓下搖桿鍵，軸以步進方式移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -29293,6 +29613,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you choice continuous the selector switch functions as a speed override.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101203Z" creationid="Judy" creationdate="20150110T101203Z">
+        <seg>若選擇連續方式則選擇開關功能為速度控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choice incremental the axis drives the distance which is adjusted at the selector switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101117Z" creationid="Judy" creationdate="20150110T101117Z">
+        <seg>若需以步進方式驅動軸，可由選擇開關調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have to return the unit, please enclose a copy of your receipt and state what the defect is.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114708Z">
@@ -29305,6 +29641,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094758Z">
         <seg>若開箱時發現任何運輸過程中的損壞，請立即聯繫您的轉銷商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want change the speed you have to touch the input field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091539Z" creationid="Judy" creationdate="20150110T091539Z">
+        <seg>若欲變更速度必須點選輸入欄位，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to stop the spindle you have to touch the same key again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100036Z" creationid="Judy" creationdate="20150110T100036Z">
+        <seg>若要停止主軸需再次按下相同按鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31262,6 +31614,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the last input line you can drive the axis per G-Command.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100230Z" creationid="Judy" creationdate="20150110T100207Z">
+        <seg>最後的輸入欄位可以 G-指令驅動軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the latter, common action is needed to solve common problems (as enshrined in the first part of Principle 7); and the develop&lt;t1/&gt;ment path of “successful” countries is explicitly designated as one of the causes of the problem (this interpretation is already clear in the UNFCCC, which recognizes the historical responsibility of developed countries); and ultimately, developed countrie&lt;t2/&gt;s have to leave “operating space” for developing countries to develop while keeping humanity as a whole within safe ecosystem limits.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T150556Z" creationid="Judy" creationdate="20141223T145709Z">
@@ -31282,6 +31642,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T142124Z" creationid="CCYU" creationdate="20141104T142124Z">
         <seg>大多數情況下，尤其是測試強制冷卻之大型變壓器且冷卻設備於關閉測試電源後持續運作時，必須分辨出疊加上初始快速變化之下降漸近線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the message field the operator will be directed step by step on what action he must take during the set up and automatic operation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031518Z" creationid="Judy" creationdate="20150110T031518Z">
+        <seg>訊息欄將顯示指示步驟引導操作人員進行設定及自動操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31374,6 +31742,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case the axis drives the distance which is adjusted at the selector switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091112Z" creationid="Judy" creationdate="20150110T091112Z">
+        <seg>此情況下，軸驅動距離由選擇開關調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case the first impulse test sequence tests the winding at the full voltage without the resistor but the required waveshape may not be achieved and the second sequence with the resistor achieves the waveshape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141114T133918Z" creationid="CCYU" creationdate="20141114T133842Z">
@@ -31386,6 +31762,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140924T143004Z">
         <seg>此情況下變化範圍與級數應指明，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case the selector switch functions as a speed override.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091446Z" creationid="Judy" creationdate="20150110T091446Z">
+        <seg>此情況下，選擇開關功能為速度控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31502,10 +31886,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this m&lt;t0/&gt;enu you can see &lt;t1/&gt;the i&lt;t2/&gt;nputs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141123Z" creationid="Judy" creationdate="20150110T141123Z">
+        <seg>此功能選單中可顯示輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this manner, the displacer and power pistons reduce the volume in the individual chamber by decreasing the distance between the upper and lower boundaries of that chamber, and this is equivalent to push the gas against the solid walls.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T081217Z">
         <seg>以此方式，藉由減小該腔體之換氣與動力活塞上下邊界距離以減少個別腔體體積，此方式等同於向固體牆面推動氣體，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this menu you can control the three main axis of the machine&lt;t0/&gt; manual&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090635Z" creationid="Judy" creationdate="20150110T090635Z">
+        <seg>此功能表中能手動控制機台三個主軸，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34135,6 +34535,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jog C-axis&lt;t0/&gt; / A-axis &lt;t1/&gt;NC-profiling unit&lt;t2/&gt; (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100526Z" creationid="Judy" creationdate="20150110T100526Z">
+        <seg>移動 C-軸 / A-軸 NC-加工單元（選配）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jog Menu</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004838Z" creationid="Judy" creationdate="20150110T004838Z">
@@ -34153,8 +34561,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Joystick</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T020115Z" creationid="Judy" creationdate="20150110T020115Z">
-        <seg>選擇搖桿</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090743Z" creationid="Judy" creationdate="20150110T020115Z">
+        <seg>搖桿</seg>
       </tuv>
     </tu>
     <tu>
@@ -35435,6 +35843,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141207T223725Z" creationid="Judy" creationdate="20141207T223725Z">
         <seg>M &lt;t0/&gt; 為量測位置總數；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>M&lt;t0/&gt;achine light &lt;t1/&gt;on / off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031735Z" creationid="Judy" creationdate="20150110T031735Z">
+        <seg>機台照明開 / 關</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>M&lt;t0/&gt;essage field</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031304Z" creationid="Judy" creationdate="20150110T031304Z">
+        <seg>訊息欄位</seg>
       </tuv>
     </tu>
     <tu>
@@ -37332,6 +37756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T131153Z" creationid="CCYU" creationdate="20150108T131153Z">
         <seg>若未遵循安全指示，軸的移動會導致人員嚴重傷害甚至致命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving the axis manual</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051400Z" creationid="Judy" creationdate="20150110T051400Z">
+        <seg>手動移動軸</seg>
       </tuv>
     </tu>
     <tu>
@@ -39656,6 +40088,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigation in the file system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052412Z" creationid="Judy" creationdate="20150110T052412Z">
+        <seg>瀏覽檔案系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ne pas utiliser d'agents blanchissants!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T130155Z">
@@ -40848,6 +41288,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you can change the speed with the keypad.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T091557Z" creationid="Judy" creationdate="20150110T091557Z">
+        <seg>此時可以鍵盤改變速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nowadays, they have been applied successfully to power generation, combined heat power systems, and even automobiles, and new industries centered on this technology have been well established and are flourishing [4].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T132730Z">
@@ -41608,6 +42056,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only possible at closed hood and activated controlling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050413Z" creationid="Judy" creationdate="20150110T050413Z">
+        <seg>僅於外罩關閉且啟用控制時作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only possible when the dust collection does not work</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050157Z" creationid="Judy" creationdate="20150110T050135Z">
+        <seg>僅適用於集塵器未運作時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only possible when the filter cleaner &lt;t2/&gt;does not work</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031849Z" creationid="Judy" creationdate="20150110T031849Z">
+        <seg>僅適用於濾清器清潔器未運作時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only removing blanking elements to install the cables into the Junction Box assembly are permitted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025835Z" creationid="CCYU" creationdate="20141025T025835Z">
@@ -42180,6 +42652,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T131731Z">
         <seg>P&lt;t0/&gt;ag&lt;t1/&gt;e&lt;t2/&gt; &lt;t3/&gt;4&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt;f&lt;t7/&gt; &lt;t8/&gt;8 第 4/8 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>P&lt;t0/&gt;rofiling unit&lt;t1/&gt; on / off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050226Z" creationid="Judy" creationdate="20150110T050222Z">
+        <seg>加工單元開 / 關，</seg>
       </tuv>
     </tu>
     <tu>
@@ -44001,6 +44481,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Profiling wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090337Z" creationid="Judy" creationdate="20150110T090337Z">
+        <seg>加工輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Profiling wheel   (optional enclosure 5.3)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004446Z" creationid="Judy" creationdate="20150110T004446Z">
@@ -44854,6 +45342,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T013106Z">
         <seg>Raytek/Fluke 辦公室</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090451Z" creationid="Judy" creationdate="20150110T090451Z">
+        <seg>刀片</seg>
       </tuv>
     </tu>
     <tu>
@@ -46363,10 +46859,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;pindle brake&lt;t1/&gt; on / off .Only possible at open hood and controlling switched off</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050528Z" creationid="Judy" creationdate="20150110T050528Z">
+        <seg>主軸剎車開 / 關，僅於外罩開啟且關閉控制時作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>S&lt;t0/&gt;r&lt;t1/&gt; is the three-phase power rating in volt-amperes for which the impedance ‘z’ is defined.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T025742Z" creationid="CCYU" creationdate="20141115T025742Z">
         <seg>S&lt;t0/&gt;r&lt;t1/&gt; 為阻抗‘z’之三相功率額定值，單位為伏特-安培。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;tart menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T050901Z" creationid="Judy" creationdate="20150110T050901Z">
+        <seg>開始功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -47923,6 +48435,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up system functions (language, time and date …)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052331Z" creationid="Judy" creationdate="20150110T052331Z">
+        <seg>設定系統功能（語言、時間及日期⋯⋯）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting of the cooling equipment during the winding&lt;t0/&gt; resistance measurement</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135345Z" creationid="CCYU" creationdate="20141103T135345Z">
@@ -48055,6 +48575,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140712T134734Z">
         <seg>當溫度保持在 41 °F 至 104 °F (5 °C 和 40 °C) 之間，黏著劑貯藏期間允許短期 (不超過 48 小時) 溫度變化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should a fault occur it will be displayed in the fault readout field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031048Z" creationid="Judy" creationdate="20150110T031048Z">
+        <seg>當發生故障時將顯示於故障讀數欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50559,6 +51087,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T032348Z" creationid="CCYU" creationdate="20141025T032348Z">
         <seg>端子台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;he upper and lower ledge are global, and on all pages present.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031003Z" creationid="Judy" creationdate="20150110T030743Z">
+        <seg>上方及下方欄位為共用功能列，於所有頁面中皆會顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53756,6 +54292,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The axis X and Y are controlled with the joystick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090749Z" creationid="Judy" creationdate="20150110T090735Z">
+        <seg>X 和 Y軸以搖桿控制，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bar should be free of dirt, grease, oil or other foreign material.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045209Z">
@@ -53872,6 +54416,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T131810Z">
         <seg>應選擇套管、抽頭開關、整流器和其它輔助設備，以避免限制變壓器之負載力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The buttons on the top and bottom of the touch screen are global and are present on every page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031633Z" creationid="Judy" creationdate="20150110T031633Z">
+        <seg>觸控螢幕上方及下方按鍵為共用功能，於所有頁面中皆會顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54804,6 +55356,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The drives are in this moment off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051139Z" creationid="Judy" creationdate="20150110T051139Z">
+        <seg>此時驅動關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The duration may vary according to the transformer characteristics and the test modalities.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T125558Z" creationid="CCYU" creationdate="20141104T125504Z">
@@ -55672,6 +56232,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T170908Z">
         <seg>警示性質標準詞全文請見第 16 節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The function of the buttons is de&lt;t0/&gt;s&lt;t1/&gt;cribed below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T031653Z" creationid="Judy" creationdate="20150110T031653Z">
+        <seg>以下為按鍵功能說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57288,6 +57856,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T125432Z" creationid="CCYU" creationdate="20141203T125432Z">
         <seg>因此反極性峰值 &lt;t1/&gt;U&lt;t2/&gt;r&lt;t3/&gt; 應限制於初始電壓峰值的 50 %。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options are enclosed as a separate documen&lt;t0/&gt;t</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090525Z" creationid="Judy" creationdate="20150110T090525Z">
+        <seg>選配附件收錄於獨立文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options are enclosed as a separate document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090530Z" creationid="Judy" creationdate="20150110T052512Z">
+        <seg>選配附件收錄於獨立文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64820,6 +65404,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090259Z" creationid="Judy" creationdate="20150110T090259Z">
+        <seg>螺紋輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Threaded wheel   (optional enclosure 5.1)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004403Z" creationid="Judy" creationdate="20150110T004403Z">
@@ -65244,6 +65836,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To drive the axis you have to press the key + or -.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100810Z" creationid="Judy" creationdate="20150110T100810Z">
+        <seg>必須按下 + 或 - 按鍵以驅動軸，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure&lt;t6/&gt; &lt;t7/&gt;that&lt;t8/&gt; &lt;t9/&gt;your &lt;t10/&gt;MEDISANA AC 850&lt;t11/&gt; &lt;t12/&gt;provides successful results for a long time, we recommend that&lt;t13/&gt; &lt;t14/&gt;you read carefully through the following notes&lt;t15/&gt; &lt;t16/&gt;on its use and care.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T062457Z">
@@ -65593,6 +66193,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153332Z" creationid="Judy" creationdate="20150109T153332Z">
         <seg>Y 軸齒形皮帶檢查及可能使用期限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toothed Rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090322Z" creationid="Judy" creationdate="20150110T090322Z">
+        <seg>齒條</seg>
       </tuv>
     </tu>
     <tu>
@@ -67545,6 +68153,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T033437Z">
         <seg>Version 版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version of the software from the control and the drives</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052355Z" creationid="Judy" creationdate="20150110T052355Z">
+        <seg>控制和驅動軟體版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -69581,10 +70197,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Work&lt;t0/&gt;piece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052516Z" creationid="Judy" creationdate="20150110T052516Z">
+        <seg>工件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workpiece</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004244Z" creationid="Judy" creationdate="20150110T004244Z">
         <seg>工件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workpiece selection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051229Z" creationid="Judy" creationdate="20150110T051229Z">
+        <seg>工件選擇</seg>
       </tuv>
     </tu>
     <tu>
@@ -69725,10 +70357,34 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can acces&lt;t0/&gt;s&lt;t1/&gt; the following menu’s:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051209Z" creationid="Judy" creationdate="20150110T051209Z">
+        <seg>可使用以下功能表之：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can drive &lt;t0/&gt;this axis&lt;t1/&gt; incremental or continuous.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090857Z" creationid="Judy" creationdate="20150110T090857Z">
+        <seg>可逐步驅動或連續驅動此軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can now enjoy the pleasant warmth at your feet.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144823Z">
         <seg>此時您的雙腳能開始享受舒適的溫暖。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start the G-Command with the key “START”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100310Z" creationid="Judy" creationdate="20150110T100310Z">
+        <seg>可按下 “開始” 鍵啟動 G-指令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69749,10 +70405,34 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can turn the spindle permanently if you press the key + or -.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100738Z" creationid="Judy" creationdate="20150110T100003Z">
+        <seg>可按下 + 或 - 按鍵使主軸持續旋轉，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can&lt;t0/&gt; stop the G-Command with the&lt;t1/&gt; “STOP”&lt;t2/&gt; key&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100330Z" creationid="Judy" creationdate="20150110T100330Z">
+        <seg>可按下 “停止” 鍵停止 G-指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have acquired a quality product&lt;t0/&gt; &lt;t1/&gt;with your purchase&lt;t2/&gt; &lt;t3/&gt;of the cellulite manager unit from &lt;t4/&gt;MEDISANA&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T113832Z">
         <seg>當您向 MEDISANA 購買纖體按摩機，您獲得了高品質的產品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to input all letters as capital letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100228Z" creationid="Judy" creationdate="20150110T100228Z">
+        <seg>所有輸入字母必須大寫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73231,6 +73911,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>fault readout field</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030401Z" creationid="Judy" creationdate="20150110T030401Z">
+        <seg>故障讀數欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fil/l</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T144827Z" creationid="CCYU" creationdate="20141105T144827Z">
@@ -73595,6 +74283,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123612Z">
         <seg>多孔介質模型中之幾何函數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>global</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030846Z" creationid="Judy" creationdate="20150110T030846Z">
+        <seg>共用</seg>
       </tuv>
     </tu>
     <tu>
@@ -75005,6 +75701,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T110914Z">
         <seg>機械活性物質 4S3；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>message field</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030409Z" creationid="Judy" creationdate="20150110T030409Z">
+        <seg>訊息欄位</seg>
       </tuv>
     </tu>
     <tu>
