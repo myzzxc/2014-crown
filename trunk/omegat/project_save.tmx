@@ -17175,6 +17175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t show current:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153833Z" creationid="Judy" creationdate="20150110T153833Z">
+        <seg>不顯示電流：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dose</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024646Z">
@@ -29005,6 +29013,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the array is set to “0”, the actual current of the B and PG axis will be shown in the global window for diagnostic purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T154028Z" creationid="Judy" creationdate="20150110T154028Z">
+        <seg>若該陣列設定為 “0”，B 和 PG 軸的實際電流將顯示於共用視窗中以用於故障診斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the bore hole ground is not reached an extension shall be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061151Z">
@@ -31081,6 +31097,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141120T130642Z" creationid="CCYU" creationdate="20141120T130642Z">
         <seg>為了縮短測試時間且不重複施加兩次相同類型介電電壓於變壓器，由於加強 IVPD 測試之施加電壓與 IVW 測試類似且皆於與操作環境類似之設置進行，因此可將此類測試結合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to start this function, overdressing and profiling first need to be set up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153807Z" creationid="Judy" creationdate="20150110T153807Z">
+        <seg>若要啟動此功能，必須先設定整修和加工。</seg>
       </tuv>
     </tu>
     <tu>
