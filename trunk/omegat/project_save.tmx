@@ -4240,6 +4240,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;7&lt;t2/&gt; &lt;t3/&gt;Axisdata</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151319Z" creationid="Judy" creationdate="20150110T151319Z">
+        <seg>97 軸數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Accessories which are subject to normal wear and tear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T075311Z">
@@ -36511,6 +36519,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the dust collection is active in the Machine Components Menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151315Z" creationid="Judy" creationdate="20150110T151315Z">
+        <seg>請確保機台元件功能選單中的集塵選項已啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the hex socket head cap screws are f&lt;t2/&gt;ixed evenly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030750Z" creationid="CCYU" creationdate="20141025T030750Z">
@@ -60016,6 +60032,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T123716Z" creationid="CCYU" creationdate="20141124T123716Z">
         <seg>軟體可進行全波和降低波減法運算並以可調縮放比例顯示其差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The software end positions are factory set and normally should not be changed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T151421Z" creationid="Judy" creationdate="20150110T151421Z">
+        <seg>軟體結束位置為原廠設置且通常不應改變。</seg>
       </tuv>
     </tu>
     <tu>
