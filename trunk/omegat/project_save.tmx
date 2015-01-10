@@ -3354,8 +3354,8 @@
       <tuv lang="EN-US">
         <seg>9&lt;t0/&gt;9 Setup date and time</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015735Z" creationid="Judy" creationdate="20150110T015735Z">
-        <seg>9&lt;t0/&gt;9 設定日期時間</seg>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T155935Z" creationid="Judy" creationdate="20150110T015735Z">
+        <seg>9&lt;t0/&gt;9 設定日期和時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -4252,6 +4252,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T152839Z" creationid="Judy" creationdate="20150110T152839Z">
         <seg>98 選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;9&lt;t1/&gt;9&lt;t2/&gt; S&lt;t3/&gt;etup date and time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T155926Z" creationid="Judy" creationdate="20150110T155926Z">
+        <seg>99 設定日期和時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -25989,6 +25997,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150854Z" creationid="Judy" creationdate="20150110T150548Z">
         <seg>此處可以輸入濾清器清洗週期中集塵系統運行時間，以及濾清器清潔時間，以秒為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can set the date and time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T155948Z" creationid="Judy" creationdate="20150110T155948Z">
+        <seg>此處可以設定日期和時間。</seg>
       </tuv>
     </tu>
     <tu>
