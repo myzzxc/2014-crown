@@ -10696,6 +10696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic profiling&lt;t0/&gt; &lt;t1/&gt;profil wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024119Z" creationid="CCYU" creationdate="20150111T024119Z">
+        <seg>加工輪自動設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic switch off: after approx. 3 hours Switching levels: 0 - 1 - 2 - 3 - 4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114425Z">
@@ -11506,6 +11514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-3&lt;t0/&gt; &lt;t1/&gt;Automatic profiling Perofilwheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024146Z" creationid="CCYU" creationdate="20150111T024146Z">
+        <seg>圖 5-3 加工輪自動設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -12118,6 +12134,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T120651Z">
         <seg>藉由繪製量測位移對測試區塊大小的標準差，可以看出區塊大小對量測精度的影響 (圖 7)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pushing the start button,&lt;t0/&gt; &lt;t1/&gt;the automatic&lt;t2/&gt; profiling will be started.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024221Z" creationid="CCYU" creationdate="20150111T024221Z">
+        <seg>按下開始按鈕後自動設定將開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17723,6 +17747,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T074457Z" creationid="CCYU" creationdate="20141115T074457Z">
         <seg>開關突波測試期間，不同繞組之間產生之電壓約與繞匝數比正比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the &lt;t0/&gt;automatic &lt;t1/&gt;profiling&lt;t2/&gt; process&lt;t3/&gt; this window will be shown&lt;t4/&gt; with all the data.&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024252Z" creationid="CCYU" creationdate="20150111T024252Z">
+        <seg>自動設定過程中，視窗將顯示所有資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71617,6 +71649,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141743Z" creationid="Judy" creationdate="20150110T141743Z">
         <seg>可使用 “Q” 按鈕退出故障。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this button, you can simulate the profiling&lt;t0/&gt; process&lt;t1/&gt;.&lt;t2/&gt; All axis will run, except the X-axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024403Z" creationid="CCYU" creationdate="20150111T024403Z">
+        <seg>此按鈕能模擬加工過程，除 X-軸外所有軸將運行。</seg>
       </tuv>
     </tu>
     <tu>
