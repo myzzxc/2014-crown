@@ -4184,6 +4184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;O.D.dressing data threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084359Z" creationid="CCYU" creationdate="20150111T084351Z">
+        <seg>5-2 外徑修整螺紋輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -58220,6 +58228,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The infeed table is the same as by the profiling data input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084451Z" creationid="CCYU" creationdate="20150111T084451Z">
+        <seg>進料表與加工資料輸入相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The influence of MR on engine performance can be better understood from the variations of average and integrated quantities which will be presented in the next subsection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072035Z">
@@ -58296,6 +58312,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084113Z" creationid="CCYU" creationdate="20150111T084113Z">
         <seg>壓力角僅須於使用 NC 加工單元時輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The input of the radius is only required when you want to use the recommendation of the control for the total  infeed in “X”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084254Z" creationid="CCYU" creationdate="20150111T084254Z">
+        <seg>僅須於使用 “X” 中的總進料控制之建議時輸入半徑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71361,6 +71385,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141127T230127Z" creationid="CCYU" creationdate="20141127T140642Z">
         <seg>當使用數位記錄技術時，第 10 節所述之轉換函數分析可能有助於消除此混淆 (請見圖 B.17)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you want to use a different menu you touch the adequate flag&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084306Z" creationid="CCYU" creationdate="20150111T084306Z">
+        <seg>若欲使用不同功能選單，點擊對應標籤。</seg>
       </tuv>
     </tu>
     <tu>
