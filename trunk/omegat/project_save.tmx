@@ -12202,6 +12202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;ontent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021600Z" creationid="CCYU" creationdate="20150111T021600Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>C&lt;t0/&gt;t&lt;t1/&gt; is of the order of 10&lt;t2/&gt;-9&lt;t3/&gt; F; s and C&lt;t4/&gt;t&lt;t5/&gt; are not well-defined quantities but dependent on the shape of the surge front.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141118T094407Z" creationid="MAE" creationdate="20141118T094407Z">
@@ -43080,6 +43088,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 5.&lt;t0/&gt;3&lt;t1/&gt; &lt;t2/&gt;Profil&lt;t3/&gt;e&lt;t4/&gt; wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021552Z" creationid="CCYU" creationdate="20150111T021552Z">
+        <seg>選項 5.3 加工輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional VPG12</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T154150Z" creationid="Judy" creationdate="20150109T154054Z">
@@ -45333,6 +45349,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014101Z">
         <seg>製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021607Z" creationid="CCYU" creationdate="20150111T021607Z">
+        <seg>加工輪</seg>
       </tuv>
     </tu>
     <tu>
