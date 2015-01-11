@@ -25079,6 +25079,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G58 is used to process outside diameters with absolute dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040604Z" creationid="CCYU" creationdate="20150111T040604Z">
+        <seg>G58 用於以絕對尺寸加工外徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G58&lt;t0/&gt; describes the relation between the centre of the spindle when located at the absolute origin and the profiling Unit</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040134Z" creationid="CCYU" creationdate="20150111T035835Z">
@@ -66268,6 +66276,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This position is used as it is possible in this way to use any diamond wheel without entering any compensation offsets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040444Z" creationid="CCYU" creationdate="20150111T040444Z">
+        <seg>此位置下，可使用任何鑽石輪而無須輸入任何補償偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This principle can be applied to both sound pressure and sound intensity measurements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230742Z" creationid="Judy" creationdate="20141209T230742Z">
@@ -72065,6 +72081,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140810T065317Z">
         <seg>由 SERVOCAM 實驗室，於 1996 至 1999 年間執行 20.000 小時 XENO 測試 1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Y-Value is the distance between the front sid&lt;t0/&gt;e of the spindle and the theoretical centre of a standard 15mm diamond wheel with any pressure angle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040312Z" creationid="CCYU" creationdate="20150111T040312Z">
+        <seg>Y-值為主軸前側和標準 15 mm 鑽石輪於任何壓力角下理論中心點之距離。</seg>
       </tuv>
     </tu>
     <tu>
