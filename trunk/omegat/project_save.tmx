@@ -11530,6 +11530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-5&lt;t0/&gt; &lt;t1/&gt;Data axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024826Z" creationid="CCYU" creationdate="20150111T024826Z">
+        <seg>圖 5-5 軸資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -16818,6 +16826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004024Z" creationid="Judy" creationdate="20150110T004024Z">
         <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dis&lt;t0/&gt;t&lt;t1/&gt;ance between centre&lt;t2/&gt; of the &lt;t3/&gt;B-&lt;t4/&gt;axis&lt;t5/&gt; (if the X-axis is&lt;t6/&gt; &lt;t7/&gt;in position 0mm) &lt;t8/&gt;and&lt;t9/&gt; centre&lt;t10/&gt; of the profiling &lt;t11/&gt;unit&lt;t12/&gt; axis &lt;t13/&gt;(&lt;t14/&gt;if the profil&lt;t15/&gt;ing axis C-axis&lt;t16/&gt; is in 0° position&lt;t17/&gt;)&lt;t18/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025041Z" creationid="CCYU" creationdate="20150111T025041Z">
+        <seg>B-軸中心（若 X-軸位於 0mm 位置時）與加工單元軸中心（若加工軸 C-軸位於 0° 位置）之距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67188,6 +67204,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To get in to the &lt;t0/&gt;menu&lt;t1/&gt; “Data axis”, you first have to&lt;t2/&gt; enter a password&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024805Z" creationid="CCYU" creationdate="20150111T024805Z">
+        <seg>若要進入 “軸資料” 功能選單，必須先輸入密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To help readers understand the dynamic processes inside the current Stirling engine, two videos have been made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205925Z">
@@ -72129,6 +72153,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T130059Z" creationid="CCYU" creationdate="20141203T130059Z">
         <seg>L&lt;t0/&gt;t&lt;t1/&gt; 受非測試繞組之連接影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero point&lt;t0/&gt; Y:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025046Z" creationid="CCYU" creationdate="20150111T025046Z">
+        <seg>Y 零點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero&lt;t0/&gt; &lt;t1/&gt;point X&lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024842Z" creationid="CCYU" creationdate="20150111T024842Z">
+        <seg>X 零點：</seg>
       </tuv>
     </tu>
     <tu>
