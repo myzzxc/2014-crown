@@ -25337,8 +25337,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Grinding wheel flanges with a Short taper must use the respective adaptor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011012Z" creationid="CCYU" creationdate="20150111T011012Z">
-        <seg>側緣具有短錐之砂輪必須使用專用轉接器，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012955Z" creationid="CCYU" creationdate="20150111T011012Z">
+        <seg>具有短錐之砂輪法蘭必須使用專用轉接器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38452,6 +38452,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T073347Z" creationid="CCYU" creationdate="20141025T073347Z">
         <seg>以兩顆固定螺絲將零件固定於安裝台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mount the safety cover</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013207Z" creationid="CCYU" creationdate="20150111T013207Z">
+        <seg>安裝安全蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -67129,6 +67137,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T151028Z" creationid="Judy" creationdate="20141220T151028Z">
         <seg>對此，就必須增加定義未取得良好解決方式的 "永續發展籌資" 問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To tighten the screws you can use a face spanner to fix the flange.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013049Z" creationid="CCYU" creationdate="20150111T013049Z">
+        <seg>可使用平面板手固定法蘭以鎖緊螺絲</seg>
       </tuv>
     </tu>
     <tu>
