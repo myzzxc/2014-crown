@@ -61804,6 +61804,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The start position and the over travel can be defined individually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T131427Z" creationid="CCYU" creationdate="20150111T131427Z">
+        <seg>起始位置和行程可以分別定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The steel element consist of a commercial threaded rod with washer and hexagon nut in the range of M8 to M30 or a reinforcing bar in the range of diameter 8 to 32 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124956Z">
