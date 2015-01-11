@@ -12354,6 +12354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By finish dressing  a multi thread wheel all starts are finished down to the last 3 infeed strokes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T104705Z" creationid="CCYU" creationdate="20150111T104705Z">
+        <seg>完成修整後，多螺紋輪將同時啟動並完成至最後 3 組進料行程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By fitting a Least Square Gauss Fit interpolation to the region close to the integer peak, the displacement vector is established to sub-pixel resolution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092801Z">
