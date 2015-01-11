@@ -2912,6 +2912,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6&lt;t0/&gt; von &lt;t1/&gt;6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030415Z" creationid="CCYU" creationdate="20150111T030415Z">
+        <seg>6&lt;t0/&gt; / &lt;t1/&gt;6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6&lt;t0/&gt;1 Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015258Z" creationid="Judy" creationdate="20150110T015258Z">
@@ -11594,6 +11602,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild&lt;t0/&gt; 5-4&lt;t1/&gt; Password&lt;t2/&gt; – &lt;t3/&gt;enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030340Z" creationid="CCYU" creationdate="20150111T030340Z">
+        <seg>圖 5-4 密碼輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bild&lt;t0/&gt; 5-5&lt;t1/&gt; &lt;t2/&gt;Data axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030344Z" creationid="CCYU" creationdate="20150111T030344Z">
+        <seg>圖 5-5 軸資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -17129,6 +17153,14 @@
         <seg>Distance between the right side of the &lt;t0/&gt;tool&lt;t1/&gt; and left side of&lt;t2/&gt; t&lt;t3/&gt;he &lt;t4/&gt;workp&lt;t5/&gt;iece.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025118Z" creationid="CCYU" creationdate="20150111T025118Z">
+        <seg>工具右端與工件左端之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distance between the right side of the &lt;t0/&gt;tool&lt;t1/&gt; and left side of&lt;t2/&gt; t&lt;t3/&gt;he &lt;t4/&gt;workpiece&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030400Z" creationid="CCYU" creationdate="20150111T030400Z">
         <seg>工具右端與工件左端之距離。</seg>
       </tuv>
     </tu>
@@ -71821,6 +71853,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this button, you can simulate the profiling&lt;t0/&gt; process&lt;t1/&gt;.&lt;t2/&gt; All &lt;t3/&gt;axis&lt;t4/&gt; will run, except the X-axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030337Z" creationid="CCYU" creationdate="20150111T030337Z">
+        <seg>此按鈕能模擬加工過程，除 X-軸外所有軸將運行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With this button, you can simulate the profiling&lt;t0/&gt; process&lt;t1/&gt;.&lt;t2/&gt; All axis will run, except the X-axis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024403Z" creationid="CCYU" creationdate="20150111T024403Z">
@@ -72088,6 +72128,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>You can find&lt;t0/&gt; out &lt;t1/&gt;the value by measuring or by “&lt;t2/&gt;scratching&lt;t3/&gt;” &lt;t4/&gt;and&lt;t5/&gt; read the value in the Jog-menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025403Z" creationid="CCYU" creationdate="20150111T025403Z">
+        <seg>可藉由量測或藉由移動選單中“刮過”並讀取數值以取得此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can find&lt;t0/&gt; out &lt;t1/&gt;the value by measuring or by „scratching&lt;t2/&gt;“ and&lt;t3/&gt; read the value in the Jog-menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030405Z" creationid="CCYU" creationdate="20150111T030405Z">
         <seg>可藉由量測或藉由移動選單中“刮過”並讀取數值以取得此數值。</seg>
       </tuv>
     </tu>
