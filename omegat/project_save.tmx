@@ -30437,6 +30437,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the value in the rework window is&lt;t0/&gt; “0” then the machine uses the z&lt;t1/&gt;ero point that you set by hand for the wheel OD.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085148Z" creationid="CCYU" creationdate="20150111T085148Z">
+        <seg>若再加工視窗中的數值為 “0” 則機台使用手動設定之砂輪外徑零點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the values of rate of increases determined by gas analysis performed before and after the temperature rise test fulfil all t&lt;t0/&gt;he limits of the first series, it may be concluded that the transformer has no local overheating.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T150911Z" creationid="CCYU" creationdate="20141105T150911Z">
