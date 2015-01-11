@@ -4216,6 +4216,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;6&lt;t2/&gt; &lt;t3/&gt;Setup profiling threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132552Z" creationid="CCYU" creationdate="20150111T132552Z">
+        <seg>5-6 設定螺紋輪加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -48975,6 +48983,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T163442Z">
         <seg>銷售</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SETUP FOR PREPROFILING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132606Z" creationid="CCYU" creationdate="20150111T132606Z">
+        <seg>設定加工</seg>
       </tuv>
     </tu>
     <tu>
