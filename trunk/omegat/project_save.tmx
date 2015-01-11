@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>( approximately 20Nm.)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012024Z" creationid="CCYU" creationdate="20150111T012024Z">
+        <seg>（大約 20Nm）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>( optional enclosure 5.4)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090434Z" creationid="Judy" creationdate="20150110T090434Z">
@@ -59244,6 +59252,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pressure indicator will begin to move, continue to tighten until it is flush</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012209Z" creationid="CCYU" creationdate="20150111T012209Z">
+        <seg>壓力指示器將開始作動，持續鎖緊直到齊平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pressure shall then be reduced back to the originally established level and a third measurement of the distance from the reference point to the tank wall in a direction approximately normal to the tank wall shall be taken.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T105629Z">
@@ -68801,6 +68817,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025026Z">
         <seg>使用紅外線測溫儀準確地評估扁胚、小胚或中胚的冷卻需求，以確保產品一致性，並為設備操作員提供冷卻過程中重要的即時溫度資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the a&lt;t0/&gt;llen wrench alternate tightening the pressure screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012010Z" creationid="CCYU" creationdate="20150111T012010Z">
+        <seg>使用內六角板手交替鎖緊壓力螺絲</seg>
       </tuv>
     </tu>
     <tu>
