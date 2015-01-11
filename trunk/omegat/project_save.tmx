@@ -4208,6 +4208,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;5&lt;t2/&gt; P&lt;t3/&gt;rofiling data threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T093855Z" creationid="CCYU" creationdate="20150111T093855Z">
+        <seg>5-5 螺紋輪加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -7890,6 +7898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T125004Z" creationid="CCYU" creationdate="20150108T124723Z">
         <seg>禁止其它所有應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All other buttons are blocked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T093804Z" creationid="CCYU" creationdate="20150111T093804Z">
+        <seg>其他所有按鈕將停用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18107,6 +18123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033519Z">
         <seg>生產鍍鋅或退火鋼期間，金屬被加熱到非常高溫以確保鍍鋅層或金屬退火接合良好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the running of a program you can only access the diagnostic Menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T093736Z" creationid="CCYU" creationdate="20150111T093736Z">
+        <seg>程序運行期間，僅能存取故障診斷功能選單，</seg>
       </tuv>
     </tu>
     <tu>
