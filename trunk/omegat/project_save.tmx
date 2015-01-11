@@ -4200,6 +4200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;4&lt;t2/&gt; A&lt;t3/&gt;utomatic O.D.dressing threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090952Z" creationid="CCYU" creationdate="20150111T090952Z">
+        <seg>5-4 自動外徑修整螺紋輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -55860,6 +55868,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The automatic prog&lt;t0/&gt;ra&lt;t1/&gt;m can only be started when the setting process has been finished successfully</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090841Z" creationid="CCYU" creationdate="20150111T090841Z">
+        <seg>自動程序僅於成功地完成程序設定後方能啟動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The aver&lt;t0/&gt;age liquid temperature is in principle intended to be the average temperature of the cooling liquid in the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140407Z" creationid="CCYU" creationdate="20141101T140407Z">
@@ -71253,6 +71269,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090959Z" creationid="CCYU" creationdate="20150111T090959Z">
+        <seg>當外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the capacitance to earth is large compared to the.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141203T211913Z" creationid="Judy" creationdate="20141203T211913Z">
@@ -75703,10 +75727,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dressing has been set up you can go&lt;t0/&gt; now&lt;t1/&gt; to &lt;t2/&gt;the &lt;t3/&gt;AUTOMATIC O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091056Z" creationid="CCYU" creationdate="20150111T091056Z">
+        <seg>修整設定完成後，可進行自動外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dressing position.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085959Z" creationid="CCYU" creationdate="20150111T085959Z">
         <seg>修整位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dressing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091101Z" creationid="CCYU" creationdate="20150111T091101Z">
+        <seg>修整。</seg>
       </tuv>
     </tu>
     <tu>
