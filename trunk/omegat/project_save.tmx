@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2D view</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151644Z" creationid="CCYU" creationdate="20150111T151644Z">
+        <seg>2D 視圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 Could SDGs play a similar role?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141222T223800Z" creationid="Judy" creationdate="20141222T223800Z">
@@ -10936,6 +10944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic Profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151955Z" creationid="CCYU" creationdate="20150111T151955Z">
+        <seg>自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic balancing &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051421Z" creationid="Judy" creationdate="20150110T051421Z">
@@ -11780,8 +11796,8 @@
       <tuv lang="EN-US">
         <seg>Bil&lt;t0/&gt;d&lt;t1/&gt; 5-2 &lt;t2/&gt;Data profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025847Z" creationid="CCYU" creationdate="20150111T025847Z">
-        <seg>圖 5-2 資料設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151855Z" creationid="CCYU" creationdate="20150111T025847Z">
+        <seg>圖 5-2 加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -11804,8 +11820,8 @@
       <tuv lang="EN-US">
         <seg>Bild 5-2 &lt;t0/&gt;Data profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023945Z" creationid="CCYU" creationdate="20150111T023945Z">
-        <seg>圖 5-2 資料設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151852Z" creationid="CCYU" creationdate="20150111T023945Z">
+        <seg>圖 5-2 加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16168,8 +16184,8 @@
       <tuv lang="EN-US">
         <seg>Data Profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063544Z" creationid="CCYU" creationdate="20150111T063544Z">
-        <seg>資料設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151857Z" creationid="CCYU" creationdate="20150111T063544Z">
+        <seg>加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16208,8 +16224,8 @@
       <tuv lang="EN-US">
         <seg>Data profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021911Z" creationid="CCYU" creationdate="20150111T021911Z">
-        <seg>資料設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151841Z" creationid="CCYU" creationdate="20150111T021911Z">
+        <seg>加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,8 +16240,8 @@
       <tuv lang="EN-US">
         <seg>Data&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;rofili&lt;t3/&gt;ng</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023935Z" creationid="CCYU" creationdate="20150111T023935Z">
-        <seg>資料設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151848Z" creationid="CCYU" creationdate="20150111T023935Z">
+        <seg>加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -25095,6 +25111,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form Grinding wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151608Z" creationid="CCYU" creationdate="20150111T151608Z">
+        <seg>成型砂輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090440Z" creationid="Judy" creationdate="20150110T090440Z">
@@ -25115,6 +25139,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142351Z">
         <seg>Form/&lt;t0/&gt;Colour 型態 / 顏色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form&lt;t0/&gt; Grinding&lt;t1/&gt; wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152000Z" creationid="CCYU" creationdate="20150111T152000Z">
+        <seg>成型砂輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -25663,6 +25695,38 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gear Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151612Z" creationid="CCYU" creationdate="20150111T151612Z">
+        <seg>齒輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gear data with diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151632Z" creationid="CCYU" creationdate="20150111T151632Z">
+        <seg>齒輪資料與直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gear data with reference profile</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151618Z" creationid="CCYU" creationdate="20150111T151618Z">
+        <seg>齒輪資料與參考設定檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gear&lt;t0/&gt; Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152001Z" creationid="CCYU" creationdate="20150111T152001Z">
+        <seg>齒輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gelling-</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140727T042104Z">
@@ -26123,6 +26187,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T134219Z" creationid="Judy" creationdate="20141220T134219Z">
         <seg>以全面的方式綠化有形資本存量代表著無論於以開發國家或開發中國家中同時處理至少數個 "大件" 部份：住房、能源以及運輸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding allowance with reference profile</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151626Z" creationid="CCYU" creationdate="20150111T151626Z">
+        <seg>磨削容許值與參考設定檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding allowances with diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151639Z" creationid="CCYU" creationdate="20150111T151639Z">
+        <seg>磨削容許值與直徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -29384,6 +29464,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T013324Z">
         <seg>若使用電壓量測，則應同時測量兩繞組之電壓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a&lt;t0/&gt;n&lt;t1/&gt; input value exceeds the maximum or minimum allowable the maximum or minimum value will automatically be input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152031Z" creationid="CCYU" creationdate="20150111T152031Z">
+        <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最高值或最低值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44128,6 +44216,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 5.&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;F&lt;t3/&gt;orm &lt;t4/&gt;Grinding W&lt;t5/&gt;heel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151602Z" creationid="CCYU" creationdate="20150111T151602Z">
+        <seg>選項 5.5 成型砂輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option &lt;t0/&gt;Profil wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025436Z" creationid="CCYU" creationdate="20150111T025436Z">
@@ -45500,6 +45596,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T095748Z">
         <seg>Pick up with absorbent material (e.g., sand, sawdust, general-purpose binder). 使用吸附性材料 (如砂子、木屑、通用型黏著劑) 吸附。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Picture&lt;t0/&gt; 5-1 &lt;t1/&gt; G&lt;t2/&gt;ear &lt;t3/&gt;Data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152022Z" creationid="CCYU" creationdate="20150111T152022Z">
+        <seg>圖 5-1 齒輪資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -64716,6 +64820,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are different possibilities to &lt;t0/&gt;enter&lt;t1/&gt; the gear data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152136Z" creationid="CCYU" creationdate="20150111T152136Z">
+        <seg>齒輪資料具有不同的輸入組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are different ways of incorporating a regenerator into a &lt;t0/&gt;Stirling&lt;t1/&gt; engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T144343Z">
@@ -73213,6 +73325,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Workpiece data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151642Z" creationid="CCYU" creationdate="20150111T151642Z">
+        <seg>工件資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Workpiece selection</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051229Z" creationid="Judy" creationdate="20150110T051229Z">
@@ -77194,6 +77314,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>flag</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022538Z" creationid="CCYU" creationdate="20150111T022538Z">
+        <seg>標籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flags</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152004Z" creationid="CCYU" creationdate="20150111T152004Z">
         <seg>標籤</seg>
       </tuv>
     </tu>
