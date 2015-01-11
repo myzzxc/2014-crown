@@ -32846,6 +32846,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the w&lt;t0/&gt;indow feed rate you can set the&lt;t1/&gt; Y axis feed rate for the OD Dressing cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085512Z" creationid="CCYU" creationdate="20150111T085512Z">
+        <seg>於進料速度視窗中可設定外徑修整循環之 Y 軸進料速率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the “TOOL DATA” you must input the tipp radius of the diamond wheel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084007Z" creationid="CCYU" creationdate="20150111T084007Z">
@@ -55780,6 +55788,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The autom&lt;t2/&gt;at&lt;t3/&gt;ic cycle can be immediately started for the next wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085410Z" creationid="CCYU" creationdate="20150111T085410Z">
+        <seg>下一組加工輪之自動加工循環可立即啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The aver&lt;t0/&gt;age liquid temperature is in principle intended to be the average temperature of the cooling liquid in the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140407Z" creationid="CCYU" creationdate="20141101T140407Z">
@@ -66296,6 +66312,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T130510Z">
         <seg>可使用圖示或列表輔助，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means as long as you dress wheels with the same dimensions of width and diameter you do not need to set a new Zero point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085322Z" creationid="CCYU" creationdate="20150111T085322Z">
+        <seg>代表使用相同寬度與直徑之修整輪時，不需要設置新的零點。</seg>
       </tuv>
     </tu>
     <tu>
