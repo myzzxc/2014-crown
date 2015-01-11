@@ -50435,6 +50435,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should the program be interrupted before the last pass is finished the starting Zero point will be saved in the control memory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135937Z" creationid="CCYU" creationdate="20150111T135937Z">
+        <seg>程序必須於最後一道加工完成前中斷使零點儲存於控制器記憶體中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should you give this device to another person, it is vital that you also pass on these instructions for use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T083058Z">
