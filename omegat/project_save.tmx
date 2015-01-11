@@ -7568,8 +7568,8 @@
       <tuv lang="EN-US">
         <seg>After you have changed the filter setting you have to refresh the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142454Z" creationid="Judy" creationdate="20150110T142454Z">
-        <seg>當更改篩選器設定後必須刷新頁面。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044456Z" creationid="Judy" creationdate="20150110T142454Z">
+        <seg>當更改篩選器設定後必須重新整理頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14748,6 +14748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044734Z" creationid="CCYU" creationdate="20150111T044734Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue injection until the mortar level mark 1m becomes visible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082842Z">
@@ -15842,6 +15850,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021911Z" creationid="CCYU" creationdate="20150111T021911Z">
         <seg>資料設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044803Z" creationid="CCYU" creationdate="20150111T044803Z">
+        <seg>輪資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -43384,6 +43400,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open file or folder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044535Z" creationid="CCYU" creationdate="20150111T044535Z">
+        <seg>開啟檔案或資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open windings do not have a clock number notation because the phase relationship of these windings with other windings depends on the external connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153618Z">
@@ -43476,6 +43500,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T082854Z">
         <seg>最佳砂漿容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option 5.1 Threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044726Z" creationid="CCYU" creationdate="20150111T044726Z">
+        <seg>選項 5.1 螺紋輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -69333,6 +69365,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044521Z" creationid="CCYU" creationdate="20150111T044521Z">
+        <seg>重新整理頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updated from November 9, 2012 Revision Number:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T185549Z">
@@ -72121,6 +72161,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023258Z" creationid="CCYU" creationdate="20150111T023258Z">
         <seg>工件資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workpieces</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044738Z" creationid="CCYU" creationdate="20150111T044738Z">
+        <seg>工件</seg>
       </tuv>
     </tu>
     <tu>
