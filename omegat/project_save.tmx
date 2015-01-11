@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After changing the filter setting you have to update the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044446Z" creationid="CCYU" creationdate="20150111T044427Z">
+        <seg>當更改篩選器設定後必須重新整理頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After cleaning, the bore hole has to be protected against re-contamination in an appropriate way, until dispensing the mortar in the bore hole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002734Z">
@@ -26565,6 +26573,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T072603Z">
         <seg>此處我們將討論大型液壓機台的洩漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here yo&lt;t0/&gt;u&lt;t1/&gt; can setup the actual device (&lt;t2/&gt;HD0&lt;t3/&gt;, USB stick)&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044409Z" creationid="CCYU" creationdate="20150111T044409Z">
+        <seg>此處可設定儲存設備（HD0、USB 隨身碟）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71781,6 +71797,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With &lt;t0/&gt;the filter you can display certain files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044412Z" creationid="CCYU" creationdate="20150111T044412Z">
+        <seg>可使用篩選器以顯示特定檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With drilling aid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T041652Z">
@@ -71889,6 +71913,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T043001Z" creationid="CCYU" creationdate="20150111T043001Z">
         <seg>使用編輯器可以編輯所有類型的 ASCII 檔案（例如 CNC 程序）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the explorer you can navigat&lt;t0/&gt;e&lt;t1/&gt; on the dev&lt;t2/&gt;ic&lt;t3/&gt;e (HD0, USB-&lt;t4/&gt;s&lt;t5/&gt;tick)&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044405Z" creationid="CCYU" creationdate="20150111T044405Z">
+        <seg>使用檔案管理器可瀏覽儲存媒體（HD0、USB 隨身碟）。</seg>
       </tuv>
     </tu>
     <tu>
