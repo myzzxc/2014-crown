@@ -43384,10 +43384,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the tool data has been correctly entered the control will make a recommendation for the “TOTAL X” which can be accept.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094116Z" creationid="CCYU" creationdate="20150111T094116Z">
+        <seg>當工具資料正確輸入後，控制器將建議可接受之 "總 X"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once they are locked in, they are there until they are broken down into environmentally friendly elements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T060248Z">
         <seg>一旦吸收物被吸附後，將一直封裝在吸收劑內直到其分解為對環境無害的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have enter the first in feed the controller automatically calculates the rest of the infeed strokes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094323Z" creationid="CCYU" creationdate="20150111T094323Z">
+        <seg>當輸入第一組進料資料後，控制器將自動計算其餘的進料行程。</seg>
       </tuv>
     </tu>
     <tu>
