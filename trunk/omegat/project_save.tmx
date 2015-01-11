@@ -57068,6 +57068,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference is in the program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094726Z" creationid="CCYU" creationdate="20150111T094726Z">
+        <seg>其程序有所差異。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The difference is that the HV tapping voltage, according to the example, does not exceed the 'system highest voltage' of the HV system, which is 170 kV (IEC standardized value).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T143347Z">
@@ -60224,6 +60232,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T123959Z" creationid="CCYU" creationdate="20141123T123959Z">
         <seg>波形測定測試參數初步調整時，首選的記錄掃描時間為波前記錄 &lt; 10 µs (測試變壓器中性點時，可能需要較長的掃描時間)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The preprofiling is activated with “1” and finish profiling is activated with “0”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094757Z" creationid="CCYU" creationdate="20150111T094709Z">
+        <seg>“1” 代表啟用預加工而 “0” 代表啟用完成加工。</seg>
       </tuv>
     </tu>
     <tu>
