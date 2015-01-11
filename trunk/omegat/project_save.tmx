@@ -10674,8 +10674,8 @@
       <tuv lang="EN-US">
         <seg>Automatic profiling profil wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022140Z" creationid="CCYU" creationdate="20150111T021933Z">
-        <seg>加工輪自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022456Z" creationid="CCYU" creationdate="20150111T021933Z">
+        <seg>加工輪自動加工</seg>
       </tuv>
     </tu>
     <tu>
@@ -67344,6 +67344,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>Tool Data (profile wheel)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022123Z" creationid="CCYU" creationdate="20150111T021901Z">
+        <seg>工具資料（加工輪）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Data&lt;t0/&gt; (&lt;t1/&gt;p&lt;t2/&gt;rofil&lt;t3/&gt;e &lt;t4/&gt;wheel&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022429Z" creationid="CCYU" creationdate="20150111T022429Z">
         <seg>工具資料（加工輪）</seg>
       </tuv>
     </tu>
