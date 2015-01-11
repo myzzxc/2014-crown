@@ -25079,6 +25079,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G58&lt;t0/&gt; describes the relation between the centre of the spindle when located at the absolute origin and the profiling Unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035835Z" creationid="CCYU" creationdate="20150111T035835Z">
+        <seg>G58&lt;t0/&gt; 為位於絕對原點時主軸中心之關係，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G&lt;t0/&gt;lobal pages elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030852Z" creationid="Judy" creationdate="20150110T030337Z">
