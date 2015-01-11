@@ -10994,6 +10994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back it off slightly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011900Z" creationid="CCYU" creationdate="20150111T011900Z">
+        <seg>稍微往回轉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backup</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005453Z" creationid="Judy" creationdate="20150110T005453Z">
@@ -63084,6 +63092,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then hand tighten again</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011920Z" creationid="CCYU" creationdate="20150111T011920Z">
+        <seg>再鎖緊一次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then let the appliance&lt;t2/&gt; &lt;t3/&gt;cool down&lt;t4/&gt; &lt;t5/&gt;for at least 30 minutes&lt;t6/&gt; &lt;t7/&gt;before&lt;t8/&gt; &lt;t9/&gt;using it again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T054311Z">
@@ -68791,16 +68807,16 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>Using the h&lt;t0/&gt;ydraulic locknut.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011554Z" creationid="CCYU" creationdate="20150111T011350Z">
-        <seg>使用液壓固定輪母。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011719Z" creationid="CCYU" creationdate="20150111T011350Z">
+        <seg>使用液壓固定螺母。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Using the provide wrench tighten the locknut on the arbour (left hand thread)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011537Z" creationid="CCYU" creationdate="20150111T011537Z">
-        <seg>使用原廠提供之板手Using the provide wrench tighten the locknut on the arbour (left hand thread)</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011759Z" creationid="CCYU" creationdate="20150111T011537Z">
+        <seg>使用原廠提供之板手鎖緊軸上之固定螺母（左手螺紋）</seg>
       </tuv>
     </tu>
     <tu>
