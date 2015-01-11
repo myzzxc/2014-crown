@@ -28380,6 +28380,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If &lt;t0/&gt;an&lt;t1/&gt; input value exceeds the maximum or minimum allowable&lt;t2/&gt; value it will be automatically corrected to the max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023219Z" creationid="CCYU" creationdate="20150111T023219Z">
+        <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最高值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Cable Gland is not used, then conduit run from unit to a sealing fitting must be limited to 18” (457 mm).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074325Z" creationid="CCYU" creationdate="20141025T074325Z">
@@ -48611,6 +48619,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety distance + &lt;t0/&gt;blank allowance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023341Z" creationid="CCYU" creationdate="20150111T023341Z">
+        <seg>安全距離 + 預留間隙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety glasses (EN 166)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T133100Z">
@@ -50815,6 +50831,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132056Z" creationid="CCYU" creationdate="20150108T132056Z">
         <seg>啟動、故障排除以及維護僅能由經製造商訓練之人員進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Startind distance:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023308Z" creationid="CCYU" creationdate="20150111T023308Z">
+        <seg>啟動距離：</seg>
       </tuv>
     </tu>
     <tu>
@@ -71133,6 +71157,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width tooth&lt;t0/&gt;peak&lt;t1/&gt; (Fb)&lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023418Z" creationid="CCYU" creationdate="20150111T023418Z">
+        <seg>最大齒寬 (Fb)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Will not occur</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T175154Z">
@@ -71529,6 +71561,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051229Z" creationid="Judy" creationdate="20150110T051229Z">
         <seg>工件選擇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workpiecedata&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023258Z" creationid="CCYU" creationdate="20150111T023258Z">
+        <seg>工件資料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -77669,6 +77709,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141108T132357Z" creationid="CCYU" creationdate="20141101T123957Z">
         <seg>或藉由不將特定繞組短路或閉路；例如若一繞組具有相對低額定功率且對變壓器總損耗貢獻很低，可將其維持開路並提高其它繞組電流直到達到正確之總損耗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>or min.&lt;t3/&gt; v&lt;t4/&gt;alue.&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023227Z" creationid="CCYU" creationdate="20150111T023227Z">
+        <seg>或最低值。</seg>
       </tuv>
     </tu>
     <tu>
