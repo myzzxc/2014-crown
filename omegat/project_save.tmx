@@ -4202,8 +4202,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;5&lt;t1/&gt;4&lt;t2/&gt; A&lt;t3/&gt;utomatic O.D.dressing threaded wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090952Z" creationid="CCYU" creationdate="20150111T090952Z">
-        <seg>5-4 自動外徑修整螺紋輪</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135510Z" creationid="CCYU" creationdate="20150111T090952Z">
+        <seg>5-4 螺紋輪自動外徑修整</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,6 +4220,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132552Z" creationid="CCYU" creationdate="20150111T132552Z">
         <seg>5-6 設定螺紋輪加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;7&lt;t2/&gt; A&lt;t3/&gt;utomatic profiling threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135445Z" creationid="CCYU" creationdate="20150111T135445Z">
+        <seg>5-7 螺紋輪自動加工</seg>
       </tuv>
     </tu>
     <tu>
@@ -68084,6 +68092,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this the safety hood must be closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135739Z" creationid="CCYU" creationdate="20150111T135739Z">
+        <seg>必須於安全罩關閉時進行此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To drive the axis you have to press the key + or -.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100810Z" creationid="Judy" creationdate="20150110T100810Z">
@@ -71625,6 +71641,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090959Z" creationid="CCYU" creationdate="20150111T090959Z">
         <seg>當外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Profiling has been set up you can now go to AUTOMATIC PROFILING.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135611Z" creationid="CCYU" creationdate="20150111T135611Z">
+        <seg>當完成加工設定後，可進行自動加工。</seg>
       </tuv>
     </tu>
     <tu>
