@@ -71533,6 +71533,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When setting up for finishing dressing of multiple thread wheels the actual thread being dressed is shown the in a window on the display.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134542Z" creationid="CCYU" creationdate="20150111T134542Z">
+        <seg>當設定多螺紋輪完成修整時，實際修整螺紋顯示於螢幕視窗中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When specified, these recordings should be properly identified and arranged so that the necessary comparisons between full waves and chopped waves can be easily made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T071515Z" creationid="Judy" creationdate="20141129T071515Z">
@@ -71865,6 +71873,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090535Z" creationid="CCYU" creationdate="20150111T090535Z">
         <seg>當砂輪外徑定位後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have positioned the grinding wheel then touch the ZERO POINT button which will set it for both X &amp; Y, then the spindle will stop at right or left reversing point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134718Z" creationid="CCYU" creationdate="20150111T134718Z">
+        <seg>當完成砂輪定位後按下零點按鈕，將同時設定 X &amp; Y 軸，接著主軸將停止於左或右折返點。</seg>
       </tuv>
     </tu>
     <tu>
