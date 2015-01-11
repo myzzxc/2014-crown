@@ -17070,6 +17070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance between the right side of the &lt;t0/&gt;tool&lt;t1/&gt; and left side of&lt;t2/&gt; t&lt;t3/&gt;he &lt;t4/&gt;workp&lt;t5/&gt;iece.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025118Z" creationid="CCYU" creationdate="20150111T025118Z">
+        <seg>工具右端與工件左端之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T080037Z" creationid="CCYU" creationdate="20141102T075952Z">
