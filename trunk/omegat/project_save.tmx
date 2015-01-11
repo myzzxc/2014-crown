@@ -12378,6 +12378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By finish profiling wheels with the Reishauer or Fassler dressing units the wheel travels back and forth to the right side, the wheel must be infeed in X and laterally positioned with Y to the dressing rolls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134006Z" creationid="CCYU" creationdate="20150111T134006Z">
+        <seg>以 Reishauer 或 Fassler 修整單元完成加工輪時，加工輪至右側來回移動，其必須以 X 方向進料並與 Y 軸修整輥橫向定位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By fitting a Least Square Gauss Fit interpolation to the region close to the integer peak, the displacement vector is established to sub-pixel resolution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T092801Z">
@@ -73105,6 +73113,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133217Z" creationid="CCYU" creationdate="20150111T133217Z">
         <seg>僅須輕觸鑽石輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You use the joystick and incremental positioning to perform this function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134100Z" creationid="CCYU" creationdate="20150111T134100Z">
+        <seg>使用搖桿和步進定位進行此功能操作。</seg>
       </tuv>
     </tu>
     <tu>
