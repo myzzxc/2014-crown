@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4474,8 +4474,16 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond not swiveled in</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155518Z" creationid="CCYU" creationdate="20150108T155507Z">
-        <seg>外徑修整未旋入</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155548Z" creationid="CCYU" creationdate="20150108T155507Z">
+        <seg>外徑修整未正常旋入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond not swiveled out</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155617Z" creationid="CCYU" creationdate="20150108T155617Z">
+        <seg>外徑修整未正常旋出</seg>
       </tuv>
     </tu>
     <tu>
@@ -19548,6 +19556,70 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155514Z" creationid="CCYU" creationdate="20150108T155418Z">
         <seg>F127：氣動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F128: fault pneum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155610Z" creationid="CCYU" creationdate="20150108T155610Z">
+        <seg>F128：氣動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F129: fault bus controller X20BC0083</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155640Z" creationid="CCYU" creationdate="20150108T155640Z">
+        <seg>F129：控制器匯流排 X20BC0083 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F130: fault power supply module X20PS9400</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155700Z" creationid="CCYU" creationdate="20150108T155700Z">
+        <seg>F130：電源模組 X20PS9400 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F131: fault digital input module 1 X20DI9371</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155734Z" creationid="CCYU" creationdate="20150108T155734Z">
+        <seg>F131：數位輸入模組 1 X20DI9371 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F132: fault digital input module 2 X20DI9371</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155755Z" creationid="CCYU" creationdate="20150108T155755Z">
+        <seg>F132：數位輸入模組 2 X20DI9371 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F133: fault digital input module 3 X20DI9371</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155806Z" creationid="CCYU" creationdate="20150108T155806Z">
+        <seg>F133：數位輸入模組 3 X20DI9371 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F134: fault digital output module 1 X20DO9322</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155828Z" creationid="CCYU" creationdate="20150108T155828Z">
+        <seg>F134：數位輸出模組 1 X20DO9322 故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>F135: fault A-axis PU&lt;t0/&gt; …</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155852Z" creationid="CCYU" creationdate="20150108T155852Z">
+        <seg>F135：A-軸 PU 故障 …</seg>
       </tuv>
     </tu>
     <tu>
@@ -74635,6 +74707,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131539Z">
         <seg>原料對環境之衝擊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>error message list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T155900Z" creationid="CCYU" creationdate="20150108T155900Z">
+        <seg>錯誤訊息清單</seg>
       </tuv>
     </tu>
     <tu>
