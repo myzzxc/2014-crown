@@ -11498,6 +11498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-2 &lt;t0/&gt;Data profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023945Z" creationid="CCYU" creationdate="20150111T023945Z">
+        <seg>圖 5-2 資料設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -15678,6 +15686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;rofili&lt;t3/&gt;ng</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023935Z" creationid="CCYU" creationdate="20150111T023935Z">
+        <seg>資料設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042251Z" creationid="CCYU" creationdate="20141025T042251Z">
@@ -17515,6 +17531,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121601Z" creationid="Judy" creationdate="20150109T121601Z">
         <seg>驅動 C-軸至機械零點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driving speed of the B-axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024106Z" creationid="CCYU" creationdate="20150111T024106Z">
+        <seg>B-軸驅動速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -20124,6 +20148,22 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T004007Z" creationid="Judy" creationdate="20150110T004007Z">
         <seg>傳真：+49(0)741-1748898-22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed &lt;t0/&gt;fast:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024019Z" creationid="CCYU" creationdate="20150111T024019Z">
+        <seg>快速進料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed slow&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024002Z" creationid="CCYU" creationdate="20150111T024002Z">
+        <seg>慢速進料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26313,6 +26353,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you &lt;t0/&gt;can enter&lt;t1/&gt; diamond &lt;t2/&gt;wheel&lt;t3/&gt; data&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023820Z" creationid="CCYU" creationdate="20150111T023820Z">
+        <seg>此處可輸入鑽石輪資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can activate or deactivate auxiliary components and options for the machine&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145236Z" creationid="Judy" creationdate="20150110T145236Z">
@@ -30369,6 +30417,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100036Z" creationid="Judy" creationdate="20150110T100036Z">
         <seg>若要停止主軸需再次按下相同按鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to use a different&lt;t0/&gt; menu, touch the corresponding&lt;t1/&gt; flag&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023902Z" creationid="CCYU" creationdate="20150111T023902Z">
+        <seg>若欲使用不同功能選單，點擊對應標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50659,6 +50715,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed, outside&lt;t0/&gt; working piece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024041Z" creationid="CCYU" creationdate="20150111T024041Z">
+        <seg>工件外之速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spill Control Companies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T165019Z">
@@ -50719,6 +50783,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124151Z">
         <seg>洩漏吸收枕、墊 &amp; 護邊 - 開放式卡車棚的一大問題是吹過的風量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spindle &lt;t0/&gt;speed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024047Z" creationid="CCYU" creationdate="20150111T024047Z">
+        <seg>主軸速度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -71609,6 +71681,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052516Z" creationid="Judy" creationdate="20150110T052516Z">
         <seg>工件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working speed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024012Z" creationid="CCYU" creationdate="20150111T024012Z">
+        <seg>工作速度</seg>
       </tuv>
     </tu>
     <tu>
