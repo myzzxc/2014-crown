@@ -7654,6 +7654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After this then the  X- and Y-Axes will move to there start positions and the finish profiling setup is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134833Z" creationid="CCYU" creationdate="20150111T134833Z">
+        <seg>此後 X- 和 Y-軸將移至其起始點，此時設定完成加工結束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After this&lt;t5/&gt; the touchpad calibration&lt;t6/&gt; will &lt;t7/&gt;start automatically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161648Z" creationid="Judy" creationdate="20150110T161648Z">
