@@ -25081,8 +25081,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>G58&lt;t0/&gt; describes the relation between the centre of the spindle when located at the absolute origin and the profiling Unit</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035835Z" creationid="CCYU" creationdate="20150111T035835Z">
-        <seg>G58&lt;t0/&gt; 為位於絕對原點時主軸中心之關係，</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040134Z" creationid="CCYU" creationdate="20150111T035835Z">
+        <seg>G58&lt;t0/&gt; 為主軸位於絕對原點時其中心與加工單元之關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72025,6 +72025,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014340Z">
         <seg>全球總部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>X-Value is the distance between the centre of the adoption wheel and the centre of the profiling unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040058Z" creationid="CCYU" creationdate="20150111T040058Z">
+        <seg>X-值為加工輪中心和加工單元中心之距離。</seg>
       </tuv>
     </tu>
     <tu>
