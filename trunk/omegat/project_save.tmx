@@ -4424,6 +4424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;In&lt;t1/&gt; this case please consult the manufacture for the correct clamping pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011100Z" creationid="CCYU" creationdate="20150111T011100Z">
+        <seg>此情況下請諮詢製造商以得到正確的固定壓力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;Introduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T125731Z">
@@ -28232,6 +28240,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T035719Z" creationid="Judy" creationdate="20141206T035719Z">
         <seg>ISO 9614-1:1993，聲學 - 以聲音強度法測定噪音源之音量等級 - 第 1 部分：不連續點量測 (Acoustics - Determination of sound power levels of noise sources using sound intensity - Part 1: Measurement at discrete points)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IT IS IMPORTANT BY MOUNTING &amp; UNMOUNTING TO USE THE PROVIDE THREAD PROTECTION SLEEVE; DAMAGE TO THE SPINDLE THREAD IS NOT COVERED UNDER THE MACHINE WARRANTY!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011254Z" creationid="CCYU" creationdate="20150111T011254Z">
+        <seg>安裝和卸載必須使用原廠提供之螺紋保護套；主軸螺紋損壞非機台保固範圍！</seg>
       </tuv>
     </tu>
     <tu>
