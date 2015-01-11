@@ -44792,6 +44792,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pic.&lt;t0/&gt; &lt;t1/&gt;6&lt;t2/&gt;1&lt;t3/&gt; Editor main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T042945Z" creationid="CCYU" creationdate="20150111T042945Z">
+        <seg>圖 61 編輯器主頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pic.&lt;t0/&gt; &lt;t1/&gt;7&lt;t2/&gt;1&lt;t3/&gt; Explorer main page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T043017Z" creationid="CCYU" creationdate="20150111T043017Z">
+        <seg>圖 71 檔案管理器主頁面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pic.&lt;t0/&gt; &lt;t1/&gt;9&lt;t2/&gt;3&lt;t3/&gt; &lt;t4/&gt;Machinedata</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T144208Z" creationid="Judy" creationdate="20150110T144208Z">
@@ -71864,6 +71880,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>With the editor you can edit all kind of ASCII files (e.g.CNC programs).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142825Z" creationid="Judy" creationdate="20150110T142825Z">
+        <seg>使用編輯器可以編輯所有類型的 ASCII 檔案（例如 CNC 程序）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the editor you can edit all kind of ASCII-files (e.g. &lt;t0/&gt;CNC programs&lt;t1/&gt;)&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T043001Z" creationid="CCYU" creationdate="20150111T043001Z">
         <seg>使用編輯器可以編輯所有類型的 ASCII 檔案（例如 CNC 程序）。</seg>
       </tuv>
     </tu>
