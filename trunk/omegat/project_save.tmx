@@ -49011,6 +49011,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SETUP FOR FINISH PROFILING</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133546Z" creationid="CCYU" creationdate="20150111T133546Z">
+        <seg>設定完成加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SETUP FOR PREPROFILING</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132606Z" creationid="CCYU" creationdate="20150111T132606Z">
@@ -71697,6 +71705,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T110908Z">
         <seg>當加熱階段再次開始時，操作指示燈再次亮起紅燈。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the profiling-unit with C-Axis is mounted and the tool-pressure-angle &lt; workpiece-pressure-angle  the C-Axis moving everytime on the right reverse point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133517Z" creationid="CCYU" creationdate="20150111T133517Z">
+        <seg>當裝有 C-軸之加工單元且工具壓力角 &lt; 工件壓力角時，C-軸每次移動至右折返點。</seg>
       </tuv>
     </tu>
     <tu>
