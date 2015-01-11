@@ -7558,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the cycle&lt;t0/&gt;,&lt;t1/&gt; the C-Axis &lt;t2/&gt;will &lt;t3/&gt;move back to home position (0°).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090050Z" creationid="CCYU" creationdate="20150111T090050Z">
+        <seg>加工循環後，C-軸將移動回原始位置 (0°)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the last PD measurement in the one hour period the voltage shall be reduced to (&lt;t0/&gt;1,2&lt;t1/&gt; x &lt;t2/&gt;u&lt;t3/&gt;r&lt;t4/&gt;)j4z&lt;t5/&gt; and held there for a minimum duration of &lt;t6/&gt;1&lt;t7/&gt; min and only long enough to make a stable PD measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155024Z" creationid="CCYU" creationdate="20141112T155024Z">
@@ -32442,6 +32450,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T101217Z" creationid="Judy" creationdate="20141221T101217Z">
         <seg>里約+20 之成果文件中，會員國清楚指出發展目標 "需要協調和連貫與考慮 2015 年後之發展議程"。於發展目標和 2015 年後之協商中（正式的和非正式），會員國、公民社會以及聯合國在利益相關方一貫表示他們渴望單套發展目標以補足千禧年發展目標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Set Up O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090113Z" creationid="CCYU" creationdate="20150111T090113Z">
+        <seg>於設定外徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -71789,6 +71805,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While O.D.Dressing with &lt;t0/&gt;the &lt;t1/&gt;P&lt;t2/&gt;P&lt;t3/&gt;U&lt;t4/&gt; the C-Axis first&lt;t5/&gt; has to be turned&lt;t6/&gt; to &lt;t7/&gt;70° &lt;t8/&gt;to bring the diamond in the correct O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085952Z" creationid="CCYU" creationdate="20150111T085952Z">
+        <seg>當使用 PPU 進行外徑修整時，C-軸須先轉至 70° 使鑽石進入正確的外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While a&lt;t0/&gt;ll reasonable efforts are made to ensure that the technical content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222128Z" creationid="JUDY" creationdate="20141026T222037Z">
@@ -75627,6 +75651,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044912Z" creationid="Judy" creationdate="20150109T120213Z">
         <seg>修整鑽石未旋出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dressing position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085959Z" creationid="CCYU" creationdate="20150111T085959Z">
+        <seg>修整位置。</seg>
       </tuv>
     </tu>
     <tu>
