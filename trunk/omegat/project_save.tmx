@@ -5107,6 +5107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;To do this the safety hood must be closed&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091133Z" creationid="CCYU" creationdate="20150111T091133Z">
+        <seg>&lt;t4/&gt;安全外蓋必須關上方能啟動To do this the safety hood must be closed&lt;t5/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;With the “&lt;t5/&gt;Q&lt;t6/&gt;”&lt;t7/&gt; button you can quit each single error.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035220Z" creationid="CCYU" creationdate="20150111T035220Z">
@@ -43300,6 +43308,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141524Z" creationid="Judy" creationdate="20150110T141524Z">
         <seg>當記錄檔容量已滿時，最新的記錄將會覆蓋最舊的記錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the program has been started the display will show the actual data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091216Z" creationid="CCYU" creationdate="20150111T091216Z">
+        <seg>當程序啟動後，螢幕將顯示實際資料。</seg>
       </tuv>
     </tu>
     <tu>
