@@ -4192,6 +4192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;3&lt;t2/&gt; &lt;t3/&gt;S&lt;t4/&gt;etup O.D.dressing threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085738Z" creationid="CCYU" creationdate="20150111T085738Z">
+        <seg>5-3 設定外徑修整螺紋輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -55432,6 +55440,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T094508Z" creationid="CCYU" creationdate="20141207T094508Z">
         <seg>受測頻率範圍內之吸音係數盡可能低於 0,1，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The actual ZERO point which you set remains after turn the machine off and on again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T085620Z" creationid="CCYU" creationdate="20150111T085620Z">
+        <seg>設定之實際零點於機器開關後仍維持不變。</seg>
       </tuv>
     </tu>
     <tu>
