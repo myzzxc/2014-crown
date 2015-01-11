@@ -11522,6 +11522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-4&lt;t0/&gt; Password&lt;t1/&gt; – &lt;t2/&gt;enter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024723Z" creationid="CCYU" creationdate="20150111T024723Z">
+        <seg>圖 5-4 密碼輸入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -66560,6 +66568,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T091344Z" creationid="CCYU" creationdate="20141207T091239Z">
         <seg>如此可得到環境校正因子 &lt;t3/&gt;K&lt;t4/&gt; ≤7 dB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This window can be open&lt;t0/&gt;ed&lt;t1/&gt; out of the menu&lt;t2/&gt;s&lt;t3/&gt; &lt;t4/&gt;Profilwheel&lt;t5/&gt; tool&lt;t6/&gt; &lt;t7/&gt;data&lt;t8/&gt; and &lt;t9/&gt;Data profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024656Z" creationid="CCYU" creationdate="20150111T024656Z">
+        <seg>此視窗可由加工輪工具資料及加工資料之功能選單中開啟</seg>
       </tuv>
     </tu>
     <tu>
