@@ -10672,10 +10672,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022827Z" creationid="CCYU" creationdate="20150111T022545Z">
+        <seg>自動設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic profiling profil wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022456Z" creationid="CCYU" creationdate="20150111T021933Z">
-        <seg>加工輪自動加工</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022816Z" creationid="CCYU" creationdate="20150111T021933Z">
+        <seg>加工輪自動設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -75299,6 +75307,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141027T163808Z" creationid="JUDY" creationdate="20141027T163808Z">
         <seg>增加了五篇參考性附件以促進標準之應用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>flag</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022538Z" creationid="CCYU" creationdate="20150111T022538Z">
+        <seg>標籤</seg>
       </tuv>
     </tu>
     <tu>
