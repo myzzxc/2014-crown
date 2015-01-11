@@ -12578,6 +12578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CNC-&lt;t0/&gt;errors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T031019Z" creationid="CCYU" creationdate="20150111T031019Z">
+        <seg>CNC-錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CNC-main page &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure&lt;t3/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051324Z" creationid="Judy" creationdate="20150110T051324Z">
@@ -44716,6 +44724,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015137Z" creationid="Judy" creationdate="20150110T015137Z">
         <seg>圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pic.&lt;t0/&gt; &lt;t1/&gt;11&lt;t2/&gt;7&lt;t3/&gt; CNC-&lt;t4/&gt;error page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T031055Z" creationid="CCYU" creationdate="20150111T031055Z">
+        <seg>圖 11-7 CNC-錯誤頁面</seg>
       </tuv>
     </tu>
     <tu>
