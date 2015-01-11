@@ -32822,6 +32822,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the “TOOL DATA” you must input the tipp radius of the diamond wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084007Z" creationid="CCYU" creationdate="20150111T084007Z">
+        <seg>於 “工具資料” 中必須輸入鑽石輪外端半徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In these areas, you want to have a spill kit on hand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T090926Z">
@@ -58280,6 +58288,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140822T135114Z">
         <seg>注入相對兩個腔體之熱傳導造成了顯著的影響，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The input of the pressure angle is only required when using the NC Profiling Unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084113Z" creationid="CCYU" creationdate="20150111T084113Z">
+        <seg>壓力角僅須於使用 NC 加工單元時輸入。</seg>
       </tuv>
     </tu>
     <tu>
