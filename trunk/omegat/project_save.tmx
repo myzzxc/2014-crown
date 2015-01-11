@@ -32870,6 +32870,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the field REWORKING you can select which Zero point the program uses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T130532Z" creationid="CCYU" creationdate="20150111T130532Z">
+        <seg>於再加工欄位中可選擇程序使用之零點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the field „&lt;t0/&gt;O&lt;t1/&gt;nly reworking activ&lt;t2/&gt;e&lt;t3/&gt;“ &lt;t4/&gt;the &lt;t5/&gt;zero&lt;t6/&gt; &lt;t7/&gt;poin&lt;t8/&gt;t handling &lt;t9/&gt;is &lt;t10/&gt;determined.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153128Z" creationid="Judy" creationdate="20150110T153128Z">
