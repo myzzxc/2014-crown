@@ -5043,6 +5043,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;With the “&lt;t5/&gt;Q&lt;t6/&gt;”&lt;t7/&gt; button you can quit each single error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035220Z" creationid="CCYU" creationdate="20150111T035220Z">
+        <seg>可點擊 “Q” 按鈕退出單一錯誤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t4/&gt;bank&lt;t5/&gt; shall be indicated by the capital letters Y, D or Z for the high-voltage (HV) winding an&lt;t6/&gt;d&lt;t7/&gt; small letters y, d or z for the intermediate and low-voltage (LV) windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T142006Z">
@@ -26557,6 +26565,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150854Z" creationid="Judy" creationdate="20150110T150548Z">
         <seg>此處可以輸入濾清器清洗週期中集塵系統運行時間，以及濾清器清潔時間，以秒為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can see the &lt;t0/&gt;cnc&lt;t1/&gt; errors including the error number and &lt;t2/&gt;cleartext&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035140Z" creationid="CCYU" creationdate="20150111T035140Z">
+        <seg>此處可瀏覽 CNC 錯誤，包含錯誤編號及清除文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50695,6 +50711,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T145819Z">
         <seg>特性 (白色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special CNC-Zero-Points</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035234Z" creationid="CCYU" creationdate="20150111T035234Z">
+        <seg>特殊 CNC-零點</seg>
       </tuv>
     </tu>
     <tu>
