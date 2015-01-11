@@ -4682,6 +4682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;Then the spindle will stop at the next reverse point and the X- and Y-axis will move to their start positions and the finishing O.D.dressing setup is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090734Z" creationid="CCYU" creationdate="20150111T090727Z">
+        <seg>主軸將於下一個反向點停止，而 X 軸和 Y 軸將移動至其起始位置，外徑修整完成設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;This may require new setting of the discharge gaps on generators which have both series and parallel gaps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141126T131003Z" creationid="CCYU" creationdate="20141126T131003Z">
@@ -71501,6 +71509,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you have positioned the O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090535Z" creationid="CCYU" creationdate="20150111T090535Z">
+        <seg>當砂輪外徑定位後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you want to use a different menu you touch the adequate flag&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084306Z" creationid="CCYU" creationdate="20150111T084306Z">
@@ -78517,6 +78533,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T153838Z" creationid="CCYU" creationdate="20141106T153838Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of the grinding wheel then touch the ZERO POINT button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090549Z" creationid="CCYU" creationdate="20150111T090549Z">
+        <seg>按下零點按鈕。</seg>
       </tuv>
     </tu>
     <tu>
