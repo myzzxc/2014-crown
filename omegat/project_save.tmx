@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>11&lt;t0/&gt; from &lt;t1/&gt;11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145819Z" creationid="CCYU" creationdate="20150111T145819Z">
+        <seg>11&lt;t0/&gt; / &lt;t1/&gt;11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>12.3   &lt;t0/&gt;Bioaccumulative&lt;t1/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T154141Z">
@@ -10890,8 +10898,8 @@
       <tuv lang="EN-US">
         <seg>Automatic &lt;t0/&gt;profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025829Z" creationid="CCYU" creationdate="20150111T025829Z">
-        <seg>自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150847Z" creationid="CCYU" creationdate="20150111T025829Z">
+        <seg>自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,16 +10922,24 @@
       <tuv lang="EN-US">
         <seg>Automatic profiling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022827Z" creationid="CCYU" creationdate="20150111T022545Z">
-        <seg>自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150829Z" creationid="CCYU" creationdate="20150111T022545Z">
+        <seg>自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Automatic profiling profil wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022816Z" creationid="CCYU" creationdate="20150111T021933Z">
-        <seg>加工輪自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150808Z" creationid="CCYU" creationdate="20150111T021933Z">
+        <seg>加工輪自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic profiling toothed rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150653Z" creationid="CCYU" creationdate="20150111T150653Z">
+        <seg>齒條自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -10938,8 +10954,8 @@
       <tuv lang="EN-US">
         <seg>Automatic profiling&lt;t0/&gt; &lt;t1/&gt;profil&lt;t2/&gt;e&lt;t3/&gt; wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030320Z" creationid="CCYU" creationdate="20150111T030320Z">
-        <seg>加工輪自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150811Z" creationid="CCYU" creationdate="20150111T030320Z">
+        <seg>加工輪自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11754,6 +11770,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-1 &lt;t0/&gt;Toothed rack, tool data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150904Z" creationid="CCYU" creationdate="20150111T150904Z">
+        <seg>圖 5-1 齒條、工具資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bild 5-2 &lt;t0/&gt;Data profiling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023945Z" creationid="CCYU" creationdate="20150111T023945Z">
@@ -11764,8 +11788,8 @@
       <tuv lang="EN-US">
         <seg>Bild 5-3&lt;t0/&gt; &lt;t1/&gt;Automatic profiling Perofilwheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024146Z" creationid="CCYU" creationdate="20150111T024146Z">
-        <seg>圖 5-3 加工輪自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150820Z" creationid="CCYU" creationdate="20150111T024146Z">
+        <seg>圖 5-3 加工輪自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -12446,6 +12470,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T095037Z" creationid="CCYU" creationdate="20150111T095037Z">
         <seg>預加工首先將會完全修整，接著進行下一次修整直到加工輪加工完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing cycle stop or E-STOP the X and Y axis move to the safety position and the spindle is stopped in synchronization.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145728Z" creationid="CCYU" creationdate="20150111T145728Z">
+        <seg>按下循環停止或緊急停止按鈕後，X-軸和 Y 軸移動至安全位置而主軸將同步停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31749,6 +31781,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In either instance the zero point is stored and you can start from the beginning of the program again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145741Z" creationid="CCYU" creationdate="20150111T145741Z">
+        <seg>兩種情況下零點位置皆會儲存且能重新從頭開始加工程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In equation (11), &lt;t0/&gt;K&lt;t1/&gt; and &lt;t2/&gt;F&lt;t3/&gt;ε&lt;t4/&gt; are respectively permeability and geometric function of the porous medium and expressed as:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T205106Z">
@@ -43920,6 +43960,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 5.&lt;t0/&gt;2&lt;t1/&gt; &lt;t2/&gt;toothed rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145843Z" creationid="CCYU" creationdate="20150111T145843Z">
+        <seg>選項 5.2 齒條</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option 5.&lt;t0/&gt;3&lt;t1/&gt; &lt;t2/&gt;Profil&lt;t3/&gt;e&lt;t4/&gt; wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T021552Z" creationid="CCYU" creationdate="20150111T021552Z">
@@ -44444,6 +44492,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T162208Z">
         <seg>PIV 同時也於鄉鎮或城市中之潛移或非遽變地滑顯示出良好的結果 (Chan 等人，2004 年；Chen 和 Lee，2005 年)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PM 280T / PM 550T&lt;t0/&gt;     &lt;t1/&gt;          &lt;t2/&gt;Option threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145801Z" creationid="CCYU" creationdate="20150111T145801Z">
+        <seg>PM 280T / PM 550T&lt;t0/&gt;     &lt;t1/&gt;          &lt;t2/&gt;選配螺紋輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -68581,6 +68637,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toothed rack, tool data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145853Z" creationid="CCYU" creationdate="20150111T145853Z">
+        <seg>齒條、工具資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Top insulating liquid</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T114551Z" creationid="CCYU" creationdate="20141030T114551Z">
@@ -70565,6 +70629,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Version V2.09</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145814Z" creationid="CCYU" creationdate="20150111T145814Z">
+        <seg>版本 V2.09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version of the software from the control and the drives</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T052355Z" creationid="Judy" creationdate="20150110T052355Z">
@@ -71529,6 +71601,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T062926Z" creationid="CCYU" creationdate="20141102T062926Z">
         <seg>當同一繞組使用多於一組感測器時，最大讀值視為熱點繞組溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When mounted the VPG3 and workpiece-pressure-angle 20° and tool-pressure-angle 15° move the C-Axis first to +5° then all starts will profiling then the C-Axis move to –5° and all starts will profiling again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T145752Z" creationid="CCYU" creationdate="20150111T145752Z">
+        <seg>當裝有 VPG3 且工件壓力角 20° 而工具壓力角 15° 時，首先移動 C-軸至 +5° 後啟動所有加工，接著 C-軸移動至 –5° 後所有加工再次啟動。</seg>
       </tuv>
     </tu>
     <tu>
