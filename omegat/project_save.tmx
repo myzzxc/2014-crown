@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;Disc width&lt;t1/&gt; /2) / ymax</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030315Z" creationid="CCYU" creationdate="20150111T030315Z">
+        <seg>（碟盤寬 / 2） / Y 最大值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;Haake&lt;t1/&gt;; 140 °C (284 °F); Shear gradient: &lt;t2/&gt;500 s-1&lt;t3/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110840Z">
@@ -5039,6 +5047,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T075742Z">
         <seg>&lt;t5/&gt;Mahkamov&lt;t6/&gt; [10] 也提出一個三維計算流體力學法用於生質史特林引擎原形以改進效能，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t5/&gt;The value &lt;t6/&gt;must not be wider than</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030209Z" creationid="CCYU" creationdate="20150111T030157Z">
+        <seg>此數值不得大於加工工具寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10723,6 +10739,14 @@
         <seg>Automatic profiling&lt;t0/&gt; &lt;t1/&gt;profil wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024119Z" creationid="CCYU" creationdate="20150111T024119Z">
+        <seg>加工輪自動設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic profiling&lt;t0/&gt; &lt;t1/&gt;profil&lt;t2/&gt;e&lt;t3/&gt; wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030320Z" creationid="CCYU" creationdate="20150111T030320Z">
         <seg>加工輪自動設定</seg>
       </tuv>
     </tu>
@@ -17818,6 +17842,14 @@
         <seg>During the &lt;t0/&gt;automatic &lt;t1/&gt;profiling&lt;t2/&gt; process&lt;t3/&gt; this window will be shown&lt;t4/&gt; with all the data.&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024252Z" creationid="CCYU" creationdate="20150111T024252Z">
+        <seg>自動設定過程中，視窗將顯示所有資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the &lt;t0/&gt;automatic &lt;t1/&gt;profiling&lt;t2/&gt; process&lt;t3/&gt; this window will be shown&lt;t4/&gt; with all the data&lt;t5/&gt;.&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030326Z" creationid="CCYU" creationdate="20150111T030326Z">
         <seg>自動設定過程中，視窗將顯示所有資料。</seg>
       </tuv>
     </tu>
@@ -37559,6 +37591,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max&lt;t0/&gt;: &lt;t1/&gt;maximum &lt;t2/&gt;infeed&lt;t3/&gt; Y-direction&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030115Z" creationid="CCYU" creationdate="20150111T030115Z">
+        <seg>最大值&lt;t0/&gt;：Y-方向最大進料值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141030T124519Z" creationid="CCYU" creationdate="20141030T124519Z">
@@ -38220,6 +38260,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T015159Z">
         <seg>最小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Min&lt;t0/&gt;: minimum Infeed Y- direction&lt;t1/&gt;, &lt;t2/&gt;to prohibit a too small stroke.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030049Z" creationid="CCYU" creationdate="20150111T030049Z">
+        <seg>最小值&lt;t0/&gt;：Y-方向最小進料值，避免行程太短。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61148,6 +61196,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The stroke will be divided&lt;t0/&gt; automatically&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030239Z" creationid="CCYU" creationdate="20150111T030239Z">
+        <seg>行程將自動分配：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The studies made on this type of insulation have shown that the switching impulse withstand (SI) is usually between 0,8 and 0,85 times the lightning impulse withstand.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141120T220034Z" creationid="Judy" creationdate="20141120T220034Z">
@@ -80478,6 +80534,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T072929Z">
         <seg>異常操作或故障期間可能釋放出之破壞環境物質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the profiling tool</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030203Z" creationid="CCYU" creationdate="20150111T030203Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
