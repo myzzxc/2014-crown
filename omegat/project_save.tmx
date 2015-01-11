@@ -32622,6 +32622,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Set Up Profiling Menu the grinding wheel is positioned to the profiling unit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132700Z" creationid="CCYU" creationdate="20150111T132700Z">
+        <seg>於設定加工功能選單中，砂輪放置於加工單元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Tsaoling rockslides, a rock mass of shale and muddy sandstone about 120 million m3 slid down the dip slope.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041218Z">
@@ -68201,6 +68209,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T083022Z" creationid="CCYU" creationdate="20141123T083022Z">
         <seg>為了展現任何非線性效應的可逆性，應於全波測試電壓下以相反方向進行相同的降低全波突波測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the cycle you have to choices you can either close the safety hood or by having the safety door open and using the acceptance switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132921Z" creationid="CCYU" creationdate="20150111T132921Z">
+        <seg>若要開始加工循環，必須選擇關閉安全罩或者打開安全門並使接受開關。</seg>
       </tuv>
     </tu>
     <tu>
