@@ -71493,6 +71493,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When perform the setup with the safety &lt;t0/&gt;hood open the spindle RPM is limited to 45RPM and the axis travel rate is limited to 78 inches per minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135155Z" creationid="CCYU" creationdate="20150111T135155Z">
+        <seg>當於安全罩開啟進行設定，主軸轉速限制於 45RPM 且軸移動速率限制為每分鐘 78 英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When picked up, treat material as prescribed under heading "Disposal considerations".</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T100002Z">
@@ -71601,6 +71609,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141123T080136Z">
         <seg>當測試電感器時，項目 c) 和 e) 對分流器和串聯型皆不適用，項目 d) 可使用但由於其相對用於變壓器測試較不靈敏，因此僅作為額外的暫態記錄方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the CYCLE STOP Key or EMERENCY STOP is pushed the machine will immediately move to an emergency stop position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135337Z" creationid="CCYU" creationdate="20150111T135337Z">
+        <seg>當按下循環停止或緊急停止按鈕後，機台將立即移動至緊急停止位置。</seg>
       </tuv>
     </tu>
     <tu>
