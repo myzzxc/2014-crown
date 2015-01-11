@@ -25103,6 +25103,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G59&lt;t0/&gt; describes the relation between the centre of the spindle when located at the absolute origin to the inside diameter dressing fixture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041031Z" creationid="CCYU" creationdate="20150111T041031Z">
+        <seg>G58&lt;t0/&gt; 為主軸位於絕對原點時其中心與修夾具內徑之關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G&lt;t0/&gt;lobal pages elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T030852Z" creationid="Judy" creationdate="20150110T030337Z">
@@ -66292,6 +66300,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This position is used for inside diameter processing with absolute dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041240Z" creationid="CCYU" creationdate="20150111T041240Z">
+        <seg>此位置以絕對尺寸用於內徑加工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This principle can be applied to both sound pressure and sound intensity measurements.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T230742Z" creationid="Judy" creationdate="20141209T230742Z">
@@ -72061,6 +72077,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>X-Value is the distance between the centre of the spindle and the centre of the fixture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041103Z" creationid="CCYU" creationdate="20150111T041103Z">
+        <seg>X-值為主軸中心和夾具中心之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>X-and Y-Axis grease</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T152742Z" creationid="Judy" creationdate="20150109T152742Z">
@@ -72097,6 +72121,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040312Z" creationid="CCYU" creationdate="20150111T040312Z">
         <seg>Y-值為主軸前側和標準 15 mm 鑽石輪於任何壓力角下理論中心點之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Y-Value is the distance between the front side of the adoption wheel and the left side of the fixture.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041152Z" creationid="CCYU" creationdate="20150111T041152Z">
+        <seg>Y-值為加工輪前側和夾具左側之距離。</seg>
       </tuv>
     </tu>
     <tu>
