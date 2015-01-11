@@ -8704,6 +8704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Angle&lt;t0/&gt;(W1)&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023640Z" creationid="CCYU" creationdate="20150111T023640Z">
+        <seg>角度 (W1)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anne&lt;t0/&gt;x E sets out some of the principles used in assigning the tests, test levels and clearances in air to the transformer according to the highest voltage for equipment &lt;t1/&gt;U&lt;t2/&gt;m&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141107T145521Z" creationid="CCYU" creationdate="20141107T145521Z">
@@ -15242,6 +15250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141206T003044Z" creationid="Judy" creationdate="20141206T003044Z">
         <seg>使用高溫絕緣材料之液浸式電力變壓器設計和應用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D&lt;t0/&gt;iameter&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023538Z" creationid="CCYU" creationdate="20150111T023538Z">
+        <seg>直徑：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21904,6 +21920,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T143427Z" creationid="Judy" creationdate="20141220T143427Z">
         <seg>找出連結未與正規金融連結或僅少量連結之部份和行動者之方法（如城市政府、中小型企業、能源服務公司、家庭）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finished &lt;t0/&gt;diameter of the profil&lt;t1/&gt;e&lt;t2/&gt; wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023624Z" creationid="CCYU" creationdate="20150111T023555Z">
+        <seg>完成之加工輪直徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -52155,6 +52179,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;ransition angle&lt;t1/&gt; &lt;t2/&gt;at the tip&lt;t3/&gt; of the profil&lt;t4/&gt;e&lt;t5/&gt; wheel&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023748Z" creationid="CCYU" creationdate="20150111T023748Z">
+        <seg>加工輪端點角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>T&lt;t2/&gt;he Rio+20 outcome document makes an explicit link between the SDGs and the sustainable development financing strategy mentioned above.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141222T225612Z" creationid="Judy" creationdate="20141222T225612Z">
@@ -67405,6 +67437,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool data:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023758Z" creationid="CCYU" creationdate="20150111T023758Z">
+        <seg>工具資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tooth Belt for Y axis check and possibly retention</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T153332Z" creationid="Judy" creationdate="20150109T153332Z">
@@ -71157,10 +71197,34 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width o&lt;t0/&gt;f t&lt;t1/&gt;he profil&lt;t2/&gt;e&lt;t3/&gt; wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023532Z" creationid="CCYU" creationdate="20150111T023532Z">
+        <seg>加工輪寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width of the &lt;t0/&gt;finished&lt;t1/&gt; profil&lt;t2/&gt;e&lt;t3/&gt; wheel at the &lt;t4/&gt;tip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023501Z" creationid="CCYU" creationdate="20150111T023501Z">
+        <seg>完成之加工輪端點寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Width tooth&lt;t0/&gt;peak&lt;t1/&gt; (Fb)&lt;t2/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023418Z" creationid="CCYU" creationdate="20150111T023418Z">
         <seg>最大齒寬 (Fb)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width&lt;t0/&gt; (B)&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023510Z" creationid="CCYU" creationdate="20150111T023510Z">
+        <seg>寬度 (B)：</seg>
       </tuv>
     </tu>
     <tu>
