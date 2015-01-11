@@ -11482,6 +11482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-1 &lt;t0/&gt;T&lt;t1/&gt;ool Data (&lt;t2/&gt;Profilwheel)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022941Z" creationid="CCYU" creationdate="20150111T022941Z">
+        <seg>圖 5-1 工具資料（加工輪）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bioaccumulative&lt;t0/&gt; potential</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134611Z">
@@ -67020,6 +67028,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To input a value first touch the field in which you want to enter a value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023036Z" creationid="CCYU" creationdate="20150111T023036Z">
+        <seg>若要輸入數值，請先點擊欲輸入數值之欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To investigate the differences caused by &lt;t2/&gt;MR, the following operation parameters were first adopted: engine speed=600 rpm (or &lt;t3/&gt; rads&lt;t4/&gt;-1&lt;t5/&gt;), &lt;t6/&gt;T&lt;t7/&gt;h&lt;t8/&gt;=800K, &lt;t9/&gt;T&lt;t10/&gt;l&lt;t11/&gt;=300K.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T231752Z">
@@ -70185,6 +70201,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T125903Z">
         <seg>當變壓器類別不存在於 IEC 標準 (特別是工業用無繞組且額定電壓高於 1000 V 之變壓器) 時，此 IEC 60076 部分仍然適用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a field is open the maximum and minimum input value will be displayed at the top of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023116Z" creationid="CCYU" creationdate="20150111T023116Z">
+        <seg>當欄位打開時，最高和最低的輸入值將顯示於視窗上方。</seg>
       </tuv>
     </tu>
     <tu>
