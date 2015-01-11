@@ -2711,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5&lt;t0/&gt; von &lt;t1/&gt;5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025456Z" creationid="CCYU" creationdate="20150111T025456Z">
+        <seg>5&lt;t0/&gt; / &lt;t1/&gt;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5= (A+ 1)/&lt;t0/&gt;m</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T060527Z" creationid="CCYU" creationdate="20141207T060454Z">
@@ -43288,6 +43296,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option &lt;t0/&gt;Profil wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025436Z" creationid="CCYU" creationdate="20150111T025436Z">
+        <seg>加工輪選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional VPG12</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T154150Z" creationid="Judy" creationdate="20150109T154054Z">
@@ -71961,6 +71977,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090857Z" creationid="Judy" creationdate="20150110T090857Z">
         <seg>可逐步驅動或連續驅動此軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can find&lt;t0/&gt; out &lt;t1/&gt;the value by measuring or by “&lt;t2/&gt;scratching&lt;t3/&gt;” &lt;t4/&gt;and&lt;t5/&gt; read the value in the Jog-menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025403Z" creationid="CCYU" creationdate="20150111T025403Z">
+        <seg>可藉由量測或藉由移動選單中“刮過”並讀取數值以取得此數值。</seg>
       </tuv>
     </tu>
     <tu>
