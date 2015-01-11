@@ -10608,6 +10608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the program, the axis will return to the&lt;t0/&gt;ir&lt;t1/&gt; start position and &lt;t2/&gt;the&lt;t3/&gt; new zero point will be &lt;t4/&gt;saved when reworking is selected.&lt;t5/&gt; Now the program can be started again and the threaded wheel will be &lt;t6/&gt;dressed&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091518Z" creationid="CCYU" creationdate="20150111T091518Z">
+        <seg>程序結束前，軸將會回到起始位置，且當選擇再加工時將儲存新零點，此時程序將再次啟動且螺紋輪將被修整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the test, the &lt;t0/&gt;voltage shall be reduced rapidly to less than one-third of the test value before switching off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124115Z" creationid="CCYU" creationdate="20141112T124115Z">
@@ -42632,6 +42640,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now it is possible to do the next profiling cycle o&lt;t5/&gt;n&lt;t6/&gt; a blank wheel with the same data without doing a new setup-cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091753Z" creationid="CCYU" creationdate="20150111T091753Z">
+        <seg>此時可以對空白加工輪以相同資料進行下一個加工循環，而不須重新進行設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now make the mechanical connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T141214Z" creationid="Judy" creationdate="20150109T141214Z">
@@ -71225,6 +71241,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141125T132714Z" creationid="CCYU" creationdate="20141125T132714Z">
         <seg>當使用電阻性電壓分配器以檢查非測試繞組之電壓時，分配器應保留於電路中，因為其為電路中很大的負載。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When reworking is &lt;t0/&gt;inactivated&lt;t1/&gt; blank wheels &lt;t2/&gt;can be &lt;t3/&gt;dressed&lt;t4/&gt;..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091622Z" creationid="CCYU" creationdate="20150111T091622Z">
+        <seg>當未啟用再加工時，可修整空白加工輪。</seg>
       </tuv>
     </tu>
     <tu>
