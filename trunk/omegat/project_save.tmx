@@ -8712,6 +8712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Angle&lt;t0/&gt;(&lt;t1/&gt;W1)&lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025843Z" creationid="CCYU" creationdate="20150111T025843Z">
+        <seg>角度 (W1)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Angle&lt;t0/&gt;(W1)&lt;t1/&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023640Z" creationid="CCYU" creationdate="20150111T023640Z">
@@ -10680,6 +10688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic &lt;t0/&gt;profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025829Z" creationid="CCYU" creationdate="20150111T025829Z">
+        <seg>自動設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic balancing &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051421Z" creationid="Judy" creationdate="20150110T051421Z">
@@ -11502,6 +11518,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141005T073115Z">
         <seg>參考書目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bil&lt;t0/&gt;d&lt;t1/&gt; 5-2 &lt;t2/&gt;Data profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025847Z" creationid="CCYU" creationdate="20150111T025847Z">
+        <seg>圖 5-2 資料設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -33270,6 +33294,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infeed data&lt;t0/&gt; Y&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025934Z" creationid="CCYU" creationdate="20150111T025934Z">
+        <seg>Y 進料資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Influence of &lt;t0/&gt;in-built smoothing algorithms in digitizers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T220500Z" creationid="Judy" creationdate="20141204T220447Z">
@@ -51014,6 +51046,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>Startind distance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023308Z" creationid="CCYU" creationdate="20150111T023308Z">
+        <seg>啟動距離：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Startind&lt;t0/&gt; distance:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025835Z" creationid="CCYU" creationdate="20150111T025835Z">
         <seg>啟動距離：</seg>
       </tuv>
     </tu>
@@ -71361,6 +71401,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042810Z">
         <seg>廣泛適用各種嚴苛應用的多功能紅外線解決方案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width &lt;t0/&gt;tooth&lt;t1/&gt;peak&lt;t2/&gt; (Fb)&lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025839Z" creationid="CCYU" creationdate="20150111T025839Z">
+        <seg>最大齒寬 (Fb)：</seg>
       </tuv>
     </tu>
     <tu>
