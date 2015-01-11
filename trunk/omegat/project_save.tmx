@@ -42808,6 +42808,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now the position is saved in the control and the machine is ready for automatic cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133312Z" creationid="CCYU" creationdate="20150111T133312Z">
+        <seg>此時位置已儲存至控制器且機台已就緒，可進行自動循環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now unplug the heating blanket from the mains outlet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T114141Z">
@@ -46414,6 +46422,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090404Z" creationid="CCYU" creationdate="20150111T090404Z">
         <seg>按下啟動鍵後能以搖桿移動軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push the start key and now the axes can be moved with the joystick so that you can position the OD of the grinding wheel to the profiling diamond wheel by using the X axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133110Z" creationid="CCYU" creationdate="20150111T133110Z">
+        <seg>按下啟動鍵後可使用搖桿移動，可使用 X 軸將砂輪外徑移至加工鑽石輪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73065,6 +73081,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T144202Z">
         <seg>必須搭配外套層使用暖腳機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You only want to touch off the wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T133217Z" creationid="CCYU" creationdate="20150111T133217Z">
+        <seg>僅須輕觸鑽石輪。</seg>
       </tuv>
     </tu>
     <tu>
