@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(E.g. &lt;t0/&gt;by&lt;t1/&gt; programs generated with the optional available Software EZ-CAM)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041303Z" creationid="CCYU" creationdate="20150111T041303Z">
+        <seg>（例如，以選配軟體 EZ-CAM 生成加工程序）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(E.g. by programs generated with the optional available Software EZ-CAM)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040659Z" creationid="CCYU" creationdate="20150111T040659Z">
@@ -25089,8 +25097,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>G58 is used to process outside diameters with absolute dimensions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T040604Z" creationid="CCYU" creationdate="20150111T040604Z">
-        <seg>G58 用於以絕對尺寸加工外徑。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T041253Z" creationid="CCYU" creationdate="20150111T040604Z">
+        <seg>G58 以絕對尺寸用於外徑加工。</seg>
       </tuv>
     </tu>
     <tu>
