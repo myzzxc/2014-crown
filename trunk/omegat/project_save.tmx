@@ -4176,6 +4176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;5&lt;t1/&gt;1&lt;t2/&gt; W&lt;t3/&gt;orkpiece- and tooldata threaded wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063639Z" creationid="CCYU" creationdate="20150111T063639Z">
+        <seg>51 螺紋輪工件和工具資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;6&lt;t1/&gt;1&lt;t2/&gt; &lt;t3/&gt;Jog mainaxis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090554Z" creationid="Judy" creationdate="20150110T090554Z">
@@ -10752,6 +10760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic O.D.dressing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063541Z" creationid="CCYU" creationdate="20150111T063541Z">
+        <seg>自動外徑修整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic balancing &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051421Z" creationid="Judy" creationdate="20150110T051421Z">
@@ -15830,10 +15846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data &lt;t0/&gt;wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063601Z" creationid="CCYU" creationdate="20150111T063601Z">
+        <seg>輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data O.D.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044811Z" creationid="CCYU" creationdate="20150111T044811Z">
         <seg>外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063544Z" creationid="CCYU" creationdate="20150111T063544Z">
+        <seg>資料設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -22312,6 +22344,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T060202Z" creationid="CCYU" creationdate="20141025T060202Z">
         <seg>以十字起子固定零件 8 及零件 9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flags</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063602Z" creationid="CCYU" creationdate="20150111T063602Z">
+        <seg>標籤</seg>
       </tuv>
     </tu>
     <tu>
@@ -49879,6 +49919,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044838Z" creationid="CCYU" creationdate="20150111T044838Z">
         <seg>設定外徑修整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063555Z" creationid="CCYU" creationdate="20150111T063555Z">
+        <seg>加工設定</seg>
       </tuv>
     </tu>
     <tu>
