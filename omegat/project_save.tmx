@@ -10872,6 +10872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au&lt;t0/&gt;tomatic&lt;t1/&gt; &lt;t2/&gt;profiling&lt;t3/&gt; &lt;t4/&gt;toothed rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151316Z" creationid="CCYU" creationdate="20150111T151316Z">
+        <seg>齒條自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-ignition temperature</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142750Z">
@@ -10946,8 +10954,8 @@
       <tuv lang="EN-US">
         <seg>Automatic profiling&lt;t0/&gt; &lt;t1/&gt;profil wheel</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024119Z" creationid="CCYU" creationdate="20150111T024119Z">
-        <seg>加工輪自動設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151106Z" creationid="CCYU" creationdate="20150111T024119Z">
+        <seg>加工輪自動加工設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11786,6 +11794,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-2 Data&lt;t0/&gt; &lt;t1/&gt;profili&lt;t2/&gt;n&lt;t3/&gt;g</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151230Z" creationid="CCYU" creationdate="20150111T151230Z">
+        <seg>圖 5-2 加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bild 5-3&lt;t0/&gt; &lt;t1/&gt;A&lt;t2/&gt;utomatic&lt;t3/&gt; &lt;t4/&gt;profiling toothed rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151321Z" creationid="CCYU" creationdate="20150111T151321Z">
+        <seg>圖 5-3 齒條自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bild 5-3&lt;t0/&gt; &lt;t1/&gt;Automatic profiling Perofilwheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150820Z" creationid="CCYU" creationdate="20150111T024146Z">
@@ -12492,8 +12516,16 @@
       <tuv lang="EN-US">
         <seg>By pushing the start button,&lt;t0/&gt; &lt;t1/&gt;the automatic&lt;t2/&gt; profiling will be started.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024221Z" creationid="CCYU" creationdate="20150111T024221Z">
-        <seg>按下開始按鈕後自動設定將開始。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151116Z" creationid="CCYU" creationdate="20150111T024221Z">
+        <seg>按下開始按鈕後自動加工設定將開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pushing the start button&lt;t0/&gt;,&lt;t1/&gt;the automatically profiling will be started.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151327Z" creationid="CCYU" creationdate="20150111T151327Z">
+        <seg>按下開始按鈕後自動加工設定將開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16070,6 +16102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dat&lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;p&lt;t3/&gt;rofili&lt;t4/&gt;ng</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151224Z" creationid="CCYU" creationdate="20150111T151224Z">
+        <seg>加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data &lt;t0/&gt;wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063601Z" creationid="CCYU" creationdate="20150111T063601Z">
@@ -18007,6 +18047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Driving speed of the B-axis&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151305Z" creationid="CCYU" creationdate="20150111T151305Z">
+        <seg>B-軸驅動速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Driving the core into saturation means building up a certain amount of flux that reduces the delay, in practice to the order of a few seconds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T122840Z" creationid="CCYU" creationdate="20141104T122840Z">
@@ -18193,16 +18241,16 @@
       <tuv lang="EN-US">
         <seg>During the &lt;t0/&gt;automatic &lt;t1/&gt;profiling&lt;t2/&gt; process&lt;t3/&gt; this window will be shown&lt;t4/&gt; with all the data.&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024252Z" creationid="CCYU" creationdate="20150111T024252Z">
-        <seg>自動設定過程中，視窗將顯示所有資料。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151129Z" creationid="CCYU" creationdate="20150111T024252Z">
+        <seg>自動加工過程中，視窗將顯示所有資料。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>During the &lt;t0/&gt;automatic &lt;t1/&gt;profiling&lt;t2/&gt; process&lt;t3/&gt; this window will be shown&lt;t4/&gt; with all the data&lt;t5/&gt;.&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030326Z" creationid="CCYU" creationdate="20150111T030326Z">
-        <seg>自動設定過程中，視窗將顯示所有資料。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151145Z" creationid="CCYU" creationdate="20150111T030326Z">
+        <seg>自動加工過程中，視窗將顯示所有資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18227,6 +18275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T033519Z">
         <seg>生產鍍鋅或退火鋼期間，金屬被加熱到非常高溫以確保鍍鋅層或金屬退火接合良好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the prof&lt;t0/&gt;iling this window will be shown with all the data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151330Z" creationid="CCYU" creationdate="20150111T151330Z">
+        <seg>自動加工過程中，視窗將顯示所有資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26383,6 +26439,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>H&lt;t0/&gt;ere you ente&lt;t1/&gt;r the diamond &lt;t2/&gt;wheel&lt;t3/&gt; data&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151216Z" creationid="CCYU" creationdate="20150111T151216Z">
+        <seg>此處可輸入鑽石輪資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAZARD CLASSIFICATION:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T140202Z">
@@ -29072,6 +29136,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T083645Z" creationid="CCYU" creationdate="20150111T083645Z">
         <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最高值或最低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a input value exceeds the maximum or minimum allowable&lt;t0/&gt; value it will be automatically be corrected to the min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151157Z" creationid="CCYU" creationdate="20150111T151157Z">
+        <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -51571,6 +51643,30 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed fast&lt;t0/&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151251Z" creationid="CCYU" creationdate="20150111T151251Z">
+        <seg>快速進料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed slow&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151234Z" creationid="CCYU" creationdate="20150111T151234Z">
+        <seg>慢速進料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed, outside &lt;t0/&gt;working piece for X and Y axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151257Z" creationid="CCYU" creationdate="20150111T151257Z">
+        <seg>X-和 Y-軸工件外之速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed, outside&lt;t0/&gt; working piece</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024041Z" creationid="CCYU" creationdate="20150111T024041Z">
@@ -51639,6 +51735,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T124151Z">
         <seg>洩漏吸收枕、墊 &amp; 護邊 - 開放式卡車棚的一大問題是吹過的風量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spind&lt;t0/&gt;le speed&lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151302Z" creationid="CCYU" creationdate="20150111T151302Z">
+        <seg>主軸速度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -67588,6 +67692,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This window can be open&lt;t0/&gt;ed in&lt;t1/&gt; the menu&lt;t2/&gt;s&lt;t3/&gt; &lt;t4/&gt;Toothed rack data tool&lt;t5/&gt; and &lt;t6/&gt;Data profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151343Z" creationid="CCYU" creationdate="20150111T151343Z">
+        <seg>此視窗可由齒條工具資料及加工資料之功能選單中開啟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This window can be open&lt;t0/&gt;ed&lt;t1/&gt; out of the menu&lt;t2/&gt;s&lt;t3/&gt; &lt;t4/&gt;Profilwheel&lt;t5/&gt; tool&lt;t6/&gt; &lt;t7/&gt;data&lt;t8/&gt; and &lt;t9/&gt;Data profiling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024656Z" creationid="CCYU" creationdate="20150111T024656Z">
@@ -72977,6 +73089,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024012Z" creationid="CCYU" creationdate="20150111T024012Z">
         <seg>工作速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working speed for X and Y-axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151242Z" creationid="CCYU" creationdate="20150111T151242Z">
+        <seg>X-和 Y-軸工作速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -79297,6 +79417,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>or max.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151201Z" creationid="CCYU" creationdate="20150111T151201Z">
+        <seg>或最大值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>or min.&lt;t3/&gt; v&lt;t4/&gt;alue.&lt;t5/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023227Z" creationid="CCYU" creationdate="20150111T023227Z">
@@ -83049,6 +83177,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T142533Z" creationid="CCYU" creationdate="20141112T142533Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151205Z" creationid="CCYU" creationdate="20150111T151205Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
