@@ -63468,6 +63468,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The zero-points G58 and G59 are zero-points for the use with the CNC function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T035358Z" creationid="CCYU" creationdate="20150111T035358Z">
+        <seg>零點 G58 和 G59 為 CNC 功能所使用之零點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The zero-sequence impedance is measured at rated frequency between the line terminals of a star-connected or zigzag-connected winding connected together, and its neutral terminal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T070445Z">
