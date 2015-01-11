@@ -25703,6 +25703,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gear data &lt;t0/&gt;with reference profile</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152306Z" creationid="CCYU" creationdate="20150111T152306Z">
+        <seg>齒輪資料與參考設定檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gear data with diameter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151632Z" creationid="CCYU" creationdate="20150111T151632Z">
@@ -61896,6 +61904,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T102216Z" creationid="Judy" creationdate="20141022T101841Z">
         <seg>第二階段為常規的 4 路短管設計，由閥門以固定閥門壓降輸出流體，固定閥門壓降由歸零點至短管位移成正比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selection is made&lt;t0/&gt; with the b&lt;t1/&gt;utton &lt;t2/&gt;"&lt;t3/&gt;Basic rack pro Diameter&lt;t4/&gt;"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152304Z" creationid="CCYU" creationdate="20150111T152304Z">
+        <seg>可藉由 "&lt;t3/&gt;基本齒條直徑&lt;t4/&gt;" 按鈕來選擇。</seg>
       </tuv>
     </tu>
     <tu>
