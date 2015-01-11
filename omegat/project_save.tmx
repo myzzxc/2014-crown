@@ -13667,6 +13667,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean the &lt;t0/&gt;flange of the diamond wheel and install&lt;t1/&gt; diamond wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012532Z" creationid="CCYU" creationdate="20150111T012532Z">
+        <seg>清潔鑽石輪邊緣並安裝鑽石輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cleaning Frequency</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145228Z" creationid="Judy" creationdate="20150109T145228Z">
@@ -38464,6 +38472,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mounting the diamond dressing wheel &lt;t0/&gt;VPG</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012358Z" creationid="CCYU" creationdate="20150111T012358Z">
+        <seg>安裝鑽石修整砂輪 VPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mounting the diamond dressing wheel VPG</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T015050Z" creationid="Judy" creationdate="20150110T015050Z">
@@ -46966,6 +46982,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074609Z" creationid="CCYU" creationdate="20141025T074609Z">
         <seg>拆除兩顆固定螺絲將零件由安裝台上鬆脫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the safety cover by loosening the screws on the outside</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012454Z" creationid="CCYU" creationdate="20150111T012454Z">
+        <seg>鬆開外部螺絲以拆除安全蓋</seg>
       </tuv>
     </tu>
     <tu>
@@ -66548,6 +66572,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tighten diamond wheel with the 3 screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012602Z" creationid="CCYU" creationdate="20150111T012602Z">
+        <seg>以 3 顆螺絲鎖緊鑽石輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tighten item 10 &lt;t0/&gt;with&lt;t1/&gt; item 1 by a spanner.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T035837Z" creationid="CCYU" creationdate="20141025T035837Z">
@@ -66953,6 +66985,14 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T090820Z">
         <seg>為了減少計算的要求，相關性操作將每個區塊作快速傅立裡葉轉換 (FFT) 後於頻域中進行，並遵守
 卷積定理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove the hydraulic lock&lt;t0/&gt; &lt;t1/&gt;nut loosen t&lt;t2/&gt;he pressure screws till&lt;t3/&gt; 2 or 3 threads engaged</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012332Z" creationid="CCYU" creationdate="20150111T012332Z">
+        <seg>若要拆除液壓固定螺母，鬆開壓力螺絲至僅鎖入 2 至 3 螺紋</seg>
       </tuv>
     </tu>
     <tu>
@@ -68833,6 +68873,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011719Z" creationid="CCYU" creationdate="20150111T011350Z">
         <seg>使用液壓固定螺母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the provide wrench remove the lock nut</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012352Z" creationid="CCYU" creationdate="20150111T012352Z">
+        <seg>使用原廠提供之板手拆除固定螺母</seg>
       </tuv>
     </tu>
     <tu>
