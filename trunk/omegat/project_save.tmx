@@ -6654,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ATTENTION COLLISON DANGER BY CYLINDERICAL WHEELS</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084815Z" creationid="CCYU" creationdate="20150111T084815Z">
+        <seg>注意圓柱輪的碰撞危險</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AUTH</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T080502Z" creationid="CCYU" creationdate="20141025T080502Z">
@@ -60956,6 +60964,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reworking cycle is the same in the profiling date input.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084635Z" creationid="CCYU" creationdate="20150111T084635Z">
+        <seg>再加工循環與加工日期輸入相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The risk is obvious for a single-phase winding, but it can also exist for a three-phase winding if the primary winding voltage becomes asymmetric, as occurs during earth faults.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141118T120133Z" creationid="CCYU" creationdate="20141118T115955Z">
@@ -61424,6 +61440,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T152149Z" creationid="CCYU" creationdate="20141115T075750Z">
         <seg>指定之測試電壓應施加於最高電壓繞組之線路端子和地線之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spindle speed is different for OD dressing and is input in a sperate window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084559Z" creationid="CCYU" creationdate="20150111T084559Z">
+        <seg>外徑修整之主軸轉速不同，且於不同視窗中輸入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72537,6 +72561,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030405Z" creationid="CCYU" creationdate="20150111T030405Z">
         <seg>可藉由量測或藉由移動選單中“刮過”並讀取數值以取得此數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can have 3 different Y axis start postions and over travels to select from.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T084740Z" creationid="CCYU" creationdate="20150111T084740Z">
+        <seg>有 3 組不同的 Y 軸起始點和行程可供選擇。</seg>
       </tuv>
     </tu>
     <tu>
