@@ -10648,6 +10648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the program, the axis will return to the start position and a new zero point will be set from the last pass when reworking is selected; so you can restart from where you left off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T140613Z" creationid="CCYU" creationdate="20150111T140601Z">
+        <seg>程序結束前，軸將會回到起始位置，且當選擇再加工時新零點將由最後一道加工設定；可從結束位置重新開始加工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the program, the axis will return to the&lt;t0/&gt;ir&lt;t1/&gt; start position and &lt;t2/&gt;the&lt;t3/&gt; new zero point will be &lt;t4/&gt;saved when reworking is selected.&lt;t5/&gt; Now the program can be started again and the threaded wheel will be &lt;t6/&gt;dressed&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T091518Z" creationid="CCYU" creationdate="20150111T091518Z">
