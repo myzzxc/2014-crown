@@ -23213,6 +23213,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each infeed you can select the spindle speed S1 or S2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094441Z" creationid="CCYU" creationdate="20150111T094441Z">
+        <seg>各組進料可選擇主軸速度 S1 或 S2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each required PD measurement step in the test sequence, PD measurements shall be made and recorded on all the line terminals equipped with bushings with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV, during the test, however if there are more than six such terminals then only six measurements need to be made (one on each of the highest voltage terminals) unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T162015Z">
@@ -59116,6 +59124,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum number of different infeed is limited to 5.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094402Z" creationid="CCYU" creationdate="20150111T094402Z">
+        <seg>最多不同進料限制數目為 5 種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum temperature and the range of change in temperature in the expansion chamber are 823.17 K and 83.41 K for the case with MR, and these are 811.25 K and 117.16 K for the case without MR; whereas, these quantities in the compression chamber are 321.38 K and 30.90 K for the case with MR, and are 341.48 K and 45.7 K for the case without MR.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T072940Z">
@@ -63384,6 +63400,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160612Z" creationid="Judy" creationdate="20141122T160612Z">
         <seg>測試電壓值依據 IEC 60060-1 之原則所決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values for S1 and S2 are input by the “WORK PIECE MENU”.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094522Z" creationid="CCYU" creationdate="20150111T094522Z">
+        <seg>S1 和 S2 之數值於 “工件選單” 中輸入。</seg>
       </tuv>
     </tu>
     <tu>
