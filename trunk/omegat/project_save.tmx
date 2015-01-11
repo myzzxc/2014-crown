@@ -25305,8 +25305,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>Grinding wheel flanges with a 1;3 long taper can be mounted directly on th&lt;t0/&gt;e machine and clamped with the hydraulic l&lt;t1/&gt;ocknut.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T010924Z" creationid="CCYU" creationdate="20150111T010854Z">
-        <seg>側緣具有 1；3 長錐之砂輪，可以直接安裝於機台上並以液壓鎖固定。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011613Z" creationid="CCYU" creationdate="20150111T010854Z">
+        <seg>側緣具有 1；3 長錐之砂輪，可以直接安裝於機台上並以液壓固定螺母鎖定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36891,6 +36891,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T025205Z" creationid="CCYU" creationdate="20141025T025205Z">
         <seg>請確保勿損傷接線盒體與盒蓋表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure that the pressure screw are only engaged by 2 to 3 threads</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011453Z" creationid="CCYU" creationdate="20150111T011453Z">
+        <seg>確保壓力螺絲僅鎖入 2 至 3 螺紋</seg>
       </tuv>
     </tu>
     <tu>
@@ -68777,6 +68785,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T025026Z">
         <seg>使用紅外線測溫儀準確地評估扁胚、小胚或中胚的冷卻需求，以確保產品一致性，並為設備操作員提供冷卻過程中重要的即時溫度資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the h&lt;t0/&gt;ydraulic locknut.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011554Z" creationid="CCYU" creationdate="20150111T011350Z">
+        <seg>使用液壓固定輪母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the provide wrench tighten the locknut on the arbour (left hand thread)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T011537Z" creationid="CCYU" creationdate="20150111T011537Z">
+        <seg>使用原廠提供之板手Using the provide wrench tighten the locknut on the arbour (left hand thread)</seg>
       </tuv>
     </tu>
     <tu>
