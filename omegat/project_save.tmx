@@ -10624,6 +10624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013331Z" creationid="CCYU" creationdate="20150111T013331Z">
+        <seg>注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attention:&lt;t0/&gt; All  data&lt;t1/&gt; &lt;t2/&gt;in the control unit &lt;t3/&gt;will be overwritten</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T162835Z" creationid="Judy" creationdate="20150110T162454Z">
@@ -16766,6 +16774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dismantling (is done) in reverse order</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013322Z" creationid="CCYU" creationdate="20150111T013322Z">
+        <seg>以上述相反順序進行拆除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dismantling instructions:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T074418Z" creationid="CCYU" creationdate="20141025T074418Z">
@@ -17691,6 +17707,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T132730Z" creationid="CCYU" creationdate="20141112T132730Z">
         <seg>測試電壓施加於一組或多組線路端子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During&lt;t0/&gt; setup profiling with opened door it is imperative to wear safety !</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013503Z" creationid="CCYU" creationdate="20150111T013503Z">
+        <seg>於開門狀態設定加工程序時就必須穿戴安全護具！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44520,6 +44544,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please be very cautious and do not touch!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013556Z" creationid="CCYU" creationdate="20150111T013556Z">
+        <seg>請非常小心且請勿觸碰！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check first of all that the device is complete and is not damaged in any way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T094548Z">
@@ -48439,6 +48471,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T130731Z" creationid="CCYU" creationdate="20150108T130731Z">
         <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safety &lt;t0/&gt;precautions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013327Z" creationid="CCYU" creationdate="20150111T013327Z">
+        <seg>安全措施</seg>
       </tuv>
     </tu>
     <tu>
@@ -56096,6 +56136,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140714T021147Z">
         <seg>鋼刷直徑列於表 I，髒污清潔鋼刷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The diamond wheel of the profiling unit may heat up!</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T013536Z" creationid="CCYU" creationdate="20150111T013536Z">
+        <seg>加單元之鑽石輪會產生高溫！</seg>
       </tuv>
     </tu>
     <tu>
