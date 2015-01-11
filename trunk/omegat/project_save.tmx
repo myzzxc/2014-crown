@@ -15830,6 +15830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data O.D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044811Z" creationid="CCYU" creationdate="20150111T044811Z">
+        <seg>外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data axis</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T022149Z" creationid="CCYU" creationdate="20150111T022149Z">
@@ -23127,8 +23135,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>For example when finish dressing a 4 MOD wheel by using a standard factor of 3 to determine the finish depth plus a safety factor, 4 x 3 = 12mm pull out is required.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T145136Z" creationid="Judy" creationdate="20150110T145136Z">
-        <seg>例如 4  MOD 輪之最終整修時，使用 3 倍標準係數來決定加工深度加上安全係數，需要 4 × 3 = 12 mm 拉出量。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044939Z" creationid="Judy" creationdate="20150110T145136Z">
+        <seg>例如 4  MOD 輪之最終修整時，使用 3 倍標準係數來決定加工深度加上安全係數，需要 4 × 3 = 12 mm 拉出量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25921,16 +25929,16 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>H111: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; only with closed machine-hood</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115019Z" creationid="Judy" creationdate="20150109T115019Z">
-        <seg>H111：僅能於機台外罩關閉時進行外徑整修</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044934Z" creationid="Judy" creationdate="20150109T115019Z">
+        <seg>H111：僅能於機台外罩關閉時進行外徑修整</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>H112: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; is set up</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115239Z" creationid="Judy" creationdate="20150109T115028Z">
-        <seg>H112：外徑整修已設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044846Z" creationid="Judy" creationdate="20150109T115028Z">
+        <seg>H112：外徑修整已設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -25953,8 +25961,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>H115: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; is not set up</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T115300Z" creationid="Judy" creationdate="20150109T115300Z">
-        <seg>H115：外徑整修未設定</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044857Z" creationid="Judy" creationdate="20150109T115300Z">
+        <seg>H115：外徑修整未設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -26041,8 +26049,8 @@ B.2.3 感應傳輸</seg>
       <tuv lang="EN-US">
         <seg>H126: &lt;t0/&gt;O.D.dressing&lt;t1/&gt; diamond not swiveled in</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120136Z" creationid="Judy" creationdate="20150109T120136Z">
-        <seg>H126：外徑整修鑽石未旋入</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044905Z" creationid="Judy" creationdate="20150109T120136Z">
+        <seg>H126：外徑修整鑽石未旋入</seg>
       </tuv>
     </tu>
     <tu>
@@ -31815,8 +31823,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>In order to start this function, overdressing and profiling first need to be set up.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T153807Z" creationid="Judy" creationdate="20150110T153807Z">
-        <seg>若要啟動此功能，必須先設定整修和加工。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044948Z" creationid="Judy" creationdate="20150110T153807Z">
+        <seg>若要啟動此功能，必須先設定修整和加工。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49863,6 +49871,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141103T135345Z" creationid="CCYU" creationdate="20141103T135345Z">
         <seg>繞組電阻量測期間之冷卻設備設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup O.D.dressing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044838Z" creationid="CCYU" creationdate="20150111T044838Z">
+        <seg>設定外徑修整</seg>
       </tuv>
     </tu>
     <tu>
@@ -75369,16 +75385,24 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>dress dia  pneumatic” - If  a pneumatic outside diameter dresser is available, this option enables this feature in the Software.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T150003Z" creationid="Judy" creationdate="20150110T145812Z">
-        <seg>修整” - 若有氣動外徑整修器，軟體中的此選項能啟用此功能。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044943Z" creationid="Judy" creationdate="20150110T145812Z">
+        <seg>修整” - 若有氣動外徑修整器，軟體中的此選項能啟用此功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dressing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044817Z" creationid="CCYU" creationdate="20150111T044817Z">
+        <seg>修整資料</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>dressing diamond not swiveled out</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T120213Z" creationid="Judy" creationdate="20150109T120213Z">
-        <seg>整修鑽石未旋出</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044912Z" creationid="Judy" creationdate="20150109T120213Z">
+        <seg>修整鑽石未旋出</seg>
       </tuv>
     </tu>
     <tu>
