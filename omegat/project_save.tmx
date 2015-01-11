@@ -18591,6 +18591,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXTREME CARE must be taken by infeeding the wheel into the diamond wheel, as you approach the wheel do not use to large of incremental feed or you can quickly damage or ruin the wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134342Z" creationid="CCYU" creationdate="20150111T134342Z">
+        <seg>加工輪進入鑽石輪時必須極度小心，接近鑽石輪時不使用大幅進料以避免快速損壞砂輪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EYE CONTACT:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140817T145339Z">
@@ -71105,6 +71113,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T074601Z">
         <seg>我們的產品能將油污從水中吸附，使水能正常丟棄處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend only using the 0.01mm incremental infeed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134426Z" creationid="CCYU" creationdate="20150111T134426Z">
+        <seg>建議僅使用 0.01 mm 步進進料。</seg>
       </tuv>
     </tu>
     <tu>
