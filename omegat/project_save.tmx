@@ -16390,6 +16390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data&lt;t0/&gt; &lt;t1/&gt;axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135647Z" creationid="CCYU" creationdate="20150112T135647Z">
+        <seg>軸資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data&lt;t0/&gt; &lt;t1/&gt;p&lt;t2/&gt;rofili&lt;t3/&gt;ng</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151848Z" creationid="CCYU" creationdate="20150111T023935Z">
@@ -60436,6 +60444,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The minimum and maximum infeed will be considered&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135634Z" creationid="CCYU" creationdate="20150112T135634Z">
+        <seg>將考慮的最小和最大進料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The minimum coating weights for zinc-coated steel must comply with ASTM A153.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T042703Z">
@@ -60952,6 +60968,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155321Z" creationid="CCYU" creationdate="20141112T155321Z">
         <seg>整個測試期間應持續觀測至少一個通道之局部放電等級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The partitioning of the stroke will be done automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135603Z" creationid="CCYU" creationdate="20150112T135603Z">
+        <seg>行程將自動完成分段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69108,6 +69132,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To get into the menu &lt;t0/&gt;“&lt;t1/&gt;Data Axis&lt;t2/&gt;”&lt;t3/&gt; &lt;t4/&gt;you first must enter a pas&lt;t5/&gt;s&lt;t6/&gt;word</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135655Z" creationid="CCYU" creationdate="20150112T135655Z">
+        <seg>若要進入 “軸資料” 功能選單，必須先輸入密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To help readers understand the dynamic processes inside the current Stirling engine, two videos have been made.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140823T205925Z">
@@ -74405,10 +74437,26 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zero point&lt;t0/&gt; X&lt;t1/&gt;: &lt;t2/&gt;Distance between the middle of the spindle axis to the middle &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;t&lt;t6/&gt;he profiling wheel axis, if the profiling axis is standing at 0° (degrees)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135756Z" creationid="CCYU" creationdate="20150112T135756Z">
+        <seg>X 零點：當加工軸位於 0° （度）位置時，主軸中心至加工輪軸中心之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zero point&lt;t0/&gt; Y:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025046Z" creationid="CCYU" creationdate="20150111T025046Z">
         <seg>Y 零點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero point&lt;t0/&gt; Y&lt;t1/&gt;: &lt;t2/&gt;Dista&lt;t3/&gt;nce &lt;t4/&gt;between the right side &lt;t5/&gt;of t&lt;t6/&gt;he profiling wheel &lt;t7/&gt;to t&lt;t8/&gt;he left side &lt;t9/&gt;of t&lt;t10/&gt;he form &lt;t11/&gt;wheel&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135830Z" creationid="CCYU" creationdate="20150112T135830Z">
+        <seg>Y 零點：加工輪右側和成型輪左側之距離。</seg>
       </tuv>
     </tu>
     <tu>
