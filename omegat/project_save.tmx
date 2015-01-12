@@ -11962,6 +11962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-2 Data&lt;t0/&gt; &lt;t1/&gt;Razor P&lt;t2/&gt;rofiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143223Z" creationid="CCYU" creationdate="20150112T143223Z">
+        <seg>圖 5-2 刀片加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bild 5-2 Data&lt;t0/&gt; &lt;t1/&gt;profili&lt;t2/&gt;n&lt;t3/&gt;g</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151230Z" creationid="CCYU" creationdate="20150111T151230Z">
@@ -16442,6 +16450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044803Z" creationid="CCYU" creationdate="20150111T044803Z">
         <seg>輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data&lt;t0/&gt; &lt;t1/&gt;Razor Profili&lt;t2/&gt;ng</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143215Z" creationid="CCYU" creationdate="20150112T143215Z">
+        <seg>刀片加工資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -56870,8 +56886,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>The angle gamma (&lt;t0/&gt;) will be calculated automatically&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142916Z" creationid="CCYU" creationdate="20150112T142916Z">
-        <seg>此過渡圓弧半徑為自動計算。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143048Z" creationid="CCYU" creationdate="20150112T142916Z">
+        <seg>gamma 角度 (&lt;t0/&gt;) 將自動計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66912,6 +66928,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141017T103613Z">
         <seg>此結果也顯示出少量的多孔性介質便足以使移動式再生器於當前的引擎中展現非常大的效應。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This angle has to be entered at the pre-profiling unit</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143203Z" creationid="CCYU" creationdate="20150112T143203Z">
+        <seg>此角度必須輸入於預加工單元</seg>
       </tuv>
     </tu>
     <tu>
