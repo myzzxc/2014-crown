@@ -7486,10 +7486,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After &lt;t0/&gt;enter&lt;t1/&gt;ing&lt;t2/&gt; the gear&lt;t3/&gt; data and pushing the button &lt;t4/&gt;“calculate geometry”&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; values &lt;t8/&gt;d_f&lt;t9/&gt; and &lt;t10/&gt;d_ff&lt;t11/&gt; will be calculated&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T131859Z" creationid="CCYU" creationdate="20150112T131859Z">
+        <seg>輸入齒輪資料並按下 “計算尺寸”後，將計算 d_f 和 d_ff 值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After &lt;t0/&gt;this there is a transition&lt;t1/&gt; radius into&lt;t2/&gt; the outside diameter of the form &lt;t3/&gt;grinding &lt;t4/&gt;wheel.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122917Z" creationid="CCYU" creationdate="20150112T122917Z">
         <seg>此加工之後，進入成型加工輪外徑處有一過渡半徑，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After &lt;t0/&gt;this&lt;t1/&gt; there &lt;t2/&gt;is&lt;t3/&gt; a transition&lt;t4/&gt; radius into the &lt;t5/&gt;straight line of the outside&lt;t6/&gt; diameter &lt;t7/&gt;of&lt;t8/&gt; the form&lt;t9/&gt; grinding&lt;t10/&gt; wheel.&lt;t11/&gt; &lt;t12/&gt;The distance &lt;t13/&gt;is &lt;t14/&gt;called&lt;t15/&gt; „&lt;t16/&gt;to grind start&lt;t17/&gt;“&lt;t18/&gt; [&lt;t19/&gt; to grind start]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T131708Z" creationid="CCYU" creationdate="20150112T131708Z">
+        <seg>此加工之後，進入成型加工輪外徑直線處有一過渡半徑，此距離稱為 "研磨起點"。[研磨起點]</seg>
       </tuv>
     </tu>
     <tu>
