@@ -10816,6 +10816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the value &lt;t0/&gt;addendum modification,&lt;t1/&gt; &lt;t2/&gt;you can &lt;t3/&gt;select between &lt;t4/&gt;Absolute&lt;t5/&gt; &lt;t6/&gt;or&lt;t7/&gt; a &lt;t8/&gt;Coefficient&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132254Z" creationid="CCYU" creationdate="20150112T132254Z">
+        <seg>於&lt;t0/&gt;齒冠變位&lt;t1/&gt;值處，&lt;t2/&gt;可選擇&lt;t4/&gt;絕對&lt;t5/&gt;或&lt;t7/&gt;&lt;t8/&gt;係數&lt;t9/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the values &lt;t0/&gt;addendum modification, addendum of basic rack, &lt;t1/&gt;dedendum&lt;t2/&gt; of basic rack, bottom radius of basic rack and addendum &lt;t3/&gt;changement&lt;t4/&gt;, &lt;t5/&gt;you can &lt;t6/&gt;select &lt;t7/&gt;between &lt;t8/&gt;A&lt;t9/&gt;bsolute&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; a&lt;t13/&gt; &lt;t14/&gt;Coefficient&lt;t15/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120250Z" creationid="CCYU" creationdate="20150112T115711Z">
@@ -20988,6 +20996,14 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T044123Z">
         <seg>光纖測溫器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fictitious root diameter of the &lt;t0/&gt;toothing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132558Z" creationid="CCYU" creationdate="20150112T132558Z">
+        <seg>齒輪連接之虛擬根直徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -31393,6 +31409,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101117Z" creationid="Judy" creationdate="20150110T101117Z">
         <seg>若需以步進方式驅動軸，可由選擇開關調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose the &lt;t10/&gt;Coefficient&lt;t11/&gt;, the values are marked with &lt;t12/&gt;an&lt;t13/&gt; “&lt;t14/&gt;c&lt;t15/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132335Z" creationid="CCYU" creationdate="20150112T132335Z">
+        <seg>若選擇&lt;t10/&gt;係數&lt;t11/&gt;，數值將會標示&lt;t13/&gt; “&lt;t14/&gt;c&lt;t15/&gt;”</seg>
       </tuv>
     </tu>
     <tu>
@@ -49090,6 +49114,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root circle diameter&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;fv&lt;t3/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132447Z" creationid="CCYU" creationdate="20150112T132447Z">
+        <seg>根圓直徑&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;fv&lt;t3/&gt;)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Routine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141109T164955Z" creationid="Judy" creationdate="20141109T164955Z">
@@ -55528,6 +55560,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153612Z">
         <seg>低壓繞組 I 相的相量指向根據連接所造成的感應電壓關係而定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Th&lt;t0/&gt;us&lt;t1/&gt;, the possible &lt;t2/&gt;input data&lt;t3/&gt; c&lt;t4/&gt;an&lt;t5/&gt; &lt;t6/&gt;better be &lt;t7/&gt;assessed&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T131948Z" creationid="CCYU" creationdate="20150112T131948Z">
+        <seg>因此能更佳地評估輸入資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68616,6 +68656,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005407Z" creationid="Judy" creationdate="20150110T005407Z">
         <seg>運行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tip circle diameter&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;a&lt;t3/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132451Z" creationid="CCYU" creationdate="20150112T132425Z">
+        <seg>齒尖圓直徑&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;a&lt;t3/&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
