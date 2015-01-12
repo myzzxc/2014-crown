@@ -8094,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All other keys are locked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145555Z" creationid="CCYU" creationdate="20150112T145555Z">
+        <seg>其他按鍵皆鎖定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All other necessary trouble shooting eliminations and maintenance work can only be performed by authorized personal of the manufacturer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T132431Z" creationid="CCYU" creationdate="20150108T132431Z">
@@ -10824,6 +10832,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the end of the program, the axis will return to the&lt;t0/&gt;ir&lt;t1/&gt; start position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145326Z" creationid="CCYU" creationdate="20150112T145326Z">
+        <seg>程序結束前，軸將會回到起始位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the test, the &lt;t0/&gt;voltage shall be reduced rapidly to less than one-third of the test value before switching off.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T124115Z" creationid="CCYU" creationdate="20141112T124115Z">
@@ -12750,6 +12766,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T095037Z" creationid="CCYU" creationdate="20150111T095037Z">
         <seg>預加工首先將會完全修整，接著進行下一次修整直到加工輪加工完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By pressing &lt;t0/&gt;the &lt;t1/&gt;cycle stop&lt;t2/&gt; key&lt;t3/&gt; or Emergency &lt;t4/&gt;–&lt;t5/&gt;STOP&lt;t6/&gt; key, &lt;t7/&gt; the X –axis&lt;t8/&gt; will&lt;t9/&gt; move to the safety position and &lt;t10/&gt;the Y-axis and the spindle are stopped synchronously&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145423Z" creationid="CCYU" creationdate="20150112T145423Z">
+        <seg>按下循環停止或緊急停止按鈕後，X-軸將移動至安全位置而 Y-軸和主軸將同步停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18707,6 +18731,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151330Z" creationid="CCYU" creationdate="20150111T151330Z">
         <seg>自動加工過程中，視窗將顯示所有資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>During the program is run you can only change to the diagnostic menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145557Z" creationid="CCYU" creationdate="20150112T145521Z">
+        <seg>程序運行期間僅能切換至故障診斷功能選單，</seg>
       </tuv>
     </tu>
     <tu>
@@ -32045,6 +32077,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;t0/&gt;both cases, the zero point will be saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145436Z" creationid="CCYU" creationdate="20150112T145436Z">
+        <seg>兩種情況下零點位置皆會儲存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;t0/&gt;both cases&lt;t1/&gt; the zero point is stored</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T093652Z" creationid="CCYU" creationdate="20150111T093652Z">
@@ -44360,6 +44400,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the program has been started the display will show the actual data..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145301Z" creationid="CCYU" creationdate="20150112T145301Z">
+        <seg>當程序啟動後，螢幕將顯示實際資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the tool data has been correctly entered the control will make a recommendation for the “TOTAL X” which can be accept.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T094116Z" creationid="CCYU" creationdate="20150111T094116Z">
@@ -44788,6 +44836,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025436Z" creationid="CCYU" creationdate="20150111T025436Z">
         <seg>加工輪選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option &lt;t0/&gt;Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145606Z" creationid="CCYU" creationdate="20150112T145606Z">
+        <seg>選配刀片</seg>
       </tuv>
     </tu>
     <tu>
@@ -69375,6 +69431,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>To do this the safety hood must be closed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T135739Z" creationid="CCYU" creationdate="20150111T135739Z">
+        <seg>必須於安全罩關閉時進行此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, the safety hood must be closed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145257Z" creationid="CCYU" creationdate="20150112T145257Z">
         <seg>必須於安全罩關閉時進行此操作。</seg>
       </tuv>
     </tu>
