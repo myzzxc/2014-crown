@@ -7790,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the wheel has been positioned you have to operate the NP switch (zeropoint).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144845Z" creationid="CCYU" creationdate="20150112T144845Z">
+        <seg>砂輪定位後必須操作 NP 開關（零點）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After this then the  X- and Y-Axes will move to there start positions and the finish profiling setup is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134833Z" creationid="CCYU" creationdate="20150111T134833Z">
@@ -73913,6 +73921,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T042536Z">
         <seg>Raytek 和  Ircon  擁有合併超過 2 個世紀的經驗，能提供最廣泛溫度範圍的紅外解決方案於非接觸式溫度量測，包括固定紅外線感測器，紅外線線性掃描及熱影像儀，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With mu&lt;t0/&gt;lit start wheels the separation will always be made at the right rerouting point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144805Z" creationid="CCYU" creationdate="20150112T144805Z">
+        <seg>使用多起始輪時，將永遠於右改道點進行分隔。</seg>
       </tuv>
     </tu>
     <tu>
