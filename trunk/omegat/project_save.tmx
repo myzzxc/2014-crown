@@ -4971,6 +4971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;After this point the profile will be produced on the grinding wheel&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132857Z" creationid="CCYU" creationdate="20150112T132857Z">
+        <seg>砂輪將於此點之後進行輪廓加工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;Check brush diameter (Table B5) and attach the brush to a drilling machine or a battery screwdriver.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T044937Z">
@@ -21008,6 +21016,14 @@ F114: Fehler CNC  …</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fictitiously produced root form&lt;t0/&gt; diameter&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132746Z" creationid="CCYU" creationdate="20150112T132735Z">
+        <seg>虛擬根部直徑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fig 2 Name Plate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T054940Z" creationid="CCYU" creationdate="20141025T054940Z">
@@ -26435,6 +26451,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T082000Z">
         <seg>地面控制點 (Ground control points, GCPs) 為確定關係所必須的地表資訊，因此必須在校正影像之前取得地面控制點數據 (由農林航空測量所量測之 1/5000 照片地圖中讀取)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ground root form circle&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;Ffev&lt;t3/&gt;):</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132652Z" creationid="CCYU" creationdate="20150112T132652Z">
+        <seg>根部成型圓&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;Ffev&lt;t3/&gt;)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68656,6 +68680,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T005407Z" creationid="Judy" creationdate="20150110T005407Z">
         <seg>運行時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tip &lt;t0/&gt;circle diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132908Z" creationid="CCYU" creationdate="20150112T132908Z">
+        <seg>齒尖圓直徑</seg>
       </tuv>
     </tu>
     <tu>
