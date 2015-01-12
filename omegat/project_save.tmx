@@ -7798,6 +7798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After this the spindle will be stopped at the next rerouting pointand the X and Y axis will &lt;t0/&gt;return&lt;t1/&gt; to their start position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145023Z" creationid="CCYU" creationdate="20150112T145010Z">
+        <seg>此後主軸將停止於下一個改道點，而 X 和 Y 軸將回到其起始點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After this then the  X- and Y-Axes will move to there start positions and the finish profiling setup is complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T134833Z" creationid="CCYU" creationdate="20150111T134833Z">
@@ -11160,6 +11168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic&lt;t0/&gt; &lt;t1/&gt;Profiling&lt;t2/&gt; Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145218Z" creationid="CCYU" creationdate="20150112T145218Z">
+        <seg>刀片自動加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auxiliary &lt;t0/&gt;variables:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154353Z" creationid="CCYU" creationdate="20141104T154353Z">
@@ -12022,6 +12038,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T150820Z" creationid="CCYU" creationdate="20150111T024146Z">
         <seg>圖 5-3 加工輪自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bild 5-4 Automatic&lt;t0/&gt; &lt;t1/&gt;profiling&lt;t2/&gt; Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145231Z" creationid="CCYU" creationdate="20150112T145231Z">
+        <seg>圖 5-4 刀片自動加工</seg>
       </tuv>
     </tu>
     <tu>
@@ -24506,6 +24530,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141106T161708Z" creationid="CCYU" creationdate="20141101T135012Z">
         <seg>實務上，其測定為自冷卻設備返回油槽之液體溫度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For setup with open safety hood &lt;t0/&gt; the spindle&lt;t1/&gt; speed &lt;t2/&gt; is limi&lt;t3/&gt;ted to 45RPM and the axis speed is limited to 2m&lt;t4/&gt; per minute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145151Z" creationid="CCYU" creationdate="20150112T145151Z">
+        <seg>當於安全罩開啟進行設定，主軸轉速限制於 45RPM 且軸移動速率限制為每分鐘 2 公尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57148,6 +57180,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The automatic program can only be started if the set up process has been finished correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145120Z" creationid="CCYU" creationdate="20150112T145120Z">
+        <seg>自動程序僅於正確地完成程序設定後方能啟動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The aver&lt;t0/&gt;age liquid temperature is in principle intended to be the average temperature of the cooling liquid in the windings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T140407Z" creationid="CCYU" creationdate="20141101T140407Z">
@@ -61744,6 +61784,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124101Z" creationid="CCYU" creationdate="20150108T124101Z">
         <seg>加工機 PM280T / PM550T 經認證可用於齒側研磨機上之陶瓷結合劑砂輪前加工或最終加工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The profiling set up is now finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145048Z" creationid="CCYU" creationdate="20150112T145048Z">
+        <seg>此時加工測定完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72961,6 +73009,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T090959Z" creationid="CCYU" creationdate="20150111T090959Z">
         <seg>當外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Profiling has been set up you can go to AUTOMATIC PROFILING.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T145253Z" creationid="CCYU" creationdate="20150112T145253Z">
+        <seg>當完成加工設定後，可進行自動加工。</seg>
       </tuv>
     </tu>
     <tu>
