@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute Value = Coefficient * &lt;t0/&gt;mn</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120639Z" creationid="CCYU" creationdate="20150112T120639Z">
+        <seg>絕對值 = 係數 * mn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absolute value of sum of the corrected winding temperature values multiplied by sequential temperature differences:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T154024Z" creationid="CCYU" creationdate="20141104T154024Z">
