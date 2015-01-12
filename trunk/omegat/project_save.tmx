@@ -26455,6 +26455,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ground root form circle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132918Z" creationid="CCYU" creationdate="20150112T132918Z">
+        <seg>根部成型圓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ground root form circle&lt;t0/&gt; (&lt;t1/&gt;d&lt;t2/&gt;Ffev&lt;t3/&gt;):</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132652Z" creationid="CCYU" creationdate="20150112T132652Z">
@@ -49134,6 +49142,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T072529Z" creationid="CCYU" creationdate="20141207T072529Z">
         <seg>具有軟面擺設之房間、機械室或工業室，天花板或牆面具有少量吸音材料 (例如部份吸音天花板)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root circle diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T132924Z" creationid="CCYU" creationdate="20150112T132924Z">
+        <seg>根圓直徑</seg>
       </tuv>
     </tu>
     <tu>
