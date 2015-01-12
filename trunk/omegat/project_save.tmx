@@ -16166,6 +16166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DRiving out angle&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121840Z" creationid="CCYU" creationdate="20150112T121840Z">
+        <seg>驅動角：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DS &lt;t0/&gt;–</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T140043Z">
@@ -18199,6 +18207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Driving out angle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121842Z" creationid="CCYU" creationdate="20150112T121842Z">
+        <seg>驅動角：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Driving speed of the B-axis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024106Z" creationid="CCYU" creationdate="20150111T024106Z">
@@ -19323,6 +19339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141022T132218Z" creationid="CCYU" creationdate="20141022T132218Z">
         <seg>端板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End of the form grinding wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121955Z" creationid="CCYU" creationdate="20150112T121853Z">
+        <seg>成型砂輪結束點</seg>
       </tuv>
     </tu>
     <tu>
