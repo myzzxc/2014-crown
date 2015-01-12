@@ -1751,6 +1751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>14&lt;t0/&gt; von &lt;t1/&gt;14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135942Z" creationid="CCYU" creationdate="20150112T135942Z">
+        <seg>14&lt;t0/&gt; / &lt;t1/&gt;14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>15 pages including 3 anne&lt;t0/&gt;xes which form an integral part &lt;t1/&gt;of this assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140719T100834Z">
@@ -17782,6 +17790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance between the diamond&lt;t0/&gt; wheels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135910Z" creationid="CCYU" creationdate="20150112T135910Z">
+        <seg>鑽石輪之間距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distance between the right side of the &lt;t0/&gt;tool&lt;t1/&gt; and left side of&lt;t2/&gt; t&lt;t3/&gt;he &lt;t4/&gt;workp&lt;t5/&gt;iece.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025118Z" creationid="CCYU" creationdate="20150111T025118Z">
@@ -17794,6 +17810,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T030400Z" creationid="CCYU" creationdate="20150111T030400Z">
         <seg>工具右端與工件左端之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distance of Discs&lt;t0/&gt; (optional)&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135856Z" creationid="CCYU" creationdate="20150112T135856Z">
+        <seg>碟盤距離（選配）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44596,6 +44620,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151443Z" creationid="CCYU" creationdate="20150111T151443Z">
         <seg>選配齒條</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option form grinding wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135924Z" creationid="CCYU" creationdate="20150112T135924Z">
+        <seg>選配成型砂輪</seg>
       </tuv>
     </tu>
     <tu>
@@ -71549,6 +71581,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Version &lt;t0/&gt;V2.&lt;t1/&gt;11</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135933Z" creationid="CCYU" creationdate="20150112T135933Z">
+        <seg>版本 &lt;t0/&gt;V2.&lt;t1/&gt;11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version V2.05</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151448Z" creationid="CCYU" creationdate="20150111T151448Z">
@@ -74169,6 +74209,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T090857Z" creationid="Judy" creationdate="20150110T090857Z">
         <seg>可逐步驅動或連續驅動此軸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can find the value by measuring or by „Scratching&lt;t0/&gt;“ an&lt;t1/&gt;d&lt;t2/&gt; reading the value in the Jog-&lt;t3/&gt;menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135837Z" creationid="CCYU" creationdate="20150112T135837Z">
+        <seg>可藉由量測或藉由移動選單中“刮過”並讀取數值以取得此數值。</seg>
       </tuv>
     </tu>
     <tu>
