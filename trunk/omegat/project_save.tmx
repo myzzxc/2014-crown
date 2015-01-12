@@ -19927,6 +19927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explanatory to this are the following pictures:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T114726Z" creationid="CCYU" creationdate="20150112T114726Z">
+        <seg>請見下圖解釋：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explorer</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T141924Z" creationid="Judy" creationdate="20150110T005148Z">
@@ -57412,6 +57420,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data of the gear&lt;t0/&gt; must be entered &lt;t1/&gt;in accordance with DIN 3960.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T114659Z" creationid="CCYU" creationdate="20150112T114659Z">
+        <seg>齒輪資料必須根據 DIN 3960 輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data sources used to determine physical, toxic and &lt;t0/&gt;ecotoxic&lt;t1/&gt; &lt;t2/&gt;data,&lt;t3/&gt; are indicated directly in the corresponding chapter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140808T050804Z">
@@ -77603,6 +77619,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T033804Z">
         <seg>墊料；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>gear &lt;t0/&gt;center line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T114738Z" creationid="CCYU" creationdate="20150112T114738Z">
+        <seg>齒輪中心線</seg>
       </tuv>
     </tu>
     <tu>
