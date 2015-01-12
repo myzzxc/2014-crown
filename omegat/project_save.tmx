@@ -68644,6 +68644,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To &lt;t0/&gt;grind start</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T123020Z" creationid="CCYU" creationdate="20150112T123020Z">
+        <seg>至研磨起始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To account for this effect, experience has shown that f?&lt;t13/&gt;p&lt;t14/&gt; has to be increased to a value two to ten times greater than the value derived from equation (A.5).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141203T122522Z" creationid="CCYU" creationdate="20141203T122522Z">
@@ -73261,6 +73269,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With &lt;t0/&gt;straight root&lt;t1/&gt; line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122956Z" creationid="CCYU" creationdate="20150112T122956Z">
+        <seg>使用直根線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With &lt;t0/&gt;the filter you can display certain files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044412Z" creationid="CCYU" creationdate="20150111T044412Z">
@@ -76714,6 +76730,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>d_ff (ending involute)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122343Z" creationid="CCYU" creationdate="20150112T122343Z">
+        <seg>d_ff（結束漸開線）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d_ff &lt;t0/&gt;(ending involute)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T123023Z" creationid="CCYU" creationdate="20150112T123023Z">
         <seg>d_ff（結束漸開線）</seg>
       </tuv>
     </tu>
