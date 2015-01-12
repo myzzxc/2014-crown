@@ -10762,8 +10762,8 @@
       <tuv lang="EN-US">
         <seg>At the values &lt;t0/&gt;addendum modification, addendum of basic rack, &lt;t1/&gt;dedendum&lt;t2/&gt; of basic rack, bottom radius of basic rack and addendum &lt;t3/&gt;changement&lt;t4/&gt;, &lt;t5/&gt;you can &lt;t6/&gt;select &lt;t7/&gt;between &lt;t8/&gt;A&lt;t9/&gt;bsolute&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; a&lt;t13/&gt; &lt;t14/&gt;Coefficient&lt;t15/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T115711Z" creationid="CCYU" creationdate="20150112T115711Z">
-        <seg>於齒冠變位、基本齒條之齒冠、基本齒條之齒值 &lt;t0/&gt; 齒數齒輪嚙合，增編基本齒條的 &lt;t1/&gt; 齒根 &lt;t2/&gt; 基本齒條、 底部半徑基本齒條和增編 &lt;t3/&gt; 變化 &lt;t4/&gt; ， &lt;t5/&gt; 你可以 &lt;t6/&gt; 選擇 &lt;t7/&gt; 之間 &lt;t8/&gt; A &lt;t9/&gt; bsolute &lt;t10/&gt; &lt;t11/&gt; 或 &lt;t12/&gt; &lt;t13/&gt; &lt;t14/&gt; 係數 &lt;t15/&gt; 。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120250Z" creationid="CCYU" creationdate="20150112T115711Z">
+        <seg>於齒冠變位、基準齒條之齒冠、基準齒條之齒根、基準齒條之底部半徑以及齒冠變速值中，可以選擇&lt;t8/&gt;絕對&lt;t10/&gt;或&lt;t14/&gt;係數&lt;t15/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14287,6 +14287,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141016T211407Z">
         <seg>程式碼驗證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coefficient = Absolute Value / &lt;t0/&gt;m&lt;t1/&gt;n</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120401Z" creationid="CCYU" creationdate="20150112T120401Z">
+        <seg>係數 = 絕對值 / mn</seg>
       </tuv>
     </tu>
     <tu>
@@ -31233,6 +31241,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T101117Z" creationid="Judy" creationdate="20150110T101117Z">
         <seg>若需以步進方式驅動軸，可由選擇開關調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose the &lt;t16/&gt;Coefficient&lt;t17/&gt;, &lt;t18/&gt;the values are marked with &lt;t19/&gt;an&lt;t20/&gt; “c&lt;t21/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120341Z" creationid="CCYU" creationdate="20150112T120341Z">
+        <seg>若選擇&lt;t16/&gt;係數&lt;t17/&gt;，數值標示 “c”</seg>
       </tuv>
     </tu>
     <tu>
