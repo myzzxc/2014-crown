@@ -7720,8 +7720,8 @@
       <tuv lang="EN-US">
         <seg>After the extension of the tooth tip &lt;t0/&gt;profiling (dressing)&lt;t1/&gt; will be done with a driving-out angle until the end of the grinding wheel.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122201Z" creationid="CCYU" creationdate="20150112T122201Z">
-        <seg>齒尖延伸長後，加工（修整）將以驅動角至砂輪結束點停止。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133730Z" creationid="CCYU" creationdate="20150112T122201Z">
+        <seg>齒尖延伸長後，加工（修整）將以導出角至砂輪結束點停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,8 +16224,8 @@
       <tuv lang="EN-US">
         <seg>DRiving out angle&lt;t0/&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121840Z" creationid="CCYU" creationdate="20150112T121840Z">
-        <seg>驅動角：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133717Z" creationid="CCYU" creationdate="20150112T121840Z">
+        <seg>導出角：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18265,8 +18265,8 @@
       <tuv lang="EN-US">
         <seg>Driving out angle</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121842Z" creationid="CCYU" creationdate="20150112T121842Z">
-        <seg>驅動角：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133723Z" creationid="CCYU" creationdate="20150112T121842Z">
+        <seg>導出角</seg>
       </tuv>
     </tu>
     <tu>
@@ -38275,6 +38275,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140817T071127Z">
         <seg>以保清潔及乾燥，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual root curve radius&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133832Z" creationid="CCYU" creationdate="20150112T133832Z">
+        <seg>手動根部曲線半徑：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58444,6 +58452,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fillet radius must be entered manual&lt;t0/&gt;ly&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133855Z" creationid="CCYU" creationdate="20150112T133855Z">
+        <seg>圓角半徑必須手動輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filter for the &lt;t5/&gt;“&lt;t6/&gt;off-line&lt;t7/&gt;”&lt;t8/&gt; &lt;t9/&gt;filtration scheme should be a &lt;t10/&gt;ß3≥7&lt;t11/&gt;5 filter for maximum effectiveness.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141020T103326Z">
@@ -63816,6 +63832,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T123137Z" creationid="CCYU" creationdate="20141115T113823Z">
         <seg>降低達到零電壓之時間可藉由於各全電壓測試突波前，產生與測試期間感應反向之殘餘通量至核心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tip tooth extension and the driving-out angle can be entered same as with the reference profile.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133819Z" creationid="CCYU" creationdate="20150112T133711Z">
+        <seg>齒尖延伸和導出角可輸入與參考設定檔相同數值。</seg>
       </tuv>
     </tu>
     <tu>
