@@ -12066,6 +12066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bottom radius of basic rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121113Z" creationid="CCYU" creationdate="20150112T121113Z">
+        <seg>基準齒條之底部半徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bottom-up measures and policies need to be tailored to each issue, country, and sector.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T073008Z" creationid="CCYU" creationdate="20141221T073008Z">
@@ -16418,6 +16426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134232Z">
         <seg>Decomposition point / decomposition range 分解點 / 分解點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dedendum&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121040Z" creationid="CCYU" creationdate="20150112T121040Z">
+        <seg>齒根：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46024,6 +46040,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Positive addendum modification at a&lt;t0/&gt;n&lt;t1/&gt; &lt;t2/&gt;outside diameter of a gear</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121203Z" creationid="CCYU" creationdate="20150112T121203Z">
+        <seg>齒輪外徑之正齒冠變位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possibility of hazardous reactions</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T143801Z">
@@ -46613,6 +46637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T014101Z">
         <seg>製造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profil &lt;t0/&gt;reference line</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121302Z" creationid="CCYU" creationdate="20150112T121302Z">
+        <seg>輪廓參考線</seg>
       </tuv>
     </tu>
     <tu>
@@ -76603,6 +76635,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T090459Z" creationid="CCYU" creationdate="20141102T090459Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>df&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121317Z" creationid="CCYU" creationdate="20150112T121317Z">
+        <seg>df:</seg>
       </tuv>
     </tu>
     <tu>
