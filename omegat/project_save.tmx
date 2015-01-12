@@ -52403,6 +52403,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start-up distance&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T134826Z" creationid="CCYU" creationdate="20150112T134818Z">
+        <seg>啟動距離：&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Startind distance:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023308Z" creationid="CCYU" creationdate="20150111T023308Z">
@@ -76995,6 +77003,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140918T142930Z">
         <seg>設計值 (design value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>desired diameter of&lt;t0/&gt; t&lt;t1/&gt;he form&lt;t2/&gt; &lt;t3/&gt;grinding&lt;t4/&gt; wheel&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T134807Z" creationid="CCYU" creationdate="20150112T134807Z">
+        <seg>成型砂輪目標直徑。</seg>
       </tuv>
     </tu>
     <tu>
