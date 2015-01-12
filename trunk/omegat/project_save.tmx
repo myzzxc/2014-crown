@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121004Z" creationid="CCYU" creationdate="20150112T121004Z">
+        <seg>絕對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Absolute Value = Coefficient * &lt;t0/&gt;mn</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120639Z" creationid="CCYU" creationdate="20150112T120639Z">
@@ -7146,6 +7154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141220T160737Z" creationid="Judy" creationdate="20141220T160737Z">
         <seg>適應：假設保障生存之最低投資已成功的紓緩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Addendum&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121022Z" creationid="CCYU" creationdate="20150112T121022Z">
+        <seg>齒冠：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14299,6 +14315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coefficient</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120930Z" creationid="CCYU" creationdate="20150112T120930Z">
+        <seg>係數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coefficient = Absolute Value / &lt;t0/&gt;m&lt;t1/&gt;n</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120401Z" creationid="CCYU" creationdate="20150112T120401Z">
@@ -16394,6 +16418,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140808T134232Z">
         <seg>Decomposition point / decomposition range 分解點 / 分解點範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default values&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121012Z" creationid="CCYU" creationdate="20150112T121012Z">
+        <seg>預設值：</seg>
       </tuv>
     </tu>
     <tu>
@@ -79181,6 +79213,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T012902Z">
         <seg>毫米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mn&lt;t0/&gt;= normal mo&lt;t1/&gt;dule or 1/&lt;t2/&gt;dp</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T120922Z" creationid="CCYU" creationdate="20150112T120922Z">
+        <seg>mn = 正常模數或 1 / dp</seg>
       </tuv>
     </tu>
     <tu>
