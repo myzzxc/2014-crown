@@ -7686,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the extension of the tooth tip &lt;t0/&gt;profiling (dressing)&lt;t1/&gt; will be done with a driving-out angle until the end of the grinding wheel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122201Z" creationid="CCYU" creationdate="20150112T122201Z">
+        <seg>齒尖延伸長後，加工（修整）將以驅動角至砂輪結束點停止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the last PD measurement in the one hour period the voltage shall be reduced to (&lt;t0/&gt;1,2&lt;t1/&gt; x &lt;t2/&gt;u&lt;t3/&gt;r&lt;t4/&gt;)j4z&lt;t5/&gt; and held there for a minimum duration of &lt;t6/&gt;1&lt;t7/&gt; min and only long enough to make a stable PD measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T155024Z" creationid="CCYU" creationdate="20141112T155024Z">
@@ -14543,6 +14551,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141221T063146Z" creationid="CCYU" creationdate="20141221T063146Z">
         <seg>對淡水資源的競爭需求將使得分配問題越來越艱困以及限制關鍵部份擴張，特別是糧食和農業領域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete base grinding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122305Z" creationid="CCYU" creationdate="20150112T122305Z">
+        <seg>完整基底研磨</seg>
       </tuv>
     </tu>
     <tu>
@@ -65064,6 +65080,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T135831Z">
         <seg>PIV 精度有三個重要的因子：(a) 區塊尺寸、(b) 外觀以及 (c) 位移距離：單一像素的全部或部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three variants to process the &lt;t0/&gt;dedendum&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122243Z" creationid="CCYU" creationdate="20150112T122243Z">
+        <seg>齒根有三道不同加工法：</seg>
       </tuv>
     </tu>
     <tu>
