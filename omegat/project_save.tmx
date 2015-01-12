@@ -20095,6 +20095,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension &lt;t0/&gt;at &lt;t1/&gt;tooth tip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121631Z" creationid="CCYU" creationdate="20150112T121631Z">
+        <seg>齒尖延伸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extension at Tooth tip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121637Z" creationid="CCYU" creationdate="20150112T121637Z">
+        <seg>齒尖延伸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>External clearances in air</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141115T134702Z" creationid="CCYU" creationdate="20141115T134702Z">
@@ -25191,6 +25207,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Form &lt;t0/&gt;grinding wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121656Z" creationid="CCYU" creationdate="20150112T121656Z">
+        <seg>成型砂輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form Grinding wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151608Z" creationid="CCYU" creationdate="20150111T151608Z">
@@ -25771,6 +25795,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141004T153544Z">
         <seg>油中氣體含量 (單輸出)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gear</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121641Z" creationid="CCYU" creationdate="20150112T121641Z">
+        <seg>齒輪資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -74957,6 +74989,30 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>addendum &lt;t0/&gt;changement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121554Z" creationid="CCYU" creationdate="20150112T121502Z">
+        <seg>齒冠變速：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>addendum modification</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121517Z" creationid="CCYU" creationdate="20150112T121514Z">
+        <seg>齒冠變位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>addendum of basic rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121446Z" creationid="CCYU" creationdate="20150112T121446Z">
+        <seg>基準齒條之齒冠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>addition of a clause on DC currents;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140917T135419Z">
@@ -76587,6 +76643,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T033408Z">
         <seg>斷電抽頭開關 (de-energized tap-changer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dedendum&lt;t0/&gt; of basic rack</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121455Z" creationid="CCYU" creationdate="20150112T121455Z">
+        <seg>基準齒條之齒根</seg>
       </tuv>
     </tu>
     <tu>
@@ -79873,6 +79937,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>outside diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121426Z" creationid="CCYU" creationdate="20150112T121426Z">
+        <seg>外徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>over&lt;t0/&gt; 3.5 threads engagement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T055415Z" creationid="CCYU" creationdate="20141025T055415Z">
@@ -80601,6 +80673,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reference circle diameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121420Z" creationid="CCYU" creationdate="20150112T121420Z">
+        <seg>參考圓直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>reference earth</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T073554Z" creationid="Judy" creationdate="20141129T073554Z">
@@ -80741,6 +80821,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20141026T222408Z" creationid="JUDY" creationdate="20141026T222408Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>root &lt;t0/&gt;circle &lt;t1/&gt;diamenter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T121415Z" creationid="CCYU" creationdate="20150112T121415Z">
+        <seg>齒根圓直徑</seg>
       </tuv>
     </tu>
     <tu>
