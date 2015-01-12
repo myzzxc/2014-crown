@@ -11978,6 +11978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bild 5-3 &lt;t0/&gt;S&lt;t1/&gt;etup&lt;t2/&gt; &lt;t3/&gt;profiling&lt;t4/&gt; Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143949Z" creationid="CCYU" creationdate="20150112T143949Z">
+        <seg>圖 5-3 刀片加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bild 5-3&lt;t0/&gt; &lt;t1/&gt;A&lt;t2/&gt;utomatic&lt;t3/&gt; &lt;t4/&gt;profiling toothed rack</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151321Z" creationid="CCYU" creationdate="20150111T151321Z">
@@ -31693,6 +31701,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use a different&lt;t0/&gt; menu, touch th&lt;t1/&gt;e corresponding&lt;t2/&gt; flag&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143935Z" creationid="CCYU" creationdate="20150112T143935Z">
+        <seg>若欲使用不同功能選單，點擊對應標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use a different&lt;t0/&gt; menu, touch the corresponding&lt;t1/&gt; flag&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023902Z" creationid="CCYU" creationdate="20150111T023902Z">
@@ -51179,6 +51195,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setup&lt;t0/&gt; &lt;t1/&gt;Profiling&lt;t2/&gt; Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143937Z" creationid="CCYU" creationdate="20150112T143937Z">
+        <seg>刀片加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Several artificial uv-stability test methods all based on time lapse &lt;t0/&gt;( time&lt;t1/&gt; reduction ) are possible to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T141857Z">
@@ -62964,6 +62988,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The start position and the over travel can be defined individually&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143932Z" creationid="CCYU" creationdate="20150112T143932Z">
+        <seg>起始位置和行程可以分別定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The steel element consist of a commercial threaded rod with washer and hexagon nut in the range of M8 to M30 or a reinforcing bar in the range of diameter 8 to 32 mm.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T124956Z">
@@ -69471,8 +69503,16 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>To start the cycle you have to choices you can either close the safety hood or by having the safety door open and using the acceptance switch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T132921Z" creationid="CCYU" creationdate="20150111T132921Z">
-        <seg>若要開始加工循環，必須選擇關閉安全罩或者打開安全門並使接受開關。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144135Z" creationid="CCYU" creationdate="20150111T132921Z">
+        <seg>若要開始加工循環，必須使用接受開關選擇關閉或者打開安全罩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To start the cycle&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;the safety hood can either be open or closed in connection with the acceptance switch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144146Z" creationid="CCYU" creationdate="20150112T144053Z">
+        <seg>若要開始加工循環，必須使用接受開關選擇關閉或者打開安全罩。</seg>
       </tuv>
     </tu>
     <tu>
