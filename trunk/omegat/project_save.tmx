@@ -43512,6 +43512,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>O&lt;t0/&gt;nly r&lt;t1/&gt;oot curve radius</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122416Z" creationid="CCYU" creationdate="20150112T122416Z">
+        <seg>僅根圓半徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>O&lt;t0/&gt;perating manual</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T003941Z" creationid="Judy" creationdate="20150110T003941Z">
@@ -43748,6 +43756,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T142554Z">
         <seg>Odour&lt;t0/&gt; threshold 氣味低限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offset &lt;t0/&gt;base rounding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122521Z" creationid="CCYU" creationdate="20150112T122521Z">
+        <seg>根部圓弧偏移</seg>
       </tuv>
     </tu>
     <tu>
@@ -65164,6 +65180,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is a slight grinding overlap at the &lt;t0/&gt;root rounding&lt;t1/&gt; (foot grinding allowance)&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122638Z" creationid="CCYU" creationdate="20150112T122638Z">
+        <seg>與根圓有些許重疊（底部研磨公差）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is an inherent conflict between economic growth and sustainable consumption</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141223T115555Z" creationid="Judy" creationdate="20141223T115555Z">
@@ -76659,6 +76683,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141209T231755Z" creationid="Judy" creationdate="20141209T231755Z">
         <seg>dB(A) 量測距離，&lt;t0/&gt;X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d_ff (ending involute)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122343Z" creationid="CCYU" creationdate="20150112T122343Z">
+        <seg>d_ff（結束漸開線）</seg>
       </tuv>
     </tu>
     <tu>
