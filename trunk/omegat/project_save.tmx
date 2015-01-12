@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2D &lt;t0/&gt;view</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135140Z" creationid="CCYU" creationdate="20150112T135140Z">
+        <seg>2D 視圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2D view</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151644Z" creationid="CCYU" creationdate="20150111T151644Z">
@@ -10984,6 +10992,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attention&lt;t0/&gt;: &lt;t1/&gt;Please consider that the distance must be so large that a collision with the unfinished diameter can be</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135113Z" creationid="CCYU" creationdate="20150112T135113Z">
+        <seg>注意&lt;t0/&gt;：&lt;t1/&gt;必須設有足夠距離以避免碰撞未完成直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Au&lt;t0/&gt;tomatic&lt;t1/&gt; &lt;t2/&gt;profiling&lt;t3/&gt; &lt;t4/&gt;toothed rack</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151316Z" creationid="CCYU" creationdate="20150111T151316Z">
@@ -17714,6 +17730,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T131926Z" creationid="CCYU" creationdate="20141105T131926Z">
         <seg>檢測局部過熱之溶解氣體分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dist&lt;t0/&gt;ance to the finished &lt;t1/&gt;diameter ,&lt;t2/&gt;at&lt;t3/&gt; which will be switched to the working feed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T134959Z" creationid="CCYU" creationdate="20150112T134959Z">
+        <seg>距離完成直徑此距離時，將轉換至工作進料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31505,6 +31529,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T100036Z" creationid="Judy" creationdate="20150110T100036Z">
         <seg>若要停止主軸需再次按下相同按鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to use a different menu, touch the corresponding &lt;t0/&gt;flag.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135139Z" creationid="CCYU" creationdate="20150112T135139Z">
+        <seg>若欲使用不同功能選單，點擊對應標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73309,6 +73341,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Width of &lt;t0/&gt;the form &lt;t1/&gt;grinding &lt;t2/&gt;wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135133Z" creationid="CCYU" creationdate="20150112T135133Z">
+        <seg>成型砂輪寬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Width of the &lt;t0/&gt;finished&lt;t1/&gt; profil&lt;t2/&gt;e&lt;t3/&gt; wheel at the &lt;t4/&gt;tip</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023501Z" creationid="CCYU" creationdate="20150111T023501Z">
@@ -73329,6 +73369,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023510Z" creationid="CCYU" creationdate="20150111T023510Z">
         <seg>寬度 (B)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135125Z" creationid="CCYU" creationdate="20150112T135125Z">
+        <seg>寬度：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
