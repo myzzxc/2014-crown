@@ -7974,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All input fields must have valid values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142910Z" creationid="CCYU" creationdate="20150112T142910Z">
+        <seg>所有欄位必須有正確的數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All measurements and tests requiring power frequency supply shall be performed with the supply frequency within 1 % of the rated frequency of the transformer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140927T134434Z">
@@ -11064,6 +11072,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic Profiling Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142815Z" creationid="CCYU" creationdate="20150112T142815Z">
+        <seg>刀片自動加工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic balancing &lt;t0/&gt;(optional document &lt;t1/&gt;in&lt;t2/&gt; the enclosure)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T051421Z" creationid="Judy" creationdate="20150110T051421Z">
@@ -11910,6 +11926,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151855Z" creationid="CCYU" creationdate="20150111T025847Z">
         <seg>圖 5-2 加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bild 5-1 &lt;t0/&gt;Data&lt;t1/&gt; Razor &lt;t2/&gt;wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142902Z" creationid="CCYU" creationdate="20150112T142902Z">
+        <seg>圖 5-1 刀片輪資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -16318,6 +16342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dat&lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;Razor &lt;t3/&gt;Wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142826Z" creationid="CCYU" creationdate="20150112T142826Z">
+        <seg>刀片輪資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dat&lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;p&lt;t3/&gt;rofili&lt;t4/&gt;ng</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151224Z" creationid="CCYU" creationdate="20150111T151224Z">
@@ -16346,6 +16378,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151857Z" creationid="CCYU" creationdate="20150111T063544Z">
         <seg>加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Razor Profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142713Z" creationid="CCYU" creationdate="20150112T142713Z">
+        <seg>刀片加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data Razor Wheel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142702Z" creationid="CCYU" creationdate="20150112T142702Z">
+        <seg>刀片輪資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -29808,6 +29856,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T152031Z" creationid="CCYU" creationdate="20150111T152031Z">
         <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最高值或最低值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a&lt;t0/&gt;n&lt;t1/&gt; input value exceeds the maximum or minimum allowable&lt;t2/&gt; value it will be automatically corrected to the min.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142908Z" creationid="CCYU" creationdate="20150112T142908Z">
+        <seg>若輸入值超出最大或最小允許數值時，它會自動校正為最小值</seg>
       </tuv>
     </tu>
     <tu>
@@ -44608,6 +44664,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option 5.&lt;t0/&gt;6&lt;t1/&gt; &lt;t2/&gt;Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142649Z" creationid="CCYU" creationdate="20150112T142649Z">
+        <seg>選項 5.6 刀片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option &lt;t0/&gt;Profil wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025436Z" creationid="CCYU" creationdate="20150111T025436Z">
@@ -51059,6 +51123,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setup Profiling Razor Blades</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142731Z" creationid="CCYU" creationdate="20150112T142731Z">
+        <seg>刀片加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setup profiling</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T063555Z" creationid="CCYU" creationdate="20150111T063555Z">
@@ -56792,6 +56864,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T033629Z">
         <seg>錨固必須安裝在龜裂及無龜裂之一般重量混凝土 ，其壓應力強度 &lt;t0/&gt;f&lt;t1/&gt;′&lt;t2/&gt;c &lt;t3/&gt;介於 2,500 psi 至 8,500 psi &lt;t4/&gt;(17.2 MPa 至 58.6 MPa) 之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The angle gamma (&lt;t0/&gt;) will be calculated automatically&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T142916Z" creationid="CCYU" creationdate="20150112T142916Z">
+        <seg>此過渡圓弧半徑為自動計算。</seg>
       </tuv>
     </tu>
     <tu>
