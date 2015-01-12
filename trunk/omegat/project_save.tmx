@@ -6590,6 +6590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&lt;t0/&gt;uto root curve radius&lt;t1/&gt;.:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133909Z" creationid="CCYU" creationdate="20150112T133909Z">
+        <seg>自動根部曲線半徑：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&lt;t0/&gt;w&lt;t1/&gt;A&lt;t2/&gt;2&lt;t3/&gt;'&lt;t4/&gt;s</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141208T222544Z" creationid="Judy" creationdate="20141208T222544Z">
@@ -22800,6 +22808,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023624Z" creationid="CCYU" creationdate="20150111T023555Z">
         <seg>完成之加工輪直徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finished diameter&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T134210Z" creationid="CCYU" creationdate="20150112T134210Z">
+        <seg>完成直徑：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57716,6 +57732,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data are valid both for production with reference profile and also with diameter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T134154Z" creationid="CCYU" creationdate="20150112T134154Z">
+        <seg>資料可使用參考設定檔以及也可使用直徑進行生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The data of the gear&lt;t0/&gt; must be entered &lt;t1/&gt;in accordance with DIN 3960.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T114659Z" creationid="CCYU" creationdate="20150112T114659Z">
@@ -61384,6 +61408,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T083859Z" creationid="CCYU" creationdate="20150111T083859Z">
         <seg>加工單元必須設定至此角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The program will calculate and produce the &lt;t0/&gt;maximum fillet &lt;t1/&gt;radius (&lt;t2/&gt;rmax&lt;t3/&gt;)&lt;t4/&gt; automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T133956Z" creationid="CCYU" creationdate="20150112T133956Z">
+        <seg>程式將自動計算並產生最大圓角半徑 (rmax)。</seg>
       </tuv>
     </tu>
     <tu>
