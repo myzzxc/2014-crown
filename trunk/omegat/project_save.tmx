@@ -23829,6 +23829,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For each line of the stroke table you can determine a spindle speed S2 or S2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143638Z" creationid="CCYU" creationdate="20150112T143638Z">
+        <seg>行程表中各行中可決定主軸轉速 S1 或 S2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each required PD measurement step in the test sequence, PD measurements shall be made and recorded on all the line terminals equipped with bushings with a &lt;t0/&gt;U&lt;t1/&gt;m&lt;t2/&gt; &gt; 72,5 kV, during the test, however if there are more than six such terminals then only six measurements need to be made (one on each of the highest voltage terminals) unless otherwise specified.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141123T092919Z" creationid="CCYU" creationdate="20141112T162015Z">
@@ -44376,6 +44384,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One thread will be processed completely, then the n&lt;t0/&gt;e&lt;t1/&gt;xt thread will follow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143840Z" creationid="CCYU" creationdate="20150112T143840Z">
+        <seg>完整執行一道程序後將進行下一道程序，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One, more or all of the impulses may be specified by the purchaser to be of positive polarity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141113T135401Z" creationid="CCYU" creationdate="20141113T135401Z">
@@ -61668,6 +61684,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The profiling ist done forward and backwards flow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143905Z" creationid="CCYU" creationdate="20150112T143905Z">
+        <seg>加工以來回方向進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The profiling machine PM&lt;t0/&gt;280T / PM&lt;t1/&gt;550T&lt;t2/&gt; is qualified for pre profiling or finish profiling of vitrified bonded grinding wheels as used on tooth flanked g&lt;t3/&gt;rinding machines.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T124101Z" creationid="CCYU" creationdate="20150108T124101Z">
@@ -64648,6 +64672,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T160612Z" creationid="Judy" creationdate="20141122T160612Z">
         <seg>測試電壓值依據 IEC 60060-1 之原則所決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The values S1 and S2 are defined with the work piece data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143732Z" creationid="CCYU" creationdate="20150112T143732Z">
+        <seg>S1 和 S2 之數值依加工工件資料定義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74376,6 +74408,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>You can have 3 different Y axis start posi&lt;t0/&gt;ti&lt;t1/&gt;ons and over travels to select from&lt;t2/&gt; at the profiling position&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T131357Z" creationid="CCYU" creationdate="20150111T131357Z">
+        <seg>於加工位置上有 3 組不同的 Y 軸起始點和行程可供選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can have 3 different Y axis start positions and over travels to select from at the profiling position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T143921Z" creationid="CCYU" creationdate="20150112T143921Z">
         <seg>於加工位置上有 3 組不同的 Y 軸起始點和行程可供選擇。</seg>
       </tuv>
     </tu>
