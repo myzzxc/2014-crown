@@ -16302,6 +16302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dat&lt;t0/&gt;a profiling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135304Z" creationid="CCYU" creationdate="20150112T135304Z">
+        <seg>加工資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dat&lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;p&lt;t3/&gt;rofili&lt;t4/&gt;ng</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151224Z" creationid="CCYU" creationdate="20150111T151224Z">
@@ -21004,6 +21012,22 @@ F114: Fehler CNC  …</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024019Z" creationid="CCYU" creationdate="20150111T024019Z">
         <seg>快速進料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed fast&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135346Z" creationid="CCYU" creationdate="20150112T135346Z">
+        <seg>快速進料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feed slow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135306Z" creationid="CCYU" creationdate="20150112T135306Z">
+        <seg>慢速進料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27453,6 +27477,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T142321Z" creationid="Judy" creationdate="20150110T142321Z">
         <seg>此處可設定儲存設備（HD0、USB 隨身碟）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you enter the diamond wheel data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135415Z" creationid="CCYU" creationdate="20150112T135415Z">
+        <seg>此處可輸入鑽石輪資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34384,8 +34416,8 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       <tuv lang="EN-US">
         <seg>Infeed data&lt;t0/&gt; Y&lt;t1/&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025934Z" creationid="CCYU" creationdate="20150111T025934Z">
-        <seg>Y 進料資料：</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135436Z" creationid="CCYU" creationdate="20150111T025934Z">
+        <seg>Y 行程進料資料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52211,6 +52243,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed, outside working piece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135349Z" creationid="CCYU" creationdate="20150112T135349Z">
+        <seg>工件外之速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speed, outside&lt;t0/&gt; working piece</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024041Z" creationid="CCYU" creationdate="20150111T024041Z">
@@ -52291,6 +52331,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spind&lt;t0/&gt;le speed&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135356Z" creationid="CCYU" creationdate="20150112T135356Z">
+        <seg>主軸速度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spindle &lt;t0/&gt;speed:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T024047Z" creationid="CCYU" creationdate="20150111T024047Z">
@@ -52303,6 +52351,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T151848Z" creationid="Judy" creationdate="20150109T151848Z">
         <seg>主軸波紋管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spindle speed of the b axis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135410Z" creationid="CCYU" creationdate="20150112T135410Z">
+        <seg>B-軸轉速</seg>
       </tuv>
     </tu>
     <tu>
@@ -52903,6 +52959,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140713T052047Z">
         <seg>ACI 318 D.4.4 中的強度縮減因數，&lt;t3/&gt;&lt;t4/&gt;，&lt;t5/&gt;必須依照 ACI 318 附錄 C 用於計算負載組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stroke data&lt;t0/&gt; Y:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135429Z" creationid="CCYU" creationdate="20150112T135429Z">
+        <seg>Y 行程資料：</seg>
       </tuv>
     </tu>
     <tu>
@@ -63924,6 +63988,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tooth flank will be shown here&lt;t0/&gt; scaled.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135300Z" creationid="CCYU" creationdate="20150112T135300Z">
+        <seg>此處將顯示齒側比例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The top-liquid and average liquid temperatu&lt;t0/&gt;re rises are established when the transformer is subjected to a test current &lt;t1/&gt;corresponding&lt;t2/&gt; to the total losses of the transformer (see IEC 60076-1).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T030918Z" creationid="Judy" creationdate="20141101T030918Z">
@@ -69416,6 +69488,14 @@ L&lt;t9/&gt;WA</seg>
         <seg>Tool data:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T023758Z" creationid="CCYU" creationdate="20150111T023758Z">
+        <seg>工具資料：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool&lt;t0/&gt; &lt;t1/&gt;data&lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135413Z" creationid="CCYU" creationdate="20150112T135413Z">
         <seg>工具資料：</seg>
       </tuv>
     </tu>
@@ -77555,6 +77635,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T105614Z">
         <seg>引擎速率 (rads-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enter the desired feed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T135353Z" creationid="CCYU" creationdate="20150112T135344Z">
+        <seg>輸入目標進料速度</seg>
       </tuv>
     </tu>
     <tu>
