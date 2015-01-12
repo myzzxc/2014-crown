@@ -7766,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the start, the wheel can be positioned to the profiling unit with the joystick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144451Z" creationid="CCYU" creationdate="20150112T144451Z">
+        <seg>啟動後，能以搖桿將砂輪放置於加工單元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the top-liquid temperature rise has been establish&lt;t0/&gt;ed, the test shall be continued without a break with the test current reduced to rated current for the winding combination connected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141101T075342Z" creationid="Judy" creationdate="20141101T075342Z">
@@ -7794,6 +7802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150110T161648Z" creationid="Judy" creationdate="20150110T161648Z">
         <seg>接著將自動進行觸控板校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After using the cycle stop key or emergency stop key, the machine will immediately move to the emergency stop position</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144502Z" creationid="CCYU" creationdate="20150112T144502Z">
+        <seg>當按下循環停止或緊急停止按鈕後，機台將立即移動至緊急停止位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69511,8 +69527,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>To start the cycle&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;the safety hood can either be open or closed in connection with the acceptance switch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144146Z" creationid="CCYU" creationdate="20150112T144053Z">
-        <seg>若要開始加工循環，必須使用接受開關選擇關閉或者打開安全罩。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T144343Z" creationid="CCYU" creationdate="20150112T144053Z">
+        <seg>若要開始加工循環，安全罩可依接受開關選擇關閉或者打開。</seg>
       </tuv>
     </tu>
     <tu>
