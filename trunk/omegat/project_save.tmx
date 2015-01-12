@@ -59948,6 +59948,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measure is called&lt;t0/&gt; „Offset &lt;t1/&gt;base rounding&lt;t2/&gt;“&lt;t3/&gt; &lt;t4/&gt;[&lt;t5/&gt;offset base rounding]&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T130248Z" creationid="CCYU" creationdate="20150112T130245Z">
+        <seg>此方法稱為 "基底圓弧偏移" [基底圓弧偏移]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The measured hot-spot winding temperature rise has been obtained as the maximum value yielded by 8 fibre optic sensors per winding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141102T085444Z" creationid="CCYU" creationdate="20141102T085444Z">
@@ -65198,8 +65206,16 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>There is a slight grinding overlap at the &lt;t0/&gt;root rounding&lt;t1/&gt; (foot grinding allowance)&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122638Z" creationid="CCYU" creationdate="20150112T122638Z">
-        <seg>與根圓有些許重疊（底部研磨公差）。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T130128Z" creationid="CCYU" creationdate="20150112T122638Z">
+        <seg>與根圓有些許研磨重疊（底部研磨公差）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a slight grinding overlap at the &lt;t0/&gt;root rounding&lt;t1/&gt; &lt;t2/&gt;(&lt;t3/&gt;foot radius&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T130200Z" creationid="CCYU" creationdate="20150112T130110Z">
+        <seg>與根圓有些許研磨重疊（底部半徑）。</seg>
       </tuv>
     </tu>
     <tu>
