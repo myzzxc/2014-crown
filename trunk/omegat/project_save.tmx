@@ -3144,6 +3144,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>68: Data block length invalid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131131Z" creationid="CCYU" creationdate="20150113T131131Z">
+        <seg>68：資料區塊長度無效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>69: Command interface is occupied</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131151Z" creationid="CCYU" creationdate="20150113T131151Z">
+        <seg>69：指令介面被佔用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6&lt;t0/&gt; &lt;t1/&gt;Disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073006Z">
@@ -3252,6 +3268,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T013855Z">
         <seg>7.&lt;t0/&gt; &lt;t1/&gt;HANDLING AND STORAGE 搬運與儲存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>70: Value of a necessary parameter too high</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131215Z" creationid="CCYU" creationdate="20150113T131215Z">
+        <seg>70：必要參數值過高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>71: Value of a necessary parameter too low</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131221Z" creationid="CCYU" creationdate="20150113T131221Z">
+        <seg>70：必要參數值過低</seg>
       </tuv>
     </tu>
     <tu>
