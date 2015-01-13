@@ -2255,10 +2255,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>23: Parameter ID in data block is invalid (data block write)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125952Z" creationid="CCYU" creationdate="20150113T125952Z">
+        <seg>23：資料區塊中參數 ID 無效（資料區塊寫入）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25: Burn system module only allowed immediately after download</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130231Z" creationid="CCYU" creationdate="20150113T130231Z">
+        <seg>25：僅於下載後允許燒錄系統模組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>27 pages including 3 annexes which form an integral part of this assessment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140720T070418Z">
         <seg>3 章附件共 27 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>27: Operating system not able to be started (operating system is not on the FPROM)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130321Z" creationid="CCYU" creationdate="20150113T130321Z">
+        <seg>27：無法啟動操作系統（操作系統不在 FPROM 上）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,6 +2699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141204T221853Z" creationid="Judy" creationdate="20141204T221853Z">
         <seg>於高壓測試下為 400 MVA G.S.U.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>40: Value of parameter higher than maximum value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130419Z" creationid="CCYU" creationdate="20150113T130419Z">
+        <seg>40：超出參數最大值</seg>
       </tuv>
     </tu>
     <tu>
@@ -34770,6 +34802,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20141204T033848Z" creationid="MAE" creationdate="20141204T033848Z">
         <seg>數位記錄器曲線平滑演算法之影響</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;'PARID'): Parameter ID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130031Z" creationid="CCYU" creationdate="20150113T130031Z">
+        <seg>資訊 ('PARID')：參數 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;REAL): Maximum value</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130434Z" creationid="CCYU" creationdate="20150113T130434Z">
+        <seg>資訊 (REAL)：最大值</seg>
       </tuv>
     </tu>
     <tu>
