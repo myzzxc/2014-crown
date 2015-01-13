@@ -1654,6 +1654,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1001: Error-FIFO &lt;t0/&gt;overflow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134323Z" creationid="CCYU" creationdate="20150113T134323Z">
+        <seg>1001：錯誤-FIFO 溢位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1002: Parameter outside the valid range</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134350Z" creationid="CCYU" creationdate="20150113T134350Z">
+        <seg>1002：參數超出有效範圍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1003: Parameter cannot be written while loop control is active</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134436Z" creationid="CCYU" creationdate="20150113T134436Z">
+        <seg>1003：參數無法於迴圈控制啟動時寫入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Data block read access not initialized</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
