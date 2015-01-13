@@ -1807,6 +1807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1: Invalid parameter ID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124540Z" creationid="CCYU" creationdate="20150113T124540Z">
+        <seg>1：不正確參數 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;Safety Information!</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T040653Z">
@@ -2207,6 +2215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2: Data block for upload is not available</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124606Z" creationid="CCYU" creationdate="20150113T124606Z">
+        <seg>2：上傳的資料區塊不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2: Vision for sustainability</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T083002Z" creationid="Judy" creationdate="20141221T083002Z">
@@ -2435,6 +2451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T083110Z" creationid="Judy" creationdate="20141221T083110Z">
         <seg>3：實現永續性之策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3: Write access for a read-only parameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124710Z" creationid="CCYU" creationdate="20150113T124611Z">
+        <seg>3：寫入存取權限為唯讀參數</seg>
       </tuv>
     </tu>
     <tu>
