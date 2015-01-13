@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10: Data block read access not initialized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
+        <seg>10：資料區塊讀取權限未初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10lg(m&lt;t0/&gt;0&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141210T121538Z" creationid="CCYU" creationdate="20141210T121538Z">
@@ -1698,6 +1706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140926T152203Z">
         <seg>110 / 11 kV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11: Data block write access not initialized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125032Z" creationid="CCYU" creationdate="20150113T125032Z">
+        <seg>11：資料區塊寫入權限未初始化</seg>
       </tuv>
     </tu>
     <tu>
@@ -2457,8 +2473,8 @@
       <tuv lang="EN-US">
         <seg>3: Write access for a read-only parameter</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124710Z" creationid="CCYU" creationdate="20150113T124611Z">
-        <seg>3：寫入存取權限為唯讀參數</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124908Z" creationid="CCYU" creationdate="20150113T124611Z">
+        <seg>3：唯讀參數寫入權限</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T083727Z" creationid="Judy" creationdate="20141221T083727Z">
         <seg>4：行動計畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4: Read access for a write-only parameter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124911Z" creationid="CCYU" creationdate="20150113T124731Z">
+        <seg>4：唯寫參數讀取權限</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8: Data block read access already initialized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124951Z" creationid="CCYU" creationdate="20150113T124906Z">
+        <seg>8：資料區塊讀取權限已初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8&lt;t0/&gt; &lt;t1/&gt;Warranty and repair terms</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T073816Z">
@@ -3372,6 +3404,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T024656Z">
         <seg>96 hours 96 小時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9: Data block write access already initialized</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125022Z" creationid="CCYU" creationdate="20150113T125006Z">
+        <seg>9：資料區塊寫入權限已初始化</seg>
       </tuv>
     </tu>
     <tu>
