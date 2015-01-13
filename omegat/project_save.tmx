@@ -1734,6 +1734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1012: Breakdown of cyclic network communication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T135107Z" creationid="CCYU" creationdate="20150113T135107Z">
+        <seg>1012：循環網路通訊故障</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1013: Station is not available for network communication</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T135140Z" creationid="CCYU" creationdate="20150113T135140Z">
+        <seg>1013：無網路通訊站台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Data block read access not initialized</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
@@ -35042,6 +35058,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130648Z" creationid="CCYU" creationdate="20150113T130648Z">
         <seg>資訊 (UDINT)：最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;UINT): Station number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T135212Z" creationid="CCYU" creationdate="20150113T135212Z">
+        <seg>資訊 (UINT)：站台編號</seg>
       </tuv>
     </tu>
     <tu>
