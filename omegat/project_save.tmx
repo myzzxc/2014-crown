@@ -1678,6 +1678,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1004: Timeout in network life sign monitor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134543Z" creationid="CCYU" creationdate="20150113T134543Z">
+        <seg>1004：網路狀態監控逾時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1005: Parameter cannot be written while a movement is active</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134616Z" creationid="CCYU" creationdate="20150113T134616Z">
+        <seg>1005：參數無法於作動時寫入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1006: Invalid parameter for trigger event (digital input + edge)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134729Z" creationid="CCYU" creationdate="20150113T134729Z">
+        <seg>1006：無效觸發事件參數（數位輸入 + 邊緣）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1007: Master for network coupling deactivated - one master is already sending</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134937Z" creationid="CCYU" creationdate="20150113T134937Z">
+        <seg>1007：主網路耦合停用 - 一主網路已送出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1008: Master for network coupling deactivated - Encoder error</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T134958Z" creationid="CCYU" creationdate="20150113T134955Z">
+        <seg>1008：主網路耦合停用 - 編碼器錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1009: Error during memory allocation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T135018Z" creationid="CCYU" creationdate="20150113T135018Z">
+        <seg>1009：記憶體分配錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1011: Quickstop input active</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T135041Z" creationid="CCYU" creationdate="20150113T135041Z">
+        <seg>1011：快速停止輸入啟用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Data block read access not initialized</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
