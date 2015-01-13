@@ -1807,10 +1807,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>16: The data segment is already the last when reading the data block</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125212Z" creationid="CCYU" creationdate="20150113T125212Z">
+        <seg>16：讀取資料區塊時已達資料區段尾端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17: The data segment is already the last when writing the data block</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125233Z" creationid="CCYU" creationdate="20150113T125233Z">
+        <seg>17：寫入資料區塊時已達資料區段尾端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18: The data segment is not yet the last when reading the data block</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125249Z" creationid="CCYU" creationdate="20150113T125249Z">
+        <seg>18：讀取資料區塊時未達資料區段尾端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1991 &lt;t0/&gt;Raytek&lt;t1/&gt; opened its European Headquarters in Berlin./.Germany.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140826T232901Z">
         <seg>1991 年 &lt;t0/&gt;Raytek&lt;t1/&gt; 於德國柏林成立歐洲總部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19: The data segment is not yet the last when writing the data block</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125258Z" creationid="CCYU" creationdate="20150113T125258Z">
+        <seg>19：寫入資料區塊時未達資料區段尾端</seg>
       </tuv>
     </tu>
     <tu>
@@ -2179,6 +2211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T103254Z">
         <seg>- 21 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>21: Checksum after data block write is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125350Z" creationid="CCYU" creationdate="20150113T125350Z">
+        <seg>21：資料區塊寫入無效後校驗</seg>
       </tuv>
     </tu>
     <tu>
