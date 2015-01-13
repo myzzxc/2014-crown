@@ -3104,10 +3104,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>64: Hardware ID in BR module is invalid (data block write)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130848Z" creationid="CCYU" creationdate="20150113T130818Z">
+        <seg>64：BR 模組中硬體 ID 無效（資料區塊寫入）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>65: Hardware version in BR module is invalid (data block write)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130907Z" creationid="CCYU" creationdate="20150113T130907Z">
+        <seg>65：BR 模組中硬體版本無效（資料區塊寫入）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>66 kV (tapping range ±10 %)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141002T131516Z">
         <seg>66 kV (抽頭範圍 ±10 %)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>66: The operating system on the drive is incompatible to the existing network</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131019Z" creationid="CCYU" creationdate="20150113T131019Z">
+        <seg>66：驅動器操作系統與現有網路不相容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>67: Necessary parameter is missing or is invalid</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131108Z" creationid="CCYU" creationdate="20150113T131108Z">
+        <seg>67：必要資訊不存在或無效</seg>
       </tuv>
     </tu>
     <tu>
@@ -34898,6 +34930,30 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130648Z" creationid="CCYU" creationdate="20150113T130648Z">
         <seg>資訊 (UDINT)：最小值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;USINT): Hardware ID</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130840Z" creationid="CCYU" creationdate="20150113T130840Z">
+        <seg>資訊 (USINT)：硬體 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;USINT): Hardware ID of operating system</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T131032Z" creationid="CCYU" creationdate="20150113T131032Z">
+        <seg>資訊 (USINT)：操作系統硬體 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info(&lt;t0/&gt;USINT): Hardware Revision</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T130916Z" creationid="CCYU" creationdate="20150113T130916Z">
+        <seg>資訊 (USINT)：硬體改版</seg>
       </tuv>
     </tu>
     <tu>
