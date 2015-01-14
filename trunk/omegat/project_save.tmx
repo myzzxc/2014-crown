@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;great correction may be caused from an wrong measuring before)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151018Z" creationid="CCYU" creationdate="20150114T151018Z">
+        <seg>（大幅校正可能由之前的錯誤量測引起）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;informative&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141001T142659Z">
@@ -8106,6 +8114,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141129T052315Z" creationid="Judy" creationdate="20141129T052315Z">
         <seg>改正量測電纜故障後，重新進行突波測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After correction&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150750Z" creationid="CCYU" creationdate="20150114T150750Z">
+        <seg>校正後：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40196,6 +40212,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141101T132423Z" creationid="CCYU" creationdate="20141101T132423Z">
         <seg>使用外蓋內袋量測可能受渦電流加熱干擾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measuring &lt;t0/&gt;after pause of production greater time entered on right side</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150935Z" creationid="CCYU" creationdate="20150114T150733Z">
+        <seg>生產暫停時間大於右側輸入之時間後量測</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measuring &lt;t0/&gt;next gear after greater correction as entered on right input field</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150858Z" creationid="CCYU" creationdate="20150114T150858Z">
+        <seg>校正量大於輸入欄位時量測下一齒輪</seg>
       </tuv>
     </tu>
     <tu>
