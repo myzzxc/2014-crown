@@ -5267,6 +5267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Check the grinding worm &lt;t2/&gt;visually&lt;t3/&gt; for any &lt;t4/&gt;external&lt;t5/&gt; damage,  then very carefully and thoroughly assemble&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T122642Z" creationid="CCYU" creationdate="20150114T122642Z">
+        <seg>檢查研磨蝸桿和法蘭外觀有無任何損傷，接著非常小心進行組裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;For bore holes deeper then 240 mm, compressed air (min.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T061224Z">
@@ -27115,6 +27123,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012955Z" creationid="CCYU" creationdate="20150111T011012Z">
         <seg>具有短錐之砂輪法蘭必須使用專用轉接器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding worm:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T122743Z" creationid="CCYU" creationdate="20150114T122743Z">
+        <seg>研磨蝸桿：</seg>
       </tuv>
     </tu>
     <tu>
