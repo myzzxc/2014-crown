@@ -5347,6 +5347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t10/&gt;A dull sound means a mater&lt;t11/&gt;ial fault (visible or not&lt;t12/&gt;)&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T125453Z" creationid="CCYU" creationdate="20150114T125453Z">
+        <seg>沉悶的聲音代表材料故障（可見或不可見）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t10/&gt;Mahkamov&lt;t11/&gt; [11] used &lt;t12/&gt;both second-order model and an axisymmetric CFD approach to analyze the working process of a solar &lt;t13/&gt;Stirling&lt;t14/&gt; engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T154226Z">
@@ -5663,6 +5671,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141124T142215Z" creationid="CCYU" creationdate="20141124T142215Z">
         <seg>於第一次施加全電壓等級之前無法建立&lt;t6/&gt;T&lt;t7/&gt;z&lt;t8/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t6/&gt;The &lt;t7/&gt;resulting sound must be light&lt;t8/&gt; and clear&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T125356Z" creationid="CCYU" creationdate="20150114T125356Z">
+        <seg>產生之聲音必須清脆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38039,6 +38055,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightly&lt;t0/&gt; tap the grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T125537Z" creationid="CCYU" creationdate="20150114T125537Z">
+        <seg>輕&lt;t0/&gt;敲研磨蝸桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning impul&lt;t0/&gt;se test on the neutral terminal (LIN)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T121047Z" creationid="CCYU" creationdate="20141111T121047Z">
@@ -43100,6 +43124,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153016Z" creationid="CCYU" creationdate="20141111T153016Z">
         <seg>中性端子未直接接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never assemble a damaged grinding worm or allow it to rotate on a spi&lt;t0/&gt;n&lt;t1/&gt;dle&lt;t2/&gt; !</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T125521Z" creationid="CCYU" creationdate="20150114T125521Z">
+        <seg>請勿組裝損壞之研磨蝸桿也勿使其於主軸上旋轉！</seg>
       </tuv>
     </tu>
     <tu>
