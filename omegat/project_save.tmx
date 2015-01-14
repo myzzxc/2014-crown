@@ -11088,6 +11088,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assembly of the grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132746Z" creationid="CCYU" creationdate="20150114T132725Z">
+        <seg>研磨蝸桿組裝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assessment and verification of constancy of performance (AVCP) system applied, with&lt;t0/&gt; &lt;t1/&gt;reference to its legal base</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021700Z">
@@ -14927,6 +14935,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131028Z" creationid="CCYU" creationdate="20150114T131028Z">
         <seg>仔細清潔法蘭對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean the grinding spindle cone and the grinding disc flange &lt;t0/&gt;thoroughly &lt;t1/&gt;and check for any damage</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132707Z" creationid="CCYU" creationdate="20150114T132707Z">
+        <seg>徹底清潔研磨主軸錐和研磨盤法蘭並檢查其是否損壞</seg>
       </tuv>
     </tu>
     <tu>
@@ -45392,6 +45408,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the grinding wheel&lt;t0/&gt; &lt;t1/&gt;casing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132614Z" creationid="CCYU" creationdate="20150114T132614Z">
+        <seg>打開砂輪外罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open windings do not have a clock number notation because the phase relationship of these windings with other windings depends on the external connection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140925T153618Z">
@@ -69908,6 +69932,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tighten the extension pipe on to the spindle &lt;t0/&gt;nose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132843Z" creationid="CCYU" creationdate="20150114T132843Z">
+        <seg>將延伸管鎖於主軸鼻翼上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tightening</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T030905Z" creationid="CCYU" creationdate="20141025T030905Z">
@@ -79523,6 +79555,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110705Z">
         <seg>granulate 顆粒狀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>grinding spindle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132856Z" creationid="CCYU" creationdate="20150114T132856Z">
+        <seg>研磨主軸</seg>
       </tuv>
     </tu>
     <tu>
