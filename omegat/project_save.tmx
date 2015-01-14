@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;on the above picture every third workpiece will be measured automatically)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151218Z" creationid="CCYU" creationdate="20150114T151218Z">
+        <seg>（上圖中每三個工件會自動測量）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;see&lt;t1/&gt; &lt;t2/&gt;sketch&lt;t3/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T121211Z" creationid="Judy" creationdate="20150109T121211Z">
@@ -19487,6 +19495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dyn Interval:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151311Z" creationid="CCYU" creationdate="20150114T151248Z">
+        <seg>動態間隔：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E OUR END USERS</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T164736Z">
@@ -23832,6 +23848,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T132414Z">
         <seg>固定規範且含儀表、額定銘牌、液面指示等標示側應清晰易讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fix Interval:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151317Z" creationid="CCYU" creationdate="20150114T151030Z">
+        <seg>固定間隔：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40228,6 +40252,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150858Z" creationid="CCYU" creationdate="20150114T150858Z">
         <seg>校正量大於輸入欄位時量測下一齒輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measuring at intervals, which &lt;t0/&gt;are&lt;t1/&gt; entered in the box on the right</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151322Z" creationid="CCYU" creationdate="20150114T151113Z">
+        <seg>依右側輸入之間隔進行量測</seg>
       </tuv>
     </tu>
     <tu>
@@ -66576,6 +66608,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140820T151336Z">
         <seg>表 1 列出了模擬之 γ-型史特林引擎尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;measuring &lt;t2/&gt;interval &lt;t3/&gt;will be controlled automatically depending from the deviation measured.&lt;t4/&gt; At the beginning every workpiece will be measured.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151305Z" creationid="CCYU" creationdate="20150114T151305Z">
+        <seg>量測間隔 &lt;t3/&gt; 將自動根據測量的偏差控制。 &lt;t4/&gt;在開始時將測量每個工件。</seg>
       </tuv>
     </tu>
     <tu>
