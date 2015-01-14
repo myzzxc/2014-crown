@@ -1774,6 +1774,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1018: Invalid parameter ID for cyclic write access</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001258Z" creationid="CCYU" creationdate="20150114T001258Z">
+        <seg>1018：循環寫入權限參數 ID 無效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1021: Parameter cannot be written: Function block active</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001354Z" creationid="CCYU" creationdate="20150114T001354Z">
+        <seg>1021：參數無法寫入：功能區塊啟用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1022: Timeout in life sign monitoring of cyclic data to drive</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001436Z" creationid="CCYU" creationdate="20150114T001436Z">
+        <seg>1022：驅動循環資料狀態監控逾時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1023: Network coupling with the cyclic communication mode not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001532Z" creationid="CCYU" creationdate="20150114T001532Z">
+        <seg>1023：不允許於週期性通訊模式下進行網路耦合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Data block read access not initialized</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
