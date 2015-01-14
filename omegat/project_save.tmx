@@ -8054,6 +8054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a manual measuring adjustment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150451Z" creationid="CCYU" creationdate="20150114T150451Z">
+        <seg>手動量測後校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After any check has been made, it is essential that neither the measuring nor the test circuit is altered except for the removal of any devices for checking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T154520Z" creationid="Judy" creationdate="20141122T154520Z">
@@ -8158,10 +8166,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After measure</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150404Z" creationid="CCYU" creationdate="20150114T150404Z">
+        <seg>量測後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After orthorectifying, PIV&lt;t0/&gt; &lt;t1/&gt;overlaps the two rectified images with all the same area.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T084539Z">
         <seg>正射校正後，PIV 重疊兩張完全相同區域的校正影像，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After pause&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150507Z" creationid="CCYU" creationdate="20150114T150507Z">
+        <seg>暫停後：</seg>
       </tuv>
     </tu>
     <tu>
@@ -78403,6 +78427,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141105T130705Z" creationid="CCYU" creationdate="20141105T130705Z">
         <seg>校正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>correction&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150408Z" creationid="CCYU" creationdate="20150114T150408Z">
+        <seg>校正：</seg>
       </tuv>
     </tu>
     <tu>
