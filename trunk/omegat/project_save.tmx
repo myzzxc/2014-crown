@@ -11048,6 +11048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble the grinding worm to the flange.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131241Z" creationid="CCYU" creationdate="20150114T131241Z">
+        <seg>將研磨蝸桿組裝至法蘭，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assembled Item</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042328Z" creationid="CCYU" creationdate="20141025T042328Z">
@@ -11388,6 +11396,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140727T002928Z">
         <seg>將靜態混合噴嘴裝至卡匣，並將卡匣置入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach both of the intermediate layers ( Aluminium, plastic or paper)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131155Z" creationid="CCYU" creationdate="20150114T131155Z">
+        <seg>黏貼兩中間層（鋁、塑膠或紙）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14879,6 +14895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012918Z" creationid="CCYU" creationdate="20150111T012532Z">
         <seg>清潔鑽石輪法蘭並安裝鑽石輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean the flange pair perfectly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131028Z" creationid="CCYU" creationdate="20150114T131028Z">
+        <seg>仔細清潔法蘭對</seg>
       </tuv>
     </tu>
     <tu>
