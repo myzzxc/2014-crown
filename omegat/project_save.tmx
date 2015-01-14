@@ -2535,6 +2535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2x thread&lt;t0/&gt; M12 &lt;t1/&gt;to fasten auxiliary device</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131840Z" creationid="CCYU" creationdate="20150114T131840Z">
+        <seg>2x M12 螺紋，用以固定附加裝置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 Could SDGs play a similar role?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141222T223800Z" creationid="Judy" creationdate="20141222T223800Z">
@@ -8940,6 +8948,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140921T094228Z">
         <seg>海拔高度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aluminium intermediate layer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131637Z" creationid="CCYU" creationdate="20150114T131637Z">
+        <seg>鋁中間層</seg>
       </tuv>
     </tu>
     <tu>
@@ -18318,6 +18334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131853Z" creationid="CCYU" creationdate="20150114T131853Z">
+        <seg>圖示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disposal</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T100341Z">
@@ -27203,6 +27227,14 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131602Z" creationid="CCYU" creationdate="20150114T131602Z">
         <seg>研磨蝸桿法蘭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding worm with flange&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131904Z" creationid="CCYU" creationdate="20150114T131904Z">
+        <seg>研磨蝸桿法蘭：&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52535,6 +52567,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T080759Z">
         <seg>所以，若想想獲得比較平滑的結果，可以使用插值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Socket screw&lt;t0/&gt; M8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131652Z" creationid="CCYU" creationdate="20150114T131652Z">
+        <seg>M8 內六角螺絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -84585,6 +84625,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T045407Z">
         <seg>方程式 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>to be stocked in horizontal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131931Z" creationid="CCYU" creationdate="20150114T131931Z">
+        <seg>必須水平存放</seg>
       </tuv>
     </tu>
     <tu>
