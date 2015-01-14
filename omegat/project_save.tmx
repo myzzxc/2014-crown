@@ -40176,10 +40176,26 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Measuring at the grinding wheel start&lt;t0/&gt; (1&lt;t1/&gt;st&lt;t2/&gt; part after profiling)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150342Z" creationid="CCYU" creationdate="20150114T150232Z">
+        <seg>量測砂輪起點（加工後第一個部份）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Measuring impedances are connected effectively between the earthed tank and the terminals usually through a bushing tap or through a separate coupling capacitor, as detailed in A.2.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141116T161749Z" creationid="CCYU" creationdate="20141116T161737Z">
         <seg>量測阻抗通常透過套管抽頭或獨立耦合電容有效地連接於接地油槽和端子之間，詳細方法收錄於 A.2 之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measuring in the grinding wheel center</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150320Z" creationid="CCYU" creationdate="20150114T150320Z">
+        <seg>測量砂輪中心</seg>
       </tuv>
     </tu>
     <tu>
@@ -52303,6 +52319,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="JUDY" changedate="20140827T040842Z">
         <seg>可監測鍍鋼前後溫度以確保鍍層結合良好且具有所需的厚度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift &lt;t0/&gt;middle&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150314Z" creationid="CCYU" creationdate="20150114T150314Z">
+        <seg>中線偏移：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift &lt;t0/&gt;s&lt;t1/&gt;tart:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150253Z" creationid="CCYU" creationdate="20150114T150120Z">
+        <seg>起點偏移：</seg>
       </tuv>
     </tu>
     <tu>
