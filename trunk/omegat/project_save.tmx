@@ -14723,6 +14723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose grinding wheel&lt;t0/&gt; change menu on the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134217Z" creationid="CCYU" creationdate="20150114T134217Z">
+        <seg>於機台上選擇砂輪更換之功能選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the grinding wheel&lt;t0/&gt; change menu on the machine</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132518Z" creationid="CCYU" creationdate="20150114T132518Z">
@@ -15287,6 +15295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150112T122305Z" creationid="CCYU" creationdate="20150112T122305Z">
         <seg>完整基底研磨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Completely unscrew the screws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134431Z" creationid="CCYU" creationdate="20150114T134431Z">
+        <seg>完全鬆開螺絲</seg>
       </tuv>
     </tu>
     <tu>
@@ -18226,6 +18242,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025041Z" creationid="CCYU" creationdate="20150111T025041Z">
         <seg>B-軸中心（若 X-軸位於 0mm 位置時）與加工單元軸中心（若加工軸 C-軸位於 0° 位置）之距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disassemble grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134443Z" creationid="CCYU" creationdate="20150114T134443Z">
+        <seg>拆下研磨蝸桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disassembly&lt;t0/&gt; of the grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134212Z" creationid="CCYU" creationdate="20150114T134212Z">
+        <seg>研磨蝸桿拆解</seg>
       </tuv>
     </tu>
     <tu>
@@ -38735,6 +38767,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loosen four scre&lt;t0/&gt;ws</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134419Z" creationid="CCYU" creationdate="20150114T134304Z">
+        <seg>放鬆四顆螺絲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loss evaluation information or maximum losses.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140930T144422Z">
@@ -39083,6 +39123,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20150109T145258Z" creationid="Judy" creationdate="20150109T145258Z">
         <seg>機器外殼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine Set&lt;t0/&gt;up</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134513Z" creationid="CCYU" creationdate="20150114T134513Z">
+        <seg>機台安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -45448,6 +45496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open grinding worm casing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134247Z" creationid="CCYU" creationdate="20150114T134247Z">
+        <seg>打開研磨蝸桿外罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the grinding wheel&lt;t0/&gt; &lt;t1/&gt;casing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132614Z" creationid="CCYU" creationdate="20150114T132614Z">
@@ -51415,6 +51471,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133750Z" creationid="CCYU" creationdate="20150114T133750Z">
         <seg>輕鎖四顆內六角螺絲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screw on the extension pipe to the spindle nos&lt;t0/&gt;e</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134407Z" creationid="CCYU" creationdate="20150114T134407Z">
+        <seg>將延伸管鎖於主軸鼻翼上</seg>
       </tuv>
     </tu>
     <tu>
