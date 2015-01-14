@@ -17438,6 +17438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of impact sound grinding dialogue&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145619Z" creationid="CCYU" creationdate="20150114T145619Z">
+        <seg>音波研磨對話框說明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of room</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141207T071528Z" creationid="CCYU" creationdate="20141207T071459Z">
@@ -31645,6 +31653,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the key is pressed longer than 2 seconds, the impact sound grinding dialogue will be opened.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145553Z" creationid="CCYU" creationdate="20150114T145553Z">
+        <seg>若長按按鍵超過 2 秒，將打開音波研磨對話框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the load combinations of ACI 318</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140715T014649Z">
@@ -39787,6 +39803,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T042709Z" creationid="CCYU" creationdate="20141025T042709Z">
         <seg>2014 年 5 月 29 日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Measure active&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145638Z" creationid="CCYU" creationdate="20150114T145638Z">
+        <seg>啟用量測：</seg>
       </tuv>
     </tu>
     <tu>
@@ -74993,6 +75017,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T044412Z" creationid="CCYU" creationdate="20150111T044412Z">
         <seg>可使用篩選器以顯示特定檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a short keystroke a measurement for the next workpiece can be switched on or off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145503Z" creationid="CCYU" creationdate="20150114T145503Z">
+        <seg>單點按鍵能打開或關閉下一個工件的量測。</seg>
       </tuv>
     </tu>
     <tu>
