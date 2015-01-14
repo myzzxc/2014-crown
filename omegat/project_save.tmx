@@ -31637,6 +31637,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the deviation is smaller than the value [µ] entered in the right box, the measuring interval will &lt;t0/&gt;double (measuring after 2, 4, 8 workpieces)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151540Z" creationid="CCYU" creationdate="20150114T151540Z">
+        <seg>若偏差小於右邊方塊中輸入之數值 [µ]，量測間隔將加倍（於第 2、4、8 個工件後量測）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the difference between voltmeter readings is larger than 3 %, the validity of the test is subject to agreement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140928T060519Z">
@@ -66614,8 +66622,8 @@ L&lt;t9/&gt;WA</seg>
       <tuv lang="EN-US">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;measuring &lt;t2/&gt;interval &lt;t3/&gt;will be controlled automatically depending from the deviation measured.&lt;t4/&gt; At the beginning every workpiece will be measured.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151305Z" creationid="CCYU" creationdate="20150114T151305Z">
-        <seg>量測間隔 &lt;t3/&gt; 將自動根據測量的偏差控制。 &lt;t4/&gt;在開始時將測量每個工件。</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151407Z" creationid="CCYU" creationdate="20150114T151305Z">
+        <seg>量測間隔將根據量測的偏差自動控制，開始時將量測每個工件。</seg>
       </tuv>
     </tu>
     <tu>
