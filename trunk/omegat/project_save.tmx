@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;Representation without balancing head and extension pipe&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133910Z" creationid="CCYU" creationdate="20150114T133910Z">
+        <seg>（無平衡頭和延伸管之圖示）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;The&lt;t1/&gt; feet are packed in a box with the accessories).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150108T151606Z" creationid="CCYU" creationdate="20150108T151606Z">
@@ -8706,6 +8714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T033944Z" creationid="CCYU" creationdate="20141025T033944Z">
         <seg>內六角扳手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allen&lt;t0/&gt; screw M10x35 (4x&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134200Z" creationid="CCYU" creationdate="20150114T134200Z">
+        <seg>內六角螺絲 M10x35 (4x)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77422,6 +77438,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>balancing pi&lt;t0/&gt;e&lt;t1/&gt;ce</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133953Z" creationid="CCYU" creationdate="20150114T133953Z">
+        <seg>平衡零件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>be substituted by an IVPD test with an enhancement voltage &lt;t0/&gt;(&lt;t1/&gt;2&lt;t2/&gt;xU&lt;t3/&gt;r&lt;t4/&gt;)/^z&lt;t5/&gt; , see e) below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T133219Z" creationid="CCYU" creationdate="20141112T133219Z">
@@ -79423,6 +79447,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>force-off &lt;t0/&gt; thread</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T134119Z" creationid="CCYU" creationdate="20150114T134119Z">
+        <seg>不受力螺紋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>force&lt;t0/&gt; components introduced by porous medium</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141015T123805Z">
@@ -79619,6 +79651,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132856Z" creationid="CCYU" creationdate="20150114T132856Z">
         <seg>研磨主軸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133955Z" creationid="CCYU" creationdate="20150114T133955Z">
+        <seg>研磨蝸桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>grinding worm flange</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133938Z" creationid="CCYU" creationdate="20150114T133938Z">
+        <seg>研磨蝸桿法蘭</seg>
       </tuv>
     </tu>
     <tu>
@@ -82753,6 +82801,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>short c&lt;t0/&gt;one</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133957Z" creationid="CCYU" creationdate="20150114T133957Z">
+        <seg>短錐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>short cone</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133046Z" creationid="CCYU" creationdate="20150114T133046Z">
@@ -84638,6 +84694,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025319Z">
         <seg>定義 (主抽頭以外之) 特定抽頭負載量的數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thread holes for fastening screws (x4&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133932Z" creationid="CCYU" creationdate="20150114T133932Z">
+        <seg>螺絲安裝孔 (x4)</seg>
       </tuv>
     </tu>
     <tu>
