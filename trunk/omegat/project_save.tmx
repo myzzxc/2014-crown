@@ -1792,8 +1792,8 @@
       <tuv lang="EN-US">
         <seg>1022: Timeout in life sign monitoring of cyclic data to drive</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001436Z" creationid="CCYU" creationdate="20150114T001436Z">
-        <seg>1022：驅動循環資料狀態監控逾時</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001644Z" creationid="CCYU" creationdate="20150114T001436Z">
+        <seg>1022：驅動週期性資料狀態監控逾時</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1802,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001532Z" creationid="CCYU" creationdate="20150114T001532Z">
         <seg>1023：不允許於週期性通訊模式下進行網路耦合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1024: Cyclic communication mode with current network configuration not possible</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001704Z" creationid="CCYU" creationdate="20150114T001628Z">
+        <seg>1023：無法於現有網路設置下進入週期性通訊模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1025: Value of parameter in connection with holding brake not allowed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001849Z" creationid="CCYU" creationdate="20150114T001849Z">
+        <seg>1025：連接之參數值不允許用於啟動煞車時</seg>
       </tuv>
     </tu>
     <tu>
