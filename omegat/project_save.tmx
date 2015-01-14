@@ -7446,6 +7446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to &lt;t4/&gt;choice&lt;t5/&gt; the center will be corrected automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T144957Z" creationid="CCYU" creationdate="20150114T144957Z">
+        <seg>中心會依據選擇自動校正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>According to Decision of the Commission of 24 June 1996 (96/582/EC) (OJ L 254 of 08.10.96&lt;t0/&gt; &lt;t1/&gt;p.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140722T021730Z">
@@ -57152,6 +57160,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140913T041627Z">
         <seg>此非遽變性的現象於集集大地震發生後 3 到 5 天由當地居民所發現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;option&lt;t1/&gt; &lt;t2/&gt;impact sound grinding&lt;t3/&gt; offers the possibility to verify whether the grinding is still centered between the tooth flanks before the automatic grinding is started.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T144910Z" creationid="CCYU" creationdate="20150114T144910Z">
+        <seg>&lt;t2/&gt;衝擊音波研磨&lt;t3/&gt;選項可於自動研磨啟動前確認研磨是否仍位於齒側之間的中心。</seg>
       </tuv>
     </tu>
     <tu>
