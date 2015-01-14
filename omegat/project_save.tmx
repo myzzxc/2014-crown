@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;t0/&gt;This can also be done &lt;t1/&gt;by shortly pressing the &lt;t2/&gt;L5&lt;t3/&gt; key&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T150034Z" creationid="CCYU" creationdate="20150114T150034Z">
+        <seg>（也可藉由點擊 L5 按鍵達成）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;t0/&gt;VOCV 814.018 VOC regulation CH&lt;t1/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T101434Z">
@@ -7562,6 +7570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141221T091320Z" creationid="Judy" creationdate="20141221T091320Z">
         <seg>行動導向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate/deactivate m&lt;t0/&gt;easuring for the next workpiece</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145953Z" creationid="CCYU" creationdate="20150114T145953Z">
+        <seg>啟動 / 停用下一工件之測量</seg>
       </tuv>
     </tu>
     <tu>
@@ -43480,6 +43496,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next piece&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145934Z" creationid="CCYU" creationdate="20150114T145934Z">
+        <seg>下一工件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MAE" changedate="20140807T064136Z">
@@ -45404,6 +45428,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T092429Z">
         <seg>僅由授權之專業轉銷商或合格的人員進行維修。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only if this box is ticked, the measuring will be taken&lt;t0/&gt;.&lt;t1/&gt; A measuring will</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145841Z" creationid="CCYU" creationdate="20150114T145841Z">
+        <seg>僅於勾選此方塊時將進行量測，</seg>
       </tuv>
     </tu>
     <tu>
@@ -84790,6 +84822,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141005T131617Z">
         <seg>使用環境管理系統 (ISO 14001)；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>then &lt;t0/&gt;be taken automatically in case of the following events:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T145855Z" creationid="CCYU" creationdate="20150114T145855Z">
+        <seg>量測將於下列情況下自動進行：</seg>
       </tuv>
     </tu>
     <tu>
