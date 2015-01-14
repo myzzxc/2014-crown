@@ -5267,6 +5267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Avoid damage to the crown and supporting face&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133350Z" creationid="CCYU" creationdate="20150114T133350Z">
+        <seg>避免損壞冠部和支稱面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t1/&gt;Before use, the protective gloves should be tested in any case for its specific work-station suitability (i.e. mechanical resistance, product compatibility and antistatic properties).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140807T134221Z">
@@ -5527,6 +5535,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140714T100157Z">
         <seg>&lt;t3/&gt;3&lt;t4/&gt;除了 ISO 898 符合 2 英吋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;Align the screw holes in the flange with thread holes in the spindle (see diagram&lt;t4/&gt; below&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133444Z" creationid="CCYU" creationdate="20150114T133444Z">
+        <seg>對齊法蘭上的螺絲孔與主軸螺紋孔（請見下圖）</seg>
       </tuv>
     </tu>
     <tu>
@@ -48142,6 +48158,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141025T034621Z" creationid="CCYU" creationdate="20141025T034609Z">
         <seg>將零件 3~9 由零件 1 上拉出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push the grinding worm gently on to the grinding spindle nose&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133322Z" creationid="CCYU" creationdate="20150114T133322Z">
+        <seg>於研磨主軸鼻翼上輕推研磨蝸桿，</seg>
       </tuv>
     </tu>
     <tu>
