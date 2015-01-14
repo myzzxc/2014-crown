@@ -14683,6 +14683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the grinding wheel&lt;t0/&gt; change menu on the machine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132518Z" creationid="CCYU" creationdate="20150114T132518Z">
+        <seg>於機台上選擇砂輪更換之功能選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chopped Wave Lightning Impulse</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141110T134906Z" creationid="CCYU" creationdate="20141110T134906Z">
@@ -43212,6 +43220,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141111T153016Z" creationid="CCYU" creationdate="20141111T153016Z">
         <seg>中性端子未直接接地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never assemble a damaged grinding worm or allow it to</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132301Z" creationid="CCYU" creationdate="20150114T132301Z">
+        <seg>請勿組裝損壞之研磨蝸桿也勿使其旋轉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82045,6 +82061,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140816T162614Z">
         <seg>&lt;t1/&gt;SaveSorb&lt;t2/&gt; 的目標是能為客戶提供其所需服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>r&lt;t0/&gt;o&lt;t1/&gt;tate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T132305Z" creationid="CCYU" creationdate="20150114T132305Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
