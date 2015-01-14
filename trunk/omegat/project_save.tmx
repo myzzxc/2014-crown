@@ -19223,6 +19223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to the profiling of the grinding wheel or the &lt;t0/&gt;temperature &lt;t1/&gt;drift&lt;t2/&gt; o&lt;t3/&gt;f the machine the &lt;t4/&gt;grinding center &lt;t5/&gt;between the tooth flanks which is specified during &lt;t6/&gt;grinding set-up&lt;t7/&gt; &lt;t8/&gt;may slightly diverge&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T144712Z" creationid="CCYU" creationdate="20150114T144712Z">
+        <seg>由於砂輪之加工或機台溫度變化，於&lt;t6/&gt;研磨設定&lt;t7/&gt;中指定介於各齒側之間的機台研磨中心可能略為不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Due to these challenges, many attempts to apply CFD approach on Stirling engines focused on separated components such as combustion chamber of the heater [9].</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140819T073236Z">
