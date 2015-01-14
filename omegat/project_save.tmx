@@ -21688,6 +21688,14 @@ F114: Fehler CNC  …</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fasten the screws with the torque wrench&lt;t0/&gt; to &lt;t1/&gt;40Nm&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133828Z" creationid="CCYU" creationdate="20150114T133828Z">
+        <seg>以扭力板手鎖緊螺絲至  &lt;t1/&gt;40Nm&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fastenings in stand-off installation or with a grout layer are not allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140724T140923Z">
@@ -49626,6 +49634,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove the extension pipe</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133802Z" creationid="CCYU" creationdate="20150114T133802Z">
+        <seg>拆下延伸管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove the filter retainer plugs and inlet orifices from both sides of the body.&lt;t0/&gt; &lt;t1/&gt;The filter will come out with one of the inlet orifices.&lt;t2/&gt; &lt;t3/&gt;Note:&lt;t4/&gt; &lt;t5/&gt;A 2-56 screw will thread into each piece so it can be pulled from the body cavity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T141733Z" creationid="Judy" creationdate="20141022T141733Z">
@@ -51375,6 +51391,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T022328Z">
         <seg>Score&lt;t0/&gt; 計分 &lt;t1/&gt;Exposure&lt;t2/&gt;  暴露 &lt;t3/&gt; Observation 觀察</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screw in the four &lt;t0/&gt;Allen&lt;t1/&gt; screws&lt;t2/&gt; with light pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133750Z" creationid="CCYU" creationdate="20150114T133750Z">
+        <seg>輕鎖四顆內六角螺絲。</seg>
       </tuv>
     </tu>
     <tu>
