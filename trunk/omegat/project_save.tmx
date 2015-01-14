@@ -44640,6 +44640,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Observe the safety &lt;t0/&gt;and clamping &lt;t1/&gt;rules of the manufacturer without fail&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T124723Z" creationid="CCYU" creationdate="20150114T124723Z">
+        <seg>遵循製造商之安全和固定規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Occasional bursts of high partial discharge level may be disregarded.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141112T161314Z" creationid="CCYU" creationdate="20141112T161314Z">
