@@ -1750,6 +1750,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1014: Network command interface is occupied</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T000949Z" creationid="CCYU" creationdate="20150114T000949Z">
+        <seg>1014：網路指令介面被佔用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1016: Maximum cycle time exceeded - CPU load too high</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001033Z" creationid="CCYU" creationdate="20150114T001033Z">
+        <seg>1016：超過最大循環時間 - 中央處理器負載過高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1017: Invalid parameter ID for cyclic read access</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001127Z" creationid="CCYU" creationdate="20150114T001127Z">
+        <seg>1017：循環讀取權限參數 ID 無效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>10: Data block read access not initialized</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T125024Z" creationid="CCYU" creationdate="20150113T125016Z">
@@ -1953,8 +1977,8 @@
       <tuv lang="EN-US">
         <seg>1: Invalid parameter ID</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150113T124540Z" creationid="CCYU" creationdate="20150113T124540Z">
-        <seg>1：不正確參數 ID</seg>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T001135Z" creationid="CCYU" creationdate="20150113T124540Z">
+        <seg>1：參數 ID 無效</seg>
       </tuv>
     </tu>
     <tu>
