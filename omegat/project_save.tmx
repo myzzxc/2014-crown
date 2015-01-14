@@ -45648,6 +45648,22 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Option &lt;t0/&gt;Impact Sound Grinding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T141000Z" creationid="CCYU" creationdate="20150114T141000Z">
+        <seg>選項撞擊音波研磨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option &lt;t0/&gt;Impact Sound Grinding&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T141005Z" creationid="CCYU" creationdate="20150114T141005Z">
+        <seg>選項撞擊音波研磨：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Option &lt;t0/&gt;Profil wheel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T025436Z" creationid="CCYU" creationdate="20150111T025436Z">
