@@ -79023,6 +79023,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extension pipe with thread</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133205Z" creationid="CCYU" creationdate="20150114T133205Z">
+        <seg>含螺紋之延伸管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>external</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141122T030007Z" creationid="Judy" creationdate="20141122T030007Z">
@@ -82697,6 +82705,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>short cone</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133046Z" creationid="CCYU" creationdate="20150114T133046Z">
+        <seg>短錐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>short term temperature +80°C and max long term temperature +50°C).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="HOME" changedate="20140721T030929Z">
@@ -82953,6 +82969,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>spindle nose</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133140Z" creationid="CCYU" creationdate="20150114T133140Z">
+        <seg>主軸鼻翼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>stabilizing winding</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140919T132236Z">
@@ -83061,6 +83085,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20141104T140525Z" creationid="CCYU" creationdate="20141104T140443Z">
         <seg>電阻量測之直流電源電路及電感效應消失前之延遲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>supporting face</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133053Z" creationid="CCYU" creationdate="20150114T133053Z">
+        <seg>支撐面</seg>
       </tuv>
     </tu>
     <tu>
@@ -84558,6 +84590,22 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140920T025319Z">
         <seg>定義 (主抽頭以外之) 特定抽頭負載量的數值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thread holes for fastening screws on the grinding worm (4x&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133042Z" creationid="CCYU" creationdate="20150114T133042Z">
+        <seg>研磨蝸桿上之螺絲安裝孔 (4x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thread section of the balancing hea&lt;t0/&gt;d</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T133131Z" creationid="CCYU" creationdate="20150114T133131Z">
+        <seg>平衡頭之螺紋區段</seg>
       </tuv>
     </tu>
     <tu>
