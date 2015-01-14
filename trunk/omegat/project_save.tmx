@@ -23692,6 +23692,14 @@ B.2.3 感應傳輸</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flange pair</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131610Z" creationid="CCYU" creationdate="20150114T131610Z">
+        <seg>法蘭對</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flapper</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20141022T105846Z" creationid="Judy" creationdate="20141022T105846Z">
@@ -27179,6 +27187,22 @@ B.2.3 感應傳輸</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T012955Z" creationid="CCYU" creationdate="20150111T011012Z">
         <seg>具有短錐之砂輪法蘭必須使用專用轉接器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding worm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131620Z" creationid="CCYU" creationdate="20150114T131620Z">
+        <seg>研磨蝸桿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grinding worm flange</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131602Z" creationid="CCYU" creationdate="20150114T131602Z">
+        <seg>研磨蝸桿法蘭</seg>
       </tuv>
     </tu>
     <tu>
@@ -52515,6 +52539,14 @@ L&lt;t9/&gt;WA</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Socket screws M8 tighten with torque wrench crosswise to &lt;t0/&gt;20Nm</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131546Z" creationid="CCYU" creationdate="20150114T131546Z">
+        <seg>使用 M8 內六角螺絲以扭力板手鎖緊至 &lt;t0/&gt;20Nm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Softening point/range</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20140809T110910Z">
@@ -60064,6 +60096,14 @@ L&lt;t9/&gt;WA</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T124949Z" creationid="CCYU" creationdate="20150114T124929Z">
         <seg>研磨蝸桿必須註冊並驗證符合 63 m/s 之外圍速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The grinding worm must fit the flange with very little play</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T131426Z" creationid="CCYU" creationdate="20150114T131426Z">
+        <seg>研磨蝸桿必須與法蘭吻合，僅有非常微小的間隙</seg>
       </tuv>
     </tu>
     <tu>
