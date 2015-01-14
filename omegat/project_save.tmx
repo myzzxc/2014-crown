@@ -5186,6 +5186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;The &lt;t1/&gt;current measuring interval will be displayed in the large &lt;t2/&gt;listbox&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151748Z" creationid="CCYU" creationdate="20150114T151748Z">
+        <seg>目前量測間隔將顯示於大清單方塊中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The following is excluded under&lt;t1/&gt; &lt;t2/&gt;the warranty:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20140621T074800Z">
@@ -5615,6 +5623,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Judy" changedate="20140818T174903Z">
         <seg>&lt;t4/&gt;( 0.08&lt;t5/&gt; - 0.12 克 / 公分) 水含量：10-15 重量 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t4/&gt;After profiling the measuring interval will always halve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151840Z" creationid="CCYU" creationdate="20150114T151840Z">
+        <seg>加工後量測間隔將減半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,6 +11676,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150111T151316Z" creationid="CCYU" creationdate="20150111T151316Z">
         <seg>齒條自動加工設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto &lt;t0/&gt;center&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151938Z" creationid="CCYU" creationdate="20150114T151938Z">
+        <seg>自動中心：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31641,6 +31665,14 @@ ISO 14122 (所有部份)，機械安全 — 永久性進入機台方式 (Safety 
       </tuv>
       <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151540Z" creationid="CCYU" creationdate="20150114T151540Z">
         <seg>若偏差小於右邊方塊中輸入之數值 [µ]，量測間隔將加倍（於第 2、4、8 個工件後量測）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the deviation measured is &gt;= “2 x value [µ]” the current measuring interval will halve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="CCYU" changedate="20150114T151650Z" creationid="CCYU" creationdate="20150114T151650Z">
+        <seg>若量測偏差量 &gt;= “2 x 數值 [µ]”，量測間隔將減半。</seg>
       </tuv>
     </tu>
     <tu>
